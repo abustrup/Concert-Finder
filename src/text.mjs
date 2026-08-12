@@ -76,10 +76,24 @@ const SPLIT_RX =
  * known-inseparable pattern collapses back. Getting this wrong invents artists
  * that do not exist, which then fail to match anything and quietly cost recall.
  */
+// Billing furniture that is not part of anybody's name. These came out of the
+// real corpus: "Support: TBA — Spillestedet Stengade" was one of the most
+// frequent "artists" in the first harvest, and "[UK]" country brackets stopped
+// bands matching their own name in a listening history.
+function stripBillingNoise(raw) {
+  return String(raw)
+    .replace(/^\s*(?:support|supp|opvarmning|gæst|guest)\s*[:.\-–]\s*/i, '')
+    .replace(/\s*[—–]\s*(?:spillestedet\s+)?[A-ZÆØÅ][\wÆØÅæøå' .]{2,24}\s*$/u, '')
+    .replace(/\s*[\[(]\s*(?:[A-Z]{2,3})\s*[\])]\s*/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+}
+
 export function splitCredits(raw) {
   if (!raw) return []
-  const s = String(raw).trim()
+  const s = stripBillingNoise(String(raw).trim())
   if (!s) return []
+  if (/^(?:tba|tbc|support|announced soon)$/i.test(s)) return []
 
   // Bands whose names contain a separator. A split here is always wrong.
   if (/\b(?:and|&)\s+the\s+/i.test(s)) return [s]

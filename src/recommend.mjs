@@ -75,6 +75,34 @@ export function buildTaste(artists, opts = {}) {
   return { byKey, names, size: names.length, tags: opts.tags || new Map() }
 }
 
+// MusicBrainz tag votes can be NEGATIVE — the community downvotes a wrong tag,
+// and Mogwai's "ambient" sits at -1. Left alone, a negative vote becomes a
+// negative component in a cosine vector, which does not mean "less like this",
+// it means the maths stops describing anything.
+//
+// Nationality tags are dropped for a different reason: "danish" is already the
+// country field, and leaving it in the genre vector makes every Danish artist
+// look like every other Danish artist regardless of what they sound like.
+const TAG_STOPLIST = new Set([
+  'danish', 'dansk', 'denmark', 'norwegian', 'swedish', 'finnish', 'icelandic',
+  'nordic', 'scandinavian', 'british', 'american', 'english', 'german', 'french',
+  'seen live', 'favorites', 'favourites', 'awesome', 'good', 'male vocalists',
+  'female vocalists', 'under 2000 listeners', 'spotify',
+])
+
+export function tagWeight(t) {
+  const count = typeof t === 'string' ? 1 : t.count
+  // A downvoted tag contributes nothing; it never subtracts.
+  if (typeof count === 'number' && count <= 0) return 0
+  return typeof count === 'number' ? count : 1
+}
+
+export function usableTag(t) {
+  const name = (typeof t === 'string' ? t : t?.name || '').toLowerCase().trim()
+  if (!name || TAG_STOPLIST.has(name)) return null
+  return name
+}
+
 /** The user's genre profile, read off whichever of their artists we know. */
 export function tasteTagVector(taste, artistIndex) {
   const vec = new Map()
@@ -83,9 +111,9 @@ export function tasteTagVector(taste, artistIndex) {
     const idx = lookupArtist(artistIndex, a.name)
     if (!idx?.tags?.length) continue
     for (const t of idx.tags) {
-      const tag = typeof t === 'string' ? t : t.name
-      const w = typeof t === 'string' ? 1 : t.count || 1
-      if (!tag) continue
+      const tag = usableTag(t)
+      const w = tagWeight(t)
+      if (!tag || w <= 0) continue
       vec.set(tag, (vec.get(tag) || 0) + a.weight * w)
     }
   }
@@ -195,7 +223,11 @@ export function scoreEvent(event, taste, artistIndex, userTags, opts = DEFAULTS)
 
     if (userTags?.size && idx.tags?.length) {
       const evTags = normalizeVector(
-        new Map(idx.tags.map((t) => [typeof t === 'string' ? t : t.name, typeof t === 'string' ? 1 : t.count || 1]))
+        new Map(
+          idx.tags
+            .map((t) => [usableTag(t), tagWeight(t)])
+            .filter(([name, w]) => name && w > 0)
+        )
       )
       const sim = cosine(userTags, evTags)
       if (sim > 0.12) {
@@ -240,7 +272,7 @@ function eventSimilarity(a, b, artistIndex) {
     for (const name of r.event.artists || []) {
       const idx = lookupArtist(artistIndex, name)
       for (const t of idx?.tags || []) {
-        const tag = typeof t === 'string' ? t : t.name
+        const tag = usableTag(t)
         if (tag) m.set(tag, (m.get(tag) || 0) + 1)
       }
     }
@@ -261,7 +293,7 @@ function eventSimilarity(a, b, artistIndex) {
  * is already picked. Without this, a person whose top artist has three Danish
  * dates gets three near-identical rows and eleven months of nothing.
  */
-function selectMMR(candidates, count, opts, artistIndex) {
+function selectMMR(candidates, count, opts, artistIndex, discoveryQuota = 0) {
   const chosen = []
   const pool = [...candidates]
   const usedArtists = new Map()
@@ -287,11 +319,22 @@ function selectMMR(candidates, count, opts, artistIndex) {
     if (v) usedVenues.set(v, (usedVenues.get(v) || 0) + 1)
   }
 
+  const isDiscovery = (c) => c.best?.kind !== 'direct'
+
   while (chosen.length < count && pool.length) {
+    // Reserve the discovery places INSIDE the loop rather than swapping them in
+    // afterwards. The old post-hoc swap could drop a chosen pick and add a
+    // replacement that reused an artist or a venue already spent, quietly
+    // breaking the one-show-per-artist promise the whole list rests on.
+    const slotsLeft = count - chosen.length
+    const stillNeedDiscovery = Math.max(0, discoveryQuota - chosen.filter(isDiscovery).length)
+    const mustBeDiscovery = stillNeedDiscovery >= slotsLeft
+
     let bestIdx = -1
     let bestVal = -Infinity
     for (let i = 0; i < pool.length; i++) {
       const c = pool[i]
+      if (mustBeDiscovery && !isDiscovery(c)) continue
       if (!admissible(c)) continue
       let maxSim = 0
       for (const s of chosen) {
@@ -304,7 +347,15 @@ function selectMMR(candidates, count, opts, artistIndex) {
         bestIdx = i
       }
     }
-    if (bestIdx < 0) break
+    if (bestIdx < 0) {
+      // Nothing discovery-shaped is left. Better a full list of honest direct
+      // matches than an artificially short one.
+      if (mustBeDiscovery && discoveryQuota > 0) {
+        discoveryQuota = 0
+        continue
+      }
+      break
+    }
     commit(pool.splice(bestIdx, 1)[0])
   }
   return { chosen, rest: pool }
@@ -378,26 +429,42 @@ export function recommend({ taste, events, artistIndex, options = {} }) {
   }
   scored.sort((a, b) => b.rank - a.rank)
 
-  const { chosen, rest } = selectMMR(scored, opts.count, opts, index)
-
-  // Reserve slots for things they do not already listen to. A list made only of
-  // direct hits is a diary, not a recommendation — but this never invents a
-  // pick: it only reorders which qualifying candidates get the last places.
-  const wantDiscovery = Math.min(opts.discoverySlots, Math.floor(opts.count / 3))
-  let picks = chosen
-  const isDiscovery = (c) => c.best?.kind !== 'direct'
-  if (wantDiscovery > 0 && chosen.length) {
-    const have = chosen.filter(isDiscovery).length
-    if (have < wantDiscovery) {
-      const need = wantDiscovery - have
-      const candidates = rest.filter(isDiscovery).slice(0, need)
-      if (candidates.length) {
-        const directs = chosen.filter((c) => !isDiscovery(c))
-        const drop = new Set(directs.slice(-candidates.length))
-        picks = [...chosen.filter((c) => !drop.has(c)), ...candidates]
-      }
+  // One artist, several dates: keep the smallest room.
+  //
+  // Only one date per artist can be picked anyway, so this is purely about
+  // which. The evidence is identical across an artist's own dates, so ranking
+  // decides it by accident; a club show of a band you love is a better night
+  // than the same band in an arena, and capacity is known for every event.
+  const bestPerArtist = new Map()
+  const CAPACITY_ORDER = { club: 0, mid: 1, large: 2, arena: 3 }
+  for (const r of scored) {
+    const key = foldName(r.best?.artist || r.event.headliner || r.event.title)
+    const prev = bestPerArtist.get(key)
+    if (!prev) {
+      bestPerArtist.set(key, r)
+      continue
     }
+    const closeEnough = r.rank >= prev.rank * 0.9
+    const smaller =
+      (CAPACITY_ORDER[r.event.venue?.sizeClass] ?? 9) < (CAPACITY_ORDER[prev.event.venue?.sizeClass] ?? 9)
+    if (r.rank > prev.rank || (closeEnough && smaller)) bestPerArtist.set(key, r)
   }
+  const deduped = scored.filter((r) => bestPerArtist.get(foldName(r.best?.artist || r.event.headliner || r.event.title)) === r)
+
+  // Confidence scales the list. When only a few of a person's artists are
+  // actually playing, twelve picks would mean nine built on genre similarity
+  // alone, which is how a shortlist turns back into a listings page.
+  const matchedArtistCount = new Set(
+    scored.flatMap((r) => r.evidence.filter((e) => e.kind === 'direct').map((e) => e.via))
+  ).size
+  const confidenceCap = Math.max(opts.minCount, matchedArtistCount * 2)
+  const effectiveCount = Math.min(opts.count, confidenceCap)
+
+  const wantDiscoveryQuota = Math.min(opts.discoverySlots, Math.floor(effectiveCount / 3))
+  const { chosen, rest } = selectMMR(deduped, effectiveCount, opts, index, wantDiscoveryQuota)
+
+  const isDiscoveryPick = (c) => c.best?.kind !== 'direct'
+  const picks = chosen
 
   picks.sort((a, b) => a.event.startDate.localeCompare(b.event.startDate))
 
@@ -409,19 +476,23 @@ export function recommend({ taste, events, artistIndex, options = {} }) {
       ...p,
       why: explain(p, opts.lang || 'en'),
       whyDa: explain(p, 'da'),
-      discovery: isDiscovery(p),
+      discovery: isDiscoveryPick(p),
     })),
     diagnostics: {
       askedFor: opts.count,
+      cappedAt: effectiveCount < opts.count ? effectiveCount : null,
+      matchedArtistCount,
       returned: picks.length,
       short: picks.length < opts.count,
       // A code, not a sentence: the page is bilingual and the reason is shown
       // to the person, so it cannot be English prose decided here.
       shortReason:
         picks.length < opts.count
-          ? scored.length < opts.count
+          ? effectiveCount < opts.count
             ? 'thin-evidence'
-            : 'variety-limit'
+            : scored.length < opts.count
+              ? 'thin-evidence'
+              : 'variety-limit'
           : null,
       eventsConsidered: filtered.length,
       eventsScored: scored.length,
@@ -429,7 +500,7 @@ export function recommend({ taste, events, artistIndex, options = {} }) {
       tasteSize: taste.size,
       tasteArtistsMatched: matchedArtists.size,
       filtered: filterCounts,
-      discoveryPicks: picks.filter(isDiscovery).length,
+      discoveryPicks: picks.filter(isDiscoveryPick).length,
       window: { from, to },
       scoreRange: scored.length ? { top: scored[0].score, floor: opts.minScore } : null,
     },
