@@ -131,7 +131,7 @@
 
 
 <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="MmHFr9tp--5f0jeGovCtsYR0pSloP7c1K90c2h9phE8dXef0tawiIjsz9mstqvzN3M863E3A9_WyzP9zof33XA" />
+<meta name="csrf-token" content="95LmSUIlwGIM1IilbSLznFkKxRRDmnf_LRMma2tGrpFC0q9LCjjIRPHExTs63UFfTOqFuRLSZ4nwjSrV15sAgA" />
 
   
   <meta content="https://billetto.dk/" property="og:url" />
@@ -1111,7 +1111,7 @@ Spring til hovedindhold
   x-data="homepageMap({
     fallbackCenter: [12.5683, 55.6761],
     zoom: 12,
-    bref: 'eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6ImhlYXRtYXBkayIsInQiOjE3ODY1NjUxNDF9'
+    bref: 'eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6ImhlYXRtYXBkayIsInQiOjE3ODY1Njg2OTB9'
   })"
   class="relative w-full rounded-lg overflow-hidden"
   style="height: 330px;"
@@ -1255,15 +1255,15 @@ Spring til hovedindhold
 
             </div>
             <div class="w-full lg:w-1/2">
-              <a class="block text-right space-y-2" href="https://billetto.dk/e/fra-universets-kant-til-atomets-indre-billetter-1963817?bref=eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjFESyIsInQiOjE3ODY1NjUxNDF9">
+              <a class="block text-right space-y-2" href="https://billetto.dk/e/host-mon-festival-billetter-1856723?bref=eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjFESyIsInQiOjE3ODY1Njg2OTB9">
   <div class="rounded-md overflow-hidden relative">
-    <img src="https://billetto.imgix.net/pgjjq4gtxjxrm16tt5vkakmyd324?w=1440&amp;h=810&amp;fit=crop&amp;auto=compress%2Cformat&amp;rect=0%2C0%2C1920%2C1080&amp;s=d325198952e2f3c4d66856881e798125" alt="Fra universets kant til atomets indre" />
+    <img src="https://billetto.imgix.net/1uu110w7jri0kb8v2ghl4j0lcc04?w=1440&amp;h=810&amp;fit=crop&amp;auto=compress%2Cformat&amp;rect=0%2C56%2C1080%2C608&amp;s=fbcd8ce6bf8aeec44df55d545dabfb76" alt="Høst Møn Festival" />
       <div class="absolute top-4 left-4 bg-gray-900/90 text-white px-3 py-1.5 rounded-full text-sm font-medium backdrop-blur-sm">
         Populær begivenhed
       </div>
   </div>
     <span class="font-semibold text-white">
-      Fra universets kant til atomets indre <span aria-hidden="true"> &rarr;</span>
+      Høst Møn Festival <span aria-hidden="true"> &rarr;</span>
     </span>
 </a>
             </div>
@@ -1271,7 +1271,7 @@ Spring til hovedindhold
       </div>
     </div>
     <div class="mb-7">
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_8&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjNESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_8&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjNESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1352,7 +1352,7 @@ Spring til hovedindhold
   </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_961&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdG9kYXkiLCJ0IjoxNzg2NTY1MTQxfQ==&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_961&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdG9kYXkiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1379,7 +1379,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_962&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdGhpcy13ZWVrZW5kIiwidCI6MTc4NjU2NTE0MX0=&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_962&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdGhpcy13ZWVrZW5kIiwidCI6MTc4NjU2ODY5MH0=&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1406,7 +1406,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_87&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjlESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_87&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjlESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1433,7 +1433,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_963&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzTW9udGhESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_963&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzTW9udGhESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1460,7 +1460,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_756&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjRESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_756&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjRESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1487,7 +1487,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_882&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzV2VlazE5REsiLCJ0IjoxNzg2NTY1MTQxfQ==&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_882&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzV2VlazE5REsiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1514,7 +1514,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1328&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWJhc2tldGJhbGwiLCJ0IjoxNzg2NTY1MTQxfQ==&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1328&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWJhc2tldGJhbGwiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1541,7 +1541,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1222&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZlc3RpdmFscyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1222&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZlc3RpdmFscyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1568,7 +1568,7 @@ Spring til hovedindhold
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1349&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLXNwb3RsaWdodCIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1349&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLXNwb3RsaWdodCIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1666,7 +1666,7 @@ Vis mig events
 </section>
 </div>
         <div class="my-3.5"></div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_876&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzQ1BIVGhpc01vbnRoMjFESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_876&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzQ1BIVGhpc01vbnRoMjFESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1693,7 +1693,7 @@ Vis mig events
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_879&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzRnluVGhpc01vbnRoMjJESyIsInQiOjE3ODY1NjUxNDF9&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_879&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzRnluVGhpc01vbnRoMjJESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1720,7 +1720,7 @@ Vis mig events
 </div>
 </div>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_881&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzSnlsbGFuZFRoaXNNb250aDIzREsiLCJ0IjoxNzg2NTY1MTQxfQ==&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_881&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzSnlsbGFuZFRoaXNNb250aDIzREsiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1835,7 +1835,7 @@ Vis mig events
 </div>
 </section>
 </div>
-        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_965&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZyZWUtZXZlbnRzIiwidCI6MTc4NjU2NTE0MX0=&quot;}, 4)'>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_965&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZyZWUtZXZlbnRzIiwidCI6MTc4NjU2ODY5MH0=&quot;}, 4)'>
 <div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
 <div class='flex items-center'>
 <div class='flex-1'>
@@ -1862,5 +1862,6 @@ Vis mig events
 </div>
 </div>
 </div>
-   
+        <div class="my-3.5"></div>
+        <div class="my-3.5">
 <!-- TRIMMED BY recon.mjs -->

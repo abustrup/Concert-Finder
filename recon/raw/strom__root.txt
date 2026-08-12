@@ -30,7 +30,7 @@
 <meta name="twitter:description" content="STRØM…" />
 <meta name="twitter:image" content="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png" />
 <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://strm.dk/#/schema/WebSite","url":"https://strm.dk/","name":"Strøm","inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://strm.dk/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://strm.dk/#/schema/Organization"}},{"@type":"WebPage","@id":"https://strm.dk/","url":"https://strm.dk/","name":"Strøm","description":"STRØM…","inLanguage":"en-GB","isPartOf":{"@id":"https://strm.dk/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://strm.dk/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Strøm"}},"potentialAction":{"@type":"ReadAction","target":"https://strm.dk/"},"about":{"@id":"https://strm.dk/#/schema/Organization"}},{"@type":"Organization","@id":"https://strm.dk/#/schema/Organization","name":"Strøm","url":"https://strm.dk/","logo":{"@type":"ImageObject","url":"https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png","contentUrl":"https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png","width":512,"height":512,"contentSize":"20631"}}]}</script>
-<!-- / The SEO Framework by Sybre Waaijer | 13.99ms meta | 0.59ms boot -->
+<!-- / The SEO Framework by Sybre Waaijer | 11.37ms meta | 0.62ms boot -->
 
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://strm.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrm.dk%2F&#038;lang=en" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://strm.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrm.dk%2F&#038;format=xml&#038;lang=en" />
@@ -301,6 +301,32 @@ window.wireboard('trackPageView', null, customContext);
 <article class="strm-archive__card flex flex-col" style="--i:0">
 
 	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
+					<a href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/"><span><strong>Strøm Current</strong> —  Sofus Forsberg Forever</span></a>
+			</h3>
+
+	<a href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/" class="strm-archive__card-image overflow-hidden block aspect-[4/3]" tabindex="-1" aria-hidden="true">
+					<img width="1000" height="750" src="https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-1000x750.webp" class="w-full h-full object-cover object-center" alt="Strøm Current: Sofus Forsberg Forever" loading="lazy" sizes="auto, (min-width: 768px) 33vw, 100vw" decoding="async" srcset="https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-1000x750.webp 1000w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-900x675.webp 900w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-768x576.webp 768w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-600x450.webp 600w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large.webp 1200w" />			</a>
+
+	<div class="strm-archive__card-labels flex justify-between gap-4 uppercase text-body-lg mt-2 md:mt-4">
+		<span>12.08.2026</span>
+		<span class="shrink-0 text-right">Strøm Current</span>
+	</div>
+
+	<div class="strm-archive__card-excerpt text-body-lg text-left mt-2">
+					A vital force in Danish experimental electronic music, Sofus Forsberg, has passed on to the next dimension. 			</div>
+
+	<a
+		href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/"
+		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
+	>Read more</a>
+
+	<div class="strm-card__spacer" aria-hidden="true"></div>
+
+</article>
+
+<article class="strm-archive__card flex flex-col" style="--i:1">
+
+	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
 					<a href="https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/"><strong>Xuri &amp; John Cleworth:</strong> A Place of Transit</a>
 			</h3>
 
@@ -325,7 +351,7 @@ window.wireboard('trackPageView', null, customContext);
 
 </article>
 
-<article class="strm-archive__card flex flex-col" style="--i:1">
+<article class="strm-archive__card flex flex-col" style="--i:2">
 
 	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
 					<a href="https://strm.dk/articles/strom-mixx-053-silva-snipa/">Strøm Mixx 053: <strong>Silva Snipa</strong></a>
@@ -344,33 +370,6 @@ window.wireboard('trackPageView', null, customContext);
 
 	<a
 		href="https://strm.dk/articles/strom-mixx-053-silva-snipa/"
-		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
-	>Read more</a>
-
-	<div class="strm-card__spacer" aria-hidden="true"></div>
-
-</article>
-
-<article class="strm-archive__card flex flex-col" style="--i:2">
-
-	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
-					<a href="https://strm.dk/events/masterclass_with_talons_main_phase/">Strøm x TYFC: Masterclass w. <strong>Talons and Main Phase</strong></a>
-			</h3>
-
-	<a href="https://strm.dk/events/masterclass_with_talons_main_phase/" class="strm-archive__card-image overflow-hidden block aspect-[4/3]" tabindex="-1" aria-hidden="true">
-					<img width="1000" height="563" src="https://strm.dk/wp-content/uploads/Tyfc01-1000x563.png" class="w-full h-full object-cover object-center" alt="Strøm x TYFC: Masterclass with Talons and Main Phase" loading="lazy" decoding="async" srcset="https://strm.dk/wp-content/uploads/Tyfc01-1000x563.png 1000w, https://strm.dk/wp-content/uploads/Tyfc01-600x338.webp 600w, https://strm.dk/wp-content/uploads/Tyfc01-900x506.png 900w, https://strm.dk/wp-content/uploads/Tyfc01-768x432.png 768w, https://strm.dk/wp-content/uploads/Tyfc01-1600x900.png 1600w, https://strm.dk/wp-content/uploads/Tyfc01-1536x864.png 1536w, https://strm.dk/wp-content/uploads/Tyfc01.webp 1920w" sizes="auto, (max-width: 1000px) 100vw, 1000px" />			</a>
-
-	<div class="strm-archive__card-labels flex justify-between gap-4 uppercase text-body-lg mt-2 md:mt-4">
-		<span>
-			29.05.2026					</span>
-		<span class="shrink-0 text-right">EVENT</span>
-	</div>
-
-	<div class="strm-archive__card-excerpt text-body-lg text-left mt-2">
-					Renowned producers, friends and labelmates Main Phase and Talons (Adam Emil Schierbeck and Bjarke Bech) present an exclusive masterclass and Q&amp;A: Going over production techniques,&hellip;			</div>
-
-	<a
-		href="https://strm.dk/events/masterclass_with_talons_main_phase/"
 		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
 	>Read more</a>
 
@@ -529,4 +528,3 @@ Kødboderne 30<br />
 
 </body>
 </html>
-<!-- Cache Enabler by KeyCDN @ Wed, 12 Aug 2026 17:13:33 GMT (https-index.html.gz) -->

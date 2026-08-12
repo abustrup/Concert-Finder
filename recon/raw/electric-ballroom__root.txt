@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8" />
+	<title>Home - Electric Ballroom</title>
+
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+	<link rel="stylesheet" href="https://use.typekit.net/xic5pwe.css">
+
+	<link href="https://electricballroom.co.uk/wp-content/themes/electricballroom/img/icons/favicon.ico" rel="shortcut icon">
+  <link href="https://electricballroom.co.uk/wp-content/themes/electricballroom/img/icons/touch.png" rel="apple-touch-icon-precomposed">
+
+  <link rel="stylesheet" href="https://electricballroom.co.uk/wp-content/themes/electricballroom/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!--[if lt IE 9]>
+  	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script>
+  <![endif]-->
+<meta name="google-site-verification" content="vj5E0xmwEE5j3ylVVZKEgCtPo56CTDHCg4z2CObCk-A" />
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<meta name="description" content="Legendary venue and the heart of Camden Town since 1938" />
+	<link rel="canonical" href="https://electricballroom.co.uk/" />
+	<meta property="og:locale" content="en_GB" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Home - Electric Ballroom" />
+	<meta property="og:description" content="Legendary venue and the heart of Camden Town since 1938" />
+	<meta property="og:url" content="https://electricballroom.co.uk/" />
+	<meta property="og:site_name" content="Electric Ballroom" />
+	<meta property="article:publisher" content="https://www.facebook.com/electricballroomcamden" />
+	<meta property="article:modified_time" content="2026-08-10T09:19:30+00:00" />
+	<meta property="og:image" content="https://electricballroom.co.uk/wp-content/uploads/2014/04/Front-Page.png" />
+	<meta property="og:image:width" content="188" />
+	<meta property="og:image:height" content="188" />
+	<meta property="og:image:type" content="image/png" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:description" content="Legendary venue and the heart of Camden Town since 1938" />
+	<meta name="twitter:site" content="@EBallroomCamden" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/electricballroom.co.uk\/","url":"https:\/\/electricballroom.co.uk\/","name":"Home - Electric Ballroom","isPartOf":{"@id":"https:\/\/electricballroom.co.uk\/#website"},"about":{"@id":"https:\/\/electricballroom.co.uk\/#organization"},"primaryImageOfPage":{"@id":"https:\/\/electricballroom.co.uk\/#primaryimage"},"image":{"@id":"https:\/\/electricballroom.co.uk\/#primaryimage"},"thumbnailUrl":"https:\/\/electricballroom.co.uk\/wp-content\/uploads\/2014\/04\/Front-Page.png","datePublished":"2025-03-12T12:33:25+00:00","dateModified":"2026-08-10T09:19:30+00:00","description":"Legendary venue and the heart of Camden Town since 1938","breadcrumb":{"@id":"https:\/\/electricballroom.co.uk\/#breadcrumb"},"inLanguage":"en-GB","potentialAction":[{"@type":"ReadAction","target":["https:\/\/electricballroom.co.uk\/"]}]},{"@type":"ImageObject","inLanguage":"en-GB","@id":"https:\/\/electricballroom.co.uk\/#primaryimage","url":"https:\/\/electricballroom.co.uk\/wp-content\/uploads\/2014\/04\/Front-Page.png","contentUrl":"https:\/\/electricballroom.co.uk\/wp-content\/uploads\/2014\/04\/Front-Page.png","width":188,"height":188},{"@type":"BreadcrumbList","@id":"https:\/\/electricballroom.co.uk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/electricballroom.co.uk\/#website","url":"https:\/\/electricballroom.co.uk\/","name":"Electric Ballroom","description":"Legendary venue and the heart of Camden Town since 1938","publisher":{"@id":"https:\/\/electricballroom.co.uk\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/electricballroom.co.uk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-GB"},{"@type":"Organization","@id":"https:\/\/electricballroom.co.uk\/#organization","name":"The Electric Ballroom","url":"https:\/\/electricballroom.co.uk\/","logo":{"@type":"ImageObject","inLanguage":"en-GB","@id":"https:\/\/electricballroom.co.uk\/#\/schema\/logo\/image\/","url":"https:\/\/i1.wp.com\/electricballroom.co.uk\/wp-content\/uploads\/2017\/12\/eb_logo.png?fit=500%2C502&ssl=1","contentUrl":"https:\/\/i1.wp.com\/electricballroom.co.uk\/wp-content\/uploads\/2017\/12\/eb_logo.png?fit=500%2C502&ssl=1","width":500,"height":502,"caption":"The Electric Ballroom"},"image":{"@id":"https:\/\/electricballroom.co.uk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/electricballroomcamden","https:\/\/x.com\/EBallroomCamden"]}]}</script>
+	<meta name="google-site-verification" content="It3hRaV_g8kNyZv8ATUNjmrJRp_tdMHS8wlfVXFgzVU" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//ajax.googleapis.com' />
+<link rel="alternate" type="application/rss+xml" title="Electric Ballroom &raquo; Home Comments Feed" href="https://electricballroom.co.uk/home-2/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://electricballroom.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Felectricballroom.co.uk%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://electricballroom.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Felectricballroom.co.uk%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='fancybox-css' href='https://electricballroom.co.uk/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.css?ver=26d7af5544946427884598d744bd7307' media='screen' />
+<style id="fancybox-inline-css">
+#fancybox-content{border-color:#fff;}
+/*# sourceURL=fancybox-inline-css */
+</style>
+<script id="jquery-js" src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js?ver=1"></script>
+<link rel="https://api.w.org/" href="https://electricballroom.co.uk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://electricballroom.co.uk/wp-json/wp/v2/pages/10738" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://electricballroom.co.uk/xmlrpc.php?rsd" />
+
+<link rel='shortlink' href='https://electricballroom.co.uk/' />
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		if (window.wfLogHumanRan) { return; }
+		window.wfLogHumanRan = true;
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//electricballroom.co.uk/?wordfence_lh=1&hid=87073BEB612E220164947F6A29F19D95');
+</script><link rel="icon" href="https://electricballroom.co.uk/wp-content/uploads/2017/08/eb_logo-90x90.png" sizes="32x32" />
+<link rel="icon" href="https://electricballroom.co.uk/wp-content/uploads/2017/08/eb_logo.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://electricballroom.co.uk/wp-content/uploads/2017/08/eb_logo.png" />
+<meta name="msapplication-TileImage" content="https://electricballroom.co.uk/wp-content/uploads/2017/08/eb_logo.png" />
+<style id="wp-custom-css">
+.gallery-caption {
+    font-size: 13px;
+}
+
+</style>
+</head>
+<body>
+	<svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+			<symbol id="icon-facebook" viewBox="0 0 32 32">
+<title>facebook</title>
+<path d="M26 0h6v32h-9.867v-12.4h4.133l0.667-4.8h-4.8v-3.067c0-1.333 0.4-2.4 2.4-2.4h2.533v-4.267c-0.4 0-2-0.133-3.733-0.133-3.733 0-6.267 2.267-6.267 6.4v3.6h-4.133v4.8h4.133v12.267h-17.067v-32h26z"></path>
+</symbol>
+<symbol id="icon-twitter" viewBox="0 0 32 32">
+<title>twitter</title>
+<path d="M26.667 10c-0.8 0.4-1.6 0.533-2.533 0.667 0.933-0.533 1.6-1.467 2-2.4-0.8 0.533-1.733 0.933-2.8 1.067-0.8-0.8-2-1.333-3.2-1.333-2.4 0-4.4 2-4.4 4.4 0 0.4 0 0.667 0.133 1.067-3.6-0.133-6.933-1.867-9.067-4.533-0.4 0.667-0.667 1.467-0.667 2.267 0 1.467 0.667 2.8 1.867 3.6-0.667 0-1.467-0.267-2.133-0.533v0c0 2.133 1.6 3.867 3.6 4.267-0.267 0-0.533 0.133-0.933 0.133-0.267 0-0.533 0-0.8-0.133 0.533 1.733 2.133 2.933 4.133 3.067-1.467 1.2-3.333 1.867-5.467 1.867-0.4 0-0.667 0-1.067 0 2 1.2 4.267 1.867 6.667 1.867 8 0 12.4-6.667 12.4-12.4 0-0.133 0-0.4 0-0.533 0.933-0.667 1.733-1.467 2.267-2.4v0zM32 0v32h-32v-32h32z"></path>
+</symbol>
+		<symbol id="icon-close" viewBox="0 0 24 24">
+		<title>close</title>
+		<path d="M18.984 6.422l-5.578 5.578 5.578 5.578-1.406 1.406-5.578-5.578-5.578 5.578-1.406-1.406 5.578-5.578-5.578-5.578 1.406-1.406 5.578 5.578 5.578-5.578z"></path>
+		</symbol>
+		<symbol id="icon-menu" viewBox="0 0 24 24">
+		<title>menu</title>
+		<path d="M3 6h18v2.016h-18v-2.016zM3 12.984v-1.969h18v1.969h-18zM3 18v-2.016h18v2.016h-18z"></path>
+		</symbol>
+		<symbol id="icon-instagram" viewBox="0 0 32 32">
+		<title>instagram</title>
+		<path d="M16 2.881c4.275 0 4.781 0.019 6.462 0.094 1.563 0.069 2.406 0.331 2.969 0.55 0.744 0.288 1.281 0.638 1.837 1.194 0.563 0.563 0.906 1.094 1.2 1.838 0.219 0.563 0.481 1.412 0.55 2.969 0.075 1.688 0.094 2.194 0.094 6.463s-0.019 4.781-0.094 6.463c-0.069 1.563-0.331 2.406-0.55 2.969-0.288 0.744-0.637 1.281-1.194 1.837-0.563 0.563-1.094 0.906-1.837 1.2-0.563 0.219-1.413 0.481-2.969 0.55-1.688 0.075-2.194 0.094-6.463 0.094s-4.781-0.019-6.463-0.094c-1.563-0.069-2.406-0.331-2.969-0.55-0.744-0.288-1.281-0.637-1.838-1.194-0.563-0.563-0.906-1.094-1.2-1.837-0.219-0.563-0.481-1.413-0.55-2.969-0.075-1.688-0.094-2.194-0.094-6.463s0.019-4.781 0.094-6.463c0.069-1.563 0.331-2.406 0.55-2.969 0.288-0.744 0.638-1.281 1.194-1.838 0.563-0.563 1.094-0.906 1.838-1.2 0.563-0.219 1.412-0.481 2.969-0.55 1.681-0.075 2.188-0.094 6.463-0.094zM16 0c-4.344 0-4.887 0.019-6.594 0.094-1.7 0.075-2.869 0.35-3.881 0.744-1.056 0.412-1.95 0.956-2.837 1.85-0.894 0.888-1.438 1.781-1.85 2.831-0.394 1.019-0.669 2.181-0.744 3.881-0.075 1.713-0.094 2.256-0.094 6.6s0.019 4.887 0.094 6.594c0.075 1.7 0.35 2.869 0.744 3.881 0.413 1.056 0.956 1.95 1.85 2.837 0.887 0.887 1.781 1.438 2.831 1.844 1.019 0.394 2.181 0.669 3.881 0.744 1.706 0.075 2.25 0.094 6.594 0.094s4.888-0.019 6.594-0.094c1.7-0.075 2.869-0.35 3.881-0.744 1.050-0.406 1.944-0.956 2.831-1.844s1.438-1.781 1.844-2.831c0.394-1.019 0.669-2.181 0.744-3.881 0.075-1.706 0.094-2.25 0.094-6.594s-0.019-4.887-0.094-6.594c-0.075-1.7-0.35-2.869-0.744-3.881-0.394-1.063-0.938-1.956-1.831-2.844-0.887-0.887-1.781-1.438-2.831-1.844-1.019-0.394-2.181-0.669-3.881-0.744-1.712-0.081-2.256-0.1-6.6-0.1v0z"></path>
+		<path d="M16 7.781c-4.537 0-8.219 3.681-8.219 8.219s3.681 8.219 8.219 8.219 8.219-3.681 8.219-8.219c0-4.537-3.681-8.219-8.219-8.219zM16 21.331c-2.944 0-5.331-2.387-5.331-5.331s2.387-5.331 5.331-5.331c2.944 0 5.331 2.387 5.331 5.331s-2.387 5.331-5.331 5.331z"></path>
+		<path d="M26.462 7.456c0 1.060-0.859 1.919-1.919 1.919s-1.919-0.859-1.919-1.919c0-1.060 0.859-1.919 1.919-1.919s1.919 0.859 1.919 1.919z"></path>
+		</symbol>
+		</defs>
+	</svg>
+
+	<div class="inner">
+
+  <header>
+		<div class="logo-wrap">
+							<a href="https://electricballroom.co.uk"><img src="https://electricballroom.co.uk/wp-content/uploads/2018/03/eb-logo.svg" alt="Electric Ballroom" width="" height=""></a>
+					</div>
+		<div class="header-right">
+			<nav>
+				<a href="#" class="mobile-nav-link"><svg class="icon icon-menu"><use xlink:href="#icon-menu"></use></svg><svg class="icon icon-close"><use xlink:href="#icon-close"></use></svg></a>
+				<ul id="menu-main-menu" class="menu"><li id="menu-item-19574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-10738 current_page_item menu-item-19574"><a href="https://electricballroom.co.uk/" aria-current="page">Home</a></li>
+<li id="menu-item-241" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-241"><a href="https://electricballroom.co.uk/whats-on/">What’s On</a></li>
+<li id="menu-item-3592" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3592"><a href="https://electricballroom.co.uk/gallery/">Gallery</a></li>
+<li id="menu-item-15036" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15036"><a href="https://electricballroom.co.uk/faq/">FAQ’S</a></li>
+</ul>			</nav>
+			<!--<span class="header-tel">Tel 02074859007</span>-->
+			<span class="header-address">184 CAMDEN HIGH STREET, CAMDEN TOWN, LONDON, NW1 8QP</span>		</div>
+				<div class="anniversary-banner">
+			<img src="https://electricballroom.co.uk/wp-content/uploads/2022/04/timeout-large-corner-4.png" alt="">
+		</div>
+						<div class="bottom-right">
+			<a href="https://www.youtube.com/watch?v=Lxbq_W1mMLs&autoplay=1" class="button light-button big-button">See Inside</a>
+		</div>
+		  </header>
+
+		<main>
+	
+
+  <div class="grid float-in-children">
+	
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/warren-boxing-management/electric-ballroom/3699817" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/warren-boxing-management-3/">
+						<div class="grid-title-overlay">
+							<h2>Warren Boxing Management 19th Sep</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/07/Warren.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/an-irish-shindig/electric-ballroom/3700009" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/an-irish-shindig-3/">
+						<div class="grid-title-overlay">
+							<h2>An Irish Shindig 25th Sep</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/06/2026-An-Irish-Shindig-Poster-V1-Supporting-Acts-A4-1.png');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  						<a class="grid-link" href="https://electricballroom.co.uk/bop-a-lenas-autumn-ball-2026/">
+						<div class="grid-title-overlay">
+							<h2>Bop-A-Lenas Autumn Ball 2026 4th Oct</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/06/Bop.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/reggaeton-party-summer-terrace-fiesta/electric-ballroom/3674874" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/reggaeton-party-summer-terrace-fiesta-camden-courtyard/">
+						<div class="grid-title-overlay">
+							<h2>Reggaeton Party: Summer Terrace Fiesta &#8211; Camden Courtyard! 14th Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/06/ruer_Kgo.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/divorced-dad-rock-terrace-party/electric-ballroom/3695885" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/divorced-dad-rock-party-camden-courtyard/">
+						<div class="grid-title-overlay">
+							<h2>Divorced Dad Rock Terrace Party &#8211; Camden Courtyard 15th Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/07/DDR-London-Insta.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/wait-bleed-nu-metal-day-party/electric-ballroom/3669818" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/wait-bleed-terrace-nu-metal-day-party-camden-courtyard/">
+						<div class="grid-title-overlay">
+							<h2>Wait &#038; Bleed &#8211; Nu Metal Day Party &#8211; Camden Courtyard 21st Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/06/Wait-and-bleed-summer-1080x1350-London.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://ra.co/events/2475211" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/pursuit-of-happiness-camden-courtyard/">
+						<div class="grid-title-overlay">
+							<h2>Pursuit Of Happiness &#8211; – Camden Courtyard 22nd Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/07/Pursuit.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://electricballroom.seetickets.com/event/josh-ross/electric-ballroom/3622740" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/josh-ross/">
+						<div class="grid-title-overlay">
+							<h2>Josh Ross 27th Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/04/Josh-Ross-SQ.jpg');"></div>
+						</a>
+					</div>
+
+					
+		   <div class="grid-block upcoming-artist match">
+			  <a href="https://fixr.co/event/camden-the-80s-summer-outdoor-party-fri-28th-augus-tickets-810929203" target="_blank" class="button light-button top-right">Buy Tickets</a>						<a class="grid-link" href="https://electricballroom.co.uk/the-80s-summer-outdoor-party-camden-courtyard/">
+						<div class="grid-title-overlay">
+							<h2>The 80s Summer Outdoor Party &#8211; Camden Courtyard 28th Aug</h2>
+						</div>
+						<div class="grid-image" style="background-image: url('https://electricballroom.co.uk/wp-content/uploads/2026/05/8os.jpg');"></div>
+						</a>
+					</div>
+
+					
+		  <div class="grid-block wide-block text-block match">
+		<blockquote>
+<h2>The Electric Ballroom is an iconic music venue at the heart of Camden Town&#8217;s bustling community and has been for 80 years.</h2>
+</blockquote>
+<p>It began as a busy Irish club playing host to a wide variety of performers including the likes of Jim Reeves. In the past decades, acts such as Sid Vicious, Madness, The Clash, Richard Ashcroft, Snow Patrol, The Killers, Stereophonics, U2, Phil Lynott, The Boomtown Rats, Joy Division, Red Hot Chilli Peppers, Public Enemy, Blur, Supergrass, Garbage and The Smiths have drawn huge crowds to the venue.</p>
+<p>&nbsp;</p>
+<p>Recent performers include The Vaccines,  Future Islands, Black Rebel Motorcycle Club, Razorlight, Dinosaur Jr, Parquet Courts, Les Savy Fav, Interpol, Ocean Color Scene, Cage the Elephant, The Strypes, Muse, Of Monsters and Men, Foals, Sir Paul McCartney, Alt-J, Megadeth, Kaiser Chiefs, Nero, Prince and many more!</p>
+	  </div>
+	
+	
+  </div> <!-- .grid -->
+
+
+
+<footer class="cf">
+  <ul class="footer-social">
+    <li><a href="https://www.twitter.com/Eballroomcamden" target="_blank"><svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg></a></li>    <li><a href="https://www.facebook.com/electricballroomcamden/" target="_blank"><svg class="icon icon-facebook"><use xlink:href="#icon-facebook"></use></svg></a></li>    <li><a href="https://www.instagram.com/electricballroomcamden" target="_blank"><svg class="icon icon-instagram"><use xlink:href="#icon-instagram"></use></svg></a></li>  </ul>
+  <div class="footer-left">
+  <p>&copy; Electric Ballroom - 2026</p>
+      <nav>
+    <ul id="menu-footer" class="menu"><li id="menu-item-6485" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6485"><a href="https://electricballroom.co.uk/hire/">Hire</a></li>
+<li id="menu-item-6486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6486"><a href="https://electricballroom.co.uk/history/">History</a></li>
+<li id="menu-item-6487" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6487"><a href="https://electricballroom.co.uk/disabled-access/">Disabled Access</a></li>
+<li id="menu-item-6887" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6887"><a href="https://electricballroom.co.uk/faq/">FAQ’S</a></li>
+<li id="menu-item-11707" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11707"><a href="https://electricballroom.co.uk/work-with-us/">Work With Us</a></li>
+<li id="menu-item-14974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14974"><a href="https://electricballroom.co.uk/contact/">Contact Us</a></li>
+</ul>    </nav>
+    </div>
+</footer>
+
+</main>
+
+</div> <!-- .inner -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/electricballroom/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="modernizr-js" src="https://electricballroom.co.uk/wp-content/themes/electricballroom/js/modernizr.js?ver=2.7.1"></script>
+<script id="match-js" src="https://electricballroom.co.uk/wp-content/themes/electricballroom/js/jquery.matchHeight-min.js?ver=0.7.2"></script>
+<script id="isotope-js" src="https://electricballroom.co.uk/wp-content/themes/electricballroom/js/isotope.pkgd.min.js?ver=3.0.5"></script>
+<script id="scripts-js" src="https://electricballroom.co.uk/wp-content/themes/electricballroom/js/scripts.js?ver=1.0.0"></script>
+<script id="fancybox-purify-js" src="https://electricballroom.co.uk/wp-content/plugins/easy-fancybox/vendor/purify.min.js?ver=26d7af5544946427884598d744bd7307"></script>
+<script id="jquery-fancybox-js-extra">
+var efb_i18n = {"close":"Close","next":"Next","prev":"Previous","startSlideshow":"Start slideshow","toggleSize":"Toggle size"};
+//# sourceURL=jquery-fancybox-js-extra
+</script>
+<script id="jquery-fancybox-js" src="https://electricballroom.co.uk/wp-content/plugins/easy-fancybox/fancybox/1.5.4/jquery.fancybox.min.js?ver=26d7af5544946427884598d744bd7307"></script>
+<script id="jquery-fancybox-js-after">
+var fb_timeout, fb_opts={'autoScale':true,'showCloseButton':true,'width':700,'height':394,'margin':20,'pixelRatio':'false','centerOnScroll':true,'enableEscapeButton':true,'overlayShow':true,'hideOnOverlayClick':true,'overlayColor':'#000000','overlayOpacity':0.9,'minViewportWidth':320,'minVpHeight':320,'disableCoreLightbox':'true','enableBlockControls':'true','fancybox_openBlockControls':'true' };
+if(typeof easy_fancybox_handler==='undefined'){
+var easy_fancybox_handler=function(){
+jQuery([".nolightbox","a.wp-block-file__button","a.pin-it-button","a[href*='pinterest.com\/pin\/create']","a[href*='facebook.com\/share']","a[href*='twitter.com\/share']"].join(',')).addClass('nofancybox');
+jQuery('a.fancybox-close').on('click',function(e){e.preventDefault();jQuery.fancybox.close()});
+/* IMG */
+						var unlinkedImageBlocks=jQuery(".wp-block-image > img:not(.nofancybox,figure.nofancybox>img)");
+						unlinkedImageBlocks.wrap(function() {
+							var href = jQuery( this ).attr( "src" );
+							return "<a href='" + href + "'></a>";
+						});
+var fb_IMG_select=jQuery('a[href*=".jpg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpg" i]:not(.nofancybox),a[href*=".jpeg" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".jpeg" i]:not(.nofancybox),a[href*=".png" i]:not(.nofancybox,li.nofancybox>a,figure.nofancybox>a),area[href*=".png" i]:not(.nofancybox)');
+fb_IMG_select.addClass('fancybox image');
+var fb_IMG_sections=jQuery('.gallery,.wp-block-gallery,.tiled-gallery,.wp-block-jetpack-tiled-gallery,.ngg-galleryoverview,.ngg-imagebrowser,.nextgen_pro_blog_gallery,.nextgen_pro_film,.nextgen_pro_horizontal_filmstrip,.ngg-pro-masonry-wrapper,.ngg-pro-mosaic-container,.nextgen_pro_sidescroll,.nextgen_pro_slideshow,.nextgen_pro_thumbnail_grid,.tiled-gallery');
+fb_IMG_sections.each(function(){jQuery(this).find(fb_IMG_select).attr('rel','gallery-'+fb_IMG_sections.index(this));});
+jQuery('a.fancybox,area.fancybox,.fancybox>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'type':'image','transition':'elastic','transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':true,'titlePosition':'over','titleFromAlt':true,'showNavArrows':true,'enableKeyboardNav':true,'cyclic':false,'mouseWheel':'true'}))});
+/* Inline */
+jQuery('a.fancybox-inline,area.fancybox-inline,.fancybox-inline>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'type':'inline','autoDimensions':true,'scrolling':'no','transitionIn':'elastic','easingIn':'easeOutBack','transitionOut':'elastic','easingOut':'easeInBack','opacity':false,'hideOnContentClick':false,'titleShow':false}))});
+/* YouTube */
+jQuery('a[href*="youtu.be/" i],area[href*="youtu.be/" i],a[href*="youtube.com/" i],area[href*="youtube.com/" i]' ).filter(function(){return this.href.match(/\/(?:youtu\.be|watch\?|embed\/)/);}).not('.nofancybox,li.nofancybox>a').addClass('fancybox-youtube');
+jQuery('a.fancybox-youtube,area.fancybox-youtube,.fancybox-youtube>a').each(function(){jQuery(this).fancybox(jQuery.extend(true,{},fb_opts,{'type':'iframe','width':750,'height':422,'padding':0,'keepRatio':1,'aspectRatio':1,'titleShow':false,'titlePosition':'float','titleFromAlt':false,'onStart':function(a,i,o){var splitOn=a[i].href.indexOf("?");var urlParms=(splitOn>-1)?a[i].href.substring(splitOn):"";o.allowfullscreen=(urlParms.indexOf("fs=0")>-1)?false:true;o.href=a[i].href.replace(/https?:\/\/(?:www\.)?youtu(?:\.be\/([^\?]+)\??|be\.com\/watch\?(.*(?=v=))v=([^&]+))(.*)/gi,"https://www.youtube.com/embed/$1$3?$2$4&autoplay=1");}}))});
+};};
+jQuery(easy_fancybox_handler);jQuery(document).on('post-load',easy_fancybox_handler);
+
+//# sourceURL=jquery-fancybox-js-after
+</script>
+<script id="jquery-easing-js" src="https://electricballroom.co.uk/wp-content/plugins/easy-fancybox/vendor/jquery.easing.min.js?ver=1.4.1"></script>
+<script id="jquery-mousewheel-js" src="https://electricballroom.co.uk/wp-content/plugins/easy-fancybox/vendor/jquery.mousewheel.min.js?ver=3.1.13"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://electricballroom.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=26d7af5544946427884598d744bd7307"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://electricballroom.co.uk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+<script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"c5c117d3178f4bff8eacff1363472806","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

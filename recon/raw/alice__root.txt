@@ -195,7 +195,7 @@ var app_vars = {"ajax_url":"https:\/\/alicecph.com\/wp\/wp-admin\/admin-ajax.php
 		<noscript><iframe src="https://ss.alicecph.com/ns.html?id=P5CV4HV"
 		                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		<!-- End Google Tag Manager (noscript) -->
-		<div class="NewsletterSignupBar" data-component="NewsletterSignupBar">    <button class="NewsletterSignupBar__toggle" type="button" aria-expanded="false" aria-controls="newsletter-signup-bar-6a7cd18e15ff0-panel">
+		<div class="NewsletterSignupBar" data-component="NewsletterSignupBar">    <button class="NewsletterSignupBar__toggle" type="button" aria-expanded="false" aria-controls="newsletter-signup-bar-6a7cdf6722690-panel">
         <span class="NewsletterSignupBar__toggle-text">Vil du have koncerttips fra ALICE?</span>
         <div class="Logo NewsletterSignupBar__toggle-logo fill-primary" data-component="Logo">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490.49 477.67" preserveAspectRatio="xMidYMid meet">
@@ -215,7 +215,7 @@ var app_vars = {"ajax_url":"https:\/\/alicecph.com\/wp\/wp-admin\/admin-ajax.php
 
     <div class="NewsletterSignupBar__backdrop" tabindex="-1"></div>
 
-    <div class="NewsletterSignupBar__panel" id="newsletter-signup-bar-6a7cd18e15ff0-panel" aria-hidden="true">
+    <div class="NewsletterSignupBar__panel" id="newsletter-signup-bar-6a7cdf6722690-panel" aria-hidden="true">
         <button class="NewsletterSignupBar__close" type="button" aria-label="Luk nyhedsbrevstilmelding">
             <span aria-hidden="true">&times;</span>
         </button>
@@ -224,7 +224,7 @@ var app_vars = {"ajax_url":"https:\/\/alicecph.com\/wp\/wp-admin\/admin-ajax.php
             <h2>Tilmeld nyhedsbrev</h2>
             <p>Få nyt om koncerter, arrangementer og særlige tilbud fra ALICE.</p>
 
-            <form class="NewsletterSignupBar__form" method="post" action="https://alicecph.activehosted.com/proc.php" target="newsletter-signup-bar-6a7cd18e15ff0-frame" accept-charset="utf-8" aria-describedby="newsletter-signup-bar-6a7cd18e15ff0-status">
+            <form class="NewsletterSignupBar__form" method="post" action="https://alicecph.activehosted.com/proc.php" target="newsletter-signup-bar-6a7cdf6722690-frame" accept-charset="utf-8" aria-describedby="newsletter-signup-bar-6a7cdf6722690-status">
                 <input type="hidden" name="u" value="6A2A87DED6AE9">
                 <input type="hidden" name="f" value="7">
                 <input type="hidden" name="c" value="0">
@@ -233,20 +233,20 @@ var app_vars = {"ajax_url":"https:\/\/alicecph.com\/wp\/wp-admin\/admin-ajax.php
                 <input type="hidden" name="v" value="2">
                 <input type="hidden" name="or" value="e3c65343-b6d9-4206-b53b-16c74d112585">
 
-                <label for="newsletter-signup-bar-6a7cd18e15ff0-fullname">Navn</label>
-                <input id="newsletter-signup-bar-6a7cd18e15ff0-fullname" type="text" name="fullname" placeholder="Dit navn" autocomplete="name">
+                <label for="newsletter-signup-bar-6a7cdf6722690-fullname">Navn</label>
+                <input id="newsletter-signup-bar-6a7cdf6722690-fullname" type="text" name="fullname" placeholder="Dit navn" autocomplete="name">
 
-                <label for="newsletter-signup-bar-6a7cd18e15ff0-email">Email</label>
-                <input id="newsletter-signup-bar-6a7cd18e15ff0-email" type="email" name="email" placeholder="Din email" autocomplete="email" required>
+                <label for="newsletter-signup-bar-6a7cdf6722690-email">Email</label>
+                <input id="newsletter-signup-bar-6a7cdf6722690-email" type="email" name="email" placeholder="Din email" autocomplete="email" required>
 
                 <button class="NewsletterSignupBar__submit" type="submit">Tilmeld</button>
             </form>
 
-            <p class="NewsletterSignupBar__status" id="newsletter-signup-bar-6a7cd18e15ff0-status" role="status" aria-live="polite"></p>
+            <p class="NewsletterSignupBar__status" id="newsletter-signup-bar-6a7cdf6722690-status" role="status" aria-live="polite"></p>
         </div>
     </div>
 
-    <iframe class="NewsletterSignupBar__iframe" name="newsletter-signup-bar-6a7cd18e15ff0-frame" title="Nyhedsbrevstilmelding"></iframe>
+    <iframe class="NewsletterSignupBar__iframe" name="newsletter-signup-bar-6a7cdf6722690-frame" title="Nyhedsbrevstilmelding"></iframe>
 </div><script type='text/javascript' id='site_tracking-js-extra'>
 /* <![CDATA[ */
 var php_data = {"ac_settings":{"tracking_actid":null,"site_tracking_default":1},"user_email":""};

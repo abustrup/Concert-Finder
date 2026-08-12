@@ -1,0 +1,3026 @@
+<!doctype html>
+<html class="no-js" lang="en-US">
+
+<head>
+  <script>(function(H){H.className=H.className.replace(/\bno-js\b/,'js')})(document.documentElement)</script>
+  
+  <!-- Google Tag Manager -->
+  
+  <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K87QSHH');</script>
+  
+  <!-- End Google Tag Manager -->
+  
+  <!-- <script 
+      type="text/plain"
+      data-category="necessary">
+  
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+  
+      gtag('consent', 'default', {
+          ad_storage: 'denied',
+          ad_user_data: 'denied',
+          ad_personalization: 'denied',
+          analytics_storage: 'denied',
+          functionality_storage: 'denied',
+          personalization_storage: 'denied',
+          wait_for_update: 2000
+      });
+  
+      gtag('set', 'ads_data_redaction', true);
+      gtag('set', 'url_passthrough', true);
+  </script>
+   -->
+  <!-- Google Tag Manager -->
+  <!-- <script type="text/plain" data-category="analytics">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-K87QSHH');</script> -->
+  <!-- End Google Tag Manager -->
+  
+  <style>
+    body {
+      
+      --core-cc-button-color: #60fed2;
+      /* ------ */
+      
+      --core-cc-button-color-hover: color-mix(in oklab, var(--core-cc-button-color), white 20%); 
+      /* ------ */
+       --cc-btn-primary-bg: var(--core-cc-button-color);
+      --cc-btn-primary-border-color: var(--core-cc-button-color);
+      
+      --cc-btn-primary-hover-bg: var(--core-cc-button-color-hover);
+      --cc-btn-primary-hover-border-color: var(--core-cc-button-color-hover);
+  
+   }
+    </style>
+  
+    <meta charset="UTF-8">
+
+        <meta name="viewport" content="width=device-width">
+    <meta name="Copyright" content="Copyright &copy;  2026. All Rights Reserved.">
+    <link rel="stylesheet" href="https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/style.css" />
+    <title>Events &#8211; Village Underground</title><link rel="preload" href="https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/_/img/header--whats-on.svg?34" as="image" fetchpriority="high">
+<meta name='robots' content='max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<link rel="canonical" href="https://villageunderground.co.uk/events/">
+<meta property="og:title" content="Events &#8211; Village Underground">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://villageunderground.co.uk/wp-content/uploads/2023/10/vu-share.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="vu-share">
+<meta property="og:url" content="https://villageunderground.co.uk/events/">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="Village Underground">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://villageunderground.co.uk/wp-content/uploads/2023/10/vu-share.jpg">
+<meta name="twitter:site" content="@villageundrgrnd">
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f1c9b7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--lemon: #f6fab4;--wp--preset--color--pale-blue: #adc3f5;--wp--preset--color--pale-green: #bfd2c6;--wp--preset--color--light-green: #bbd584;--wp--preset--color--pale-brown: #9f7964;--wp--preset--color--sand: #ebbc4a;--wp--preset--color--purple: #8d70ae;--wp--preset--color--off-white: #f9fcf1;--wp--preset--color--cyan: #bdfdf8;--wp--preset--color--red: #ed6c50;--wp--preset--color--dark: #24282c;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--dlrg-gradient: linear-gradient(0deg, rgba(27,27,27,1) 0%, rgba(27,27,27,0) 100%);;--wp--preset--font-size--small: 0.8rem;--wp--preset--font-size--medium: clamp(1.2rem, 1.2rem + ((1vw - 0.2rem) * 0.667), 1.6rem);--wp--preset--font-size--large: clamp(1.8rem, 1.8rem + ((1vw - 0.2rem) * 1.667), 2.8rem);--wp--preset--font-size--x-large: clamp(3rem, 3rem + ((1vw - 0.2rem) * 4), 5.4rem);--wp--preset--font-size--x-small: 0.6rem;--wp--preset--font-size--regular: clamp(1rem, 1rem + ((1vw - 0.2rem) * 0.333), 1.2rem);--wp--preset--font-family--system-fonts: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;--wp--preset--font-family--hanken: 'Hanken Grotesk',-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: calc(var(--wp--style--block-gap)*0.25);--wp--preset--spacing--40: calc(var(--wp--style--block-gap)*0.5);--wp--preset--spacing--50: calc(var(--wp--style--block-gap)*1);--wp--preset--spacing--60: calc(var(--wp--style--block-gap)*2);--wp--preset--spacing--70: calc(var(--wp--style--block-gap)*3);--wp--preset--spacing--80: calc(var(--wp--style--block-gap)*5);--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 70rem;--wp--style--global--wide-size: 80rem; }:where(body) { margin: 0; }.wp-site-blocks { padding-top: var(--wp--style--root--padding-top); padding-bottom: var(--wp--style--root--padding-bottom); }.has-global-padding { padding-right: var(--wp--style--root--padding-right); padding-left: var(--wp--style--root--padding-left); }.has-global-padding > .alignfull { margin-right: calc(var(--wp--style--root--padding-right) * -1); margin-left: calc(var(--wp--style--root--padding-left) * -1); }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) { padding-right: 0; padding-left: 0; }.has-global-padding :where(:not(.alignfull.is-layout-flow) > .has-global-padding:not(.wp-block-block, .alignfull)) > .alignfull { margin-left: 0; margin-right: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 1.5rem; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child { margin-block-end: 0; }:root { --wp--style--block-gap: 1.5rem; }:root :where(.is-layout-flow) > :first-child{margin-block-start: 0;}:root :where(.is-layout-flow) > :last-child{margin-block-end: 0;}:root :where(.is-layout-flow) > *{margin-block-start: 1.5rem;margin-block-end: 0;}:root :where(.is-layout-constrained) > :first-child{margin-block-start: 0;}:root :where(.is-layout-constrained) > :last-child{margin-block-end: 0;}:root :where(.is-layout-constrained) > *{margin-block-start: 1.5rem;margin-block-end: 0;}:root :where(.is-layout-flex){gap: 1.5rem;}:root :where(.is-layout-grid){gap: 1.5rem;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{background-color: var(--wp--preset--color--dark);color: var(--wp--preset--color--off-white);--wp--style--root--padding-top: var(--wp--preset--spacing--60);--wp--style--root--padding-right: var(--wp--preset--spacing--50);--wp--style--root--padding-bottom: var(--wp--preset--spacing--60);--wp--style--root--padding-left: var(--wp--preset--spacing--50);}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-lemon-color{color: var(--wp--preset--color--lemon) !important;}.has-pale-blue-color{color: var(--wp--preset--color--pale-blue) !important;}.has-pale-green-color{color: var(--wp--preset--color--pale-green) !important;}.has-light-green-color{color: var(--wp--preset--color--light-green) !important;}.has-pale-brown-color{color: var(--wp--preset--color--pale-brown) !important;}.has-sand-color{color: var(--wp--preset--color--sand) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-off-white-color{color: var(--wp--preset--color--off-white) !important;}.has-cyan-color{color: var(--wp--preset--color--cyan) !important;}.has-red-color{color: var(--wp--preset--color--red) !important;}.has-dark-color{color: var(--wp--preset--color--dark) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-lemon-background-color{background-color: var(--wp--preset--color--lemon) !important;}.has-pale-blue-background-color{background-color: var(--wp--preset--color--pale-blue) !important;}.has-pale-green-background-color{background-color: var(--wp--preset--color--pale-green) !important;}.has-light-green-background-color{background-color: var(--wp--preset--color--light-green) !important;}.has-pale-brown-background-color{background-color: var(--wp--preset--color--pale-brown) !important;}.has-sand-background-color{background-color: var(--wp--preset--color--sand) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-off-white-background-color{background-color: var(--wp--preset--color--off-white) !important;}.has-cyan-background-color{background-color: var(--wp--preset--color--cyan) !important;}.has-red-background-color{background-color: var(--wp--preset--color--red) !important;}.has-dark-background-color{background-color: var(--wp--preset--color--dark) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-lemon-border-color{border-color: var(--wp--preset--color--lemon) !important;}.has-pale-blue-border-color{border-color: var(--wp--preset--color--pale-blue) !important;}.has-pale-green-border-color{border-color: var(--wp--preset--color--pale-green) !important;}.has-light-green-border-color{border-color: var(--wp--preset--color--light-green) !important;}.has-pale-brown-border-color{border-color: var(--wp--preset--color--pale-brown) !important;}.has-sand-border-color{border-color: var(--wp--preset--color--sand) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-off-white-border-color{border-color: var(--wp--preset--color--off-white) !important;}.has-cyan-border-color{border-color: var(--wp--preset--color--cyan) !important;}.has-red-border-color{border-color: var(--wp--preset--color--red) !important;}.has-dark-border-color{border-color: var(--wp--preset--color--dark) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-dlrg-gradient-gradient-background{background: var(--wp--preset--gradient--dlrg-gradient) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-x-small-font-size{font-size: var(--wp--preset--font-size--x-small) !important;}.has-regular-font-size{font-size: var(--wp--preset--font-size--regular) !important;}.has-system-fonts-font-family{font-family: var(--wp--preset--font-family--system-fonts) !important;}.has-hanken-font-family{font-family: var(--wp--preset--font-family--hanken) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='style-css' href='https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/style.css?ver=7.0.3' media='all' />
+<link rel='stylesheet' id='web-fonts-css' href='https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;700;800;900&#038;display=swap&#038;ver=7.0.3' media='all' />
+<link rel='stylesheet' id='main-styles-css' href='https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/_/css/main.css?ver=1781177653' media='all' />
+<link rel='stylesheet' id='cookie-consent-styles-css' href='https://cdn.jsdelivr.net/gh/orestbida/cookieconsent@3.0.1/dist/cookieconsent.css?ver=7.0.3' media='all' />
+<link rel='stylesheet' id='swiper-css-css' href='https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/_/css/swiper-bundle.min.css?ver=1758149315' media='all' />
+<style id="block-visibility-screen-size-styles-inline-css">
+/* Large screens (desktops, 992px and up) */
+@media ( min-width: 992px ) {
+	.block-visibility-hide-large-screen {
+		display: none !important;
+	}
+}
+
+/* Medium screens (tablets, between 768px and 992px) */
+@media ( min-width: 768px ) and ( max-width: 991.98px ) {
+	.block-visibility-hide-medium-screen {
+		display: none !important;
+	}
+}
+
+/* Small screens (mobile devices, less than 768px) */
+@media ( max-width: 767.98px ) {
+	.block-visibility-hide-small-screen {
+		display: none !important;
+	}
+}
+/*# sourceURL=block-visibility-screen-size-styles-inline-css */
+</style>
+<script id="jquery-core-js" src="https://villageunderground.co.uk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://villageunderground.co.uk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="swiper-js-js" src="https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/_/js/swiper-bundle.min.js?ver=1758149315"></script>
+<link rel="https://api.w.org/" href="https://villageunderground.co.uk/wp-json/" /><script
+ defer
+ type="module"
+ crossorigin="anonymous" integrity="ed25519-gnaOSQmkRGOilpk5Roz2cCACq7aFSmU9No0Sa6GkIaw="
+ data-calibre-rum-id="b861a0d8-187b-4406-adf2-88e892ba5dc0"
+ src="https://use.calibre.app/index.js?rumId=b861a0d8-187b-4406-adf2-88e892ba5dc0"
+></script><meta name="generator" content="speculation-rules 1.6.0">
+<link rel="icon" href="https://villageunderground.co.uk/wp-content/uploads/2023/09/cropped-vu-fav_opt-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://villageunderground.co.uk/wp-content/uploads/2023/09/cropped-vu-fav_opt-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://villageunderground.co.uk/wp-content/uploads/2023/09/cropped-vu-fav_opt-180x180.png" />
+<meta name="msapplication-TileImage" content="https://villageunderground.co.uk/wp-content/uploads/2023/09/cropped-vu-fav_opt-270x270.png" />
+<style id="wp-custom-css">
+/* Jazz Festival fix */
+article.post-1708 .event__title ~ .event__dates,
+article.post-1708 .event__title ~ .event__times,
+article.post-1708 .event__title ~ .event__tickets,
+article.post-1708 .event__title ~ .event__lineup,
+.list--events li#event-1708 .time 
+{
+	display:none;
+}
+
+
+.label-emoji label {
+	font-size: 32px !important;
+}
+
+.label-emoji .gchoice {
+	display:flex;
+	align-items: center;
+	}
+
+.label-emoji .ginput_container_radio .gfield_radio {
+	flex-direction:row;
+	gap: 1.5rem;
+}
+
+.label-emoji .ginput_container_radio .gfield_radio .gchoice {
+	margin:0;
+}
+/* Hide stuff on Rooftop page */
+body.page-id-3909  {
+	.header-wrapper,
+	#subscribe{
+		display:none;
+	}
+	
+	
+}
+
+:is(body.page-id-4006, body.page-id-4052) #subscribe {
+		display:none;
+	}
+
+
+/* CLS */
+burger-menu:not(:defined) {
+   max-height: 32px;
+  width: 32px;
+   overflow: hidden;
+ }
+
+iframe#tablego-booking {
+	overflow:auto !important;
+}
+</style>
+
+    <meta name="theme-color" content="#111111">
+   <style>
+     
+    html {
+      scrollbar-gutter: stable;
+    }
+    
+     @media screen and (prefers-reduced-motion: no-preference) {
+     
+     /* ::view-transition-group(*) {
+       animation: none;
+     } */
+    
+       @view-transition {
+       navigation: auto;
+     }  
+    
+    
+     /* .site-wrapper {
+       view-transition-name: dropOut;
+     } */
+     
+    
+     
+     ::view-transition-old(root) {
+          animation-name: pageShift;
+           animation-duration:0.2s;
+           animation-timing-function: linear;
+           animation-fill-mode:forwards;    
+                
+       }            
+       ::view-transition-new(root) {
+             animation-name: pageShift;
+             animation-duration:0.2s;
+             animation-timing-function: linear;
+             animation-fill-mode:both;
+             animation-direction: reverse;
+             animation-delay: 0.2s;
+         } 
+         
+         @keyframes pageShift {
+          from {
+            transform: translateY(0);
+          }
+          to {
+            transform: translateY(6px);
+            opacity:0;
+          }
+         }  
+         
+         .header-wrapper {
+         view-transition-name: header-wrapper;   
+         /* Lift it out of the main flow */
+          }
+         
+       }
+     </style>
+</head>
+
+
+<body       class="archive post-type-archive post-type-archive-event wp-theme-villageunderground-v3 "   >
+<!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K87QSHH"
+   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+
+<style>
+.promo-banner {
+
+	position: relative;
+	z-index: 1;
+	overflow: clip;
+	
+	
+	a {
+		display: block;
+		text-transform: uppercase;
+		text-decoration: none;
+		padding: calc(var(--wp--style--block-gap)/2);
+		// background-color: var(--wp--preset--color--accent);
+		// color: var(--wp--preset--color--light);
+		text-align: center;
+		transition: opacity 0.15s ease;
+		&:hover {
+			opacity: 0.85;
+		}
+		
+	}
+	
+}
+</style>
+
+  <div class="promo-banner" style="background-color:#1b1e21">
+
+		  <a style="color:#eeeeee" href="https://villageunderground.co.uk/subscribe/"  >
+	
+	<span>Subscribe for our latest news</span>
+
+  	</a>
+  
+  </div>
+  
+<div class="page-bg" aria-hidden="true">
+       <div class="fade-wrapper-1">
+         <div class="fade-wrapper-2">
+           <div class="fade"></div><!-- /.fade -->
+         </div>
+         <!-- /.fade-wrapper-2 -->
+       </div>
+       <!-- /.fade-wrapper-1 -->
+    </div>
+    <!-- /.page-bg -->
+
+   <div class="site-wrapper">
+      <div class="header-wrapper">
+          <header id="header" role="banner">
+          <div class="holder">
+                <div class="header-logo">
+                    <a href="https://villageunderground.co.uk">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="629" height="225" viewBox="0 0 629 225"><g fill="#191E20" fill-rule="evenodd"><path d="M31.158 208.267 49.98 160H37.453l-12.205 32.435L13.04 160H0l18.822 48.267h12.336Zm21.585-37.327H64.95V160H52.743v10.94Zm0 37.327H64.95V176.09H52.743v32.178Zm17.602 0h12.207V160H70.345v48.267Zm17.602 0h12.207V160H87.947v48.267Zm37.132-7.53c.193 3.218.9 5.664 1.543 7.53h13.105v-1.222c-1.991-2.188-3.084-4.441-3.084-11.456v-8.173c0-8.624-5.075-11.97-15.61-11.97-10.344 0-15.869 3.346-15.869 11.97h11.821c0-2.832 1.541-3.99 3.983-3.99 2.184 0 3.469.836 3.469 2.509 0 2.06-1.606 3.54-5.91 4.247l-4.562.773c-6.68 1.159-10.022 3.862-10.022 9.397 0 5.598 3.212 8.559 9.893 8.559 6.426 0 9.444-3.09 11.243-8.174Zm-5.203.837c-1.863 0-3.277-1.287-3.277-3.346 0-5.278 6.232-3.862 7.838-6.694v5.664c-.899 3.54-2.891 4.376-4.561 4.376Zm38.224-3.411c7.902 0 13.555-4.89 13.555-11.262v-.129c.579-1.352 2.25-2.06 4.497-2.06.836 0 1.479.065 1.992.258v-9.525c-2.249 0-4.819.515-6.489 3.025l-.77 4.441c-1.607-4.12-5.847-7.466-12.657-7.466-9.443 0-14.004 5.47-14.004 11.456 0 3.604 1.734 7.144 5.332 9.267-5.461 1.61-7.26 4.441-7.26 7.658 0 3.54 1.799 6.05 6.681 7.08l-5.46 1.866c-.514.965-.77 2.124-.77 3.411 0 6.05 5.653 8.817 16.638 8.817 12.27 0 16.832-4.698 16.832-12.55 0-6.885-3.983-10.812-12.849-10.812H152.19c-1.863 0-3.02-.643-3.02-2.06 0-1.35 1.285-2.058 3.34-2.187 1.607.515 3.47.772 5.59.772Zm-4.047-11.198c0-2.38 1.349-4.183 3.983-4.183 2.505 0 3.919 1.802 3.919 4.183s-1.542 4.119-3.919 4.119c-2.762 0-3.983-1.738-3.983-4.119Zm1.798 29.153c-3.533 0-5.267-1.158-5.267-2.895 0-.902.32-1.544.834-1.93 1.157.127 2.442.192 3.856.192h8.673c2.634 0 3.404.966 3.404 2.188 0 1.61-.963 2.445-3.404 2.445h-8.096Zm56.985-20.464h-11.372c-.321 3.024-1.349 5.47-4.818 5.47-3.597 0-5.268-3.218-5.268-8.882H212.9c0-9.653-5.59-16.797-16.254-16.797-9.573 0-17.474 5.6-17.474 16.733 0 11.134 7.901 16.733 17.474 16.733 11.114 0 15.933-7.208 16.19-13.257Zm-16.511-12.55c3.533 0 4.561 2.703 4.561 5.728h-9.316c.515-3.99 2.12-5.729 4.755-5.729Zm57.818 13.579c-4.047 0-7.838-1.866-7.838-8.302V160h-12.849v30.44c0 11.005 6.425 18.471 20.687 18.471 15.161 0 20.686-7.466 20.686-18.47V160H261.98v28.381c0 6.436-3.79 8.302-7.837 8.302Zm37.518 11.584V190.89c0-3.54 1.091-5.791 4.175-5.791 3.085 0 4.176 2.252 4.176 5.727v17.441h12.207V185.55c0-6.757-4.305-10.104-10.15-10.104-6.04 0-9.06 3.476-10.408 9.911v-9.267h-12.207v32.178h12.207Zm48.568 0h12.205V160H340.23v25.42c-1.22-6.306-4.562-9.975-10.922-9.975-6.617 0-13.105 5.277-13.105 16.926 0 11.262 6.488 16.54 13.105 16.54 6.36 0 9.701-3.669 10.922-9.847v9.203Zm-10.922-16.025c0-5.47 2.377-8.366 5.332-8.366 2.956 0 5.333 2.896 5.333 8.366s-2.377 8.367-5.333 8.367c-2.955 0-5.332-2.897-5.332-8.367Zm59.49 3.412h-11.372c-.32 3.024-1.348 5.47-4.818 5.47-3.597 0-5.268-3.218-5.268-8.882h21.522c0-9.653-5.59-16.797-16.254-16.797-9.572 0-17.474 5.6-17.474 16.733 0 11.134 7.902 16.733 17.474 16.733 11.114 0 15.932-7.208 16.19-13.257Zm-16.512-12.55c3.534 0 4.562 2.703 4.562 5.728h-9.316c.514-3.99 2.12-5.729 4.754-5.729Zm32.764 25.163v-11.841c0-7.144 3.084-9.59 8.417-9.59 1.413 0 2.761.193 3.79.387V175.96c-.772-.257-2.12-.515-3.213-.515-3.147 0-5.074.837-6.488 2.445l-2.506 8.946V176.09h-12.206v32.178h12.206Zm28.139-10.104c7.902 0 13.556-4.89 13.556-11.262v-.129c.577-1.352 2.248-2.06 4.497-2.06.834 0 1.477.065 1.99.258v-9.525c-2.247 0-4.817.515-6.487 3.025l-.772 4.441c-1.605-4.12-5.845-7.466-12.655-7.466-9.444 0-14.006 5.47-14.006 11.456 0 3.604 1.735 7.144 5.333 9.267-5.46 1.61-7.26 4.441-7.26 7.658 0 3.54 1.8 6.05 6.682 7.08l-5.462 1.866c-.513.965-.77 2.124-.77 3.411 0 6.05 5.653 8.817 16.64 8.817 12.27 0 16.83-4.698 16.83-12.55 0-6.885-3.983-10.812-12.848-10.812h-11.179c-1.863 0-3.02-.643-3.02-2.06 0-1.35 1.286-2.058 3.342-2.187 1.606.515 3.469.772 5.589.772Zm-4.047-11.198c0-2.38 1.349-4.183 3.983-4.183 2.506 0 3.919 1.802 3.919 4.183s-1.542 4.119-3.92 4.119c-2.762 0-3.982-1.738-3.982-4.119Zm1.799 29.153c-3.534 0-5.269-1.158-5.269-2.895 0-.902.322-1.544.836-1.93 1.156.127 2.44.192 3.854.192h8.673c2.634 0 3.406.966 3.406 2.188 0 1.61-.965 2.445-3.406 2.445h-8.094Zm37.58-7.85v-11.842c0-7.144 3.085-9.59 8.417-9.59 1.413 0 2.763.193 3.79.387V175.96c-.77-.257-2.12-.515-3.211-.515-3.149 0-5.076.837-6.49 2.445l-2.505 8.946V176.09h-12.206v32.178h12.206Zm31.737-32.823c-9.572 0-17.474 5.6-17.474 16.733 0 11.134 7.902 16.733 17.474 16.733 9.765 0 17.474-5.6 17.474-16.733 0-11.133-7.837-16.733-17.474-16.733Zm.064 7.337c3.34 0 5.204 3.089 5.204 9.396 0 5.92-1.863 9.267-5.204 9.267-3.34 0-5.332-3.346-5.332-9.267 0-6.307 1.992-9.396 5.332-9.396Zm40.666-6.693v17.376c0 3.54-1.093 5.792-4.176 5.792-3.084 0-4.176-2.253-4.176-5.727v-17.441h-12.206v22.718c0 6.758 4.304 10.104 10.15 10.104 6.039 0 9.058-3.476 10.408-9.911v9.267h12.206V176.09h-12.206Zm28.524 32.178V190.89c0-3.54 1.091-5.791 4.175-5.791 3.085 0 4.176 2.252 4.176 5.727v17.441h12.207V185.55c0-6.757-4.304-10.104-10.15-10.104-6.04 0-9.06 3.476-10.408 9.911v-9.267h-12.207v32.178h12.207Zm47.283 0H629V160h-12.206v25.42c-1.22-6.306-4.561-9.975-10.922-9.975-6.617 0-13.106 5.277-13.106 16.926 0 11.262 6.49 16.54 13.106 16.54 6.36 0 9.701-3.669 10.922-9.847v9.203Zm-10.922-16.025c0-5.47 2.377-8.366 5.333-8.366 2.955 0 5.332 2.896 5.332 8.366s-2.377 8.367-5.332 8.367c-2.956 0-5.333-2.897-5.333-8.367ZM154 99.898 214 160l.811-20.305h39.73L274 38.985h-60V0l-59.188 20.304L154 99.898"/></g></svg>                    </a>
+                </div>
+                <!-- /.logo -->
+
+                                       <h1 hidden class="main-title">Events</h1>
+                  
+
+                 <div class="header-menus">
+             
+                   <ul class="menu menu-secondary">
+                     <li>
+                       <a href="/events/">                     
+                         <img data-perfmatters-preload width="144" height="34" src="https://villageunderground.co.uk/wp-content/themes/villageunderground-v3/_/img/header--whats-on.svg?34" alt="What's On" fetchpriority="high">
+                       </a>
+                     </li>
+                   </ul>
+
+                                                <burger-menu max-width="">
+
+                    <!-- If you have more than one nav - add aria-label="primary" -->
+                    <nav aria-label="primary" class="navigation">
+                      <ul id="menu-main-menu" class="menu"><li id="menu-item-1025" class="menu-item menu-item-type-post_type_archive menu-item-object-event current-menu-item menu-item-1025"><a href="https://villageunderground.co.uk/events/" aria-current="page">What&#8217;s On</a></li>
+<li id="menu-item-2615" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2615"><a href="https://villageunderground.co.uk/hire/">Hire</a></li>
+<li id="menu-item-4103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4103"><a href="https://villageunderground.co.uk/rooftop/">Rooftop</a></li>
+<li id="menu-item-1305" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1305"><a href="https://villageunderground.co.uk/your-visit/">Your Visit</a></li>
+<li id="menu-item-451" class="size-large menu-item menu-item-type-post_type menu-item-object-page menu-item-451"><a href="https://villageunderground.co.uk/access/">Access</a></li>
+<li id="menu-item-1336" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1336"><a href="https://villageunderground.co.uk/about/">About</a></li>
+<li id="menu-item-2987" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2987"><a href="https://villageunderground.co.uk/faqs/">FAQs</a></li>
+<li id="menu-item-1326" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1326"><a href="https://villageunderground.co.uk/contact/">Contact</a></li>
+</ul>                    </nav>
+                  </burger-menu>
+                
+
+                </div>
+                 <!-- /.header-menus -->
+
+
+                  
+
+                  </div>
+                <!-- /.holder -->
+                </header>
+
+
+                                                
+               <div class="holder ">
+                 	
+	 
+	 <nav class="breadcrumbs" aria-label="Breadcrumbs"><a href="https://villageunderground.co.uk/" class="breadcrumb breadcrumb--first">Home</a> <span class='breadcrumbs__separator' aria-hidden='true'>&rsaquo;</span> <span class="breadcrumb breadcrumb--last" aria-current="page">Events</span></nav>	
+	
+	                </div>
+               <!-- /.holder -->               
+                
+
+
+    </div>
+    <!-- /.header-wrapper -->
+
+
+
+
+
+<main>
+
+
+<div class="holder">
+
+
+
+
+
+  <div class="flow">
+
+
+    <div class="facets-wrapper | flow">
+  <div class="facets">
+
+
+  <div class="facetwp-facet facetwp-facet-type facetwp-type-radio" data-name="type" data-type="radio"></div>
+    
+
+    <button  id="weekend" class="toggle facetwp-facet" onclick="FWP.facets['dates'] = [ '2026-08-14', '2026-08-16' ]; FWP.fetchData(); FWP.setHash();">This Weekend</button>
+    
+    <button  class="toggle facetwp-facet" onclick="FWP.facets['dates'] = [ '2026-08-12', '2026-08-31' ]; FWP.fetchData(); FWP.setHash();">This Month</button>
+    
+    <script>
+
+let toggles = document.querySelectorAll('.toggle');
+let facets = document.querySelector('.facets');
+
+// Attach click event to .toggle elements
+toggles.forEach(function(toggle) {
+    toggle.addEventListener('click', function(e) {
+        e.preventDefault();
+        toggles.forEach(function(innerToggle) {
+            innerToggle.classList.remove('x');
+        });
+        toggle.classList.add('x');
+    });
+});
+
+// Attach click event to .facets element
+facets.addEventListener('click', function(e) {
+    // Check if the clicked element is inside a .toggle element
+    const clickedToggle = e.target.closest('.toggle');
+    if (!clickedToggle) {
+        // Remove 'x' class from all elements when clicking any element inside .facets
+        removeAllXClasses();
+    }
+});
+
+function removeAllXClasses() {
+    // Remove 'x' class from all elements with the class 'toggle'
+    toggles.forEach(function(toggle) {
+        toggle.classList.remove('x');
+    });
+}
+  
+    </script>
+
+
+      <div style="display:none" class="facetwp-facet facet static-facet">
+        <a href="/events/?_dates=2026-08-12%2C2026-08-31">
+        This month
+        </a>
+      </div>
+      <!-- /.facet static-facet -->
+
+
+      <div style="display:none" class="facetwp-facet facet static-facet">
+      
+        <a href="/events/?_dates=2026-08-14%2C2026-08-16">
+        This weekend
+        </a>
+     
+      </div>
+      <!-- /.facet static-facet -->
+
+
+    <!-- /.facetwp-facet facetwp-facet-dates -->
+
+
+        <div class="facetwp-facet facetwp-facet-genre facetwp-type-dropdown" data-name="genre" data-type="dropdown"></div>
+        
+        
+    
+
+    <!-- <button  class="facet-reset btn" onclick="FWP.reset()">Reset</button> -->
+
+  </div>
+  <!-- facets -->
+  
+  <div class="facets">
+    <div class="facetwp-facet facetwp-facet-search facetwp-type-search" data-name="search" data-type="search"></div>   <button class="facet-reset" onclick="FWP.reset()">Reset</button> 
+   </div>
+  <!-- /.facets -->
+  
+  </div>
+  <!-- /.facets-wrapper -->
+
+</div>
+  <!-- /.flow -->
+
+
+  <!-- <div class="event-filter-active"> -->
+    <!-- </div> -->
+
+<div class="facetwp-template">
+
+  
+    <ul class="list list--events | flow | style-" data-flow-large>
+
+      <!--fwp-loop-->
+      
+        <li class="list--events__item" id="event-3806" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/nation-of-language-18th-aug-village-underground-london-tickets-53rndl/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-02-13/a12db64f-5ba4-4239-8170-f2867dea2e8e.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-18T19:30:00+00:00">
+      
+       
+    Tue 18 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Nation of Language          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+              alternative, newwave, postpunk, punk            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                FORM Presents NATION OF LANGUAGE + Special Guests Presented by FORM. 16+ event. (16-17 with a responsible adult 18+,1:1)              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3806" class="btn btn--3806" href="https://villageunderground.co.uk/events/nation-of-language-18th-aug-village-underground-london-tickets-53rndl/">More</a>
+            
+                           </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3808" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/nation-of-language-19th-aug-village-underground-london-tickets-7dmanb/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-02-13/a12db64f-5ba4-4239-8170-f2867dea2e8e.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-19T19:30:00+00:00">
+      
+       
+    Wed 19 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Nation of Language          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+              alternative, newwave, postpunk, punk            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                FORM Presents NATION OF LANGUAGE + Special Guests Presented by FORM. 16+ event. (16-17 with a responsible adult 18+,1:1)              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3808" class="btn btn--3808" href="https://villageunderground.co.uk/events/nation-of-language-19th-aug-village-underground-london-tickets-7dmanb/">More</a>
+            
+                           </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3810" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/nation-of-language-20th-aug-village-underground-london-tickets-nv9bm5/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-02-13/a12db64f-5ba4-4239-8170-f2867dea2e8e.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-20T19:30:00+00:00">
+      
+       
+    Thu 20 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Nation of Language          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+              alternative, indie, newwave, postpunk, punk            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                FORM Presents NATION OF LANGUAGE + Special Guests Presented by FORM 16+ event. (16-17 with a responsible adult 18+,1:1)              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3810" class="btn btn--3810" href="https://villageunderground.co.uk/events/nation-of-language-20th-aug-village-underground-london-tickets-nv9bm5/">More</a>
+            
+                           </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4219" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/origins-x-vu-free-party-house-techno-trance-22nd-aug-village-underground-london-tickets-yod2dv/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-30/06d0b3fa-22ed-4ed6-8523-f3753926c221.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-22T23:00:00+00:00">
+      
+       
+    Sat 22 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 04.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Origins x VU Free Party: House Techno Trance          </h3>
+                      <div class="listed-in">
+              house, techno, trance            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                If you have any queries or would like more information about access at Village Underground, please see or contact <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8aebe9e9eff9f9cafce3e6e6ebedefffe4eeeff8edf8e5ffe4eea4e9e5a4ffe1">[email&#160;protected]</a>. Presented by Origins. This is&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4219" class="btn btn--4219" href="https://villageunderground.co.uk/events/origins-x-vu-free-party-house-techno-trance-22nd-aug-village-underground-london-tickets-yod2dv/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4253" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/interpol-official-all-points-east-after-party-23rd-aug-village-underground-london-tickets-mxnexw/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-08-04/2d11b57f-4b63-48ce-bddd-0a38da86d798.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-23T22:00:00+00:00">
+      
+       
+    Sun 23 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  22.00
+  &mdash; 00.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Interpol: Official All Points East After Party          </h3>
+                      <div class="listed-in">
+              postpunk, punk            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Rough Trade and AEG are very excited to present an All Points East After Party performance from Interpol at Village Underground, London. This unique event&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4253" class="btn btn--4253" href="https://villageunderground.co.uk/events/interpol-official-all-points-east-after-party-23rd-aug-village-underground-london-tickets-mxnexw/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4137" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/channel-one-sound-system-carnival-warm-up-28th-aug-village-underground-london-tickets-ry872y/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2025-01-23/f2612474-3696-4ed9-8a16-8eaec351ec39.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-28T23:00:00+00:00">
+      
+       
+    Fri 28 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 04.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Channel One Sound System: Carnival Warm Up          </h3>
+                      <div class="listed-in">
+              dub, reggae            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Channel One's much-loved Carnival warm-up session returns! One of the most renowned and influential sound systems in the world, known for its heavy roots and&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4137" class="btn btn--4137" href="https://villageunderground.co.uk/events/channel-one-sound-system-carnival-warm-up-28th-aug-village-underground-london-tickets-ry872y/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3927" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/placesfaces-13-year-party-village-underground-w-secret-guests-ciesay-chef-dee-more-29th-aug-village-underground-london-tickets-q2v83a/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-08-04/39db6cef-e03a-46a4-92eb-77bf357d2214.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-08-29T22:00:00+00:00">
+      
+       
+    Sat 29 Aug
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  22.00
+  &mdash; 04.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Places+Faces: 13 Year Party @ Village Underground w/ Secret Guests + Ciesay + Chef Dee ++ more          </h3>
+                      <div class="listed-in">
+              alternative, electronic, pop, tech-house, techno            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                PAST P+F SPECIAL GUESTS OVER 13 YEARS == 67, AJ Tracey, Asap Ferg, Asap Rocky, Darq E Freaker, Dipset, DJ AG, Freddie Gibbs, Giggs, Heron&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3927" class="btn btn--3927" href="https://villageunderground.co.uk/events/placesfaces-13-year-party-village-underground-w-secret-guests-ciesay-chef-dee-more-29th-aug-village-underground-london-tickets-q2v83a/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4031" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-morn-3rd-sep-village-underground-london-tickets-8elkw7/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-08-05/dc32ca56-06e0-4bc4-931a-6ac6019f9e9c.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-03T19:30:00+00:00">
+      
+       
+    Thu 3 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            The Belair Lip Bombs, Snuggle, MORN          </h3>
+                      <div class="listed-in">
+              alternative, newwave, postpunk, punk            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                The Belair Lip Bombs might be Australia’s best-kept secret. But it won’t stay that way for long. Hailing from the coastal town of Frankston, the&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4031" class="btn btn--4031" href="https://villageunderground.co.uk/events/the-belair-lip-bombs-snuggle-morn-3rd-sep-village-underground-london-tickets-8elkw7/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4212" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/origins-x-vu-special-guests-tba-5th-sep-village-underground-london-tickets-7dx6o6/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-21/56015f66-8998-488f-b704-7cbb97968f0d.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-05T23:00:00+00:00">
+      
+       
+    Sat 5 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 04.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Origins x VU: Special Guests TBA          </h3>
+                      <div class="listed-in">
+              house, techno, trance            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                If you have any queries or would like more information about access at Village Underground, please see or contact <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="f0919393958383b086999c9c919795859e94958297829f859e94de939fde859b">[email&#160;protected]</a>. Presented by Origins. This is&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4212" class="btn btn--4212" href="https://villageunderground.co.uk/events/origins-x-vu-special-guests-tba-5th-sep-village-underground-london-tickets-7dx6o6/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3821" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/rostam-8th-sep-village-underground-london-tickets-oevmyg/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-03-10/073b4917-dae8-4cc9-955a-a3652de2a378.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-08T19:30:00+00:00">
+      
+       
+    Tue 8 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Rostam          </h3>
+                      <div class="listed-in">
+              alt_rock, alternative, indie, indiepop            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Rostam is a GRAMMY® Award-winning songwriter, producer, and composer. One of the founding members of Vampire Weekend and producer of their first three albums, he&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3821" class="btn btn--3821" href="https://villageunderground.co.uk/events/rostam-8th-sep-village-underground-london-tickets-oevmyg/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3789" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/dead-calm-11th-sep-village-underground-london-tickets-6d25pq/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-02-17/54fe91ae-fd7b-460e-9bcc-8b9e4bf3325b.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-11T18:30:00+00:00">
+      
+       
+    Fri 11 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  18.30
+  &mdash; 21.30
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Dead Calm          </h3>
+                      <div class="listed-in">
+              alternative, indie            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                **FORM Presents** **DEAD CALM** **+ Special Guests** If you have any queries or would like more information about access at Village Underground, please see our&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3789" class="btn btn--3789" href="https://villageunderground.co.uk/events/dead-calm-11th-sep-village-underground-london-tickets-6d25pq/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4255" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/hiz-ya-wiz-dj-aban-dj-horani-guests-11th-sep-village-underground-london-tickets-oe8vky/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-08-11/9abce71d-8f74-4976-83b9-725252e3a2ab.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-11T23:00:00+00:00">
+      
+       
+    Fri 11 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Hiz Ya Wiz:  DJ Aban, DJ Horani + Guests          </h3>
+                      <div class="listed-in">
+              arabic, dance, pop, world            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                🇬🇧 HIZ YA WIZ • LONDON DEBUT 🇬🇧 London… are you ready? ❤️‍🔥 For the very first time, Hiz Ya Wiz is taking over Village&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4255" class="btn btn--4255" href="https://villageunderground.co.uk/events/hiz-ya-wiz-dj-aban-dj-horani-guests-11th-sep-village-underground-london-tickets-oe8vky/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4132" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/akriila-12th-sep-village-underground-london-tickets-mxg2dw/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-06-16/61b46ebb-671d-41e0-9154-997cc8719f14.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-12T19:00:00+00:00">
+      
+       
+    Sat 12 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.00
+  &mdash; 22.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Akriila          </h3>
+                      <div class="listed-in">
+              alternative, latin, pop            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                AKRIILA from Santiago de Chile is crashing the scene with an alternative sound that twists pop, DnB, and urban chaos into something entirely her own.&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4132" class="btn btn--4132" href="https://villageunderground.co.uk/events/akriila-12th-sep-village-underground-london-tickets-mxg2dw/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4235" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/dankie-rooms-presents-to-be-announced-12th-sep-village-underground-london-tickets-avxdn7/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-30/dd5bf935-c1e9-4d2a-9c42-70fef3847ff8.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+              
+              <div class="flow | event-status-notice" data-flow-small>
+               <p style="margin:0">● CANCELLED</p>
+               </div>             
+           
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Dankie Rooms Presents: TO BE ANNOUNCED!          </h3>
+                      <div class="listed-in">
+              afrobeats, afrohouse, amapiano, electronic, house, world            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Dankie Room Presents - + Special Guests #EUPHORIA Saturday 12th Sept 2026 THE PRESSURE IS GETTING WORSER! We are a genre, a community and artist&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4235" class="btn btn--4235" href="https://villageunderground.co.uk/events/dankie-rooms-presents-to-be-announced-12th-sep-village-underground-london-tickets-avxdn7/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4225" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/dankie-room-presents-que-dj-special-guests-euphoria-12th-sep-village-underground-london-tickets-dkd996/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-30/92a2a58a-0db5-4d8d-afc6-05974a25fbc9.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-12T23:00:00+00:00">
+      
+       
+    Sat 12 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Dankie Room Presents Que DJ + Special Guests #EUPHORIA          </h3>
+                      <div class="listed-in">
+              afrohouse, amapiano            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Dankie Room Presents - QUE DJ + Special Guests #EUPHORIA THE PRESSURE IS GETTING WORSER! We are a genre, a community and artist collective bringing&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4225" class="btn btn--4225" href="https://villageunderground.co.uk/events/dankie-room-presents-que-dj-special-guests-euphoria-12th-sep-village-underground-london-tickets-dkd996/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3999" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/mulaa-joans-14th-sep-village-underground-london-tickets-2wyrom/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-05-18/fb0579ff-f261-4857-a620-3583093bb854.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-14T19:30:00+00:00">
+      
+       
+    Mon 14 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Mulaa Joans          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+              singersongwriter, soul            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Mulaa Joans has quickly captured attention with the depth of her storytelling and a voice that feels both timeless and of the moment. The 19-year-old&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3999" class="btn btn--3999" href="https://villageunderground.co.uk/events/mulaa-joans-14th-sep-village-underground-london-tickets-2wyrom/">More</a>
+            
+                           </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4001" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/ecca-vandal-15th-sep-village-underground-london-tickets-av5b87/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-05-14/fd47d6b4-5454-4a9d-8e27-e78b5c1e12d8.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-15T19:30:00+00:00">
+      
+       
+    Tue 15 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Ecca Vandal          </h3>
+                      <div class="listed-in">
+                          </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Ecca Vandal, a seemingly sonic contradiction who draws inspiration from both Nina Simone and Fugazi, has announced her new album LOOKING FOR PEOPLE TO UNFOLLOW,&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4001" class="btn btn--4001" href="https://villageunderground.co.uk/events/ecca-vandal-15th-sep-village-underground-london-tickets-av5b87/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3921" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/vundabar-and-yot-club-16th-sep-village-underground-london-tickets-pydvrk/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-04-21/7d0903bc-8f90-4218-b92a-1f3606e3f757.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-16T19:30:00+00:00">
+      
+       
+    Wed 16 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Vundabar and Yot Club          </h3>
+                      <div class="listed-in">
+              alternative, electronic, indierock, lofi            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                If you have any queries or would like more information about access at Village Underground, please see our FAQs here: https://bit.ly/3EhSLgF, or contact <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="0465676761777744726d6868656361716a60617663766b716a602a676b2a716f">[email&#160;protected]</a>. Presented&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3921" class="btn btn--3921" href="https://villageunderground.co.uk/events/vundabar-and-yot-club-16th-sep-village-underground-london-tickets-pydvrk/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3886" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/frog-19th-sep-village-underground-london-tickets-bboapo/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-03-16/d01b325f-67c7-4ec6-a1d7-28b2e582c357.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-19T19:00:00+00:00">
+      
+       
+    Sat 19 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.00
+  &mdash; 22.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Frog          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+              indierock            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                DHP Presents : Frog + Middleman Presented by DHP. This is a 16+ event. Each under 18 must be accompanied by a responsible adult (1:1&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3886" class="btn btn--3886" href="https://villageunderground.co.uk/events/frog-19th-sep-village-underground-london-tickets-bboapo/">More</a>
+            
+                           </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3975" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/mi-casa-24th-sep-village-underground-london-tickets-9275xo/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-04-30/9253da18-76cc-4186-a122-7063cbda49e8.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-24T19:00:00+00:00">
+      
+       
+    Thu 24 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.00
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Mi Casa          </h3>
+                      <div class="listed-in">
+              afropop, house, jazz, soul            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                South Africa’s house music icons Mi Casa are set to take their unmistakable sound to London. J’Something (vocals), Dr. Duda (producer / keyboardist), and Mo-T&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3975" class="btn btn--3975" href="https://villageunderground.co.uk/events/mi-casa-24th-sep-village-underground-london-tickets-9275xo/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4090" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/ady-suleiman-25th-sep-village-underground-london-tickets-dkpop6/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-06-10/6f8cd409-5b8a-4245-b132-d75d62a53855.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-25T18:00:00+00:00">
+      
+       
+    Fri 25 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  18.00
+  &mdash; 21.30
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Ady Suleiman          </h3>
+                      <div class="listed-in">
+              pop, rnb, soul            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                SJM Concerts Presents Ady Suleiman plus support Presented by SJM Concerts. This is a 16+ event. Each under 18 must be accompanied by a responsible&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4090" class="btn btn--4090" href="https://villageunderground.co.uk/events/ady-suleiman-25th-sep-village-underground-london-tickets-dkpop6/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4151" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/central-youandewan-b2b-liquid-earth-laurine-ron-obvious-25th-sep-village-underground-london-tickets-92kw36/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-30/60f7a784-98f9-4266-9fcd-b0efa4d6178d.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-25T23:00:00+00:00">
+      
+       
+    Fri 25 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Central &#8211; Youandewan b2b Liquid Earth, Laurine + Ron Obvious          </h3>
+                      <div class="listed-in">
+              electronic, house            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Three years in the making. Since launching in 2022, Central has steadily built a community around deep, forward-thinking dance music, bringing together some of the&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4151" class="btn btn--4151" href="https://villageunderground.co.uk/events/central-youandewan-b2b-liquid-earth-laurine-ron-obvious-25th-sep-village-underground-london-tickets-92kw36/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3980" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/1-800-girls-live-30th-sep-village-underground-london-tickets-mxdd69/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-05-06/3d40cc49-906d-4e37-9853-12e73bd9dc80.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-09-30T19:30:00+00:00">
+      
+       
+    Wed 30 Sep
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            1-800 GIRLS (Live)          </h3>
+                      <div class="listed-in">
+              deephouse, electronic            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Following the hype around their upcoming debut album Love, producer and electronic trailblazer 1-800 GIRLS has announced an exclusive headline live show in London at&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3980" class="btn btn--3980" href="https://villageunderground.co.uk/events/1-800-girls-live-30th-sep-village-underground-london-tickets-mxdd69/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3888" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/dogshow-2nd-oct-village-underground-london-tickets-v3dead/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-04-10/6bd7cc90-aee7-4cef-a253-ef83fcf10538.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-02T19:00:00+00:00">
+      
+       
+    Fri 2 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.00
+  &mdash; 22.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Dogshow          </h3>
+                      <div class="listed-in">
+              alternative            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Dogshow are 2 brothers traversing the astral planes of dance music - whilst dressed as poodles. These two full-bodied canine siblings are on a mission&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3888" class="btn btn--3888" href="https://villageunderground.co.uk/events/dogshow-2nd-oct-village-underground-london-tickets-v3dead/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4181" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/imanu-2nd-oct-village-underground-london-tickets-eoxyb2/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-07/a2ca1741-f08b-4195-b06a-f1d2314b141b.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-02T23:00:00+00:00">
+      
+       
+    Fri 2 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            IMANU          </h3>
+                      <div class="listed-in">
+              bass, dnb, drumnbass, jungle, ukg            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Dutch producer IMANU lands in London following his massive De Verte showcase series and a string of boundary-rupturing releases on Deadbeats. His sets are a&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4181" class="btn btn--4181" href="https://villageunderground.co.uk/events/imanu-2nd-oct-village-underground-london-tickets-eoxyb2/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4190" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/amy-wiles-presents-eternity-3rd-oct-village-underground-london-tickets-nv5p95/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-14/6fbfb8be-b0cf-4f65-beb5-9ad5c90f310b.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-03T17:00:00+00:00">
+      
+       
+    Sat 3 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  17.00
+  &mdash; 22.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Amy Wiles presents Eternity          </h3>
+                      <div class="listed-in">
+              electronic, progressivehouse, trance            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Amy Wiles brings her Eternity concept with a curated line up to Village Underground for a Shoreditch day party this October. Feeding into the ‘I&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4190" class="btn btn--4190" href="https://villageunderground.co.uk/events/amy-wiles-presents-eternity-3rd-oct-village-underground-london-tickets-nv5p95/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4168" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/bushbaby-all-night-long-uk-tour-3rd-oct-village-underground-london-tickets-eomeaw/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-06-24/e9402ef0-2978-42ae-b5c7-e70efbbe46b0.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-03T23:00:00+00:00">
+      
+       
+    Sat 3 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Bushbaby: All Night Long UK Tour          </h3>
+                      <div class="listed-in">
+                          </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Bushbaby links up with Origins again this time at part of his UK All Night Long Tour across the UK at Village Underground. Expect a&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4168" class="btn btn--4168" href="https://villageunderground.co.uk/events/bushbaby-all-night-long-uk-tour-3rd-oct-village-underground-london-tickets-eomeaw/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4227" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/tekno-4th-oct-village-underground-london-tickets-7dxr3p/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-31/46cf4f72-c0d9-40c2-be4a-432bbe49b860.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-04T19:30:00+00:00">
+      
+       
+    Sun 4 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.30
+  &mdash; 23.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Tekno          </h3>
+                      <div class="listed-in">
+              afrobeats            </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Tekno Live in London | Full Live Band | Nigerian Independence Weekend For one night only, Afrobeats superstar Tekno returns to London for an exclusive&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4227" class="btn btn--4227" href="https://villageunderground.co.uk/events/tekno-4th-oct-village-underground-london-tickets-7dxr3p/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-4210" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/faster-horses-9th-oct-village-underground-london-tickets-q2pqrp/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-07-13/29375673-f1dd-4553-b4c6-5a35f0f0f932.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-09T23:00:00+00:00">
+      
+       
+    Fri 9 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  23.00
+  &mdash; 05.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Faster Horses          </h3>
+                      <div class="listed-in">
+                          </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Faster Horses returns to Village Underground for a night built on high-energy house music, infectious grooves and a dancefloor-first approach. Known for high-intensity sets that&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--4210" class="btn btn--4210" href="https://villageunderground.co.uk/events/faster-horses-9th-oct-village-underground-london-tickets-q2pqrp/">More</a>
+                      </div>
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+          </div>
+           <!-- data-col -->
+
+        </li>
+
+
+            
+        <li class="list--events__item" id="event-3819" itemscope itemtype="http://schema.org/Event">
+
+          <!-- ////////////////////////////////////////////////////////////////// -->
+
+          <div data-col>
+              <div class="list--events__item__image">
+              		
+	<div class="event-image-wrapper">
+
+ <a href="https://villageunderground.co.uk/events/buffalo-tom-10th-oct-village-underground-london-tickets-7dmprp/" class="event-image">
+
+  	 
+	 <img itemprop="image" src="https://dice-media.imgix.net/attachments/2026-03-10/478e2731-74f1-4308-974e-c774ff7bc9b9.jpg?auto=format&compress&q=80&w=800" alt="">
+	
+	
+ </a>
+ </div>
+  <!-- /.event-image-wrapper -->              </div>
+          </div>
+           <!-- data-col  -->
+
+           <div data-col class="flow">
+
+          <div class="list--events__item__dates">
+
+                         
+         
+
+    <time itemprop="startDate" datetime="2026-10-10T19:00:00+00:00">
+      
+       
+    Sat 10 Oct
+
+  </time>
+
+ <!-- ////////////////////////////////////////////////////////////////// -->
+
+
+
+            
+            <time class="time">
+             &bull; 
+  19.00
+  &mdash; 22.00
+            </time>
+            
+      
+          
+
+          </div>
+          <!-- list--events__item__dates -->
+
+                    <div class="list--events__item__title-text | flow" data-flow-small>
+
+            <h3 class="list--events__item__title" itemprop="name">
+            Buffalo Tom          </h3>
+                      <p>● SOLD OUT</p>
+                        <div class="listed-in">
+                          </div>
+            <!-- /.listed-in -->
+
+            <!-- ////////////////////////////////////////////////////////////////// -->
+            
+              
+
+              <div class="list--events__item__description" itemprop="description">
+                <p>
+                Formed in 1986 at UMASS (Amherst, MA), Buffalo Tom—Bill Janovitz (guitar/vocals), Chris Colbourn (bass/vocals), and Tom Maginnis (drums) — emerged from the same fertile Massachusetts&hellip;              </p>
+              </div>
+                      </div>
+          <!-- list--events__item__title-text -->
+                    <div class="list--events__item__link">
+    <a id="btn--3819" class="btn btn--3819" href="https://villageunderground.co.uk/events/buffalo-tom-10th-oct-village-underground-london-tickets-7dmprp/">More</a>
+            
+                           </div>
+
+          <!-- 
+<!-- TRIMMED BY recon.mjs -->

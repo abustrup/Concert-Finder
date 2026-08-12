@@ -482,13 +482,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
-<form action="/" class="search-form" enctype="multipart/form-data" id="formd5966f9e3f154a01af4ae31ff27cf96d" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
+<form action="/" class="search-form" enctype="multipart/form-data" id="form7d7985228ae94bb1b7540825efcf9d7a" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
 							<div class="search-term-container">
 								<label class="visually-hidden" for="topnav-search-term">S&#xF8;g</label>
 								<input id="topnav-search-term" class="w-100 search-term rounded-5" type="search" name="term" placeholder="S&#xF8;g" />
 							</div>
 							<div class="search-result-container pb-2 px-4"></div>
-<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOixve6NcaW9IIQgd7KEVmFe0dVsb_6xZC7yBz80uNbt4vGtHv-mJBzzhC5Erbo3m-Xz4rg0NF8atdJIClYewLNtcO2SizHZzMvV-A3rFQbvbJaVHo52f2PH5QcKJ0guUg" /></form>					</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOZBgXPuLdkKMc-alhQCsfgzqOraTZoNQ1qATgzE5C-UsGGKZHjipMY_cUb2rR-x1k1LHgh6-tKSVUZEb83b1GdH1RL_EEBHE-uYF__ClenQUxT0vBYV8wQVWbl01ovzUE" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aP8_z5I3oWQ0wrl2_uB8ZYxNXbCi4gpcvp-e1fFAh3FZsF74m40wgB11niGwlowUwt4v7fDuL4WoGCq26gbpDOVyQCd4HIkrcHYx7KqBB77cUbmoDZJLTM6cgdShJyMZn4" /></form>					</div>
 				</div>
 			</div>
 		</div>
@@ -554,9 +554,9 @@
 		</div>
 		<div class="timer">
 			<div class="days"><span class="days-value">287</span><span class="time-shorthand">D</span></div>
-			<div class="hours"><span class="hours-value">17</span><span class="time-shorthand">T</span></div>
-			<div class="minutes"><span class="minutes-value">55</span><span class="time-shorthand">M</span></div>
-			<div class="seconds"><span class="seconds-value">36</span><span class="time-shorthand">S</span></div>
+			<div class="hours"><span class="hours-value">16</span><span class="time-shorthand">T</span></div>
+			<div class="minutes"><span class="minutes-value">56</span><span class="time-shorthand">M</span></div>
+			<div class="seconds"><span class="seconds-value">28</span><span class="time-shorthand">S</span></div>
 		</div>
 		<div class="calendar-info d-flex align-items-center justify-content-center">
 			<div class="me-2 calendar-info-title">Tilføj til kalender</div>
@@ -637,10 +637,10 @@
 					
 				</div>
 
-					<div class="accordion accordion-flush" id="id-f33b8a8d8796465d85f90bda3228a9de">
+					<div class="accordion accordion-flush" id="id-56546de9e98f4df5ab4f635f59eaaf69">
 							<div class="accordion-item" data-faqtag="">
-								<h2 class="accordion-header" id="id-9e50eca699874a599e4c2c848df6d20d">
-									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-30bf098e01034c0889f1bbcd3a8865cf" aria-expanded="false" aria-controls="id-30bf098e01034c0889f1bbcd3a8865cf">
+								<h2 class="accordion-header" id="id-ef01b55ee9dd4d42aa621ec986e305be">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-366d4d5d303247d2b82a34e316651f2f" aria-expanded="false" aria-controls="id-366d4d5d303247d2b82a34e316651f2f">
 										<div class="pe-3">
 											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<g clip-path="url(#clip0_450_2701)">
@@ -685,7 +685,7 @@
 										</div>
 									</button>
 								</h2>
-								<div id="id-30bf098e01034c0889f1bbcd3a8865cf" class="accordion-collapse collapse" aria-labelledby="id-9e50eca699874a599e4c2c848df6d20d" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+								<div id="id-366d4d5d303247d2b82a34e316651f2f" class="accordion-collapse collapse" aria-labelledby="id-ef01b55ee9dd4d42aa621ec986e305be" data-bs-parent="#id-56546de9e98f4df5ab4f635f59eaaf69">
 									<div class="accordion-body">
 										<div><p>Jelling Musikfestival 2027 løber af stablen torsdag d. 27. maj til søndag d. 30. maj 2027.</p>
 <p>Jelling Musikfestival 2028 afholdes onsdag d. 24. maj til lørdag d. 27. maj 2028 – i Kr. Himmelfartsferien.</p></div>
@@ -693,8 +693,8 @@
 								</div>
 							</div>
 							<div class="accordion-item" data-faqtag="">
-								<h2 class="accordion-header" id="id-470fe73ab3d944f4bae9fa44b6632aed">
-									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-6ee7b3aea38247e98173f71ebe243974" aria-expanded="false" aria-controls="id-6ee7b3aea38247e98173f71ebe243974">
+								<h2 class="accordion-header" id="id-560e568d21444359986dfdec45381d40">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-63a824b0493b41ed9336c9238d3b5f82" aria-expanded="false" aria-controls="id-63a824b0493b41ed9336c9238d3b5f82">
 										<div class="pe-3">
 											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<g clip-path="url(#clip0_450_2701)">
@@ -739,15 +739,15 @@
 										</div>
 									</button>
 								</h2>
-								<div id="id-6ee7b3aea38247e98173f71ebe243974" class="accordion-collapse collapse" aria-labelledby="id-470fe73ab3d944f4bae9fa44b6632aed" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+								<div id="id-63a824b0493b41ed9336c9238d3b5f82" class="accordion-collapse collapse" aria-labelledby="id-560e568d21444359986dfdec45381d40" data-bs-parent="#id-56546de9e98f4df5ab4f635f59eaaf69">
 									<div class="accordion-body">
 										<div><p>Meld dig på holdet – og <a href="/faellesskab/frivillig/" title="Frivillig">bliv en del af Danmarks stærkeste festivalfællesskab</a>.</p></div>
 									</div>
 								</div>
 							</div>
 							<div class="accordion-item" data-faqtag="">
-								<h2 class="accordion-header" id="id-98c56fb9870e4e2f8ed4ddcd54963777">
-									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-e1d5658571ef488fb3e68ee5867de351" aria-expanded="false" aria-controls="id-e1d5658571ef488fb3e68ee5867de351">
+								<h2 class="accordion-header" id="id-334589b2b81247d2a8e3dcd2f3805eaf">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-8fd224c19f9b47aca6379f652b0264d8" aria-expanded="false" aria-controls="id-8fd224c19f9b47aca6379f652b0264d8">
 										<div class="pe-3">
 											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
 												<g clip-path="url(#clip0_450_2701)">
@@ -792,7 +792,7 @@
 										</div>
 									</button>
 								</h2>
-								<div id="id-e1d5658571ef488fb3e68ee5867de351" class="accordion-collapse collapse" aria-labelledby="id-98c56fb9870e4e2f8ed4ddcd54963777" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+								<div id="id-8fd224c19f9b47aca6379f652b0264d8" class="accordion-collapse collapse" aria-labelledby="id-334589b2b81247d2a8e3dcd2f3805eaf" data-bs-parent="#id-56546de9e98f4df5ab4f635f59eaaf69">
 									<div class="accordion-body">
 										<div><p class="MsoNormal">Efter Nets’ nedbrud har vi modtaget flere henvendelser om wallet-apps, der grundet en teknisk fejl viser ukorrekte betalinger. Vores opfordring er, at festivalgæster venter et par bankdage før de kontrollerer, at de trukne beløb på deres bankkonto stemmer.</p>
 <p class="MsoNormal">Du kan læse mere om problematikken <a href="/info/faq-om-betalinger-jmf26/" title="FAQ om betalinger – JMF26">her</a>.</p></div>
@@ -964,8 +964,8 @@
                                 <strong>VÆLG DANSKE ARTISTER</strong>
                             </div>
 
-<form action="/" class="danish-query-form" enctype="multipart/form-data" id="form9946d8c0019f42c783907bb457115a96" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-query" name="q" hidden value="" />
-<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNL0wo_FYzS7iYP_QRgbMIYIBN7KrOnuuE9mMMbXMi9tpU6hGdCBLIZWZPYZ_8MkHPoeLNVs_Dfm-PXF5RD73CX6yb78lJLvYztL-C9Rm_iIBLeQQ1PaNXBNV93oC3vgfw" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-select" name="danish" placeholder="V&#xE6;lg danske artister">
+<form action="/" class="danish-query-form" enctype="multipart/form-data" id="formec9f03487f4749c78fde8fdf36ad063a" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-query" name="q" hidden value="" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOZBgXPuLdkKMc-alhQCsfgzqOraTZoNQ1qATgzE5C-UsGGKZHjipMY_cUb2rR-x1k1LHgh6-tKSVUZEb83b1GdH1RL_EEBHE-uYF__ClenQUxT0vBYV8wQVWbl01ovzUE" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aO3mp0tdOLDP5xrTjSMTP_AkT5PRmWR6H0guVq2Yb1R19JqpHaiFutLVBBZaBhBI8fi19IXmCXPIwI_nuQg8O2m7ekPHs5kcDhLvAHZxFHVAvqXnJtRejlDh_9Yxbn5iZo" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-select" name="danish" placeholder="V&#xE6;lg danske artister">
                                 <option value="">Søg dansk artist</option>
                             </select>
                         </div>
@@ -976,8 +976,8 @@
                                 <strong>VÆLG INTERNATIONALE ARTISTER</strong>
                             </div>
 
-<form action="/" class="global-query-form" enctype="multipart/form-data" id="form851d696f0c3444a6900f8a457d50f7f1" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-query" name="q" hidden value="" />
-<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOgnFaE6B7FPETpTpxnRrsY8pDqf5z-M1hVNP2j8uURR9HUqJuVyV4Z-ebiHtjtJluX67R2BTbQP5h8UjnAwKxAiwuOpfAtiJqI82AFUhhaBO3j6aONayFjTyg2-7jjbiunVdejeBc4ZOQJLMJ7W1_f" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-select" name="international" placeholder="V&#xE6;lg internationale artister">
+<form action="/" class="global-query-form" enctype="multipart/form-data" id="form931235d6a8c7457e9e730d95f10c40a3" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-query" name="q" hidden value="" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOZBgXPuLdkKMc-alhQCsfgzqOraTZoNQ1qATgzE5C-UsGGKZHjipMY_cUb2rR-x1k1LHgh6-tKSVUZEb83b1GdH1RL_EEBHE-uYF__ClenQUxT0vBYV8wQVWbl01ovzUE" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aMmjHrEvybsU9sg3cbVknpQtRT_Zu8w2AAXiKYLrLkUTittWeVD8tmH6lMhNQBSd7rSTW5j5moScPcfPnTxm2YD8w9BNZtQaoeqVnk6F61gn_gqfcMGCKSplMOJO8NawUV9K-HQ9EyjrlYzKf08uMeP" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-select" name="international" placeholder="V&#xE6;lg internationale artister">
                                 <option value="">Søg international artist</option>
                             </select>
                         </div>
@@ -1025,7 +1025,7 @@
                         </div>
                     </div>
                     <div class="col-12 mt-4">
-<form action="/" class="wish-form" enctype="multipart/form-data" id="form82a5610072fe42a299f933ae32a44d12" method="post"><input data-val="true" data-val-required="The InternationalArtists field is required." id="wishModel_InternationalArtists" name="wishModel.InternationalArtists" type="hidden" value="" /><input data-val="true" data-val-required="The DanishArtists field is required." id="wishModel_DanishArtists" name="wishModel.DanishArtists" type="hidden" value="" />                            <div class="mb-3">
+<form action="/" class="wish-form" enctype="multipart/form-data" id="form4b434a62645a4ddc8d8149e3a76b008e" method="post"><input data-val="true" data-val-required="The InternationalArtists field is required." id="wishModel_InternationalArtists" name="wishModel.InternationalArtists" type="hidden" value="" /><input data-val="true" data-val-required="The DanishArtists field is required." id="wishModel_DanishArtists" name="wishModel.DanishArtists" type="hidden" value="" />                            <div class="mb-3">
                                 <label for="wishModel_Name">Navn *</label>
                                 <input class="form-control" data-val="true" data-val-required="P&#xE5;kr&#xE6;vet" id="wishModel_Name" name="wishModel.Name" placeholder="Navn" type="text" value="" />
                                 <span class="field-validation-valid" data-valmsg-for="wishModel.Name" data-valmsg-replace="true"></span>
@@ -1069,7 +1069,7 @@
                                 </div>
                             </div>
                             <button type="submit" class="wish-form-submit btn btn-primary w-100 text-uppercase fw-bold rounded-0">INDSEND</button>
-<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNsG2yHL0AizDYz4R1doQ8H3zH2msCdB0uj20RKbOAvjoOhioNmgEK7jg5fc0JEz6EPDALRD7bVd3Nmw8_l1EE7FVzrfB9req9fcXxrlZUI-l_OMjoI9vwx4dcvUHSxqes" /><input name="wishModel.Newsletter" type="hidden" value="false" /><input name="wishModel.Terms" type="hidden" value="false" /></form>                    </div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOZBgXPuLdkKMc-alhQCsfgzqOraTZoNQ1qATgzE5C-UsGGKZHjipMY_cUb2rR-x1k1LHgh6-tKSVUZEb83b1GdH1RL_EEBHE-uYF__ClenQUxT0vBYV8wQVWbl01ovzUE" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aPRt4RpkeJgJTySkitpweMa268jttmvSAzzamnhM1O-2OLzEcRowOc2FURDqu3yD6wgazC4zSgRmd0raf4hn64alRc4oWjD3h4FBnZXs1FFFX3YxV2hwo1I2XRyVYAQ7FQ" /><input name="wishModel.Newsletter" type="hidden" value="false" /><input name="wishModel.Terms" type="hidden" value="false" /></form>                    </div>
                 </div>
             </div>
         </div>

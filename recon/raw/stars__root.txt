@@ -87,7 +87,7 @@ fbq('track', 'ViewContent', {"content_type":"product","content_ids":"24"});
           <p>Dette website benytter cookies for at forbedre brugeroplevelsen for dig og andre. Hvis du klikker videre på websitet, accepterer du samtidig vores brug af cookies.
 </p>
         </div>
-          <form action="/" method="post" id="simple-cookie-compliance-dismiss-form" accept-charset="UTF-8"><input class="cookie-compliance__button" type="submit" id="edit-submit" name="op" value="Ok" /><input type="hidden" name="form_build_id" value="form-pBdb0gzp1GTKCdTJ8j9XJd4nKobQuO1gueBe_BnEmfU" />
+          <form action="/" method="post" id="simple-cookie-compliance-dismiss-form" accept-charset="UTF-8"><input class="cookie-compliance__button" type="submit" id="edit-submit" name="op" value="Ok" /><input type="hidden" name="form_build_id" value="form-rOV-F2RYHgA7FOxE3qCviCNCc4Uptth-sbtmoBGw7Fo" />
 <input type="hidden" name="form_id" value="simple_cookie_compliance_dismiss_form" />
 </form>      </div>
 </div>

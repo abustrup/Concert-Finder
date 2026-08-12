@@ -482,13 +482,13 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
-<form action="/program" class="search-form" enctype="multipart/form-data" id="formc06bfaca000a43d2890ac359b364fee7" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
+<form action="/program" class="search-form" enctype="multipart/form-data" id="form62d4d26e07404ea6a88a04bf1abf9132" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
 							<div class="search-term-container">
 								<label class="visually-hidden" for="topnav-search-term">S&#xF8;g</label>
 								<input id="topnav-search-term" class="w-100 search-term rounded-5" type="search" name="term" placeholder="S&#xF8;g" />
 							</div>
 							<div class="search-result-container pb-2 px-4"></div>
-<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNW0es_4VKrKSR8X50U__klPowDvpOpH-99VI8aePWSWFDBtmi-1Izg1_MaI-shwnkcgA2d51irFphaNsW0VIEKJuUUgC257ueH5bsHKzCX665Icl5YmvHlszUebiIvIK0" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOkBPUQpzY5qVAhwpz4NtpCYr4MAlg9bei2Hs81aMVIBklZMQr7ZJt_StnwrYpkyqEzuvPqnsaFbjZsAGSSidtz0LzhgTK-gc9uw5xuMkV9z6s_alZCoZhSJA8D11tcNw8" /></form>					</div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aMH6Y3XjmeRS6Axjv4h6zqzhnWHE-1u4NA_cKDR-QiVnKbSVqXidK9ZyEt5zkJ4u21ovXTjrBEb2noeNhamCodjbKY7u9g3elqKBQkHIUggGpMOYO1C4RPhQyyZg7R7vW4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aP2-eTndGdfCa-Fptm6oNoA0oc67UoWMqQ0BOEvluumCIQjLesqjGYl47OcRdtswWdHEgJTL2FVIw6fMMYj639pKQxrav4WofQHhzn5OJ-NHFN9rqrCrd_WFyQ7YSoqL2c" /></form>					</div>
 				</div>
 			</div>
 		</div>
@@ -557,9 +557,9 @@
 		</div>
 		<div class="timer">
 			<div class="days"><span class="days-value">287</span><span class="time-shorthand">D</span></div>
-			<div class="hours"><span class="hours-value">17</span><span class="time-shorthand">T</span></div>
-			<div class="minutes"><span class="minutes-value">55</span><span class="time-shorthand">M</span></div>
-			<div class="seconds"><span class="seconds-value">35</span><span class="time-shorthand">S</span></div>
+			<div class="hours"><span class="hours-value">16</span><span class="time-shorthand">T</span></div>
+			<div class="minutes"><span class="minutes-value">56</span><span class="time-shorthand">M</span></div>
+			<div class="seconds"><span class="seconds-value">26</span><span class="time-shorthand">S</span></div>
 		</div>
 		<div class="calendar-info d-flex align-items-center justify-content-center">
 			<div class="me-2 calendar-info-title">Tilføj til kalender</div>

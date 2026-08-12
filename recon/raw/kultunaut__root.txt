@@ -377,7 +377,7 @@ addMenuNavi(['nautnavi1','nautnavi2']);
 <p class="dato_left">
 Onsdag d. 12. august
 </p>
-<span class="nautmstor">139063
+<span class="nautmstor">139104
 </span><br/>
 <span class="arrangementer">arrangementer</span>
 </div>
@@ -1876,7 +1876,7 @@ function setOrder(value) {
   <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19991555" class="product-content" data-position="1" data-id="30801" data-price="125">
     
     <div class="kult-image">
-      <img alt="" src="https://www.kultunaut.dk/perl/images/genre/W520H280_rock1.jpg">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/genre/W520H280_rockpop4.jpg">
     </div>
     
     <div class="arr-info">
@@ -1954,6 +1954,55 @@ function setOrder(value) {
   </a>
 	<div class="noprint c-husk naut-button notranslate">
 		<div class="nautrating" data-ratingid="event20091846">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20148458" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20148458" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files3823638791.png">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Fluid Festival</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Tor. 13. til l�r. 15. aug. 2026 Tor-l�r, <b class="notranslate">Frue Plads</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20148458">
 		<div role="button" aria-label="Like" data-rating="Like" class="like">
 			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
 			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
@@ -2062,45 +2111,44 @@ function setOrder(value) {
 	</div>
 </div>
 	<div style="clear:both"></div>
-</div><div data-arrnr="20148458" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+</div><div data-arrnr="19868440" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
 
  
 
 
 	<div style="position:relative">
-  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20148458" class="product-content" data-position="1" data-id="30801" data-price="125">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19868440" class="product-content" data-position="1" data-id="30801" data-price="125">
     
     <div class="kult-image">
-      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files3823638791.png">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files382173000NemolandConnieMariaWestergaard.jpg">
     </div>
     
     <div class="arr-info">
 
       <div class="arr-genre">
         <span class="genre_cat notranslate">
-          Musik
-          
+          Rock/Pop
         </span>
-        <h3><strong>Fluid Festival</strong></h3>
+        <h3><strong>S�ndagskoncerter p� Nemoland</strong></h3>
       </div>
 
       <div class="arr-description">
 
       
       
-<span>
+<span>N�r det er sommer, sol og s�ndag, kan du ganske kvit og frit opleve to koncerter p� Caf� Nemoland p� Christiania. Til koncerterne kan du b�de opleve nogle af dansk musiks mest lovende, nye navne og de gode, gamle klassikere.
 
 </span>
 			</div>
       <div class="kult-month-day">
-        <time>Tor. 13. til l�r. 15. aug. 2026 Tor-l�r, <b class="notranslate">Frue Plads</b></time>
+        <time>S�n. 17. maj til s�n. 23. aug. 2026 S�ndage, <b class="notranslate">Caf� Nemoland</b></time>
         <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
       </div>
 
     </div>
   </a>
 	<div class="noprint c-husk naut-button notranslate">
-		<div class="nautrating" data-ratingid="event20148458">
+		<div class="nautrating" data-ratingid="event19868440">
 		<div role="button" aria-label="Like" data-rating="Like" class="like">
 			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
 			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
@@ -2162,54 +2210,6 @@ function setOrder(value) {
 	</div>
 </div>
 	<div style="clear:both"></div>
-</div><div data-arrnr="19868440" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
-
- 
-
-
-	<div style="position:relative">
-  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19868440" class="product-content" data-position="1" data-id="30801" data-price="125">
-    
-    <div class="kult-image">
-      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files382173000NemolandConnieMariaWestergaard.jpg">
-    </div>
-    
-    <div class="arr-info">
-
-      <div class="arr-genre">
-        <span class="genre_cat notranslate">
-          Rock/Pop
-        </span>
-        <h3><strong>S�ndagskoncerter p� Nemoland</strong></h3>
-      </div>
-
-      <div class="arr-description">
-
-      
-      
-<span>N�r det er sommer, sol og s�ndag, kan du ganske kvit og frit opleve to koncerter p� Caf� Nemoland p� Christiania. Til koncerterne kan du b�de opleve nogle af dansk musiks mest lovende, nye navne og de gode, gamle klassikere.
-
-</span>
-			</div>
-      <div class="kult-month-day">
-        <time>S�n. 17. maj til s�n. 23. aug. 2026 S�ndage, <b class="notranslate">Caf� Nemoland</b></time>
-        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
-      </div>
-
-    </div>
-  </a>
-	<div class="noprint c-husk naut-button notranslate">
-		<div class="nautrating" data-ratingid="event19868440">
-		<div role="button" aria-label="Like" data-rating="Like" class="like">
-			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
-			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
-		</div>
-		
-	</div>
-
-	</div>
-</div>
-	<div style="clear:both"></div>
 </div><div data-arrnr="20100112" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
 
  
@@ -2258,16 +2258,16 @@ function setOrder(value) {
 	</div>
 </div>
 	<div style="clear:both"></div>
-</div><div data-arrnr="20014837" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+</div><div data-arrnr="20061984" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
 
  
 
 
 	<div style="position:relative">
-  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20014837" class="product-content" data-position="1" data-id="30801" data-price="125">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20061984" class="product-content" data-position="1" data-id="30801" data-price="125">
     
     <div class="kult-image">
-      <img alt="" src="https://www.kultunaut.dk/perl/images/yourticket/W520H280_includesuploadimages8007A7B3BD6E4106860F361E167B20251000.jpg">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/user/W520H280_ai-q4c87hl0M2YOx8KhkdgAAAC0-ai-3zvObR9EMegMj0y4XgQAAAA4.png">
     </div>
     
     <div class="arr-info">
@@ -2277,28 +2277,26 @@ function setOrder(value) {
           Musik
           
         </span>
-        <h3><strong>�rhus Sommerfestival 2026</strong></h3>
+        <h3><strong>Gratis koncert med Dahlin</strong></h3>
       </div>
 
       <div class="arr-description">
 
       
       
-<span>Partoutbillet til �rhus Sommerfestival 2026.
-
-  Arrangeret af �rhus Sommerfestival.
+<span>Igen i �r inviterer vi til fire gratis, intimkoncerter med nogle af de st�rkeste og mest lovende navne p� den danske musikscene - og som den tredje i r�kken kan du opleve Dahlin live, torsdag den 13. august.
 
 </span>
 			</div>
       <div class="kult-month-day">
-        <time>Tir. 21. jul. til l�r. 15. aug. 2026 kl. 19.30-17.30, <b class="notranslate">Ellevang Kirke</b></time>
+        <time>Tor. 13. aug. 2026 kl. 18-21, <b class="notranslate">G�rdhaven i Amager Centret</b></time>
         <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
       </div>
 
     </div>
   </a>
 	<div class="noprint c-husk naut-button notranslate">
-		<div class="nautrating" data-ratingid="event20014837">
+		<div class="nautrating" data-ratingid="event20061984">
 		<div role="button" aria-label="Like" data-rating="Like" class="like">
 			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
 			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>

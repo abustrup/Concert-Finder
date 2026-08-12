@@ -1,0 +1,2510 @@
+
+
+
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+    <head>
+        
+          
+
+
+<meta charset="utf-8" />
+<title>
+    Programm | Berghain / Panorama Bar / Säule / Halle / Kantine am Berghain
+
+
+    
+        — Berghain
+    
+
+</title>
+
+<link rel="canonical" href="http://www.berghain.berlin/en/program/">
+<meta property="fb:page_id" content="107891660540">
+<meta property="og:type" content="website">
+<meta property="og:url" content="http://www.berghain.berlin/en/program/">
+<meta property="og:title" content="
+    Programm | Berghain / Panorama Bar / Säule / Halle / Kantine am Berghain
+
+
+    
+        — Berghain
+    
+
+">
+
+
+  <meta property="og:image" content="/static/berghain/og-image.jpg">
+
+
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="http://www.berghain.berlin/en/program/">
+<meta property="twitter:title" content="
+    Programm | Berghain / Panorama Bar / Säule / Halle / Kantine am Berghain
+
+
+    
+        — Berghain
+    
+
+">
+
+
+  <meta property="twitter:image" content="/static/berghain/twitter-card.jpg">
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/static/berghain/apple-touch-icon.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png">
+<link rel="shortcut icon" href="/static/favicon.ico">
+
+<link rel="manifest" href="/berghain.webmanifest/">
+<link rel="mask-icon" href="/static/berghain/safari-pinned-tab.svg" color="#333131">
+<meta name="theme-color" content="#141414">
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+
+        
+
+        
+            <link rel="stylesheet" type="text/css" href="/static/css/berghain.prod.css">
+        
+
+        
+            
+        
+
+        
+            
+            
+            <link rel="alternate" href="/de/program/" hreflang="de">
+            
+            
+        
+            
+        
+
+        
+
+<link rel="preload" href="/static/fonts/Graphik-Regular-Web.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/static/fonts/Graphik-Semibold-Web.woff2" as="font" type="font/woff2" crossorigin>
+
+<style>
+  @font-face {
+    font-family: 'Graphik';
+    src: url('/static/fonts/Graphik-Semibold-Web.woff2') format('woff2'),
+         url('/static/fonts/Graphik-Semibold-Web.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+  }
+
+  @font-face {
+    font-family: 'Graphik';
+    src: url('/static/fonts/Graphik-Regular-Web.woff2') format('woff2'),
+         url('/static/fonts/Graphik-Regular-Web.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    font-display: swap;
+  }
+</style>
+
+<script>
+  if ('fonts' in document) {
+    var italic = new FontFace("Graphik", "url(/static/fonts/Graphik-RegularItalic-Web.woff2) format('woff2'), url(/static/fonts/Graphik-RegularItalic-Web.woff) format('woff')", { style: "italic" });
+    Promise.all([ italic.load() ]).then(function(fonts) {
+      fonts.forEach(function(font) {
+        document.fonts.add(font);
+      });
+    });
+  }
+</script>
+
+
+        
+<script>
+  window.BERGHAIN_SHOPIFY_SETTINGS = {
+    SHOPIFY_SHOP_URL: "https://berghain-ostgut.myshopify.com",
+    SHOPIFY_GRAPHQL_ENDPOINT: "https://berghain-ostgut.myshopify.com/api/2024-04/graphql.json",
+    SHOPIFY_ACCESS_TOKEN: "4ffca0a4c2364cf7adb97e1b0552dc2b"
+  }
+</script>
+
+    </head>
+
+    <body class="font-body font-normal antialiased m-0 bg-black text-grey">
+        
+
+        
+
+        
+<div class="octagon"></div>
+<div class="px-1/2 md:px-1 xl:px-2 pt-1 pb-1 lg:pt-3 lg:pb-3 max-w-1600px mx-auto">
+  <div class="lg:flex lg:min-w-full lg:px-1 xl:px-2">
+    <header
+      class="relative lg:main-menu-container w-100 lg:flex lg:flex-col justify-between xl:main-menu-container--lock-padding">
+      
+      <nav class="flex items-start justify-between mb-1 lg:block">
+        
+        <a class="logo" href="/en/">
+          <img src="/static/images/berghain-logo.svg" alt="Home">
+        </a>
+        
+        
+        
+
+
+
+
+<ol class="main-menu gap-y-1/2 flex flex-auto justify-end items-center flex-wrap text-md leading-cosy font-bold lg:block lg:mt-1 lg:text-lg lg:gap-y-0">
+  
+    <li class="mr-3/4 md:mr-2 text-white">
+      <a href="/en/program/">Program</a>
+    </li>
+  
+    <li class="mr-3/4 md:mr-2">
+      <a href="/en/shop/">Shop</a>
+    </li>
+  
+    <li class="mr-3/4 md:mr-2">
+      <a href="/en/awareness/">Awareness</a>
+    </li>
+  
+  <li>
+    <ol class="flex justify-end lg:justify-start gap-y-1">
+      <li class="mr-3/4 md:mr-2 h-24px w-24px w-100 lg:mt-1/2 hidden" data-cart-size-container>
+        <a href="/en/cart/" class="block relative pb-100 ">
+          <span data-cart-size class="cart-menu-item flex items-center justify-center text-md text-light-black w-100 h-100 absolute top-0 left-0"></span>
+        </a>
+      </li>
+      <li class="relative lg:hidden">
+        <button class="w-1 h-100 align-middle mr-1/2" aria-haspopup="true" aria-expanded="false" aria-label="More menu items">
+            <svg aria-hidden="true" class="fill-current" viewBox="0 0 22 4" fill="#A7A7A7" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="2" cy="2" r="2"/>
+    <circle cx="11" cy="2" r="2"/>
+    <circle cx="20" cy="2" r="2"/>
+  </svg>
+
+        </button>
+        <ol hidden class="shadow-mobile-nav mt-1 absolute right-0 z-20 px-1 pb-1 bg-light-black" style="width: 12em">
+          <li>
+<div class="mt-1 text-sm leading-tight lg:leading-normal">
+  <h4 class="font-normal">Location</h4>
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="/en/contact">Am Wriezener Bahnhof<br/>10243 Berlin<br/>Germany</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li>
+<div class="mt-1 leading-tight text-sm lg:leading-normal">
+  <h4 class="font-normal">Label</h4>
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="http://www.ostgut.berlin/en/label/">Ostgut Ton</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li style="margin-bottom: 20px;"></li>
+           <!-- Custom link only on berghain.berlin, showing Bierhof -->
+           
+           <li><a href="https://bierhof.info/" class="mt-8 font-bold">Bierhof</a></li>
+           
+          <li class="mt-1">
+<div class=" leading-tight text-sm lg:leading-normal">
+  
+  
+  <ul class="font-bold">
+    
+    <li class=" mb-1">
+      <a href="https://jobs.berghain.de">Jobs</a>
+    </li>
+    
+    <li class="">
+      <a href="/en/imprint/">Legal Notice</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li>
+<div class=" leading-tight text-sm lg:leading-normal">
+  
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="/en/terms/">Privacy &amp; Terms</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          
+          
+          
+         
+          
+          <li>
+<div class="w-100 align-left text-sm font-bold">
+  
+  
+    <a href="/de/program/" class="cursor-pointer font-bold" data-language-switch lang="de">Auf Deutsch</a>
+  
+</div>
+</li>
+        </ol>
+      </li>
+    </ol>
+  </li>
+</ol>
+
+        
+      </nav>
+      
+      <nav class="hidden lg:block">
+        <ol>
+          <li>
+<div class="mt-1 text-sm leading-tight lg:leading-normal">
+  <h4 class="font-normal">Location</h4>
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="/en/contact">Am Wriezener Bahnhof<br/>10243 Berlin<br/>Germany</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li>
+<div class="mt-1 leading-tight text-sm lg:leading-normal">
+  <h4 class="font-normal">Label</h4>
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="http://www.ostgut.berlin/en/label/">Ostgut Ton</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li style="margin-bottom: 20px;"></li>
+          <!-- Custom link only on berghain.berlin, showing Bierhof -->
+          
+          <li><a href="https://bierhof.info/" class="mt-8 font-bold text-sm leading-tight lg:leading-normal">Bierhof</a></li>
+          
+          <li class="mt-1">
+<div class=" leading-tight text-sm lg:leading-normal">
+  
+  
+  <ul class="font-bold">
+    
+    <li class=" mb-1">
+      <a href="https://jobs.berghain.de">Jobs</a>
+    </li>
+    
+    <li class="">
+      <a href="/en/imprint/">Legal Notice</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          <li>
+<div class=" leading-tight text-sm lg:leading-normal">
+  
+  
+  <ul class="font-bold">
+    
+    <li class="">
+      <a href="/en/terms/">Privacy &amp; Terms</a>
+    </li>
+    
+  </ul>
+  
+</div>
+</li>
+          
+          <li><a href="https://berghain.berlin/de/barrierefreiheit/" class="font-bold text-sm leading-tight lg:leading-normal">Barrierefreiheit</a></li>
+          
+
+          
+
+
+
+          <li>
+<div class="w-100 align-left text-sm font-bold">
+  
+  
+    <a href="/de/program/" class="cursor-pointer font-bold" data-language-switch lang="de">Auf Deutsch</a>
+  
+</div>
+</li>
+        </ol>
+      </nav>
+      
+      
+    </header>
+    <main class="lg:content-block lg:flex lg:flex-col lg:w-3/5">
+      
+
+
+  <figure class="pb-100_20/7 relative border-b-2 skew-3 border-transparent overflow-hidden">
+    <div class="absolute -top-15 h-full w-full">
+      
+        
+        <img  alt="berghain-august-HEADER2-2000x800" height="280" src="https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-800x280.jpg" width="800" srcset="https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-300x105.jpg 300w, https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-600x210.jpg 600w, https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-800x280.jpg 800w, https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-1000x350.jpg 1000w, https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-1600x560.jpg 1600w, https://cdn.berghain.berlin/media/images/berghain-august-HEADER2-2000x800.2e16d0ba.fill-1900x665.jpg 1900w" sizes="(min-width: 100em) 60rem, (min-width: 64em) 60vw, 100vw" class="h-full w-full object-cover">
+        
+          <figcaption class="absolute bottom-0 right-0">
+            <div class="top-angle top-angle--reversed bg-light-black"></div>
+            <div class="text-xxs md:text-xs p-1/2 leading-tight bg-light-black">
+              
+                <a href="https://www.instagram.com/plusminusstudio" target="_blank" rel="noopener">Artwork by: Plusminus Studio</a>
+              
+            </div>
+          </figcaption>
+        
+      
+    </div>
+  </figure>
+
+
+  
+    
+
+<nav class="sticky top-0 border-t-1 border-b-2 border-black md:border-mid-black bg-mid-black z-10">
+  <ul class="flex w-100 p-3/4 md:p-1 bg-light-black bg-clip-padding">
+    <li class="mr-1 md:mr-2">
+      
+      <a href="/en/program/" class="text-sm md:text-md font-bold text-white">
+        Club
+      </a>
+    </li>
+    <li class="mr-1 md:mr-2">
+      <a class="text-sm md:text-md font-bold " href="/en/program/kantine-am-berghain/">
+        Kantine <span class="hidden md:inline">am Berghain</span>
+      </a>
+    </li>
+    <li class="mr-1 md:mr-2">
+      <a class="text-sm md:text-md font-bold " href="/en/program/halle/">
+        Halle
+      </a>
+    </li>
+    <li>
+      <a class="text-sm md:text-md font-bold " href="/en/program/archive/">
+        All Months
+      </a>
+    </li>
+  </ul>
+  
+</nav>
+
+    <h1 class="hidden">Program Upcoming</h1>
+  
+
+  
+    
+
+
+  
+    <a href="/en/event/82486/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Wednesday
+        <span class="font-bold">
+        12.08.2026
+        </span>
+        
+          doors 19:00
+        
+        start 20:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Trembling / Drifting &amp; The Sound of Difference and Connection
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Halle
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Solistenensemble Kaleidoskop</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">WhatWhy Art</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80839/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        13.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Weeeirdos
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Juliana Huxtable</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Khloe</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Lolsnake</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Taurean</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80788/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        14.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Bite Nite
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Rrose</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Phase Fatale & P.E.A.R.L.</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Unhuman & 00rt</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Volvox & Dominga</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">ketia</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Kim Ann Foxman</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Oscar Mulero</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Pablo Bozzi</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80738/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        15.08.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mathew Jonson</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Barker</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">DJ Nobu</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ina Kacz</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">LYZA</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Nastia Reigel</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Rene Wise</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ryan Elliott</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Annabelle Gaspar</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Eden Burns</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Eli Escobar</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Loidis</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Man Power</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mayurashka</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ogazón</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80840/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        20.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          SÄULE
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Wave Arising</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ebony Willis</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Marylou</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80789/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        21.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          REEF
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Alix Perez</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Darwin</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Dbridge</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Esposito</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Headhunter</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Arthur</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Carré</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Dubrunner</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jan Loup</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Le Motel & Magugu</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80739/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        22.08.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Amanda Mussi</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Andy Martin</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Banu</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">DJ Maria.</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Kaiser</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Kwartz</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Norman Nodge</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">André Galluzzi</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Deepa</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Franziska Berns</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">HUNEE</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Maruwa</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mattias El Mansouri</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Nicola Cruz</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Zombies In Miami</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80841/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        27.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          KEYI Magazine
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">L.F.T.</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Oppenheimer MKII</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Berlin Bunny</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Bézier</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Eyes Dice</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Samantha Togni</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80790/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        28.08.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Love On The Rocks
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">BOBBY.</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Fais Le Beau</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Giammarco Orsini</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Marie Montexier</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">PARAMIDA</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">QUEST</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80740/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        29.08.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #f15f4d"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Answer Code Request</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Paul Claude</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #f15f4d"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Amotik</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Chami</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Clarisa Kimskii</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Newa</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Shinedoe</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Stefan Goldmann</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tauceti</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #f15f4d"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Âme DJ</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Bella Boo</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Loren</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Niebla</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Oracy</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tijana T</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Yamour</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+
+  
+    <a href="/en/event/80842/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        03.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Omen Wapta
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Laima Adelaide</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Blume</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Floid</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Marco Maldarella</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Woody92</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80791/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        04.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Desert Ghosts
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Lawrence</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Thomas Melchior</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Edward</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Konduku</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Sibel</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tau Car</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80741/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        05.09.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Hurdslenk</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Deetron</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Josh Caffé</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mareena</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Reka Zalan</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Sanna Mun</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Steffi</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Stojche</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">VIL</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Zenker Brothers</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">DJ Miss Parker</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Gabrielle Kwarteng</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Gwenan</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Majdolen</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Massimiliano Pagliara</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Moopie</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Sedef Adasï</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+
+  
+
+  
+    <a href="/en/event/80792/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        11.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Laundrette
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">CC:DISCO!</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">David Elimelech</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Partok</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Paul Wolsch</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Roi Perez</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Sally C</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Samira</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+
+  
+
+  
+    <a href="/en/event/80742/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        12.09.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Drumcell</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Kangding Ray</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Lolsnake</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mari Sakurai</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Perfo</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Virginia</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Wata Igarashi</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Erik Luebs</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Gio Thello</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jennifer Loveless</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jump Source</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Kikelomo</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Subb-an</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tama Sumo</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    <a href="/en/event/80844/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        17.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Mäzen
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Nadia Struiwigh</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Pre Silent</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Acronym</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Thirteen Doze</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80793/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        18.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Italorama Bar
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">N.O.I.A.</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Curses</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Dash</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Franz Scala</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Giulia Gutterer</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Intergalactic Gary</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Lennart</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80743/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        19.09.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ben Klock</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">DHÆÜR</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Fadi Mohem</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">JakoJako</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Marie Montexier</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mary Yuzovskaya</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">OPH</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Alinka</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Budino</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Cinthie</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Francesco del Garda</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Mike Starr</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Prom Night</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tal Fussman</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Rex The Dog</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80845/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Thursday
+        <span class="font-bold">
+        24.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Terenor
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Säule
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">KĀ</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Ninon</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Agata</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Cunt Remember</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Egregore</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jolly</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+  
+    <a href="/en/event/80794/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Friday
+        <span class="font-bold">
+        25.09.2026
+        </span>
+        
+        start 22:00
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          WSNWG LIVE
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Dasha Rush</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Megan Leber</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Rødhåd</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Speedy J</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">UFO95</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+    <a href="/en/event/80744/" class="upcoming-event block p-3/4 md:p-1 pb-2 bg-light-black hover:bg-light-black-flash bg-clip-padding border-b-2 border-transparent">
+      <p class="text-sm md:text-md leading-tight">
+        Saturday
+        <span class="font-bold">
+        26.09.2026
+        </span>
+        
+        start 23:59
+      </p>
+      
+        <h2
+          class="text-lg md:text-xl font-bold text-white"
+          
+            style="color: #aa7942"
+          
+        >
+          Klubnacht
+        </h2>
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Berghain
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Colin Benders</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Auspex</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Beste Hira</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Joline Scheffler</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Marcel Dettmann</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tasha</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">UVB</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+          <h3
+            class="text-sm md:text-md text-white"
+            
+              style="color: #aa7942"
+            
+          >
+            Panorama Bar
+          </h3>
+          
+            
+              <h4 class="text-lg md:text-xl ml-3/4 leading-tight">
+                
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Pulsinger & Irl</span>
+    <span
+      class="text-sm md:text-md text-white font-bold uppercase"
+      
+        style="color: #aa7942"
+      
+    >Live</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Bradley Zero</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Fabio Monesi</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jana Falcon</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Jorkes</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Make A Dance</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">MATISA</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">nd_baumecker</span>, 
+  </span>
+
+  <span class="font-bold">
+    <span class="xs:whitespace-no-wrap">Tripmastaz</span>
+  </span>
+
+
+              </h4>
+            
+          
+        
+      
+    </a>
+  
+
+  
+
+
+    
+      <button id="load-more-events" class="w-100 text-left p-3/4 md:p-1 pt-1 border border-transparent bg-light-black text-grey">
+        <span class="underline underline-offset">See more events</span>
+      </button>
+    
+  
+
+
+    </main>
+  </div>
+</div>
+
+
+        
+        <script src="/static/js/berghain.js"></script>
+        <script>
+          document.addEventListener('DOMContentLoaded', function () {
+            window.Berghain.responsiveNav('nav button');
+          });
+
+          window.BERGHAIN_SHOPIFY_SETTINGS = {
+            SHOPIFY_SHOP_URL: "https://berghain-ostgut.myshopify.com",
+            SHOPIFY_GRAPHQL_ENDPOINT: "https://berghain-ostgut.myshopify.com/api/2024-04/graphql.json",
+            SHOPIFY_ACCESS_TOKEN: "4ffca0a4c2364cf7adb97e1b0552dc2b"
+          }
+        </script>
+
+        
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    function calcEventRef() {
+      var dates = document.querySelectorAll('.upcoming-event');
+      var ref = dates[dates.length - 1];
+      return ref;
+    }
+
+    window.Berghain.initLoadMore(2, 'load-more-events', 'page', calcEventRef, 'afterend');
+
+    // Handle Scroll
+    document.addEventListener('scroll', function(e) {
+      let scrollPercentage = (window.innerHeight + window.pageYOffset) / document.documentElement.scrollHeight;
+      if (scrollPercentage > 0.75) {
+        let loadMoreButton = document.querySelector('#load-more-events');
+        if (loadMoreButton) {
+          loadMoreButton.click();
+        }
+      };
+    });
+  });
+</script>
+
+
+        <script>
+            var languageSwitch = document.querySelectorAll('[data-language-switch]');
+            for (var i = 0; i < languageSwitch.length; i++) {
+                languageSwitch[i].addEventListener('click', function (event) {
+                    var d = new Date();
+	                d.setTime(d.getTime() + 24*60*60*1000*7);
+                    document.cookie = 'django_language' + "=" + event.target.lang + ";path=/;SameSite=Lax;expires=" + d.toGMTString();
+                    window.location.href = event.target.href;
+                    event.preventDefault();
+                });
+            }
+        </script>
+
+        <script src="/static/shop/shop-client/dist/cart.js"></script>
+    </body>
+</html>

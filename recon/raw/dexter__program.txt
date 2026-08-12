@@ -993,7 +993,7 @@ var MyAjax = {"ajaxurl":"https://dexter.dk/wp-admin/admin-ajax.php","security":"
 //# sourceURL=gob-events-script-js-extra
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gob-events/js/gob-events.js?ver=1786565035" id="gob-events-script-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gob-events/js/gob-events.js?ver=1786568583" id="gob-events-script-js"></script>
 <script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gu-menu/js/jquery.slicknav.min.js?ver=1.0.10" id="gu-slicknav-js-js"></script>
 <script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gu-menu/js/gu-menu.js?ver=1.0.10" id="gu-menu-js-js"></script>
 <script type="text/javascript" id="lightbox-acf-insert-js-js-extra">

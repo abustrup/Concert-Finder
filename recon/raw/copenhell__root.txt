@@ -63,7 +63,7 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
 </style>
 
 <link rel="https://api.w.org/" href="https://copenhell.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://copenhell.dk/wp-json/wp/v2/pages/1568" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://copenhell.dk/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 7.0.3" />
+<meta name="generator" content="WordPress 7.0.4" />
 <link rel="canonical" href="https://copenhell.dk/" />
 <link rel='shortlink' href='https://copenhell.dk/' />
 <link rel="icon" href="https://copenhell.dk/wp-content/uploads/2025/09/cropped-favicon-32x32.png" sizes="32x32" />

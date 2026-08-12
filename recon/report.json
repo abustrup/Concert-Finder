@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-08-12T20:03:16.512Z",
+  "generatedAt": "2026-08-12T21:02:20.724Z",
   "userAgent": "ConcertFinderBot/0.1 (+https://github.com/abustrup/Concert-Finder; personal non-commercial concert recommender; contact via GitHub issues)",
-  "runner": "github-actions run 31635692832",
+  "runner": "github-actions run 31640600913",
   "hosts": [
     {
       "id": "vega",
@@ -24,7 +24,7 @@
           "bytes": 366735,
           "truncated": false,
           "finalUrl": "https://vega.dk/",
-          "ms": 431,
+          "ms": 270,
           "signals": [
             "nextjs",
             "ticketmaster-links",
@@ -45,7 +45,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/koncerter",
-          "ms": 122,
+          "ms": 192,
           "signals": [
             "nextjs"
           ],
@@ -63,7 +63,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/program",
-          "ms": 127,
+          "ms": 199,
           "signals": [
             "nextjs"
           ],
@@ -81,7 +81,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 119,
+          "ms": 188,
           "signals": [
             "nextjs"
           ],
@@ -99,7 +99,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/wp-json/wp/v2/types",
-          "ms": 118,
+          "ms": 182,
           "signals": [
             "nextjs"
           ],
@@ -117,7 +117,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/events.ics",
-          "ms": 117,
+          "ms": 196,
           "signals": [
             "nextjs"
           ],
@@ -135,7 +135,7 @@
           "bytes": 1399217,
           "truncated": true,
           "finalUrl": "https://vega.dk/sitemap.xml",
-          "ms": 211,
+          "ms": 195,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -166,7 +166,7 @@
           "bytes": 171473,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/",
-          "ms": 1429,
+          "ms": 1822,
           "signals": [
             "wordpress",
             "ticketmaster-links",
@@ -196,7 +196,7 @@
           "bytes": 197542,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/program/",
-          "ms": 2209,
+          "ms": 2652,
           "signals": [
             "wordpress",
             "ticketmaster-links",
@@ -227,7 +227,7 @@
           "bytes": 133111,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/koncerter/",
-          "ms": 2069,
+          "ms": 2731,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -255,7 +255,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 297,
+          "ms": 416,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -271,7 +271,7 @@
           "bytes": 9907,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/wp-json/wp/v2/types",
-          "ms": 397,
+          "ms": 306,
           "signals": [
             "wordpress"
           ],
@@ -289,7 +289,7 @@
           "bytes": 131856,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/events.ics",
-          "ms": 1225,
+          "ms": 1555,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -313,7 +313,7 @@
           "bytes": 1024,
           "truncated": false,
           "finalUrl": "https://pumpehuset.dk/sitemap_index.xml",
-          "ms": 1333,
+          "ms": 1657,
           "signals": [
             "wordpress"
           ],
@@ -346,7 +346,7 @@
           "bytes": 251177,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/",
-          "ms": 207,
+          "ms": 311,
           "signals": [
             "wordpress",
             "ticketmaster-links",
@@ -378,7 +378,7 @@
           "bytes": 38760,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/program",
-          "ms": 109,
+          "ms": 164,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -408,7 +408,7 @@
           "bytes": 100,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 276,
+          "ms": 308,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -424,7 +424,7 @@
           "bytes": 100,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/wp-json/wp/v2/types",
-          "ms": 190,
+          "ms": 305,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -440,7 +440,7 @@
           "bytes": 100,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/events.ics",
-          "ms": 262,
+          "ms": 296,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -456,7 +456,7 @@
           "bytes": 100,
           "truncated": false,
           "finalUrl": "https://ab-b.dk/sitemap.xml",
-          "ms": 214,
+          "ms": 311,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -484,10 +484,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 64134,
+          "bytes": 64049,
           "truncated": false,
           "finalUrl": "https://loppen.dk/",
-          "ms": 291,
+          "ms": 284,
           "signals": [
             "drupal",
             "billetlugen-links",
@@ -513,7 +513,7 @@
           "bytes": 95,
           "truncated": false,
           "finalUrl": "https://loppen.dk/program/",
-          "ms": 467,
+          "ms": 728,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -529,7 +529,7 @@
           "bytes": 14930,
           "truncated": false,
           "finalUrl": "https://loppen.dk/events",
-          "ms": 102,
+          "ms": 153,
           "signals": [
             "drupal"
           ],
@@ -547,7 +547,7 @@
           "bytes": 15150,
           "truncated": false,
           "finalUrl": "https://loppen.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 103,
+          "ms": 152,
           "signals": [
             "wordpress",
             "the-events-calendar",
@@ -567,7 +567,7 @@
           "bytes": 15033,
           "truncated": false,
           "finalUrl": "https://loppen.dk/wp-json/wp/v2/types",
-          "ms": 102,
+          "ms": 151,
           "signals": [
             "wordpress",
             "drupal"
@@ -586,7 +586,7 @@
           "bytes": 14945,
           "truncated": false,
           "finalUrl": "https://loppen.dk/events.ics",
-          "ms": 105,
+          "ms": 151,
           "signals": [
             "drupal"
           ],
@@ -604,7 +604,7 @@
           "bytes": 14949,
           "truncated": false,
           "finalUrl": "https://loppen.dk/sitemap.xml",
-          "ms": 102,
+          "ms": 152,
           "signals": [
             "drupal"
           ],
@@ -637,7 +637,7 @@
           "bytes": 449013,
           "truncated": true,
           "finalUrl": "https://www.stengade.dk/",
-          "ms": 350,
+          "ms": 312,
           "signals": [
             "squarespace",
             "billetto-links",
@@ -661,7 +661,7 @@
           "bytes": 78413,
           "truncated": false,
           "finalUrl": "https://www.stengade.dk/program",
-          "ms": 141,
+          "ms": 257,
           "signals": [
             "squarespace",
             "billetto-links",
@@ -685,7 +685,7 @@
           "bytes": 78413,
           "truncated": false,
           "finalUrl": "https://www.stengade.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 157,
+          "ms": 301,
           "signals": [
             "squarespace",
             "billetto-links",
@@ -709,7 +709,7 @@
           "bytes": 78413,
           "truncated": false,
           "finalUrl": "https://www.stengade.dk/wp-json/wp/v2/types",
-          "ms": 168,
+          "ms": 303,
           "signals": [
             "squarespace",
             "billetto-links",
@@ -733,7 +733,7 @@
           "bytes": 78413,
           "truncated": false,
           "finalUrl": "https://www.stengade.dk/events.ics",
-          "ms": 152,
+          "ms": 352,
           "signals": [
             "squarespace",
             "billetto-links",
@@ -754,10 +754,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/xml;charset=utf-8",
-          "bytes": 381791,
+          "bytes": 381833,
           "truncated": false,
           "finalUrl": "https://www.stengade.dk/sitemap.xml",
-          "ms": 78,
+          "ms": 203,
           "signals": [
             "squarespace"
           ],
@@ -803,10 +803,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 46780,
+          "bytes": 46784,
           "truncated": false,
           "finalUrl": "https://rust.dk/program",
-          "ms": 536,
+          "ms": 668,
           "signals": [
             "wordpress"
           ],
@@ -824,7 +824,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://rust.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 243,
+          "ms": 289,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -840,7 +840,7 @@
           "bytes": 5916,
           "truncated": false,
           "finalUrl": "https://rust.dk/wp-json/wp/v2/types",
-          "ms": 458,
+          "ms": 328,
           "signals": [
             "wordpress"
           ],
@@ -855,10 +855,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 46784,
+          "bytes": 46787,
           "truncated": false,
           "finalUrl": "https://rust.dk/events.ics",
-          "ms": 313,
+          "ms": 344,
           "signals": [
             "wordpress"
           ],
@@ -876,7 +876,7 @@
           "bytes": 498,
           "truncated": false,
           "finalUrl": "https://rust.dk/wp-sitemap.xml",
-          "ms": 649,
+          "ms": 907,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -907,7 +907,7 @@
           "bytes": 100207,
           "truncated": false,
           "finalUrl": "https://alicecph.com/",
-          "ms": 488,
+          "ms": 642,
           "signals": [
             "wordpress",
             "eventim-links",
@@ -934,7 +934,7 @@
           "bytes": 32219,
           "truncated": false,
           "finalUrl": "https://alicecph.com/program",
-          "ms": 167,
+          "ms": 268,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -957,7 +957,7 @@
           "bytes": 32218,
           "truncated": false,
           "finalUrl": "https://alicecph.com/events",
-          "ms": 164,
+          "ms": 255,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -980,7 +980,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://alicecph.com/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 141,
+          "ms": 213,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -996,7 +996,7 @@
           "bytes": 3627,
           "truncated": false,
           "finalUrl": "https://alicecph.com/wp-json/wp/v2/types",
-          "ms": 133,
+          "ms": 215,
           "signals": [
             "wordpress"
           ],
@@ -1014,7 +1014,7 @@
           "bytes": 32222,
           "truncated": false,
           "finalUrl": "https://alicecph.com/events.ics",
-          "ms": 179,
+          "ms": 261,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -1037,7 +1037,7 @@
           "bytes": 1343,
           "truncated": false,
           "finalUrl": "https://alicecph.com/sitemap_index.xml",
-          "ms": 679,
+          "ms": 915,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1104,10 +1104,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 1369471,
+          "bytes": 1369473,
           "truncated": true,
           "finalUrl": "https://www.jazzhusmontmartre.dk/",
-          "ms": 2385,
+          "ms": 390,
           "signals": [
             "json-ld:2"
           ],
@@ -1126,10 +1126,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 1122656,
+          "bytes": 1122557,
           "truncated": true,
           "finalUrl": "https://www.jazzhusmontmartre.dk/program",
-          "ms": 1324,
+          "ms": 281,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1142,10 +1142,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 1122817,
+          "bytes": 1122904,
           "truncated": true,
           "finalUrl": "https://www.jazzhusmontmartre.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 2169,
+          "ms": 136,
           "signals": [
             "wordpress"
           ],
@@ -1160,10 +1160,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 1122799,
+          "bytes": 1122798,
           "truncated": true,
           "finalUrl": "https://www.jazzhusmontmartre.dk/wp-json/wp/v2/types",
-          "ms": 3467,
+          "ms": 1786,
           "signals": [
             "wordpress"
           ],
@@ -1178,10 +1178,10 @@
           "status": 400,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 2201,
+          "bytes": 2202,
           "truncated": false,
           "finalUrl": "https://www.jazzhusmontmartre.dk/events.ics",
-          "ms": 4053,
+          "ms": 143,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1197,7 +1197,7 @@
           "bytes": 845,
           "truncated": false,
           "finalUrl": "https://www.jazzhusmontmartre.dk/sitemap.xml",
-          "ms": 140,
+          "ms": 120,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1267,7 +1267,7 @@
           "bytes": 435770,
           "truncated": true,
           "finalUrl": "https://www.royalarena.dk/",
-          "ms": 740,
+          "ms": 1072,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -1287,7 +1287,7 @@
           "bytes": 194206,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/kalender",
-          "ms": 574,
+          "ms": 1103,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -1307,7 +1307,7 @@
           "bytes": 303449,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/shows",
-          "ms": 1167,
+          "ms": 1945,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -1328,7 +1328,7 @@
           "bytes": 25,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 178,
+          "ms": 84,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1344,7 +1344,7 @@
           "bytes": 25,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/wp-json/wp/v2/types",
-          "ms": 125,
+          "ms": 60,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1360,7 +1360,7 @@
           "bytes": 194214,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/events.ics",
-          "ms": 761,
+          "ms": 1016,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -1380,7 +1380,7 @@
           "bytes": 194218,
           "truncated": false,
           "finalUrl": "https://www.royalarena.dk/sitemap.xml",
-          "ms": 786,
+          "ms": 916,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -1411,15 +1411,22 @@
           "path": "/",
           "status": 200,
           "error": null,
-          "contentType": "text/html; charset=ISO-8859-1",
-          "bytes": 83592,
-          "truncated": false,
-          "finalUrl": "https://www.google.com/",
-          "ms": 528,
-          "signals": [],
-          "jsonLdBlocks": 0,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 651790,
+          "truncated": true,
+          "finalUrl": "https://www.yahoo.com/",
+          "ms": 1353,
+          "signals": [
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
           "jsonLdEvents": 0,
-          "jsonLdTypes": [],
+          "jsonLdTypes": [
+            "WebSite",
+            "NewsMediaOrganization",
+            "ImageObject",
+            "Organization"
+          ],
           "isJson": false,
           "raw": "recon/raw/forum__root.txt"
         },
@@ -1431,7 +1438,7 @@
           "bytes": 95641,
           "truncated": false,
           "finalUrl": "https://forumcopenhagen.dk/kalender",
-          "ms": 418,
+          "ms": 1062,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -1457,7 +1464,7 @@
           "bytes": 75,
           "truncated": false,
           "finalUrl": "https://forumcopenhagen.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 181,
+          "ms": 289,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1473,7 +1480,7 @@
           "bytes": 75,
           "truncated": false,
           "finalUrl": "https://forumcopenhagen.dk/wp-json/wp/v2/types",
-          "ms": 198,
+          "ms": 249,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1489,7 +1496,7 @@
           "bytes": 95641,
           "truncated": false,
           "finalUrl": "https://forumcopenhagen.dk/events.ics",
-          "ms": 400,
+          "ms": 657,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -1515,7 +1522,7 @@
           "bytes": 408,
           "truncated": false,
           "finalUrl": "https://forumcopenhagen.dk/sitemap_index.xml",
-          "ms": 661,
+          "ms": 1042,
           "signals": [
             "wordpress"
           ],
@@ -1548,7 +1555,7 @@
           "bytes": 156492,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/",
-          "ms": 178,
+          "ms": 5893,
           "signals": [
             "eventim-links"
           ],
@@ -1566,7 +1573,7 @@
           "bytes": 66556,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/program/",
-          "ms": 1067,
+          "ms": 2446,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1582,7 +1589,7 @@
           "bytes": 66556,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/wp-json/tribe/events/v1/events/?per_page=5",
-          "ms": 437,
+          "ms": 1692,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1598,7 +1605,7 @@
           "bytes": 66556,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/wp-json/wp/v2/types/",
-          "ms": 427,
+          "ms": 497,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1614,7 +1621,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/events.ics",
-          "ms": 153
+          "ms": 191
         },
         {
           "path": "/sitemap.xml",
@@ -1624,7 +1631,7 @@
           "bytes": 284914,
           "truncated": false,
           "finalUrl": "https://www.drkoncerthuset.dk/sitemap/",
-          "ms": 1483,
+          "ms": 799,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1655,7 +1662,7 @@
           "bytes": 85941,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/",
-          "ms": 363,
+          "ms": 572,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1674,7 +1681,7 @@
           "bytes": 85941,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/",
-          "ms": 363,
+          "ms": 574,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1693,7 +1700,7 @@
           "bytes": 85973,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/?per_page=5",
-          "ms": 931,
+          "ms": 1146,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1712,7 +1719,7 @@
           "bytes": 85941,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/",
-          "ms": 363,
+          "ms": 572,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1731,7 +1738,7 @@
           "bytes": 85941,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/",
-          "ms": 363,
+          "ms": 574,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1750,7 +1757,7 @@
           "bytes": 85941,
           "truncated": false,
           "finalUrl": "https://huset.kk.dk/",
-          "ms": 363,
+          "ms": 574,
           "signals": [
             "drupal",
             "billetto-links"
@@ -1784,7 +1791,7 @@
           "bytes": 366735,
           "truncated": false,
           "finalUrl": "https://vega.dk/",
-          "ms": 172,
+          "ms": 254,
           "signals": [
             "nextjs",
             "ticketmaster-links",
@@ -1805,7 +1812,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 141,
+          "ms": 190,
           "signals": [
             "nextjs"
           ],
@@ -1823,7 +1830,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/wp-json/wp/v2/types",
-          "ms": 113,
+          "ms": 208,
           "signals": [
             "nextjs"
           ],
@@ -1841,7 +1848,7 @@
           "bytes": 46563,
           "truncated": false,
           "finalUrl": "https://vega.dk/events.ics",
-          "ms": 133,
+          "ms": 197,
           "signals": [
             "nextjs"
           ],
@@ -1859,7 +1866,7 @@
           "bytes": 1399217,
           "truncated": true,
           "finalUrl": "https://vega.dk/sitemap.xml",
-          "ms": 129,
+          "ms": 211,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1890,7 +1897,7 @@
           "bytes": 9337,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/",
-          "ms": 942,
+          "ms": 4430,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1906,7 +1913,7 @@
           "bytes": 4870,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/program",
-          "ms": 568,
+          "ms": 389,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1922,7 +1929,7 @@
           "bytes": 4870,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 615,
+          "ms": 506,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1938,7 +1945,7 @@
           "bytes": 4870,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/wp-json/wp/v2/types",
-          "ms": 244,
+          "ms": 1480,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1954,7 +1961,7 @@
           "bytes": 4870,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/events.ics",
-          "ms": 250,
+          "ms": 2364,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -1970,7 +1977,7 @@
           "bytes": 470,
           "truncated": false,
           "finalUrl": "https://www.globalcph.dk/sitemap.xml",
-          "ms": 247,
+          "ms": 429,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2001,7 +2008,7 @@
           "bytes": 1566575,
           "truncated": true,
           "finalUrl": "https://www.tivoli.dk/",
-          "ms": 644,
+          "ms": 1019,
           "signals": [
             "umbraco",
             "ticketmaster-links",
@@ -2021,7 +2028,7 @@
           "bytes": 77491,
           "truncated": false,
           "finalUrl": "https://www.tivoli.dk/kalender",
-          "ms": 679,
+          "ms": 797,
           "signals": [
             "umbraco"
           ],
@@ -2039,7 +2046,7 @@
           "bytes": 77613,
           "truncated": false,
           "finalUrl": "https://www.tivoli.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 248,
+          "ms": 225,
           "signals": [
             "umbraco"
           ],
@@ -2057,7 +2064,7 @@
           "bytes": 77536,
           "truncated": false,
           "finalUrl": "https://www.tivoli.dk/wp-json/wp/v2/types",
-          "ms": 256,
+          "ms": 196,
           "signals": [
             "umbraco"
           ],
@@ -2072,10 +2079,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 6919,
+          "bytes": 6982,
           "truncated": false,
           "finalUrl": "https://www.tivoli.dk/events.ics",
-          "ms": 130,
+          "ms": 223,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2091,7 +2098,7 @@
           "bytes": 552419,
           "truncated": true,
           "finalUrl": "https://www.tivoli.dk/sitemap.xml",
-          "ms": 1329,
+          "ms": 1021,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2122,7 +2129,7 @@
           "bytes": 125263,
           "truncated": false,
           "finalUrl": "https://kbhallen.dk/",
-          "ms": 293,
+          "ms": 427,
           "signals": [
             "billetlugen-links",
             "eventim-links",
@@ -2149,7 +2156,7 @@
           "bytes": 18416,
           "truncated": false,
           "finalUrl": "https://kbhallen.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 214,
+          "ms": 265,
           "signals": [
             "billetlugen-links",
             "eventim-links",
@@ -2169,7 +2176,7 @@
           "bytes": 18416,
           "truncated": false,
           "finalUrl": "https://kbhallen.dk/wp-json/wp/v2/types",
-          "ms": 196,
+          "ms": 235,
           "signals": [
             "billetlugen-links",
             "eventim-links",
@@ -2189,7 +2196,7 @@
           "bytes": 18416,
           "truncated": false,
           "finalUrl": "https://kbhallen.dk/events.ics",
-          "ms": 194,
+          "ms": 266,
           "signals": [
             "billetlugen-links",
             "eventim-links",
@@ -2209,7 +2216,7 @@
           "bytes": 20353,
           "truncated": false,
           "finalUrl": "https://kbhallen.dk/sitemap.xml",
-          "ms": 352,
+          "ms": 450,
           "signals": [
             "venuepoint-links"
           ],
@@ -2242,7 +2249,7 @@
           "bytes": 70037,
           "truncated": false,
           "finalUrl": "https://train.dk/",
-          "ms": 56,
+          "ms": 186,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2258,7 +2265,7 @@
           "bytes": 16072,
           "truncated": false,
           "finalUrl": "https://train.dk/program",
-          "ms": 653,
+          "ms": 762,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2274,7 +2281,7 @@
           "bytes": 16132,
           "truncated": false,
           "finalUrl": "https://train.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 332,
+          "ms": 709,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2290,7 +2297,7 @@
           "bytes": 16114,
           "truncated": false,
           "finalUrl": "https://train.dk/wp-json/wp/v2/types",
-          "ms": 327,
+          "ms": 406,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2306,7 +2313,7 @@
           "bytes": 16072,
           "truncated": false,
           "finalUrl": "https://train.dk/events.ics",
-          "ms": 326,
+          "ms": 315,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2322,7 +2329,7 @@
           "bytes": 1779,
           "truncated": false,
           "finalUrl": "https://train.dk/sitemap.xml",
-          "ms": 128,
+          "ms": 174,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2353,7 +2360,7 @@
           "bytes": 167117,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/",
-          "ms": 387,
+          "ms": 512,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -2380,7 +2387,7 @@
           "bytes": 73636,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/program",
-          "ms": 219,
+          "ms": 295,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -2406,7 +2413,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 355,
+          "ms": 232,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2422,7 +2429,7 @@
           "bytes": 7593,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/wp-json/wp/v2/types",
-          "ms": 159,
+          "ms": 224,
           "signals": [
             "wordpress"
           ],
@@ -2440,7 +2447,7 @@
           "bytes": 73639,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/events.ics",
-          "ms": 203,
+          "ms": 270,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -2466,7 +2473,7 @@
           "bytes": 1703,
           "truncated": false,
           "finalUrl": "https://voxhall.dk/sitemap_index.xml",
-          "ms": 675,
+          "ms": 879,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2497,7 +2504,7 @@
           "bytes": 163197,
           "truncated": false,
           "finalUrl": "https://radar.dk/",
-          "ms": 127,
+          "ms": 154,
           "signals": [
             "drupal",
             "json-ld:1"
@@ -2520,7 +2527,7 @@
           "bytes": 45273,
           "truncated": false,
           "finalUrl": "https://radar.dk/program",
-          "ms": 446,
+          "ms": 494,
           "signals": [
             "drupal",
             "json-ld:1"
@@ -2543,7 +2550,7 @@
           "bytes": 45651,
           "truncated": false,
           "finalUrl": "https://radar.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 437,
+          "ms": 551,
           "signals": [
             "drupal",
             "json-ld:1"
@@ -2566,7 +2573,7 @@
           "bytes": 45273,
           "truncated": false,
           "finalUrl": "https://radar.dk/wp-json/wp/v2/types",
-          "ms": 359,
+          "ms": 534,
           "signals": [
             "drupal",
             "json-ld:1"
@@ -2589,7 +2596,7 @@
           "bytes": 45273,
           "truncated": false,
           "finalUrl": "https://radar.dk/events.ics",
-          "ms": 357,
+          "ms": 566,
           "signals": [
             "drupal",
             "json-ld:1"
@@ -2612,7 +2619,7 @@
           "bytes": 515047,
           "truncated": true,
           "finalUrl": "https://radar.dk/sitemap.xml",
-          "ms": 98,
+          "ms": 314,
           "signals": [
             "drupal",
             "billetto-links"
@@ -2646,7 +2653,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 287
+          "ms": 453
         },
         {
           "path": "/program",
@@ -2656,7 +2663,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 280
+          "ms": 430
         },
         {
           "path": "/wp-json/tribe/events/v1/events?per_page=5",
@@ -2666,7 +2673,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 275
+          "ms": 419
         },
         {
           "path": "/wp-json/wp/v2/types",
@@ -2676,7 +2683,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 367
+          "ms": 450
         },
         {
           "path": "/events.ics",
@@ -2686,7 +2693,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 285
+          "ms": 446
         },
         {
           "path": "/sitemap.xml",
@@ -2696,7 +2703,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 292
+          "ms": 450
         }
       ]
     },
@@ -2721,7 +2728,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 435,
+          "ms": 626,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2742,7 +2749,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 331,
+          "ms": 675,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2763,7 +2770,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 443,
+          "ms": 621,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2784,7 +2791,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 413,
+          "ms": 1457,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2805,7 +2812,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 387,
+          "ms": 607,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2826,7 +2833,7 @@
           "bytes": 159691,
           "truncated": false,
           "finalUrl": "https://www.musikhuset.dk/",
-          "ms": 328,
+          "ms": 594,
           "signals": [
             "venuepoint-links",
             "json-ld:1"
@@ -2901,7 +2908,7 @@
           "bytes": 343439,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/",
-          "ms": 194,
+          "ms": 310,
           "signals": [
             "wordpress",
             "billetto-links",
@@ -2928,7 +2935,7 @@
           "bytes": 111123,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/program/",
-          "ms": 1357,
+          "ms": 1080,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -2954,7 +2961,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 321,
+          "ms": 354,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -2970,7 +2977,7 @@
           "bytes": 6544,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/wp-json/wp/v2/types",
-          "ms": 468,
+          "ms": 160,
           "signals": [
             "wordpress"
           ],
@@ -2988,7 +2995,7 @@
           "bytes": 95611,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/events.ics",
-          "ms": 464,
+          "ms": 618,
           "signals": [
             "wordpress"
           ],
@@ -3006,7 +3013,7 @@
           "bytes": 975,
           "truncated": false,
           "finalUrl": "https://postenlive.dk/sitemap.xml",
-          "ms": 375,
+          "ms": 382,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3037,7 +3044,7 @@
           "bytes": 326991,
           "truncated": false,
           "finalUrl": "https://dexter.dk/",
-          "ms": 1324,
+          "ms": 999,
           "signals": [
             "wordpress",
             "billetto-links",
@@ -3064,7 +3071,7 @@
           "bytes": 103092,
           "truncated": false,
           "finalUrl": "https://dexter.dk/program/",
-          "ms": 1158,
+          "ms": 1391,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3090,7 +3097,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://dexter.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 364,
+          "ms": 417,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3106,7 +3113,7 @@
           "bytes": 6440,
           "truncated": false,
           "finalUrl": "https://dexter.dk/wp-json/wp/v2/types",
-          "ms": 321,
+          "ms": 164,
           "signals": [
             "wordpress"
           ],
@@ -3124,7 +3131,7 @@
           "bytes": 101327,
           "truncated": false,
           "finalUrl": "https://dexter.dk/events.ics",
-          "ms": 753,
+          "ms": 717,
           "signals": [
             "wordpress"
           ],
@@ -3142,7 +3149,7 @@
           "bytes": 943,
           "truncated": false,
           "finalUrl": "https://dexter.dk/sitemap.xml",
-          "ms": 519,
+          "ms": 472,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3173,7 +3180,7 @@
           "bytes": 247874,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/",
-          "ms": 271,
+          "ms": 428,
           "signals": [
             "wordpress",
             "billetlugen-links",
@@ -3199,10 +3206,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 45242,
+          "bytes": 45243,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/program/",
-          "ms": 1098,
+          "ms": 1270,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -3226,7 +3233,7 @@
           "bytes": 113,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/wp-json/tribe/events/v1/events/?per_page=5",
-          "ms": 554,
+          "ms": 702,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3242,7 +3249,7 @@
           "bytes": 3255,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/wp-json/wp/v2/types/",
-          "ms": 554,
+          "ms": 741,
           "signals": [
             "wordpress"
           ],
@@ -3257,10 +3264,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 45245,
+          "bytes": 45246,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/events.ics/",
-          "ms": 1344,
+          "ms": 774,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -3284,7 +3291,7 @@
           "bytes": 526,
           "truncated": false,
           "finalUrl": "https://skraaen.dk/sitemap_index.xml",
-          "ms": 1182,
+          "ms": 1060,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3315,7 +3322,7 @@
           "bytes": 65606,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/",
-          "ms": 62,
+          "ms": 200,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3331,7 +3338,7 @@
           "bytes": 3449,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/program",
-          "ms": 29,
+          "ms": 84,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3347,7 +3354,7 @@
           "bytes": 3449,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 27,
+          "ms": 82,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3363,7 +3370,7 @@
           "bytes": 3449,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/wp-json/wp/v2/types",
-          "ms": 26,
+          "ms": 79,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3379,7 +3386,7 @@
           "bytes": 3449,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/events.ics",
-          "ms": 28,
+          "ms": 80,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3395,7 +3402,7 @@
           "bytes": 3449,
           "truncated": false,
           "finalUrl": "https://studenterhuset.dk/sitemap.xml",
-          "ms": 27,
+          "ms": 77,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3426,7 +3433,7 @@
           "bytes": 417859,
           "truncated": true,
           "finalUrl": "https://stars.dk/",
-          "ms": 300,
+          "ms": 413,
           "signals": [
             "venuepoint-links"
           ],
@@ -3444,7 +3451,7 @@
           "bytes": 30972,
           "truncated": false,
           "finalUrl": "https://stars.dk/program",
-          "ms": 490,
+          "ms": 165,
           "signals": [
             "drupal"
           ],
@@ -3462,7 +3469,7 @@
           "bytes": 31078,
           "truncated": false,
           "finalUrl": "https://stars.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 588,
+          "ms": 169,
           "signals": [
             "wordpress",
             "drupal"
@@ -3481,7 +3488,7 @@
           "bytes": 31011,
           "truncated": false,
           "finalUrl": "https://stars.dk/wp-json/wp/v2/types",
-          "ms": 644,
+          "ms": 166,
           "signals": [
             "wordpress",
             "drupal"
@@ -3500,7 +3507,7 @@
           "bytes": 30981,
           "truncated": false,
           "finalUrl": "https://stars.dk/events.ics",
-          "ms": 536,
+          "ms": 165,
           "signals": [
             "drupal"
           ],
@@ -3518,7 +3525,7 @@
           "bytes": 15283,
           "truncated": false,
           "finalUrl": "https://stars.dk/sitemap.xml",
-          "ms": 181,
+          "ms": 216,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3549,7 +3556,7 @@
           "bytes": 139720,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/",
-          "ms": 23,
+          "ms": 34,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3577,7 +3584,7 @@
           "bytes": 165848,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/program",
-          "ms": 36,
+          "ms": 50,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3605,7 +3612,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 2664,
+          "ms": 490,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3621,7 +3628,7 @@
           "bytes": 13991,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/wp-json/wp/v2/types",
-          "ms": 593,
+          "ms": 435,
           "signals": [
             "wordpress"
           ],
@@ -3639,7 +3646,7 @@
           "bytes": 78287,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/events.ics",
-          "ms": 824,
+          "ms": 645,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3663,7 +3670,7 @@
           "bytes": 1375,
           "truncated": false,
           "finalUrl": "https://tobakken.dk/sitemap_index.xml",
-          "ms": 1543,
+          "ms": 1248,
           "signals": [
             "wordpress"
           ],
@@ -3696,7 +3703,7 @@
           "bytes": 97174,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/",
-          "ms": 19,
+          "ms": 76,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3725,7 +3732,7 @@
           "bytes": 51645,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/program",
-          "ms": 2470,
+          "ms": 2262,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3749,7 +3756,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 362,
+          "ms": 415,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3765,7 +3772,7 @@
           "bytes": 14661,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/wp-json/wp/v2/types",
-          "ms": 552,
+          "ms": 357,
           "signals": [
             "wordpress"
           ],
@@ -3783,7 +3790,7 @@
           "bytes": 51645,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/events.ics",
-          "ms": 458,
+          "ms": 49,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3807,7 +3814,7 @@
           "bytes": 1044,
           "truncated": false,
           "finalUrl": "https://sonderborghus.dk/sitemap_index.xml",
-          "ms": 975,
+          "ms": 837,
           "signals": [
             "wordpress"
           ],
@@ -3840,7 +3847,7 @@
           "bytes": 73698,
           "truncated": false,
           "finalUrl": "https://gimle.dk/",
-          "ms": 484,
+          "ms": 465,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3867,7 +3874,7 @@
           "bytes": 186698,
           "truncated": false,
           "finalUrl": "https://gimle.dk/program/",
-          "ms": 937,
+          "ms": 1155,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3895,7 +3902,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://gimle.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 357,
+          "ms": 401,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -3911,7 +3918,7 @@
           "bytes": 13410,
           "truncated": false,
           "finalUrl": "https://gimle.dk/wp-json/wp/v2/types",
-          "ms": 309,
+          "ms": 400,
           "signals": [
             "wordpress"
           ],
@@ -3929,7 +3936,7 @@
           "bytes": 53858,
           "truncated": false,
           "finalUrl": "https://gimle.dk/events.ics",
-          "ms": 303,
+          "ms": 420,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -3953,7 +3960,7 @@
           "bytes": 1224,
           "truncated": false,
           "finalUrl": "https://gimle.dk/sitemap_index.xml",
-          "ms": 639,
+          "ms": 895,
           "signals": [
             "wordpress"
           ],
@@ -3986,7 +3993,7 @@
           "bytes": 441,
           "truncated": false,
           "finalUrl": "https://paradiset.dk/",
-          "ms": 99,
+          "ms": 150,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4002,7 +4009,7 @@
           "bytes": 441,
           "truncated": false,
           "finalUrl": "https://paradiset.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 99,
+          "ms": 151,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4018,7 +4025,7 @@
           "bytes": 441,
           "truncated": false,
           "finalUrl": "https://paradiset.dk/wp-json/wp/v2/types",
-          "ms": 101,
+          "ms": 153,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4034,7 +4041,7 @@
           "bytes": 441,
           "truncated": false,
           "finalUrl": "https://paradiset.dk/events.ics",
-          "ms": 99,
+          "ms": 150,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4050,7 +4057,7 @@
           "bytes": 441,
           "truncated": false,
           "finalUrl": "https://paradiset.dk/sitemap.xml",
-          "ms": 99,
+          "ms": 150,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4081,7 +4088,7 @@
           "bytes": 242136,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/",
-          "ms": 1260,
+          "ms": 1355,
           "signals": [
             "wordpress",
             "json-ld:2"
@@ -4105,7 +4112,7 @@
           "bytes": 122584,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/program",
-          "ms": 1110,
+          "ms": 1192,
           "signals": [
             "wordpress"
           ],
@@ -4123,7 +4130,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 720,
+          "ms": 788,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4139,7 +4146,7 @@
           "bytes": 7541,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/wp-json/wp/v2/types",
-          "ms": 694,
+          "ms": 753,
           "signals": [
             "wordpress"
           ],
@@ -4157,7 +4164,7 @@
           "bytes": 122584,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/events.ics",
-          "ms": 1037,
+          "ms": 1182,
           "signals": [
             "wordpress"
           ],
@@ -4175,7 +4182,7 @@
           "bytes": 684,
           "truncated": false,
           "finalUrl": "https://tapperiet.dk/sitemaps.xml",
-          "ms": 1922,
+          "ms": 2261,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4206,7 +4213,7 @@
           "bytes": 251600,
           "truncated": false,
           "finalUrl": "https://mhe.dk/",
-          "ms": 23,
+          "ms": 52,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4235,7 +4242,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://mhe.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 1372,
+          "ms": 482,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4251,7 +4258,7 @@
           "bytes": 13190,
           "truncated": false,
           "finalUrl": "https://mhe.dk/wp-json/wp/v2/types",
-          "ms": 343,
+          "ms": 424,
           "signals": [
             "wordpress"
           ],
@@ -4269,7 +4276,7 @@
           "bytes": 72601,
           "truncated": false,
           "finalUrl": "https://mhe.dk/events.ics",
-          "ms": 619,
+          "ms": 580,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4294,7 +4301,7 @@
           "bytes": 1325,
           "truncated": false,
           "finalUrl": "https://mhe.dk/sitemap_index.xml",
-          "ms": 1051,
+          "ms": 823,
           "signals": [
             "wordpress"
           ],
@@ -4327,7 +4334,7 @@
           "bytes": 372625,
           "truncated": false,
           "finalUrl": "https://www.vejlemusikteater.dk/",
-          "ms": 558,
+          "ms": 707,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4356,7 +4363,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://vejlemusikteater.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 387,
+          "ms": 430,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4372,7 +4379,7 @@
           "bytes": 15609,
           "truncated": false,
           "finalUrl": "https://vejlemusikteater.dk/wp-json/wp/v2/types",
-          "ms": 342,
+          "ms": 446,
           "signals": [
             "wordpress"
           ],
@@ -4390,7 +4397,7 @@
           "bytes": 54890,
           "truncated": false,
           "finalUrl": "https://www.vejlemusikteater.dk/events.ics",
-          "ms": 769,
+          "ms": 637,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4415,7 +4422,7 @@
           "bytes": 48843,
           "truncated": false,
           "finalUrl": "https://vejlemusikteater.dk/sitemap.xml",
-          "ms": 474,
+          "ms": 46,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4452,10 +4459,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 85102,
+          "bytes": 85104,
           "truncated": false,
           "finalUrl": "https://www.mch.dk/",
-          "ms": 316,
+          "ms": 531,
           "signals": [
             "venuepoint-links"
           ],
@@ -4473,7 +4480,7 @@
           "bytes": 19586,
           "truncated": false,
           "finalUrl": "https://www.mch.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 347,
+          "ms": 510,
           "signals": [
             "wordpress",
             "venuepoint-links"
@@ -4492,7 +4499,7 @@
           "bytes": 19564,
           "truncated": false,
           "finalUrl": "https://www.mch.dk/wp-json/wp/v2/types",
-          "ms": 266,
+          "ms": 371,
           "signals": [
             "wordpress",
             "venuepoint-links"
@@ -4511,7 +4518,7 @@
           "bytes": 19555,
           "truncated": false,
           "finalUrl": "https://www.mch.dk/events.ics",
-          "ms": 361,
+          "ms": 333,
           "signals": [
             "venuepoint-links"
           ],
@@ -4529,7 +4536,7 @@
           "bytes": 45570,
           "truncated": false,
           "finalUrl": "https://www.mch.dk/sitemap.xml",
-          "ms": 696,
+          "ms": 434,
           "signals": [
             "venuepoint-links"
           ],
@@ -4562,7 +4569,7 @@
           "bytes": 144976,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/",
-          "ms": 667,
+          "ms": 916,
           "signals": [
             "wordpress",
             "ticketmaster-links",
@@ -4591,7 +4598,7 @@
           "bytes": 52084,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/program",
-          "ms": 382,
+          "ms": 648,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4616,7 +4623,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 428,
+          "ms": 442,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4632,7 +4639,7 @@
           "bytes": 10195,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/wp-json/wp/v2/types",
-          "ms": 320,
+          "ms": 500,
           "signals": [
             "wordpress"
           ],
@@ -4650,7 +4657,7 @@
           "bytes": 52084,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/events.ics",
-          "ms": 427,
+          "ms": 650,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -4675,7 +4682,7 @@
           "bytes": 1623,
           "truncated": false,
           "finalUrl": "https://fermaten.dk/sitemap_index.xml",
-          "ms": 890,
+          "ms": 944,
           "signals": [
             "wordpress"
           ],
@@ -4705,10 +4712,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 236995,
+          "bytes": 236997,
           "truncated": false,
           "finalUrl": "https://kuto.dk/",
-          "ms": 566,
+          "ms": 717,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -4736,7 +4743,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://kuto.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 342,
+          "ms": 359,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4752,7 +4759,7 @@
           "bytes": 17824,
           "truncated": false,
           "finalUrl": "https://kuto.dk/wp-json/wp/v2/types",
-          "ms": 320,
+          "ms": 338,
           "signals": [
             "wordpress"
           ],
@@ -4770,7 +4777,7 @@
           "bytes": 168043,
           "truncated": false,
           "finalUrl": "https://kuto.dk/events.ics",
-          "ms": 563,
+          "ms": 530,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -4796,7 +4803,7 @@
           "bytes": 1359,
           "truncated": false,
           "finalUrl": "https://kuto.dk/sitemap_index.xml",
-          "ms": 840,
+          "ms": 1089,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4827,7 +4834,7 @@
           "bytes": 175417,
           "truncated": false,
           "finalUrl": "https://www.ungdomshuset.dk/",
-          "ms": 324,
+          "ms": 654,
           "signals": [
             "billetto-links"
           ],
@@ -4845,7 +4852,7 @@
           "bytes": 5525,
           "truncated": false,
           "finalUrl": "https://www.ungdomshuset.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 27,
+          "ms": 65,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4861,7 +4868,7 @@
           "bytes": 5525,
           "truncated": false,
           "finalUrl": "https://www.ungdomshuset.dk/wp-json/wp/v2/types",
-          "ms": 29,
+          "ms": 60,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4874,10 +4881,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 42574,
+          "bytes": 42531,
           "truncated": false,
           "finalUrl": "https://www.ungdomshuset.dk/events.ics",
-          "ms": 318,
+          "ms": 375,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4893,7 +4900,7 @@
           "bytes": 42535,
           "truncated": false,
           "finalUrl": "https://www.ungdomshuset.dk/sitemap.xml",
-          "ms": 285,
+          "ms": 310,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4924,7 +4931,7 @@
           "bytes": 141674,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/",
-          "ms": 601,
+          "ms": 1032,
           "signals": [
             "nextjs"
           ],
@@ -4939,10 +4946,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 1175913,
+          "bytes": 1175849,
           "truncated": true,
           "finalUrl": "https://www.roskilde-festival.dk/en/line-up",
-          "ms": 947,
+          "ms": 224,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -4958,7 +4965,7 @@
           "bytes": 50782,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/line-up",
-          "ms": 542,
+          "ms": 887,
           "signals": [
             "nextjs"
           ],
@@ -4976,7 +4983,7 @@
           "bytes": 49847,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 531,
+          "ms": 879,
           "signals": [
             "nextjs"
           ],
@@ -4994,7 +5001,7 @@
           "bytes": 49847,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/wp-json/wp/v2/types",
-          "ms": 512,
+          "ms": 964,
           "signals": [
             "nextjs"
           ],
@@ -5012,7 +5019,7 @@
           "bytes": 50782,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/events.ics",
-          "ms": 575,
+          "ms": 927,
           "signals": [
             "nextjs"
           ],
@@ -5030,7 +5037,7 @@
           "bytes": 240052,
           "truncated": false,
           "finalUrl": "https://www.roskilde-festival.dk/sitemap.xml",
-          "ms": 661,
+          "ms": 898,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5061,7 +5068,7 @@
           "bytes": 112080,
           "truncated": false,
           "finalUrl": "https://northside.dk/",
-          "ms": 549,
+          "ms": 709,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -5089,7 +5096,7 @@
           "bytes": 60,
           "truncated": false,
           "finalUrl": "https://northside.dk/lineup",
-          "ms": 385,
+          "ms": 486,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5105,7 +5112,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://northside.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 384,
+          "ms": 751,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5121,7 +5128,7 @@
           "bytes": 8035,
           "truncated": false,
           "finalUrl": "https://northside.dk/wp-json/wp/v2/types",
-          "ms": 350,
+          "ms": 451,
           "signals": [
             "wordpress"
           ],
@@ -5139,7 +5146,7 @@
           "bytes": 60,
           "truncated": false,
           "finalUrl": "https://northside.dk/events.ics",
-          "ms": 382,
+          "ms": 413,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5155,7 +5162,7 @@
           "bytes": 645,
           "truncated": false,
           "finalUrl": "https://northside.dk/sitemap_index.xml",
-          "ms": 701,
+          "ms": 1192,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5186,7 +5193,7 @@
           "bytes": 81730,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/",
-          "ms": 637,
+          "ms": 1017,
           "signals": [
             "wordpress",
             "venuepoint-links",
@@ -5214,7 +5221,7 @@
           "bytes": 181868,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/en/lineup/",
-          "ms": 1112,
+          "ms": 1335,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5240,7 +5247,7 @@
           "bytes": 96,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 363,
+          "ms": 449,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5256,7 +5263,7 @@
           "bytes": 96,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/wp-json/wp/v2/types",
-          "ms": 362,
+          "ms": 486,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5272,7 +5279,7 @@
           "bytes": 60,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/events.ics",
-          "ms": 383,
+          "ms": 431,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5288,7 +5295,7 @@
           "bytes": 891,
           "truncated": false,
           "finalUrl": "https://tinderbox.dk/sitemap_index.xml",
-          "ms": 835,
+          "ms": 922,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5319,7 +5326,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10348
+          "ms": 10090
         },
         {
           "path": "/musik",
@@ -5329,7 +5336,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10087
+          "ms": 10202
         },
         {
           "path": "/wp-json/tribe/events/v1/events?per_page=5",
@@ -5339,7 +5346,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10493
+          "ms": 10401
         },
         {
           "path": "/wp-json/wp/v2/types",
@@ -5349,7 +5356,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10493
+          "ms": 10494
         },
         {
           "path": "/events.ics",
@@ -5359,7 +5366,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10493
+          "ms": 10494
         },
         {
           "path": "/sitemap.xml",
@@ -5369,7 +5376,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 10494
+          "ms": 10493
         }
       ]
     },
@@ -5394,7 +5401,7 @@
           "bytes": 66298,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/",
-          "ms": 191,
+          "ms": 288,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5423,7 +5430,7 @@
           "bytes": 25617,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/program/",
-          "ms": 466,
+          "ms": 872,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5453,7 +5460,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 296,
+          "ms": 363,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5469,7 +5476,7 @@
           "bytes": 23360,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/wp-json/wp/v2/types",
-          "ms": 233,
+          "ms": 263,
           "signals": [
             "wordpress"
           ],
@@ -5481,13 +5488,13 @@
         },
         {
           "path": "/events.ics",
-          "status": 404,
+          "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
           "bytes": 22679,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/events.ics",
-          "ms": 351,
+          "ms": 161,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5513,7 +5520,7 @@
           "bytes": 2053,
           "truncated": false,
           "finalUrl": "https://heartlandfestival.dk/sitemap_index.xml",
-          "ms": 595,
+          "ms": 667,
           "signals": [
             "wordpress"
           ],
@@ -5546,7 +5553,7 @@
           "bytes": 127062,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/",
-          "ms": 374,
+          "ms": 597,
           "signals": [
             "venuepoint-links"
           ],
@@ -5564,7 +5571,7 @@
           "bytes": 56478,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/program",
-          "ms": 100,
+          "ms": 156,
           "signals": [
             "venuepoint-links"
           ],
@@ -5582,7 +5589,7 @@
           "bytes": 127226,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 228,
+          "ms": 314,
           "signals": [
             "wordpress",
             "venuepoint-links"
@@ -5601,7 +5608,7 @@
           "bytes": 127138,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/wp-json/wp/v2/types",
-          "ms": 221,
+          "ms": 311,
           "signals": [
             "wordpress",
             "venuepoint-links"
@@ -5620,7 +5627,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/events.ics",
-          "ms": 141
+          "ms": 180
         },
         {
           "path": "/sitemap.xml",
@@ -5630,7 +5637,7 @@
           "bytes": 21953,
           "truncated": false,
           "finalUrl": "https://jellingmusikfestival.dk/sitemap.xml",
-          "ms": 94,
+          "ms": 148,
           "signals": [
             "venuepoint-links"
           ],
@@ -5663,7 +5670,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 187
+          "ms": 159
         },
         {
           "path": "/wp-json/tribe/events/v1/events?per_page=5",
@@ -5673,7 +5680,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 110
+          "ms": 7
         },
         {
           "path": "/wp-json/wp/v2/types",
@@ -5683,7 +5690,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 191
+          "ms": 155
         },
         {
           "path": "/events.ics",
@@ -5693,7 +5700,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 108
+          "ms": 14
         },
         {
           "path": "/sitemap.xml",
@@ -5703,7 +5710,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 187
+          "ms": 148
         }
       ]
     },
@@ -5728,7 +5735,7 @@
           "bytes": 267953,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/",
-          "ms": 12,
+          "ms": 20,
           "signals": [
             "wordpress"
           ],
@@ -5746,7 +5753,7 @@
           "bytes": 167867,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/lineup",
-          "ms": 418,
+          "ms": 808,
           "signals": [
             "wordpress"
           ],
@@ -5764,7 +5771,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 193,
+          "ms": 624,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5780,7 +5787,7 @@
           "bytes": 6462,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/wp-json/wp/v2/types",
-          "ms": 174,
+          "ms": 323,
           "signals": [
             "wordpress"
           ],
@@ -5798,7 +5805,7 @@
           "bytes": 167867,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/events.ics",
-          "ms": 508,
+          "ms": 555,
           "signals": [
             "wordpress"
           ],
@@ -5816,7 +5823,7 @@
           "bytes": 1643,
           "truncated": false,
           "finalUrl": "https://copenhell.dk/wp-sitemap.xml",
-          "ms": 620,
+          "ms": 1087,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5844,10 +5851,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 47100,
+          "bytes": 46979,
           "truncated": false,
           "finalUrl": "https://strm.dk/",
-          "ms": 549,
+          "ms": 1112,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5876,7 +5883,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "http://strm.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 331,
+          "ms": 396,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5892,7 +5899,7 @@
           "bytes": 5401,
           "truncated": false,
           "finalUrl": "http://strm.dk/wp-json/wp/v2/types",
-          "ms": 332,
+          "ms": 403,
           "signals": [
             "wordpress"
           ],
@@ -5910,7 +5917,7 @@
           "bytes": 25592,
           "truncated": false,
           "finalUrl": "http://strm.dk/events.ics",
-          "ms": 458,
+          "ms": 601,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5935,10 +5942,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/xml; charset=utf-8",
-          "bytes": 8854,
+          "bytes": 8998,
           "truncated": false,
           "finalUrl": "http://strm.dk/sitemap.xml",
-          "ms": 313,
+          "ms": 520,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -5969,7 +5976,7 @@
           "bytes": 392391,
           "truncated": false,
           "finalUrl": "https://sydforsolen.dk/",
-          "ms": 157,
+          "ms": 216,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -5999,7 +6006,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://sydforsolen.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 622,
+          "ms": 976,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6015,7 +6022,7 @@
           "bytes": 11709,
           "truncated": false,
           "finalUrl": "https://sydforsolen.dk/wp-json/wp/v2/types",
-          "ms": 1112,
+          "ms": 666,
           "signals": [
             "wordpress"
           ],
@@ -6033,7 +6040,7 @@
           "bytes": 392391,
           "truncated": false,
           "finalUrl": "https://sydforsolen.dk/",
-          "ms": 685,
+          "ms": 272,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -6063,7 +6070,7 @@
           "bytes": 400,
           "truncated": false,
           "finalUrl": "https://sydforsolen.dk/sitemap_index.xml",
-          "ms": 1016,
+          "ms": 395,
           "signals": [
             "wordpress"
           ],
@@ -6096,7 +6103,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 104
+          "ms": 15
         },
         {
           "path": "/wp-json/tribe/events/v1/events?per_page=5",
@@ -6106,7 +6113,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 94
+          "ms": 7
         },
         {
           "path": "/wp-json/wp/v2/types",
@@ -6116,7 +6123,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 110
+          "ms": 157
         },
         {
           "path": "/events.ics",
@@ -6126,7 +6133,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 102
+          "ms": 16
         },
         {
           "path": "/sitemap.xml",
@@ -6136,7 +6143,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 98
+          "ms": 9
         }
       ]
     },
@@ -6161,7 +6168,7 @@
           "bytes": 130272,
           "truncated": false,
           "finalUrl": "https://www.trailerparkfestival.com/",
-          "ms": 971,
+          "ms": 1451,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -6188,7 +6195,7 @@
           "bytes": 649,
           "truncated": false,
           "finalUrl": "https://www.trailerparkfestival.com/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 488,
+          "ms": 1171,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6204,7 +6211,7 @@
           "bytes": 649,
           "truncated": false,
           "finalUrl": "https://www.trailerparkfestival.com/wp-json/wp/v2/types",
-          "ms": 532,
+          "ms": 413,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6220,7 +6227,7 @@
           "bytes": 649,
           "truncated": false,
           "finalUrl": "https://www.trailerparkfestival.com/events.ics",
-          "ms": 283,
+          "ms": 425,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6236,7 +6243,7 @@
           "bytes": 649,
           "truncated": false,
           "finalUrl": "https://www.trailerparkfestival.com/sitemap.xml",
-          "ms": 264,
+          "ms": 433,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6267,7 +6274,7 @@
           "bytes": 16775,
           "truncated": false,
           "finalUrl": "https://www.cphdistortion.dk/",
-          "ms": 865,
+          "ms": 1315,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6283,7 +6290,7 @@
           "bytes": 4764,
           "truncated": false,
           "finalUrl": "https://www.cphdistortion.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 564,
+          "ms": 379,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6299,7 +6306,7 @@
           "bytes": 4764,
           "truncated": false,
           "finalUrl": "https://www.cphdistortion.dk/wp-json/wp/v2/types",
-          "ms": 242,
+          "ms": 1307,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6315,7 +6322,7 @@
           "bytes": 4764,
           "truncated": false,
           "finalUrl": "https://www.cphdistortion.dk/events.ics",
-          "ms": 563,
+          "ms": 363,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6331,7 +6338,7 @@
           "bytes": 43457,
           "truncated": false,
           "finalUrl": "https://www.cphdistortion.dk/sitemap.xml",
-          "ms": 242,
+          "ms": 370,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6362,7 +6369,7 @@
           "bytes": 123829,
           "truncated": false,
           "finalUrl": "https://jazz.dk/copenhagen-jazz-festival-2026/forside/",
-          "ms": 1136,
+          "ms": 1677,
           "signals": [
             "wordpress",
             "billetlugen-links",
@@ -6380,10 +6387,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 57817,
+          "bytes": 57822,
           "truncated": false,
           "finalUrl": "https://jazz.dk/copenhagen-jazz-festival-2026//program/",
-          "ms": 1868,
+          "ms": 1932,
           "signals": [
             "wordpress"
           ],
@@ -6401,7 +6408,7 @@
           "bytes": 114,
           "truncated": false,
           "finalUrl": "https://jazz.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 690,
+          "ms": 620,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6417,7 +6424,7 @@
           "bytes": 1393,
           "truncated": false,
           "finalUrl": "https://jazz.dk/wp-json/wp/v2/types",
-          "ms": 676,
+          "ms": 867,
           "signals": [
             "wordpress"
           ],
@@ -6435,7 +6442,7 @@
           "bytes": 123829,
           "truncated": false,
           "finalUrl": "https://jazz.dk/copenhagen-jazz-festival-2026/forside/",
-          "ms": 919,
+          "ms": 1349,
           "signals": [
             "wordpress",
             "billetlugen-links",
@@ -6456,7 +6463,7 @@
           "bytes": 730,
           "truncated": false,
           "finalUrl": "https://jazz.dk/wp-sitemap.xml",
-          "ms": 864,
+          "ms": 1318,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6487,7 +6494,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/",
-          "ms": 14,
+          "ms": 28,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6503,7 +6510,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/lineup",
-          "ms": 14,
+          "ms": 31,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6519,7 +6526,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 15,
+          "ms": 50,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6535,7 +6542,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/wp-json/wp/v2/types",
-          "ms": 17,
+          "ms": 30,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6551,7 +6558,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/events.ics",
-          "ms": 10,
+          "ms": 25,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6567,7 +6574,7 @@
           "bytes": 103,
           "truncated": false,
           "finalUrl": "https://spotfestival.dk/sitemap.xml",
-          "ms": 19,
+          "ms": 30,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6595,10 +6602,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html",
-          "bytes": 114698,
+          "bytes": 114806,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/",
-          "ms": 766,
+          "ms": 1017,
           "signals": [
             "billetto-links"
           ],
@@ -6613,10 +6620,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html",
-          "bytes": 1444,
+          "bytes": 1445,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/perl/arr/type-nynaut",
-          "ms": 349,
+          "ms": 563,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6629,10 +6636,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html",
-          "bytes": 1486,
+          "bytes": 1487,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 451,
+          "ms": 566,
           "signals": [
             "wordpress"
           ],
@@ -6647,10 +6654,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html",
-          "bytes": 1442,
+          "bytes": 1443,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/wp-json/wp/v2/types",
-          "ms": 373,
+          "ms": 671,
           "signals": [
             "wordpress"
           ],
@@ -6665,10 +6672,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html",
-          "bytes": 1424,
+          "bytes": 1425,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/events.ics",
-          "ms": 358,
+          "ms": 590,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6681,10 +6688,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html",
-          "bytes": 1426,
+          "bytes": 1427,
           "truncated": false,
           "finalUrl": "https://www.kultunaut.dk/sitemap.xml",
-          "ms": 430,
+          "ms": 475,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -6715,7 +6722,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 25001
+          "ms": 25002
         },
         {
           "path": "/musik",
@@ -6735,7 +6742,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 25001
+          "ms": 25000
         },
         {
           "path": "/wp-json/wp/v2/types",
@@ -6745,7 +6752,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 25000
+          "ms": 25001
         },
         {
           "path": "/events.ics",
@@ -6765,7 +6772,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": null,
-          "ms": 25000
+          "ms": 25001
         }
       ]
     },
@@ -6787,10 +6794,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5947,
+          "bytes": 5950,
           "truncated": false,
           "finalUrl": "https://www.ticketmaster.dk/",
-          "ms": 147,
+          "ms": 160,
           "signals": [
             "ticketmaster-links"
           ],
@@ -6805,10 +6812,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5947,
+          "bytes": 5950,
           "truncated": false,
           "finalUrl": "https://www.ticketmaster.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 121,
+          "ms": 161,
           "signals": [
             "ticketmaster-links"
           ],
@@ -6823,10 +6830,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5947,
+          "bytes": 5950,
           "truncated": false,
           "finalUrl": "https://www.ticketmaster.dk/wp-json/wp/v2/types",
-          "ms": 122,
+          "ms": 150,
           "signals": [
             "ticketmaster-links"
           ],
@@ -6841,10 +6848,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5947,
+          "bytes": 5950,
           "truncated": false,
           "finalUrl": "https://www.ticketmaster.dk/events.ics",
-          "ms": 125,
+          "ms": 156,
           "signals": [
             "ticketmaster-links"
           ],
@@ -6859,10 +6866,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5947,
+          "bytes": 5950,
           "truncated": false,
           "finalUrl": "https://www.ticketmaster.dk/sitemap.xml",
-          "ms": 115,
+          "ms": 158,
           "signals": [
             "ticketmaster-links"
           ],
@@ -6892,10 +6899,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 170713,
+          "bytes": 170658,
           "truncated": false,
           "finalUrl": "https://billetto.dk/",
-          "ms": 291,
+          "ms": 447,
           "signals": [
             "billetto-links",
             "json-ld:1"
@@ -6915,10 +6922,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 99751,
+          "bytes": 99752,
           "truncated": false,
           "finalUrl": "https://billetto.dk/d/koncerter",
-          "ms": 1803,
+          "ms": 233,
           "signals": [
             "billetto-links",
             "json-ld:1"
@@ -6938,10 +6945,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 99944,
+          "bytes": 99945,
           "truncated": false,
           "finalUrl": "https://billetto.dk/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 167,
+          "ms": 621,
           "signals": [
             "wordpress",
             "billetto-links",
@@ -6962,10 +6969,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=utf-8",
-          "bytes": 99823,
+          "bytes": 99824,
           "truncated": false,
           "finalUrl": "https://billetto.dk/wp-json/wp/v2/types",
-          "ms": 231,
+          "ms": 619,
           "signals": [
             "wordpress",
             "billetto-links",
@@ -6989,7 +6996,7 @@
           "bytes": 0,
           "truncated": false,
           "finalUrl": "https://billetto.dk/events.ics",
-          "ms": 117
+          "ms": 187
         },
         {
           "path": "/sitemap.xml",
@@ -6999,7 +7006,7 @@
           "bytes": 322,
           "truncated": false,
           "finalUrl": "https://billetto.dk/sitemap.xml.gz",
-          "ms": 340,
+          "ms": 421,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7030,7 +7037,7 @@
           "bytes": 251880,
           "truncated": false,
           "finalUrl": "https://www.songkick.com/metro-areas/28617-denmark-copenhagen",
-          "ms": 9,
+          "ms": 145,
           "signals": [
             "json-ld:51",
             "json-ld-events:50"
@@ -7058,7 +7065,7 @@
           "bytes": 40319,
           "truncated": false,
           "finalUrl": "https://www.songkick.com/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 156,
+          "ms": 214,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7074,7 +7081,7 @@
           "bytes": 40319,
           "truncated": false,
           "finalUrl": "https://www.songkick.com/wp-json/wp/v2/types",
-          "ms": 293,
+          "ms": 180,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7090,7 +7097,7 @@
           "bytes": 40319,
           "truncated": false,
           "finalUrl": "https://www.songkick.com/events.ics",
-          "ms": 133,
+          "ms": 200,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7106,7 +7113,7 @@
           "bytes": 12883,
           "truncated": false,
           "finalUrl": "https://www.songkick.com/sitemap.xml",
-          "ms": 214,
+          "ms": 284,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7134,10 +7141,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5488,
+          "bytes": 5489,
           "truncated": false,
           "finalUrl": "https://www.bandsintown.com/",
-          "ms": 9,
+          "ms": 14,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7150,10 +7157,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5488,
+          "bytes": 5489,
           "truncated": false,
           "finalUrl": "https://www.bandsintown.com/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 10,
+          "ms": 14,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7166,10 +7173,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5488,
+          "bytes": 5489,
           "truncated": false,
           "finalUrl": "https://www.bandsintown.com/wp-json/wp/v2/types",
-          "ms": 9,
+          "ms": 15,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7185,7 +7192,7 @@
           "bytes": 56,
           "truncated": false,
           "finalUrl": "https://www.bandsintown.com/events.ics",
-          "ms": 6,
+          "ms": 14,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7198,10 +7205,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 5488,
+          "bytes": 5489,
           "truncated": false,
           "finalUrl": "https://www.bandsintown.com/sitemap.xml",
-          "ms": 8,
+          "ms": 15,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7229,10 +7236,10 @@
           "status": 403,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 38188,
+          "bytes": 38190,
           "truncated": false,
           "finalUrl": "https://www.jambase.com/",
-          "ms": 13,
+          "ms": 16,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7256,7 +7263,7 @@
           "bytes": 154902,
           "truncated": false,
           "finalUrl": "https://www.jambase.com/events.ics",
-          "ms": 973,
+          "ms": 67,
           "signals": [
             "wordpress",
             "json-ld:1"
@@ -7279,7 +7286,7 @@
           "bytes": 155165,
           "truncated": false,
           "finalUrl": "https://www.jambase.com/sitemap.xml",
-          "ms": 7030,
+          "ms": 84,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7310,7 +7317,7 @@
           "bytes": 5744,
           "truncated": false,
           "finalUrl": "https://concerty.com/",
-          "ms": 17,
+          "ms": 40,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7326,7 +7333,7 @@
           "bytes": 5924,
           "truncated": false,
           "finalUrl": "https://concerty.com/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 16,
+          "ms": 46,
           "signals": [
             "wordpress"
           ],
@@ -7344,7 +7351,7 @@
           "bytes": 5822,
           "truncated": false,
           "finalUrl": "https://concerty.com/wp-json/wp/v2/types",
-          "ms": 22,
+          "ms": 52,
           "signals": [
             "wordpress"
           ],
@@ -7362,7 +7369,7 @@
           "bytes": 5774,
           "truncated": false,
           "finalUrl": "https://concerty.com/events.ics",
-          "ms": 15,
+          "ms": 42,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7378,7 +7385,7 @@
           "bytes": 5777,
           "truncated": false,
           "finalUrl": "https://concerty.com/sitemap.xml",
-          "ms": 16,
+          "ms": 39,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7406,10 +7413,10 @@
           "status": 200,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 424975,
+          "bytes": 425091,
           "truncated": true,
           "finalUrl": "https://allevents.in/copenhagen/music",
-          "ms": 815,
+          "ms": 214,
           "signals": [
             "ticketmaster-links",
             "venuepoint-links",
@@ -7432,10 +7439,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 170378,
+          "bytes": 170337,
           "truncated": false,
           "finalUrl": "https://allevents.in/wp-json/tribe/events/v1/events?per_page=5",
-          "ms": 53,
+          "ms": 123,
           "signals": [
             "wordpress"
           ],
@@ -7450,10 +7457,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 170081,
+          "bytes": 170156,
           "truncated": false,
           "finalUrl": "https://allevents.in/wp-json/wp/v2/types",
-          "ms": 46,
+          "ms": 151,
           "signals": [
             "wordpress"
           ],
@@ -7468,10 +7475,10 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 170479,
+          "bytes": 170297,
           "truncated": false,
           "finalUrl": "https://allevents.in/events.ics",
-          "ms": 47,
+          "ms": 110,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
@@ -7484,16 +7491,2363 @@
           "status": 404,
           "error": null,
           "contentType": "text/html; charset=UTF-8",
-          "bytes": 170257,
+          "bytes": 170269,
           "truncated": false,
           "finalUrl": "https://allevents.in/sitemap.xml",
-          "ms": 42,
+          "ms": 112,
           "signals": [],
           "jsonLdBlocks": 0,
           "jsonLdEvents": 0,
           "jsonLdTypes": [],
           "isJson": false,
           "raw": "recon/raw/allevents__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "berghain",
+      "kind": "venue-eu",
+      "name": "Berghain",
+      "city": "Berlin",
+      "host": "www.berghain.berlin",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 28793,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/en/",
+          "ms": 474,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__root.txt"
+        },
+        {
+          "path": "/en/events/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 57950,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/en/program/",
+          "ms": 434,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__en-events.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2116,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/en/wp-json/tribe/events/v1/events/?per_page=5",
+          "ms": 480,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2116,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/en/wp-json/wp/v2/types/",
+          "ms": 702,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2116,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/events.ics",
+          "ms": 220,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2116,
+          "truncated": false,
+          "finalUrl": "https://www.berghain.berlin/sitemap.xml",
+          "ms": 210,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/berghain__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "lido-berlin",
+      "kind": "venue-eu",
+      "name": "Lido",
+      "city": "Berlin",
+      "host": "www.lido-berlin.de",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": false,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 211162,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/",
+          "ms": 923,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__root.txt"
+        },
+        {
+          "path": "/programm",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 211162,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/",
+          "ms": 1680,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__programm.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 6126,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 163,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 6126,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/wp-json/wp/v2/types",
+          "ms": 157,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 200,
+          "error": null,
+          "contentType": "text/calendar; charset=utf-8",
+          "bytes": 36945,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/events.ics",
+          "ms": 301,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 6126,
+          "truncated": false,
+          "finalUrl": "https://www.lido-berlin.de/sitemap.xml",
+          "ms": 159,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/lido-berlin__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "astra-berlin",
+      "kind": "venue-eu",
+      "name": "Astra Kulturhaus",
+      "city": "Berlin",
+      "host": "www.astra-berlin.de",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": false,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 81617,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/",
+          "ms": 419,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__root.txt"
+        },
+        {
+          "path": "/programm",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 81579,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/",
+          "ms": 988,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__programm.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 13641,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 266,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 13643,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/wp-json/wp/v2/types",
+          "ms": 154,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 200,
+          "error": null,
+          "contentType": "text/calendar; charset=utf-8",
+          "bytes": 23612,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/events.ics",
+          "ms": 223,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 13641,
+          "truncated": false,
+          "finalUrl": "https://www.astra-berlin.de/sitemap.xml",
+          "ms": 152,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/astra-berlin__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "knust",
+      "kind": "venue-eu",
+      "name": "Knust",
+      "city": "Hamburg",
+      "host": "www.knusthamburg.de",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 140191,
+          "truncated": false,
+          "finalUrl": "https://knusthamburg.de/",
+          "ms": 1670,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/knust__root.txt"
+        },
+        {
+          "path": "/programm",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 466677,
+          "truncated": true,
+          "finalUrl": "https://knusthamburg.de/programm/",
+          "ms": 3062,
+          "signals": [
+            "wordpress",
+            "eventim-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/knust__programm.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 148,
+          "truncated": false,
+          "finalUrl": "https://www.knusthamburg.de/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 565,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/knust__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 6653,
+          "truncated": false,
+          "finalUrl": "https://www.knusthamburg.de/wp-json/wp/v2/types",
+          "ms": 557,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/knust__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 113668,
+          "truncated": false,
+          "finalUrl": "https://knusthamburg.de/events.ics",
+          "ms": 1992,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/knust__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml; charset=UTF-8",
+          "bytes": 808,
+          "truncated": false,
+          "finalUrl": "https://knusthamburg.de/wp-sitemap.xml",
+          "ms": 1084,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/knust__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "molotow",
+      "kind": "venue-eu",
+      "name": "Molotow",
+      "city": "Hamburg",
+      "host": "www.molotowclub.com",
+      "robots": {
+        "status": 404,
+        "error": null,
+        "hasRules": false,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 215466,
+          "truncated": false,
+          "finalUrl": "https://molotowclub.com/programm/programm.php",
+          "ms": 10929,
+          "signals": [
+            "ticketmaster-links",
+            "eventim-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__root.txt"
+        },
+        {
+          "path": "/programm",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 216774,
+          "truncated": false,
+          "finalUrl": "https://www.molotowclub.com/programm/programm.php",
+          "ms": 6552,
+          "signals": [
+            "ticketmaster-links",
+            "eventim-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__programm.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 1042,
+          "truncated": false,
+          "finalUrl": "https://www.molotowclub.com/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 155,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 1042,
+          "truncated": false,
+          "finalUrl": "https://www.molotowclub.com/wp-json/wp/v2/types",
+          "ms": 155,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 1042,
+          "truncated": false,
+          "finalUrl": "https://www.molotowclub.com/events.ics",
+          "ms": 155,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=iso-8859-1",
+          "bytes": 1042,
+          "truncated": false,
+          "finalUrl": "https://www.molotowclub.com/sitemap.xml",
+          "ms": 155,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/molotow__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "debaser",
+      "kind": "venue-eu",
+      "name": "Debaser",
+      "city": "Stockholm",
+      "host": "www.debaser.se",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 54545,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/",
+          "ms": 371,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__root.txt"
+        },
+        {
+          "path": "/program",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 21505,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/program",
+          "ms": 319,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__program.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 21486,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 318,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 22140,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/wp-json/wp/v2/types",
+          "ms": 328,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 22017,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/events.ics",
+          "ms": 318,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 22031,
+          "truncated": false,
+          "finalUrl": "https://debaser.se/sitemap.xml",
+          "ms": 318,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/debaser__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "pustervik",
+      "kind": "venue-eu",
+      "name": "Pustervik",
+      "city": "Göteborg",
+      "host": "pustervik.nu",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 658014,
+          "truncated": true,
+          "finalUrl": "https://pustervik.nu/",
+          "ms": 162,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__root.txt"
+        },
+        {
+          "path": "/program",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 49222,
+          "truncated": false,
+          "finalUrl": "https://pustervik.nu/program",
+          "ms": 734,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__program.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://pustervik.nu/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 29,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://pustervik.nu/wp-json/wp/v2/types",
+          "ms": 26,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 49187,
+          "truncated": false,
+          "finalUrl": "https://pustervik.nu/events.ics",
+          "ms": 539,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml",
+          "bytes": 13075,
+          "truncated": false,
+          "finalUrl": "https://pustervik.nu/sitemap.xml",
+          "ms": 140,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/pustervik__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "slaktkyrkan",
+      "kind": "venue-eu",
+      "name": "Slaktkyrkan",
+      "city": "Stockholm",
+      "host": "slaktkyrkan.se",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 73896,
+          "truncated": false,
+          "finalUrl": "https://www.slaktkyrkan.se/",
+          "ms": 572,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/slaktkyrkan__root.txt"
+        },
+        {
+          "path": "/program",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 80812,
+          "truncated": false,
+          "finalUrl": "https://www.slaktkyrkan.se/program",
+          "ms": 726,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/slaktkyrkan__program.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 123,
+          "truncated": false,
+          "finalUrl": "https://slaktkyrkan.se/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 204,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/slaktkyrkan__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 4751,
+          "truncated": false,
+          "finalUrl": "https://slaktkyrkan.se/wp-json/wp/v2/types",
+          "ms": 191,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/slaktkyrkan__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 80812,
+          "truncated": false,
+          "finalUrl": "https://www.slaktkyrkan.se/events.ics",
+          "ms": 711,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/slaktkyrkan__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 80812,
+          "truncated": false,
+          "finalUrl": "https://www.slaktkyrkan.se/sitemap.xml",
+          "ms": 723,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/slaktkyrkan__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "rockefeller",
+      "kind": "venue-eu",
+      "name": "Rockefeller",
+      "city": "Oslo",
+      "host": "rockefeller.no",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 25641,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/",
+          "ms": 279,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__root.txt"
+        },
+        {
+          "path": "/program",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 18678,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/program",
+          "ms": 317,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__program.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 67,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/wp-json/wp/v2/types",
+          "ms": 63,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 18085,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/events.ics",
+          "ms": 298,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml",
+          "bytes": 50154,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/sitemap.xml",
+          "ms": 738,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/rockefeller__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "blaa",
+      "kind": "venue-eu",
+      "name": "Blå",
+      "city": "Oslo",
+      "host": "www.blaaoslo.no",
+      "robots": {
+        "status": 404,
+        "error": null,
+        "hasRules": false,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 23357,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/",
+          "ms": 306,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__root.txt"
+        },
+        {
+          "path": "/program",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2089,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/program",
+          "ms": 235,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__program.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 36,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/wp-json/wp/v2/types",
+          "ms": 34,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2089,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/events.ics",
+          "ms": 276,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 2089,
+          "truncated": false,
+          "finalUrl": "https://www.blaaoslo.no/sitemap.xml",
+          "ms": 266,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/blaa__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "john-dee",
+      "kind": "venue-eu",
+      "name": "John Dee",
+      "city": "Oslo",
+      "host": "johndee.no",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 25641,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/",
+          "ms": 222,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/john-dee__root.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 243,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/john-dee__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 5525,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/wp-json/wp/v2/types",
+          "ms": 223,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/john-dee__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 18085,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/events.ics",
+          "ms": 236,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/john-dee__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml",
+          "bytes": 50154,
+          "truncated": false,
+          "finalUrl": "https://www.rockefeller.no/sitemap.xml",
+          "ms": 782,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/john-dee__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "tavastia",
+      "kind": "venue-eu",
+      "name": "Tavastia",
+      "city": "Helsinki",
+      "host": "www.tavastiaklubi.fi",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 700657,
+          "truncated": true,
+          "finalUrl": "https://tavastiaklubi.fi/",
+          "ms": 2177,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "WebPage",
+            "BreadcrumbList",
+            "ListItem",
+            "ReadAction",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/tavastia__root.txt"
+        },
+        {
+          "path": "/en",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 699042,
+          "truncated": true,
+          "finalUrl": "https://tavastiaklubi.fi/en/",
+          "ms": 1677,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "WebPage",
+            "BreadcrumbList",
+            "ListItem",
+            "ReadAction",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/tavastia__en.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 118,
+          "truncated": false,
+          "finalUrl": "https://www.tavastiaklubi.fi/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 302,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/tavastia__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 5654,
+          "truncated": false,
+          "finalUrl": "https://www.tavastiaklubi.fi/wp-json/wp/v2/types",
+          "ms": 309,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/tavastia__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 64048,
+          "truncated": false,
+          "finalUrl": "https://tavastiaklubi.fi/events.ics",
+          "ms": 1347,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "Organization",
+            "WebPage",
+            "BreadcrumbList",
+            "ListItem"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/tavastia__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "text/xml; charset=utf-8",
+          "bytes": 4119,
+          "truncated": false,
+          "finalUrl": "https://www.tavastiaklubi.fi/sitemap.xml",
+          "ms": 306,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/tavastia__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "paradiso",
+      "kind": "venue-eu",
+      "name": "Paradiso",
+      "city": "Amsterdam",
+      "host": "www.paradiso.nl",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 444712,
+          "truncated": true,
+          "finalUrl": "https://www.paradiso.nl/en",
+          "ms": 1633,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__root.txt"
+        },
+        {
+          "path": "/en/programme",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 40256,
+          "truncated": false,
+          "finalUrl": "https://www.paradiso.nl/en/programme",
+          "ms": 2352,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__en-programme.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 40583,
+          "truncated": false,
+          "finalUrl": "https://www.paradiso.nl/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 4264,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 40535,
+          "truncated": false,
+          "finalUrl": "https://www.paradiso.nl/wp-json/wp/v2/types",
+          "ms": 7372,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 40485,
+          "truncated": false,
+          "finalUrl": "https://www.paradiso.nl/events.ics",
+          "ms": 6499,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "text/xml;charset=UTF-8",
+          "bytes": 36150,
+          "truncated": false,
+          "finalUrl": "https://www.paradiso.nl/sitemap.xml",
+          "ms": 3642,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/paradiso__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "melkweg",
+      "kind": "venue-eu",
+      "name": "Melkweg",
+      "city": "Amsterdam",
+      "host": "www.melkweg.nl",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 514061,
+          "truncated": true,
+          "finalUrl": "https://www.melkweg.nl/nl/",
+          "ms": 351,
+          "signals": [
+            "nextjs",
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__root.txt"
+        },
+        {
+          "path": "/en/agenda",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 748997,
+          "truncated": true,
+          "finalUrl": "https://www.melkweg.nl/en/agenda/",
+          "ms": 331,
+          "signals": [
+            "ticketmaster-links"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__en-agenda.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 42435,
+          "truncated": false,
+          "finalUrl": "https://www.melkweg.nl/wp-json/tribe/events/v1/events/?per_page=5",
+          "ms": 455,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 42435,
+          "truncated": false,
+          "finalUrl": "https://www.melkweg.nl/wp-json/wp/v2/types/",
+          "ms": 332,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 42435,
+          "truncated": false,
+          "finalUrl": "https://www.melkweg.nl/events.ics",
+          "ms": 195,
+          "signals": [
+            "nextjs"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml",
+          "bytes": 266,
+          "truncated": false,
+          "finalUrl": "https://www.melkweg.nl/sitemap.xml",
+          "ms": 156,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/melkweg__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "ancienne-belgique",
+      "kind": "venue-eu",
+      "name": "Ancienne Belgique",
+      "city": "Brussels",
+      "host": "www.abconcerts.be",
+      "robots": {
+        "status": 404,
+        "error": null,
+        "hasRules": false,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 54922,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/en/",
+          "ms": 728,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__root.txt"
+        },
+        {
+          "path": "/en/concerts",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 29642,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/en/concerts",
+          "ms": 328,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__en-concerts.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 29701,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 329,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 29701,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/wp-json/wp/v2/types",
+          "ms": 275,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 29701,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/events.ics",
+          "ms": 276,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 29701,
+          "truncated": false,
+          "finalUrl": "https://www.abconcerts.be/sitemap.xml",
+          "ms": 341,
+          "signals": [
+            "json-ld:2"
+          ],
+          "jsonLdBlocks": 2,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/ancienne-belgique__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "village-underground",
+      "kind": "venue-eu",
+      "name": "Village Underground",
+      "city": "London",
+      "host": "villageunderground.co.uk",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 403,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 5692,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/",
+          "ms": 23,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/village-underground__root.txt"
+        },
+        {
+          "path": "/events",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 234508,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/events/",
+          "ms": 1926,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "BreadcrumbList",
+            "ListItem",
+            "CollectionPage",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/village-underground__events.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 114,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 326,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/village-underground__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 6276,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/wp-json/wp/v2/types",
+          "ms": 372,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/village-underground__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 63958,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/events.ics",
+          "ms": 496,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "BreadcrumbList",
+            "ListItem",
+            "WebPage",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/village-underground__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "text/xml; charset=utf-8",
+          "bytes": 848,
+          "truncated": false,
+          "finalUrl": "https://villageunderground.co.uk/sitemap.xml",
+          "ms": 314,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/village-underground__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "electric-ballroom",
+      "kind": "venue-eu",
+      "name": "Electric Ballroom",
+      "city": "London",
+      "host": "electricballroom.co.uk",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 46006,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/",
+          "ms": 1564,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebPage",
+            "ReadAction",
+            "ImageObject",
+            "BreadcrumbList",
+            "ListItem",
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "PropertyValueSpecification",
+            "Organization"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/electric-ballroom__root.txt"
+        },
+        {
+          "path": "/events",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 36230,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/events",
+          "ms": 1021,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "PropertyValueSpecification",
+            "Organization",
+            "ImageObject"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/electric-ballroom__events.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 114,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 1011,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/electric-ballroom__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 12554,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/wp-json/wp/v2/types",
+          "ms": 821,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/electric-ballroom__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 36230,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/events.ics",
+          "ms": 798,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "PropertyValueSpecification",
+            "Organization",
+            "ImageObject"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/electric-ballroom__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "text/xml; charset=UTF-8",
+          "bytes": 1365,
+          "truncated": false,
+          "finalUrl": "https://electricballroom.co.uk/sitemap_index.xml",
+          "ms": 3151,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/electric-ballroom__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "la-maroquinerie",
+      "kind": "venue-eu",
+      "name": "La Maroquinerie",
+      "city": "Paris",
+      "host": "www.lamaroquinerie.fr",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "skipped": "robots-disallow"
+        },
+        {
+          "path": "/concerts",
+          "skipped": "robots-disallow"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "skipped": "robots-disallow"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "skipped": "robots-disallow"
+        },
+        {
+          "path": "/events.ics",
+          "skipped": "robots-disallow"
+        },
+        {
+          "path": "/sitemap.xml",
+          "skipped": "robots-disallow"
+        }
+      ]
+    },
+    {
+      "id": "trabendo",
+      "kind": "venue-eu",
+      "name": "Le Trabendo",
+      "city": "Paris",
+      "host": "www.letrabendo.net",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 74319,
+          "truncated": false,
+          "finalUrl": "https://www.letrabendo.net/",
+          "ms": 456,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebPage",
+            "ReadAction",
+            "BreadcrumbList",
+            "ListItem",
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "PropertyValueSpecification",
+            "Organization",
+            "ImageObject"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/trabendo__root.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 183,
+          "truncated": false,
+          "finalUrl": "https://www.letrabendo.net/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 486,
+          "signals": [],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/trabendo__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 200,
+          "error": null,
+          "contentType": "application/json; charset=UTF-8",
+          "bytes": 11611,
+          "truncated": false,
+          "finalUrl": "https://www.letrabendo.net/wp-json/wp/v2/types",
+          "ms": 332,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": true,
+          "raw": "recon/raw/trabendo__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html; charset=UTF-8",
+          "bytes": 38047,
+          "truncated": false,
+          "finalUrl": "https://www.letrabendo.net/events.ics",
+          "ms": 488,
+          "signals": [
+            "wordpress",
+            "json-ld:1"
+          ],
+          "jsonLdBlocks": 1,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [
+            "WebSite",
+            "SearchAction",
+            "EntryPoint",
+            "PropertyValueSpecification",
+            "Organization",
+            "ImageObject"
+          ],
+          "isJson": false,
+          "raw": "recon/raw/trabendo__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "text/xml; charset=UTF-8",
+          "bytes": 679,
+          "truncated": false,
+          "finalUrl": "https://www.letrabendo.net/sitemap_index.xml",
+          "ms": 1196,
+          "signals": [
+            "wordpress"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/trabendo__sitemap-xml.txt"
+        }
+      ]
+    },
+    {
+      "id": "razzmatazz",
+      "kind": "venue-eu",
+      "name": "Razzmatazz",
+      "city": "Barcelona",
+      "host": "www.salarazzmatazz.com",
+      "robots": {
+        "status": 200,
+        "error": null,
+        "hasRules": true,
+        "crawlDelay": null
+      },
+      "probes": [
+        {
+          "path": "/",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 224024,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/",
+          "ms": 38,
+          "signals": [
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__root.txt"
+        },
+        {
+          "path": "/en",
+          "status": 200,
+          "error": null,
+          "contentType": "text/html; charset=utf-8",
+          "bytes": 224166,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/en/",
+          "ms": 133,
+          "signals": [
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__en.txt"
+        },
+        {
+          "path": "/wp-json/tribe/events/v1/events?per_page=5",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html;charset=utf-8",
+          "bytes": 3852,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/wp-json/tribe/events/v1/events?per_page=5",
+          "ms": 79,
+          "signals": [
+            "wordpress",
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__wp-json-tribe-events-v1-events-per-page-5.txt"
+        },
+        {
+          "path": "/wp-json/wp/v2/types",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html;charset=utf-8",
+          "bytes": 3808,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/wp-json/wp/v2/types",
+          "ms": 70,
+          "signals": [
+            "wordpress",
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__wp-json-wp-v2-types.txt"
+        },
+        {
+          "path": "/events.ics",
+          "status": 404,
+          "error": null,
+          "contentType": "text/html;charset=utf-8",
+          "bytes": 3756,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/events.ics",
+          "ms": 699,
+          "signals": [
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__events-ics.txt"
+        },
+        {
+          "path": "/sitemap.xml",
+          "status": 200,
+          "error": null,
+          "contentType": "application/xml",
+          "bytes": 571,
+          "truncated": false,
+          "finalUrl": "https://www.salarazzmatazz.com/sitemap_index.xml",
+          "ms": 261,
+          "signals": [
+            "nuxt"
+          ],
+          "jsonLdBlocks": 0,
+          "jsonLdEvents": 0,
+          "jsonLdTypes": [],
+          "isJson": false,
+          "raw": "recon/raw/razzmatazz__sitemap-xml.txt"
         }
       ]
     }
@@ -7508,9 +9862,9 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 1280,
-      "ms": 406,
+      "ms": 718,
       "raw": "recon/raw/api__musicbrainz-search.txt",
-      "preview": "{\"created\":\"2026-08-12T20:08:42.090Z\",\"count\":2,\"offset\":0,\"artists\":[{\"id\":\"7e01053e-e701-4e55-8a29-b8cfdcdee205\",\"type\":\"Group\",\"type-id\":\"e431f5f6-b5d2-343d-8b36-72607fffb74b\",\"score\":100,\"name\":\"Iceage\",\"sort-name\":\"Iceage\",\"country\":\"DK\",\"area\":{\"id\":\"4757b525-2a60-324a-b060-578765d2c993\",\"type\":\"Country\",\"type-id\":\"06dd0ae4-8c74-30bb-b43d-95dcedf961de\",\"name\":\"Denmark\",\"sort-name\":\"Denmark\",\"life-span\":{\"ended\":null}},\"begin-area\":{\"id\":\"e0e3c82a-aea8-48d3-beda-9e587db0b969\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Copenhagen\",\"sort-name\":\"Copenhagen\",\"life-span\":{\"ended\":null}},\"disambiguation\":\"Danish punk band\",\"isnis\":[\"0000000123158423\"],\"life-span\":{\"begin\":\"2008\",\"ended\":null},\"tags\":[{\"count\":1,\"name\":\"art punk\"},{\"count\":2,\"name\":\"punk rock\"},{\"count\":1,\"name\":\"punk blues\"},{\"count\":1,\"name\":\"post-punk 2k\"},{\"count\":2,\"name\":\"post-punk\"},{\"count\":2,\"name\":\"post-hardcore\"},{\"count\":2,\"name\":\"noise rock\"}]},{\"id\":\"e5fdc9e1-228a-4429-b9d7-dd8278a7b1e8\",\"score\":81,\"name\":\"Iceage Cobra\",\"sort-name\":\"Iceage Cobra\",\"area\":{\"id\":\"10adc6b5-63bf-4b4e-993e-ed83b05c22fc\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Seattle\""
+      "preview": "{\"created\":\"2026-08-12T21:08:42.550Z\",\"count\":2,\"offset\":0,\"artists\":[{\"id\":\"7e01053e-e701-4e55-8a29-b8cfdcdee205\",\"type\":\"Group\",\"type-id\":\"e431f5f6-b5d2-343d-8b36-72607fffb74b\",\"score\":100,\"name\":\"Iceage\",\"sort-name\":\"Iceage\",\"country\":\"DK\",\"area\":{\"id\":\"4757b525-2a60-324a-b060-578765d2c993\",\"type\":\"Country\",\"type-id\":\"06dd0ae4-8c74-30bb-b43d-95dcedf961de\",\"name\":\"Denmark\",\"sort-name\":\"Denmark\",\"life-span\":{\"ended\":null}},\"begin-area\":{\"id\":\"e0e3c82a-aea8-48d3-beda-9e587db0b969\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Copenhagen\",\"sort-name\":\"Copenhagen\",\"life-span\":{\"ended\":null}},\"disambiguation\":\"Danish punk band\",\"isnis\":[\"0000000123158423\"],\"life-span\":{\"begin\":\"2008\",\"ended\":null},\"tags\":[{\"count\":1,\"name\":\"art punk\"},{\"count\":2,\"name\":\"punk rock\"},{\"count\":1,\"name\":\"punk blues\"},{\"count\":1,\"name\":\"post-punk 2k\"},{\"count\":2,\"name\":\"post-punk\"},{\"count\":2,\"name\":\"post-hardcore\"},{\"count\":2,\"name\":\"noise rock\"}]},{\"id\":\"e5fdc9e1-228a-4429-b9d7-dd8278a7b1e8\",\"score\":81,\"name\":\"Iceage Cobra\",\"sort-name\":\"Iceage Cobra\",\"area\":{\"id\":\"10adc6b5-63bf-4b4e-993e-ed83b05c22fc\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Seattle\""
     },
     {
       "id": "musicbrainz-tags",
@@ -7521,9 +9875,9 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 1689,
-      "ms": 141,
+      "ms": 10926,
       "raw": "recon/raw/api__musicbrainz-tags.txt",
-      "preview": "{\"created\":\"2026-08-12T20:08:43.333Z\",\"count\":1,\"offset\":0,\"artists\":[{\"id\":\"d700b3f5-45af-4d02-95ed-57d301bda93e\",\"type\":\"Group\",\"type-id\":\"e431f5f6-b5d2-343d-8b36-72607fffb74b\",\"score\":100,\"name\":\"Mogwai\",\"sort-name\":\"Mogwai\",\"country\":\"GB\",\"area\":{\"id\":\"8a754a16-0027-3a29-b6d7-2b40ea0481ed\",\"type\":\"Country\",\"type-id\":\"06dd0ae4-8c74-30bb-b43d-95dcedf961de\",\"name\":\"United Kingdom\",\"sort-name\":\"United Kingdom\",\"life-span\":{\"ended\":null}},\"begin-area\":{\"id\":\"c279f805-01f8-46f5-99cf-51f165a1adad\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Glasgow\",\"sort-name\":\"Glasgow\",\"life-span\":{\"ended\":null}},\"disambiguation\":\"Scottish post‐rock band\",\"isnis\":[\"000000011519714X\"],\"life-span\":{\"begin\":\"1995\",\"ended\":null},\"aliases\":[{\"sort-name\":\"Mogwa\",\"name\":\"Mogwa\",\"locale\":null,\"type\":null,\"primary\":null,\"begin-date\":null,\"end-date\":null}],\"tags\":[{\"count\":1,\"name\":\"rock\"},{\"count\":5,\"name\":\"electronic\"},{\"count\":0,\"name\":\"soundtrack\"},{\"count\":31,\"name\":\"post-rock\"},{\"count\":1,\"name\":\"alternative rock\"},{\"count\":9,\"name\":\"instrumental\"},{\"count\":1,\"name\":\"shoegaze\"},{\"count\":-1,\"name\":\"ambient\"},{\"count\":9,\"name\":\"scottish\"},{\"count\":1,\"name\":\"dance\"},{\"count\":1,\"n"
+      "preview": "{\"created\":\"2026-08-12T21:08:54.574Z\",\"count\":1,\"offset\":0,\"artists\":[{\"id\":\"d700b3f5-45af-4d02-95ed-57d301bda93e\",\"type\":\"Group\",\"type-id\":\"e431f5f6-b5d2-343d-8b36-72607fffb74b\",\"score\":100,\"name\":\"Mogwai\",\"sort-name\":\"Mogwai\",\"country\":\"GB\",\"area\":{\"id\":\"8a754a16-0027-3a29-b6d7-2b40ea0481ed\",\"type\":\"Country\",\"type-id\":\"06dd0ae4-8c74-30bb-b43d-95dcedf961de\",\"name\":\"United Kingdom\",\"sort-name\":\"United Kingdom\",\"life-span\":{\"ended\":null}},\"begin-area\":{\"id\":\"c279f805-01f8-46f5-99cf-51f165a1adad\",\"type\":\"City\",\"type-id\":\"6fd8f29a-3d0a-32fc-980d-ea697b69da78\",\"name\":\"Glasgow\",\"sort-name\":\"Glasgow\",\"life-span\":{\"ended\":null}},\"disambiguation\":\"Scottish post‐rock band\",\"isnis\":[\"000000011519714X\"],\"life-span\":{\"begin\":\"1995\",\"ended\":null},\"aliases\":[{\"sort-name\":\"Mogwa\",\"name\":\"Mogwa\",\"locale\":null,\"type\":null,\"primary\":null,\"begin-date\":null,\"end-date\":null}],\"tags\":[{\"count\":1,\"name\":\"rock\"},{\"count\":5,\"name\":\"electronic\"},{\"count\":0,\"name\":\"soundtrack\"},{\"count\":31,\"name\":\"post-rock\"},{\"count\":1,\"name\":\"alternative rock\"},{\"count\":9,\"name\":\"instrumental\"},{\"count\":1,\"name\":\"shoegaze\"},{\"count\":-1,\"name\":\"ambient\"},{\"count\":9,\"name\":\"scottish\"},{\"count\":1,\"name\":\"dance\"},{\"count\":1,\"n"
     },
     {
       "id": "listenbrainz-similar",
@@ -7534,7 +9888,7 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 144,
-      "ms": 686,
+      "ms": 1107,
       "raw": "recon/raw/api__listenbrainz-similar.txt",
       "preview": "{\"code\":404,\"error\":\"The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.\"}\n"
     },
@@ -7547,7 +9901,7 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 1209,
-      "ms": 224,
+      "ms": 256,
       "raw": "recon/raw/api__listenbrainz-user.txt",
       "preview": "{\"payload\":{\"artists\":[{\"artist_mbid\":\"c24b47a1-2f52-44f3-a3c6-374dca844731\",\"artist_name\":\"Wax Tailor\",\"listen_count\":4298},{\"artist_mbid\":\"1c70a3fc-fa3c-4be1-8b55-c3192db8a884\",\"artist_name\":\"R\\u00f6yksopp\",\"listen_count\":4249},{\"artist_mbid\":\"a8b39181-6939-451e-9641-2db231b73706\",\"artist_name\":\"Abakus\",\"listen_count\":3809},{\"artist_mbid\":\"9a709693-b4f8-4da9-8cc1-038c911a61be\",\"artist_name\":\"Bonobo\",\"listen_count\":3536},{\"artist_mbid\":\"3a07764c-7cc5-42e9-8205-3de7532f4771\",\"artist_name\":\"Pretty Lights\",\"listen_count\":3183},{\"artist_mbid\":\"8229a8f1-b315-4fae-af57-b3eb71efdaf4\",\"artist_name\":\"Carbon Based Lifeforms\",\"listen_count\":2955},{\"artist_mbid\":\"83d91898-7763-47d7-b03b-b92132375c47\",\"artist_name\":\"Pink Floyd\",\"listen_count\":2732},{\"artist_mbid\":\"69158f97-4c07-4c4e-baf8-4e4ab1ed666e\",\"artist_name\":\"Boards of Canada\",\"listen_count\":2643},{\"artist_mbid\":\"067102ea-9519-4622-9077-57ca4164cfbb\",\"artist_name\":\"Morcheeba\",\"listen_count\":2593},{\"artist_mbid\":\"f1106b17-dcbb-45f6-b938-199ccfab50cc\",\"artist_name\":\"New Order\",\"listen_count\":2563}],\"count\":10,\"from_ts\":1009843200,\"last_updated\":1783441901,\"offset\":0,\"range\":\"all_time\",\"to_ts\":1783382448,\"total_artist_count\":8629,\"user_id\""
     },
@@ -7560,7 +9914,7 @@
       "error": null,
       "contentType": "application/sparql-results+json;charset=utf-8",
       "bytes": 192,
-      "ms": 244,
+      "ms": 307,
       "raw": "recon/raw/api__wikidata-sparql.txt",
       "preview": "{\n  \"head\" : {\n    \"vars\" : [ \"s\" ]\n  },\n  \"results\" : {\n    \"bindings\" : [ {\n      \"s\" : {\n        \"type\" : \"uri\",\n        \"value\" : \"http://www.wikidata.org/entity/Q23\"\n      }\n    } ]\n  }\n}"
     },
@@ -7573,9 +9927,9 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 829,
-      "ms": 210,
+      "ms": 235,
       "raw": "recon/raw/api__mb-labels.txt",
-      "preview": "{\"created\":\"2026-08-12T20:08:49.102Z\",\"count\":46291,\"offset\":0,\"release-groups\":[{\"id\":\"42574af1-8a3a-3168-8235-bc75a3780d16\",\"type-id\":\"f529b476-6e62-324f-b0aa-1f3e33d313fc\",\"score\":100,\"primary-type-id\":\"f529b476-6e62-324f-b0aa-1f3e33d313fc\",\"artist-credit-id\":\"7b920f16-d85b-36be-8209-452bc2aefef9\",\"count\":1,\"title\":\"DK\",\"first-release-date\":\"1992\",\"primary-type\":\"Album\",\"artist-credit\":[{\"name\":\"Love Shop\",\"artist\":{\"id\":\"af38a4bd-5533-4e37-99d5-505d56e303d3\",\"name\":\"Love Shop\",\"sort-name\":\"Love Shop\",\"disambiguation\":\"Danish pop/rock group\",\"aliases\":[{\"sort-name\":\"Loveshop\",\"name\":\"Loveshop\",\"locale\":null,\"type\":null,\"primary\":null,\"begin-date\":null,\"end-date\":null}]}}],\"releases\":[{\"id\":\"0976abaa-7f13-45d3-9210-087c893bee04\",\"status-id\":\"4e304316-386d-3409-af2e-78857eec5cfe\",\"title\":\"DK\",\"status\":\"Official\"}]}]}"
+      "preview": "{\"created\":\"2026-08-12T21:09:00.880Z\",\"count\":46291,\"offset\":0,\"release-groups\":[{\"id\":\"42574af1-8a3a-3168-8235-bc75a3780d16\",\"type-id\":\"f529b476-6e62-324f-b0aa-1f3e33d313fc\",\"score\":100,\"primary-type-id\":\"f529b476-6e62-324f-b0aa-1f3e33d313fc\",\"artist-credit-id\":\"7b920f16-d85b-36be-8209-452bc2aefef9\",\"count\":1,\"title\":\"DK\",\"first-release-date\":\"1992\",\"primary-type\":\"Album\",\"artist-credit\":[{\"name\":\"Love Shop\",\"artist\":{\"id\":\"af38a4bd-5533-4e37-99d5-505d56e303d3\",\"name\":\"Love Shop\",\"sort-name\":\"Love Shop\",\"disambiguation\":\"Danish pop/rock group\",\"aliases\":[{\"sort-name\":\"Loveshop\",\"name\":\"Loveshop\",\"locale\":null,\"type\":null,\"primary\":null,\"begin-date\":null,\"end-date\":null}]}}],\"releases\":[{\"id\":\"0976abaa-7f13-45d3-9210-087c893bee04\",\"status-id\":\"4e304316-386d-3409-af2e-78857eec5cfe\",\"title\":\"DK\",\"status\":\"Official\"}]}]}"
     },
     {
       "id": "ticketmaster-discovery",
@@ -7586,7 +9940,7 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 150,
-      "ms": 112,
+      "ms": 242,
       "raw": "recon/raw/api__ticketmaster-discovery.txt",
       "preview": "{\"fault\":{\"faultstring\":\"Failed to resolve API Key variable request.queryparam.apikey\",\"detail\":{\"errorcode\":\"steps.oauth.v2.FailedToResolveAPIKey\"}}}"
     },
@@ -7599,7 +9953,7 @@
       "error": null,
       "contentType": "application/json; charset=utf-8",
       "bytes": 82,
-      "ms": 137,
+      "ms": 243,
       "raw": "recon/raw/api__songkick-api.txt",
       "preview": "{\"resultsPage\":{\"status\":\"error\",\"error\":{\"message\":\"Invalid or missing apikey\"}}}"
     },
@@ -7612,7 +9966,7 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 23,
-      "ms": 106,
+      "ms": 308,
       "raw": "recon/raw/api__setlistfm.txt",
       "preview": "{\"message\":\"Forbidden\"}"
     },
@@ -7625,7 +9979,7 @@
       "error": null,
       "contentType": "application/json",
       "bytes": 89,
-      "ms": 131,
+      "ms": 146,
       "raw": "recon/raw/api__lastfm.txt",
       "preview": "{\"message\":\"Invalid parameters - Your request is missing a required parameter\",\"error\":6}"
     }

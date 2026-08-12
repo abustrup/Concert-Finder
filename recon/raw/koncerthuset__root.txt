@@ -17,7 +17,7 @@
 
         <link rel="canonical" href="https://www.drkoncerthuset.dk/" />
 
-    <link rel="stylesheet" href="/frontend/styles/main.css?v=20260811230557" />
+    <link rel="stylesheet" href="/frontend/styles/main.css?v=20260812075640" />
             <title>DR Koncerthuset | Koncerter, events og store oplevelser i K&#xF8;benhavn</title>
         <meta name="description" content="DR Koncerthuset i K&#xF8;benhavn er et musikhus fyldt med klassiske koncerter, kor, jazz, rytmisk livemusik og familievenlige oplevelser. Se koncertkalenderen og k&#xF8;b billetter til store musikoplevelser for b&#xE5;de voksne og b&#xF8;rn.">
         <meta name="og:description" content="DR Koncerthuset i K&#xF8;benhavn er et musikhus fyldt med klassiske koncerter, kor, jazz, rytmisk livemusik og familievenlige oplevelser. Se koncertkalenderen og k&#xF8;b billetter til store musikoplevelser for b&#xE5;de voksne og b&#xF8;rn.">
@@ -28,7 +28,7 @@
 
 
     <script type="text/javascript" src="/polyfill.js"></script>
-    <script type="text/javascript" src="/frontend/Scripts/DRKoncerthuset.bundle.js?v=20260811230557"></script>
+    <script type="text/javascript" src="/frontend/Scripts/DRKoncerthuset.bundle.js?v=20260812075640"></script>
     <script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js"
     data-culture="DA" data-gcm-version="2.0" type="text/javascript"></script>
 
@@ -968,7 +968,7 @@
 <h1 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Nyheder</h1>        </div>
     </div>
     <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
-        <div class="container" id="sticky-target-80fc6b7e-cf39-433b-b368-4d4a3ce6055b">
+        <div class="container" id="sticky-target-747572b4-1bbf-480e-b879-10e29b0f318a">
             <div class="umb-block-list">
 
 
@@ -1024,7 +1024,7 @@
 <h2 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Aktuelt</h2>        </div>
     </div>
     <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
-        <div class="container" id="sticky-target-57756686-3533-49ee-9ea8-304061b8081e">
+        <div class="container" id="sticky-target-3f90108c-820e-4ee2-a38c-4e2c27156c75">
             <div class="umb-block-list">
 
 
@@ -1158,7 +1158,7 @@ Foto: Emilia Therese                </figcaption>
 <h2 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Mad og Drikke</h2>        </div>
     </div>
     <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
-        <div class="container" id="sticky-target-40239f82-2d15-4dc9-9f3b-d4763f5fc7cf">
+        <div class="container" id="sticky-target-dba44399-380c-49eb-a1e0-af9896902af7">
             <div class="umb-block-list">
 
 

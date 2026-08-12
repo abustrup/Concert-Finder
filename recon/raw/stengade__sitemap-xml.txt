@@ -32,10 +32,10 @@
     <loc>https://www.stengade.dk/show/2026/8/29/old-sorcery-fi-special-guest-offermose</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-08-12</lastmod>
     <image:image>
       <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/b63581af-8150-4fa3-bc58-63c72eac70eb/poster-osom1.jpg</image:loc>
-      <image:title>Kalender - Old Sorcery [FI] + Special Guest: Offermose - Make it stand out</image:title>
+      <image:title>Kalender - Old Sorcery [FI] + Special Guest: Offermose + NATFEST: DJ Impaler - Make it stand out</image:title>
       <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
   </url>
@@ -658,10 +658,10 @@
     <loc>https://www.stengade.dk/show/2026/10/16/marko-hietala-fi</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-08-12</lastmod>
     <image:image>
       <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9044b34a-3d04-447d-8d3f-381998ab913d/storyposter-mh.jpg</image:loc>
-      <image:title>Kalender - Marko Hietala [FI] // Few Tickets Left - Make it stand out</image:title>
+      <image:title>Kalender - Marko Hietala [FI] + NATFEST: DJ Weiss // Few Tickets Left - Make it stand out</image:title>
       <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
     </image:image>
   </url>
@@ -2179,6 +2179,5 @@
   </url>
   <url>
     <loc>https://www.stengade.dk/show/2024/9/18/misfitz-stengade-52-years-birthday-bash</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</prior
+    <changefreq>mont
 <!-- TRIMMED BY recon.mjs -->

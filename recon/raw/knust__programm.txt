@@ -1,0 +1,1810 @@
+<!doctype html>
+<html lang="de" >
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Programm &#8211; KNUST Hamburg</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="KNUST Hamburg &raquo; Feed" href="https://knusthamburg.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KNUST Hamburg &raquo; Kommentar-Feed" href="https://knusthamburg.de/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://knusthamburg.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknusthamburg.de%2Fprogramm%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://knusthamburg.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknusthamburg.de%2Fprogramm%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--strong-magenta: #a156b4;--wp--preset--color--very-dark-grey: rgb(131, 12, 8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--margin-1: 1.25rem;--wp--preset--spacing--margin-2: 2.1875rem;--wp--preset--spacing--margin-3: 2.8175rem;--wp--preset--spacing--margin-4: 3.75rem;--wp--preset--spacing--margin-5: 6.25rem;--wp--preset--spacing--margin-6: 12.5rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1000px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-color{color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-color{color: var(--wp--preset--color--very-dark-grey) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-background-color{background-color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-background-color{background-color: var(--wp--preset--color--very-dark-grey) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-border-color{border-color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-border-color{border-color: var(--wp--preset--color--very-dark-grey) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='nu-twenty-twenty-one-style-css' href='https://knusthamburg.de/wp-content/themes/knust25/assets/twentytwentyone.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='main-css' href='https://knusthamburg.de/wp-content/themes/knust25/./assets/css/app-DLqNlcaI.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://knusthamburg.de/wp-content/themes/knust25/style.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://knusthamburg.de/wp-content/themes/twentytwentyone/assets/css/print.css?ver=2.0.0' media='print' />
+<script data-wp-strategy="defer" defer id="wp-embed-js" src="https://knusthamburg.de/wp-includes/js/wp-embed.min.js?ver=7.0.4"></script>
+<script id="main-js" src="https://knusthamburg.de/wp-content/themes/knust25/./assets/js/main-DdhHE6Em.js?ver=7.0.4"></script>
+<script data-wp-strategy="defer" defer id="twenty-twenty-one-primary-navigation-script-js" src="https://knusthamburg.de/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=2.0.0"></script>
+<link rel="https://api.w.org/" href="https://knusthamburg.de/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://knusthamburg.de/wp-json/wp/v2/pages/100" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://knusthamburg.de/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://knusthamburg.de/programm/" />
+<link rel='shortlink' href='https://knusthamburg.de/?p=100' />
+    <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <meta name="author" content="Meta3">
+    <meta name="language" content="de">
+    <meta name="description" content="Knust Hamburg. Live Club - Konzerte in der Rinderschlachthalle Neuer Kamp Hamburg">
+    <meta name="keywords" content="band,live,konzerte,b&uuml;hne,hamburgs,live-clubs,musik,music,rock,indie,alternative,folk,singer,song,writer">
+    <meta name="robots" content="index">
+    <meta name="robots" content="follow">
+    <meta name="viewport" content="width=device-width">
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:site_name" content="KNUST Hamburg" />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Knust Hamburg. Live Club - Konzerte in der Rinderschlachthalle Neuer Kamp Hamburg">
+    <meta property="og:image" content="https://knusthamburg.de/knust_OG_social_1200x630.png" />
+    <meta property="og:image:alt" content="KNUST Logo" />
+    <meta property="og:url" content="https://knusthamburg.de"/>
+    <meta property="og:title" content="KNUST Hamburg" />
+        <script>
+            var lewobat_ajax = {
+                url: 'https://knusthamburg.de/wp-admin/admin-ajax.php',
+                nonce: 'f492db0dae'
+            };
+        </script>
+    </head>
+
+<body class="wp-singular page-template page-template-page-templates page-template-programm-tpl page-template-page-templatesprogramm-tpl-php page page-id-100 wp-custom-logo wp-embed-responsive wp-theme-twentytwentyone wp-child-theme-knust25 is-light-theme no-js singular has-main-navigation">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">
+		Zum Inhalt springen	</a>
+
+	
+<header id="masthead" class="-direct-fade site-header has-logo has-title-and-tagline has-menu">
+
+    <div id="i96-stickyheader" class="w-full -sticky-normal -d irect-fade" classa="-direct-fade flex justify-center items-center bg-primary _kn-bg-white">
+
+        <div class="_kn-bg-primary w-full">
+            <div class="kn-header-top le-content relative flex justify-between items-center">
+
+                                <button class="kn-nav-back" onclick="history.back()" alt="Back Button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
+                        <path d="M9.67832 14.3217L4.55944 9.2028H16V6.7972H4.55944L9.67832 1.67832L8 0L0 8L8 16L9.67832 14.3217Z" fill="#4E2712"/>
+                    </svg>
+                </button>
+                
+                <div class="site-logo"><a href="https://knusthamburg.de/" class="custom-logo-link" rel="home"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2025/09/logo-knust-2025.svg" class="custom-logo" alt="KNUST Logo 2025 braun" decoding="async" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2025/09/logo-knust-2025.svg" class="custom-logo" alt="KNUST Logo 2025 braun" decoding="async" /></noscript></a></div>
+
+                <div class="kn-socials-wrapper  !relative">
+    <a href="https://www.instagram.com/knusthamburg/" class="kn-social -instagram" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31" fill="none" aria-label="Follow us on Instagram" role="img">
+            <path d="M27.2 20.9975C27.2 21.5212 27.15 22.02 27.0625 22.4938C26.975 22.9801 26.8375 23.4414 26.65 23.8778L26.6875 23.803C26.425 24.4763 26.05 25.0623 25.55 25.5362C25.05 26.01 24.5 26.384 23.875 26.6459H23.8375C23.425 26.8329 22.975 26.9576 22.5125 27.0324C22.05 27.1072 21.5625 27.1571 21.0625 27.182C20.25 27.207 19.55 27.2319 18.9375 27.2444C18.325 27.2569 17 27.2693 14.975 27.2693C12.95 27.2693 11.625 27.2693 11.0125 27.2444C10.4 27.2195 9.6875 27.207 8.8875 27.182C8.3625 27.1571 7.875 27.0948 7.4 27.0075C6.925 26.9202 6.475 26.7955 6.0375 26.6334H6.075C5.425 26.3965 4.85 26.0349 4.35 25.5362C3.85 25.0374 3.475 24.4763 3.2125 23.8155V23.7781C3.05 23.3915 2.9375 22.9551 2.8375 22.4938C2.7375 22.0324 2.7 21.5337 2.7 21.01C2.65 20.2244 2.625 19.5262 2.625 18.9027V10.9726C2.625 10.3616 2.65 9.65087 2.7 8.85287C2.7 8.35411 2.75 7.86783 2.8375 7.39401C2.925 6.90773 3.0625 6.44638 3.25 6.00998L3.2125 6.04738C3.475 5.399 3.85 4.82544 4.35 4.32668C4.85 3.82793 5.4125 3.45387 6.075 3.19202C6.4875 3.04239 6.9375 2.91771 7.4 2.81796C7.875 2.73067 8.3625 2.6808 8.8875 2.6808C9.675 2.65586 10.375 2.63092 11 2.61845C11.625 2.60598 12.95 2.59352 14.9875 2.59352H18.95C19.5625 2.59352 20.275 2.61845 21.075 2.66833C21.575 2.66833 22.05 2.7182 22.525 2.80549C23 2.89277 23.45 3.02993 23.8875 3.21696L23.85 3.17955C24.5 3.4414 25.075 3.81546 25.575 4.31421C26.075 4.81297 26.45 5.37407 26.7125 6.03491C26.8625 6.44638 26.9875 6.89526 27.0875 7.35661C27.175 7.83042 27.225 8.30424 27.225 8.80299V8.8404C27.25 9.61347 27.275 10.3242 27.2875 10.9476C27.3 11.5711 27.3125 12.8928 27.3125 14.9252V18.8778C27.3125 19.4888 27.3 20.187 27.275 20.9601H27.2375L27.2 20.9975ZM29.2375 5.18703C28.85 4.17706 28.275 3.29177 27.5125 2.54364C26.75 1.79551 25.8875 1.22195 24.9 0.822943L24.8625 0.785536C24.3125 0.573566 23.7375 0.411471 23.125 0.299252C22.5125 0.187032 21.8875 0.124688 21.225 0.124688H21.1875C20.4125 0.074813 19.6875 0.0374065 19.0375 0.0249377C18.3875 0.0124688 17.05 0 15.0125 0C12.975 0 11.6375 0 10.9875 0.0249377C10.3375 0.0374065 9.625 0.074813 8.8375 0.124688C8.1875 0.124688 7.55 0.187032 6.925 0.32419C6.3 0.448878 5.7 0.623441 5.125 0.835411L5.2 0.798005C4.1875 1.20948 3.3 1.79551 2.55 2.55611C1.8 3.30424 1.225 4.16459 0.825 5.12469L0.7875 5.1995C0.575 5.72319 0.4125 6.29676 0.3 6.9202C0.1875 7.54364 0.1125 8.17955 0.0875 8.82793C0.0625 9.6384 0.0375 10.3491 0.025 10.985C0.0125 11.6209 0 12.9551 0 14.9751C0 16.995 0 18.3416 0.025 18.99C0.0375 19.6384 0.0625 20.3616 0.0875 21.1721C0.1125 21.7955 0.1875 22.4065 0.3 23.005C0.4125 23.6035 0.575 24.202 0.7875 24.8005C1.2 25.8105 1.7875 26.6958 2.55 27.4439C3.3 28.192 4.1625 28.7656 5.125 29.1646H5.2C5.725 29.4015 6.2875 29.5761 6.9 29.7132C7.5125 29.8504 8.1375 29.9127 8.8 29.9127H8.8375C9.65 29.9626 10.3625 30 11 30.0125C11.6375 30.0249 12.975 30.0374 15 30.0374C17.025 30.0374 18.375 30.0374 19.025 30.0125C19.675 30 20.4 29.9626 21.2125 29.9127C21.8625 29.9127 22.5 29.8504 23.125 29.7132C23.75 29.5761 24.35 29.414 24.925 29.202L24.85 29.2394C25.8625 28.8279 26.75 28.2419 27.5 27.4813C28.25 26.7332 28.825 25.8728 29.225 24.9127V24.8379C29.4625 24.2643 29.6375 23.6783 29.75 23.0673C29.8625 22.4564 29.925 21.8454 29.925 21.2219C29.95 20.4115 29.975 19.7007 29.9875 19.0648C30 18.4289 30.0125 17.0948 30.0125 15.0748V11.0474C30.0125 10.4115 29.9875 9.68828 29.9375 8.89027C29.9375 8.24189 29.875 7.59352 29.7375 6.95761C29.6125 6.3217 29.425 5.72319 29.1875 5.14963L29.225 5.22444L29.2375 5.18703ZM24.8125 6.97008C24.8125 7.49377 24.6375 7.91771 24.2875 8.25436C23.9375 8.59102 23.5125 8.76559 23.0125 8.76559C22.5125 8.76559 22.1 8.59102 21.7375 8.25436C21.3875 7.91771 21.2125 7.49377 21.2125 6.97008C21.2125 6.44638 21.3875 6.05985 21.7375 5.72319C22.0875 5.38653 22.5125 5.21197 23.0125 5.21197C23.5125 5.21197 23.925 5.38653 24.2875 5.72319C24.6375 6.05985 24.8125 6.47132 24.8125 6.97008ZM15.0125 19.9501C13.6375 19.9501 12.45 19.4638 11.475 18.4913C10.5 17.5187 10.0125 16.3466 10.0125 14.9626C10.0125 13.5786 10.5 12.4065 11.475 11.4339C12.45 10.4613 13.625 9.97506 15.0125 9.97506C16.4 9.97506 17.575 10.4613 18.55 11.4339C19.525 12.4065 20.0125 13.5786 20.0125 14.9626C20.0125 16.3466 19.525 17.5187 18.55 18.4913C17.575 19.4638 16.4 19.9501 15.0125 19.9501ZM15.0125 7.2818C13.95 7.2818 12.9375 7.4813 12 7.86783C11.0625 8.2793 10.25 8.8404 9.5625 9.52618C8.875 10.212 8.325 11.0224 7.9 11.9576C7.5125 12.8928 7.3125 13.8903 7.3125 14.9626C7.3125 16.0349 7.5125 17.0324 7.9 17.9676C8.3125 18.9027 8.875 19.7132 9.5625 20.399C10.25 21.0848 11.0625 21.6334 12 22.0574C12.9375 22.4439 13.9375 22.6434 15.0125 22.6434C16.0875 22.6434 17.0875 22.4439 18.025 22.0574C18.9625 21.6459 19.775 21.0848 20.4625 20.399C21.15 19.7132 21.7 18.9027 22.125 17.9676C22.5125 17.0324 22.7125 16.0349 22.7125 14.9626C22.7125 13.8903 22.5125 12.8928 22.125 11.9576C21.7125 11.0224 21.15 10.212 20.4625 9.52618C19.775 8.8404 18.9625 8.29177 18.025 7.86783C17.0875 7.4813 16.0875 7.2818 15.0125 7.2818Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+    <a href="https://www.facebook.com/KnustHamburg" class="kn-social -facebook" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30" fill="none" aria-label="Follow us on Facebook" role="img">
+            <path d="M18.8752 15H16.4189V24.0188H13.0814V15H10.7939V11.8969H13.0814V10.0781C13.0814 8.70938 13.3346 7.6875 13.8408 7.00312C14.3471 6.31875 15.3033 5.98125 16.7096 5.98125H19.1658V9.08437H17.6471C17.1033 9.08437 16.7564 9.17813 16.6252 9.375C16.4939 9.57187 16.4189 9.9 16.4189 10.3688V11.8875H19.2314L18.8752 14.9906V15ZM24.3877 0H5.6377C4.07207 0 2.7502 0.54375 1.65332 1.64062C0.556445 2.7375 0.0126953 4.05937 0.0126953 5.625V24.375C0.0126953 25.9406 0.556445 27.2625 1.65332 28.3594C2.7502 29.4562 4.07207 30 5.6377 30H24.3877C25.9533 30 27.2752 29.4562 28.3721 28.3594C29.4689 27.2625 30.0127 25.9406 30.0127 24.375V5.625C30.0127 4.05937 29.4689 2.7375 28.3721 1.64062C27.2752 0.54375 25.9533 0 24.3877 0Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+</div>
+            </div>
+        </div>
+
+        <div class="_kn-bg-secondary w-full">
+            <div class="site-navigation">
+                <div class="le-content relative flex justify-between items-center">
+
+                    
+    <div class="mobile-nav-bkgr"></div>
+	<nav id="site-navigation" class="primary-navigation"
+         aria-label="Primäres Menü"
+         x-data="{
+             open: false,
+             timeout_hiding: false,
+
+             toggle() {
+
+                if (this.open) {
+
+                    // reset timeout if necessary
+                    if (this.timeout_hiding) clearTimeout(this.timeout_hiding);
+
+                    this.timeout_hiding = setTimeout( () => {
+                        document.querySelector('.mobile-nav-bkgr').classList.remove('-is-active');
+                        // disable existing timeout to prevent multiple timeouts from being set
+                        clearTimeout(this.timeout_hiding);
+                        this.timeout_hiding = false;
+                    }, 350);
+
+                } else {
+                    document.querySelector('.mobile-nav-bkgr').classList.add('-is-active')
+                }
+
+                this.open = ! this.open
+
+             },
+             toggleSubmenu(e) {
+                e.target.parentElement.classList.toggle('-open');
+             }
+         }"
+     >
+		<div class="menu-button-container justify-end">
+
+            <button id="primary-mobile-menu"
+                    type="button"
+                    @click="toggle()"
+                    :class="{ 'is-active': open }"
+                    class="hamburger hamburger--squeeze" aria-controls="primary-menu-list" aria-expanded="false">
+
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+
+			</button><!-- #primary-mobile-menu -->
+
+            <span class="dropdown-icon open">
+            </span>
+
+		</div><!-- .menu-button-container -->
+
+        <div class="primary-menu-container"><ul id="primary-menu-list" class="menu-wrapper"><li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-89"><a href="http://knusthamburg.de/">Home</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-100 current_page_item menu-item-103"><a href="https://knusthamburg.de/programm/" aria-current="page">Programm</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="https://knusthamburg.de/venue/">Venue</a></li>
+<li id="menu-item-9505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9505"><a href="https://knusthamburg.de/historie/">Historie</a></li>
+<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697"><a href="https://knusthamburg.de/jobs/">Jobs</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://knusthamburg.de/kontakt/">Kontakt</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+	
+                    <div class="kn-a11y-wrapper flex items-center gap-2.5">
+
+    <div class="kn-a11y-item -contrast -a11y-contrast">
+        <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19" fill="none" role="img" aria-label="Contrast Modus">
+            <path d="M2.73438 2.73438C4.5573 0.911449 6.77082 0 9.375 0C11.9792 0 14.1927 0.911449 16.0156 2.73438C17.8386 4.5573 18.75 6.77082 18.75 9.375C18.75 11.9792 17.8386 14.1927 16.0156 16.0156C14.1927 17.8386 11.9792 18.75 9.375 18.75C6.77082 18.75 4.5573 17.8386 2.73438 16.0156C0.911449 14.1927 0 11.9792 0 9.375C0 6.77082 0.911449 4.5573 2.73438 2.73438ZM9.42383 2.49023V16.2598C11.3119 16.2598 12.9232 15.5925 14.2578 14.2578C15.5925 12.9232 16.2598 11.2956 16.2598 9.375C16.2598 7.45442 15.5925 5.82683 14.2578 4.49219C12.9232 3.15755 11.3119 2.49023 9.42383 2.49023Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+    <div class="kn-a11y-item -font-plus">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" role="img" aria-label="Text größer">
+            <path d="M9.375 4.17481H7.29981V7.29981H4.17481V9.375H7.29981V12.5H9.375V9.375H12.5V7.29981H9.375V4.17481ZM8.34961 0C7.19401 0 6.11166 0.219724 5.10254 0.65918C4.09342 1.09863 3.21045 1.69677 2.45361 2.45361C1.69677 3.21045 1.09863 4.09342 0.65918 5.10254C0.219724 6.11166 0 7.19401 0 8.34961C0 9.48894 0.219724 10.5631 0.65918 11.5723C1.09863 12.5977 1.69677 13.4847 2.45361 14.2334C3.21045 14.9821 4.09342 15.5762 5.10254 16.0156C6.11166 16.4551 7.19401 16.6748 8.34961 16.6748C9.3099 16.6748 10.2254 16.5202 11.0962 16.2109C11.967 15.9017 12.7523 15.4622 13.4521 14.8926V14.917L18.0176 19.5068L19.4824 18.0176L14.917 13.4521C15.4704 12.7523 15.9017 11.967 16.2109 11.0962C16.5202 10.2254 16.6748 9.3099 16.6748 8.34961C16.6748 7.19401 16.4551 6.11166 16.0156 5.10254C15.5762 4.09342 14.9821 3.21045 14.2334 2.45361C13.4847 1.69677 12.5977 1.09863 11.5723 0.65918C10.5631 0.219724 9.48894 0 8.34961 0ZM8.34961 14.5996C7.48698 14.5996 6.67318 14.4369 5.9082 14.1113C5.14323 13.7695 4.47998 13.3179 3.91846 12.7563C3.35693 12.1948 2.91341 11.5316 2.58789 10.7666C2.26237 10.0179 2.09961 9.21224 2.09961 8.34961C2.09961 7.48698 2.26237 6.67318 2.58789 5.9082C2.91341 5.14323 3.35693 4.47998 3.91846 3.91846C4.47998 3.35693 5.14323 2.91341 5.9082 2.58789C6.67318 2.26237 7.48698 2.09961 8.34961 2.09961C9.21224 2.09961 10.0179 2.26237 10.7666 2.58789C11.5316 2.91341 12.1948 3.35693 12.7563 3.91846C13.3179 4.47998 13.7695 5.14323 14.1113 5.9082C14.4369 6.67318 14.5996 7.48698 14.5996 8.34961C14.5996 9.21224 14.4369 10.0179 14.1113 10.7666C13.7695 11.5316 13.3179 12.1948 12.7563 12.7563C12.1948 13.3179 11.5316 13.7695 10.7666 14.1113C10.0179 14.4369 9.21224 14.5996 8.34961 14.5996Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+    <div class="kn-a11y-item -font-minus">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" role="img" aria-label="Text kleiner">
+            <path d="M4.17481 7.29981H12.5V9.375H4.17481V7.29981ZM8.34961 16.6748C9.3099 16.6748 10.2254 16.5202 11.0962 16.2109C11.967 15.9017 12.7523 15.4622 13.4521 14.8926V14.917L18.0176 19.5068L19.4824 18.0176L14.917 13.4521C15.4704 12.7523 15.9017 11.967 16.2109 11.0962C16.5202 10.2254 16.6748 9.3099 16.6748 8.34961C16.6748 7.19401 16.4551 6.11166 16.0156 5.10254C15.5762 4.09342 14.9821 3.21045 14.2334 2.45361C13.4847 1.69677 12.5977 1.09863 11.5723 0.65918C10.5631 0.219724 9.48894 0 8.34961 0C7.19401 0 6.11166 0.219724 5.10254 0.65918C4.09342 1.09863 3.21045 1.69677 2.45361 2.45361C1.69677 3.21045 1.09863 4.09342 0.65918 5.10254C0.219724 6.11166 0 7.19401 0 8.34961C0 9.48894 0.219724 10.5631 0.65918 11.5723C1.09863 12.5977 1.69677 13.4847 2.45361 14.2334C3.21045 14.9821 4.09342 15.5762 5.10254 16.0156C6.11166 16.4551 7.19401 16.6748 8.34961 16.6748ZM8.34961 2.09961C9.21224 2.09961 10.0179 2.26237 10.7666 2.58789C11.5316 2.91341 12.1948 3.35693 12.7563 3.91846C13.3179 4.47998 13.7695 5.14323 14.1113 5.9082C14.4369 6.67318 14.5996 7.48698 14.5996 8.34961C14.5996 9.21224 14.4369 10.0179 14.1113 10.7666C13.7695 11.5316 13.3179 12.1948 12.7563 12.7563C12.1948 13.3179 11.5316 13.7695 10.7666 14.1113C10.0179 14.4369 9.21224 14.5996 8.34961 14.5996C7.48698 14.5996 6.67318 14.4369 5.9082 14.1113C5.14323 13.7695 4.47998 13.3179 3.91846 12.7563C3.35693 12.1948 2.91341 11.5316 2.58789 10.7666C2.26237 10.0179 2.09961 9.21224 2.09961 8.34961C2.09961 7.48698 2.26237 6.67318 2.58789 5.9082C2.91341 5.14323 3.35693 4.47998 3.91846 3.91846C4.47998 3.35693 5.14323 2.91341 5.9082 2.58789C6.67318 2.26237 7.48698 2.09961 8.34961 2.09961Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main">
+
+    <div class="le-content">
+
+        <div class="le-container">
+            <div class="le-left">
+
+                
+                <div class="kn-box-claim -type-header _font-box-claim">
+                    Programm
+                </div>
+                                                <div class="kn-box kn-section-programm"
+                                     data-date="2026-08">
+
+                                    <div class="kn-box-claim -box-white -type-header _font-box-claim">
+                                        August                                        2026                                    </div>
+                                
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,INDIEVERCITY" data-location="15690" data-date="2026-08-13">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/indievercity-daniel-benyamin_111656397/" title="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT" aria-label="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/DB-Trio-Foto-by-Laura-Straubel-61d6-760x500.jpg" alt="Daniel Benyamin Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/DB-Trio-Foto-by-Laura-Straubel-61d6-760x500.jpg" alt="Daniel Benyamin Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                13.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/indievercity-daniel-benyamin_111656397/" title="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT" aria-label="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT - ">
+            INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-08-14">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/holstein-kiel-fc-st-pauli_111678742/" title="HOLSTEIN KIEL - FC ST. PAULI" aria-label="HOLSTEIN KIEL - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-d180-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-d180-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                14.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/holstein-kiel-fc-st-pauli_111678742/" title="HOLSTEIN KIEL - FC ST. PAULI" aria-label="HOLSTEIN KIEL - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            HOLSTEIN KIEL - FC ST. PAULI        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ACID ANATOLIA,ELECTRONIC" data-location="15688" data-date="2026-08-15">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/disco-arabesquo_111676724/" title="DISCO ARABESQUO" aria-label="DISCO ARABESQUO - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/hamburg-04-5007-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/hamburg-04-5007-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                15.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                22:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/disco-arabesquo_111676724/" title="DISCO ARABESQUO" aria-label="DISCO ARABESQUO - ">
+            DISCO ARABESQUO        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="CUMBIA,ELECTRONIC" data-location="15688" data-date="2026-08-18">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/killabeatmaker_111605378/" title="KILLABEATMAKER " aria-label="KILLABEATMAKER  - DJ Support by Cumbia im Viertel Crew" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_BMB4395-3fc0-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_BMB4395-3fc0-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                18.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/killabeatmaker_111605378/" title="KILLABEATMAKER " aria-label="KILLABEATMAKER  - DJ Support by Cumbia im Viertel Crew">
+            KILLABEATMAKER         </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            DJ Support by Cumbia im Viertel Crew        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,INDIEVERCITY" data-location="15690" data-date="2026-08-20">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/indievercity-lasse-berger-pier_111656399/" title="INDIEVERCITY: LASSE BERGER + PIER" aria-label="INDIEVERCITY: LASSE BERGER + PIER - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/TORI-28vibesundvisions29-625f-760x500.jpeg" alt="Pier Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/TORI-28vibesundvisions29-625f-760x500.jpeg" alt="Pier Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                20.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/indievercity-lasse-berger-pier_111656399/" title="INDIEVERCITY: LASSE BERGER + PIER" aria-label="INDIEVERCITY: LASSE BERGER + PIER - ">
+            INDIEVERCITY: LASSE BERGER + PIER        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-21">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/lotto-king-karl-die-vier-richtigen_111685397/" title="LOTTO KING KARL & DIE VIER RICHTIGEN" aria-label="LOTTO KING KARL & DIE VIER RICHTIGEN -  Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/SMTG_LKK-2-3118-760x500.jpeg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/SMTG_LKK-2-3118-760x500.jpeg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                21.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/lotto-king-karl-die-vier-richtigen_111685397/" title="LOTTO KING KARL & DIE VIER RICHTIGEN" aria-label="LOTTO KING KARL & DIE VIER RICHTIGEN -  Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH">
+            LOTTO KING KARL & DIE VIER RICHTIGEN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+             Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-08-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/dfb-pokal-konferenz_111682744/" title="DFB-POKAL KONFERENZ " aria-label="DFB-POKAL KONFERENZ  - DFB-Pokal Konferenz auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_DFB-Pokal-Konferenz_b_1920x1080px28129-4eeb-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_DFB-Pokal-Konferenz_b_1920x1080px28129-4eeb-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                13:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/dfb-pokal-konferenz_111682744/" title="DFB-POKAL KONFERENZ " aria-label="DFB-POKAL KONFERENZ  - DFB-Pokal Konferenz auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            DFB-POKAL KONFERENZ         </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            DFB-Pokal Konferenz auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/mamf-das-festival-in-stade_111685412/" title="MAMF - Das Festival in Stade" aria-label="MAMF - Das Festival in Stade - Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/mamf2026_some_Post-18cc-760x500.jpeg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/mamf2026_some_Post-18cc-760x500.jpeg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                13:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/mamf-das-festival-in-stade_111685412/" title="MAMF - Das Festival in Stade" aria-label="MAMF - Das Festival in Stade - Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli">
+            MAMF - Das Festival in Stade        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="PARTY" data-location="15688" data-date="2026-08-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/pretty-loud_111670869/" title="PRETTY LOUD" aria-label="PRETTY LOUD - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/IMAGE-2026-06-11-092455-c910-760x500.jpg" alt="Pretty Loud Party Crewfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/IMAGE-2026-06-11-092455-c910-760x500.jpg" alt="Pretty Loud Party Crewfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                23:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/pretty-loud_111670869/" title="PRETTY LOUD" aria-label="PRETTY LOUD - ">
+            PRETTY LOUD        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="HEARTPHONES" data-location="15690" data-date="2026-08-23">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/heartphones-family-special_111673127/" title="HEARTPHONES FAMILY-SPECIAL" aria-label="HEARTPHONES FAMILY-SPECIAL - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/2026-06-17-16.17.22-0805-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/2026-06-17-16.17.22-0805-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                23.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                13:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/heartphones-family-special_111673127/" title="HEARTPHONES FAMILY-SPECIAL" aria-label="HEARTPHONES FAMILY-SPECIAL - ">
+            HEARTPHONES FAMILY-SPECIAL        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-08-23">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/rot-weiss-essen-fc-st-pauli_111682738/" title="ROT-WEISS ESSEN - FC ST. PAULI" aria-label="ROT-WEISS ESSEN - FC ST. PAULI - DFB-Pokal auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-50c3-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-50c3-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                23.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/rot-weiss-essen-fc-st-pauli_111682738/" title="ROT-WEISS ESSEN - FC ST. PAULI" aria-label="ROT-WEISS ESSEN - FC ST. PAULI - DFB-Pokal auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            ROT-WEISS ESSEN - FC ST. PAULI        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            DFB-Pokal auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-26">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/hammer-park-festival_111684012/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-Flyer-538f-760x500.jpg" alt="Hammer Park Festival 2026" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-Flyer-538f-760x500.jpg" alt="Hammer Park Festival 2026" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                26.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                MI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                17:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/hammer-park-festival_111684012/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026">
+            HAMMER SOMMER FESTIVAL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-27">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/hammer-park-festival_111684070/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-Flyer-760x500.jpg" alt="Hammer Park Festival 2026" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-Flyer-760x500.jpg" alt="Hammer Park Festival 2026" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                27.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                17:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/hammer-park-festival_111684070/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026">
+            HAMMER SOMMER FESTIVAL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ACID ANATOLIA,JAZZHOUSE" data-location="15688" data-date="2026-08-27">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/sufi-dub-brothers_111659473/" title="SUFI DUB BROTHERS" aria-label="SUFI DUB BROTHERS - präsentiert von: Acid Anatolia, Groove City Recordstore, Jazzhouse, ByteFM" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/05/thesufidubbrothersC2A9simonescardovelli-4992-760x500.jpg" alt="Sufi Dub Brothers Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/05/thesufidubbrothersC2A9simonescardovelli-4992-760x500.jpg" alt="Sufi Dub Brothers Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                27.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/sufi-dub-brothers_111659473/" title="SUFI DUB BROTHERS" aria-label="SUFI DUB BROTHERS - präsentiert von: Acid Anatolia, Groove City Recordstore, Jazzhouse, ByteFM">
+            SUFI DUB BROTHERS        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            präsentiert von: Acid Anatolia, Groove City Recordstore, Jazzhouse, ByteFM        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-28">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/hammer-park-festival_111684071/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-760x500.jpg" alt="Hammer Park Festival 2026" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-A6-760x500.jpg" alt="Hammer Park Festival 2026" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                28.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                15:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/hammer-park-festival_111684071/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026">
+            HAMMER SOMMER FESTIVAL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="HIP HOP,JAZZHOUSE" data-location="15688" data-date="2026-08-28">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/dreamcastmoe-jenna-camille-high-john_111664968/" title=" DREAMCASTMOE + JENNA CAMILLE & HIGH JOHN" aria-label=" DREAMCASTMOE + JENNA CAMILLE & HIGH JOHN - (Album Release Party) // präsentiert von High Jazz x Jazzhouse, Groove City Recordstore" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/05/16-9-DREAMCASTMOE--2993-760x500.jpg" alt="dreamcastmoe Portrait" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/05/16-9-DREAMCASTMOE--2993-760x500.jpg" alt="dreamcastmoe Portrait" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                28.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/dreamcastmoe-jenna-camille-high-john_111664968/" title=" DREAMCASTMOE + JENNA CAMILLE & HIGH JOHN" aria-label=" DREAMCASTMOE + JENNA CAMILLE & HIGH JOHN - (Album Release Party) // präsentiert von High Jazz x Jazzhouse, Groove City Recordstore">
+             DREAMCASTMOE + JENNA CAMILLE & HIGH JOHN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            (Album Release Party) // präsentiert von High Jazz x Jazzhouse, Groove City Recordstore        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-29">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/hammer-park-festival_111684072/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-760x500.jpg" alt="Hammer Park Festival 2026" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-HPF-760x500.jpg" alt="Hammer Park Festival 2026" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                29.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                12:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/hammer-park-festival_111684072/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026">
+            HAMMER SOMMER FESTIVAL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-30">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/hammer-park-festival_111684074/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-760x500.jpg" alt="Hammer Park Festival 2026" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/16-9_KI_erweitert_2026-760x500.jpg" alt="Hammer Park Festival 2026" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                30.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                11:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/hammer-park-festival_111684074/" title="HAMMER SOMMER FESTIVAL" aria-label="HAMMER SOMMER FESTIVAL - Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026">
+            HAMMER SOMMER FESTIVAL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Mit viel Sonne und ohne Zaun | Festivalbecher 5,-  oder VVK Ticket als Spende| Täglich vom 26. bis 30. August 2026        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-08-30">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/fc-st-pauli-1-fc-kaiserslautern_111681558/" title="FC ST. PAULI - 1. FC KAISERSLAUTERN" aria-label="FC ST. PAULI - 1. FC KAISERSLAUTERN - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-8a7e-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-8a7e-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                30.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                13:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/fc-st-pauli-1-fc-kaiserslautern_111681558/" title="FC ST. PAULI - 1. FC KAISERSLAUTERN" aria-label="FC ST. PAULI - 1. FC KAISERSLAUTERN - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            FC ST. PAULI - 1. FC KAISERSLAUTERN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE" data-location="15688,15690,22714" data-date="2026-08-30">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/sounds4water-2026_111605390/" title="SOUNDS4WATER 2026: OK KID + ESTHER GRAF + MAECKES + MALOU LOVIS + SHWELLY M" aria-label="SOUNDS4WATER 2026: OK KID + ESTHER GRAF + MAECKES + MALOU LOVIS + SHWELLY M - 20 Jahre Viva con Agua de Sankt Pauli e.V. | Gefördert durch die Behörde für Kultur und Medien" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/20260520_VcA_Sounds4Water_Banner_Landingpage_1440x700_black_V2-3b05-760x500.jpg" alt="Sounds4Water Artwork" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/20260520_VcA_Sounds4Water_Banner_Landingpage_1440x700_black_V2-3b05-760x500.jpg" alt="Sounds4Water Artwork" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                30.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                16:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/sounds4water-2026_111605390/" title="SOUNDS4WATER 2026: OK KID + ESTHER GRAF + MAECKES + MALOU LOVIS + SHWELLY M" aria-label="SOUNDS4WATER 2026: OK KID + ESTHER GRAF + MAECKES + MALOU LOVIS + SHWELLY M - 20 Jahre Viva con Agua de Sankt Pauli e.V. | Gefördert durch die Behörde für Kultur und Medien">
+            SOUNDS4WATER 2026: OK KID + ESTHER GRAF + MAECKES + MALOU LOVIS + SHWELLY M        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            20 Jahre Viva con Agua de Sankt Pauli e.V. | Gefördert durch die Behörde für Kultur und Medien        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                    </div>
+        
+    </div>
+
+</div>                            </div>
+                                                            <div class="kn-box kn-section-programm"
+                                     data-date="2026-09">
+
+                                    <div class="kn-box-claim -box-white -type-header _font-box-claim">
+                                        September                                        2026                                    </div>
+                                
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="JAZZHOUSE,SOUL" data-location="15688" data-date="2026-09-02">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/brother-wallace_111671482/" title="BROTHER WALLACE" aria-label="BROTHER WALLACE - präsentiert von Jazzhouse, Groove City Recordstore, ByteFM" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/BW-HI-RES-SG-Edited-scaled-838a-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/BW-HI-RES-SG-Edited-scaled-838a-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                02.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                MI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/brother-wallace_111671482/" title="BROTHER WALLACE" aria-label="BROTHER WALLACE - präsentiert von Jazzhouse, Groove City Recordstore, ByteFM">
+            BROTHER WALLACE        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            präsentiert von Jazzhouse, Groove City Recordstore, ByteFM        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,INDIEVERCITY" data-location="15690" data-date="2026-09-03">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/indievercity-jacob-fourtyhands_111656406/" title="INDIEVERCITY: JACOB FORTYHANDS" aria-label="INDIEVERCITY: JACOB FORTYHANDS - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/16-92810mb29_Presse-1-28Guido-Knoll29-6436-760x500.jpg" alt="Jacob Fortyhands Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/16-92810mb29_Presse-1-28Guido-Knoll29-6436-760x500.jpg" alt="Jacob Fortyhands Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                03.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/indievercity-jacob-fourtyhands_111656406/" title="INDIEVERCITY: JACOB FORTYHANDS" aria-label="INDIEVERCITY: JACOB FORTYHANDS - ">
+            INDIEVERCITY: JACOB FORTYHANDS        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ALTERNATIVE,POP" data-location="15688" data-date="2026-09-03">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/faravaz_111643544/" title="FARAVAZ" aria-label="FARAVAZ - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_querformat_2025_03_13_FARAVAZ_AZADI_13-8635-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_querformat_2025_03_13_FARAVAZ_AZADI_13-8635-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                03.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/faravaz_111643544/" title="FARAVAZ" aria-label="FARAVAZ - ">
+            FARAVAZ        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-09-04">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/arminia-bielefeld-fc-st-pauli_111681561/" title="ARMINIA BIELEFELD - FC ST. PAULI" aria-label="ARMINIA BIELEFELD - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-8745-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-8745-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                04.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/arminia-bielefeld-fc-st-pauli_111681561/" title="ARMINIA BIELEFELD - FC ST. PAULI" aria-label="ARMINIA BIELEFELD - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            ARMINIA BIELEFELD - FC ST. PAULI        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15690" data-date="2026-09-06">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/korean-food-festival_111676729/" title="KOREAN FOOD FESTIVAL 2026" aria-label="KOREAN FOOD FESTIVAL 2026 - eine Kooperation von Knust, der koreanischen Community Hamburgs, dem koreanischen Verein Hamburg e.V., und dem Generalkonsulat der Republik Korea in Hamburg" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/PHOTO-2026-07-09-19-25-37-0208-760x500.jpg" alt="Korean Food Festival" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/PHOTO-2026-07-09-19-25-37-0208-760x500.jpg" alt="Korean Food Festival" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                06.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                12:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/korean-food-festival_111676729/" title="KOREAN FOOD FESTIVAL 2026" aria-label="KOREAN FOOD FESTIVAL 2026 - eine Kooperation von Knust, der koreanischen Community Hamburgs, dem koreanischen Verein Hamburg e.V., und dem Generalkonsulat der Republik Korea in Hamburg">
+            KOREAN FOOD FESTIVAL 2026        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            eine Kooperation von Knust, der koreanischen Community Hamburgs, dem koreanischen Verein Hamburg e.V., und dem Generalkonsulat der Republik Korea in Hamburg        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,INDIEVERCITY" data-location="15690" data-date="2026-09-10">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/indievercity-maliiik_111656414/" title="INDIEVERCITY: *MALIIIK" aria-label="INDIEVERCITY: *MALIIIK - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-L1040769-scaled-4d5d-760x500.jpg" alt="*maliiik Portrait" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-L1040769-scaled-4d5d-760x500.jpg" alt="*maliiik Portrait" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                10.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/indievercity-maliiik_111656414/" title="INDIEVERCITY: *MALIIIK" aria-label="INDIEVERCITY: *MALIIIK - ">
+            INDIEVERCITY: *MALIIIK        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ITALO DISCO" data-location="15690" data-date="2026-09-11">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/mind-enterprises-dj-guido-bianco-dj-mad-beach-patrol-spliffboy69_111605401/" title="MIND ENTERPRISES " aria-label="MIND ENTERPRISES  - Lattenplatz Open Air / DJ: Guido Bianco (DJ MAD) + Beach Patrol & Spliffboy69" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-MindEnterprisePromoPic28129-75b5-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-MindEnterprisePromoPic28129-75b5-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                11.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/mind-enterprises-dj-guido-bianco-dj-mad-beach-patrol-spliffboy69_111605401/" title="MIND ENTERPRISES " aria-label="MIND ENTERPRISES  - Lattenplatz Open Air / DJ: Guido Bianco (DJ MAD) + Beach Patrol & Spliffboy69">
+            MIND ENTERPRISES         </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Lattenplatz Open Air / DJ: Guido Bianco (DJ MAD) + Beach Patrol & Spliffboy69        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    sold out                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FOLK,SINGER/SONGWRITER" data-location="15688" data-date="2026-09-12">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/foy-vance_111558717/" title="FOY VANCE" aria-label="FOY VANCE - THE WAKE WORLD TOUR" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/02/4950px_Foy-Vance-GREGG-HOUSTON-LAUNCH-1.14.26-eaea-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/02/4950px_Foy-Vance-GREGG-HOUSTON-LAUNCH-1.14.26-eaea-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                12.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/foy-vance_111558717/" title="FOY VANCE" aria-label="FOY VANCE - THE WAKE WORLD TOUR">
+            FOY VANCE        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            THE WAKE WORLD TOUR        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-09-12">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/fc-st-pauli-vfl-wolfsburg_111681562/" title="FC ST. PAULI - VFL WOLFSBURG" aria-label="FC ST. PAULI - VFL WOLFSBURG - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-7f05-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-7f05-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                12.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/fc-st-pauli-vfl-wolfsburg_111681562/" title="FC ST. PAULI - VFL WOLFSBURG" aria-label="FC ST. PAULI - VFL WOLFSBURG - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            FC ST. PAULI - VFL WOLFSBURG        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="BASS-MUSIC" data-location="15688" data-date="2026-09-12">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/datadrift-file005-buunshin_111671450/" title="DATADRIFT FILE005: BUUNSHIN" aria-label="DATADRIFT FILE005: BUUNSHIN - BUFFASYZE + CUEPRIC + MYRAI + PRUEFUNKE + NILI8" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/Buunshin-ff6c-760x500.jpg" alt="Buunshin" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/Buunshin-ff6c-760x500.jpg" alt="Buunshin" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                12.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                23:45            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/datadrift-file005-buunshin_111671450/" title="DATADRIFT FILE005: BUUNSHIN" aria-label="DATADRIFT FILE005: BUUNSHIN - BUFFASYZE + CUEPRIC + MYRAI + PRUEFUNKE + NILI8">
+            DATADRIFT FILE005: BUUNSHIN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            BUFFASYZE + CUEPRIC + MYRAI + PRUEFUNKE + NILI8        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="CUMBIA" data-location="15690" data-date="2026-09-13">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/el-barrio-lateinamerikanische-blockparty_111646040/" title="EL BARRIO - LATEINAMERIKANISCHE BLOCKPARTY" aria-label="EL BARRIO - LATEINAMERIKANISCHE BLOCKPARTY - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-Knust-Barrio-baobab-by-soyrosab-1-07b6-760x500.jpg" alt="El Barrio vor dem Knust" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/16-9-Knust-Barrio-baobab-by-soyrosab-1-07b6-760x500.jpg" alt="El Barrio vor dem Knust" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                13.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                14:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/el-barrio-lateinamerikanische-blockparty_111646040/" title="EL BARRIO - LATEINAMERIKANISCHE BLOCKPARTY" aria-label="EL BARRIO - LATEINAMERIKANISCHE BLOCKPARTY - ">
+            EL BARRIO - LATEINAMERIKANISCHE BLOCKPARTY        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="BLUES,ROCK,SOUL" data-location="15838" data-date="2026-09-13">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/inga-80-inga-rumpf-friends-very-special-guests_111558721/" title="INGA 80  // INGA RUMPF & FRIENDS + VERY SPECIAL GUESTS" aria-label="INGA 80  // INGA RUMPF & FRIENDS + VERY SPECIAL GUESTS - Knust präsentiert:" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2025/12/4950px_Inga_Rumpf_by_Anne_de_Wolff_1077_schaerfer-11f9-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2025/12/4950px_Inga_Rumpf_by_Anne_de_Wolff_1077_schaerfer-11f9-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                13.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/inga-80-inga-rumpf-friends-very-special-guests_111558721/" title="INGA 80  // INGA RUMPF & FRIENDS + VERY SPECIAL GUESTS" aria-label="INGA 80  // INGA RUMPF & FRIENDS + VERY SPECIAL GUESTS - Knust präsentiert:">
+            INGA 80  // INGA RUMPF & FRIENDS + VERY SPECIAL GUESTS        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Knust präsentiert:        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                            <div class="kn-tag -type-primary">
+                    Sold Out                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="CUMBIA" data-location="15688" data-date="2026-09-13">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/cuatro-pesos-de-propina_111636316/" title="CUATRO PESOS DE PROPINA" aria-label="CUATRO PESOS DE PROPINA - präsentiert von Cumbia im Viertel" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/Cuatro-Pesos-De-Propina-9661-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/Cuatro-Pesos-De-Propina-9661-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                13.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/cuatro-pesos-de-propina_111636316/" title="CUATRO PESOS DE PROPINA" aria-label="CUATRO PESOS DE PROPINA - präsentiert von Cumbia im Viertel">
+            CUATRO PESOS DE PROPINA        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            präsentiert von Cumbia im Viertel        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ALTERNATIVE" data-location="15688" data-date="2026-09-15">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/ty-segall_111626795/" title="TY SEGALL" aria-label="TY SEGALL - Support: Moleskine | präsentiert von ByteFM, Visions" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/03/Ty-Segall-Photo-by-Denee-Segall-1904-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/03/Ty-Segall-Photo-by-Denee-Segall-1904-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                15.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/ty-segall_111626795/" title="TY SEGALL" aria-label="TY SEGALL - Support: Moleskine | präsentiert von ByteFM, Visions">
+            TY SEGALL        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Support: Moleskine | präsentiert von ByteFM, Visions        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="POP" data-location="15688" data-date="2026-09-16">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/wes-nelson_111651974/" title="WES NELSON" aria-label="WES NELSON - Germany Tour 2026 | Verlegung vom 27.06.26" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/169_Pressefoto28129-1-8322-760x480.png" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/169_Pressefoto28129-1-8322-760x480.png" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                16.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                MI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/wes-nelson_111651974/" title="WES NELSON" aria-label="WES NELSON - Germany Tour 2026 | Verlegung vom 27.06.26">
+            WES NELSON        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Germany Tour 2026 | Verlegung vom 27.06.26        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15690" data-date="2026-09-18">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/10-hamburger-garage-sale_111659047/" title="10. HAMBURGER GARAGE SALE" aria-label="10. HAMBURGER GARAGE SALE - Hamburger Labels, Plattenläden und Freunde räumen die Lager" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/Garage-Sale-Online-Flyer-2026-e44d-760x465.jpg" alt="Garage Sale Artwork" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/Garage-Sale-Online-Flyer-2026-e44d-760x465.jpg" alt="Garage Sale Artwork" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                18.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                12:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/10-hamburger-garage-sale_111659047/" title="10. HAMBURGER GARAGE SALE" aria-label="10. HAMBURGER GARAGE SALE - Hamburger Labels, Plattenläden und Freunde räumen die Lager">
+            10. HAMBURGER GARAGE SALE        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Hamburger Labels, Plattenläden und Freunde räumen die Lager        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="HIP HOP,JAZZHOUSE" data-location="15690" data-date="2026-09-20">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/twit-one-high-john_111683300/" title="TWIT ONE & HIGH JOHN" aria-label="TWIT ONE & HIGH JOHN - präsentiert von High Jazz x Jazzhouse, Groove City Recordstore" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/Twit-One-228129-c9d0-760x500.jpg" alt="Twit One Portait" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/Twit-One-228129-c9d0-760x500.jpg" alt="Twit One Portait" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                20.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                17:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/twit-one-high-john_111683300/" title="TWIT ONE & HIGH JOHN" aria-label="TWIT ONE & HIGH JOHN - präsentiert von High Jazz x Jazzhouse, Groove City Recordstore">
+            TWIT ONE & HIGH JOHN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            präsentiert von High Jazz x Jazzhouse, Groove City Recordstore        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-09-20">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/energie-cottbus-fc-st-pauli_111681563/" title="ENERGIE COTTBUS - FC ST.PAULI" aria-label="ENERGIE COTTBUS - FC ST.PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-aabd-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-aabd-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                20.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/energie-cottbus-fc-st-pauli_111681563/" title="ENERGIE COTTBUS - FC ST.PAULI" aria-label="ENERGIE COTTBUS - FC ST.PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            ENERGIE COTTBUS - FC ST.PAULI        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="JAZZ" data-location="15688" data-date="2026-09-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/count-pauli-big-band-high-energy-jazz_111673449/" title="COUNT PAULI BIG BAND - HIGH ENERGY JAZZ" aria-label="COUNT PAULI BIG BAND - HIGH ENERGY JAZZ - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/CountPauli4-33bc-760x500.jpg" alt="Count Pauli Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/CountPauli4-33bc-760x500.jpg" alt="Count Pauli Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/count-pauli-big-band-high-energy-jazz_111673449/" title="COUNT PAULI BIG BAND - HIGH ENERGY JAZZ" aria-label="COUNT PAULI BIG BAND - HIGH ENERGY JAZZ - ">
+            COUNT PAULI BIG BAND - HIGH ENERGY JAZZ        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,POP" data-location="15688" data-date="2026-09-23">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/niemals_111626802/" title="NIEMALS" aria-label="NIEMALS - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_NIEMALS_2025-28129_Melina-Sauermann-8991-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_NIEMALS_2025-28129_Melina-Sauermann-8991-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                23.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                MI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/niemals_111626802/" title="NIEMALS" aria-label="NIEMALS - ">
+            NIEMALS        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ROCK" data-location="15688" data-date="2026-09-25">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/terry-hoax_111606448/" title="TERRY HOAX" aria-label="TERRY HOAX - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/01/4950px_Terry-Hoax-Berlin-22.11.24__DSC8131-a152-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/01/4950px_Terry-Hoax-Berlin-22.11.24__DSC8131-a152-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                25.09.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/terry-hoax_111606448/" title="TERRY HOAX" aria-label="TERRY HOAX - ">
+            TERRY HOAX        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div cla
+<!-- TRIMMED BY recon.mjs -->
