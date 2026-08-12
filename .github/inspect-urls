@@ -1,0 +1,24 @@
+# Pages the first harvest could not read. Dumped so extractors get written
+# against what is served rather than against what we assumed.
+https://vega.dk/event/current-joys-2026-08-17
+https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug
+https://www.drkoncerthuset.dk/kalender/2026/black-voices/
+https://www.tivoli.dk/program/jazz-i-tivoli
+https://www.roskilde-festival.dk/program/musik/the-cure
+https://jellingmusikfestival.dk/program/rick-astley/
+https://www.cphdistortion.dk/event/distortion-club
+https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/
+# WordPress: where does the event DATE actually live?
+https://tobakken.dk/wp-json/wp/v2/bwps?per_page=2
+https://postenlive.dk/wp-json/wp/v2/event?per_page=2
+https://skraaen.dk/wp-json/wp/v2/event?per_page=2
+https://dexter.dk/wp-json/wp/v2/event?per_page=2
+https://rust.dk/wp-json/wp/v2/event?per_page=2
+https://voxhall.dk/wp-json/wp/v2/voxhall-event?per_page=2
+# Sites we have not cracked at all yet
+https://pumpehuset.dk/
+https://www.amagerbio.dk/
+https://alicecph.com/
+https://train.dk/
+https://www.musikhusetaarhus.dk/
+https://www.royalarena.dk/
