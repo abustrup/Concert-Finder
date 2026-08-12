@@ -7,19 +7,21 @@
     "horizonDays": 400
   },
   "counts": {
-    "events": 1606,
+    "events": 1484,
     "sources": 15,
     "sourcesWithEvents": 14,
-    "artists": 1857,
+    "artists": 1847,
     "venues": 14,
-    "withTicketUrl": 159,
+    "withTicketUrl": 153,
     "tributeFlagged": 14
   },
   "dropped": {
     "past": 815,
     "beyondHorizon": 9,
     "cancelled": 1,
-    "duplicate": 56
+    "duplicate": 56,
+    "postponed": 1,
+    "recurring": 121
   },
   "http": {
     "requests": 2441,
@@ -244,5 +246,49 @@
       "error": null
     }
   ],
-  "elapsedSeconds": 609
+  "elapsedSeconds": 609,
+  "refilteredAt": "2026-08-12T21:14:58.974227+00:00",
+  "refilterNote": "The current harvest filters (moved shows dropped, recurring activities dropped, past events dropped) re-applied to a corpus fetched before those rules existed. No event was added or altered.",
+  "recurringRemoved": [
+    {
+      "title": "læderværksted",
+      "venue": "sonderborghus",
+      "times": 38
+    },
+    {
+      "title": "syfællesskab",
+      "venue": "sonderborghus",
+      "times": 19
+    },
+    {
+      "title": "spil3000 - brætspil for alle",
+      "venue": "kulturvaerftet",
+      "times": 18
+    },
+    {
+      "title": "torsdagsgarn",
+      "venue": "sonderborghus",
+      "times": 13
+    },
+    {
+      "title": "fyraftenssang i toldkammergården",
+      "venue": "kulturvaerftet",
+      "times": 10
+    },
+    {
+      "title": "kuto studio",
+      "venue": "kulturvaerftet",
+      "times": 9
+    },
+    {
+      "title": "broderi-fællesskab",
+      "venue": "sonderborghus",
+      "times": 9
+    },
+    {
+      "title": "instant disco",
+      "venue": "kulturvaerftet",
+      "times": 5
+    }
+  ]
 }
