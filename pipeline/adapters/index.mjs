@@ -15,7 +15,9 @@ import { politeFetch, fetchJson } from '../lib/http.mjs'
 import { eventsFromHtml, asText } from '../lib/jsonld.mjs'
 import { normalizeEvent, parseDate, cleanTitle, detectStatus, looksNonMusical, stableId } from '../lib/normalize.mjs'
 import { collectSitemapUrls, urlMatcher } from '../lib/sitemap.mjs'
+import { bestEventDate } from '../lib/dkdate.mjs'
 import { looksLikeTribute, splitCredits } from '../../src/text.mjs'
+import { nextData } from './nextdata.mjs'
 
 const nowIso = () => new Date().toISOString()
 
@@ -169,25 +171,6 @@ const stripTags = (html) =>
     .replace(/\s+/g, ' ')
     .trim()
 
-const DK_MONTHS = {
-  januar: 1, februar: 2, marts: 3, april: 4, maj: 5, juni: 6, juli: 7,
-  august: 8, september: 9, oktober: 10, november: 11, december: 12,
-  jan: 1, feb: 2, mar: 3, apr: 4, jun: 6, jul: 7, aug: 8, sep: 9, okt: 10, nov: 11, dec: 12,
-}
-
-/** "14. november 2026" and "14. nov" — the way a Danish venue writes a date. */
-function danishDate(text, fallbackYear) {
-  const m = String(text).match(
-    /(\d{1,2})\.?\s*(januar|februar|marts|april|maj|juni|juli|august|september|oktober|november|december|jan|feb|mar|apr|jun|jul|aug|sep|okt|nov|dec)\.?\s*(\d{4})?/i
-  )
-  if (!m) return null
-  const day = String(m[1]).padStart(2, '0')
-  const mon = DK_MONTHS[m[2].toLowerCase()]
-  if (!mon) return null
-  const year = m[3] || fallbackYear
-  return { date: `${year}-${String(mon).padStart(2, '0')}-${day}`, time: null }
-}
-
 async function wpRest(source) {
   const rejects = {}
   const events = []
@@ -195,7 +178,6 @@ async function wpRest(source) {
   const base = `https://${cfg.host}/wp-json/wp/v2/${cfg.postType}`
   const perPage = cfg.perPage || 100
   const maxPages = cfg.maxPages || 5
-  const thisYear = new Date().getUTCFullYear()
 
   let fetched = 0
   for (let page = 1; page <= maxPages; page++) {
@@ -215,23 +197,43 @@ async function wpRest(source) {
         continue
       }
 
-      // The post's own page often carries proper JSON-LD; the API rarely does.
+      // Where the date actually lives, in order of how much we trust it.
       let when = digForDate(post)
       const contentText = stripTags(post?.content?.rendered) + ' ' + stripTags(post?.excerpt?.rendered)
-      if (!when) when = danishDate(contentText.slice(0, 400), thisYear)
-      if (!when && post.date) {
-        // Last resort: the publish date is NOT the event date, so we refuse
-        // rather than invent one. Recording the reason keeps the gap visible.
-        tally(rejects, 'no-event-date')
-        continue
-      }
-      if (!when) {
-        tally(rejects, 'no-event-date')
-        continue
+      if (!when) when = bestEventDate(contentText, { title })
+
+      let ticketUrl = digForTicket(post)
+      const link = asText(post.link) || null
+      let pageImage = null
+
+      // Some venues expose the post but keep the date on the rendered page
+      // (skraaen and dexter return no content field at all). One extra request
+      // per undated event is worth it: the alternative is dropping the venue.
+      if ((!when || !ticketUrl) && link && cfg.followLinks !== false) {
+        const page = await politeFetch(link)
+        if (page?.ok && page.text) {
+          const { nodes } = eventsFromHtml(page.text)
+          if (nodes.length) {
+            const r = normalizeEvent(nodes[0], ctxFor(source, link, 'wp-rest+json-ld'))
+            if (r.event) {
+              if (!when) when = { date: r.event.startDate, time: r.event.startTime }
+              ticketUrl = ticketUrl || r.event.ticketUrl
+              pageImage = r.event.image
+            }
+          }
+          if (!when) {
+            const text = stripTags(page.text).slice(0, 6000)
+            when = bestEventDate(text, { title })
+          }
+        }
       }
 
-      const ticketUrl = digForTicket(post)
-      const link = asText(post.link) || null
+      if (!when) {
+        // The publish date is NOT the event date, so we refuse rather than
+        // invent one. Counting the refusal keeps the gap visible.
+        tally(rejects, 'no-event-date')
+        continue
+      }
       const billed = splitCredits(title).slice(0, 6)
 
       events.push({
@@ -252,7 +254,7 @@ async function wpRest(source) {
         url: link,
         ticketUrl,
         price: null,
-        image: asText(post?._embedded?.['wp:featuredmedia']?.[0]?.source_url) || null,
+        image: asText(post?._embedded?.['wp:featuredmedia']?.[0]?.source_url) || pageImage || null,
         isTribute: looksLikeTribute(title),
         isFestival: !!source.isFestival,
         source: {
@@ -269,6 +271,7 @@ async function wpRest(source) {
 }
 
 export const ADAPTERS = {
+  'next-data': nextData,
   'jsonld-page': jsonldPage,
   'sitemap-jsonld': sitemapJsonld,
   'wp-rest': wpRest,

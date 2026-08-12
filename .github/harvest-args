@@ -1,5 +1,3 @@
 # CLI arguments for pipeline/harvest.mjs, one per line, # for comments.
-# Touch this file to trigger a run on a feature branch.
-# run 1: smoke test - do the adapters work at all against real sites?
---limit
-8
+# run 2: next-data adapter for VEGA/Roskilde, Danish date parsing for WordPress,
+# page fallback for venues whose API record carries no date. Full limits.

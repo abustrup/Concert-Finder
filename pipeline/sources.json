@@ -1,5 +1,5 @@
 {
-  "_note": "The venue registry. Adding a venue should be an entry here, not new code. Every entry was chosen because the 2026-08-12 recon run proved the endpoint answers — see recon/report.json. capacity is an ESTIMATE used only to size a room (club / mid / arena); it is never shown as a fact.",
+  "_note": "The venue registry. Adding a venue should be an entry here, not new code. Every entry was chosen because the 2026-08-12 recon run proved the endpoint answers — see recon/report.json. capacity is an ESTIMATE used only to size a room (club / mid / arena); it is never shown as a fact. Sources proven not to work sit in notYetCovered with the reason, so coverage claims stay honest.",
   "_capacityIsEstimate": true,
   "sources": [
     {
@@ -9,7 +9,13 @@
       "country": "DK",
       "capacity": 350,
       "adapter": "jsonld-page",
-      "config": { "host": "loppen.dk", "pages": ["/", "/program"] },
+      "config": {
+        "host": "loppen.dk",
+        "pages": [
+          "/",
+          "/program"
+        ]
+      },
       "why": "recon: 44 schema.org MusicEvent nodes on the front page, with ticket URL and price"
     },
     {
@@ -19,7 +25,12 @@
       "country": "DK",
       "capacity": 3500,
       "adapter": "jsonld-page",
-      "config": { "host": "kbhallen.dk", "pages": ["/"] },
+      "config": {
+        "host": "kbhallen.dk",
+        "pages": [
+          "/"
+        ]
+      },
       "why": "recon: 30 schema.org Event nodes on the front page"
     },
     {
@@ -28,9 +39,20 @@
       "city": "København",
       "country": "DK",
       "capacity": 1550,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "vega.dk", "sitemap": "https://vega.dk/sitemap.xml", "urlPattern": "/event/", "limit": 250 },
-      "why": "recon: sitemap lists 189 /event/ pages"
+      "adapter": "next-data",
+      "config": {
+        "host": "vega.dk",
+        "pages": [
+          "/",
+          "/program"
+        ],
+        "sitemap": "https://vega.dk/sitemap.xml",
+        "urlPattern": "/event/",
+        "limit": 260,
+        "minFromIndex": 40,
+        "slugPrefix": "event"
+      },
+      "why": "recon+inspect: no JSON-LD at all; __NEXT_DATA__ carries title, venue, dates[], ticket link, price, genre"
     },
     {
       "id": "stengade",
@@ -39,28 +61,13 @@
       "country": "DK",
       "capacity": 350,
       "adapter": "sitemap-jsonld",
-      "config": { "host": "stengade.dk", "sitemap": "https://stengade.dk/sitemap.xml", "urlPattern": "/show/", "limit": 250 },
+      "config": {
+        "host": "stengade.dk",
+        "sitemap": "https://stengade.dk/sitemap.xml",
+        "urlPattern": "/show/",
+        "limit": 250
+      },
       "why": "recon: sitemap lists 227 /show/ pages"
-    },
-    {
-      "id": "koncerthuset",
-      "name": "DR Koncerthuset",
-      "city": "København",
-      "country": "DK",
-      "capacity": 1800,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "drkoncerthuset.dk", "sitemap": "https://drkoncerthuset.dk/sitemap.xml", "urlPattern": "/kalender/", "limit": 300 },
-      "why": "recon: sitemap lists 574 /kalender/ pages"
-    },
-    {
-      "id": "tivoli",
-      "name": "Tivoli",
-      "city": "København",
-      "country": "DK",
-      "capacity": 2000,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "tivoli.dk", "sitemap": "https://tivoli.dk/sitemap.xml", "urlPattern": "/program/", "limit": 220 },
-      "why": "recon: sitemap lists 201 /program/ pages"
     },
     {
       "id": "roskilde",
@@ -69,73 +76,18 @@
       "country": "DK",
       "capacity": 130000,
       "isFestival": true,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "roskilde-festival.dk", "sitemap": "https://roskilde-festival.dk/sitemap.xml", "urlPattern": "/program/", "limit": 200 },
-      "why": "recon: sitemap lists 149 /program/ pages"
-    },
-    {
-      "id": "jelling",
-      "name": "Jelling Musikfestival",
-      "city": "Jelling",
-      "country": "DK",
-      "capacity": 25000,
-      "isFestival": true,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "jellingmusikfestival.dk", "sitemap": "https://jellingmusikfestival.dk/sitemap.xml", "urlPattern": "/program/", "limit": 120 },
-      "why": "recon: sitemap lists 24 /program/ pages"
-    },
-    {
-      "id": "strom",
-      "name": "Strøm",
-      "city": "København",
-      "country": "DK",
-      "capacity": 1000,
-      "isFestival": true,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "stromcph.dk", "sitemap": "https://stromcph.dk/sitemap.xml", "urlPattern": "/events/", "limit": 80 },
-      "why": "recon: sitemap lists 11 /events/ pages"
-    },
-    {
-      "id": "distortion",
-      "name": "Distortion",
-      "city": "København",
-      "country": "DK",
-      "capacity": 20000,
-      "isFestival": true,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "cphdistortion.dk", "sitemap": "https://cphdistortion.dk/sitemap.xml", "urlPattern": ["/event/"], "limit": 80 },
-      "why": "recon: sitemap lists 9 /event/ pages plus 78 /artists/"
-    },
-    {
-      "id": "stars",
-      "name": "Stars",
-      "city": "Vordingborg",
-      "country": "DK",
-      "capacity": 600,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "stars.dk", "sitemap": "https://stars.dk/sitemap.xml", "urlPattern": ["/program/", "/billetter/"], "limit": 150 },
-      "why": "recon: sitemap reachable, /program/ pages present"
-    },
-    {
-      "id": "jyske-bank-boxen",
-      "name": "Jyske Bank Boxen",
-      "city": "Herning",
-      "country": "DK",
-      "capacity": 15000,
-      "adapter": "sitemap-jsonld",
-      "config": { "host": "mch.dk", "sitemap": "https://mch.dk/sitemap.xml", "urlPattern": "/oplevelser/", "limit": 120 },
-      "why": "recon: sitemap lists 50 /oplevelser/ pages"
-    },
-
-    {
-      "id": "rust",
-      "name": "Rust",
-      "city": "København",
-      "country": "DK",
-      "capacity": 600,
-      "adapter": "wp-rest",
-      "config": { "host": "rust.dk", "postType": "event" },
-      "why": "recon: /wp-json/wp/v2/types declares post type 'event'"
+      "adapter": "next-data",
+      "config": {
+        "host": "roskilde-festival.dk",
+        "pages": [
+          "/program/musik"
+        ],
+        "sitemap": "https://roskilde-festival.dk/sitemap.xml",
+        "urlPattern": "/program/musik/",
+        "limit": 200,
+        "minFromIndex": 20
+      },
+      "why": "inspect: Next.js, no JSON-LD"
     },
     {
       "id": "voxhall",
@@ -144,7 +96,10 @@
       "country": "DK",
       "capacity": 700,
       "adapter": "wp-rest",
-      "config": { "host": "voxhall.dk", "postType": "voxhall-event" },
+      "config": {
+        "host": "voxhall.dk",
+        "postType": "voxhall-event"
+      },
       "why": "recon: post type 'voxhall-event'"
     },
     {
@@ -154,7 +109,10 @@
       "country": "DK",
       "capacity": 700,
       "adapter": "wp-rest",
-      "config": { "host": "postenlive.dk", "postType": "event" },
+      "config": {
+        "host": "postenlive.dk",
+        "postType": "event"
+      },
       "why": "recon: post type 'event'"
     },
     {
@@ -164,7 +122,10 @@
       "country": "DK",
       "capacity": 250,
       "adapter": "wp-rest",
-      "config": { "host": "dexter.dk", "postType": "event" },
+      "config": {
+        "host": "dexter.dk",
+        "postType": "event"
+      },
       "why": "recon: post type 'event'"
     },
     {
@@ -174,7 +135,10 @@
       "country": "DK",
       "capacity": 800,
       "adapter": "wp-rest",
-      "config": { "host": "skraaen.dk", "postType": "event" },
+      "config": {
+        "host": "skraaen.dk",
+        "postType": "event"
+      },
       "why": "recon: post type 'event'"
     },
     {
@@ -184,7 +148,10 @@
       "country": "DK",
       "capacity": 900,
       "adapter": "wp-rest",
-      "config": { "host": "tobakken.dk", "postType": "bwps" },
+      "config": {
+        "host": "tobakken.dk",
+        "postType": "bwps"
+      },
       "why": "recon: post type 'bwps' (same plugin as gimle, sonderborghus, mhe, vejle)"
     },
     {
@@ -194,7 +161,10 @@
       "country": "DK",
       "capacity": 600,
       "adapter": "wp-rest",
-      "config": { "host": "sonderborghus.dk", "postType": "bwps" },
+      "config": {
+        "host": "sonderborghus.dk",
+        "postType": "bwps"
+      },
       "why": "recon: post type 'bwps'"
     },
     {
@@ -204,7 +174,10 @@
       "country": "DK",
       "capacity": 600,
       "adapter": "wp-rest",
-      "config": { "host": "gimle.dk", "postType": "bwps" },
+      "config": {
+        "host": "gimle.dk",
+        "postType": "bwps"
+      },
       "why": "recon: post type 'bwps'"
     },
     {
@@ -214,7 +187,10 @@
       "country": "DK",
       "capacity": 1100,
       "adapter": "wp-rest",
-      "config": { "host": "mhe.dk", "postType": "bwps" },
+      "config": {
+        "host": "mhe.dk",
+        "postType": "bwps"
+      },
       "why": "recon: post type 'bwps'"
     },
     {
@@ -224,7 +200,10 @@
       "country": "DK",
       "capacity": 1000,
       "adapter": "wp-rest",
-      "config": { "host": "vejlemusikteater.dk", "postType": "bwps" },
+      "config": {
+        "host": "vejlemusikteater.dk",
+        "postType": "bwps"
+      },
       "why": "recon: post type 'bwps'"
     },
     {
@@ -234,14 +213,75 @@
       "country": "DK",
       "capacity": 600,
       "adapter": "wp-rest",
-      "config": { "host": "kuto.dk", "postType": "arrangement" },
+      "config": {
+        "host": "kuto.dk",
+        "postType": "arrangement"
+      },
       "why": "recon: post type 'arrangementer' with rest_base 'arrangement'"
     }
   ],
   "excluded": [
-    { "id": "hotel-cecil", "host": "hotelcecil.dk", "reason": "robots.txt disallows crawling" },
-    { "id": "bremen", "host": "brementeater.dk", "reason": "robots.txt disallows crawling" },
-    { "id": "godset", "host": "godset.net", "reason": "robots.txt disallows crawling" },
-    { "id": "songkick", "host": "www.songkick.com", "reason": "a competitor's aggregated listings, not a primary source; used only as a coverage benchmark, never harvested into the corpus" }
+    {
+      "id": "hotel-cecil",
+      "host": "hotelcecil.dk",
+      "reason": "robots.txt disallows crawling"
+    },
+    {
+      "id": "bremen",
+      "host": "brementeater.dk",
+      "reason": "robots.txt disallows crawling"
+    },
+    {
+      "id": "godset",
+      "host": "godset.net",
+      "reason": "robots.txt disallows crawling"
+    },
+    {
+      "id": "songkick",
+      "host": "www.songkick.com",
+      "reason": "a competitor's aggregated listings, not a primary source; used only as a coverage benchmark, never harvested into the corpus"
+    }
+  ],
+  "notYetCovered": [
+    {
+      "id": "jelling",
+      "reason": "sitemap lists /program/ URLs that 404 (stale sitemap)",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "stars",
+      "reason": "sitemap /program/ entries are section pages, not events",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "tivoli",
+      "reason": "/program/ entries are category pages; no JSON-LD and no Next payload",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "distortion",
+      "reason": "event pages carry no date and no structured data",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "jyske-bank-boxen",
+      "reason": "/oplevelser/ entries are category pages",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "rust",
+      "reason": "wp-json returns 403 to our user-agent",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "koncerthuset",
+      "reason": "no JSON-LD, no Next payload; would need bespoke HTML parsing",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "strom",
+      "reason": "one JSON-LD block per page but no Event node",
+      "checked": "2026-08-12"
+    }
   ]
 }
