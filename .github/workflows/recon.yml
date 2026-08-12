@@ -1,0 +1,59 @@
+name: Recon (what do these sites actually serve)
+
+# This exists because the environment the project was built in had no outbound
+# network. A GitHub runner does. So the runner goes and looks, commits what it
+# found, and the scrapers get written against real markup.
+#
+# It writes to the repository, and this repo's default workflow permission is
+# read, so the grant is declared here, in the file doing the writing.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths:
+      - 'pipeline/recon.mjs'
+      - 'pipeline/sources/candidates.json'
+      - '.github/workflows/recon.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: recon-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  recon:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Probe candidate sources
+        run: node pipeline/recon.mjs
+
+      # The full capture is large and short-lived. Git keeps only the pruned set.
+      - name: Upload full raw capture
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: recon-raw
+          path: recon/
+          retention-days: 7
+
+      - name: Commit findings
+        run: |
+          git config user.name  "concert-finder-recon"
+          git config user.email "noreply@github.com"
+          git add -A recon/
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "recon: probe results $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
