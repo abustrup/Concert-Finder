@@ -50,6 +50,10 @@ jobs:
         # Best-effort: a MusicBrainz outage should not lose the harvest.
         if: hashFiles('pipeline/enrich.mjs') != ''
         continue-on-error: true
+        env:
+          # Bounded so one run cannot spend an hour on MusicBrainz. The cache is
+          # incremental, so successive weeks finish the tail.
+          ENRICH_LIMIT: '900'
         run: node pipeline/enrich.mjs
 
       - name: Validate

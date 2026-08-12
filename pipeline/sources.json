@@ -43,13 +43,12 @@
       "config": {
         "host": "vega.dk",
         "pages": [
-          "/",
-          "/program"
+          "/"
         ],
         "sitemap": "https://vega.dk/sitemap.xml",
         "urlPattern": "/event/",
         "limit": 260,
-        "minFromIndex": 40,
+        "minFromIndex": 400,
         "slugPrefix": "event"
       },
       "why": "recon+inspect: no JSON-LD at all; __NEXT_DATA__ carries title, venue, dates[], ticket link, price, genre"
@@ -68,26 +67,6 @@
         "limit": 250
       },
       "why": "recon: sitemap lists 227 /show/ pages"
-    },
-    {
-      "id": "roskilde",
-      "name": "Roskilde Festival",
-      "city": "Roskilde",
-      "country": "DK",
-      "capacity": 130000,
-      "isFestival": true,
-      "adapter": "next-data",
-      "config": {
-        "host": "roskilde-festival.dk",
-        "pages": [
-          "/program/musik"
-        ],
-        "sitemap": "https://roskilde-festival.dk/sitemap.xml",
-        "urlPattern": "/program/musik/",
-        "limit": 200,
-        "minFromIndex": 20
-      },
-      "why": "inspect: Next.js, no JSON-LD"
     },
     {
       "id": "voxhall",
@@ -281,6 +260,11 @@
     {
       "id": "strom",
       "reason": "one JSON-LD block per page but no Event node",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "roskilde",
+      "reason": "programme pages are undated artist profiles; the 2027 lineup carries no per-artist date until the schedule is published",
       "checked": "2026-08-12"
     }
   ]

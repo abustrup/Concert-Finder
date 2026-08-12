@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en" data-theme="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>TOLV — twelve concerts a year, chosen for you</title>
+    <meta
+      name="description"
+      content="Twelve concerts a year, picked from what you actually listen to. Danish venues first, Europe and the rest of the world on request. Your listening history never leaves your browser."
+    />
+    <meta name="color-scheme" content="dark light" />
+    <meta name="robots" content="index,follow" />
+    <!--STYLE-->
+  </head>
+
+  <body>
+    <header class="top">
+      <div class="top-in">
+        <a class="mark" href="./" aria-label="TOLV, home">
+          <b>TOLV</b><i aria-hidden="true"></i>
+          <span data-i18n="tagline">twelve nights a year</span>
+        </a>
+        <div class="top-spacer"></div>
+        <button class="ghost" id="lang" type="button" aria-label="Skift til dansk">DA</button>
+        <button class="ghost" id="theme" type="button" aria-label="Switch to light mode">
+          <span data-i18n="light">Light</span>
+        </button>
+        <button class="ghost" id="restart" type="button" hidden data-i18n="startOver">Start over</button>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- ------------------------------------------------------- landing -->
+      <section id="landing">
+        <div class="wrap hero">
+          <p class="kicker" data-i18n="kicker">Denmark first · Europe and world on request</p>
+          <h1>
+            <span data-i18n="h1a">Twelve nights.</span><br />
+            <em data-i18n="h1b">Not three hundred.</em>
+          </h1>
+          <p class="lede" data-i18n="lede">
+            Most people go to somewhere between five and ten concerts a year. So this does not hand
+            you a listings page. Give it what you listen to and it returns a shortlist for the next
+            twelve months, each one saying why it is there.
+          </p>
+
+          <div class="stat-row" id="corpus-stats"></div>
+
+          <div class="ways">
+            <button class="way" data-primary="true" id="way-file" type="button">
+              <span class="way-n">01</span>
+              <h3 data-i18n="w1h">Drop in your Spotify data</h3>
+              <p data-i18n="w1p">
+                The zip Spotify emails you when you ask for your data. Also reads Apple Music,
+                Last.fm and ListenBrainz exports, and old Spotify exports going back years.
+              </p>
+              <span class="tag" data-i18n="w1t">Best results · nothing is uploaded</span>
+            </button>
+
+            <button class="way" id="way-name" type="button">
+              <span class="way-n">02</span>
+              <h3 data-i18n="w2h">Type a ListenBrainz name</h3>
+              <p data-i18n="w2p">
+                ListenBrainz publishes listening stats openly, so a username is enough. No login, no
+                password, no permissions to grant.
+              </p>
+              <span class="tag" data-i18n="w2t">Ten seconds · needs a ListenBrainz account</span>
+            </button>
+
+            <button class="way" id="way-type" type="button">
+              <span class="way-n">03</span>
+              <h3 data-i18n="w3h">Just name some bands</h3>
+              <p data-i18n="w3p">
+                Twenty artists you like, typed in. Rougher than an export, and enough to be useful
+                straight away.
+              </p>
+              <span class="tag" data-i18n="w3t">No account of any kind</span>
+            </button>
+          </div>
+
+          <div id="panel" hidden></div>
+
+          <div class="note" id="privacy-note">
+            <b data-i18n="privH">Your listening history is read on your own device.</b>
+            <span data-i18n="privP">
+              This is a static page. There is no server to send anything to, no account, no
+              analytics and no third-party script. The file you drop in is opened by code running in
+              your browser and is gone when you close the tab.
+            </span>
+          </div>
+        </div>
+      </section>
+
+      <!-- ------------------------------------------------------- results -->
+      <section id="results" hidden>
+        <div class="controls">
+          <div class="controls-in">
+            <div class="ctl">
+              <label for="count" data-i18n="cCount">Nights</label>
+              <input type="range" id="count" min="5" max="20" step="1" value="12" />
+              <span class="count-badge" id="count-out">12</span>
+            </div>
+            <div class="ctl">
+              <label for="region" data-i18n="cWhere">Where</label>
+              <select class="field" id="region"></select>
+            </div>
+            <div class="ctl">
+              <label for="room" data-i18n="cRoom">Rooms</label>
+              <select class="field" id="room">
+                <option value="any" data-i18n="rAny">Any size</option>
+                <option value="intimate" data-i18n="rSmall">Prefer small</option>
+              </select>
+            </div>
+            <div class="top-spacer"></div>
+            <button class="ghost" id="toggle-method" type="button" data-i18n="cMethod">
+              How this was chosen
+            </button>
+          </div>
+        </div>
+
+        <div class="wrap results">
+          <div class="summary">
+            <div class="big" id="result-count">—</div>
+            <p class="said" id="result-said"></p>
+          </div>
+
+          <div id="method" hidden></div>
+          <div id="short-note"></div>
+          <div class="spine" id="spine"></div>
+          <div id="no-results"></div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="foot">
+      <div class="wrap">
+        <div class="foot-grid">
+          <div>
+            <h4 data-i18n="fData">The listings</h4>
+            <p id="foot-data"></p>
+          </div>
+          <div>
+            <h4 data-i18n="fCover">Coverage</h4>
+            <p id="foot-cover"></p>
+          </div>
+          <div>
+            <h4 data-i18n="fHow">How it works</h4>
+            <p data-i18n="fHowP">
+              Every concert here was read from a venue's own website or programme feed, with the
+              source and the date it was fetched recorded against it. Nothing is written by hand and
+              nothing is generated.
+            </p>
+          </div>
+          <div>
+            <h4 data-i18n="fOpen">Open</h4>
+            <p>
+              <a href="https://github.com/abustrup/Concert-Finder" rel="noopener">Source and method on GitHub</a
+              ><br /><span data-i18n="fOpenP"
+                >Not affiliated with Spotify, Songkick, or any venue. No ads, no affiliate links.</span
+              >
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <input type="file" id="file-input" accept=".zip,.json,.csv,.txt" multiple hidden />
+    <!--DATA-->
+    <!--SCRIPT-->
+  </body>
+</html>

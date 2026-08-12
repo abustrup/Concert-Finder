@@ -35,8 +35,15 @@ function ctxFor(source, pageUrl, method) {
   }
 }
 
-function tally(rejects, reason) {
+function tally(rejects, reason, sample) {
   rejects[reason] = (rejects[reason] || 0) + 1
+  // Keep a few examples of everything discarded. A filter that quietly eats
+  // real concerts looks exactly like a filter that is working.
+  if (sample) {
+    rejects._samples = rejects._samples || {}
+    const list = (rejects._samples[reason] = rejects._samples[reason] || [])
+    if (list.length < 5) list.push(String(sample).slice(0, 70))
+  }
 }
 
 // ---------------------------------------------------------------- jsonld-page
@@ -193,7 +200,7 @@ async function wpRest(source) {
         continue
       }
       if (looksNonMusical(title)) {
-        tally(rejects, 'non-musical')
+        tally(rejects, 'non-musical', title)
         continue
       }
 

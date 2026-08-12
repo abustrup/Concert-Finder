@@ -412,11 +412,13 @@ export function recommend({ taste, events, artistIndex, options = {} }) {
       askedFor: opts.count,
       returned: picks.length,
       short: picks.length < opts.count,
+      // A code, not a sentence: the page is bilingual and the reason is shown
+      // to the person, so it cannot be English prose decided here.
       shortReason:
         picks.length < opts.count
           ? scored.length < opts.count
-            ? 'not enough events cleared the evidence bar'
-            : 'variety limits (one show per artist, at most a few per venue) ran out of distinct options'
+            ? 'thin-evidence'
+            : 'variety-limit'
           : null,
       eventsConsidered: filtered.length,
       eventsScored: scored.length,

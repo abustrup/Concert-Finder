@@ -87,7 +87,7 @@ async function main() {
 
   const all = []
   const perSource = []
-  const dropped = { past: 0, beyondHorizon: 0, cancelled: 0, duplicate: 0 }
+  const dropped = { past: 0, beyondHorizon: 0, cancelled: 0, postponed: 0, duplicate: 0 }
   const seen = new Map()
 
   for (const r of results) {
@@ -103,6 +103,14 @@ async function main() {
       }
       if (e.status === 'cancelled') {
         dropped.cancelled++
+        continue
+      }
+      // A moved or postponed show is dropped rather than shown. VEGA marks
+      // these "Flyttet" and the date we hold may be the OLD one — and putting a
+      // wrong date in front of someone planning an evening is the worst thing
+      // this project can do. Losing one real concert costs less.
+      if (e.status === 'postponed') {
+        dropped.postponed++
         continue
       }
       // Same venue, same night, same billing = one event, however many pages

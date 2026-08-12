@@ -1,3 +1,3 @@
 # CLI arguments for pipeline/harvest.mjs, one per line, # for comments.
-# run 2: next-data adapter for VEGA/Roskilde, Danish date parsing for WordPress,
-# page fallback for venues whose API record carries no date. Full limits.
+# run 3: Danish compound filtering, postponed shows dropped, VEGA walks its
+# sitemap, Roskilde parked. First run that also enriches artists.
