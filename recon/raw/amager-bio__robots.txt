@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://ab-b.dk/sitemap_index.xml
+Schemamap: https://ab-b.dk/api/yoast/v1/schema-aggregator/get-xml
+# ---------------------------
+# END YOAST BLOCK

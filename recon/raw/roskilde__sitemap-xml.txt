@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+      <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+       <url>
+        <loc>https://www.roskilde-festival.dk/</loc>
+        <lastmod>2026-08-12T12:27:39.1Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/log-ind</loc>
+        <lastmod>2024-04-03T07:20:40.273Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/sign-in" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/log-ind" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/log-ind" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/orange-orbit</loc>
+        <lastmod>2026-05-22T10:01:55.463Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/orange-orbit" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/orange-orbit" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/orange-orbit" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/skift-betalingsmetode-kvitteringsside</loc>
+        <lastmod>2024-04-03T09:10:56.673Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/change-payment-method-receipt-page" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/skift-betalingsmetode-kvitteringsside" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/skift-betalingsmetode-kvitteringsside" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/foreningsmedlem-kvitteringsside</loc>
+        <lastmod>2024-04-03T09:13:55.293Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/association-membership-receipt-page" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/foreningsmedlem-kvitteringsside" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/foreningsmedlem-kvitteringsside" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/error</loc>
+        <lastmod>2024-04-03T09:16:36.513Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/error" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/error" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/error" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/eksisterende-foreningsmedlem</loc>
+        <lastmod>2024-04-03T09:18:18.3Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/existing-association-member" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/eksisterende-foreningsmedlem" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/eksisterende-foreningsmedlem" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/annuller-og-skift-kvitteringsside</loc>
+        <lastmod>2024-04-03T10:41:20.42Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/cancel-and-change-receipt-page" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/annuller-og-skift-kvitteringsside" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/annuller-og-skift-kvitteringsside" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/medlem/foreningsbetingelser</loc>
+        <lastmod>2024-11-22T15:21:27.4Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/member/association-terms-and-conditions" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/medlem/foreningsbetingelser" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/medlem/foreningsbetingelser" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/search</loc>
+        <lastmod>2024-11-18T11:26:10.537Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/search" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/search" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/search" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder</loc>
+        <lastmod>2026-01-27T09:58:37.87Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/moed-tre-foreninger-paa-roskilde-festival</loc>
+        <lastmod>2025-05-08T13:20:42.273Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/meet-three-volunteer-organisations" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/moed-tre-foreninger-paa-roskilde-festival" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/moed-tre-foreninger-paa-roskilde-festival" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/orange-donation</loc>
+        <lastmod>2024-07-01T10:50:13.66Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/orange-donation" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/orange-donation" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/orange-donation" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/rising-en-platform-for-nye-stemmer</loc>
+        <lastmod>2025-08-05T10:13:42.303Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/rising-a-platform-for-new-voices" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/rising-en-platform-for-nye-stemmer" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/rising-en-platform-for-nye-stemmer" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/generalforsamling-2025</loc>
+        <lastmod>2025-04-25T13:09:32.187Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/general-assembly-2025" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/generalforsamling-2025" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/generalforsamling-2025" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/artigeardit-udvaelger-aarets-orange-donation</loc>
+        <lastmod>2025-05-13T10:49:59.487Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/artigeardit-picks-this-year-s-orange-donation" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/artigeardit-udvaelger-aarets-orange-donation" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/artigeardit-udvaelger-aarets-orange-donation" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/du-kan-aendre-verden-saadan-kommer-du-i-gang</loc>
+        <lastmod>2025-11-20T14:24:19.747Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/you-can-change-the-world-here-s-how-to-get-started" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/du-kan-aendre-verden-saadan-kommer-du-i-gang" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/du-kan-aendre-verden-saadan-kommer-du-i-gang" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/headline-flip-vi-flipper-koncerten-paa-hovedet</loc>
+        <lastmod>2025-09-12T13:34:50.587Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/we-re-flipping-the-concert-upside-down" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/headline-flip-vi-flipper-koncerten-paa-hovedet" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/headline-flip-vi-flipper-koncerten-paa-hovedet" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/fortjent-haeder-til-frivillige-forbilleder</loc>
+        <lastmod>2025-09-18T15:09:21.487Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/well-deserved-recognition-of-our-volunteers" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/fortjent-haeder-til-frivillige-forbilleder" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/fortjent-haeder-til-frivillige-forbilleder" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/fornyelser-i-festivalbyen-i-2026</loc>
+        <lastmod>2025-10-03T14:22:31.53Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/renewals-in-the-festival-city-in-2026" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/fornyelser-i-festivalbyen-i-2026" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/fornyelser-i-festivalbyen-i-2026" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/en-million-kroner-til-roskilde-faellesskaber</loc>
+        <lastmod>2025-12-18T11:13:13.79Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/one-million-for-communities-in-roskilde" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/en-million-kroner-til-roskilde-faellesskaber" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/en-million-kroner-til-roskilde-faellesskaber" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/kom-med-paa-frivilligholdet</loc>
+        <lastmod>2025-10-30T10:02:38.28Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/become-a-volunteer-at-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/kom-med-paa-frivilligholdet" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/kom-med-paa-frivilligholdet" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/gorillaz-tobias-rahim-og-mange-flere-til-rf26</loc>
+        <lastmod>2025-11-28T00:41:34.847Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/gorillaz-ethel-cain-and-many-more-for-roskilde" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/gorillaz-tobias-rahim-og-mange-flere-til-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/gorillaz-tobias-rahim-og-mange-flere-til-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/the-cure-fejrer-50-aar-paa-orange-scene</loc>
+        <lastmod>2025-11-28T00:41:35.137Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/the-cure-celebrate-50-years-on-the-orange-stage" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/the-cure-fejrer-50-aar-paa-orange-scene" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/the-cure-fejrer-50-aar-paa-orange-scene" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/24-nye-navne-klar-til-rf26</loc>
+        <lastmod>2025-12-18T10:29:32.793Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/24-new-acts-ready-for-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/24-nye-navne-klar-til-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/24-nye-navne-klar-til-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/genoplev-2025-ifoert-farvestraalende-vest</loc>
+        <lastmod>2025-12-16T10:28:18.207Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/relive-2025-wearing-a-bright-vest" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/genoplev-2025-ifoert-farvestraalende-vest" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/genoplev-2025-ifoert-farvestraalende-vest" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-og-glaed-dig-til-2026</loc>
+        <lastmod>2026-01-21T23:14:38.743Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/thank-you-for-2025-and-get-ready-for-2026" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-og-glaed-dig-til-2026" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-og-glaed-dig-til-2026" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/book-din-overnatning-paa-roskilde-festival</loc>
+        <lastmod>2026-01-22T09:40:26.863Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/book-your-camping-spot-at-roskilde-festival" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/book-din-overnatning-paa-roskilde-festival" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/book-din-overnatning-paa-roskilde-festival" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/lily-allen-og-24-andre-klar-til-rf26</loc>
+        <lastmod>2026-01-27T09:54:33.223Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/lily-allen-and-24-more-ready-for-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/lily-allen-og-24-andre-klar-til-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/lily-allen-og-24-andre-klar-til-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/vi-siger-farvel-til-glas-og-engangspavilloner-paa-camping</loc>
+        <lastmod>2026-01-26T11:55:16.317Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/goodbye-to-glass-and-disposable-pavilions-on-camping" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/vi-siger-farvel-til-glas-og-engangspavilloner-paa-camping" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/vi-siger-farvel-til-glas-og-engangspavilloner-paa-camping" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/8-grunde-til-at-blive-frivillig</loc>
+        <lastmod>2026-06-10T11:05:05.367Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/8-reasons-to-volunteer" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/8-grunde-til-at-blive-frivillig" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/8-grunde-til-at-blive-frivillig" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/vigtig-billetinfo</loc>
+        <lastmod>2026-04-30T09:53:24.557Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/ticket-update" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/vigtig-billetinfo" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/vigtig-billetinfo" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/addison-rae-aphaca-og-wolf-alice-klar-til-rf26</loc>
+        <lastmod>2026-03-27T10:52:11.993Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/addison-rae-wolf-alice-lykke-li-ready-for-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/addison-rae-aphaca-og-wolf-alice-klar-til-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/addison-rae-aphaca-og-wolf-alice-klar-til-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/se-alle-41-navne-til-first-days</loc>
+        <lastmod>2026-03-12T15:03:28.893Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/here-are-the-41-first-days-acts" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/se-alle-41-navne-til-first-days" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/se-alle-41-navne-til-first-days" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/pil-aabner-orange-scene</loc>
+        <lastmod>2026-03-12T09:50:07.433Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/pil-to-open-the-orange-stage" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/pil-aabner-orange-scene" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/pil-aabner-orange-scene" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/15-nye-navne-klar</loc>
+        <lastmod>2026-03-27T10:47:20.953Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/15-new-acts-added" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/15-nye-navne-klar" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/15-nye-navne-klar" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/titanic-aflyser</loc>
+        <lastmod>2026-04-16T10:31:15.607Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/titanic-cancel" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/titanic-aflyser" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/titanic-aflyser" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/hop-paa-en-tidsrejse-gennem-roskildes-scener</loc>
+        <lastmod>2026-04-28T11:05:30.233Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/jump-on-a-time-travel-through-the-stages" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/hop-paa-en-tidsrejse-gennem-roskildes-scener" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/hop-paa-en-tidsrejse-gennem-roskildes-scener" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/her-er-de-nye-scener-og-biografen-vender-tilbage</loc>
+        <lastmod>2026-04-30T14:46:06.387Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/here-are-the-new-stages-and-the-cinema-returns" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/her-er-de-nye-scener-og-biografen-vender-tilbage" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/her-er-de-nye-scener-og-biografen-vender-tilbage" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/generalforsamling-2026</loc>
+        <lastmod>2026-04-22T15:40:26.783Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/general-assembly-2026" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/generalforsamling-2026" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/generalforsamling-2026" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/fuldt-program-og-tidsplan-er-klar</loc>
+        <lastmod>2026-05-04T18:32:05.343Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/full-line-up-and-schedule-revealed" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/fuldt-program-og-tidsplan-er-klar" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/fuldt-program-og-tidsplan-er-klar" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/info-om-early-entry-salg</loc>
+        <lastmod>2026-05-08T10:26:43.51Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/info-on-early-entry-sales" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/info-om-early-entry-salg" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/info-om-early-entry-salg" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/haab-omsorg-og-sjove-aktiviteter-paa-rf26</loc>
+        <lastmod>2026-05-13T13:05:19.12Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/hope-care-and-fun-activities-at-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/haab-omsorg-og-sjove-aktiviteter-paa-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/haab-omsorg-og-sjove-aktiviteter-paa-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/tessa-sender-aarets-orange-donation-til-amnesty</loc>
+        <lastmod>2026-05-19T13:26:11.507Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/tessa-directs-this-year-s-orange-donation-to-amnesty" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/tessa-sender-aarets-orange-donation-til-amnesty" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/tessa-sender-aarets-orange-donation-til-amnesty" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/udsolgt-af-endagsbilletter</loc>
+        <lastmod>2026-06-01T16:15:42.47Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/one-day-tickets-are-sold-out" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/udsolgt-af-endagsbilletter" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/udsolgt-af-endagsbilletter" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/rf26-er-udsolgt</loc>
+        <lastmod>2026-06-10T11:02:52.68Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/rf26-is-sold-out" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/rf26-er-udsolgt" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/rf26-er-udsolgt" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/ryd-op-sammen-nu</loc>
+        <lastmod>2026-07-06T22:00:03.907Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/clean-up-now-together" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/ryd-op-sammen-nu" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/ryd-op-sammen-nu" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/flere-oplevelser-er-landet-i-programmet</loc>
+        <lastmod>2026-06-04T10:18:27.983Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/flere-oplevelser-er-landet-i-programmet" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/flere-oplevelser-er-landet-i-programmet" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/more-additions-to-the-line-up" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/aarets-merch-er-landet-se-det-her</loc>
+        <lastmod>2026-06-22T09:50:01.637Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/take-a-look-at-the-rf26-merch" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/aarets-merch-er-landet-se-det-her" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/aarets-merch-er-landet-se-det-her" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/festivalkortet-er-klar</loc>
+        <lastmod>2026-06-12T09:57:27.1Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/the-festival-map-is-ready" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/festivalkortet-er-klar" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/festivalkortet-er-klar" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/iceage-og-genesis-owusu-traeder-ind-i-programmet</loc>
+        <lastmod>2026-06-15T10:57:36.627Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/iceage-og-genesis-owusu-traeder-ind-i-programmet" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/iceage-og-genesis-owusu-traeder-ind-i-programmet" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/iceage-and-genesis-owusu-join-the-line-up" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/monolord-erstatter-primitive-man</loc>
+        <lastmod>2026-06-22T10:50:02.68Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/monolord-steps-in-to-the-line-up" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/monolord-erstatter-primitive-man" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/monolord-erstatter-primitive-man" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/det-her-skal-du-ikke-slaebe-med-paa-roskilde</loc>
+        <lastmod>2026-06-25T10:00:04.963Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/det-her-skal-du-ikke-slaebe-med-paa-roskilde" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/det-her-skal-du-ikke-slaebe-med-paa-roskilde" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/what-not-to-drag-all-the-way-to-roskilde" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/rf26-bliver-nordens-foerste-svanemaerkede-festival</loc>
+        <lastmod>2026-06-24T09:27:17.933Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/rf26-becomes-the-first-festival-to-receive-the-nordic-swan-ecolabel" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/rf26-bliver-nordens-foerste-svanemaerkede-festival" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/rf26-bliver-nordens-foerste-svanemaerkede-festival" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/din-guide-til-de-fedeste-camp-fester</loc>
+        <lastmod>2026-06-28T12:20:41.917Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/your-guide-to-this-years-best-camp-parties" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/din-guide-til-de-fedeste-camp-fester" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/din-guide-til-de-fedeste-camp-fester" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/pas-paa-varmen-paa-roskilde-festival</loc>
+        <lastmod>2026-06-28T13:41:32.883Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/stay-safe-in-the-heat-at-roskilde-festival" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/pas-paa-varmen-paa-roskilde-festival" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/pas-paa-varmen-paa-roskilde-festival" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/faa-foerste-glimt-af-de-nye-scener</loc>
+        <lastmod>2026-06-27T14:52:55.517Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/get-a-glimpse-of-the-new-stages" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/faa-foerste-glimt-af-de-nye-scener" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/faa-foerste-glimt-af-de-nye-scener" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/vegyn-erstatter-iglooghost</loc>
+        <lastmod>2026-06-26T11:05:03.297Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/vegyn-replaces-iglooghost" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/vegyn-erstatter-iglooghost" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/vegyn-erstatter-iglooghost" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/tro-ikke-du-bare-skal-i-biografen</loc>
+        <lastmod>2026-06-28T10:24:00.14Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/don-t-just-think-you-re-going-to-the-movies" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/tro-ikke-du-bare-skal-i-biografen" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/tro-ikke-du-bare-skal-i-biografen" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/dagen-efter-vores-foerste-koncert-ringede-roskilde</loc>
+        <lastmod>2026-06-28T11:31:58.373Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/dagen-efter-vores-foerste-koncert-ringede-roskilde" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/dagen-efter-vores-foerste-koncert-ringede-roskilde" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/the-day-after-our-first-gig-roskilde-called" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/snoer-danseskoene-og-find-dit-dansegulv</loc>
+        <lastmod>2026-06-29T15:15:14.493Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/lace-up-your-dancing-shoes-discover-the-festivals-dance-communities" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/snoer-danseskoene-og-find-dit-dansegulv" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/snoer-danseskoene-og-find-dit-dansegulv" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/syng-for-fred-grib-en-spraydaase-og-omfavn-en-alien</loc>
+        <lastmod>2026-06-28T10:25:28.73Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/sing-for-peace-grab-a-spray-can-and-embrace-an-alien" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/syng-for-fred-grib-en-spraydaase-og-omfavn-en-alien" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/syng-for-fred-grib-en-spraydaase-og-omfavn-en-alien" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/fight-the-rich-og-faa-festivalens-bedste-udsigt</loc>
+        <lastmod>2026-06-29T12:31:10.67Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/fight-the-rich-with-a-view" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/fight-the-rich-og-faa-festivalens-bedste-udsigt" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/fight-the-rich-og-faa-festivalens-bedste-udsigt" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/yousuke-yukimatsu-flytter-til-arena</loc>
+        <lastmod>2026-06-28T13:55:23.377Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/yousuke-yukimatsu-moves-to-arena" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/yousuke-yukimatsu-flytter-til-arena" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/yousuke-yukimatsu-flytter-til-arena" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/kraftigt-vejr-kan-ramme-festivalen-i-aften</loc>
+        <lastmod>2026-06-28T13:41:58.793Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/kraftigt-vejr-kan-ramme-festivalen-i-aften" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/kraftigt-vejr-kan-ramme-festivalen-i-aften" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/important-secure-your-camp-before-the-storm" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/video-faa-sved-paa-panden-og-ny-energi</loc>
+        <lastmod>2026-06-29T10:00:12.733Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/video-break-a-sweat-and-recharge-yourself" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/video-faa-sved-paa-panden-og-ny-energi" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/video-faa-sved-paa-panden-og-ny-energi" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/moed-dit-groenne-crush-i-koekkenhaven</loc>
+        <lastmod>2026-06-30T08:00:49.57Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/moed-dit-groenne-crush-i-koekkenhaven" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/moed-dit-groenne-crush-i-koekkenhaven" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/meet-your-green-crush-in-the-festival-garden" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/saet-gang-i-en-freestyle-og-spil-bingo-med-en-drag</loc>
+        <lastmod>2026-06-30T10:52:55.043Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/kick-off-a-freestyle-and-play-bingo-with-a-drag-queen" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/saet-gang-i-en-freestyle-og-spil-bingo-med-en-drag" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/saet-gang-i-en-freestyle-og-spil-bingo-med-en-drag" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/smag-paa-nyhederne-i-food-court</loc>
+        <lastmod>2026-07-02T11:10:51.323Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/taste-the-new-arrivals-at-food-court" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/smag-paa-nyhederne-i-food-court" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/smag-paa-nyhederne-i-food-court" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/moed-dit-indre-legebarn-i-skate</loc>
+        <lastmod>2026-06-30T09:45:51.39Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/moed-dit-indre-legebarn-i-skate" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/moed-dit-indre-legebarn-i-skate" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/meet-your-inner-kid-at-skate" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/her-finder-du-festivalens-bloedeste-faellesskab</loc>
+        <lastmod>2026-07-03T10:53:21.48Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/video-find-the-festival-s-softest-community" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/her-finder-du-festivalens-bloedeste-faellesskab" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/her-finder-du-festivalens-bloedeste-faellesskab" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/angaaende-mig-piller-koncerten-fra-hinanden</loc>
+        <lastmod>2026-07-01T11:00:08.723Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/angaaende-mig-takes-the-concert-apart" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/angaaende-mig-piller-koncerten-fra-hinanden" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/angaaende-mig-piller-koncerten-fra-hinanden" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/drik-din-oel-med-oererne</loc>
+        <lastmod>2026-07-03T09:00:38.59Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/drik-din-oel-med-oererne" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/drik-din-oel-med-oererne" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/drink-your-beer-with-your-ears" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/bliv-suget-ind-i-festivalens-vildeste-frirum</loc>
+        <lastmod>2026-07-02T11:13:09.833Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/bliv-suget-ind-i-festivalens-vildeste-frirum" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/bliv-suget-ind-i-festivalens-vildeste-frirum" /><xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/lose-yourself-in-platform-s-360-degree-wonder" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/se-maskinen-der-lever-af-dine-minder</loc>
+        <lastmod>2026-07-01T13:00:43.88Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/here-s-the-machine-that-feeds-on-your-memories" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/se-maskinen-der-lever-af-dine-minder" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/se-maskinen-der-lever-af-dine-minder" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/tag-paa-kunstwalk-mens-du-venter</loc>
+        <lastmod>2026-07-01T10:24:23.673Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/while-we-wait-go-on-an-art-walk" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/tag-paa-kunstwalk-mens-du-venter" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/tag-paa-kunstwalk-mens-du-venter" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/wicky-er-tilbage-og-alt-er-skruet-op</loc>
+        <lastmod>2026-07-02T09:00:22.167Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/wicky-is-back-and-everything-is-turned-up" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/wicky-er-tilbage-og-alt-er-skruet-op" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/wicky-er-tilbage-og-alt-er-skruet-op" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/syng-med-uden-at-forstaa-et-ord</loc>
+        <lastmod>2026-07-03T12:41:49.733Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/forget-your-duolingo-streak-and-sing-along-to-foreign-sounds" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/syng-med-uden-at-forstaa-et-ord" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/syng-med-uden-at-forstaa-et-ord" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/her-kan-du-lade-baade-mobilen-og-hovedet-op</loc>
+        <lastmod>2026-07-06T21:58:53.19Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/recharge-your-phone-and-yourself" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/her-kan-du-lade-baade-mobilen-og-hovedet-op" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/her-kan-du-lade-baade-mobilen-og-hovedet-op" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/programaendringer-paa-grund-af-vejret</loc>
+        <lastmod>2026-07-04T02:38:49.08Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/programme-changes-due-to-the-weather" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/programaendringer-paa-grund-af-vejret" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/programaendringer-paa-grund-af-vejret" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/snup-en-snack-og-stoet-lokalt</loc>
+        <lastmod>2026-07-03T14:20:37.66Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/grab-a-snack-and-support-your-local-community" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/snup-en-snack-og-stoet-lokalt" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/snup-en-snack-og-stoet-lokalt" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-vi-ses-i-2027</loc>
+        <lastmod>2026-07-06T21:56:37.963Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/thank-you-roskilde-see-you-in-2027" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-vi-ses-i-2027" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/tak-for-i-aar-vi-ses-i-2027" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/nyheder/gense-koncertoejeblikke-fra-rf26</loc>
+        <lastmod>2026-07-06T21:55:55.513Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/news/relive-concert-highlights-from-rf26" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/nyheder/gense-koncertoejeblikke-fra-rf26" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/nyheder/gense-koncertoejeblikke-fra-rf26" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/billetter</loc>
+        <lastmod>2026-08-12T10:53:45.433Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/tickets" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/billetter" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/billetter" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program</loc>
+        <lastmod>2026-04-30T10:06:08.907Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/gorillaz</loc>
+        <lastmod>2026-06-08T09:38:24.587Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/gorillaz" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/gorillaz" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/gorillaz" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-cure</loc>
+        <lastmod>2026-06-08T09:40:08.863Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-cure" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-cure" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-cure" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ethel-cain</loc>
+        <lastmod>2026-06-08T09:38:20.03Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ethel-cain" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ethel-cain" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ethel-cain" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/tobias-rahim</loc>
+        <lastmod>2026-06-08T09:40:12.277Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/tobias-rahim" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/tobias-rahim" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/tobias-rahim" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/bad-gyal</loc>
+        <lastmod>2026-06-10T09:41:15.723Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/bad-gyal" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/bad-gyal" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/bad-gyal" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/brutalismus-3000</loc>
+        <lastmod>2026-06-08T09:37:57.657Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/brutalismus-3000" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/brutalismus-3000" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/brutalismus-3000" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/cobrah</loc>
+        <lastmod>2026-06-08T09:38:00.963Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/cobrah" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/cobrah" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/cobrah" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/lojay</loc>
+        <lastmod>2026-06-08T09:39:01.667Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/lojay" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/lojay" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/lojay" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/pa-salieu</loc>
+        <lastmod>2026-06-08T09:39:26.917Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/pa-salieu" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/pa-salieu" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/pa-salieu" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sierra-ferrell</loc>
+        <lastmod>2026-06-08T09:39:59.307Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sierra-ferrell" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sierra-ferrell" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sierra-ferrell" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/yousuke-yukimatsu</loc>
+        <lastmod>2026-06-28T13:55:23.653Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/yousuke-yukimatsu" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/yousuke-yukimatsu" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/yousuke-yukimatsu" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/adrian-quesada</loc>
+        <lastmod>2026-06-10T08:28:13.317Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/adrian-quesada" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/adrian-quesada" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/adrian-quesada" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/dbn-gogo</loc>
+        <lastmod>2026-07-03T12:40:42.087Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/dbn-gogo" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/dbn-gogo" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/dbn-gogo" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/dean-johnson</loc>
+        <lastmod>2026-06-08T09:38:04.627Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/dean-johnson" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/dean-johnson" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/dean-johnson" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ela-lung</loc>
+        <lastmod>2026-06-08T09:38:18.04Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ela-lung" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ela-lung" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ela-lung" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/folk-bitch-trio</loc>
+        <lastmod>2026-06-08T09:38:21.437Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/folk-bitch-trio" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/folk-bitch-trio" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/folk-bitch-trio" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/hypnosis-therapy</loc>
+        <lastmod>2026-06-08T09:38:36.627Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/hypnosis-therapy" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/hypnosis-therapy" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/hypnosis-therapy" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/joshua-idehen</loc>
+        <lastmod>2026-06-08T09:38:44.283Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/joshua-idehen" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/joshua-idehen" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/joshua-idehen" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/maruja</loc>
+        <lastmod>2026-06-08T09:39:07.82Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/maruja" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/maruja" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/maruja" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-new-eves</loc>
+        <lastmod>2026-06-08T09:40:09.4Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-new-eves" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-new-eves" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-new-eves" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/snuggle</loc>
+        <lastmod>2026-06-08T09:40:03.9Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/snuggle" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/snuggle" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/snuggle" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-sophs</loc>
+        <lastmod>2026-06-08T09:40:10.603Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-sophs" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-sophs" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-sophs" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/milkweed</loc>
+        <lastmod>2026-06-08T09:39:19.523Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/milkweed" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/milkweed" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/milkweed" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/david-byrne</loc>
+        <lastmod>2026-06-08T09:38:03.333Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/david-byrne" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/david-byrne" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/david-byrne" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kneecap</loc>
+        <lastmod>2026-06-08T09:38:54.94Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kneecap" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kneecap" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kneecap" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/little-simz</loc>
+        <lastmod>2026-06-08T09:39:00.96Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/little-simz" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/little-simz" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/little-simz" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/tessa</loc>
+        <lastmod>2026-06-08T09:40:07.687Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/tessa" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/tessa" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/tessa" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/yung-lean-bladee</loc>
+        <lastmod>2026-06-08T09:40:32.277Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/yung-lean-bladee" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/yung-lean-bladee" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/yung-lean-bladee" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/zara-larsson</loc>
+        <lastmod>2026-06-08T09:40:33.51Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/zara-larsson" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/zara-larsson" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/zara-larsson" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/audrey-nuna</loc>
+        <lastmod>2026-06-08T09:36:41.12Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/audrey-nuna" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/audrey-nuna" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/audrey-nuna" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/esdeekid</loc>
+        <lastmod>2026-06-08T09:38:19.39Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/esdeekid" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/esdeekid" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/esdeekid" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/mille</loc>
+        <lastmod>2026-06-08T09:39:20.127Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/mille" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/mille" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/mille" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/oklou</loc>
+        <lastmod>2026-06-08T09:39:25.123Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/oklou" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/oklou" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/oklou" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/royel-otis</loc>
+        <lastmod>2026-06-08T09:39:43.457Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/royel-otis" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/royel-otis" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/royel-otis" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/annie-and-the-caldwells</loc>
+        <lastmod>2026-06-08T09:36:39.337Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/annie-and-the-caldwells" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/annie-and-the-caldwells" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/annie-and-the-caldwells" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ata-kak</loc>
+        <lastmod>2026-06-08T09:36:40.55Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ata-kak" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ata-kak" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ata-kak" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/bruno-berle</loc>
+        <lastmod>2026-06-08T09:37:56.76Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/bruno-berle" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/bruno-berle" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/bruno-berle" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-callous-daoboys</loc>
+        <lastmod>2026-06-08T09:40:08.27Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-callous-daoboys" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-callous-daoboys" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-callous-daoboys" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ecca-vandal</loc>
+        <lastmod>2026-06-08T09:38:16.673Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ecca-vandal" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ecca-vandal" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ecca-vandal" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/no-joy</loc>
+        <lastmod>2026-06-10T09:40:05.857Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/no-joy" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/no-joy" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/no-joy" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/rizwan-muazzam-qawwali</loc>
+        <lastmod>2026-06-08T09:39:42.243Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/rizwan-muazzam-qawwali" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/rizwan-muazzam-qawwali" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/rizwan-muazzam-qawwali" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/rochelle-jordan</loc>
+        <lastmod>2026-07-04T22:13:04.667Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/rochelle-jordan" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/rochelle-jordan" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/rochelle-jordan" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sherelle</loc>
+        <lastmod>2026-06-08T09:39:48.3Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sherelle" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sherelle" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sherelle" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/tonser</loc>
+        <lastmod>2026-06-08T09:40:20.667Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/tonser" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/tonser" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/tonser" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/uld</loc>
+        <lastmod>2026-06-08T09:40:22.887Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/uld" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/uld" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/uld" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/vgtblpl</loc>
+        <lastmod>2026-06-08T09:40:25.817Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/vgtblpl" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/vgtblpl" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/vgtblpl" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/yerai-cortes</loc>
+        <lastmod>2026-06-08T09:40:30.16Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/yerai-cortes" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/yerai-cortes" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/yerai-cortes" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/cat-clyde</loc>
+        <lastmod>2026-06-08T09:37:58.75Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/cat-clyde" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/cat-clyde" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/cat-clyde" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/cortisa-star</loc>
+        <lastmod>2026-06-08T09:38:01.463Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/cortisa-star" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/cortisa-star" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/cortisa-star" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/crrdr</loc>
+        <lastmod>2026-06-08T09:38:02.013Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/crrdr" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/crrdr" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/crrdr" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/dying-wish</loc>
+        <lastmod>2026-06-08T09:38:16.01Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/dying-wish" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/dying-wish" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/dying-wish" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/frost-children</loc>
+        <lastmod>2026-06-08T09:38:22.057Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/frost-children" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/frost-children" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/frost-children" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/jane-remover</loc>
+        <lastmod>2026-06-08T09:38:41.533Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/jane-remover" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/jane-remover" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/jane-remover" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/jorjiana</loc>
+        <lastmod>2026-06-08T09:38:43.56Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/jorjiana" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/jorjiana" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/jorjiana" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kettama</loc>
+        <lastmod>2026-06-08T09:38:46.613Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kettama" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kettama" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kettama" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/khana-bierbood</loc>
+        <lastmod>2026-06-08T09:38:47.167Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/khana-bierbood" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/khana-bierbood" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/khana-bierbood" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kin-gongolo-kiniata</loc>
+        <lastmod>2026-06-08T09:38:47.723Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kin-gongolo-kiniata" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kin-gongolo-kiniata" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kin-gongolo-kiniata" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kroeyer</loc>
+        <lastmod>2026-06-08T09:38:56.73Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kroeyer" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kroeyer" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kroeyer" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/luisa-almaguer</loc>
+        <lastmod>2026-06-08T09:39:04.247Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/luisa-almaguer" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/luisa-almaguer" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/luisa-almaguer" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/mark-william-lewis</loc>
+        <lastmod>2026-06-08T09:39:07.233Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/mark-william-lewis" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/mark-william-lewis" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/mark-william-lewis" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/nick-leon</loc>
+        <lastmod>2026-06-08T09:39:23.317Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/nick-leon" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/nick-leon" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/nick-leon" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/nourished-by-time</loc>
+        <lastmod>2026-06-08T09:39:24.583Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/nourished-by-time" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/nourished-by-time" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/nourished-by-time" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/wicky</loc>
+        <lastmod>2026-06-26T10:40:22.037Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/wicky" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/wicky" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/wicky" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-zawose-queens</loc>
+        <lastmod>2026-06-08T09:40:11.603Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-zawose-queens" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-zawose-queens" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-zawose-queens" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/guldimund</loc>
+        <lastmod>2026-06-22T14:42:55.397Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/guldimund" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/guldimund" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/guldimund" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/jade</loc>
+        <lastmod>2026-06-08T09:38:39.793Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/jade" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/jade" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/jade" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/napalm-death</loc>
+        <lastmod>2026-06-08T09:39:22.68Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/napalm-death" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/napalm-death" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/napalm-death" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/smerz</loc>
+        <lastmod>2026-06-08T09:40:02.657Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/smerz" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/smerz" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/smerz" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/lily-allen</loc>
+        <lastmod>2026-06-09T15:12:42.67Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/lily-allen" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/lily-allen" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/lily-allen" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/clipse</loc>
+        <lastmod>2026-06-08T09:37:59.9Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/clipse" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/clipse" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/clipse" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sammy-virji</loc>
+        <lastmod>2026-06-08T09:39:46.26Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sammy-virji" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sammy-virji" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sammy-virji" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/addison-rae</loc>
+        <lastmod>2026-06-08T09:36:35.413Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/addison-rae" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/addison-rae" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/addison-rae" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kwn</loc>
+        <lastmod>2026-06-08T09:38:57.647Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kwn" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kwn" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kwn" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/wolf-alice</loc>
+        <lastmod>2026-06-08T09:40:29.24Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/wolf-alice" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/wolf-alice" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/wolf-alice" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/lykke-li</loc>
+        <lastmod>2026-06-08T09:39:04.85Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/lykke-li" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/lykke-li" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/lykke-li" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/marwan-moussa</loc>
+        <lastmod>2026-06-08T09:39:16.03Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/marwan-moussa" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/marwan-moussa" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/marwan-moussa" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/honningbarna</loc>
+        <lastmod>2026-06-08T09:38:35.873Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/honningbarna" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/honningbarna" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/honningbarna" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/bb-trickz</loc>
+        <lastmod>2026-06-08T09:36:43.523Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/bb-trickz" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/bb-trickz" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/bb-trickz" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/indus</loc>
+        <lastmod>2026-06-08T09:38:39.06Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/indus" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/indus" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/indus" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sorry</loc>
+        <lastmod>2026-06-08T09:40:05.383Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sorry" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sorry" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sorry" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/tuvaband</loc>
+        <lastmod>2026-06-08T09:40:21.79Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/tuvaband" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/tuvaband" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/tuvaband" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sara-parkman</loc>
+        <lastmod>2026-06-08T09:39:46.82Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sara-parkman" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sara-parkman" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sara-parkman" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/truck-violence</loc>
+        <lastmod>2026-06-08T09:40:21.253Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/truck-violence" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/truck-violence" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/truck-violence" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/madra-salach</loc>
+        <lastmod>2026-06-08T09:39:05.517Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/madra-salach" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/madra-salach" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/madra-salach" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/aphaca</loc>
+        <lastmod>2026-06-08T09:36:39.987Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/aphaca" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/aphaca" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/aphaca" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/uncle-acid-the-deadbeats</loc>
+        <lastmod>2026-06-08T09:40:23.447Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/uncle-acid-the-deadbeats" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/uncle-acid-the-deadbeats" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/uncle-acid-the-deadbeats" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/liniker</loc>
+        <lastmod>2026-06-08T09:39:00.36Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/liniker" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/liniker" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/liniker" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/los-thuthanaka</loc>
+        <lastmod>2026-07-03T12:40:42.353Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/los-thuthanaka" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/los-thuthanaka" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/los-thuthanaka" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/vanessa-amara</loc>
+        <lastmod>2026-06-08T09:40:25.247Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/vanessa-amara" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/vanessa-amara" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/vanessa-amara" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sirom</loc>
+        <lastmod>2026-06-08T09:39:59.957Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sirom" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sirom" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sirom" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/naika</loc>
+        <lastmod>2026-06-08T09:39:22.017Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/naika" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/naika" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/naika" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/lamisi</loc>
+        <lastmod>2026-07-03T12:40:42.623Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/lamisi" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/lamisi" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/lamisi" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/los-mirlos</loc>
+        <lastmod>2026-06-08T09:39:03.02Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/los-mirlos" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/los-mirlos" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/los-mirlos" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/lord-snow</loc>
+        <lastmod>2026-06-08T09:39:02.263Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/lord-snow" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/lord-snow" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/lord-snow" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/gwenifer-raymond</loc>
+        <lastmod>2026-06-08T09:38:26.253Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/gwenifer-raymond" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/gwenifer-raymond" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/gwenifer-raymond" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/1111</loc>
+        <lastmod>2026-06-08T09:36:33.643Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/1111" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/1111" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/1111" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/chezile</loc>
+        <lastmod>2026-06-08T09:37:59.36Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/chezile" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/chezile" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/chezile" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/100wet</loc>
+        <lastmod>2026-06-08T09:36:33.1Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/100wet" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/100wet" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/100wet" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/a-good-year</loc>
+        <lastmod>2026-06-08T09:36:34.26Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/a-good-year" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/a-good-year" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/a-good-year" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/augusta-schackinger</loc>
+        <lastmod>2026-06-08T09:36:41.7Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/augusta-schackinger" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/augusta-schackinger" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/augusta-schackinger" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/berg</loc>
+        <lastmod>2026-06-08T09:37:54.917Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/berg" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/berg" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/berg" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/carlina-de-place</loc>
+        <lastmod>2026-06-08T09:37:58.2Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/carlina-de-place" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/carlina-de-place" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/carlina-de-place" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/diket</loc>
+        <lastmod>2026-06-08T09:38:07.063Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/diket" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/diket" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/diket" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/eros-for-you</loc>
+        <lastmod>2026-06-08T09:38:18.827Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/eros-for-you" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/eros-for-you" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/eros-for-you" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/glayden</loc>
+        <lastmod>2026-06-08T09:38:24.007Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/glayden" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/glayden" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/glayden" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ida-duelund</loc>
+        <lastmod>2026-06-08T09:38:37.163Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ida-duelund" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ida-duelund" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ida-duelund" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/karoline-mousing</loc>
+        <lastmod>2026-06-08T09:38:44.913Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/karoline-mousing" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/karoline-mousing" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/karoline-mousing" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kayak</loc>
+        <lastmod>2026-06-08T09:38:45.517Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kayak" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kayak" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kayak" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/kōya</loc>
+        <lastmod>2026-06-08T09:38:55.463Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/kōya" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/kōya" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/kōya" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/miaw</loc>
+        <lastmod>2026-06-10T09:28:02.827Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/miaw" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/miaw" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/miaw" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/michael-williams</loc>
+        <lastmod>2026-06-08T09:39:18.407Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/michael-williams" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/michael-williams" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/michael-williams" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ozzy</loc>
+        <lastmod>2026-06-08T09:39:26.38Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ozzy" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ozzy" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ozzy" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/alawari</loc>
+        <lastmod>2026-06-08T09:36:36.573Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/alawari" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/alawari" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/alawari" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/alice-ai</loc>
+        <lastmod>2026-06-08T09:36:37.693Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/alice-ai" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/alice-ai" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/alice-ai" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ana-juel</loc>
+        <lastmod>2026-06-08T09:36:38.29Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ana-juel" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ana-juel" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ana-juel" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/club-live</loc>
+        <lastmod>2026-06-08T09:38:00.427Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/club-live" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/club-live" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/club-live" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/demersal</loc>
+        <lastmod>2026-06-08T09:38:06.153Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/demersal" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/demersal" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/demersal" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/dork</loc>
+        <lastmod>2026-06-08T09:38:14.6Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/dork" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/dork" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/dork" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/doetre</loc>
+        <lastmod>2026-06-08T09:38:15.153Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/doetre" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/doetre" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/doetre" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/fauna</loc>
+        <lastmod>2026-06-08T09:38:20.847Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/fauna" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/fauna" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/fauna" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/gb</loc>
+        <lastmod>2026-06-08T09:38:22.67Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/gb" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/gb" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/gb" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/grande-mahogany</loc>
+        <lastmod>2026-06-08T09:38:25.137Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/grande-mahogany" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/grande-mahogany" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/grande-mahogany" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/mami-umami</loc>
+        <lastmod>2026-06-08T09:39:06.627Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/mami-umami" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/mami-umami" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/mami-umami" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/masiv</loc>
+        <lastmod>2026-06-08T09:39:17.203Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/masiv" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/masiv" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/masiv" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/muskila-plus-simona-abdallah</loc>
+        <lastmod>2026-06-08T09:39:21.47Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/muskila-plus-simona-abdallah" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/muskila-plus-simona-abdallah" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/muskila-plus-simona-abdallah" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/pistol-pistol-pistol</loc>
+        <lastmod>2026-06-08T09:39:38.53Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/pistol-pistol-pistol" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/pistol-pistol-pistol" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/pistol-pistol-pistol" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/ponny</loc>
+        <lastmod>2026-06-08T09:39:39.783Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/ponny" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/ponny" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/ponny" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/portal-pets</loc>
+        <lastmod>2026-06-08T09:39:40.387Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/portal-pets" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/portal-pets" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/portal-pets" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/pumpegris</loc>
+        <lastmod>2026-06-08T09:39:41.537Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/pumpegris" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/pumpegris" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/pumpegris" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/sa_g</loc>
+        <lastmod>2026-06-08T09:39:44.063Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/sa_g" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/sa_g" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/sa_g" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/salver</loc>
+        <lastmod>2026-06-08T09:39:45.19Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/salver" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/salver" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/salver" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/scam</loc>
+        <lastmod>2026-06-08T09:39:47.517Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/scam" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/scam" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/scam" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/smoegmaend</loc>
+        <lastmod>2026-06-08T09:40:03.193Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/smoegmaend" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/smoegmaend" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/smoegmaend" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/spawner</loc>
+        <lastmod>2026-06-08T09:40:05.963Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/spawner" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/spawner" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/spawner" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/zuloo</loc>
+        <lastmod>2026-06-08T09:40:34.097Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/zuloo" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/zuloo" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/zuloo" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/morild</loc>
+        <lastmod>2026-06-08T09:39:20.893Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/morild" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/morild" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/morild" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/oskar-witt</loc>
+        <lastmod>2026-06-08T09:39:25.69Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/oskar-witt" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/oskar-witt" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/oskar-witt" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/will</loc>
+        <lastmod>2026-06-08T09:40:28.293Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/will" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/will" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/will" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/pil</loc>
+        <lastmod>2026-06-08T09:39:37.287Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/pil" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/pil" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/pil" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/tv-2</loc>
+        <lastmod>2026-06-22T14:44:20.387Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/tv-2" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/tv-2" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/tv-2" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/igorrr</loc>
+        <lastmod>2026-06-08T09:38:38.467Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/igorrr" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/igorrr" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/igorrr" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/the-savage-rose</loc>
+        <lastmod>2026-07-02T11:56:20.947Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/the-savage-rose" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/the-savage-rose" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/the-savage-rose" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/young-miko</loc>
+        <lastmod>2026-06-10T09:38:43.027Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/young-miko" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/young-miko" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/young-miko" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/zar-paulo</loc>
+        <lastmod>2026-06-08T09:40:32.937Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/zar-paulo" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/zar-paulo" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/zar-paulo" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/albertslund-terror-korps</loc>
+        <lastmod>2026-06-10T09:42:45.23Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/albertslund-terror-korps" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/albertslund-terror-korps" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/albertslund-terror-korps" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/angaaende-mig</loc>
+        <lastmod>2026-06-08T09:36:38.787Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/angaaende-mig" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/angaaende-mig" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/angaaende-mig" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/aysay</loc>
+        <lastmod>2026-06-08T09:36:42.28Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/aysay" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/aysay" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/aysay" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/blawan</loc>
+        <lastmod>2026-06-08T09:37:56Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/blawan" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/blawan" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/blawan" />
+      </url><url>
+        <loc>https://www.roskilde-festival.dk/program/musik/cuirass</loc>
+        <lastmod>2026-06-08T09:38:02.55Z</lastmod>
+      <xhtml:link rel="alternate" hreflang="en" href="https://www.roskilde-festival.dk/en/line-up/music/cuirass" /><xhtml:link rel="alternate" hreflang="da" href="https://www.roskilde-festival.dk/program/musik/cuirass" /><xhtml:link rel="alternate" hreflang="x-default" href="https://www.roskilde-festival.dk/program/musik/
+<!-- TRIMMED BY recon.mjs -->

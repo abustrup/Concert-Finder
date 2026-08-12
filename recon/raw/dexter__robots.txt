@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://dexter.dk/sitemap.xml

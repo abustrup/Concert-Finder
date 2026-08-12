@@ -1,0 +1,1794 @@
+<!doctype html>
+<html lang="da-DK">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PL23LCQ');</script>
+  <!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;500;700;800&display=swap" rel="stylesheet">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Program - Gimle</title>
+	<link rel="canonical" href="https://gimle.dk/program/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Program - Gimle" />
+	<meta property="og:url" content="https://gimle.dk/program/" />
+	<meta property="og:site_name" content="Gimle" />
+	<meta property="article:modified_time" content="2022-02-16T11:51:06+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/gimle.dk\/program\/","url":"https:\/\/gimle.dk\/program\/","name":"Program - Gimle","isPartOf":{"@id":"https:\/\/gimle.dk\/#website"},"datePublished":"2022-02-16T11:51:05+00:00","dateModified":"2022-02-16T11:51:06+00:00","breadcrumb":{"@id":"https:\/\/gimle.dk\/program\/#breadcrumb"},"inLanguage":"da-DK","potentialAction":[{"@type":"ReadAction","target":["https:\/\/gimle.dk\/program\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/gimle.dk\/program\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/gimle.dk\/"},{"@type":"ListItem","position":2,"name":"Program"}]},{"@type":"WebSite","@id":"https:\/\/gimle.dk\/#website","url":"https:\/\/gimle.dk\/","name":"Gimle","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/gimle.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//gimle.billetten.dk' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://gimle.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgimle.dk%2Fprogram%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://gimle.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgimle.dk%2Fprogram%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='ub-extension-style-css-css' href='https://gimle.dk/wp-content/plugins/ultimate-blocks/src/extensions/style.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='msl-main-css' href='https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.11.2' media='all' />
+<link rel='stylesheet' id='msl-custom-css' href='https://gimle.dk/wp-content/uploads/master-slider/custom.css?ver=1.4' media='all' />
+<link rel='stylesheet' id='sage/main.css-css' href='https://gimle.dk/wp-content/themes/wordpress_gimle/dist/styles/main_bb40d6eb.css' media='all' />
+<link rel='stylesheet' id='bwps-basm-style-css' href='https://gimle.billetten.dk/basm/css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://gimle.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://gimle.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="bwps-basm-script-js" src="https://gimle.billetten.dk/basm/sbasm-script?ver=7.0.4"></script>
+<script id="bwps-basm-addon-script-js" src="https://gimle.dk/wp-content/plugins/bwps/BWPS/../assets/js/basm/addon.js?ver=7.0.4"></script>
+<link rel="https://api.w.org/" href="https://gimle.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://gimle.dk/wp-json/wp/v2/pages/133" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gimle.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.4" />
+<link rel='shortlink' href='https://gimle.dk/?p=133' />
+<script>var ms_grabbing_curosr = 'https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.11.2 - Responsive Touch Image Slider | avt.li/msf" />
+<link rel="icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-270x270.png" />
+  <meta name="facebook-domain-verification" content="k8flrdk4wqypp8iifiqo049ofrlfzi" />
+</head>
+  <body class="wp-singular page-template page-template-template-archive-bwps template-archive-bwps page page-id-133 wp-theme-wordpress_gimleresources _masterslider _ms_version_3.11.2 linda-p app-data index-data singular-data page-data page-133-data page-program-data template-archive-bwps-data">
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL23LCQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <div class="topmenu">
+  <span class="social-list">
+    <a href="https://www.facebook.com/GimleRoskilde/" target="_blank"><span class="icon-facebook-1"></span></a>
+    <a href="https://www.instagram.com/gimle_roskilde/" target="_blank"><span class="icon-instagram"></span></a>
+  </span>
+</div>
+<header class="banner">
+  <div class="container">
+    <a class="brand" href="https://gimle.dk/"><img src="https://gimle.dk/wp-content/themes/wordpress_gimle/dist/images/logo_e15c8bd7.svg" /></a>
+    <nav class="nav-primary">
+      <div class="close-menu d-xl-none"><i class="icon-plus"></i></div>
+              <div class="nav_container"><ul id="menu-menu-1" class="nav"><li id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-122"><a href="/program/" aria-current="page">Program</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158"><a href="#">Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a href="https://gimle.dk/billetter/">Billetter</a></li>
+	<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a href="https://gimle.dk/gavekort/">Gavekort</a></li>
+	<li id="menu-item-589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href="https://gimle.dk/gimle-for-boern/">Gimle for børn</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href="https://gimle.dk/tilgaengelighed/">Tilgængelighed</a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587"><a href="https://gimle.dk/faq/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-159"><a href="#">Om Gimle</a>
+<ul class="sub-menu">
+	<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://gimle.dk/nyheder/">Nyheder</a></li>
+	<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="https://gimle.dk/frivillighed/">Frivillighed</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="https://gimle.dk/booking/">Booking</a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="https://gimle.dk/organisation/">Organisation</a></li>
+	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://gimle.dk/teknisk-info/">Teknisk info</a></li>
+	<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="https://gimle.dk/udlejning/">Udlejning</a></li>
+	<li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="https://gimle.dk/ledige-stillinger/">Ledige stillinger</a></li>
+	<li id="menu-item-608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608"><a href="https://gimle.dk/kontakt/">Kontakt</a></li>
+</ul>
+</li>
+<li id="menu-item-532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-532"><a href="/galleri">Koncertfotos</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-160"><a href="#">The Raven</a>
+<ul class="sub-menu">
+	<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://gimle.dk/menu/">Menu</a></li>
+	<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a href="https://gimle.dk/esc-og-international-volunteers/">ESC &#038; international volunteers</a></li>
+	<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="https://gimle.dk/arrangementer/">Arrangementer</a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="https://gimle.dk/aabningstider-info/">Åbningstider &#038; info</a></li>
+</ul>
+</li>
+</ul></div>
+          </nav>
+    <ul class="nav_right_menu">
+      <li>
+        <a class="search_trigger" href="#"><i class="icon-search-1"></i></a>
+      </li>
+      <li>
+        <a class="user_link basm basm_profile_btn" href="#"><i class="icon-user-o"></i></a>
+      </li>
+      <li class="basket_link basm basm_basket_btn" href="#">
+          <i class="icon-shopping-basket"></i>
+          <span class="basm basm_basket_indicator">
+              <span class="basm basm_basket_count">0</span>
+          </span>
+      </li>
+      <li class="menu_trigger d-xl-none">
+        <i class="icon-menu"></i>
+      </li>
+    </ul>
+  </div>
+  <div class="container searchBar_fp searchBar_header">
+      <form class="search-form form-inline" action="https://gimle.dk/" method="get" role="search">
+          <label class="sr-only"></label>
+          <input class="searchInput" type="search" required="" placeholder="Søg" name="s" value=""></input>
+          <button class="searchButton solid" type="submit">
+            <span class="icon-search-1" aria-hidden="true"></span>
+          </button>
+      </form>
+  </div>
+</header>
+    <div class="wrap container" role="document">
+      <div class="content">
+        <main class="main">
+            <div class="container">
+      <div class="program_top_wrap">
+                <div class="kalendar-header">
+            <h1 class="section-header">Program</h1>                    
+            <h6 class="filter-toggle">Søg i program <i class="icon-search-1"></i></h6>
+        </div>
+      </div>
+      <div class="filter-wrap">
+        <div class="filter-wrap_left">
+          <p class="filter-title">Arrangement</p>
+          <input id="search" type="text" class="media-boxes-search" name="filter-by-text" placeholder="Søg arrangement..." />
+        </div>
+        <div class="filter-wrap_right">
+          <p class="filter-title">Genre</p>
+          <ul class="media-boxes-filter" id="filter"><li><a class="single_category" href="#" data-filter="*"><i class="icon-alle"></i><p>Alle</p></a></li><li class="category-andet""><a href="#" class="single_category" data-filter=".category-andet"><i class="icon-andet"></i><p>Andet</p></a></li><li class="category-born""><a href="#" class="single_category" data-filter=".category-born"><i class="icon-born"></i><p>Børn</p></a></li><li class="category-byparkskoncert""><a href="#" class="single_category" data-filter=".category-byparkskoncert"><i class="icon-byparkskoncert"></i><p>Byparkskoncert</p></a></li><li class="category-comedy""><a href="#" class="single_category" data-filter=".category-comedy"><i class="icon-comedy"></i><p>Comedy</p></a></li><li class="category-folk""><a href="#" class="single_category" data-filter=".category-folk"><i class="icon-folk"></i><p>Folk</p></a></li><li class="category-hiphop""><a href="#" class="single_category" data-filter=".category-hiphop"><i class="icon-hiphop"></i><p>Hiphop</p></a></li><li class="category-jazz""><a href="#" class="single_category" data-filter=".category-jazz"><i class="icon-jazz"></i><p>Jazz</p></a></li><li class="category-metal-metal""><a href="#" class="single_category" data-filter=".category-metal-metal"><i class="icon-metal-metal"></i><p>Metal</p></a></li><li class="category-metal""><a href="#" class="single_category" data-filter=".category-metal"><i class="icon-metal"></i><p>Metal</p></a></li><li class="category-pop""><a href="#" class="single_category" data-filter=".category-pop"><i class="icon-pop"></i><p>Pop</p></a></li><li class="category-punk""><a href="#" class="single_category" data-filter=".category-punk"><i class="icon-punk"></i><p>Punk</p></a></li><li class="category-rock""><a href="#" class="single_category" data-filter=".category-rock"><i class="icon-rock"></i><p>Rock</p></a></li><li class="category-the-raven""><a href="#" class="single_category" data-filter=".category-the-raven"><i class="icon-the-raven"></i><p>The Raven</p></a></li><li class="category-uncategorized""><a href="#" class="single_category" data-filter=".category-uncategorized"><i class="icon-uncategorized"></i><p>Uncategorized</p></a></li></ul>        </div>
+      </div>
+                                <div id="grid" class="event-tiles no-gutter">
+                              <div class="event-tile animate__animated media-box 20-aar-i-tanken post-15313 bwps type-bwps status-publish has-post-thumbnail hentry category-andet">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/06/20aariTanken_Event-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/20-aar-i-tanken/" class="event-tile-link">
+    <article class="post-15313 bwps type-bwps status-publish has-post-thumbnail hentry category-andet">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>14</p><p class='showmonth'>aug. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">20 år i Tanken</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box spurv post-15490 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/Untitled-August-11-2026-at-09.56.12-2-1-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/spurv/" class="event-tile-link">
+    <article class="post-15490 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>15</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">NEW!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">THE RAVEN</span>
+              <h2 class="entry-title">SPURV</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box ria-festival post-15416 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/07/Ria-Festival_kvadrat.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/ria-festival/" class="event-tile-link">
+    <article class="post-15416 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>22</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Ria Festival</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box the-raven-session post-15486 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/Senza-titolo-29-luglio-2026-alle-ore-15.10.37-3-1-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/the-raven-session/" class="event-tile-link">
+    <article class="post-15486 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>28</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">New!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">THE RAVEN</span>
+              <h2 class="entry-title">THE RAVEN SESSION</h2>
+              <span class="undertitle">ODE, PHOTOGENIC AND NOOSE</span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-sebastian-klein-verdens-mest-beroemte-dyr post-15457 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-sebastian-klein-verdens-mest-beroemte-dyr/" class="event-tile-link">
+    <article class="post-15457 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>30</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Sebastian Klein &#8211; Verdens mest berømte dyr!</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box klamedia-live post-13586 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-ung location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/Klamedia-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/klamedia-live/" class="event-tile-link">
+    <article class="post-13586 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-ung location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>02</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">KLAMEDIA LIVE</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box nikolaj-stokholm post-11306 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/03/NikolajStokholm.jpeg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/nikolaj-stokholm/" class="event-tile-link">
+    <article class="post-11306 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>03</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">FÅ BILLETTER!</p><br /><p class="status">Show kl. 18.00</p><br /><p class="status">Show kl. 20.30</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Nikolaj Stokholm feat. Stokkefar</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box nikolaj-stokholm-feat-stokkefar post-12820 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/10/NikolajStokholm.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/nikolaj-stokholm-feat-stokkefar/" class="event-tile-link">
+    <article class="post-12820 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br /><p class="status">Show kl. 18.00</p><br /><p class="status">Show kl. 20.30</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Nikolaj Stokholm feat. Stokkefar</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box eight-days-a-week post-12087 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/06/EightDaysAWeek26-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/eight-days-a-week/" class="event-tile-link">
+    <article class="post-12087 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Eight Days A Week</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box solipsy-stugg-silent-fracture post-15183 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/06/Untitled-June-01-2026-at-10.14.46.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/solipsy-stugg-silent-fracture/" class="event-tile-link">
+    <article class="post-15183 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">NYHED!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Solipsy + Stügg + Silent Fracture</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box generation-metal-baest post-14587 bwps type-bwps status-publish has-post-thumbnail hentry category-born category-metal tag-generationmetal tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/generation-metal_baest_1080x1080px_v01-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/generation-metal-baest/" class="event-tile-link">
+    <article class="post-14587 bwps type-bwps status-publish has-post-thumbnail hentry category-born category-metal tag-generationmetal tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>06</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">GENERATION METAL</span>
+              <h2 class="entry-title">BAEST</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box povls-sange-dissing-las post-14000 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/01/Untitled-22.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/povls-sange-dissing-las/" class="event-tile-link">
+    <article class="post-14000 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>10</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Povls Sange &#8211; Dissing &#038; Las</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box elias-roennenfelt post-12817 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/10/EliasRoennenfeltE26-1-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/elias-roennenfelt/" class="event-tile-link">
+    <article class="post-12817 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>11</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Elias Rønnenfelt</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-silent-fit-for-boern-dans-leg-og-grin-paa-gimle post-15459 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-2.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-silent-fit-for-boern-dans-leg-og-grin-paa-gimle/" class="event-tile-link">
+    <article class="post-15459 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>13</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Silent FIT for børn &#8211; dans, leg og grin på Gimle</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folk-roskilde-lea-kampmann-nioma post-15162 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/Lea-Kampmann-Nioma-1000x1000px-v2-1.jpg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folk-roskilde-lea-kampmann-nioma/" class="event-tile-link">
+    <article class="post-15162 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>16</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Folk Roskilde</span>
+              <h2 class="entry-title">Lea Kampmann &amp; Nioma</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box peter-werner-2 post-13655 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/PeterWerner-1-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/peter-werner-2/" class="event-tile-link">
+    <article class="post-13655 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>17</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">FÅ BILLETTER!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Peter Werner</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box familien post-15082 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/Familien.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/familien/" class="event-tile-link">
+    <article class="post-15082 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>18</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Familien</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box sebastian-wolff post-12976 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/10/Untitled-3.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/sebastian-wolff/" class="event-tile-link">
+    <article class="post-12976 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>19</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">SEBASTIAN WOLFF</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-stand-up-paddle post-15463 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-himmelsoeen">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-3.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-stand-up-paddle/" class="event-tile-link">
+    <article class="post-15463 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-himmelsoeen">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>20</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Stand up paddle</h2>
+              <span class="undertitle">Ved Himmelsøen</span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box apocalypse-orchestra-trold-morgarten post-14713 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/04/ApocalypseMfl-1-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/apocalypse-orchestra-trold-morgarten/" class="event-tile-link">
+    <article class="post-14713 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>23</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Apocalypse Orchestra (SE) &#038; Trold (DK) &#038; Morgarten (CH)</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box caecilie-norby post-14222 bwps type-bwps status-publish has-post-thumbnail hentry category-jazz location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/CaecilieNorby.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/caecilie-norby/" class="event-tile-link">
+    <article class="post-14222 bwps type-bwps status-publish has-post-thumbnail hentry category-jazz location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>25</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Cæcilie Norby</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box lydsyn post-15093 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/LydsynE26-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/lydsyn/" class="event-tile-link">
+    <article class="post-15093 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>26</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br /><p class="status">ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Lydsyn</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-raketvaerksted post-15464 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-5.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-raketvaerksted/" class="event-tile-link">
+    <article class="post-15464 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>27</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Raketværksted</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box claus-hempler-2 post-15195 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/04/ClausHempler.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/claus-hempler-2/" class="event-tile-link">
+    <article class="post-15195 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>30</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ekstrashow!</p><br /><p class="status">FÅ Billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Claus Hempler</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box claus-hempler post-14821 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/04/ClausHempler.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/claus-hempler/" class="event-tile-link">
+    <article class="post-14821 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>01</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Udsolgt!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Claus Hempler</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box specialklassen post-12727 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/10/Specialklassen.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/specialklassen/" class="event-tile-link">
+    <article class="post-12727 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>02</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">SPECIALKLASSEN &#8211; ER DET FOR MEGET?</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box afskum post-14651 bwps type-bwps status-publish has-post-thumbnail hentry category-hiphop category-rock tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/afskum-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/afskum/" class="event-tile-link">
+    <article class="post-14651 bwps type-bwps status-publish has-post-thumbnail hentry category-hiphop category-rock tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>02</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">AFSKUM</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box rasmus-walter post-13458 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/11/RasmusWalter-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/rasmus-walter/" class="event-tile-link">
+    <article class="post-13458 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>03</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Rasmus Walter</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box wafande post-14419 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/Wafande.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/wafande/" class="event-tile-link">
+    <article class="post-14419 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn X Gimle</span>
+              <h2 class="entry-title">Wafande</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box rikke-thomsen post-13767 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/01/RikkeThomsenE26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/rikke-thomsen/" class="event-tile-link">
+    <article class="post-13767 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>07</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Rikke Thomsen &#038; Æ Knajte</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box poul-krebs post-12531 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/09/Unavngivet-15.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/poul-krebs/" class="event-tile-link">
+    <article class="post-12531 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>08</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">UDSOLGT!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Poul Krebs &#8211; Akustisk</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box italobrothers-barcode-brothers-hampenberg-x-brown-x-yeph post-13727 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/ITALOBROTHERSxBARCODECROTHERSxHAMPENBERG-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/italobrothers-barcode-brothers-hampenberg-x-brown-x-yeph/" class="event-tile-link">
+    <article class="post-13727 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>09</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">ITALOBROTHERS &#8211; BARCODE BROTHERS &#8211; HAMPENBERG X BROWN X YEPHA</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box milling-molbech-bee-gees post-12699 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/09/MillingMolbechBeeGees.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/milling-molbech-bee-gees/" class="event-tile-link">
+    <article class="post-12699 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>10</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Milling &#038; Molbech: Bee Gees</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-sondag-underfundigt-borneteater post-15461 bwps type-bwps status-publish has-post-thumbnail hentry category-born">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-4.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-sondag-underfundigt-borneteater/" class="event-tile-link">
+    <article class="post-15461 bwps type-bwps status-publish has-post-thumbnail hentry category-born">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>11</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">SØNDAG &#8211; underfundigt børneteater</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box kasper-winding post-14304 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/KasperWinding-2.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/kasper-winding/" class="event-tile-link">
+    <article class="post-14304 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>15</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Kasper Winding</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box comedy-club-open-mic-2-2 post-14405 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/08/Gimle-Comedy-Club-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/comedy-club-open-mic-2-2/" class="event-tile-link">
+    <article class="post-14405 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>20</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Comedy Club</span>
+              <h2 class="entry-title">Comedy Club &#8211; Open Mic</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box barselona post-14243 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/BarselonaE26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/barselona/" class="event-tile-link">
+    <article class="post-14243 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>22</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Barselona</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box ella-augusta post-14219 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/EllaAugusta.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/ella-augusta/" class="event-tile-link">
+    <article class="post-14219 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>23</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Ella Augusta</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folkeklubben-og-danmarks-underholdningsorkester post-13487 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/FolkeklubbenDUO.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folkeklubben-og-danmarks-underholdningsorkester/" class="event-tile-link">
+    <article class="post-13487 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>24</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Folkeklubben &#038; Danmarks Underholdnings-orkester</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-rosas-stoerste-hits post-15465 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-6.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-rosas-stoerste-hits/" class="event-tile-link">
+    <article class="post-15465 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>25</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Rosas største hits</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folk-roskilde-erik-grip-solo post-14736 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/04/EripGrip.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folk-roskilde-erik-grip-solo/" class="event-tile-link">
+    <article class="post-14736 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>27</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Folk Roskilde</span>
+              <h2 class="entry-title">Erik Grip Solo</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box nicklas-sahl post-14685 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/NicklasSahl.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/nicklas-sahl/" class="event-tile-link">
+    <article class="post-14685 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>28</p><p class='showmonth'>okt. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Nicklas Sahl</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box carpark-north post-12977 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/11/Untitled-4.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/carpark-north/" class="event-tile-link">
+    <article class="post-12977 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>30</p><p class='showmonth'>okt. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">UDSOLGT!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Carpark North</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-aekle-jazzede-aeventyr post-15469 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-7.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-aekle-jazzede-aeventyr/" class="event-tile-link">
+    <article class="post-15469 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>01</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Ækle Jazzede æventyr</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box eva-jin-2 post-13479 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/11/EvaJin-1-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/eva-jin-2/" class="event-tile-link">
+    <article class="post-13479 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ekstrashow!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Eva Jin</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box kind-mod-kind post-14652 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/KindModKind.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/kind-mod-kind/" class="event-tile-link">
+    <article class="post-14652 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Kind mod Kind</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box tv-2 post-14420 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/TV2_E26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/tv-2/" class="event-tile-link">
+    <article class="post-14420 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">UDSOLGT!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">TV-2 &#8211; Alt for meget larm</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box zar-paulo post-13899 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/01/ZarPaulo.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/zar-paulo/" class="event-tile-link">
+    <article class="post-13899 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>06</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Zar Paulo</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box satiregruppen-magt post-12697 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/09/SatiregruppenMagt.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/satiregruppen-magt/" class="event-tile-link">
+    <article class="post-12697 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>07</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Show kl. 16.00!</p><br /><p class="status">Show kl. 19.30!</p><br /><p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">SATIREGRUPPEN MAGT</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-seje-fodboldtricks post-15470 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-8.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-seje-fodboldtricks/" class="event-tile-link">
+    <article class="post-15470 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>08</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Seje fodboldtricks</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folk-roskilde-david-francey post-14226 bwps type-bwps status-publish has-post-thumbnail hentry tag-folkroskilde location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/David_Francey_1_1000x1000-1-e1771930415982.jpg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folk-roskilde-david-francey/" class="event-tile-link">
+    <article class="post-14226 bwps type-bwps status-publish has-post-thumbnail hentry tag-folkroskilde location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>11</p><p class='showmonth'>nov. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Folk Roskilde</span>
+              <h2 class="entry-title">David Francey</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box pil post-14593 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/PilE26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/pil/" class="event-tile-link">
+    <article class="post-14593 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>12</p><p class='showmonth'>nov. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Pil</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-laer-at-trylle post-15471 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-9.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-laer-at-trylle/" class="event-tile-link">
+    <article class="post-15471 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>15</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Lær at trylle</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box alex-vargas post-12354 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/08/AlexVargas-1-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/alex-vargas/" class="event-tile-link">
+    <article class="post-12354 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>19</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">UDSOLGT!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Alex Vargas</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box electric-guitars post-14308 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/ElectricGuitars.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/electric-guitars/" class="event-tile-link">
+    <article class="post-14308 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>20</p><p class='showmonth'>nov. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Electric Guitars</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-opera-paa-legepladsen post-15472 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-10.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-opera-paa-legepladsen/" class="event-tile-link">
+    <article class="post-15472 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>22</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Opera på legepladsen</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box comedy-club-open-mic-5 post-14406 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/08/Gimle-Comedy-Club-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/comedy-club-open-mic-5/" class="event-tile-link">
+    <article class="post-14406 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>24</p><p class='showmonth'>nov. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Comedy Club</span>
+              <h2 class="entry-title">Comedy Club &#8211; Open Mic</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box lord-siva post-14707 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/04/LordSiva-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/lord-siva/" class="event-tile-link">
+    <article class="post-14707 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>26</p><p class='showmonth'>nov. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekoncert!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Lord Siva</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box roskildes-bodegafest-john-mogensen-rasmus-bjerg post-12981 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/11/RoskildesBodegafest_26_600x600-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/roskildes-bodegafest-john-mogensen-rasmus-bjerg/" class="event-tile-link">
+    <article class="post-12981 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>28</p><p class='showmonth'>nov. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Bodegafest med John Mogensen &#8211; Rasmus Bjerg</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folk-roskilde-anne-iben-og-band post-14230 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/AnneIben_Pressefoto_1000x1000-1-e1771936113503.jpg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folk-roskilde-anne-iben-og-band/" class="event-tile-link">
+    <article class="post-14230 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>01</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Folk Roskilde</span>
+              <h2 class="entry-title">Anne Iben og band</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box augusta-schackinger post-14305 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/AugustaSchackinger.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/augusta-schackinger/" class="event-tile-link">
+    <article class="post-14305 bwps type-bwps status-publish has-post-thumbnail hentry category-pop tag-ung location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>03</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Ravnekort!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Augusta Schackinger</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box soeren-huss post-14060 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/SoerenHuss.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/soeren-huss/" class="event-tile-link">
+    <article class="post-14060 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Søren Huss</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-julebanko post-15473 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-11.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-julebanko/" class="event-tile-link">
+    <article class="post-15473 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>06</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Julebanko</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box a-holly-jolly-dragshow-5-0 post-13670 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/Dragjuleshow26_600x600-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/a-holly-jolly-dragshow-5-0/" class="event-tile-link">
+    <article class="post-13670 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>10</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">A Holly Jolly Dragshow 5.0</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box junkyard-drive post-14241 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/Junkyard-Drive-Square-1024x1024.jpg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/junkyard-drive/" class="event-tile-link">
+    <article class="post-14241 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>11</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Junkyard Drive</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box death-angel-vio-lence post-15355 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/07/DeathAngel_Vio-lence.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/death-angel-vio-lence/" class="event-tile-link">
+    <article class="post-15355 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>12</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">DEATH ANGEL + VIO-LENCE</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box gfb-trylle-og-trolles-store-julefoelelsesshow post-15474 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26-12.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-trylle-og-trolles-store-julefoelelsesshow/" class="event-tile-link">
+    <article class="post-15474 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>13</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Trylle og Trolles store julefølelsesshow</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box comedy-club-open-mic-6 post-14407 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/08/Gimle-Comedy-Club-600x600-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/comedy-club-open-mic-6/" class="event-tile-link">
+    <article class="post-14407 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>15</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Comedy Club</span>
+              <h2 class="entry-title">Comedy Club &#8211; Open Mic</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box folk-roskilde-dreamers-circus-xmas-2026 post-15143 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/FolkRoskilde_DreamersCircus.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/folk-roskilde-dreamers-circus-xmas-2026/" class="event-tile-link">
+    <article class="post-15143 bwps type-bwps status-publish has-post-thumbnail hentry category-folk tag-folkroskilde location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>16</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Folk Roskilde</span>
+              <h2 class="entry-title">Dreamers Circus Xmas 2026</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box juleshowet-med-danmarks-underholdningsorkester post-14603 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/JuleshowetDUO.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/juleshowet-med-danmarks-underholdningsorkester/" class="event-tile-link">
+    <article class="post-14603 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>17</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Juleshowet med Danmarks Underholdnings-orkester</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box fyr-og-flamme-hjem-til-jul post-15159 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/Fyrogflamme-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/fyr-og-flamme-hjem-til-jul/" class="event-tile-link">
+    <article class="post-15159 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>19</p><p class='showmonth'>dec. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Fyr Og Flamme &#8211; Hjem Til Jul</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box medlemskort post-101 bwps type-bwps status-publish has-post-thumbnail hentry category-andet category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2022/02/Unavngivet-5-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/medlemskort/" class="event-tile-link">
+    <article class="post-101 bwps type-bwps status-publish has-post-thumbnail hentry category-andet category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>30</p><p class='showmonth'>dec. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Medlemskort</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box david-bowie-80-en-hyldestkoncert post-14605 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/DavidBowie80.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/david-bowie-80-en-hyldestkoncert/" class="event-tile-link">
+    <article class="post-14605 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>jan. 2027</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">David Bowie 80 &#8211; En Hyldestkoncert</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box rasmus-wallbridge post-14636 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/RasmusWallbridge.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/rasmus-wallbridge/" class="event-tile-link">
+    <article class="post-14636 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>07</p><p class='showmonth'>jan. 2027</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">RASMUS WALLBRIDGE</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box situations-fornaermelse post-14237 bwps type-bwps status-publish has-post-thumbnail hentry category-punk category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/02/SituationsfornaermelseE26-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/situations-fornaermelse/" class="event-tile-link">
+    <article class="post-14237 bwps type-bwps status-publish has-post-thumbnail hentry category-punk category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>09</p><p class='showmonth'>jan. 2027</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Situations-fornærmelse</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                              <div class="event-tile animate__animated media-box satiregruppen-magt-2 post-15144 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/05/SatiregruppenMagt-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/satiregruppen-magt-2/" class="event-tile-link">
+    <article class="post-15144 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>16</p><p class='showmonth'>jan. 2027</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">SATIREGRUPPEN MAGT</h2>
+              <span class="undertitle"></span>
+            </div>
+<!-- TRIMMED BY recon.mjs -->

@@ -1,0 +1,1798 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+    <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/635dda1ea8e5b426381857c75bebd5e4.js"></script>
+    <!-- Google Consent Mode -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments)
+        }
+        gtag("consent", "default", {
+            ad_personalization: "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            analytics_storage: "denied",
+            functionality_storage: "denied",
+            personalization_storage: "denied",
+            security_storage: "granted",
+            wait_for_update: 500
+        });
+        gtag("set", "ads_data_redaction", true);
+        gtag("set", "url_passthrough", true);
+    </script>
+    <!-- End Google Consent Mode-->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6ED9CZP8GE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-6ED9CZP8GE');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3681585278820986');
+        fbq('track', 'PageView');
+    </script>
+    <!-- Snap Pixel Code -->
+    <script>
+        (function (e, t, n) {
+            if (e.snaptr) return;
+            var a = e.snaptr = function () {
+                a.handleRequest ? a.handleRequest.apply(a, arguments) : a.queue.push(arguments)
+            };
+            a.queue = [];
+            var s = 'script';
+            var r = t.createElement(s);
+            r.async = true;
+            r.src = n;
+            var u = t.getElementsByTagName(s)[0];
+            u.parentNode.insertBefore(r, u);
+        })(window, document, 'https://sc-static.net/scevent.min.js');
+        snaptr('init', 'c7da1e32-8a96-4ab9-8575-25e58795d354');
+        snaptr('track', 'PAGE_VIEW');
+    </script>
+    <!-- End Snap Pixel Code -->
+
+    <script src="https://jellingmusikfestival.billetten.dk/basm/sbasm-script"></script>
+    <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.jellingmusikfestival.dk/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://cdn.jellingmusikfestival.dk/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://cdn.jellingmusikfestival.dk/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jellingmusikfestival.dk/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://cdn.jellingmusikfestival.dk/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://cdn.jellingmusikfestival.dk/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://cdn.jellingmusikfestival.dk/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://cdn.jellingmusikfestival.dk/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jellingmusikfestival.dk/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://cdn.jellingmusikfestival.dk/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jellingmusikfestival.dk/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.jellingmusikfestival.dk/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jellingmusikfestival.dk/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://cdn.jellingmusikfestival.dk/ms-icon-144x144.png">
+    <link rel="shortcut icon" href="https://cdn.jellingmusikfestival.dk/favicon.ico" />
+    <meta name="theme-color" content="#15155b">
+    <script crossorigin="anonymous" src="https://kit.fontawesome.com/b797a9e4a5.js"></script>
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes" />
+
+    
+
+    <link href="/sb/styles.css.vf5da3da1c7d2366f946356175aaab70485b94754" rel="stylesheet">
+
+
+<title>Jelling Musikfestival</title>
+<meta name="description" content="Jelling Musikfestival | 4 dages f&#230;lleskabsfejring, der tyvstarter sommeren" />
+<meta name="robots" content="index, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="https://jellingmusikfestival.dk/"/>
+<meta property="og:title" content="Jelling Musikfestival" />
+<meta property="og:description" content="Jelling Musikfestival | 4 dages fælleskabsfejring, der tyvstarter sommeren" />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://jellingmusikfestival.dk/media/kqxnhfzj/qm_flemming-_ege_2024-32-of-35.jpg" />
+<meta property="og:url" content="https://jellingmusikfestival.dk/" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Jelling Musikfestival" />
+<meta name="twitter:description" content="Jelling Musikfestival | 4 dages fælleskabsfejring, der tyvstarter sommeren" />
+<meta name="twitter:image" content="https://jellingmusikfestival.dk/media/kqxnhfzj/qm_flemming-_ege_2024-32-of-35.jpg" />    <meta name="recaptcha-sitekey" content="6LckamcqAAAAABSe0sRRd4qUaa8QQQsFDA-7jZ-W">
+    <script src="https://www.google.com/recaptcha/api.js?render=6LckamcqAAAAABSe0sRRd4qUaa8QQQsFDA-7jZ-W"></script>
+    <script>
+        window.popupConfig = {
+            basePath: "/popups/".replace(/\/+$/, "/")
+        };
+    </script>
+    <script>
+        (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="1rbvrf_Wdun08yNj0rbm0";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+    </script>
+</head>
+<body id="body" class="jmf ">
+    <a class="skip-link" href="#render-body" tabindex="1">Gå til indhold</a>
+    <script>
+        (function () {
+            var hasHandledInitialTab = false;
+            var hasPointerInteraction = false;
+
+            function registerPointerInteraction() {
+                hasPointerInteraction = true;
+            }
+
+            document.addEventListener("pointerdown", registerPointerInteraction, { once: true, capture: true });
+            document.addEventListener("touchstart", registerPointerInteraction, { once: true, capture: true });
+            document.addEventListener("mousedown", registerPointerInteraction, { once: true, capture: true });
+
+            function removeTabStops(elements, originalTabindexAttribute) {
+                Array.prototype.forEach.call(elements, function (element) {
+                    if (
+                        originalTabindexAttribute &&
+                        !element.hasAttribute(originalTabindexAttribute)
+                    ) {
+                        var originalTabindex = element.getAttribute("tabindex");
+                        element.setAttribute(originalTabindexAttribute, originalTabindex === null ? "" : originalTabindex);
+                    }
+
+                    if (element.getAttribute("tabindex") !== "-1") {
+                        element.setAttribute("tabindex", "-1");
+                    }
+                });
+            }
+
+            function restoreTabStops(elements, originalTabindexAttribute) {
+                Array.prototype.forEach.call(elements, function (element) {
+                    if (!element.hasAttribute(originalTabindexAttribute)) {
+                        return;
+                    }
+
+                    var originalTabindex = element.getAttribute(originalTabindexAttribute);
+
+                    if (originalTabindex === "") {
+                        element.removeAttribute("tabindex");
+                    } else {
+                        element.setAttribute("tabindex", originalTabindex);
+                    }
+
+                    element.removeAttribute(originalTabindexAttribute);
+                });
+            }
+
+            function removeCookieScriptTabStops() {
+                var cookieDialog = document.getElementById("cookiescript_injected");
+
+                if (!cookieDialog) {
+                    return;
+                }
+
+                var tabStops = cookieDialog.querySelectorAll("[tabindex]");
+
+                if (cookieDialog.hasAttribute("tabindex")) {
+                    tabStops = Array.prototype.slice.call(tabStops);
+                    tabStops.unshift(cookieDialog);
+                }
+
+                removeTabStops(tabStops);
+            }
+
+            function removeHiddenBasmTabStops() {
+                var basmPanel = document.getElementById("basm");
+                var originalTabindexAttribute = "data-jmf-basm-original-tabindex";
+
+                if (!basmPanel) {
+                    return;
+                }
+
+                if (!basmPanel.classList.contains("hidden")) {
+                    basmPanel.removeAttribute("aria-hidden");
+                    basmPanel.removeAttribute("inert");
+                    restoreTabStops(
+                        basmPanel.querySelectorAll("[" + originalTabindexAttribute + "]"),
+                        originalTabindexAttribute
+                    );
+                    return;
+                }
+
+                basmPanel.setAttribute("aria-hidden", "true");
+                basmPanel.setAttribute("inert", "");
+
+                var tabStops = basmPanel.querySelectorAll("a, button, input, select, textarea, iframe, [tabindex], [role='button']");
+
+                if (basmPanel.hasAttribute("tabindex")) {
+                    tabStops = Array.prototype.slice.call(tabStops);
+                    tabStops.unshift(basmPanel);
+                }
+
+                removeTabStops(tabStops, originalTabindexAttribute);
+            }
+
+            function removeThirdPartyTabStops() {
+                removeCookieScriptTabStops();
+                removeHiddenBasmTabStops();
+            }
+
+            var cleanupQueued = false;
+
+            function queueThirdPartyTabStopCleanup() {
+                if (cleanupQueued) {
+                    return;
+                }
+
+                cleanupQueued = true;
+                window.requestAnimationFrame(function () {
+                    cleanupQueued = false;
+                    removeThirdPartyTabStops();
+                });
+            }
+
+            removeThirdPartyTabStops();
+
+            var thirdPartyObserver = new MutationObserver(function () {
+                queueThirdPartyTabStopCleanup();
+            });
+
+            thirdPartyObserver.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+
+            var skipLinkElement = document.querySelector(".skip-link");
+            var shouldKeepSkipLinkFocused = false;
+
+            function isInsideCookieScript(element) {
+                return !!(element && element.closest && element.closest("#cookiescript_injected"));
+            }
+
+            document.addEventListener("focusin", function (event) {
+                if (
+                    hasPointerInteraction ||
+                    !shouldKeepSkipLinkFocused ||
+                    !isInsideCookieScript(event.target)
+                ) {
+                    return;
+                }
+
+                removeThirdPartyTabStops();
+                skipLinkElement.focus();
+            }, true);
+
+            skipLinkElement.addEventListener("keydown", function (event) {
+                if (event.key === "Tab" && !event.shiftKey) {
+                    shouldKeepSkipLinkFocused = false;
+                }
+            });
+
+            skipLinkElement.addEventListener("click", function () {
+                shouldKeepSkipLinkFocused = false;
+            });
+
+            function focusSkipLinkOnInitialTab(event) {
+                if (
+                    hasHandledInitialTab ||
+                    hasPointerInteraction ||
+                    event.key !== "Tab" ||
+                    event.shiftKey ||
+                    event.altKey ||
+                    event.ctrlKey ||
+                    event.metaKey
+                ) {
+                    return;
+                }
+
+                var skipLink = document.querySelector(".skip-link");
+                var activeElement = document.activeElement;
+
+                if (
+                    !skipLink ||
+                    (activeElement && activeElement.matches("input, select, textarea, [contenteditable='true']"))
+                ) {
+                    return;
+                }
+
+                hasHandledInitialTab = true;
+                shouldKeepSkipLinkFocused = true;
+                event.preventDefault();
+                skipLink.focus();
+            }
+
+            window.addEventListener("keydown", focusSkipLinkOnInitialTab, true);
+            document.addEventListener("keydown", focusSkipLinkOnInitialTab, true);
+        })();
+    </script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT882BTK"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=3681585278820986&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+
+<nav data-component="topnav" class="topnav container-fluid hide-app">
+	<div class="row">
+		<div class="col">
+				<a class="d-inline-block" href="/" aria-label="Gå til forsiden">
+					
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+
+				</a>
+		</div>
+		<div class="col-auto">
+			<div class="d-flex align-items-center h-100">
+					<div class="topnav-primarylinks">
+							<a class="menu-link" href="/billetter/">Billet</a>
+							<a class="menu-link" href="/program/">Program</a>
+							<a class="menu-link" href="/info/">Info</a>
+							<a class="menu-link" href="/nyheder/">Nyheder</a>
+							<a class="menu-link" href="/faellesskab/">F&#xE6;llesskab</a>
+					</div>
+				<button type="button" class="button-unset pe-3 basm basm_profile_btn" aria-label="Login">
+					<svg aria-hidden="true" focusable="false" fill="#15155B" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 512 512"><path d="M399 384.2C376.9 345.8 335.4 320 288 320H224c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z" /></svg>
+				</button>
+				<button type="button" class="button-unset pe-3 basm basm_basket_btn position-relative" aria-label="Kurv">
+					<svg aria-hidden="true" focusable="false" fill="#15155B" xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 576 512"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z" /></svg>
+					<div class="basm basm_basket_count" aria-hidden="true">0</div>
+				</button>
+				<button type="button" class="button-unset pe-3 search-focus" data-bs-toggle="modal" data-bs-target="#search-menu-modal" aria-label="Søg" aria-controls="search-menu-modal">
+					<i class="fa-solid fa-magnifying-glass text-primary" aria-hidden="true"></i>
+				</button>
+				<button type="button" class="topnav__mega-menu-toggle" data-bs-toggle="modal" data-bs-target="#mega-menu-modal" aria-label="Åbn menu" aria-controls="mega-menu-modal">
+					<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30" fill="none">
+						<path d="M3.6088 24.7876C5.80689 27.1377 7.62223 28.5837 10.7564 29.5348C13.626 30.4046 16.7274 29.884 19.6844 29.3549C20.9464 29.1299 22.2477 28.89 23.326 28.2195C23.7984 27.926 24.214 27.5575 24.6274 27.1891C25.3557 26.5443 26.0818 25.8973 26.8101 25.2525C27.2563 24.8562 27.7069 24.4556 28.0721 23.9886C28.6364 23.2666 28.9798 22.4119 29.3166 21.5678C30.0471 19.7405 30.7842 17.8811 30.9592 15.9295C31.2566 12.6112 29.8918 9.34425 28.0765 6.51008C27.5363 5.66603 26.9479 4.84127 26.2174 4.14291C24.5377 2.53837 22.239 1.71361 20.0103 0.94455C18.687 0.492538 17.3354 0.0362419 15.9334 0.00196619C14.5752 -0.0301673 13.241 0.336155 11.9594 0.764602C9.36977 1.62792 6.85017 2.77402 4.73956 4.45781C2.62896 6.14161 0.947038 8.40167 0.33026 10.9724C0.0634275 12.0863 0 13.2367 0 14.3806C0.00656146 18.1338 0.839867 22.1055 3.59131 24.7662L3.6088 24.7876Z" fill="#15155B" />
+					</svg>
+					<i class="fa-solid fa-bars text-white" aria-hidden="true"></i>
+				</button>
+			</div>
+		</div>
+	</div>
+</nav>
+<div class="modal fade" id="mega-menu-modal">
+	<div class="modal-dialog modal-fullscreen">
+		<div class="modal-content mega-menu-content">
+			<div class="container-fluid mega-header">
+				<div class="row">
+					<div class="col">
+
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+					</div>
+					<div class="col-auto">
+						<div class="d-flex align-items-center h-100">
+							<button type="button" class="button-unset pe-md-3" data-bs-toggle="modal" data-bs-target="#mega-menu-modal" aria-label="Luk menu">
+								<svg aria-hidden="true" focusable="false" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M10.8809 2.7489C10.1075 3.61889 9.1363 5.25988 8.76965 5.53595C8.7286 5.85288 8.24347 5.44695 7.10715 4.02028C6.21339 3.26744 4.38856 1.96065 4.14599 1.28682C3.33433 -0.0989859 3.00874 -0.138944 1.58414 0.651128C1.21749 0.928107 0.654925 1.21326 0.395567 1.4076C0.136209 1.60194 0 2.08779 0 2.08779C0 2.08779 0.361981 2.43015 0.889094 3.45997C1.7418 4.52974 3.67579 5.99818 4.4464 6.69199C6.13129 8.6699 6.31602 7.41123 2.69154 11.4297C1.18484 12.8527 0.00373177 14.3157 0.00373177 14.3157C-0.0373177 14.6327 0.291078 14.8642 0.575625 15.2211C1.01131 15.6707 1.4246 16.0993 1.7502 16.1392C1.9937 16.8122 2.64396 16.8921 3.05165 16.2991C3.86145 15.5036 4.36337 14.8869 4.66657 14.5918C5.03322 14.3148 4.59007 14.6563 5.73013 13.5093C7.31893 11.4524 7.64453 11.4924 8.86295 12.2861C10.0823 13.0798 13.6564 16.092 13.6154 16.409C13.8999 16.7659 14.8515 17.1282 14.9187 16.9557C14.9187 16.9557 15.8031 15.9794 16.0149 15.7388C16.7883 14.8688 17.3863 14.5736 16.6969 14.1032C16.4282 13.9198 15.0829 12.7292 13.8644 11.9355C11.2242 9.35916 10.7764 8.74436 10.9331 8.46466C11.3558 7.70637 13.0603 5.40336 14.567 3.98032C15.8432 2.63569 15.8581 1.67247 14.6117 1.09066C13.0677 0.257 13.0714 0 13.0714 0C12.9921 0.488573 11.9314 1.61465 10.8809 2.7489Z" fill="#15155B" />
+								</svg>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+				<div class="mega-primary-links">
+						<a class="mega-link" href="/billetter/">Billet</a>
+						<a class="mega-link" href="/program/">Program</a>
+						<a class="mega-link" href="/info/">Info</a>
+						<a class="mega-link" href="/nyheder/">Nyheder</a>
+						<a class="mega-link" href="/faellesskab/">F&#xE6;llesskab</a>
+				</div>
+				<div class="mega-secondary-links">
+						<a class="sec-link" href="/faellesskab/frivillig/">Til frivillige</a>
+						<a class="sec-link" href="/til-presse/">Til presse</a>
+						<a class="sec-link" href="/til-artister/">Til artister</a>
+				</div>
+
+					<div class="mb-3">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;width=800&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="mb-3">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/wy4fojzk/royal_primary_logo_white_rgb.png?width=800&amp;quality=80&amp;v=1da97cade77c4b0" alt="Royal Primary Logo White RGB (1)" />
+		</picture>
+</div>
+
+					</div>
+
+			<div class="some-element">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="d-flex align-items-center justify-content-center">
+								<div class="title text-center text-primary">F&#xE6;llesskabet er allerede igang - v&#xE6;r med her</div>
+							</div>
+						</div>
+						<div class="col-10 offset-1">
+							<div class="d-flex align-items-center justify-content-center gap-3 mt-3">
+									<a href="https://www.instagram.com/jellingmusikfestival/" target="_blank" aria-label="Instagram">
+										<img src="https://cdn.jellingmusikfestival.dk/media/zzneuvua/insta-blue.svg" alt="" aria-hidden="true" />
+									</a>
+									<a href="https://www.facebook.com/JellingMusikfestival" target="_blank" aria-label="Facebook">
+										<img src="https://cdn.jellingmusikfestival.dk/media/1utf0h5u/fb-blue.svg" alt="" aria-hidden="true" />
+									</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="search-menu-modal" data-component="search">
+	<div class="modal-dialog modal-fullscreen">
+		<div class="modal-content mega-menu-content">
+			<div class="container-fluid mega-header">
+				<div class="row">
+					<div class="col">
+
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+					</div>
+					<div class="col-auto">
+						<div class="d-flex align-items-center h-100">
+							<button type="button" class="button-unset pe-md-3" data-bs-toggle="modal" data-bs-target="#search-menu-modal" aria-label="Luk søgning">
+								<svg aria-hidden="true" focusable="false" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M10.8809 2.7489C10.1075 3.61889 9.1363 5.25988 8.76965 5.53595C8.7286 5.85288 8.24347 5.44695 7.10715 4.02028C6.21339 3.26744 4.38856 1.96065 4.14599 1.28682C3.33433 -0.0989859 3.00874 -0.138944 1.58414 0.651128C1.21749 0.928107 0.654925 1.21326 0.395567 1.4076C0.136209 1.60194 0 2.08779 0 2.08779C0 2.08779 0.361981 2.43015 0.889094 3.45997C1.7418 4.52974 3.67579 5.99818 4.4464 6.69199C6.13129 8.6699 6.31602 7.41123 2.69154 11.4297C1.18484 12.8527 0.00373177 14.3157 0.00373177 14.3157C-0.0373177 14.6327 0.291078 14.8642 0.575625 15.2211C1.01131 15.6707 1.4246 16.0993 1.7502 16.1392C1.9937 16.8122 2.64396 16.8921 3.05165 16.2991C3.86145 15.5036 4.36337 14.8869 4.66657 14.5918C5.03322 14.3148 4.59007 14.6563 5.73013 13.5093C7.31893 11.4524 7.64453 11.4924 8.86295 12.2861C10.0823 13.0798 13.6564 16.092 13.6154 16.409C13.8999 16.7659 14.8515 17.1282 14.9187 16.9557C14.9187 16.9557 15.8031 15.9794 16.0149 15.7388C16.7883 14.8688 17.3863 14.5736 16.6969 14.1032C16.4282 13.9198 15.0829 12.7292 13.8644 11.9355C11.2242 9.35916 10.7764 8.74436 10.9331 8.46466C11.3558 7.70637 13.0603 5.40336 14.567 3.98032C15.8432 2.63569 15.8581 1.67247 14.6117 1.09066C13.0677 0.257 13.0714 0 13.0714 0C12.9921 0.488573 11.9314 1.61465 10.8809 2.7489Z" fill="#15155B" />
+								</svg>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
+<form action="/" class="search-form" enctype="multipart/form-data" id="formd5966f9e3f154a01af4ae31ff27cf96d" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
+							<div class="search-term-container">
+								<label class="visually-hidden" for="topnav-search-term">S&#xF8;g</label>
+								<input id="topnav-search-term" class="w-100 search-term rounded-5" type="search" name="term" placeholder="S&#xF8;g" />
+							</div>
+							<div class="search-result-container pb-2 px-4"></div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOixve6NcaW9IIQgd7KEVmFe0dVsb_6xZC7yBz80uNbt4vGtHv-mJBzzhC5Erbo3m-Xz4rg0NF8atdJIClYewLNtcO2SizHZzMvV-A3rFQbvbJaVHo52f2PH5QcKJ0guUg" /></form>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <main id="render-body" tabindex="-1">
+        
+<div class="umb-block-list">
+
+
+<div class="hero sidebar-active">
+	<div class="hero-media">
+			
+
+<div class="media-container rounded-5">
+		<video playsinline autoplay loop muted controls preload="auto" aria-label="16X9 JMF 2026 Herovideo V2 Compressed Loud Colors">
+			<source src="https://cdn.jellingmusikfestival.dk/media/c0zj1yqg/16x9_jmf_2026_herovideo_v2_compressed_loud-colors.mp4" />
+		</video>
+</div>
+
+		<div class="hero-media-text">
+			TAK FOR I &#xC5;R
+		</div>
+	</div>
+
+
+	<div class="countdown" style="position: relative;" data-component="countdown" data-date="2027-05-27 16:00:00">
+        <style>
+            #Royal_star {
+                transform-box: fill-box;
+                transform-origin: center;
+                animation: royal-star-pulse 5s ease-in-out infinite;
+            }
+
+            @keyframes royal-star-pulse {
+                0%, 86%, 100% {
+                    transform: scale(1);
+                    opacity: 1;
+                }
+
+                90% {
+                    transform: scale(1.12);
+                    opacity: 0.85;
+                }
+
+                94% {
+                    transform: scale(1.02);
+                    opacity: 1;
+                }
+            }
+        </style>
+		<div class="title" style="margin-bottom: 0; display: flex; align-items: center; justify-content: center;">
+			<div>Jelling Musikfestival 2027</div> <svg style="width: 40px; height: auto; margin-left: 10px;" id="Royal_star" viewBox="0 0 154 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M60.53 131.93C61.01 139.7 72.76 168 76.56 177.18H77.19C80.99 168 92.74 139.7 93.22 131.93C93.84 121.87 87.8 115.87 82.44 112.31C80.95 111.32 77.39 108.91 77.39 108.91H76.39C76.39 108.91 72.83 111.31 71.34 112.31C65.98 115.87 59.93 121.88 60.56 131.93H60.53Z" fill="white" />
+				<path d="M93.21 45.25C92.73 37.48 80.9899 9.18 77.1899 0H76.56C72.76 9.18 61.01 37.48 60.53 45.25C59.91 55.31 65.95 61.31 71.31 64.87C72.8 65.86 76.36 68.27 76.36 68.27H77.36C77.36 68.27 80.92 65.87 82.41 64.87C87.77 61.31 93.8199 55.3 93.1899 45.25H93.21Z" fill="white" />
+				<path d="M106.24 124.41C113.21 127.88 143.59 131.86 153.44 133.16L153.75 132.62C147.7 124.74 129.06 100.42 122.58 96.11C114.18 90.54 105.96 92.78 100.19 95.64C98.5899 96.44 94.72 98.32 94.72 98.32L94.22 99.19C94.22 99.19 94.5199 103.48 94.6299 105.27C95.0399 111.69 97.21 119.93 106.23 124.42L106.24 124.41Z" fill="white" />
+				<path d="M47.5099 52.77C40.5399 49.3 10.16 45.32 0.309998 44.02L0 44.56C6.05 52.44 24.69 76.76 31.17 81.07C39.57 86.64 47.79 84.4 53.56 81.54C55.16 80.74 59.03 78.86 59.03 78.86L59.53 77.99C59.53 77.99 59.23 73.7 59.12 71.91C58.71 65.49 56.54 57.25 47.52 52.76L47.5099 52.77Z" fill="white" />
+				<path d="M122.58 81.07C129.07 76.77 147.71 52.44 153.75 44.56L153.44 44.02C143.59 45.32 113.21 49.3 106.24 52.77C97.22 57.26 95.04 65.5 94.64 71.92C94.53 73.71 94.23 78 94.23 78L94.73 78.87C94.73 78.87 98.59 80.75 100.2 81.55C105.97 84.41 114.19 86.65 122.59 81.08L122.58 81.07Z" fill="white" />
+				<path d="M31.17 96.11C24.68 100.41 6.04 124.74 0 132.62L0.309998 133.16C10.16 131.86 40.5399 127.88 47.5099 124.41C56.5299 119.92 58.71 111.68 59.11 105.26C59.22 103.47 59.52 99.18 59.52 99.18L59.02 98.31C59.02 98.31 55.16 96.43 53.55 95.63C47.78 92.77 39.56 90.53 31.16 96.1L31.17 96.11Z" fill="white" />
+			</svg>
+		</div>
+		<div class="timer">
+			<div class="days"><span class="days-value">287</span><span class="time-shorthand">D</span></div>
+			<div class="hours"><span class="hours-value">17</span><span class="time-shorthand">T</span></div>
+			<div class="minutes"><span class="minutes-value">55</span><span class="time-shorthand">M</span></div>
+			<div class="seconds"><span class="seconds-value">36</span><span class="time-shorthand">S</span></div>
+		</div>
+		<div class="calendar-info d-flex align-items-center justify-content-center">
+			<div class="me-2 calendar-info-title">Tilføj til kalender</div>
+			<a class="me-2 mb-1 d-none" target="_blank" href="https://outlook.live.com/calendar/0/action/compose?allday=true&amp;body=Jelling%20Musikfestival&amp;enddt=2027-05-30T22%3A00%3A00%2B00%3A00&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2027-05-27T22%3A00%3A00%2B00%3A00&amp;subject=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="18" height="20" viewBox="0 0 15 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2769)">
+						<path d="M9.94309 2.7596C10.5154 2.04337 10.9506 1.03222 10.794 0C9.85822 0.063197 8.76364 0.642503 8.12603 1.39876C7.54501 2.0834 7.06626 3.10297 7.25341 4.09095C8.27619 4.12255 9.33378 3.5285 9.94527 2.7596H9.94309ZM15.0004 12.473C14.5913 13.3556 14.3933 13.7517 13.8666 14.5332C13.1311 15.6265 12.0931 16.9853 10.807 16.9958C9.66455 17.0084 9.37077 16.2711 7.8192 16.2796C6.26762 16.288 5.94556 17.0084 4.80092 16.9979C3.51483 16.9874 2.53123 15.7592 1.7957 14.6659C-0.26509 11.6156 -0.480526 8.03234 0.788153 6.1259C1.69124 4.77348 3.1166 3.98141 4.45492 3.98141C5.79323 3.98141 6.67456 4.70818 7.80179 4.70818C8.92902 4.70818 9.56227 3.97931 11.1378 3.97931C12.3303 3.97931 13.5946 4.61128 14.4934 5.70248C11.5447 7.27609 12.0235 11.3755 15.0004 12.4709V12.473Z" fill="white" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2769">
+							<rect width="15" height="17" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+			<a class="me-2" target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;dates=20270527%2F20270531&amp;details=Jelling%20Musikfestival&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;text=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="20" height="20" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2773)">
+						<path d="M3.34808 8.0002C3.34808 7.48067 3.43554 6.98303 3.5942 6.51525L0.840071 4.45703C0.303077 5.52396 0 6.72426 0 8.0002C0 9.27614 0.303076 10.4744 0.838037 11.5414L3.59217 9.47918C3.43554 9.01339 3.35011 8.51774 3.35011 8.0002" fill="#F2BA45" />
+						<path d="M8.18715 3.27246C9.34047 3.27246 10.3819 3.67256 11.2016 4.32744L13.5835 2.0005C12.1312 0.764369 10.27 0 8.18715 0C4.95094 0 2.17037 1.8114 0.840088 4.45683L3.59422 6.51505C4.22885 4.63001 6.03917 3.27246 8.18512 3.27246" fill="#DB493C" />
+						<path d="M8.18719 12.7275C6.03921 12.7275 4.23093 11.3719 3.5963 9.48486L0.842163 11.5431C2.17448 14.1885 4.95302 15.9999 8.18923 15.9999C10.1867 15.9999 12.0926 15.3052 13.5226 14.0054L10.9067 12.0268C10.1684 12.4826 9.23881 12.7255 8.18719 12.7255" fill="#37A759" />
+						<path d="M16 8.00001C16 7.52825 15.9247 7.01867 15.8149 6.54492H8.18713V9.63624H12.5787C12.359 10.6892 11.761 11.4994 10.9067 12.0269L13.5225 14.0055C15.0257 12.64 16.002 10.6076 16.002 8.00001" fill="#567BB8" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2773">
+							<rect width="16" height="16" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+			<a target="_blank" href="https://outlook.live.com/calendar/0/action/compose?allday=true&amp;body=Jelling%20Musikfestival&amp;enddt=2027-05-30T22%3A00%3A00%2B00%3A00&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2027-05-27T22%3A00%3A00%2B00%3A00&amp;subject=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="20" height="20" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2781)">
+						<path d="M16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16C12.4183 16 16 12.4183 16 8Z" fill="#008BCA" />
+						<path d="M9.00122 7.42702V5.61035H12.0538C12.1398 5.61035 12.2552 5.66902 12.3373 5.76679C12.4019 5.84306 12.4488 5.94474 12.4488 6.06012V6.11096L12.4077 6.13834L9.81667 7.88657L9.79125 7.8983C9.77365 7.90417 9.75214 7.90612 9.73063 7.90612C9.70912 7.90612 9.68761 7.90417 9.67001 7.8983L9.64654 7.88852L9.04424 7.50915L8.99927 7.48178V7.42898L9.00122 7.42702Z" fill="white" />
+						<path d="M9.14984 7.74977L9.69934 8.12718H9.70325C9.72671 8.14674 9.76191 8.12718 9.76973 8.12523L12.306 6.43567L12.4527 6.33789V9.68182C12.4527 9.86954 12.394 10.0084 12.3021 10.1042C12.1946 10.2157 12.046 10.2665 11.8895 10.2665H9.00317V7.73608H9.09899L9.15179 7.75173L9.14984 7.74977Z" fill="white" />
+						<path d="M6.25166 7.05176C6.16953 7.05176 6.09522 7.07131 6.03069 7.10847C5.9642 7.14758 5.90554 7.2082 5.85274 7.29033C5.79994 7.37442 5.75887 7.4761 5.7315 7.59343C5.70217 7.71272 5.68848 7.8457 5.68848 7.99627C5.68848 8.14684 5.70217 8.28373 5.7315 8.40106C5.75887 8.51644 5.79799 8.61421 5.85274 8.6983C5.90358 8.77847 5.96225 8.83714 6.02678 8.8743C6.08936 8.91145 6.15975 8.92905 6.23798 8.92905C6.32011 8.92905 6.39246 8.91145 6.45699 8.8743C6.52152 8.83714 6.58019 8.78043 6.62908 8.70416C6.68188 8.62399 6.72099 8.52621 6.74836 8.41279C6.77574 8.29546 6.78943 8.16053 6.78943 8.008C6.78943 7.85547 6.77574 7.70685 6.74836 7.58366C6.72294 7.46437 6.68383 7.36464 6.63299 7.28055C6.5841 7.20233 6.52935 7.14367 6.46482 7.10651C6.40224 7.06936 6.33184 7.05176 6.25166 7.05176Z" fill="white" />
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M8.86623 12.404V3.48096L8.75281 3.50247L3.62546 4.49391L3.54919 4.50956V11.4047L3.62546 11.4203L8.75281 12.4959L8.86623 12.5193V12.402V12.404ZM6.2654 6.36534C6.44922 6.36534 6.61739 6.40249 6.76797 6.47876C6.91659 6.55502 7.04956 6.66649 7.16298 6.81902C7.27445 6.96764 7.35853 7.13777 7.41329 7.33136C7.46804 7.523 7.49542 7.73615 7.49542 7.97081C7.49542 8.2133 7.46804 8.43231 7.41133 8.62786C7.35462 8.82733 7.26662 9.00332 7.15125 9.1539C7.03392 9.30838 6.89703 9.42376 6.7445 9.50198C6.59002 9.5802 6.41793 9.61931 6.22825 9.61931C6.04247 9.61931 5.8743 9.58216 5.72372 9.50589C5.57315 9.42963 5.44017 9.31816 5.32284 9.16759C5.20942 9.02092 5.12338 8.85079 5.06667 8.65915C5.00996 8.46947 4.98258 8.26023 4.98258 8.02948C4.98258 7.787 5.00996 7.56602 5.06863 7.36852C5.12534 7.1671 5.21334 6.9911 5.32871 6.83662C5.44604 6.68017 5.58293 6.56284 5.74132 6.48267C5.89972 6.40445 6.07376 6.36338 6.26931 6.36338L6.2654 6.36534Z" fill="white" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2781">
+							<rect width="16" height="16" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+		</div>
+	</div>
+
+
+<div class="ticket-info p-4 ticket-info-standard">
+	<div class="block-title">
+		<div class="text-primary title">Billetsalget starter 1. oktober 🎉</div>
+	</div>
+	<div class="block-rte py-4">
+			<img class="jmf-gfx" src="https://cdn.jellingmusikfestival.dk/files/images/jmf-gfx.svg" />
+		<p>Tag del i fællesskabsfesten 🫶</p>		
+	</div>
+
+	<div class="block-button">
+			<a href="/billetter/" class="btn btn-info rounded-0 w-100 text-white fw-bold text-20 text-uppercase">KØB BILLET</a>
+	</div>
+</div></div>
+
+<div class="container faqs py-lg-6 py-5" data-component="filter-faqs">
+	<div class="row">
+		<div class="col-12 col-lg-4">
+			<h2 class="mt-lg-5 mb-lg-4 h2-medium">Hvad kan vi hj&#xE6;lpe dig med?</h2>
+			<div class="rte px-lg-4">
+				<p>Få svar på de spørgsmål, der trænger sig på som festivalgæst.</p>
+<p><strong><em><span class="text-choco">Har du yderligere spørgsmål, er du altid velkommen til at kontakte os.</span></em></strong></p>
+			</div>
+		</div>
+		<div class="col-12 mt-lg-5 offset-lg-1 col-lg-7">
+
+			<div class="bg-secondary rounded-5 p-5 pb-4">
+				<div class="rte">
+					
+				</div>
+
+					<div class="accordion accordion-flush" id="id-f33b8a8d8796465d85f90bda3228a9de">
+							<div class="accordion-item" data-faqtag="">
+								<h2 class="accordion-header" id="id-9e50eca699874a599e4c2c848df6d20d">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-30bf098e01034c0889f1bbcd3a8865cf" aria-expanded="false" aria-controls="id-30bf098e01034c0889f1bbcd3a8865cf">
+										<div class="pe-3">
+											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2701)">
+													<path d="M19.688 4.86856C19.5321 4.75218 19.3371 4.71338 19.1617 4.77157C17.4853 5.1983 15.6529 5.35347 13.8595 5.68321C13.879 4.67459 14.074 3.60778 14.1324 2.50218C14.2689 2.3858 14.3469 2.23063 14.3469 2.05606C14.3469 1.88149 14.2494 1.74571 14.1324 1.62933C14.1324 1.2608 14.113 0.892263 14.035 0.523729C13.996 0.34916 13.8985 0.213384 13.7621 0.116401C13.6256 0.0194183 13.4502 -0.0193748 13.2747 0.0388148C11.9297 0.34916 10.3118 0.23278 8.69385 0.310367C8.34297 0.310367 8.07007 0.620711 8.08956 0.969849C8.08956 1.08623 8.08956 1.20261 8.08956 1.33838C8.08956 2.50218 7.79717 3.66597 7.71919 4.98494C6.43264 4.98494 4.46383 4.81037 3.00184 4.81037C2.49502 4.81037 2.08566 4.81037 1.71529 4.88795V4.81037C1.71529 4.46123 1.4229 4.18968 1.07202 4.18968C0.721141 4.18968 0.448237 4.46123 0.448237 4.81037C0.46773 7.04097 0.370264 9.097 -0.000106163 11.1336C-0.0390925 11.3276 0.019387 11.5216 0.155839 11.6574C0.292291 11.7931 0.46773 11.8707 0.662662 11.8707C2.45603 11.7543 4.30789 11.6186 6.06227 11.4052C6.12075 13.3642 5.9843 15.5173 6.72504 17.5345C6.80301 17.7673 7.03693 17.9224 7.29034 17.9418C8.07007 17.9806 8.86929 18 9.66851 18C10.4677 18 11.267 18 12.0272 17.9418C12.3391 17.9418 12.5925 17.6897 12.6315 17.3793C12.8069 15.4979 13.3527 13.6358 13.5282 11.5798C14.0545 11.5798 14.6003 11.5604 15.1656 11.5604H17.0954C17.8556 11.5604 18.5964 11.5604 19.3566 11.5216C19.6685 11.5216 19.9414 11.25 19.9609 10.9203C19.9999 10.0086 20.0194 9.05821 20.0194 8.12718C20.0194 7.19614 19.9999 6.24571 19.9609 5.33407C19.9609 5.14011 19.8634 4.96554 19.7075 4.86856H19.688ZM18.7523 8.10778C18.6354 8.10778 18.5379 8.10778 18.4404 8.10778C18.4989 7.9914 18.5184 7.85563 18.4989 7.70045C18.4989 7.68106 18.4989 7.66166 18.4794 7.62287C18.5769 7.58407 18.6549 7.52588 18.7523 7.46769C18.7523 7.68106 18.7523 7.87502 18.7523 8.06899V8.10778ZM12.456 8.03019C12.456 8.03019 12.417 8.03019 12.3976 8.03019C12.3976 8.03019 12.3976 8.03019 12.3976 8.0108C12.3976 8.0108 12.4365 8.0108 12.456 8.0108V8.03019ZM11.1305 6.98278C11.1305 6.98278 11.1695 7.17675 11.2085 7.25433C11.1695 7.58407 11.15 7.91382 11.1305 8.26295C11.1305 8.49571 11.1305 8.72847 11.1695 8.98063C11.1695 8.98063 11.1695 9.00002 11.1695 9.01942C10.6627 8.94183 10.1948 8.82545 9.82446 8.67028C9.74648 8.63149 9.66851 8.63149 9.59054 8.63149C9.53206 8.63149 9.47358 8.63149 9.4151 8.65088C9.33713 8.5733 9.23966 8.49571 9.1227 8.47632C8.8303 8.39873 8.51841 8.5345 8.40145 8.80606C8.40145 8.84485 8.38196 8.86425 8.36247 8.90304C8.20652 8.86425 8.05058 8.82545 7.87514 8.78666C7.87514 8.74787 7.87514 8.68968 7.85565 8.65088C7.81666 8.47632 7.71919 8.32114 7.56325 8.22416C7.77767 8.12718 7.9726 8.0108 8.18703 7.91382C8.92777 8.0108 9.62952 8.14657 10.1558 8.24356C10.4872 8.32114 10.7991 8.10778 10.8966 7.79744C10.9551 7.54528 10.8576 7.29313 10.6627 7.13795C10.6627 7.09916 10.6627 7.06037 10.6627 7.02157C10.6627 6.96338 10.6627 6.8858 10.6627 6.82761C10.6627 6.12933 10.8381 5.43106 11.15 4.77157V4.92675C11.15 5.46985 11.15 6.01295 11.15 6.55606C11.15 6.63364 11.15 6.69183 11.15 6.76942C11.15 6.847 11.15 6.92459 11.15 7.00218L11.1305 6.98278ZM12.5925 6.51726C12.5925 6.51726 12.612 6.61425 12.6315 6.67244H12.5535C12.5535 6.67244 12.5535 6.57545 12.573 6.51726H12.5925ZM12.8654 1.39657C12.8654 1.39657 12.7484 1.39657 12.69 1.39657C12.7484 1.39657 12.8069 1.39657 12.8654 1.39657ZM7.85565 6.22632C8.03108 6.22632 8.20652 6.22632 8.38196 6.22632C8.5574 6.22632 8.71334 6.14873 8.8303 6.01295C8.8303 5.99356 8.86929 5.95476 8.86929 5.93537C8.86929 5.99356 8.86929 6.05175 8.88878 6.10994C8.5574 6.26511 8.24551 6.42028 7.93362 6.59485C7.50477 6.55606 7.05642 6.51726 6.62757 6.51726C5.96481 6.51726 5.30204 6.57545 4.71724 6.78882C4.75623 6.57545 4.77572 6.34269 4.79522 6.10994C5.86734 6.16813 6.99795 6.22632 7.85565 6.22632ZM3.25525 6.05175C3.07982 6.36209 2.92387 6.65304 2.72894 6.96338C2.68995 6.96338 2.65097 6.96338 2.61198 6.96338C2.47553 6.96338 2.35857 7.00218 2.24161 7.07976C2.24161 6.75002 2.24161 6.42028 2.2806 6.07114C2.49502 6.07114 2.72894 6.05175 3.00184 6.05175C3.07982 6.05175 3.17728 6.05175 3.25525 6.05175ZM1.48138 9.56252C1.48138 9.56252 1.53985 9.6595 1.57884 9.6983C1.57884 9.77588 1.61783 9.87287 1.63732 9.95045C1.6958 10.1638 1.87124 10.319 2.08566 10.3772C2.18313 10.3966 2.30009 10.416 2.39755 10.4354C2.04668 10.4936 1.71529 10.513 1.36442 10.5517C1.4034 10.222 1.44239 9.89226 1.46188 9.56252H1.48138ZM6.58859 10.0668C5.67241 10.1832 4.69775 10.2802 3.7036 10.3578C3.7036 10.319 3.7036 10.2802 3.7036 10.222C3.9765 10.125 4.21042 9.96985 4.42485 9.81468C4.79522 9.81468 5.16559 9.79528 5.51646 9.79528C5.92582 9.79528 6.33518 9.79528 6.72504 9.85347C6.72504 9.93106 6.72504 10.0086 6.72504 10.0862C6.66656 10.0862 6.60808 10.0668 6.5496 10.0862L6.58859 10.0668ZM7.64122 16.041C7.95311 15.9828 8.16754 15.75 8.16754 15.4397C8.16754 15.013 8.16754 14.5668 8.16754 14.1401C8.22602 13.597 8.34297 12.9763 8.47943 12.3556C8.5574 13.3255 8.63537 14.2565 8.63537 15.013C8.63537 15.3815 8.63537 15.6918 8.57689 15.944C8.51841 16.2737 8.73284 16.5841 9.06422 16.6423C9.16169 16.6617 9.27865 16.6617 9.35662 16.6423C9.4151 16.7005 9.49307 16.7392 9.57104 16.7586C8.96676 16.7586 8.34297 16.7586 7.75818 16.7199C7.6997 16.5065 7.66071 16.2737 7.62173 16.0604L7.64122 16.041ZM12.3001 10.9397C12.2221 12.8599 11.6958 14.7026 11.4424 16.7005C11.3644 16.7005 11.267 16.7005 11.1695 16.7005C11.1695 16.6811 11.2085 16.6617 11.2085 16.6423C11.5788 15.75 11.8128 14.4117 11.8323 13.0345C11.8323 12.0841 11.7153 11.0948 11.3644 10.2608C11.8323 10.319 12.3586 10.319 12.8654 10.3384C12.5535 10.3772 12.3196 10.6099 12.3001 10.9203V10.9397ZM17.0759 10.2996C16.7445 10.2996 16.4326 10.2996 16.1013 10.2996C17.0564 10.2414 17.9531 10.1638 18.6939 10.125C18.6939 10.1832 18.6939 10.222 18.6939 10.2802C18.1675 10.2802 17.6217 10.2802 17.0759 10.2802V10.2996Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2701">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+
+											<svg class="acc-minus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2703)">
+													<g clip-path="url(#clip1_450_2703)">
+														<path d="M20.7788 10.6335C20.9999 10.4057 21.0736 10.121 20.9631 9.83634C20.6315 8.81143 20.4473 7.47335 20.4473 6.24915C20.4473 5.96445 20.4473 5.67976 20.4473 5.42353C20.4473 5.1673 20.3367 4.93954 20.1525 4.74025C19.9315 4.54097 19.6367 4.42709 19.3052 4.42709C19.0841 4.42709 18.8262 4.42709 18.5315 4.42709C13.0788 4.42709 7.95779 5.99292 3.13147 5.96445H2.65252C2.57884 5.53741 2.46831 5.08189 2.35779 4.68332C2.21042 4.19933 1.54726 3.91463 0.920944 4.00004C0.257786 4.14239 -0.110635 4.65485 -0.000108853 5.13883C0.368312 6.16374 0.368312 7.81499 1.10515 9.18154C1.5841 10.0072 1.69463 10.4057 1.73147 10.605C1.73147 10.7189 1.73147 10.7474 1.842 11.0321C1.91568 11.4306 2.94726 11.7153 3.09463 11.6869C3.38936 11.6869 3.42621 11.6869 3.64726 11.6869C3.90515 11.6869 4.3841 11.6869 5.15779 11.8292C6.07884 11.9716 6.99989 12.0285 7.92095 12.0285C12.0473 12.0285 16.3209 11.0321 19.7841 11.0036C20.1525 11.0036 20.4841 10.8613 20.7052 10.662L20.7788 10.6335ZM3.35252 8.49826C3.35252 8.49826 3.35252 8.46979 3.35252 8.44132C3.31568 8.38438 3.27884 8.29897 3.242 8.24203C3.57358 8.24203 3.90515 8.15662 4.16305 7.95734C4.23673 7.9004 4.27358 7.84346 4.31042 7.81499C4.86305 7.81499 5.41568 7.72958 5.93147 7.67264C5.04726 7.9004 4.19989 8.18509 3.38937 8.52673L3.35252 8.49826ZM12.6367 9.80787C13.4104 9.58011 14.1104 9.35235 14.7367 9.18154C15.1788 9.06766 15.5841 8.95378 15.9894 8.8399C15.9894 8.8399 16.0262 8.8399 16.0631 8.8399C16.0631 8.8399 16.063 8.8399 16.0999 8.8399C16.6894 8.66908 17.0209 8.12815 16.7999 7.67264C16.7262 7.50182 16.5788 7.35947 16.4315 7.27406C16.4315 7.27406 16.4315 7.27406 16.4315 7.24559C16.4315 6.93243 16.1367 6.64773 15.8052 6.50538C16.5788 6.44844 17.3157 6.36303 18.0525 6.33456C18.0525 7.30253 18.1631 8.29897 18.3473 9.23848C16.4683 9.35235 14.5157 9.60858 12.6367 9.83634V9.80787Z" fill="black" />
+													</g>
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2703">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+													<clipPath id="clip1_450_2703">
+														<rect width="21" height="8" fill="white" transform="translate(0 4)" />
+													</clipPath>
+												</defs>
+											</svg>
+
+										</div>
+										<div class="faq-title">
+											<div class="mb-3">Hvorn&#xE5;r afholdes festivalen i 2027 og 2028?</div>
+											<svg xmlns="http://www.w3.org/2000/svg" width="509" height="3" viewBox="0 0 509 3" fill="none">
+												<g clip-path="url(#clip0_450_2723)">
+													<path d="M505.39 2.18232C510.201 1.6884 510.201 1.19447 505.39 1.19447C505.39 1.19447 394.687 0.700541 269.545 0.700541C144.404 0.700541 24.0662 0.206614 14.4385 0.206614C0 -0.291361 0 0.206614 0 0.700541C0 1.35911 17.6477 1.85304 52.9431 2.18232H298.416C399.492 2.18232 486.129 2.18232 486.129 2.67625C490.939 3.17018 500.567 3.17018 505.384 2.18232H505.39Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2723">
+														<rect width="509" height="3" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+										</div>
+									</button>
+								</h2>
+								<div id="id-30bf098e01034c0889f1bbcd3a8865cf" class="accordion-collapse collapse" aria-labelledby="id-9e50eca699874a599e4c2c848df6d20d" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+									<div class="accordion-body">
+										<div><p>Jelling Musikfestival 2027 løber af stablen torsdag d. 27. maj til søndag d. 30. maj 2027.</p>
+<p>Jelling Musikfestival 2028 afholdes onsdag d. 24. maj til lørdag d. 27. maj 2028 – i Kr. Himmelfartsferien.</p></div>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item" data-faqtag="">
+								<h2 class="accordion-header" id="id-470fe73ab3d944f4bae9fa44b6632aed">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-6ee7b3aea38247e98173f71ebe243974" aria-expanded="false" aria-controls="id-6ee7b3aea38247e98173f71ebe243974">
+										<div class="pe-3">
+											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2701)">
+													<path d="M19.688 4.86856C19.5321 4.75218 19.3371 4.71338 19.1617 4.77157C17.4853 5.1983 15.6529 5.35347 13.8595 5.68321C13.879 4.67459 14.074 3.60778 14.1324 2.50218C14.2689 2.3858 14.3469 2.23063 14.3469 2.05606C14.3469 1.88149 14.2494 1.74571 14.1324 1.62933C14.1324 1.2608 14.113 0.892263 14.035 0.523729C13.996 0.34916 13.8985 0.213384 13.7621 0.116401C13.6256 0.0194183 13.4502 -0.0193748 13.2747 0.0388148C11.9297 0.34916 10.3118 0.23278 8.69385 0.310367C8.34297 0.310367 8.07007 0.620711 8.08956 0.969849C8.08956 1.08623 8.08956 1.20261 8.08956 1.33838C8.08956 2.50218 7.79717 3.66597 7.71919 4.98494C6.43264 4.98494 4.46383 4.81037 3.00184 4.81037C2.49502 4.81037 2.08566 4.81037 1.71529 4.88795V4.81037C1.71529 4.46123 1.4229 4.18968 1.07202 4.18968C0.721141 4.18968 0.448237 4.46123 0.448237 4.81037C0.46773 7.04097 0.370264 9.097 -0.000106163 11.1336C-0.0390925 11.3276 0.019387 11.5216 0.155839 11.6574C0.292291 11.7931 0.46773 11.8707 0.662662 11.8707C2.45603 11.7543 4.30789 11.6186 6.06227 11.4052C6.12075 13.3642 5.9843 15.5173 6.72504 17.5345C6.80301 17.7673 7.03693 17.9224 7.29034 17.9418C8.07007 17.9806 8.86929 18 9.66851 18C10.4677 18 11.267 18 12.0272 17.9418C12.3391 17.9418 12.5925 17.6897 12.6315 17.3793C12.8069 15.4979 13.3527 13.6358 13.5282 11.5798C14.0545 11.5798 14.6003 11.5604 15.1656 11.5604H17.0954C17.8556 11.5604 18.5964 11.5604 19.3566 11.5216C19.6685 11.5216 19.9414 11.25 19.9609 10.9203C19.9999 10.0086 20.0194 9.05821 20.0194 8.12718C20.0194 7.19614 19.9999 6.24571 19.9609 5.33407C19.9609 5.14011 19.8634 4.96554 19.7075 4.86856H19.688ZM18.7523 8.10778C18.6354 8.10778 18.5379 8.10778 18.4404 8.10778C18.4989 7.9914 18.5184 7.85563 18.4989 7.70045C18.4989 7.68106 18.4989 7.66166 18.4794 7.62287C18.5769 7.58407 18.6549 7.52588 18.7523 7.46769C18.7523 7.68106 18.7523 7.87502 18.7523 8.06899V8.10778ZM12.456 8.03019C12.456 8.03019 12.417 8.03019 12.3976 8.03019C12.3976 8.03019 12.3976 8.03019 12.3976 8.0108C12.3976 8.0108 12.4365 8.0108 12.456 8.0108V8.03019ZM11.1305 6.98278C11.1305 6.98278 11.1695 7.17675 11.2085 7.25433C11.1695 7.58407 11.15 7.91382 11.1305 8.26295C11.1305 8.49571 11.1305 8.72847 11.1695 8.98063C11.1695 8.98063 11.1695 9.00002 11.1695 9.01942C10.6627 8.94183 10.1948 8.82545 9.82446 8.67028C9.74648 8.63149 9.66851 8.63149 9.59054 8.63149C9.53206 8.63149 9.47358 8.63149 9.4151 8.65088C9.33713 8.5733 9.23966 8.49571 9.1227 8.47632C8.8303 8.39873 8.51841 8.5345 8.40145 8.80606C8.40145 8.84485 8.38196 8.86425 8.36247 8.90304C8.20652 8.86425 8.05058 8.82545 7.87514 8.78666C7.87514 8.74787 7.87514 8.68968 7.85565 8.65088C7.81666 8.47632 7.71919 8.32114 7.56325 8.22416C7.77767 8.12718 7.9726 8.0108 8.18703 7.91382C8.92777 8.0108 9.62952 8.14657 10.1558 8.24356C10.4872 8.32114 10.7991 8.10778 10.8966 7.79744C10.9551 7.54528 10.8576 7.29313 10.6627 7.13795C10.6627 7.09916 10.6627 7.06037 10.6627 7.02157C10.6627 6.96338 10.6627 6.8858 10.6627 6.82761C10.6627 6.12933 10.8381 5.43106 11.15 4.77157V4.92675C11.15 5.46985 11.15 6.01295 11.15 6.55606C11.15 6.63364 11.15 6.69183 11.15 6.76942C11.15 6.847 11.15 6.92459 11.15 7.00218L11.1305 6.98278ZM12.5925 6.51726C12.5925 6.51726 12.612 6.61425 12.6315 6.67244H12.5535C12.5535 6.67244 12.5535 6.57545 12.573 6.51726H12.5925ZM12.8654 1.39657C12.8654 1.39657 12.7484 1.39657 12.69 1.39657C12.7484 1.39657 12.8069 1.39657 12.8654 1.39657ZM7.85565 6.22632C8.03108 6.22632 8.20652 6.22632 8.38196 6.22632C8.5574 6.22632 8.71334 6.14873 8.8303 6.01295C8.8303 5.99356 8.86929 5.95476 8.86929 5.93537C8.86929 5.99356 8.86929 6.05175 8.88878 6.10994C8.5574 6.26511 8.24551 6.42028 7.93362 6.59485C7.50477 6.55606 7.05642 6.51726 6.62757 6.51726C5.96481 6.51726 5.30204 6.57545 4.71724 6.78882C4.75623 6.57545 4.77572 6.34269 4.79522 6.10994C5.86734 6.16813 6.99795 6.22632 7.85565 6.22632ZM3.25525 6.05175C3.07982 6.36209 2.92387 6.65304 2.72894 6.96338C2.68995 6.96338 2.65097 6.96338 2.61198 6.96338C2.47553 6.96338 2.35857 7.00218 2.24161 7.07976C2.24161 6.75002 2.24161 6.42028 2.2806 6.07114C2.49502 6.07114 2.72894 6.05175 3.00184 6.05175C3.07982 6.05175 3.17728 6.05175 3.25525 6.05175ZM1.48138 9.56252C1.48138 9.56252 1.53985 9.6595 1.57884 9.6983C1.57884 9.77588 1.61783 9.87287 1.63732 9.95045C1.6958 10.1638 1.87124 10.319 2.08566 10.3772C2.18313 10.3966 2.30009 10.416 2.39755 10.4354C2.04668 10.4936 1.71529 10.513 1.36442 10.5517C1.4034 10.222 1.44239 9.89226 1.46188 9.56252H1.48138ZM6.58859 10.0668C5.67241 10.1832 4.69775 10.2802 3.7036 10.3578C3.7036 10.319 3.7036 10.2802 3.7036 10.222C3.9765 10.125 4.21042 9.96985 4.42485 9.81468C4.79522 9.81468 5.16559 9.79528 5.51646 9.79528C5.92582 9.79528 6.33518 9.79528 6.72504 9.85347C6.72504 9.93106 6.72504 10.0086 6.72504 10.0862C6.66656 10.0862 6.60808 10.0668 6.5496 10.0862L6.58859 10.0668ZM7.64122 16.041C7.95311 15.9828 8.16754 15.75 8.16754 15.4397C8.16754 15.013 8.16754 14.5668 8.16754 14.1401C8.22602 13.597 8.34297 12.9763 8.47943 12.3556C8.5574 13.3255 8.63537 14.2565 8.63537 15.013C8.63537 15.3815 8.63537 15.6918 8.57689 15.944C8.51841 16.2737 8.73284 16.5841 9.06422 16.6423C9.16169 16.6617 9.27865 16.6617 9.35662 16.6423C9.4151 16.7005 9.49307 16.7392 9.57104 16.7586C8.96676 16.7586 8.34297 16.7586 7.75818 16.7199C7.6997 16.5065 7.66071 16.2737 7.62173 16.0604L7.64122 16.041ZM12.3001 10.9397C12.2221 12.8599 11.6958 14.7026 11.4424 16.7005C11.3644 16.7005 11.267 16.7005 11.1695 16.7005C11.1695 16.6811 11.2085 16.6617 11.2085 16.6423C11.5788 15.75 11.8128 14.4117 11.8323 13.0345C11.8323 12.0841 11.7153 11.0948 11.3644 10.2608C11.8323 10.319 12.3586 10.319 12.8654 10.3384C12.5535 10.3772 12.3196 10.6099 12.3001 10.9203V10.9397ZM17.0759 10.2996C16.7445 10.2996 16.4326 10.2996 16.1013 10.2996C17.0564 10.2414 17.9531 10.1638 18.6939 10.125C18.6939 10.1832 18.6939 10.222 18.6939 10.2802C18.1675 10.2802 17.6217 10.2802 17.0759 10.2802V10.2996Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2701">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+
+											<svg class="acc-minus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2703)">
+													<g clip-path="url(#clip1_450_2703)">
+														<path d="M20.7788 10.6335C20.9999 10.4057 21.0736 10.121 20.9631 9.83634C20.6315 8.81143 20.4473 7.47335 20.4473 6.24915C20.4473 5.96445 20.4473 5.67976 20.4473 5.42353C20.4473 5.1673 20.3367 4.93954 20.1525 4.74025C19.9315 4.54097 19.6367 4.42709 19.3052 4.42709C19.0841 4.42709 18.8262 4.42709 18.5315 4.42709C13.0788 4.42709 7.95779 5.99292 3.13147 5.96445H2.65252C2.57884 5.53741 2.46831 5.08189 2.35779 4.68332C2.21042 4.19933 1.54726 3.91463 0.920944 4.00004C0.257786 4.14239 -0.110635 4.65485 -0.000108853 5.13883C0.368312 6.16374 0.368312 7.81499 1.10515 9.18154C1.5841 10.0072 1.69463 10.4057 1.73147 10.605C1.73147 10.7189 1.73147 10.7474 1.842 11.0321C1.91568 11.4306 2.94726 11.7153 3.09463 11.6869C3.38936 11.6869 3.42621 11.6869 3.64726 11.6869C3.90515 11.6869 4.3841 11.6869 5.15779 11.8292C6.07884 11.9716 6.99989 12.0285 7.92095 12.0285C12.0473 12.0285 16.3209 11.0321 19.7841 11.0036C20.1525 11.0036 20.4841 10.8613 20.7052 10.662L20.7788 10.6335ZM3.35252 8.49826C3.35252 8.49826 3.35252 8.46979 3.35252 8.44132C3.31568 8.38438 3.27884 8.29897 3.242 8.24203C3.57358 8.24203 3.90515 8.15662 4.16305 7.95734C4.23673 7.9004 4.27358 7.84346 4.31042 7.81499C4.86305 7.81499 5.41568 7.72958 5.93147 7.67264C5.04726 7.9004 4.19989 8.18509 3.38937 8.52673L3.35252 8.49826ZM12.6367 9.80787C13.4104 9.58011 14.1104 9.35235 14.7367 9.18154C15.1788 9.06766 15.5841 8.95378 15.9894 8.8399C15.9894 8.8399 16.0262 8.8399 16.0631 8.8399C16.0631 8.8399 16.063 8.8399 16.0999 8.8399C16.6894 8.66908 17.0209 8.12815 16.7999 7.67264C16.7262 7.50182 16.5788 7.35947 16.4315 7.27406C16.4315 7.27406 16.4315 7.27406 16.4315 7.24559C16.4315 6.93243 16.1367 6.64773 15.8052 6.50538C16.5788 6.44844 17.3157 6.36303 18.0525 6.33456C18.0525 7.30253 18.1631 8.29897 18.3473 9.23848C16.4683 9.35235 14.5157 9.60858 12.6367 9.83634V9.80787Z" fill="black" />
+													</g>
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2703">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+													<clipPath id="clip1_450_2703">
+														<rect width="21" height="8" fill="white" transform="translate(0 4)" />
+													</clipPath>
+												</defs>
+											</svg>
+
+										</div>
+										<div class="faq-title">
+											<div class="mb-3">Hvordan kan man blive frivillig?</div>
+											<svg xmlns="http://www.w3.org/2000/svg" width="509" height="3" viewBox="0 0 509 3" fill="none">
+												<g clip-path="url(#clip0_450_2723)">
+													<path d="M505.39 2.18232C510.201 1.6884 510.201 1.19447 505.39 1.19447C505.39 1.19447 394.687 0.700541 269.545 0.700541C144.404 0.700541 24.0662 0.206614 14.4385 0.206614C0 -0.291361 0 0.206614 0 0.700541C0 1.35911 17.6477 1.85304 52.9431 2.18232H298.416C399.492 2.18232 486.129 2.18232 486.129 2.67625C490.939 3.17018 500.567 3.17018 505.384 2.18232H505.39Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2723">
+														<rect width="509" height="3" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+										</div>
+									</button>
+								</h2>
+								<div id="id-6ee7b3aea38247e98173f71ebe243974" class="accordion-collapse collapse" aria-labelledby="id-470fe73ab3d944f4bae9fa44b6632aed" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+									<div class="accordion-body">
+										<div><p>Meld dig på holdet – og <a href="/faellesskab/frivillig/" title="Frivillig">bliv en del af Danmarks stærkeste festivalfællesskab</a>.</p></div>
+									</div>
+								</div>
+							</div>
+							<div class="accordion-item" data-faqtag="">
+								<h2 class="accordion-header" id="id-98c56fb9870e4e2f8ed4ddcd54963777">
+									<button class="accordion-button collapsed p-0 align-items-start" type="button" data-bs-toggle="collapse" data-bs-target="#id-e1d5658571ef488fb3e68ee5867de351" aria-expanded="false" aria-controls="id-e1d5658571ef488fb3e68ee5867de351">
+										<div class="pe-3">
+											<svg class="acc-plus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2701)">
+													<path d="M19.688 4.86856C19.5321 4.75218 19.3371 4.71338 19.1617 4.77157C17.4853 5.1983 15.6529 5.35347 13.8595 5.68321C13.879 4.67459 14.074 3.60778 14.1324 2.50218C14.2689 2.3858 14.3469 2.23063 14.3469 2.05606C14.3469 1.88149 14.2494 1.74571 14.1324 1.62933C14.1324 1.2608 14.113 0.892263 14.035 0.523729C13.996 0.34916 13.8985 0.213384 13.7621 0.116401C13.6256 0.0194183 13.4502 -0.0193748 13.2747 0.0388148C11.9297 0.34916 10.3118 0.23278 8.69385 0.310367C8.34297 0.310367 8.07007 0.620711 8.08956 0.969849C8.08956 1.08623 8.08956 1.20261 8.08956 1.33838C8.08956 2.50218 7.79717 3.66597 7.71919 4.98494C6.43264 4.98494 4.46383 4.81037 3.00184 4.81037C2.49502 4.81037 2.08566 4.81037 1.71529 4.88795V4.81037C1.71529 4.46123 1.4229 4.18968 1.07202 4.18968C0.721141 4.18968 0.448237 4.46123 0.448237 4.81037C0.46773 7.04097 0.370264 9.097 -0.000106163 11.1336C-0.0390925 11.3276 0.019387 11.5216 0.155839 11.6574C0.292291 11.7931 0.46773 11.8707 0.662662 11.8707C2.45603 11.7543 4.30789 11.6186 6.06227 11.4052C6.12075 13.3642 5.9843 15.5173 6.72504 17.5345C6.80301 17.7673 7.03693 17.9224 7.29034 17.9418C8.07007 17.9806 8.86929 18 9.66851 18C10.4677 18 11.267 18 12.0272 17.9418C12.3391 17.9418 12.5925 17.6897 12.6315 17.3793C12.8069 15.4979 13.3527 13.6358 13.5282 11.5798C14.0545 11.5798 14.6003 11.5604 15.1656 11.5604H17.0954C17.8556 11.5604 18.5964 11.5604 19.3566 11.5216C19.6685 11.5216 19.9414 11.25 19.9609 10.9203C19.9999 10.0086 20.0194 9.05821 20.0194 8.12718C20.0194 7.19614 19.9999 6.24571 19.9609 5.33407C19.9609 5.14011 19.8634 4.96554 19.7075 4.86856H19.688ZM18.7523 8.10778C18.6354 8.10778 18.5379 8.10778 18.4404 8.10778C18.4989 7.9914 18.5184 7.85563 18.4989 7.70045C18.4989 7.68106 18.4989 7.66166 18.4794 7.62287C18.5769 7.58407 18.6549 7.52588 18.7523 7.46769C18.7523 7.68106 18.7523 7.87502 18.7523 8.06899V8.10778ZM12.456 8.03019C12.456 8.03019 12.417 8.03019 12.3976 8.03019C12.3976 8.03019 12.3976 8.03019 12.3976 8.0108C12.3976 8.0108 12.4365 8.0108 12.456 8.0108V8.03019ZM11.1305 6.98278C11.1305 6.98278 11.1695 7.17675 11.2085 7.25433C11.1695 7.58407 11.15 7.91382 11.1305 8.26295C11.1305 8.49571 11.1305 8.72847 11.1695 8.98063C11.1695 8.98063 11.1695 9.00002 11.1695 9.01942C10.6627 8.94183 10.1948 8.82545 9.82446 8.67028C9.74648 8.63149 9.66851 8.63149 9.59054 8.63149C9.53206 8.63149 9.47358 8.63149 9.4151 8.65088C9.33713 8.5733 9.23966 8.49571 9.1227 8.47632C8.8303 8.39873 8.51841 8.5345 8.40145 8.80606C8.40145 8.84485 8.38196 8.86425 8.36247 8.90304C8.20652 8.86425 8.05058 8.82545 7.87514 8.78666C7.87514 8.74787 7.87514 8.68968 7.85565 8.65088C7.81666 8.47632 7.71919 8.32114 7.56325 8.22416C7.77767 8.12718 7.9726 8.0108 8.18703 7.91382C8.92777 8.0108 9.62952 8.14657 10.1558 8.24356C10.4872 8.32114 10.7991 8.10778 10.8966 7.79744C10.9551 7.54528 10.8576 7.29313 10.6627 7.13795C10.6627 7.09916 10.6627 7.06037 10.6627 7.02157C10.6627 6.96338 10.6627 6.8858 10.6627 6.82761C10.6627 6.12933 10.8381 5.43106 11.15 4.77157V4.92675C11.15 5.46985 11.15 6.01295 11.15 6.55606C11.15 6.63364 11.15 6.69183 11.15 6.76942C11.15 6.847 11.15 6.92459 11.15 7.00218L11.1305 6.98278ZM12.5925 6.51726C12.5925 6.51726 12.612 6.61425 12.6315 6.67244H12.5535C12.5535 6.67244 12.5535 6.57545 12.573 6.51726H12.5925ZM12.8654 1.39657C12.8654 1.39657 12.7484 1.39657 12.69 1.39657C12.7484 1.39657 12.8069 1.39657 12.8654 1.39657ZM7.85565 6.22632C8.03108 6.22632 8.20652 6.22632 8.38196 6.22632C8.5574 6.22632 8.71334 6.14873 8.8303 6.01295C8.8303 5.99356 8.86929 5.95476 8.86929 5.93537C8.86929 5.99356 8.86929 6.05175 8.88878 6.10994C8.5574 6.26511 8.24551 6.42028 7.93362 6.59485C7.50477 6.55606 7.05642 6.51726 6.62757 6.51726C5.96481 6.51726 5.30204 6.57545 4.71724 6.78882C4.75623 6.57545 4.77572 6.34269 4.79522 6.10994C5.86734 6.16813 6.99795 6.22632 7.85565 6.22632ZM3.25525 6.05175C3.07982 6.36209 2.92387 6.65304 2.72894 6.96338C2.68995 6.96338 2.65097 6.96338 2.61198 6.96338C2.47553 6.96338 2.35857 7.00218 2.24161 7.07976C2.24161 6.75002 2.24161 6.42028 2.2806 6.07114C2.49502 6.07114 2.72894 6.05175 3.00184 6.05175C3.07982 6.05175 3.17728 6.05175 3.25525 6.05175ZM1.48138 9.56252C1.48138 9.56252 1.53985 9.6595 1.57884 9.6983C1.57884 9.77588 1.61783 9.87287 1.63732 9.95045C1.6958 10.1638 1.87124 10.319 2.08566 10.3772C2.18313 10.3966 2.30009 10.416 2.39755 10.4354C2.04668 10.4936 1.71529 10.513 1.36442 10.5517C1.4034 10.222 1.44239 9.89226 1.46188 9.56252H1.48138ZM6.58859 10.0668C5.67241 10.1832 4.69775 10.2802 3.7036 10.3578C3.7036 10.319 3.7036 10.2802 3.7036 10.222C3.9765 10.125 4.21042 9.96985 4.42485 9.81468C4.79522 9.81468 5.16559 9.79528 5.51646 9.79528C5.92582 9.79528 6.33518 9.79528 6.72504 9.85347C6.72504 9.93106 6.72504 10.0086 6.72504 10.0862C6.66656 10.0862 6.60808 10.0668 6.5496 10.0862L6.58859 10.0668ZM7.64122 16.041C7.95311 15.9828 8.16754 15.75 8.16754 15.4397C8.16754 15.013 8.16754 14.5668 8.16754 14.1401C8.22602 13.597 8.34297 12.9763 8.47943 12.3556C8.5574 13.3255 8.63537 14.2565 8.63537 15.013C8.63537 15.3815 8.63537 15.6918 8.57689 15.944C8.51841 16.2737 8.73284 16.5841 9.06422 16.6423C9.16169 16.6617 9.27865 16.6617 9.35662 16.6423C9.4151 16.7005 9.49307 16.7392 9.57104 16.7586C8.96676 16.7586 8.34297 16.7586 7.75818 16.7199C7.6997 16.5065 7.66071 16.2737 7.62173 16.0604L7.64122 16.041ZM12.3001 10.9397C12.2221 12.8599 11.6958 14.7026 11.4424 16.7005C11.3644 16.7005 11.267 16.7005 11.1695 16.7005C11.1695 16.6811 11.2085 16.6617 11.2085 16.6423C11.5788 15.75 11.8128 14.4117 11.8323 13.0345C11.8323 12.0841 11.7153 11.0948 11.3644 10.2608C11.8323 10.319 12.3586 10.319 12.8654 10.3384C12.5535 10.3772 12.3196 10.6099 12.3001 10.9203V10.9397ZM17.0759 10.2996C16.7445 10.2996 16.4326 10.2996 16.1013 10.2996C17.0564 10.2414 17.9531 10.1638 18.6939 10.125C18.6939 10.1832 18.6939 10.222 18.6939 10.2802C18.1675 10.2802 17.6217 10.2802 17.0759 10.2802V10.2996Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2701">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+
+											<svg class="acc-minus" width="20" height="18" viewBox="0 0 20 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+												<g clip-path="url(#clip0_450_2703)">
+													<g clip-path="url(#clip1_450_2703)">
+														<path d="M20.7788 10.6335C20.9999 10.4057 21.0736 10.121 20.9631 9.83634C20.6315 8.81143 20.4473 7.47335 20.4473 6.24915C20.4473 5.96445 20.4473 5.67976 20.4473 5.42353C20.4473 5.1673 20.3367 4.93954 20.1525 4.74025C19.9315 4.54097 19.6367 4.42709 19.3052 4.42709C19.0841 4.42709 18.8262 4.42709 18.5315 4.42709C13.0788 4.42709 7.95779 5.99292 3.13147 5.96445H2.65252C2.57884 5.53741 2.46831 5.08189 2.35779 4.68332C2.21042 4.19933 1.54726 3.91463 0.920944 4.00004C0.257786 4.14239 -0.110635 4.65485 -0.000108853 5.13883C0.368312 6.16374 0.368312 7.81499 1.10515 9.18154C1.5841 10.0072 1.69463 10.4057 1.73147 10.605C1.73147 10.7189 1.73147 10.7474 1.842 11.0321C1.91568 11.4306 2.94726 11.7153 3.09463 11.6869C3.38936 11.6869 3.42621 11.6869 3.64726 11.6869C3.90515 11.6869 4.3841 11.6869 5.15779 11.8292C6.07884 11.9716 6.99989 12.0285 7.92095 12.0285C12.0473 12.0285 16.3209 11.0321 19.7841 11.0036C20.1525 11.0036 20.4841 10.8613 20.7052 10.662L20.7788 10.6335ZM3.35252 8.49826C3.35252 8.49826 3.35252 8.46979 3.35252 8.44132C3.31568 8.38438 3.27884 8.29897 3.242 8.24203C3.57358 8.24203 3.90515 8.15662 4.16305 7.95734C4.23673 7.9004 4.27358 7.84346 4.31042 7.81499C4.86305 7.81499 5.41568 7.72958 5.93147 7.67264C5.04726 7.9004 4.19989 8.18509 3.38937 8.52673L3.35252 8.49826ZM12.6367 9.80787C13.4104 9.58011 14.1104 9.35235 14.7367 9.18154C15.1788 9.06766 15.5841 8.95378 15.9894 8.8399C15.9894 8.8399 16.0262 8.8399 16.0631 8.8399C16.0631 8.8399 16.063 8.8399 16.0999 8.8399C16.6894 8.66908 17.0209 8.12815 16.7999 7.67264C16.7262 7.50182 16.5788 7.35947 16.4315 7.27406C16.4315 7.27406 16.4315 7.27406 16.4315 7.24559C16.4315 6.93243 16.1367 6.64773 15.8052 6.50538C16.5788 6.44844 17.3157 6.36303 18.0525 6.33456C18.0525 7.30253 18.1631 8.29897 18.3473 9.23848C16.4683 9.35235 14.5157 9.60858 12.6367 9.83634V9.80787Z" fill="black" />
+													</g>
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2703">
+														<rect width="20" height="18" fill="white" />
+													</clipPath>
+													<clipPath id="clip1_450_2703">
+														<rect width="21" height="8" fill="white" transform="translate(0 4)" />
+													</clipPath>
+												</defs>
+											</svg>
+
+										</div>
+										<div class="faq-title">
+											<div class="mb-3">Hvad skal jeg g&#xF8;re hvis et bel&#xF8;b er trukket flere gange if&#xF8;lge min Wallet?</div>
+											<svg xmlns="http://www.w3.org/2000/svg" width="509" height="3" viewBox="0 0 509 3" fill="none">
+												<g clip-path="url(#clip0_450_2723)">
+													<path d="M505.39 2.18232C510.201 1.6884 510.201 1.19447 505.39 1.19447C505.39 1.19447 394.687 0.700541 269.545 0.700541C144.404 0.700541 24.0662 0.206614 14.4385 0.206614C0 -0.291361 0 0.206614 0 0.700541C0 1.35911 17.6477 1.85304 52.9431 2.18232H298.416C399.492 2.18232 486.129 2.18232 486.129 2.67625C490.939 3.17018 500.567 3.17018 505.384 2.18232H505.39Z" fill="black" />
+												</g>
+												<defs>
+													<clipPath id="clip0_450_2723">
+														<rect width="509" height="3" fill="white" />
+													</clipPath>
+												</defs>
+											</svg>
+										</div>
+									</button>
+								</h2>
+								<div id="id-e1d5658571ef488fb3e68ee5867de351" class="accordion-collapse collapse" aria-labelledby="id-98c56fb9870e4e2f8ed4ddcd54963777" data-bs-parent="#id-f33b8a8d8796465d85f90bda3228a9de">
+									<div class="accordion-body">
+										<div><p class="MsoNormal">Efter Nets’ nedbrud har vi modtaget flere henvendelser om wallet-apps, der grundet en teknisk fejl viser ukorrekte betalinger. Vores opfordring er, at festivalgæster venter et par bankdage før de kontrollerer, at de trukne beløb på deres bankkonto stemmer.</p>
+<p class="MsoNormal">Du kan læse mere om problematikken <a href="/info/faq-om-betalinger-jmf26/" title="FAQ om betalinger – JMF26">her</a>.</p></div>
+									</div>
+								</div>
+							</div>
+					</div>
+					<a class="btn btn-info fw-bold w-100 text-white text-uppercase rounded-0" href="/info/">Find mere info her</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+	<div class="latest-news">
+		<div class="block-effect">
+				<svg class="block-vector" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1599 276" fill="none">
+					<path d="M1599 5.97325C1599 3.98216 1598.82 1.99108 1598.73 0C1586.97 1.13061 1575.2 2.25122 1563.45 3.39184C1544.23 5.25285 1525.01 7.14388 1505.79 8.99489C1482.77 11.2161 1459.73 13.3973 1436.7 15.6185C1414.67 17.7396 1392.63 19.8208 1370.6 22.022C1337.98 25.2737 1305.25 27.635 1273 33.9685C1261.55 36.2197 1250.13 38.661 1239.26 42.9834C1217.63 51.588 1194.92 56.1805 1172.27 60.8731C1083.1 79.3331 993.891 97.593 904.684 115.903C896.515 117.584 888.477 119.705 880.588 122.397C871.899 125.358 863.04 127.629 854.052 129.41C835.935 133.002 818.117 138.105 799.74 140.406C783.722 142.407 767.695 144.408 751.667 146.32C728.341 149.091 705.264 153.403 682.128 157.345C661.111 160.927 639.974 163.459 618.697 165.01C604.089 166.07 589.521 167.621 574.884 168.341C569.235 168.622 563.565 168.722 557.916 168.762C546.758 168.842 535.6 168.922 524.451 168.812C502.135 168.602 479.828 169.222 457.541 170.042C422.437 171.343 387.402 173.834 352.597 178.837C338.099 180.928 323.861 184.52 309.294 186.311C299.555 187.512 289.687 188.142 280.168 190.644C263.32 195.066 246.073 196.447 228.816 197.888C203.729 199.979 178.873 203.471 154.537 210.214C141.389 213.866 128.131 217.188 114.583 219.099C109.814 219.769 104.984 220.48 100.185 220.51C88.1268 220.59 76.2586 222.081 64.5403 224.712C49.2126 228.154 33.565 229.044 18.0173 230.715C12.0682 231.356 6.13908 232.266 0.209968 233.057C0.139979 234.718 0 236.368 0 238.029C0 250.686 0 263.343 0 276H1599C1599 185.991 1599 95.9822 1599 5.96324V5.97325Z" fill="#AED3F0" />
+				</svg>
+				<div class="block-cover"></div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="d-flex justify-content-between align-items-center mb-5">
+						<h2 class="text-uppercase">Seneste nyheder</h2>
+						<a href="/nyheder/" class="btn btn-primary rounded-0 px-5 text-uppercase fw-bold d-none d-md-block">
+							Se alle nyheder
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container news-container">
+			<div class="row">
+					<div class="col-12 col-xl-4 col-xxl-4 mb-5">
+						
+
+<a href="/nyheder/talentplatformen-quasar-skifter-navn-til-anlaeg14-tilmeld-dig-nu/" class="news-item newsPreviewMedium news-item-simple">
+	<div class="top-container">
+			<div class="news-date-container">
+				<svg xmlns="http://www.w3.org/2000/svg" width="221" height="217" viewBox="0 0 221 217" fill="none">
+					<path d="M143.846 212.198C179.912 199.912 208.727 168.752 217.833 132.192C226.939 95.6317 216.04 54.846 189.86 27.4729C184.465 21.8386 178.431 16.7052 171.601 12.8708C159.782 6.21922 146.076 3.65249 132.573 1.89961C115.889 -0.275838 98.6903 -1.35574 82.4584 2.99516C72.3388 5.70273 62.9209 10.4449 53.5965 15.1714C45.3636 19.3501 37.006 23.6697 30.5663 30.2117C23.8459 37.0355 19.6671 45.8468 15.6754 54.5173C9.01735 68.9786 2.49963 83.7841 0.581741 99.5601C-3.47234 133.053 14.1473 166.091 38.3314 189.943C43.5705 195.108 49.1994 200.022 55.7795 203.403C63.7785 207.519 72.791 209.209 81.6632 210.837C104.179 214.984 122.609 221.573 143.488 212.276L143.846 212.198Z" fill="#F7B4CB" />
+				</svg>
+			</div>
+			<div class="news-date-value">
+				<span>30.</span>
+				<span>jun.</span>
+			</div>
+		
+
+<div class="media-container news-preview-media">
+		<picture>
+					<img style="" src="https://cdn.jellingmusikfestival.dk/media/ajcosz5u/fredag_thorhauge_quasar5.jpg?cc=0,0.049444444444444444,0,0.061666666666666634&amp;width=540&amp;height=320&amp;quality=80&amp;v=1dd086f53aa1370" alt="Fredag Thorhauge Quasar5" />
+		</picture>
+</div>
+
+	</div>
+	<div class="title">
+		<div class="title-inner">
+			Talentplatformen Quasar skifter navn til Anl&#xE6;g14: Tilmeld dig nu
+		</div>
+			<div class="btn btn-sm btn-primary rounded-0">læs mere</div>
+	</div>
+</a>
+					</div>
+					<div class="col-12 col-xl-4 col-xxl-5 mb-5">
+						
+
+<a href="/nyheder/jmf26-aabnede-hjerterne-faellesskabet-og-sommeren/" class="news-item newsPreviewMedium news-item-simple">
+	<div class="top-container">
+			<div class="news-date-container">
+				<svg xmlns="http://www.w3.org/2000/svg" width="221" height="217" viewBox="0 0 221 217" fill="none">
+					<path d="M143.846 212.198C179.912 199.912 208.727 168.752 217.833 132.192C226.939 95.6317 216.04 54.846 189.86 27.4729C184.465 21.8386 178.431 16.7052 171.601 12.8708C159.782 6.21922 146.076 3.65249 132.573 1.89961C115.889 -0.275838 98.6903 -1.35574 82.4584 2.99516C72.3388 5.70273 62.9209 10.4449 53.5965 15.1714C45.3636 19.3501 37.006 23.6697 30.5663 30.2117C23.8459 37.0355 19.6671 45.8468 15.6754 54.5173C9.01735 68.9786 2.49963 83.7841 0.581741 99.5601C-3.47234 133.053 14.1473 166.091 38.3314 189.943C43.5705 195.108 49.1994 200.022 55.7795 203.403C63.7785 207.519 72.791 209.209 81.6632 210.837C104.179 214.984 122.609 221.573 143.488 212.276L143.846 212.198Z" fill="#F7B4CB" />
+				</svg>
+			</div>
+			<div class="news-date-value">
+				<span>25.</span>
+				<span>maj</span>
+			</div>
+		
+
+<div class="media-container news-preview-media">
+		<picture>
+					<img style="" src="https://cdn.jellingmusikfestival.dk/media/xgqbght1/dji_20260522233748_0253_d.jpg?cc=0,0.11131308540988155,0,0&amp;width=540&amp;height=320&amp;quality=80&amp;v=1dcec3320f8b650" alt="DJI 20260522233748 0253 D" />
+		</picture>
+</div>
+
+	</div>
+	<div class="title">
+		<div class="title-inner">
+			JMF26 &#xE5;bnede hjerterne, f&#xE6;llesskabet og sommeren
+		</div>
+			<div class="btn btn-sm btn-primary rounded-0">læs mere</div>
+	</div>
+</a>
+					</div>
+					<div class="col-12 col-xl-4 col-xxl-4 mb-5">
+						
+
+<a href="/nyheder/madspildsstatus-i-har-spist-det-hele/" class="news-item newsPreviewMedium news-item-simple">
+	<div class="top-container">
+			<div class="news-date-container">
+				<svg xmlns="http://www.w3.org/2000/svg" width="221" height="217" viewBox="0 0 221 217" fill="none">
+					<path d="M143.846 212.198C179.912 199.912 208.727 168.752 217.833 132.192C226.939 95.6317 216.04 54.846 189.86 27.4729C184.465 21.8386 178.431 16.7052 171.601 12.8708C159.782 6.21922 146.076 3.65249 132.573 1.89961C115.889 -0.275838 98.6903 -1.35574 82.4584 2.99516C72.3388 5.70273 62.9209 10.4449 53.5965 15.1714C45.3636 19.3501 37.006 23.6697 30.5663 30.2117C23.8459 37.0355 19.6671 45.8468 15.6754 54.5173C9.01735 68.9786 2.49963 83.7841 0.581741 99.5601C-3.47234 133.053 14.1473 166.091 38.3314 189.943C43.5705 195.108 49.1994 200.022 55.7795 203.403C63.7785 207.519 72.791 209.209 81.6632 210.837C104.179 214.984 122.609 221.573 143.488 212.276L143.846 212.198Z" fill="#F7B4CB" />
+				</svg>
+			</div>
+			<div class="news-date-value">
+				<span>25.</span>
+				<span>maj</span>
+			</div>
+		
+
+<div class="media-container news-preview-media">
+		<picture>
+					<img style="" src="https://cdn.jellingmusikfestival.dk/media/wirfp1az/jan-sejersen-loerdag-77.jpg?cc=0,0.05532825987665795,0,0.05598482553322358&amp;width=540&amp;height=320&amp;quality=80&amp;v=1dcec4f308709c0" alt="Jan Sejersen L&#xF8;rdag 77" />
+		</picture>
+</div>
+
+	</div>
+	<div class="title">
+		<div class="title-inner">
+			Madspildsstatus: I har spist det hele
+		</div>
+			<div class="btn btn-sm btn-primary rounded-0">læs mere</div>
+	</div>
+</a>
+					</div>
+			</div>
+			<div class="row">
+				<div class="col-12">
+					<a href="/nyheder/" class="btn btn-primary rounded-0 px-5 text-uppercase fw-bold d-md-none">
+						Se alle nyheder
+					</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<div class="wishing-well my-5" data-component="wishing-well">
+
+    <div class="container">
+        <div class="row my-6">
+            <div class="col-12 rte">
+                <h2 style="text-align: center;">hvem <span class="text-secondary">drømmer du</span> <br>om at høre?</h2>
+<p style="text-align: center;">Forberedelserne til næste års fællesskabsbrag er i fuld gang og plakaten<br>har brug for inspiration fra 40.000 musikhjerter, der banker i takt.</p>
+<p style="text-align: center;">Så send os de navne, du drømmer allermest om at se på JMF27.</p>
+<p style="text-align: center;"><strong>Drøm stort, tænkt skævt, ønsk løs!</strong></p>
+            </div>
+        </div>
+
+        <div class="col-12 col-xl-10 offset-xl-1">
+            <div class="wishing-well-form bg-light rounded-5 pt-lg-4 pb-lg-5 px-lg-6 px-3 py-4">
+                <img class="jmf-bg" src="/files/images/jmf-gfx-lg.svg" />
+
+                <div class="container-fluid post-submit d-none">
+                    <div class="row">
+                        <div class="col-12 mt-4 rte">
+                            <h2 style="text-align: center;">TAK<br>for dine ønsker</h2>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="container-fluid pre-submit">
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="d-flex align-items-center justify-content-center mb-2 mt-3">
+                                <strong>VÆLG DANSKE ARTISTER</strong>
+                            </div>
+
+<form action="/" class="danish-query-form" enctype="multipart/form-data" id="form9946d8c0019f42c783907bb457115a96" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-query" name="q" hidden value="" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNL0wo_FYzS7iYP_QRgbMIYIBN7KrOnuuE9mMMbXMi9tpU6hGdCBLIZWZPYZ_8MkHPoeLNVs_Dfm-PXF5RD73CX6yb78lJLvYztL-C9Rm_iIBLeQQ1PaNXBNV93oC3vgfw" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-danish-select" name="danish" placeholder="V&#xE6;lg danske artister">
+                                <option value="">Søg dansk artist</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row mt-3">
+                        <div class="col-12">
+                            <div class="d-flex align-items-center justify-content-center mb-2 mt-3">
+                                <strong>VÆLG INTERNATIONALE ARTISTER</strong>
+                            </div>
+
+<form action="/" class="global-query-form" enctype="multipart/form-data" id="form851d696f0c3444a6900f8a457d50f7f1" method="post">                                <input class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-query" name="q" hidden value="" />
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOgnFaE6B7FPETpTpxnRrsY8pDqf5z-M1hVNP2j8uURR9HUqJuVyV4Z-ebiHtjtJluX67R2BTbQP5h8UjnAwKxAiwuOpfAtiJqI82AFUhhaBO3j6aONayFjTyg2-7jjbiunVdejeBc4ZOQJLMJ7W1_f" /></form>                            <select multiple class="w-100 search-term bg-light border-0 border-bottom p-2 border-2 border-dark input-global-select" name="international" placeholder="V&#xE6;lg internationale artister">
+                                <option value="">Søg international artist</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="row mt-4">
+                        <div class="col-12">
+                            <div class="d-flex align-items-center justify-content-center">
+                                <button type="button" class="wish-submit btn btn-info text-uppercase text-20 text-white px-5 rounded-0 fw-bold" data-bs-toggle="modal" data-bs-target="#wishing-well-modal">Kast dit ønske afsted</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="modal fade" id="wishing-well-modal">
+    <div class="modal-dialog">
+        <div class="modal-content mega-menu-content">
+            <div class="container-fluid mega-header mb-0">
+                <div class="row">
+                    <div class="col">
+                    </div>
+                    <div class="col-auto">
+                        <div class="d-flex align-items-center h-100">
+                            <button class="button-unset pe-md-3 close-wish-form" data-bs-toggle="modal" data-bs-target="#wishing-well-modal">
+                                <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M10.8809 2.7489C10.1075 3.61889 9.1363 5.25988 8.76965 5.53595C8.7286 5.85288 8.24347 5.44695 7.10715 4.02028C6.21339 3.26744 4.38856 1.96065 4.14599 1.28682C3.33433 -0.0989859 3.00874 -0.138944 1.58414 0.651128C1.21749 0.928107 0.654925 1.21326 0.395567 1.4076C0.136209 1.60194 0 2.08779 0 2.08779C0 2.08779 0.361981 2.43015 0.889094 3.45997C1.7418 4.52974 3.67579 5.99818 4.4464 6.69199C6.13129 8.6699 6.31602 7.41123 2.69154 11.4297C1.18484 12.8527 0.00373177 14.3157 0.00373177 14.3157C-0.0373177 14.6327 0.291078 14.8642 0.575625 15.2211C1.01131 15.6707 1.4246 16.0993 1.7502 16.1392C1.9937 16.8122 2.64396 16.8921 3.05165 16.2991C3.86145 15.5036 4.36337 14.8869 4.66657 14.5918C5.03322 14.3148 4.59007 14.6563 5.73013 13.5093C7.31893 11.4524 7.64453 11.4924 8.86295 12.2861C10.0823 13.0798 13.6564 16.092 13.6154 16.409C13.8999 16.7659 14.8515 17.1282 14.9187 16.9557C14.9187 16.9557 15.8031 15.9794 16.0149 15.7388C16.7883 14.8688 17.3863 14.5736 16.6969 14.1032C16.4282 13.9198 15.0829 12.7292 13.8644 11.9355C11.2242 9.35916 10.7764 8.74436 10.9331 8.46466C11.3558 7.70637 13.0603 5.40336 14.567 3.98032C15.8432 2.63569 15.8581 1.67247 14.6117 1.09066C13.0677 0.257 13.0714 0 13.0714 0C12.9921 0.488573 11.9314 1.61465 10.8809 2.7489Z" fill="#15155B" />
+                                </svg>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="selected-artists">
+                            <div class="fw-bold mb-2">Danske artister</div>
+                            <div class="danish-selection"></div>
+                            <div class="fw-bold mb-2">Internationale artister</div>
+                            <div class="global-selection"></div>
+                        </div>
+                    </div>
+                    <div class="col-12 mt-4">
+<form action="/" class="wish-form" enctype="multipart/form-data" id="form82a5610072fe42a299f933ae32a44d12" method="post"><input data-val="true" data-val-required="The InternationalArtists field is required." id="wishModel_InternationalArtists" name="wishModel.InternationalArtists" type="hidden" value="" /><input data-val="true" data-val-required="The DanishArtists field is required." id="wishModel_DanishArtists" name="wishModel.DanishArtists" type="hidden" value="" />                            <div class="mb-3">
+                                <label for="wishModel_Name">Navn *</label>
+                                <input class="form-control" data-val="true" data-val-required="P&#xE5;kr&#xE6;vet" id="wishModel_Name" name="wishModel.Name" placeholder="Navn" type="text" value="" />
+                                <span class="field-validation-valid" data-valmsg-for="wishModel.Name" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label for="wishModel_Email">E-mail *</label>
+                                <input class="form-control" data-val="true" data-val-email="Ugyldig e-mail" data-val-required="P&#xE5;kr&#xE6;vet" id="wishModel_Email" name="wishModel.Email" placeholder="E-mail" type="text" value="" />
+                                <span class="field-validation-valid" data-valmsg-for="wishModel.Email" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label for="wishModel_Gender">K&#xF8;n *</label>
+                                <select class="form-select" data-val="true" data-val-required="P&#xE5;kr&#xE6;vet" id="wishModel_Gender" name="wishModel.Gender"><option value="">V&#xE6;lg k&#xF8;n</option>
+<option value="Mand">Mand</option>
+<option value="Kvinde">Kvinde</option>
+<option value="Andet">Andet</option>
+</select>
+                                <span class="field-validation-valid" data-valmsg-for="wishModel.Gender" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="mb-3">
+                                <label for="wishModel_Age">Alder *</label>
+                                <input class="form-control" data-val="true" data-val-range="Ugyldig alder" data-val-range-max="99" data-val-range-min="1" data-val-required="P&#xE5;kr&#xE6;vet" id="wishModel_Age" name="wishModel.Age" placeholder="Alder" type="text" value="0" />
+                                <span class="field-validation-valid" data-valmsg-for="wishModel.Age" data-valmsg-replace="true"></span>
+                            </div>
+                            <div class="mb-3 col pe-md-4 mt-0">
+                                <div class="form-check">
+                                    <input type="checkbox" class="form-check-input" data-val="true" data-val-required="The Newsletter field is required." id="wishModel_Newsletter" name="wishModel.Newsletter" value="true" />
+                                    <label class="form-check-label" for="wishModel_Newsletter">
+                                        <span class="terms">
+                                            <p>Ja, tak - hold mig opdateret om musik på Jelling Musikfestival på email</p>
+                                        </span>
+                                    </label>
+                                </div>
+                                <div class="form-check">
+                                    <input type="checkbox" data-val-booleanrequired="Påkrævet" class="form-check-input" data-val="true" data-val-required="The Terms field is required." id="wishModel_Terms" name="wishModel.Terms" value="true" />
+                                    <label class="form-check-label" for="wishModel_Terms">
+                                        <span class="terms">
+                                            <p>Jeg accepterer vilkår for opbevaring af <a rel="noopener" href="https://cdn.jellingmusikfestival.dk/media/b2sf3yww/2024-11-29-privatlivspolitik-jelling-musikfestival.pdf" target="_blank" title="privatlivspolitik">personoplysninger</a></p>
+                                        </span>
+                                        <span class="mt-0 form-text text-danger d-block field-validation-valid" data-valmsg-for="wishModel.Terms" data-valmsg-replace="true"></span>
+                                    </label>
+                                </div>
+                            </div>
+                            <button type="submit" class="wish-form-submit btn btn-primary w-100 text-uppercase fw-bold rounded-0">INDSEND</button>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOd9y33ou_7bcH6RViHJi8QeFh7v4xLvieVz2pPGB3Kkx4AM0tNaSi_8bLyP4WHwethqY4MixvQ9HFMQjyqaNGcj1xM0Qlan15R75DoSlfvIlwoX1fkGRzzYcPdSpGfOz4" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNsG2yHL0AizDYz4R1doQ8H3zH2msCdB0uj20RKbOAvjoOhioNmgEK7jg5fc0JEz6EPDALRD7bVd3Nmw8_l1EE7FVzrfB9req9fcXxrlZUI-l_OMjoI9vwx4dcvUHSxqes" /><input name="wishModel.Newsletter" type="hidden" value="false" /><input name="wishModel.Terms" type="hidden" value="false" /></form>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="rte-element has-bg">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 background-graphic-container">
+					<div class="background-graphic jmf-background">
+							<img src="/files/images/jmf-gfx-lg.svg" />
+					</div>
+				<div class="row">
+					<div class="background-graphic-container col-12">
+						<div class="rte ">
+							<h2 class="h2-medium">4 DAGES FÆLLESSKABSFEST, DER SÆNKER DINE SKULDRE</h2>
+<p>Alle har brug for at føle, de hører til i et fællesskab. I Jelling bygger vi i maj en samfundslomme hvor du møder mennesker, naboer og venner på nye måder. Jelling Musikfestival er for dem, der vil feste for fællesskabet, skrue ned for nulfejlskulturen og skabe et rum, hvor alle kan sænke skuldrene et par centimeter.</p>
+<p class="p-large"><span class="text-choco"><em><strong><span class="text-brown">Ingen er perfekte, men sammen er vi tæt på.</span></strong></em></span></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+}
+
+    <div class="gallery-outer">
+        <img class="bottom-paper" src="/files/images/footer-paper.png" />
+        <div class="gallery-element">
+            <div class="block-inner">
+                <div class="position-relative">
+                    <svg class="block-top-vector" viewBox="0 0 1080 76" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1079.9 54.5111C1076.9 54.7111 1073.9 55.0111 1071 55.2111C1060.8 56.0111 1050.6 56.4111 1040.4 56.8111C982.9 59.0111 925.4 59.7111 867.9 58.3111C835.7 57.5111 803.5 56.6111 771.3 55.2111C744.2 54.0111 717.2 52.0111 690.1 50.2111C667.9 48.8111 645.7 47.3111 623.5 45.6111C604.3 44.1111 585.2 42.2111 566 40.5111C548 38.9111 530 37.5111 512 35.9111C494.9 34.3111 477.9 32.5111 460.8 30.9111C444 29.3111 427.1 27.8111 410.3 26.2111C393.2 24.6111 376.2 22.8111 359.1 21.2111C346.9 20.0111 334.6 19.0111 322.4 17.9111C303.7 16.2111 285 14.5111 266.3 12.9111C252.4 11.7111 238.6 10.6111 224.7 9.61108C207.6 8.31108 190.5 7.11108 173.4 5.91108C165.1 5.31108 156.8 4.71108 148.4 4.31108C122 3.21108 95.5996 1.91108 69.1996 1.21108C46.2996 0.611082 23.3996 0.0110818 0.599609 0.111082V75.0111H1079.9V54.5111Z" fill="#BD8266" />
+                    </svg>
+                    <div class="title-container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="d-flex justify-content-end mb-3 mb-xxxl-4">
+                                        <h2 class="mb-0">Galleri</h2>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="block-bg">
+                    <div class="gallery-items">
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/usbplskr/1_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046a429f0" alt="1 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/bcwb2dzt/2_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046a73730" alt="2 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/hs5dkesn/3_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046a9cf40" alt="3 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/n11k4rer/4_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046ac6750" alt="4 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/ssmn212b/5_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046af7490" alt="5 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/mpnfz3x1/6_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046b17060" alt="6 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/soyhrgow/7_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046b36c30" alt="7 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/5m3pqxyr/8_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046b4f2d0" alt="8 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/mb3niqyp/9_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046b715b0" alt="9 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/p1vhnuru/10_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046b91180" alt="10 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/3sbjnyxg/11_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046ba9820" alt="11 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/nhyfdzul/12_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046bc93f0" alt="12 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/woolmmfp/13_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046bfa130" alt="13 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/jv0jqs44/14_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046c4d150" alt="14 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/0f4lra4z/15_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046c6cd20" alt="15 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/egqll5ul/16_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046c96530" alt="16 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/dv3igse5/17_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046cb6100" alt="17 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/cligsb0j/18_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046cd5cd0" alt="18 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/2aukq3q5/19_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046cf7fb0" alt="19 2026" />
+		</picture>
+</div>
+
+                            
+
+<div class="media-container gallery-item rounded-5">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/g0moq1kf/20_2026.jpg?width=1000&amp;quality=80&amp;v=1dd030046d28cf0" alt="20 2026" />
+		</picture>
+</div>
+
+                    </div>
+                </div>
+                <div class="position-relative">
+                    <svg class="block-bottom-vector" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 44" fill="none">
+                        <path d="M0.600342 43.4109C12.6003 42.1109 24.7003 40.7109 36.7003 39.6109C54.4003 37.9109 72.2004 36.5109 90.0004 35.0109C110.8 33.3109 131.5 31.5109 152.3 29.9109C168 28.7109 183.7 27.8109 199.5 26.9109C222.9 25.5109 246.2 24.2109 269.6 23.0109C280.7 22.4109 291.8 21.9109 302.9 21.5109C321 20.9109 339.1 20.2109 357.1 19.8109C417.6 18.6109 478.1 16.9109 538.7 16.5109C597.4 16.1109 656.1 16.8109 714.7 17.4109C749.2 17.8109 783.8 18.9109 818.3 20.0109C855.1 21.2109 892 22.7109 928.8 24.2109C956.1 25.4109 983.4 26.8109 1010.8 28.3109C1033.8 29.6109 1056.8 31.2109 1079.7 32.7109V0.210938H0.400391V43.4109H0.600342Z" fill="#BD8266" />
+                    </svg>
+                    <div class="see-more-container">
+                        <div class="container">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="d-flex justify-content-end mt-xl-2 mt-xxxl-3">
+                                            <a class="btn btn-primary rounded-0 px-5 fw-bold text-uppercase" href="/galleri/" target="/galleri/">Se flere billeder</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+<div class="py-lg-6 py-3">
+<div class="infinity-band animated">
+	<div class="infinity-scroll">
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/tpypn4op/group-357.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc50933b0" alt="Group 357" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/eladow1y/group-368.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc5546d80" alt="Group 368" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/sx0b3xr4/group-374.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1da18dbc53af210" alt="Group 374" />
+		</picture>
+</div>
+
+					</div>
+					<div class="infinity-element">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/jrjljnzt/jmf25.svg?rmode=pad&amp;height=200&amp;quality=80&amp;v=1daef1aa86db080" alt="#JMF25" />
+		</picture>
+</div>
+
+					</div>
+	</div>
+</div>
+</div>
+
+<div class="spotify-element">
+	<div class="container">
+		<div class="row">
+			<div class="col-12 col-lg-10 offset-lg-1 col-xl-8 offset-xl-2">
+				<h2 class="title">Lyden af f&#xE6;llesskab</h2>
+			</div>
+			<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3 my-3">
+				<p class="description">Nyd minderne med den officielle playliste til Jelling Musikfestival 2026 &#x2764;&#xFE0F;&#x200D;&#x1F525;</p>
+			</div>
+		</div>
+	</div>
+	<div class="position-relative">
+		<div class="spotify-bg-container">
+			<img class="spotify-bg" src="/files/images/spotify-bg.png" />
+			<img class="spotify-bg" src="/files/images/spotify-bg.png" />
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
+                    <iframe data-testid="embed-iframe" style="border-radius:12px" src="" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" data-src="https://open.spotify.com/embed/playlist/1TZAiWWtigJFV2s5WwVpOr?utm_source=generator" data-cookiescript="accepted" data-cookiecategory="targeting"></iframe>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="newsletter">
+	<div class="container py-6">
+		<div class="row">
+			<div class="col-12">				
+				<div class="newsletter-form bg-light py-5 px-3 p-lg-5 pb-lg-2 rounded-5">
+					<img class="jmf-bg " src="/files/images/jmf-gfx-lg.svg" />
+					<div class="container-fluid">
+						<div class="row">
+							<div class="col-12 col-lg-6 element-text" style="display: flex; justify-content: center; flex-direction: column;">
+								<div class="row">
+									<div class="col-12 col-lg-8">
+										<h2 class="h2-medium">HOLD DIG<br>OPDATERET</h2>
+<p class="p-large">Tilmeld dig nyhedsbrevet og modtag nyt om musik, mad, oplevelser – og alt det andet, du kan glæde dig til 🤩</p>
+									</div>
+									<div class="col-6 col-lg-4">
+										<img class="w-100" src="/files/images/paper.png" />
+									</div>
+								</div>															
+							</div>
+							<div class="col-12 col-lg-5 offset-lg-1">
+								<iframe width="100%" height="440" src="https://pages.cm.com/14799181000/9e56df00-74ad-4bf4-9726-e00e1f2d23e7?embed=true" title="New Page" frameborder="0"></iframe>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="partners py-6">
+	<div class="container">
+		<div class="row">
+			<div class="col-12">
+				<div class="d-flex align-items-center title-container justify-content-center mb-5">
+					<svg width="66" height="74" viewBox="0 0 66 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<g clip-path="url(#clip0_450_2863)">
+							<path d="M34.978 70.5201C37.3055 71.0963 38.8221 70.9744 39.5804 70.9135C40.3386 70.8526 40.9148 68.5251 39.4585 69.397C37.9419 69.5188 36.3727 68.8817 36.3727 68.8817C36.3117 68.1234 36.2508 67.3651 36.9488 66.5542C37.6469 65.7432 38.9724 63.3472 40.3671 61.7087C41.7016 59.3203 42.3298 57.7434 43.0881 57.6825C43.0271 56.9242 43.7854 56.8633 43.7245 56.105C43.7245 56.105 44.3609 54.5275 44.998 52.9582C46.3325 50.5698 46.2106 49.0532 46.2106 49.0532C46.17 48.5477 46.4025 48.2746 46.908 48.234C46.908 48.234 48.3027 46.5956 49.6289 44.2078C50.9024 41.061 52.8651 37.0957 54.1995 34.7073C59.4593 24.3882 61.3083 18.9057 60.9441 14.3724C60.5182 9.07267 58.8196 6.92791 53.9824 3.50896C49.9314 0.790015 46.0873 0.3357 41.6677 2.21717C39.462 3.15757 37.1871 3.34035 37.1871 3.34035C35.6706 3.4622 28.7204 11.6358 27.5687 16.2992C25.4842 18.7479 25.5451 19.5062 25.4842 18.7479C25.3624 17.2313 24.6041 17.2923 23.8458 17.3532C23.0875 17.4141 22.2683 16.7168 22.2074 15.9585C21.3272 14.5028 14.2152 11.2667 11.13 10.7597C8.80247 10.1835 6.01237 13.4521 3.41329 18.9949C1.51157 23.7185 1.5725 24.4768 2.17978 32.0349L2.84864 40.3595L8.11925 49.0693C16.0214 62.1385 23.3765 68.3996 34.969 70.5126L34.978 70.5201ZM56.0821 10.9555L56.6292 17.7635C56.9331 21.5467 56.4179 24.6326 55.7815 26.21C54.8918 27.8024 54.6594 28.0754 55.0841 27.0293C54.9622 25.5127 55.4166 21.6686 55.1133 17.8936C54.7484 13.3522 55.3245 11.0246 56.0828 10.9637L56.0821 10.9555ZM53.3897 5.83782L53.4506 6.59611C52.8745 8.92365 52.5211 23.4193 53.5751 27.1422C53.697 28.6588 53.1208 30.9863 53.2426 32.5029C51.9082 34.8914 50.4608 35.7708 51.037 33.4433C50.976 32.685 51.3694 28.0826 51.7025 22.7302C51.5489 11.3197 51.882 5.96725 53.3904 5.84606L53.3897 5.83782ZM48.6052 3.17782C49.3635 3.11689 50.2436 4.57254 50.3039 5.32258C50.3641 6.07262 49.6674 6.90008 49.6674 6.90008L49.5456 5.38351C49.4847 4.62522 48.7264 4.68615 47.9681 4.74707C47.2098 4.808 47.1489 4.04972 47.1489 4.04972C47.1083 3.54419 47.5935 3.25081 48.6045 3.16958L48.6052 3.17782ZM48.3154 37.4613C48.1332 35.1947 48.3445 28.3257 48.6161 22.2067C48.13 16.1569 48.4015 10.0379 49.1598 9.977C49.7962 8.3995 49.8571 9.15779 48.92 25.9899C49.2849 30.5313 48.8909 35.1255 49.0127 36.6421L49.3167 40.4253C47.9822 42.8137 47.8001 40.5471 48.3154 37.4613ZM45.7048 23.967L46.3736 32.2916C45.7975 34.6192 46.1624 39.1606 46.3445 41.4272C46.5875 44.4521 45.9511 46.0296 44.6249 48.4174C43.9884 49.9949 43.3513 51.5642 43.3513 51.5642C42.5931 51.6251 42.9255 46.2644 44.1991 43.1177C44.0772 41.6011 44.4103 36.2487 44.7428 30.888C45.6514 23.1998 45.5302 21.6914 45.7123 23.9581L45.7048 23.967ZM39.2616 29.0555C39.0185 26.0305 39.4119 21.4282 39.1689 18.4033C39.6841 15.3174 39.5013 13.0426 40.2596 12.9816C40.957 12.1624 41.0179 12.9207 40.5344 25.9005C39.6258 33.5887 39.0579 35.9156 39.2609 29.0472L39.2616 29.0555ZM41.1748 43.369C41.5073 38.0083 41.5974 29.631 42.6196 23.46C42.8918 17.3492 43.2852 12.7468 43.2852 12.7468C43.9825 11.9276 43.711 18.0466 43.1057 29.5098C41.8722 42.5498 40.692 56.357 40.5702 54.8404C40.4483 53.3238 40.0841 48.7906 41.1748 43.369ZM34.6566 9.63253C35.2327 7.30499 35.0532 24.0679 34.1846 41.6494C34.4277 44.6743 34.0343 49.2767 34.3382 53.0599L34.0058 58.4205L33.5197 52.3707C32.88 34.9105 33.3228 12.0292 34.6572 9.64077L34.6566 9.63253ZM30.2078 20.6496C29.9647 17.6247 30.48 14.5389 30.48 14.5389L30.9058 19.8386C31.1489 22.8635 30.6336 25.9494 30.6336 25.9494L30.2078 20.6496ZM31.4237 35.7824L31.6058 38.049C30.9694 39.6265 31.0905 41.1348 31.0905 41.1348C30.3932 41.954 30.7866 37.3516 31.423 35.7741L31.4237 35.7824ZM31.0011 49.5204L31.366 54.0618C31.67 57.845 31.1548 60.9309 31.1548 60.9309C30.4574 61.7501 30.4859 52.6062 31.0011 49.5204ZM25.8517 42.3189C26.063 35.4499 25.516 28.6418 25.3941 27.1252C25.212 24.8586 25.9703 24.7977 26.7888 25.4868C28.4273 26.8815 29.0955 35.1979 29.0061 43.5835C28.1583 52.03 28.3805 64.1899 29.1915 64.8879C30.0716 66.3436 33.915 66.7896 34.5521 65.2204L34.6131 65.9787C34.7349 67.4952 32.4683 67.6774 29.3133 66.4045C27.7616 66.0204 26.8237 63.8117 26.4997 59.7785C26.2566 56.7536 26.3461 48.368 25.86 42.3182L25.8517 42.3189ZM23.0089 44.8286L21.55 26.6709C20.8811 18.3463 20.8209 17.5962 21.7004 19.0436C22.5805 20.4993 22.7626 22.7659 23.6136 33.3572C24.1924 50.0591 24.103 58.4447 23.1099 55.4801C23.049 54.7218 22.6238 49.4303 23.0172 44.8279L23.0089 44.8286ZM20.4384 41.2275C20.9862 54.3788 21.9781 60.3907 23.4139 59.2633C24.0503 57.6858 24.1112 58.4441 24.294 60.7189C23.9505 62.7761 22.9625 63.1099 21.33 61.7203C20.2377 60.7904 19.4689 57.5534 19.0234 52.0091C18.6585 47.4677 19.1128 43.6235 19.1128 43.6235C19.0519 42.8653 19.5062 39.0211 19.142 34.4879C18.8671 21.5691 19.9294 25.2914 20.4473 41.2351L20.4384 41.2275ZM16.0505 53.0029C15.8075 49.978 15.1995 42.4116 14.9247 29.4928L14.4671 14.2991L16.7947 14.8753C17.6139 15.5727 18.4331 16.27 18.4933 17.0201C17.6741 16.3227 16.8549 15.6253 16.9158 16.3836C16.1576 16.4446 15.7642 21.0469 16.5542 30.8799C17.1622 38.4463 17.1939 48.3402 16.6787 51.426L16.4674 58.295L14.7687 56.1503C14.1418 54.6798 14.0811 53.9243 14.5866 53.8837C15.3449 53.8227 16.0423 53.0035 16.0423 53.0035L16.0505 53.0029ZM11.5552 16.0512L12.7101 30.4256C13.379 38.7503 13.2889 47.1276 13.4717 49.4025C13.1688 51.9652 12.724 52.7614 12.1372 51.7909C11.2571 50.3353 11.1968 49.5852 11.1968 49.5852C11.8942 48.766 12.1664 42.6553 11.3154 32.064C11.3446 22.9284 10.7969 16.1121 11.5552 16.0512ZM8.46934 15.5359L8.53027 16.2942C8.59119 17.0525 8.25807 22.4049 8.74482 28.463C10.1428 45.8623 9.62757 48.9481 8.35143 33.0654C7.74349 25.499 7.19648 18.6909 6.43819 18.7518C6.31634 17.2353 7.71172 15.6051 8.46176 15.5448L8.46934 15.5359ZM6.57024 39.289C6.14595 40.3407 5.62012 40.1286 4.99274 38.6526C4.05234 36.4469 4.08083 27.3031 4.657 24.9755C4.47488 22.7089 4.53515 23.4589 6.08415 33.2392L6.57024 39.289Z" fill="#3D3D3A" />
+						</g>
+						<defs>
+							<clipPath id="clip0_450_2863">
+								<rect width="59.957" height="69.0692" fill="white" transform="translate(0 4.802) rotate(-4.59371)" />
+							</clipPath>
+						</defs>
+					</svg>
+					<div class="title">Tak til vores&#xA;fantastiske partnere</div>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+		</div>
+	</div>
+</div></div>
+
+    </main>
+
+    <
+<!-- TRIMMED BY recon.mjs -->

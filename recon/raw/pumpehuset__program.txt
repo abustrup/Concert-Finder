@@ -1,0 +1,3236 @@
+<!DOCTYPE html>
+<html lang="da-DK" >
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- WP_HEAD() START -->
+<link rel="preload" as="style" href="//pumpehuset.dk/wp-content/uploads/omgf/omgf-stylesheet-174/omgf-stylesheet-174.css?ver=1687259514" >
+<link rel="stylesheet" href="//pumpehuset.dk/wp-content/uploads/omgf/omgf-stylesheet-174/omgf-stylesheet-174.css?ver=1687259514">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+<script data-category="functional">
+							(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6JP32');
+</script>
+<!--old gtag code replaced with above gtm --> 
+<!-- Google tag (gtag.js) --> <!--script async src="//www.googletagmanager.com/gtag/js?id=G-EZRCP7L908"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-EZRCP7L908'); </script-->
+	<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Se hele Pumpehusets koncertprogram</title>
+	<meta name="description" content="Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik." />
+	<link rel="canonical" href="https://pumpehuset.dk/program/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Se hele Pumpehusets koncertprogram" />
+	<meta property="og:description" content="Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik." />
+	<meta property="og:url" content="https://pumpehuset.dk/program/" />
+	<meta property="og:site_name" content="Pumpehuset" />
+	<meta property="article:modified_time" content="2026-07-22T08:52:13+00:00" />
+	<meta property="og:image" content="https://pumpehuset.dk/wp-content/uploads/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg" />
+	<meta property="og:image:width" content="2000" />
+	<meta property="og:image:height" content="1331" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:label1" content="Estimeret læsetid" />
+	<meta name="twitter:data1" content="1 minut" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/pumpehuset.dk\/program\/","url":"https:\/\/pumpehuset.dk\/program\/","name":"Se hele Pumpehusets koncertprogram","isPartOf":{"@id":"https:\/\/pumpehuset.dk\/#website"},"primaryImageOfPage":{"@id":"https:\/\/pumpehuset.dk\/program\/#primaryimage"},"image":{"@id":"https:\/\/pumpehuset.dk\/program\/#primaryimage"},"thumbnailUrl":"https:\/\/pumpehuset.dk\/wp-content\/uploads\/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg","datePublished":"2023-05-02T12:48:33+00:00","dateModified":"2026-07-22T08:52:13+00:00","description":"Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik.","breadcrumb":{"@id":"https:\/\/pumpehuset.dk\/program\/#breadcrumb"},"inLanguage":"da-DK","potentialAction":[{"@type":"ReadAction","target":["https:\/\/pumpehuset.dk\/program\/"]}]},{"@type":"ImageObject","inLanguage":"da-DK","@id":"https:\/\/pumpehuset.dk\/program\/#primaryimage","url":"https:\/\/pumpehuset.dk\/wp-content\/uploads\/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg","contentUrl":"https:\/\/pumpehuset.dk\/wp-content\/uploads\/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg","width":2000,"height":1331,"caption":"Fotokredit: Gonzales Photo\/Nikolaj Bransholm."},{"@type":"BreadcrumbList","@id":"https:\/\/pumpehuset.dk\/program\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem","item":"https:\/\/pumpehuset.dk\/"},{"@type":"ListItem","position":2,"name":"Program"}]},{"@type":"WebSite","@id":"https:\/\/pumpehuset.dk\/#website","url":"https:\/\/pumpehuset.dk\/","name":"Pumpehuset","description":"Københavns bedste sted for koncerter","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/pumpehuset.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://pumpehuset.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpumpehuset.dk%2Fprogram%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://pumpehuset.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpumpehuset.dk%2Fprogram%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='script-644603b285cc3-css' href='https://cdnjs.cloudflare.com/ajax/libs/Swiper/9.2.4/swiper-bundle.css' media='all' />
+<link rel='stylesheet' id='oxygen-css' href='https://pumpehuset.dk/wp-content/plugins/oxygen/component-framework/oxygen.css?ver=4.9.7' media='all' />
+<link rel='stylesheet' id='wpdd-oxygen-navigator-css' href='https://pumpehuset.dk/wp-content/plugins/wpdevdesign-oxygen-navigator/assets/css/style.css?ver=7.0.2' media='all' />
+<style id="wpgb-head-inline-css">
+.wp-grid-builder:not(.wpgb-template),.wpgb-facet{opacity:0.01}.wpgb-facet fieldset{margin:0;padding:0;border:none;outline:none;box-shadow:none}.wpgb-facet fieldset:last-child{margin-bottom:40px;}.wpgb-facet fieldset legend.wpgb-sr-only{height:1px;width:1px}
+/*# sourceURL=wpgb-head-inline-css */
+</style>
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://pumpehuset.dk/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=3.2.3' media='all' />
+<link rel='stylesheet' id='cmplz-general-css' href='https://pumpehuset.dk/wp-content/plugins/complianz-gdpr/assets/css/cookieblocker.min.css?ver=1783435034' media='all' />
+<script id="jquery-core-js" src="https://pumpehuset.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<link rel="https://api.w.org/" href="https://pumpehuset.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://pumpehuset.dk/wp-json/wp/v2/pages/36569" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://pumpehuset.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.2" />
+<link rel='shortlink' href='https://pumpehuset.dk/?p=36569' />
+<style id='script-6422761083ec4-css' type='text/css'>
+/*
+Commented out font import to comply with GDPR. Fonts are cached and loaded via plugin OMGF
+
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Raleway:wght@400;600;800&display=swap); 
+
+*/
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  border-width: 0;
+  border-style: solid;
+  border-color: currentColor
+}
+
+::after,
+::before {
+  --tw-content: ''
+}
+
+html {
+  line-height: 1.5;
+  -webkit-text-size-adjust: 100%;
+  -moz-tab-size: 4;
+  -o-tab-size: 4;
+  tab-size: 4;
+  font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-feature-settings: normal
+}
+
+body {
+  /*color: #151515 !important;*/
+  margin: 0;
+  line-height: inherit;
+
+  padding-top: 104px;
+}
+
+body.logged-in {
+  padding-top: 72px;
+}
+
+hr {
+  height: 0;
+  color: inherit;
+  border-top-width: 1px
+}
+
+abbr:where([title]) {
+  -webkit-text-decoration: underline dotted;
+  text-decoration: underline dotted
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit
+}
+
+a {
+  color: inherit;
+  text-decoration: inherit
+}
+
+b,
+strong {
+  font-weight: bolder
+}
+
+code,
+kbd,
+pre,
+samp {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 1em
+}
+
+small {
+  font-size: 80%
+}
+
+sub,
+sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline
+}
+
+sub {
+  bottom: -.25em
+}
+
+sup {
+  top: -.5em
+}
+
+table {
+  text-indent: 0;
+  border-color: inherit;
+  border-collapse: collapse
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+  font-family: inherit;
+  font-size: 100%;
+  font-weight: inherit;
+  line-height: inherit;
+  color: inherit;
+  margin: 0;
+  padding: 0
+}
+
+button,
+select {
+  text-transform: none
+}
+
+[type=button],
+[type=reset],
+[type=submit],
+button {
+  -webkit-appearance: button;
+  background-color: transparent;
+  background-image: none
+}
+
+:-moz-focusring {
+  outline: auto
+}
+
+:-moz-ui-invalid {
+  box-shadow: none
+}
+
+progress {
+  vertical-align: baseline
+}
+
+::-webkit-inner-spin-button,
+::-webkit-outer-spin-button {
+  height: auto
+}
+
+[type=search] {
+  -webkit-appearance: textfield;
+  outline-offset: -2px
+}
+
+::-webkit-search-decoration {
+  -webkit-appearance: none
+}
+
+::-webkit-file-upload-button {
+  -webkit-appearance: button;
+  font: inherit
+}
+
+summary {
+  display: list-item
+}
+
+blockquote,
+dd,
+dl,
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+pre {
+  margin: 0
+}
+
+fieldset {
+  margin: 0;
+  padding: 0
+}
+
+legend {
+  padding: 0
+}
+
+menu,
+ol,
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0
+}
+
+.component ul {
+  margin-bottom: 1rem;
+}
+
+.component ul li {
+  list-style-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' fill='white' width='10' height='10' viewBox='-1 -1 2 2'><circle r='0.3' /></svg>");
+  margin-left: 24px;
+}
+
+textarea {
+  resize: vertical
+}
+
+input::-moz-placeholder,
+textarea::-moz-placeholder {
+  opacity: 1;
+  color: #9ca3af
+}
+
+input:-ms-input-placeholder,
+textarea:-ms-input-placeholder {
+  opacity: 1;
+  color: #9ca3af
+}
+
+input::placeholder,
+textarea::placeholder {
+  opacity: 1;
+  color: #9ca3af
+}
+
+[role=button],
+button {
+  cursor: pointer
+}
+
+:disabled {
+  cursor: default
+}
+
+audio,
+canvas,
+embed,
+iframe,
+img,
+object,
+svg,
+video {
+  display: block;
+  vertical-align: middle
+}
+
+img,
+video {
+  max-width: 100%;
+  height: auto
+}
+
+[hidden] {
+  display: none
+}
+
+*,
+::after,
+::before {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000
+}
+
+::-webkit-backdrop {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000
+}
+
+::backdrop {
+  --tw-border-spacing-x: 0;
+  --tw-border-spacing-y: 0;
+  --tw-translate-x: 0;
+  --tw-translate-y: 0;
+  --tw-rotate: 0;
+  --tw-skew-x: 0;
+  --tw-skew-y: 0;
+  --tw-scale-x: 1;
+  --tw-scale-y: 1;
+  --tw-scroll-snap-strictness: proximity;
+  --tw-ring-offset-width: 0px;
+  --tw-ring-offset-color: #fff;
+  --tw-ring-color: rgb(59 130 246 / 0.5);
+  --tw-ring-offset-shadow: 0 0 #0000;
+  --tw-ring-shadow: 0 0 #0000;
+  --tw-shadow: 0 0 #0000;
+  --tw-shadow-colored: 0 0 #0000
+}
+
+body {
+  padding-top: 72px !important;
+}
+
+.absolute {
+  position: absolute
+}
+
+.relative {
+  position: relative
+}
+
+.-left-8 {
+  left: -2rem
+}
+
+.top-1\/2 {
+  top: 50%
+}
+
+.bottom-4 {
+  bottom: 1rem
+}
+
+.left-4 {
+  left: 1rem
+}
+
+.-top-2 {
+  top: -.5rem
+}
+
+.-right-4 {
+  right: -1rem
+}
+
+.z-10 {
+  z-index: 10
+}
+
+.z-20 {
+  z-index: 20
+}
+
+.z-30 {
+  z-index: 30
+}
+
+.col-span-full {
+  grid-column: 1/-1
+}
+
+.col-span-12 {
+  grid-column: span 12/span 12
+}
+
+.row-start-1 {
+  grid-row-start: 1
+}
+
+.mx-auto {
+  margin-left: auto;
+  margin-right: auto
+}
+
+.mt-2 {
+  margin-top: .5rem
+}
+
+.flex {
+  display: flex
+}
+
+.grid {
+  display: grid
+}
+
+.hidden {
+  display: none
+}
+
+.h-full {
+  height: 100%
+}
+
+.h-4 {
+  height: 1rem
+}
+
+.h-\[18rem\] {
+  height: 18rem
+}
+
+.h-\[36rem\] {
+  height: 36rem
+}
+
+.min-h-\[330px\] {
+  min-height: 330px
+}
+
+
+.w-full {
+  width: 100%
+}
+
+.w-4 {
+  width: 1rem
+}
+
+.max-w-xs {
+  max-width: 20rem
+}
+
+.max-w-max {
+  max-width: -webkit-max-content;
+  max-width: -moz-max-content;
+  max-width: max-content
+}
+
+.max-w-xl {
+  max-width: 36rem
+}
+
+.-translate-y-10 {
+  --tw-translate-y: -2.5rem;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+.-translate-y-1\/2 {
+  --tw-translate-y: -50%;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+.rotate-90 {
+  --tw-rotate: 90deg;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+.transform {
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+}
+
+.grid-flow-col {
+  grid-auto-flow: column
+}
+
+.content-center {
+  align-content: center
+}
+
+.content-start {
+  align-content: flex-start
+}
+
+.content-end {
+  align-content: flex-end
+}
+
+.items-start {
+  align-items: flex-start
+}
+
+.items-end {
+  align-items: flex-end
+}
+
+.items-center {
+  align-items: center
+}
+
+.justify-start {
+  justify-content: flex-start
+}
+
+.justify-center {
+  justify-content: center
+}
+
+.justify-between {
+  justify-content: space-between
+}
+
+.justify-items-center {
+  justify-items: center
+}
+
+.gap-4 {
+  gap: 1rem
+}
+
+.gap-6 {
+  gap: 1.5rem
+}
+
+.gap-8 {
+  gap: 2rem
+}
+
+.gap-2 {
+  gap: .5rem
+}
+
+.gap-1 {
+  gap: .25rem
+}
+
+.gap-24 {
+  gap: 6rem
+}
+
+.gap-12 {
+  gap: 3rem
+}
+
+.gap-10 {
+  gap: 2.5rem
+}
+
+.gap-y-14 {
+  row-gap: 3.5rem
+}
+
+.gap-y-24 {
+  row-gap: 6rem
+}
+
+.gap-x-6 {
+  -moz-column-gap: 1.5rem;
+  column-gap: 1.5rem
+}
+
+.border {
+  border-width: 1px
+}
+
+.border-black {
+  --tw-border-opacity: 1;
+  border-color: rgb(0 0 0 / var(--tw-border-opacity))
+}
+
+.bg-white {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 255 255 / var(--tw-bg-opacity))
+}
+
+.fill-current {
+  fill: currentColor
+}
+
+.object-cover {
+  -o-object-fit: cover;
+  object-fit: cover
+}
+
+.p-10 {
+  padding: 2.5rem
+}
+
+.p-6 {
+  padding: 1.5rem
+}
+
+.p-8 {
+  padding: 2rem
+}
+
+.py-16 {
+  padding-top: 4rem;
+  padding-bottom: 4rem
+}
+
+.px-8 {
+  padding-left: 2rem;
+  padding-right: 2rem
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem
+}
+
+.py-4 {
+  padding-top: 1rem;
+  padding-bottom: 1rem
+}
+
+.py-10 {
+  padding-top: 2.5rem;
+  padding-bottom: 2.5rem
+}
+
+.py-6 {
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem
+}
+
+.pb-10 {
+  padding-bottom: 2.5rem
+}
+
+.pb-4 {
+  padding-bottom: 1rem
+}
+
+.pb-6 {
+  padding-bottom: 1.5rem
+}
+
+.pt-8 {
+  padding-top: 2rem
+}
+
+.pt-2 {
+  padding-top: .5rem
+}
+
+.pt-4 {
+  padding-top: 1rem
+}
+
+.pb-8 {
+  padding-bottom: 2rem
+}
+
+.pt-10 {
+  padding-top: 2.5rem
+}
+
+.text-center {
+  text-align: center
+}
+
+.uppercase {
+  text-transform: uppercase
+}
+
+.text-white {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity))
+}
+
+.transition-transform {
+  transition-property: transform;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms
+}
+
+.duration-300 {
+  transition-duration: .3s
+}
+
+.default-grid {
+  grid-column: span 12/span 12;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr))
+}
+
+.boxed-grid {
+  grid-column-start: 2;
+  grid-column-end: 12;
+  display: grid
+}
+
+@media screen and (max-width: 1023px) {
+  .boxed-grid--mobile-full {
+    grid-column-start: 1;
+    grid-column-end: 13
+  }
+}
+
+.full-grid {
+  grid-column-start: 1;
+  grid-column-end: 13;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr))
+}
+
+.grid-2-cols {
+  display: grid;
+  grid-template-columns: 1fr 1fr
+}
+
+@media screen and (max-width: 1023px) {
+  .grid-2-cols {
+    grid-template-columns: 1fr
+  }
+}
+
+.grid-2-cols-always {
+  display: grid;
+  /*grid-template-columns: 1fr 1fr;*/
+  grid-template-columns: auto;
+  gap: 10px!important;
+}
+
+.grid-2-1-cols {
+  display: grid;
+  grid-template-columns: 2fr 1fr
+}
+
+.grid-3-2-cols {
+  display: grid;
+  grid-template-columns: 3fr 2fr
+}
+
+@media screen and (max-width: 1023px) {
+  .grid-2-1-cols {
+    grid-template-columns: 1fr
+  }
+  .grid-3-2-cols {
+    grid-template-columns:1fr
+  }
+}
+
+.focus\:outline-none:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px
+}
+
+@media (min-width: 640px) {
+  .sm\:px-16 {
+    padding-left: 4rem;
+    padding-right: 4rem
+  }
+
+  .sm\:px-8 {
+    padding-left: 2rem;
+    padding-right: 2rem
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:col-span-2 {
+    grid-column: span 2/span 2
+  }
+
+  .md\:grid {
+    display: grid
+  }
+
+  .md\:hidden {
+    display: none
+  }
+
+  .md\:grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr))
+  }
+
+  .md\:gap-20 {
+    gap: 5rem
+  }
+
+  .md\:px-0 {
+    padding-left: 0;
+    padding-right: 0
+  }
+
+  .md\:px-20 {
+    padding-left: 5rem;
+    padding-right: 5rem
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:row-auto {
+    grid-row: auto
+  }
+
+  .lg\:-translate-y-0 {
+    --tw-translate-y: -0px;
+    transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))
+  }
+
+  .lg\:grid-flow-col {
+    grid-auto-flow: column
+  }
+
+  .lg\:grid-cols-3 {
+    grid-template-columns: repeat(3, minmax(0, 1fr))
+  }
+
+  .lg\:items-center {
+    align-items: center
+  }
+
+  .lg\:justify-between {
+    justify-content: space-between
+  }
+
+  .lg\:px-0 {
+    padding-left: 0;
+    padding-right: 0
+  }
+
+  .lg\:pt-0 {
+    padding-top: 0
+  }
+}
+
+html a {
+  color: #303030
+}
+
+body {
+  /*background: #fdf2de;*/
+  /*min-height: 200vh*/
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+  padding: 0
+}
+
+.spacer {
+  width: 100%;
+  height: 30vh
+}
+
+.spacer-default {
+  width: 100%;
+  height: 35px;
+  background: #ffffff;
+}
+
+@media (min-width: 768px) {
+  .spacer-default {
+    height: 50px
+  }
+}
+@media (min-width: 1024px) {
+  .spacer-default {
+    height: 60px
+  }
+}
+
+.d-image-overlay {
+  width: 100%;
+  height: 100%
+}
+
+.d-image-overlay:after {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  content: "";
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 44.44%, rgba(0, 0, 0, .85) 76.22%)
+}
+
+@media screen and (max-width: 1023px) {
+  .grid-padding {
+    padding-left: 8.3333333333vw;
+    padding-right: 8.3333333333vw
+  }
+}
+
+.aspect-ratio-104 {
+  aspect-ratio: 1.046
+}
+
+.u-bg-grey {
+  background-color: #828282
+}
+
+.u-bg-black {
+  background-color:  #151515
+}
+
+.u-bg-orange {
+  background-color: #fdd62d
+}
+
+.u-bg-grey-1 {
+  background-color: #333
+}
+
+.u-bg-white {
+  background-color: #fff
+}
+
+.u-border-grey {
+  border-color: #828282
+}
+
+.u-text-grey {
+  color: #828282
+}
+
+.u-text-white {
+  color: #fff
+}
+
+.u-text-orange {
+  color: #fdd62d
+}
+
+.back {
+  cursor: pointer;
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: .875rem;
+  line-height: 150%
+}
+
+.back__text {
+  transition: .3s all
+}
+
+.back__arrow path {
+  transition: .3s all
+}
+
+.back:hover .back__text {
+  color: #151515
+}
+
+.back:hover .back__arrow path {
+  fill: #151515;
+}
+
+.btn-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: background-color .3s, color .3s, border-color .3s, all .3s;
+  border-style: solid;
+  border-color: transparent;
+  position: relative;
+  text-decoration: none;
+  padding:10px 23px;
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  align-self: center
+}
+
+.btn a {
+  color: inherit;
+}
+
+@media (max-width: 767px) {
+  .btn {
+    padding: .3125rem .9375rem;
+    font-size: .75rem
+  }
+}
+
+.btn__text {
+  margin: 0
+}
+
+.btn__icon {
+  width: 1rem;
+  height: 1rem
+}
+
+.btn__icon + .btn__text {
+  margin-left: .875rem
+}
+
+@media (max-width: 767px) {
+  .btn__icon + .btn__text {
+    margin-left: .75rem
+  }
+}
+
+.btn__text + .btn__icon {
+  margin-left: .875rem
+}
+
+@media (max-width: 767px) {
+  .btn__text + .btn__icon {
+    margin-left: .75rem
+  }
+}
+
+.btn__icon--right {
+  transform: rotate(180deg)
+}
+
+.btn--tag {
+  text-transform: capitalize;
+  display: inline-flex;
+  align-items: center;
+  justify-content: flex-start;
+  transition: .3s all;
+  padding: 2px 10px
+}
+
+.btn--tag-filled {
+  background-color: #828282;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--tag-filled:hover {
+  background-color: #151515;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--tag-outlined {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #828282;
+  color: #828282
+}
+
+.btn--tag-outlined:hover {
+  background-color: #828282;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--tag-outlined.checked:hover .btn__icon-check path {
+  fill: #ffffff
+}
+
+.btn .btn__checkbox {
+  display: none
+}
+
+.btn .btn__icon-check {
+  display: none;
+  width: .875rem;
+  height: .875rem;
+  transition: all .3s;
+  opacity: 0;
+  margin-left: .3125rem
+}
+
+.btn.checked .btn__icon-check {
+  display: block;
+  opacity: 1
+}
+
+.btn--transparent-black-border {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #fff;
+  color: #fff
+}
+.btn--transparent-black-border:hover {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #fff;
+  color: #151515
+}
+
+.btn--filled-black {
+  background-color: #151515;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+
+.btn--filled-grey-2 {
+  background-color: #303030;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--outlined-white {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #151515;
+  color: #151515
+}
+
+.btn--filled-orange {
+  background-color: #fdd62d;
+  border-width: 1px;
+  border-color: transparent;
+  color: #151515
+}
+
+.btn--outlined-black {
+  background-color: #151515;
+  border-width: 1px;
+  border-color: #fff;
+  color: #fff
+}
+
+.btn--outlined-transparent-white {
+  background-color: transparent;
+  border-width: 1px;
+  border-color: #fff;
+  color: #fff
+}
+
+.btn--outlined-transparent-white::after {
+  content: "";
+  position: absolute;
+  bottom: .375rem;
+  left: .875rem;
+  width: 0;
+  height: .125rem;
+  background-color: #fff;
+  transition: width .3s
+}
+
+.btn--outlined-transparent-white:hover::after {
+  width: calc(100% - 1.75rem);
+  left: .875rem
+}
+
+.btn--filled-black:hover {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #151515;
+  color: #151515
+}
+
+.btn--filled-grey-2:hover {
+  background-color: #fff;
+  border-width: 1px;
+  border-color: #151515;
+  color: #151515
+}
+
+.btn--outlined-white:hover {
+  background-color: #151515;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--filled-orange:hover {
+  background-color: #151515;
+  border-width: 1px;
+  border-color: transparent;
+  color: #fff
+}
+
+.btn--outlined-black::after {
+  content: "";
+  position: absolute;
+  bottom: .375rem;
+  left: .875rem;
+  width: 0;
+  height: .125rem;
+  background-color: #fff;
+  transition: width .3s
+}
+
+.btn--outlined-black:hover::after {
+  width: calc(100% - 1.75rem);
+  left: .875rem
+}
+
+.image-overlay {
+  pointer-events: none;
+  
+  /*mix-blend-mode: color;*/
+}
+
+.image-overlay img{
+  min-height:100%;
+  /*mix-blend-mode: color;*/
+}
+
+.image-overlay::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 9.37%, rgba(62, 62, 62, 0.65) 61.85%, rgba(23, 23, 23, 0.85) 76.95%, #000000 91.02%);
+  mix-blend-mode: multiply;
+}
+
+.image-overlay-stack-context::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  mix-blend-mode: color;
+}
+
+.image-overlay::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background: #ffffff;
+  mix-blend-mode: color;
+}
+
+.image-overlay-cards {
+  pointer-events: none;
+}
+.image-overlay-cards::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 9.37%, rgba(62, 62, 62, 0.65) 61.85%, rgba(23, 23, 23, 0.85) 76.95%, #000000 91.02%);
+  mix-blend-mode: multiply;
+}
+.image-overlay-cards::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background: #ffffff;
+  mix-blend-mode: color;
+}
+
+//.image-overlay-cards {
+//  pointer-events: none;
+//}
+//.image-overlay-cards::after {
+//  content: "";
+//  position: absolute;
+//  top: 0;
+//  left: 0;
+//  width: 100%;
+//  height: 100%;
+//  background:linear-gradient(180deg, rgba(0, 0, 0, 0) 57.29%, rgba(0, 0, 0, 0.85) 80.73%)
+//}
+//.image-overlay-cards::before {
+//  content: "";
+//  position: absolute;
+//  top: 0;
+//  left: 0;
+//  width: 100%;
+//  height: 100%;
+//  z-index: 10;
+//  background: #d9d9d9;
+//  mix-blend-mode: color
+//}
+
+.text {
+  display: grid;
+  gap: 1.5rem
+}
+
+.text__button {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 160%
+}
+
+.text__button--small {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: .75rem;
+  line-height: 160%
+}
+
+.text__button--normal-u-caps {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 150%
+}
+
+.text__button--small-u-caps {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: .75rem;
+  line-height: 150%
+}
+
+.text__caption {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: .625rem;
+  line-height: 160%
+}
+
+.text__caption--bold {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: .625rem;
+  line-height: 160%
+}
+
+.text__content {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 150%
+}
+
+@media (max-width: 1024px) {
+  .text__content {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 150%
+  }
+}
+
+.text__content--large {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.375rem;
+  line-height: 150%
+}
+
+@media (max-width: 1024px) {
+  .text__content--large {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 150%
+  }
+}
+
+.text__content--small {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 150%
+}
+
+.text__content--huge {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 2.25rem;
+  line-height: 120%
+}
+
+@media (max-width: 767px) {
+  .text__content--huge {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 120%
+  }
+}
+
+.text__content--large-2 {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 1.5rem;
+  line-height: 120%
+}
+
+.text__headline--size-1 {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 3.75rem;
+  line-height: 120%;
+  text-transform: uppercase
+}
+
+
+@media (max-width: 1024px) {
+  .text__headline--size-1 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 3.75rem;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+@media (max-width: 767px) {
+  .text__headline--size-1 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 2.25rem;
+
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+.text__headline--size-2-1 {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 120%;
+  overflow-wrap: anywhere;
+  text-transform: uppercase
+}
+@media (max-width: 767px) {
+  .text__headline--size-2-1 {
+    font-size: 30px;
+  }
+}
+@media (min-width: 1024px) {
+  .text__headline--size-2-1 {
+    font-size: 60px;
+  }
+}
+
+.text__headline--size-2 {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 2.75rem;
+  line-height: 120%;
+  overflow-wrap: anywhere;
+  text-transform: uppercase
+}
+
+@media (max-width: 767px) {
+  .text__headline--size-2 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 1.875rem;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+@media (min-width: 1024px) {
+  .text__headline--size-2 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 44px;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+.text__headline--size-3 {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 1.875rem;
+  line-height: 120%;
+  text-transform: uppercase
+}
+
+@media (max-width: 1024px) {
+  .text__headline--size-3 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+.text__headline--size-4 {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.5rem;
+  overflow-wrap: anywhere;
+  line-height: 120%
+}
+
+@media (max-width: 767px) {
+  .text__headline--size-4 {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 120%
+  }
+}
+
+.text__headline--size-4--bold {
+  font-family: Montserrat, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.5rem;
+  overflow-wrap: anywhere;
+  line-height: 120%
+}
+
+@media (max-width: 767px) {
+  .text__headline--size-4--bold {
+    font-family: Montserrat, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 120%
+  }
+}
+
+.text__headline--size-5 {
+  font-family: Raleway, sans-serif;
+  overflow-wrap: anywhere;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+  text-transform: uppercase
+}
+
+@media (max-width: 767px) {
+  .text__headline--size-5 {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: .625rem;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+.text__headline--size-5--bold {
+  font-family: Raleway, sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: .9375rem;
+  line-height: 120%;
+  text-transform: uppercase
+}
+
+@media (max-width: 1024px) {
+  .text__headline--size-5--bold {
+    font-family: Raleway, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: .625rem;
+    line-height: 120%;
+    text-transform: uppercase
+  }
+}
+
+.textarea-image {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem
+}
+
+.textarea-image__info {
+  display: flex;
+  gap: .625rem;
+  margin-bottom: .9375rem
+}
+
+.textarea-image__image img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover
+}
+
+.textarea-image .text__content-wrapper .text__content {
+  margin-bottom: 1.25rem
+}
+
+.textarea-image .text__content-wrapper .text__content:last-child {
+  margin-bottom: 0
+}
+
+@media (min-width: 1024px) {
+  .reverse-columns {
+    grid-template-columns: 1fr 1fr;
+    grid-auto-flow: dense
+  }
+
+  .reverse-columns > .textarea-image__text {
+    order: 2
+  }
+
+  .reverse-columns > .textarea-image__image {
+    order: 1
+  }
+
+  .reverse-columns > .textarea-image__image.right {
+    order: 3
+  }
+}
+
+.component .btn {
+  margin-top: .9375rem
+}
+
+.component p {
+  margin-bottom: 1rem
+}
+
+.component p:last-child {
+  margin-bottom: 0;
+}
+
+.boxed-grid {
+  width: 100%;
+  max-width: 1240px;
+  margin: 0 auto
+}
+
+.boxed-grid.absolute {
+  left: 50%;
+  transform: translate(-50%, 0)
+}
+
+.textarea {
+  gap: 1.5rem;
+  display: grid
+}
+
+@media (min-width: 1024px) {
+  .support-artists__columns:nth-child(2n+1) > .grid {
+    grid-row: 1
+  }
+
+  .support-artists__columns:nth-child(2n+1) > .grid:nth-child(1) {
+    grid-column: 2
+  }
+
+  .support-artists__columns:nth-child(2n+1) > .grid:nth-child(2) {
+    grid-column: 1
+  }
+}
+
+.image-overlay img {
+    max-width: 100% !important;
+}
+
+#menu-container {
+  display: flex
+}
+
+#menu-container #menuToggle {
+  display: block;
+  position: relative;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 50px;
+  height: 44px;
+  border-radius: 10px
+}
+
+#menu-container #menuToggle input {
+  display: none
+}
+
+#menu-container #menuToggle .main-menu-container {
+  flex-direction: column;
+  align-items: flex-end;
+  padding-left: 50px
+}
+
+#menu-container #menuToggle .main-menu-container:first-child {
+  margin-top: 130px
+}
+
+#menu-container #menuToggle .main-menu-container li {
+  list-style-type: none
+}
+
+#menu-container #menuToggle .main-menu-container a {
+  color: #fff;
+  font-family: "Relative Bold", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  line-height: 1.65em;
+  -webkit-font-smoothing: antialiased
+}
+
+#menu-container #menuToggle input {
+  display: block;
+  width: 46px;
+  height: 40px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  opacity: 0;
+  z-index: 2;
+  -webkit-touch-callout: none
+}
+
+#menu-container #menuToggle span {
+  display: block;
+  width: 31px;
+  height: 4px;
+  top: 2px;
+  left: 9px;
+  margin-top: 7px;
+  position: relative;
+  background: #fff;
+  border-radius: 10px;
+  z-index: 1;
+  transform-origin: 4px 0px;
+  transition: transform .5s cubic-bezier(.77, .2, .05, 1), background .5s cubic-bezier(.77, .2, .05, 1), opacity .55s ease
+}
+
+#menu-container #menuToggle span:first-child {
+  transform-origin: 0% 0%
+}
+
+#menu-container #menuToggle span:nth-last-child(2) {
+  transform-origin: 0% 100%
+}
+
+#menu-container #menuToggle input:checked ~ span {
+  opacity: 1;
+  transform: rotate(45deg) translate(1px, 3px)
+}
+
+#menu-container #menuToggle input:checked ~ span:nth-last-child(3) {
+  opacity: 0;
+  transform: rotate(0) scale(.2, .2)
+}
+
+#menu-container #menuToggle input:checked ~ span:nth-last-child(2) {
+  transform: rotate(-45deg) translate(0, -1px)
+}
+
+#menu-container #menuToggle nav {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  transform: translateX(-100vw);
+  top: 0;
+  right: 0;
+  transition: .3s
+}
+
+#menu-container #menuToggle input:checked ~ nav {
+  transform: translateX(0)
+}
+
+.menu {
+  width: 100%;
+  height: 72px;
+  display: grid;
+  background: #151515;
+  align-content: center;
+  justify-content: end;
+  padding-right: 50px;
+  position: fixed;
+  top: 0;
+  z-index: 100
+}
+
+.logged-in .menu {
+  top: 32px;
+}
+
+.menu .logo {
+  height: 42px;
+  position: absolute;
+  left: 50%;
+  width: auto;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer
+}
+
+.menu .logo img {
+  width: 100%;
+  height: 100%
+}
+
+.bh-menu {
+  position: relative;
+  top: 0;
+  right: 0;
+  z-index: 1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 31px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 6px
+}
+
+.bh-menu input {
+  display: none;
+  display: block;
+  width: 31px;
+  height: 26px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+  opacity: 0;
+  z-index: 30;
+  -webkit-touch-callout: none
+}
+
+.bh-menu span {
+  display: block;
+  width: 31px;
+  height: 4px;
+  position: relative;
+  background: #ffda2d;
+  z-index: 20;
+  transform-origin: 4px 0px;
+  transition: transform .5s cubic-bezier(.77, .2, .05, 1), background .5s cubic-bezier(.77, .2, .05, 1), opacity .55s ease
+}
+
+.bh-menu span:nth-of-type(1) {
+  transform-origin: 100% 50%;
+  height: 4px
+}
+
+.bh-menu span:nth-of-type(3) {
+  transform-origin: 90% 50%;
+  height: 4px
+}
+
+.bh-menu span:nth-of-type(2) {
+  transition-duration: .2s;
+  height: 4px
+}
+
+.bh-menu input:checked ~ span:nth-of-type(1) {
+  opacity: 1;
+  transform: rotate(-45deg) translate(-1px, -1px);
+  height: 4px;
+  background: #151515
+}
+
+.bh-menu input:checked ~ span:nth-of-type(2) {
+  opacity: 0;
+  transform: rotate(0) translateX(15px);
+  height: 4px;
+  background: #151515
+}
+
+.bh-menu input:checked ~ span:nth-of-type(3) {
+  transform: rotate(45deg) translate(0, 0);
+  height: 4px;
+  background: #151515
+}
+
+.bh-menu .language {
+  opacity: 0
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .grid-padding-image {
+    width: calc(100% - 16.6vw);
+    margin: 0 auto;
+  }
+}
+@media screen and (min-width: 768px) {
+  .bh-menu .language {
+    opacity: 1
+  }
+
+}
+
+
+
+.bh-menu input:checked ~ .navigation-container {
+  transform: translateX(0)
+}
+
+.bh-menu .main-menu-container {
+  flex-direction: column;
+  align-items: flex-end;
+  padding-right: 20px;
+  padding-left: 20px;
+  align-content: center;
+  display: grid;
+  justify-content: center;
+  text-align: center;
+  gap: 1rem
+}
+
+.bh-menu .main-menu-container li {
+  list-style-type: none
+}
+
+@media screen and (min-width: 768px) {
+  .bh-menu .main-menu-container {
+    gap: 1.5rem;
+    padding-top: 100px;
+  }
+}
+
+.bh-menu .main-menu-container a {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 120%;
+  text-transform: uppercase;
+  position: relative;
+  color: #151515
+}
+
+.bh-menu .main-menu-container a:hover:after {
+  width: 100%
+}
+
+.bh-menu .main-menu-container a:after {
+  content: " ";
+  left: 0;
+  bottom: -3px;
+  transform: translate(0, -50%);
+  position: absolute;
+  width: 0;
+  height: 2px;
+  background: #151515;
+  transition: .3s all ease-out
+}
+
+//@media screen and (min-width: 768px) {
+//  .bh-menu .main-menu-container a {
+//    font-size: 2rem
+//  }
+//}
+
+.bh-menu .menu-item {
+  font-family: Raleway;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 120%;
+  text-transform: uppercase;
+  color: #151515
+}
+
+.bh-menu .language {
+  position: absolute;
+  right: 40px;
+  min-width: 60px;
+  z-index: 20;
+  color: #fff;
+  transition: transform .25s cubic-bezier(.77, .2, .05, 1), background .25s cubic-bezier(.77, .2, .05, 1), opacity .25s ease
+}
+
+.bh-menu .language__item {
+  display: grid;
+  grid-auto-flow: column;
+  align-items: center
+}
+
+.bh-menu .language__icon path {
+  fill: #fff;
+  transition: transform .5s cubic-bezier(.77, .2, .05, 1), background .5s cubic-bezier(.77, .2, .05, 1), opacity .55s ease
+}
+
+.bh-menu input:checked ~ .language {
+  color: #151515;
+  opacity: 1
+}
+.bh-menu input:checked ~ .language .language__menu .u-text-white {
+  color: #151515;
+}
+
+.bh-menu input:checked ~ .language path {
+  fill: #151515
+}
+
+.contact {
+  //background: rgba(255, 255, 255, .15)
+}
+
+.footer .logo {
+  display: grid;
+
+  width: 100%;
+  height:auto;
+}
+
+.footer .logo img {
+  width: 100%;
+  height: 100%
+}
+
+.footer .newsletter__info li {
+  list-style: square
+}
+
+.footer__container-bottom {
+  border-top: 1px solid #151515
+}
+
+.hero-video {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+  aspect-ratio: 16/9;
+  align-content: center;
+  justify-content: center;
+  display: none
+}
+
+@media screen and (min-width: 768px) {
+  .hero-video {
+    display: grid
+  }
+}
+
+.hero-video--mobile {
+  aspect-ratio: 9/16;
+  display: grid
+}
+
+@media screen and (min-width: 768px) {
+  .hero-video--mobile {
+    display: none
+  }
+}
+
+.hero-video__container {
+  position: relative;
+  z-index: 10
+}
+
+.hero-video__video {
+  left: 0;
+  top: 0;
+  position: absolute;
+  width: 100%;
+  height: 100%
+}
+
+.hero-video__video:before {
+  display: none;
+  content: " ";
+  width: 100%;
+  height: 100%;
+  background: radial-gradient(22.75% 22.44% at 50% 50%, rgba(0, 0, 0, .85) 0, rgba(0, 0, 0, 0) 100%);
+  position: absolute;
+  z-index: 1
+}
+
+.hero-video__video video {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover
+}
+
+.hero-video__video img {
+  width: 100%;
+  height: 100%;
+  -o-object-fit: cover;
+  object-fit: cover
+}
+
+.component {
+  background: #fff
+}
+
+.component-name {
+  font-size: 4rem
+}
+
+@media (max-width: 768px) {
+  .component-name {
+    font-size: 2rem
+  }
+}
+
+.component-info {
+  padding: 10rem;
+  display: flex;
+  flex-direction: column
+}
+.footer-logo{
+  pointer-events: none;
+}
+
+@media (max-width: 768px) {
+  .component-info {
+    padding: 2rem
+  }
+}
+.carousel-image-video .swiper-wrapper-ph {
+  padding: 35px 0
+}
+@media (min-width: 768px) {
+  .carousel-image-video .swiper-wrapper-ph {
+    padding:50px 0;
+  }
+}
+
+@media (min-width: 1024px) {
+  .carousel-image-video .swiper-wrapper-ph {
+    padding: 60px 0
+  }
+}
+
+.swiper {
+  width: 100%;
+  height: 100%
+}
+
+.swiper .slider__arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: 0 0;
+  border: none;
+  z-index: 10;
+  font-size: 1.5rem;
+  cursor: pointer;
+  transition: background-color .3s ease, border-color .3s ease
+}
+
+.swiper .slider__arrow-arrow,
+.swiper .slider__arrow-background,
+.swiper .slider__arrow-border {
+  transition: fill .3s ease, stroke .3s ease
+}
+
+.swiper .slider__arrow:hover .slider__arrow-background {
+  fill: #ffffff
+}
+
+.swiper .slider__arrow:hover .slider__arrow-arrow {
+  fill: #151515
+}
+
+.swiper .slider__arrow:hover .slider__arrow-border {
+  stroke: #151515
+}
+
+
+
+.slider__dots {
+  position: absolute;
+  bottom: 1.5rem;
+  z-index: 10;
+  left: 50%;
+  display: flex;
+  gap: .625rem;
+  justify-content: center
+}
+
+.slider__dot {
+  width: .625rem;
+  height: .625rem;
+  background: #fff;
+  border: 1px solid #151515;
+  border-radius: 50%;
+  cursor: pointer;
+  transition: background-color .3s ease;
+  padding: 0
+}
+
+.slider__dot.dot--active {
+  background: #303030
+}
+
+.carousel-image-video .swiper-slide {
+  height: 100%
+}
+
+.carousel-image-video .swiper-slide * {
+  width: 100%;
+  height: 100%;
+  min-height: 500px;
+  max-height: 600px;
+  -o-object-fit: cover;
+  object-fit: cover;
+  aspect-ratio: 4/3
+}
+
+.full-w-carousel {
+  min-height: 580px
+}
+
+.full-w-carousel .swiper-pagination-bullets {
+  bottom: 40px !important;
+  padding-right: 50px
+}
+
+@media (max-width: 670px){
+    .full-w-carousel .swiper-pagination-bullets{
+        padding-right: 30px; 
+        gap:0.425rem;
+    }    
+    .full-w-carousel .swiper-pagination-bullets .slider__dot{
+        width:0.475rem;
+        height:0.475rem;
+    } 
+}
+
+.full-w-carousel .slider__dots {
+  justify-content: end
+}
+
+.rotate-90 {
+  --tw-rotate: 90deg
+}
+
+.fade-slide-up-enter {
+  opacity: 0;
+  transform: translateY(1rem)
+}
+
+.fade-slide-up-enter-active {
+  opacity: 1;
+  transform: translateY(0);
+  transition: opacity 0.4s, transform 0.4s
+}
+
+.accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.4s
+}
+
+.accordion-content-open {
+  max-height: 200vh
+}
+
+.loader-overlay {
+  background: rgba(0, 0, 0, 0.5);
+}
+
+/*CUSTOM STYLES*/
+.pb-\[15px\] {
+  padding-bottom: 15px
+}
+
+.py-\[60px\] {
+  padding-top: 60px;
+  padding-bottom: 60px
+}
+
+.min-h-\[260px\] {
+  min-height: 260px
+}
+
+.textarea-comoponent .text__content--huge {
+  padding-top: 35px;
+  padding-bottom: 24px;
+}
+
+.textarea-comoponent .text__content:not(.text__content--huge) p:last-child {
+  padding-bottom: 35px;
+}
+.textarea-image__image{
+  aspect-ratio: 1/1;
+}
+
+.textarea-image__text .text__headline{
+  margin-bottom: 10px;
+}
+.textarea-image__spacer{
+  margin-bottom: 10px;
+}
+.textarea-images-cta{
+  padding-bottom: 35px;
+  padding-top: 35px;
+}
+.textarea-image__info{
+  justify-content: start;
+}
+
+.swiper .slider__arrow--left {
+  left: 1.5rem
+}
+
+.swiper .slider__arrow--right {
+  right: 1.5rem
+}
+.newsletter__info{
+  max-width: 195px;
+}
+.py-\[50px\]{padding-top:50px;padding-bottom:50px}
+
+
+.textarea-comoponent .ct-code-block{
+  margin-top: -35px;
+  margin-bottom: 35px;
+}
+
+
+@media (min-width: 768px) {
+
+  .textarea-comoponent .ct-code-block{
+    margin-top: -50px;
+    margin-bottom: 50px;
+  }
+
+  .newsletter__info{
+    max-width: 410px;
+  }
+  .textarea-image__info{
+    justify-content: unset;
+  }
+  .textarea-images-cta{
+    padding-bottom: 50px;
+    padding-top: 50px;
+  }
+  .textarea-image__text .text__headline{
+    margin-bottom: 15px;
+  }
+  .textarea-image__image{
+    aspect-ratio: 1.75;
+  }
+  .textarea-comoponent .text__content--huge {
+    padding-top: 50px;
+
+  }
+
+  .textarea-comoponent .text__content:not(.text__content--huge) p:last-child {
+    padding-bottom: 50px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .textarea-comoponent .ct-code-block{
+    margin-top: -60px;
+    margin-bottom: 60px;
+  }
+  .carousel-image-video .swiper .slider__arrow--left {
+    left: 164px
+  }
+
+  .carousel-image-video .swiper .slider__arrow--right {
+    right: 164px
+  }
+  .textarea-images-cta{
+    padding-bottom: 60px;
+    padding-top: 60px;
+  }
+  .textarea-image__image{
+    aspect-ratio: 1.43;
+  }
+  .textarea-comoponent .text__content--huge {
+    padding-top: 60px;
+
+  }
+
+  .textarea-comoponent .text__content:not(.text__content--huge) p:last-child {
+    padding-bottom: 60px;
+  }
+
+  .lg\:min-h-\[360px\] {
+    min-height: 360px
+  }
+}
+
+
+.bh-menu .navigation-container {
+  display: grid;
+  width: 100%;
+  height: 100vh;
+  height: 100dvh;
+  position: fixed;
+  transform: translateX(105vw);
+  z-index: 10;
+  top: 0;
+  right: 0;
+  transition: .3s;
+  background: #fdd62d;
+  align-content: space-evenly;
+  gap: 50px;
+}
+
+@media screen and (max-width: 1024px) {
+  .bh-menu .navigation-container {
+    align-content: end;
+    gap: 60px;
+    padding-bottom: 20px;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .bh-menu .navigation-container {
+    width: 33%
+  }
+}
+
+.bh-menu .navigation-container:after {
+  position: absolute;
+  content: " ";
+  left: -100vw;
+  width: 100vw;
+  height: 100%;
+  opacity: 0;
+  pointer-events: none;
+  background: rgba(0, 0, 0, .7);
+  transition: .3s all ease-in-out;
+  z-index: 1
+}
+
+.bh-menu input:checked ~ .navigation-container {
+  transform: translateX(0)
+}
+
+.bh-menu input:checked ~ .navigation-container:after {
+  opacity: 1
+}
+#inner_content-3-98 {
+  margin-top: unset!important;
+}
+.absolute .btn {
+  margin-top: unset;
+}
+.overlay-grayscale{
+  filter: grayscale(100%);
+}
+
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  .related-events-featured-inner .btn:not(.pumpehuset-featured-btns), #concerts-container .card-view .btn {
+    font-size: 14px;
+    padding: 5px 14px;
+  }
+}
+
+@media screen and (min-width: 1024px) and (max-width: 1380px) {
+  .related-events-featured-inner .btn:not(.pumpehuset-featured-btns), #concerts-container .card-view .btn {
+    font-size: 12px;
+    padding: 5px 10px;
+  }
+}
+
+.newsletter__info .response{
+  padding-top: 20px;
+}
+
+#concerts-container .btn,.component-04 .btn {
+  margin-top: 0;
+}
+
+
+#cmplz-cookiebanner-container > div > div.cmplz-links.cmplz-documents > a.cmplz-link.privacy-statement{
+  display: none;
+}
+#mce-success-response{
+  font-size:25px;
+}
+
+@media screen and (max-width: 350px) {
+    
+    .text__headline--size-1 {
+        font-size: 1.75rem;
+    }
+    
+}
+
+@media screen and (max-height: 670px) {
+    
+  .bh-menu .navigation-container {
+      gap: 0;
+  }
+  
+}
+.component-05 .text__headline{
+    hyphens: auto;
+}
+
+.program-list-ellipsis{
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+.program-list-support-ellipsis{
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+}
+
+.cmplz-placeholder-element.cmplz-blocked-content-container, .player .cmplz-blocked-content-container{
+    background-image:none!important;
+    background-color: #fdd62d!important;
+}
+.cmplz-blocked-content-container .cmplz-blocked-content-notice{
+        background: black;
+    padding: 47px 46px 47px 46px;
+    width: auto;
+    max-width:none;
+    font-size: 18px;
+}
+
+</style>
+		<script type="text/javascript" data-cfasync="false">
+						(function() {
+					var s = document.createElement('script');
+					s.type = 'text/javascript';
+					s.async = true;
+					s.src = "//widget.usersnap.com/global/load/1f83f33c-7517-4e4b-9aec-aab3160600d4";
+					var x = document.getElementsByTagName('head')[0];
+					x.appendChild(s);
+				})();
+						</script>
+		<noscript><style>.wp-grid-builder .wpgb-card.wpgb-card-hidden .wpgb-card-wrapper{opacity:1!important;visibility:visible!important;transform:none!important}.wpgb-facet {opacity:1!important;pointer-events:auto!important}.wpgb-facet *:not(.wpgb-pagination-facet){display:none}</style></noscript><link rel="alternate" hreflang="da-DK" href="https://pumpehuset.dk/program/"/>
+<link rel="alternate" hreflang="en-GB" href="https://pumpehuset.dk/en/program/"/>
+<link rel="alternate" hreflang="da" href="https://pumpehuset.dk/program/"/>
+<link rel="alternate" hreflang="en" href="https://pumpehuset.dk/en/program/"/>
+			<style>.cmplz-hidden {
+					display: none !important;
+				}</style><link rel="icon" href="https://pumpehuset.dk/wp-content/uploads/favicon.png" sizes="32x32" />
+<link rel="icon" href="https://pumpehuset.dk/wp-content/uploads/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://pumpehuset.dk/wp-content/uploads/favicon.png" />
+<meta name="msapplication-TileImage" content="https://pumpehuset.dk/wp-content/uploads/favicon.png" />
+<link rel='stylesheet' id='oxygen-cache-98-css' href='//pumpehuset.dk/wp-content/uploads/oxygen/css/98.css?cache=1692191605&#038;ver=7.0.2' media='all' />
+<link rel='stylesheet' id='oxygen-cache-97-css' href='//pumpehuset.dk/wp-content/uploads/oxygen/css/97.css?cache=1716384047&#038;ver=7.0.2' media='all' />
+<link rel='stylesheet' id='oxygen-universal-styles-css' href='//pumpehuset.dk/wp-content/uploads/oxygen/css/universal.css?cache=1764151277&#038;ver=7.0.2' media='all' />
+<!-- END OF WP_HEAD() -->
+</head>
+<body data-cmplz=1 class="wp-singular page-template-default page page-id-36569 wp-theme-oxygen-is-not-a-theme  wp-embed-responsive oxygen-body translatepress-da_DK" >
+
+
+
+
+						<div class="menu">
+    <a href="/" class="logo">
+        <svg class="w-full h-full" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310.06 148"><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect width="310" height="148" fill="none"/><path d="M154.22.07A51.75,51.75,0,1,0,206,51.82,51.81,51.81,0,0,0,154.22.07Zm0,97.05a45.29,45.29,0,1,1,45.29-45.29A45.29,45.29,0,0,1,154.22,97.12Z" fill="#fff"/><path d="M143.79,72l.42.29.41.28.41.27A25.25,25.25,0,0,0,150,75.49a6.77,6.77,0,0,0,3.9.45,4.18,4.18,0,0,0,2.7-2.31,15.13,15.13,0,0,0,1.35-5.78l1.41-16.41a26,26,0,0,0-.25-8.06A20.08,20.08,0,0,0,153,32.45c-.21-.2-.43-.4-.66-.59l-.68-.56-.09-.07-.06,0c-.24-.19-.47-.37-.72-.55A28.67,28.67,0,0,0,148.2,29l-.14-.08h0c-.43-.24-.87-.46-1.31-.68l-.33-.16-.66-.3-.05,0c-.8-.36-1.62-.69-2.47-1l-9.87-3.56,27.44-6.11,9.13,2.41,1,.28h0l.28.09.65.21.06,0,.28.1.58.2.1,0,.26.1.54.21.12.05.46.2.12.05.59.28.1.05.19.1.27.14.24.13.19.11.11.06.39.23.1.06.05,0a.1.1,0,0,1,0,0l.18.11.37.24.06,0,.08.06.22.15.29.21.07.05.07.05.14.11.27.22.12.1.07.06.07.06.22.2.22.2,0,0,0,0,.16.15.21.21.16.18s0,0,0,0l.18.2.18.2.09.11,0,0,.05.06.16.2.16.2.07.09,0,0,.06.09.15.21.15.21,0,.07h0a0,0,0,0,0,0,0,.83.83,0,0,1,.08.12l.14.22.13.22,0,0a0,0,0,0,1,0,0l.11.19c0,.08.09.17.13.25a1.19,1.19,0,0,1,.08.16l0,0s0,0,0,0L182,28c.05.11.1.21.14.32h0a.08.08,0,0,0,0,0l.11.27.12.33v0l0,.08a2,2,0,0,0,.08.22c0,.1.06.21.1.31a1.42,1.42,0,0,0,.05.16c.06.21.11.42.16.63a.85.85,0,0,0,0,.17c0,.17.07.34.1.51l0,.2a.59.59,0,0,1,0,.13c0,.16,0,.33.06.5,0,0,0,0,0,0h0l.06.67a1.62,1.62,0,0,1,0,.22c0,.17,0,.33,0,.5v.31c0,.2,0,.4,0,.6s0,.1,0,.15l0,.58c0,.08,0,.16,0,.24l-.06.56c0,.06,0,.12,0,.19a.43.43,0,0,1,0,0c0,.23-.07.46-.1.69l0,.2c0,.2-.07.4-.11.59s0,.15,0,.22q-.08.39-.18.78l-3,14a22.17,22.17,0,0,1-.61,2.38,14.32,14.32,0,0,1-.77,1.91,8.6,8.6,0,0,1-.92,1.47,6,6,0,0,1-1.07,1.06l-12.83,9.81-.7,5.6-19,15.51-.26-18.52a2.33,2.33,0,0,1,.4.24Z" fill="#fff"/><path d="M143.6,37.66l.35.13.33.14a8,8,0,0,1,2,1.17A5.72,5.72,0,0,1,147.68,41a10,10,0,0,1,.85,2.89,24.48,24.48,0,0,1,.22,4.15l-.35,17a1.82,1.82,0,0,1-.55,1.3.41.41,0,0,1-.11.07h0l-.11,0h0l-.12,0h0l-.12,0h-.47l-.23,0-.16,0-.19-.06-.21-.08-.33-.14-.21-.1-.18-.09-.22-.12-.22-.12-.07,0-.08,0,0,0-.43-.25-.67-.41-.1-.06-.1-.06-.1-.06-.1-.06-.38-27.33.36.13.37.16ZM.32,117H14.64c5.62,0,10.9,2.58,10.9,9.72,0,7.48-4.27,10.39-10.9,10.39H8.18v10.06H.32Zm7.86,14h5.28c2.45,0,4.23-1,4.23-3.76s-1.82-4-4.23-4H8.18Zm48.29,3.68c0,8.75-4,13.1-13.14,13.1s-13.14-4.35-13.14-13.1V117h7.86v18.17c0,3.89,1.44,5.87,5.28,5.87s5.28-2,5.28-5.87V117h7.86Zm6-17.7H74.06l5.2,20.11h.08L84.54,117H96.12v30.17H88.73v-22.9h-.08l-6.34,22.9h-6L70,124.22h-.08v22.9H62.5V117Zm39.81,0h14.32c5.62,0,10.9,2.58,10.9,9.72,0,7.48-4.27,10.39-10.9,10.39h-6.46v10.06h-7.86Zm7.85,14h5.28c2.45,0,4.23-1,4.23-3.76s-1.82-4-4.23-4h-5.28Zm21-14h24v6.29H139v5.28h14.79v6.08H139v5.75h16.6v6.76H131.11V117Zm30,0H169v11h10.35V117h7.86v30.17h-7.86V134.7H169v12.42h-7.86Zm59,17.7c0,8.75-4,13.1-13.14,13.1s-13.14-4.35-13.14-13.1V117h7.86v18.17c0,3.89,1.44,5.87,5.28,5.87s5.28-2,5.28-5.87V117h7.86ZM232.86,137c.17,3.55,2.37,4.69,5.71,4.69,2.37,0,4.82-.84,4.82-3.08,0-2.66-4.31-3.17-8.66-4.39s-8.83-3.17-8.83-8.7c0-6.59,6.63-9.17,12.29-9.17,6,0,12,2.92,12.08,9.72h-7.86c.13-2.75-2.45-3.63-4.86-3.63-1.69,0-3.8.59-3.8,2.58,0,2.32,4.35,2.75,8.75,4s8.75,3.25,8.75,8.7c0,7.65-6.51,10.1-13.14,10.1-6.93,0-13.06-3-13.1-10.77h7.85Zm23.2-20h24v6.29H263.92v5.28h14.79v6.08H263.92v5.75h16.6v6.76H256.06V117Zm54,6.76h-9v23.41H293.2V123.71h-9V117h25.86Z" fill="#fff"/><rect width="310" height="148" fill="none" opacity="0.98"/></g></g></svg>
+    </a>
+    <div class="bh-menu">
+        <input id="mobile-menu-toggle" class="mobile-menu-toggle" type="checkbox">
+        <span></span>
+        <span></span>
+        <span></span>
+		        <div class="language">
+							<div class="language__item uppercase cursor-pointer">
+					da					<svg width="9" height="5" viewBox="0 0 9 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0.75 0.5L4.5 4.25L8.25 0.5H0.75Z" fill="white"/>
+</svg>
+
+				</div>
+				
+			 
+							<div class="language__menu hidden uppercase">
+					<a class="u-text-white" href="https://pumpehuset.dk/en/program/">en</a>
+				</div>
+			        </div>
+		        <nav class="navigation-container">
+            <ul id="mobile-menu" class="main-menu-container">
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/">Forside</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/program/">Program</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/byhaven/">Byhaven</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/lej-pumpehuset/">Lej pumpehuset</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/faq/">FAQ</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/om-pumpehuset/">Om Pumpehuset</a>
+					</li>
+									<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-117">
+						<a href="https://pumpehuset.dk/kontakt-os/">Kontakt os</a>
+					</li>
+				            </ul>
+            <div class="contact p-10 text-center gap-4 grid max-w-xs mx-auto">
+                <div class="text__content text__content--small">
+					Studiestræde 52, 
+					1554 København V                </div>
+
+                <div class="grid grid-flow-col gap-6 justify-center">
+                    <a href="https://www.instagram.com/pumpehuset/" class="social__icon">
+                        <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M8.5 3C5.739 3 3.5 5.239 3.5 8V16C3.5 18.761 5.739 21 8.5 21H16.5C19.261 21 21.5 18.761 21.5 16V8C21.5 5.239 19.261 3 16.5 3H8.5ZM18.5 5C19.052 5 19.5 5.448 19.5 6C19.5 6.552 19.052 7 18.5 7C17.948 7 17.5 6.552 17.5 6C17.5 5.448 17.948 5 18.5 5ZM12.5 7C15.261 7 17.5 9.239 17.5 12C17.5 14.761 15.261 17 12.5 17C9.739 17 7.5 14.761 7.5 12C7.5 9.239 9.739 7 12.5 7ZM12.5 9C11.7044 9 10.9413 9.31607 10.3787 9.87868C9.81607 10.4413 9.5 11.2044 9.5 12C9.5 12.7956 9.81607 13.5587 10.3787 14.1213C10.9413 14.6839 11.7044 15 12.5 15C13.2956 15 14.0587 14.6839 14.6213 14.1213C15.1839 13.5587 15.5 12.7956 15.5 12C15.5 11.2044 15.1839 10.4413 14.6213 9.87868C14.0587 9.31607 13.2956 9 12.5 9Z"
+                                  fill="#151515"></path>
+                            <path d="M8.5 3C5.739 3 3.5 5.239 3.5 8V16C3.5 18.761 5.739 21 8.5 21H16.5C19.261 21 21.5 18.761 21.5 16V8C21.5 5.239 19.261 3 16.5 3H8.5ZM18.5 5C19.052 5 19.5 5.448 19.5 6C19.5 6.552 19.052 7 18.5 7C17.948 7 17.5 6.552 17.5 6C17.5 5.448 17.948 5 18.5 5ZM12.5 7C15.261 7 17.5 9.239 17.5 12C17.5 14.761 15.261 17 12.5 17C9.739 17 7.5 14.761 7.5 12C7.5 9.239 9.739 7 12.5 7ZM12.5 9C11.7044 9 10.9413 9.31607 10.3787 9.87868C9.81607 10.4413 9.5 11.2044 9.5 12C9.5 12.7956 9.81607 13.5587 10.3787 14.1213C10.9413 14.6839 11.7044 15 12.5 15C13.2956 15 14.0587 14.6839 14.6213 14.1213C15.1839 13.5587 15.5 12.7956 15.5 12C15.5 11.2044 15.1839 10.4413 14.6213 9.87868C14.0587 9.31607 13.2956 9 12.5 9Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                            <path d="M8.5 3C5.739 3 3.5 5.239 3.5 8V16C3.5 18.761 5.739 21 8.5 21H16.5C19.261 21 21.5 18.761 21.5 16V8C21.5 5.239 19.261 3 16.5 3H8.5ZM18.5 5C19.052 5 19.5 5.448 19.5 6C19.5 6.552 19.052 7 18.5 7C17.948 7 17.5 6.552 17.5 6C17.5 5.448 17.948 5 18.5 5ZM12.5 7C15.261 7 17.5 9.239 17.5 12C17.5 14.761 15.261 17 12.5 17C9.739 17 7.5 14.761 7.5 12C7.5 9.239 9.739 7 12.5 7ZM12.5 9C11.7044 9 10.9413 9.31607 10.3787 9.87868C9.81607 10.4413 9.5 11.2044 9.5 12C9.5 12.7956 9.81607 13.5587 10.3787 14.1213C10.9413 14.6839 11.7044 15 12.5 15C13.2956 15 14.0587 14.6839 14.6213 14.1213C15.1839 13.5587 15.5 12.7956 15.5 12C15.5 11.2044 15.1839 10.4413 14.6213 9.87868C14.0587 9.31607 13.2956 9 12.5 9Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                        </svg>
+                    </a>
+                    <a href="https://www.facebook.com/Pumpehuset/" class="social__icon">
+                        <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M19.5 3H5.5C4.395 3 3.5 3.895 3.5 5V19C3.5 20.105 4.395 21 5.5 21H13.121V14.039H10.778V11.314H13.121V9.309C13.121 6.985 14.542 5.718 16.616 5.718C17.315 5.716 18.013 5.752 18.708 5.823V8.253H17.28C16.15 8.253 15.93 8.787 15.93 9.575V11.31H18.63L18.279 14.035H15.914V21H19.5C20.605 21 21.5 20.105 21.5 19V5C21.5 3.895 20.605 3 19.5 3Z"
+                                  fill="#151515"></path>
+                            <path d="M19.5 3H5.5C4.395 3 3.5 3.895 3.5 5V19C3.5 20.105 4.395 21 5.5 21H13.121V14.039H10.778V11.314H13.121V9.309C13.121 6.985 14.542 5.718 16.616 5.718C17.315 5.716 18.013 5.752 18.708 5.823V8.253H17.28C16.15 8.253 15.93 8.787 15.93 9.575V11.31H18.63L18.279 14.035H15.914V21H19.5C20.605 21 21.5 20.105 21.5 19V5C21.5 3.895 20.605 3 19.5 3Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                            <path d="M19.5 3H5.5C4.395 3 3.5 3.895 3.5 5V19C3.5 20.105 4.395 21 5.5 21H13.121V14.039H10.778V11.314H13.121V9.309C13.121 6.985 14.542 5.718 16.616 5.718C17.315 5.716 18.013 5.752 18.708 5.823V8.253H17.28C16.15 8.253 15.93 8.787 15.93 9.575V11.31H18.63L18.279 14.035H15.914V21H19.5C20.605 21 21.5 20.105 21.5 19V5C21.5 3.895 20.605 3 19.5 3Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                        </svg>
+                    </a>
+                    <a href="https://www.tiktok.com/@pumpehuset" class="social__icon">
+                        <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6.5 3C4.85503 3 3.5 4.35503 3.5 6V18C3.5 19.645 4.85503 21 6.5 21H18.5C20.145 21 21.5 19.645 21.5 18V6C21.5 4.35503 20.145 3 18.5 3H6.5ZM12.5 7H14.5C14.5 8.005 15.971 9 16.5 9V11C15.895 11 15.168 10.7342 14.5 10.2852V14C14.5 15.654 13.154 17 11.5 17C9.846 17 8.5 15.654 8.5 14C8.5 12.346 9.846 11 11.5 11V13C10.948 13 10.5 13.449 10.5 14C10.5 14.551 10.948 15 11.5 15C12.052 15 12.5 14.551 12.5 14V7Z"
+                                  fill="#151515"></path>
+                            <path d="M6.5 3C4.85503 3 3.5 4.35503 3.5 6V18C3.5 19.645 4.85503 21 6.5 21H18.5C20.145 21 21.5 19.645 21.5 18V6C21.5 4.35503 20.145 3 18.5 3H6.5ZM12.5 7H14.5C14.5 8.005 15.971 9 16.5 9V11C15.895 11 15.168 10.7342 14.5 10.2852V14C14.5 15.654 13.154 17 11.5 17C9.846 17 8.5 15.654 8.5 14C8.5 12.346 9.846 11 11.5 11V13C10.948 13 10.5 13.449 10.5 14C10.5 14.551 10.948 15 11.5 15C12.052 15 12.5 14.551 12.5 14V7Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                            <path d="M6.5 3C4.85503 3 3.5 4.35503 3.5 6V18C3.5 19.645 4.85503 21 6.5 21H18.5C20.145 21 21.5 19.645 21.5 18V6C21.5 4.35503 20.145 3 18.5 3H6.5ZM12.5 7H14.5C14.5 8.005 15.971 9 16.5 9V11C15.895 11 15.168 10.7342 14.5 10.2852V14C14.5 15.654 13.154 17 11.5 17C9.846 17 8.5 15.654 8.5 14C8.5 12.346 9.846 11 11.5 11V13C10.948 13 10.5 13.449 10.5 14C10.5 14.551 10.948 15 11.5 15C12.052 15 12.5 14.551 12.5 14V7Z"
+                                  fill="black" fill-opacity="0.2"></path>
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </nav>
+    </div>
+</div><div id="code_block-2-36848" class="ct-code-block" ><section class="component component-full-w-carousel">
+    <div class="default-grid">
+        <div class="full-grid w-full h-full">
+            <div class="grid col-span-full">
+                <div class="swiper full-w-carousel swiper-initialized swiper-horizontal swiper-backface-hidden">
+                    <div class="swiper-wrapper" id="swiper-wrapper-ecd117af214af118" aria-live="polite">
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/icona-po-p-e1779257970784.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                13. nov 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    Icona Pop                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													                                                </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Elektronisk" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Elektronisk</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://www.ticketmaster.dk/event/1977544956?language=da-dk&brand=dk_livenation" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/icona-pop/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/Karoline-mousing-hjside-e1770109336340.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                19. nov 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    Karoline Mousing                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													                                                </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Pop" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Pop</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://billet.unitedtickets.dk/event/karoline-mousing/pumpehuset-copenhagen/3593575" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/karoline-mousing/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/WU-LYF-e1776762123472.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                29. sep 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    WU LYF                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													                                                </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Indie" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Indie</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://www.billetlugen.dk/event/21581489/?affiliate=SB8" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/wu-lyf/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/Lack-album-release-.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                10. sep 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    Lack albumrelease                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													Support: Jacob Bredahl m band + Omsorg + Citybilen (DJ) + Brd Burø (DJ)                                                </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Indie" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Indie</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://secure.tickster.com/7z36lmpe6dp9jkt" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/lack-albumrelease/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/54-ULTRA-PRESS-PHOTO-OCT-2025-kopi-1-e1781599759518.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                13. okt 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    54 Ultra                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													                                                </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Indie" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Indie</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://www.ticketmaster.dk/event/704064554?language=da-dk&brand=dk_livenation" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/54-ultra/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						                        <div class="swiper-slide swiper-slide-active" style="width: 1445px; margin-right: 10px;" role="group" aria-label="1 / 2">
+                            <div class="grid h-full ">
+                                <div class="image-overlay absolute w-full h-full grid">
+                                    <img class="w-full absolute h-full object-cover hero-height" src="https://pumpehuset.dk/wp-content/uploads/Napalm-Death-Britta-Hoppe.jpg" alt="Placeholder image">
+                                </div>
+
+                                <div class="default-grid relative content-end z-10">
+                                    <div class="boxed-grid">
+                                        <div class="single-event-banner-text col-span-12 grid gap-4 pb-10">
+                                            <div class="u-text-white text__headline text__headline--size-4 text__headline--size-4--bold grid">
+                                                8. nov 2026                                            </div>
+                                            <div class="u-text-orange grid-flow-col items-end justify-start gap-4">
+                                                <div class="text__headline text__headline--size-1 inline">
+                                                    Napalm Death                                                </div>
+                                                <div class="text__headline text__headline--size-4 uppercase pb-4 inline text-[15px] md:text-[24px]">
+
+													Support:  Master + Support:  Brat + Support:  Goatburner                                                 </div>
+                                            </div>
+                                            <div class="grid justify-start ">
+                                                                                                <a href="/program?genre=Metal" class="btn btn--tag btn--tag-filled ">
+													<span class="btn__text">Metal</span>
+                                                </a>
+                                            </div>
+
+                                            <div class="grid justify-start">
+                                                <div class="grid-2-cols-always grid-flow-col gap-6">
+                                                    <div class="grid w-full">
+														<a href="https://www.ticketmaster.dk/event/1060816684?language=da-dk&brand=dk_livenation" target="_blank" class="btn btn--filled-grey-2  w-full">
+															<span class="btn__text">Køb billet</span>
+														</a>
+                                                    </div>
+                                                    <div class="grid w-full">
+														<a href="https://pumpehuset.dk/koncerter/napalm-death/" class="btn btn--transparent-black-border btn--normal w-full">
+															<span class="btn__text">mere info</span>
+														</a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+						
+
+                <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+				<div class="slider__dots swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal">
+					<span class="slider__dot dot--active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span>
+					<span class="slider__dot" tabindex="0" role="button" aria-label="Go to slide 2"></span>
+				</div>
+            </div>
+			
+        </div>
+    </div>
+		<div class="spacer-default"></div>
+</section>
+</div><div id="code_block-3-36571" class="ct-code-block" ><script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/axios@1.4.0/dist/axios.min.js"></script>
+<div id='app'>
+    <v-app>
+        <template>
+            <section class="component component-05">
+                <div class="default-grid gap-y-14 relative">
+                    <div v-if="showLoader" class="loader-overlay w-full h-full absolute z-30">
+                        <svg class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2" width="38" height="38" viewBox="0 0 38 38" xmlns="http://www.w3.org/2000/svg">
+                            <defs>
+                                <linearGradient x1="8.042%" y1="0%" x2="65.682%" y2="23.865%" id="a">
+                                    <stop stop-color="#fff" stop-opacity="0" offset="0%"/>
+                                    <stop stop-color="#fff" stop-opacity=".631" offset="63.146%"/>
+                                    <stop stop-color="#fff" offset="100%"/>
+                                </linearGradient>
+                            </defs>
+                            <g fill="none" fill-rule="evenodd">
+                                <g transform="translate(1 1)">
+                                    <path d="M36 18c0-9.94-8.06-18-18-18" id="Oval-2" stroke="url(#a)" stroke-width="2">
+                                        <animateTransform
+                                            attributeName="transform"
+                                            type="rotate"
+                                            from="0 18 18"
+                                            to="360 18 18"
+                                            dur="0.9s"
+                                            repeatCount="indefinite" />
+                                    </path>
+                                    <circle fill="#fff" cx="36" cy="18" r="1">
+                                        <animateTransform
+                                            attributeName="transform"
+                                            type="rotate"
+                                            from="0 18 18"
+                                            to="360 18 18"
+                                            dur="0.9s"
+                                            repeatCount="indefinite" />
+                                    </circle>
+                                </g>
+                            </g>
+                        </svg>
+                    </div>
+                    <div class="default-grid gap-y-14">
+                        <div class="boxed-grid">
+                            <div class="grid gap-2 md:gap-6 grid-cols-12">
+                                <div class="col-span-12 xl:col-span-5 border-solid border border-black py-2 px-3 relative">
+                                    <input placeholder="Søg efter kunstner" class="outline-none w-full h-full" @change="searchConcerts()" v-model="searchString" type="text" value=""/>
+                                    <svg class="absolute right-2 top-0 bottom-0 mt-auto mb-auto pointer-events-none	" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M11.4351 10.0629H10.7124L10.4563 9.81589C11.3528 8.77301 11.8925 7.4191 11.8925 5.94625C11.8925 2.66209 9.23042 0 5.94625 0C2.66209 0 0 2.66209 0 5.94625C0 9.23042 2.66209 11.8925 5.94625 11.8925C7.4191 11.8925 8.77301 11.3528 9.81589 10.4563L10.0629 10.7124V11.4351L14.6369 16L16 14.6369L11.4351 10.0629ZM5.94625 10.0629C3.66838 10.0629 1.82962 8.22413 1.82962 5.94625C1.82962 3.66838 3.66838 1.82962 5.94625 1.82962C8.22413 1.82962 10.0629 3.66838 10.0629 5.94625C10.0629 8.22413 8.22413 10.0629 5.94625 10.0629Z" fill="#151515"/>
+                                    </svg>
+                                </div>
+                                <div class="grid gap-2 md:gap-6 md:grid-cols-2 grid-cols-3 xl:col-span-4 lg:col-span-6 col-span-12">
+                                    <div class=" md:hidden block border-solid border border-black  relative">
+                                        <select @blur="selectGenre()" multiple v-model="genres" class="appearance-none bg-white px-3 py-2 h-full w-full text-sm md:text-md">
+                                            <option selected="selected" value="all" label="Genrer">Alle genre</option>
+                                                                                                <option value="Elektronisk">Elektronisk</option>
+                                                                                                    <option value="Hiphop">Hiphop</option>
+                                                                                                    <option value="Indie">Indie</option>
+                                                                                                    <option value="Jazz">Jazz</option>
+                                                                                                    <option value="Metal">Metal</option>
+                                                                                                    <option value="Pop">Pop</option>
+                                                                                                    <option value="Reggae">Reggae</option>
+                                                                                                    <option value="Rock">Rock</option>
+                                                
+                                        </select>
+                                        <svg class="absolute right-2 top-0 bottom-0 mt-auto mb-auto pointer-events-none	" width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0L5 5L10 0H0Z" fill="#303030"/>
+                                        </svg>
+                                    </div>
+                                    <div class="border-solid border border-black relative">
+                                        <select @change="(event) => {pageNumber = 1; fetchConcerts()}" class="appearance-none px-3 h-full w-full py-2 bg-white text-sm md:text-md" v-model="searchMonth" type="select">
+                                            <option value="false" selected>Måneder</option>
+                                            <option value="2026-08">Aug. 2026</option><option value="2026-09">Sep. 2026</option><option value="2026-10">Oct. 2026</option><option value="2026-11">Nov. 2026</option><option value="2026-12">Dec. 2026</option><option value="2027-01">Jan. 2027</option><option value="2027-02">Feb. 2027</option><option value="2027-03">Mar. 2027</option><option value="2027-04">Apr. 2027</option><option value="2027-05">May. 2027</option><option value="2027-06">Jun. 2027</option>
+                                        </select>
+                                        <svg class="absolute right-2 top-0 bottom-0 mt-auto mb-auto pointer-events-none	" width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0L5 5L10 0H0Z" fill="#303030"/>
+                                        </svg>
+                                    </div>
+                                    <div class="border-solid border border-black relative">
+                                        <select @change="(event) => {pageNumber = 1; searchMonth = false; fetchConcerts()}" class="appearance-none px-3 py-2 h-full w-full bg-white text-sm md:text-md" v-model="sort">
+                                            <option value="concert_date">Kommende</option>
+                                            <option value="published_date">Seneste</option>
+                                        </select>
+                                        <svg class="absolute right-2 top-0 bottom-0 mt-auto mb-auto pointer-events-none	" width="10" height="5" viewBox="0 0 10 5" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 0L5 5L10 0H0Z" fill="#303030"/>
+                                        </svg>
+                                    </div>
+                                </div>
+                                <div class="grid grid-cols-2 lg:col-span-6 xl:col-span-3 col-span-12">
+                                    <div @click="toggleDisplayMode('card')" class="cursor-pointer border border-black border-solid py-2 text-center" :class="{'bg-black text-white': displayMode == 'card'}">
+                                        <svg class="inline -mt-1 mr-1" width="16" height="13" viewBox="0 0 16 13" :class="displayMode == 'card' ? 'fill-white' : 'fill-black'" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M10.3733 0V5.77778H5.62667V0H10.3733ZM11.2622 5.77778H16V0H11.2622V5.77778ZM10.3733 12.4444V6.66667H5.62667V12.4444H10.3733ZM11.2622 6.66667V12.4444H16V6.66667H11.2622ZM4.73778 6.66667H0V12.4444H4.73778V6.66667ZM4.73778 5.77778V0H0V5.77778H4.73778Z"/>
+                                        </svg>
+                                        Kortvisning
+                                    </div>
+                                    <div @click="toggleDisplayMode('list')" class="cursor-pointer border border-black border-solid py-2 text-center" :class="{'bg-black text-white': displayMode == 'list'}">
+                                        <svg class="inline -mt-1 mr-1" width="16" height="14" viewBox="0 0 16 14" :class="displayMode == 'list' ? 'fill-white' : 'fill-black'" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M0 10H16V8H0V10ZM0 14H16V12H0V14ZM0 6H16V4H0V6ZM0 0V2H16V0H0Z" />
+                                            <path d="M0 10H16V8H0V10ZM0 14H16V12H0V14ZM0 6H16V4H0V6ZM0 0V2H16V0H0Z" fill-opacity="0.2"/>
+                                            <path d="M0 10H16V8H0V10ZM0 14H16V12H0V14ZM0 6H16V4H0V6ZM0 0V2H16V0H0Z" fill-opacity="0.2"/>
+                                        </svg>
+                                        Listevisning
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="md:my-6 mb-6 mt-2 grid  grid-cols-3">
+                                <div class="lg:col-span-2 md:col-span-3 col-span-3 hidden md:block">
+                                    <div @click="toggleGenre('all')"
+                                         :class="genres.includes('all') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                         class="border-solid border cursor-pointer u-border-grey u-text-grey inline-block py-1 px-2 mr-6">
+                                        Vis alle
+                                    </div>
+                                                                                <div @click="toggleGenre('Elektronisk')"
+                                                 :class="genres.includes('Elektronisk') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Elektronisk                                            </div>
+                                                                                    <div @click="toggleGenre('Hiphop')"
+                                                 :class="genres.includes('Hiphop') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Hiphop                                            </div>
+                                                                                    <div @click="toggleGenre('Indie')"
+                                                 :class="genres.includes('Indie') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Indie                                            </div>
+                                                                                    <div @click="toggleGenre('Jazz')"
+                                                 :class="genres.includes('Jazz') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Jazz                                            </div>
+                                                                                    <div @click="toggleGenre('Metal')"
+                                                 :class="genres.includes('Metal') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Metal                                            </div>
+                                                                                    <div @click="toggleGenre('Pop')"
+                                                 :class="genres.includes('Pop') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Pop                                            </div>
+                                                                                    <div @click="toggleGenre('Reggae')"
+                                                 :class="genres.includes('Reggae') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Reggae                                            </div>
+                                                                                    <div @click="toggleGenre('Rock')"
+                                                 :class="genres.includes('Rock') ? 'u-bg-grey u-text-white' : 'u-bg-white u-text-grey'"
+                                                 class="cursor-pointer border-solid border u-border-grey inline-block py-1 px-2 mr-6">
+                                                Rock                                            </div>
+                                                                        </div>
+                                
+                                <div class="lg:text-right lg:mt-1 md:mt-6 mt-1 lg:col-span-1 col-span-3">
+                                    <div class="inline-block mr-3">
+                                        <div @click="toggleLocation('pumpehuset')" class="cursor-pointer border-solid border border-black w-6 h-6 relative inline-block">
+                                            <svg v-if="locations.includes('pumpehuset')" class="absolute top-0 bottom-0 left-0 right-0 m-auto" width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="#151515"/>
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="black" fill-opacity="0.2"/>
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="black" fill-opacity="0.2"/>
+                                            </svg>
+                                        </div>
+                                        <div @click="toggleLocation('pumpehuset')" class="cursor-pointer inline-block align-top ml-1">Pumpehuset</div>
+
+                                    </div>
+                                    <div class="inline-block">
+                                        <div @click="toggleLocation('byhaven')" class="cursor-pointer absolute border-solid border border-black w-6 h-6 relative inline-block">
+                                            <svg v-if="locations.includes('byhaven')" class="absolute top-0 bottom-0 left-0 right-0 m-auto" width="16" height="12" viewBox="0 0 16 12" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="#151515"/>
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="black" fill-opacity="0.2"/>
+                                                <path d="M5.09091 9.49254L1.27273 5.73134L0 6.98507L5.09091 12L16 1.25373L14.7273 0L5.09091 9.49254Z" fill="black" fill-opacity="0.2"/>
+                                            </svg>
+                                        </div>
+
+                                        <div @click="toggleLocation('byhaven')" class="cursor-pointer inline-block align-top ml-1">Byhaven</div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div v-if="concerts.length === 0 && showLoader == false" class="no-results pt-[115px]">
+                                <div class="grid gap-[15px] text-center">
+                                    <div class="text__headline--size-4--bold">Vi kunne desværre ikke finde det, du ledte efter </div>
+                                    <div class="text__content">Tjek evt. for stavefejl eller prøv med en ny søgning. </div>
+                                </div>
+                            </div>
+                            <div id="concerts-container">
+                                <div v-if="displayMode == 'card'" class="card-view grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+                                    <div v-for="concert in concerts" class="grid gap-4 border border-black p-[10px] md:p-[20px] relative">
+
+                                        <div v-if="!['Normal', 'Fri entré'].includes(concert.ticket_status)" class="ticket-status-label uppercase ticket-status-label absolute u-bg-black u-text-white py-2 px-3 border border-white border-solid z-30 md:right-3 right-1 top-1 md:top-3">
+                                            {{ concert.ticket_status }}
+
+                                        </div>
+
+                                        <div class="xl:aspect-[25/24] lg:aspect-[25/29] aspect-[25/24] relative grid cursor-pointer" @click="goToConcert(concert.link)">
+                                            <div class="image-overlay-cards grid">
+                                                <img class="w-full object-cover h-full object-top absolute" :src="concert.image" alt="Placeholder image">
+                                                <div class="absolute z-30 bottom-4 left-4 pr-4">
+                                                    <div v-html="concert.title" class="text__headline u-text-orange text__headline--size-3 inline pr-2">
+                                                        
+                                                    </div>
+                                                    <div v-if="concert.support_bands && !concert.hide_support_title " class="text__headline u-text-orange inline text__headline--size-5 pb-4">
+                                                        {{  concert.custom_support_title ? concert.custom_support_title : '' }} {{ concert.support_bands.reduce(function(supportString, band, index){
+                                                            if (index == 0){
+                                                                return supportString += band.band_name
+                                                            }else{
+                                                                return supportString += ' + '+band.band_name
+                                  
+<!-- TRIMMED BY recon.mjs -->

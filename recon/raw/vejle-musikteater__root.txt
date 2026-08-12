@@ -1,0 +1,1305 @@
+
+<!DOCTYPE html>
+<html lang="da-DK">
+  <head>
+    <style>
+      :root {       
+        /* Header colors*/
+        --header-background-color:#133a22;--header-background-color-scroll:#133a22;--header-dropdown-background-color:#133a22;--header-mobile-background-color:#fff;--header-border-color:#ffffff;--header-burger-color:#ffffff;--header-burger-color-scroll:#ffffff;--header-burger-color-open:#ffffff;--header-icon-color:#ffffff;--header-icon-color-scroll:#ffffff;--header-icon-color-open:#ffffff;--header-basket-bg-circle:#ffffff;--header-basket-bg-circle-scroll:#ffffff;--header-basket-bg-circle-open:#ffffff;--header-basket-tx-circle:#ceb77d;--header-basket-tx-circle-scroll:#ceb77d;--header-basket-tx-circle-open:#ceb77d;        /* Footer colors*/
+        --footer-text-color: #b3b3b3;
+        --footer-header-color: #fff;
+        --footer-link-color: #fff;
+        --footer-hover-link-color: #929292;
+        --footer-background-color: rgba(0, 0, 0, 0);
+        /* Breakpoints*/
+        --breakpoints-padding: 0px;
+        /* Bwps style variables*/
+        --bwps-image-height: 250px;
+        --bwps-image-overlay: rgba(21,40,75,0.7);
+        --bwps-bg-color: rgba(0, 0, 0, 0);
+        --bwps-overlay-text-color: #fff;
+        --bwps-grid-gap: 7px;
+        /* Colors */
+        --load-color: #fff;
+        --primary-color:#133a22;--secondary-color:#361b33;--third-color:#a9a895;--fourth-color:;--black:#231f20;--dark:#231f20;--dark-grey:#505050;--light-grey:#dfdfdf;--lighter-grey:#eef0ee;--white:#fff;--background-color:#fff;        /* Category colors */
+         --born-og-familie-color:#3b1934; --jazz-color:#af3623; --dans-klassisk-musik-color:#d9ab4c; --det-verdensklasse-color:#a9a894; --ener-plads-spar-50-color:#434141; --foredrag-color:#a05b56; --koncert-color:#ecba29; --musical-color:#fd907c; --rock-i-byparken-2026-color:#54af77; --show-color:#133a22; --stand-up-color:#c4926f; --study-in-vejle-color:#ff7373; --teater-color:#9c8e8e; --top-100-dk-color:#f0a424; --toppen-af-poppen-26-color:rgba(180, 143, 215, 0.66); --uncategorized-color:#868686; --valentinsdag-favorit-color:#dd3333;        /* Texts */
+        --h1-color:#484848;--h1-size:40px;--h1-max-width:100%;--h1-margin-top:0px;--h1-margin-bottom:8px;--h1-align:left;--h1-transform:none;--h1-weight:500;--h2-color:#484848;--h2-size:32px;--h2-max-width:100%;--h2-margin-top:0px;--h2-margin-bottom:16px;--h2-align:left;--h2-transform:none;--h2-weight:400;--h3-color:#484848;--h3-size:28px;--h3-max-width:100%;--h3-margin-top:0px;--h3-margin-bottom:8px;--h3-align:left;--h3-transform:none;--h3-weight:500;--h4-color:#333;--h4-size:20px;--h4-max-width:100%;--h4-margin-top:10px;--h4-margin-bottom:5px;--h4-align:left;--h4-transform:none;--h4-weight:600;--h5-color:#484848;--h5-size:20px;--h5-max-width:100%;--h5-margin-top:10px;--h5-margin-bottom:5px;--h5-align:left;--h5-transform:none;--h5-weight:400;--h6-color:#484848;--h6-size:20px;--h6-max-width:100%;--h6-margin-top:10px;--h6-margin-bottom:5px;--h6-align:left;--h6-transform:none;--h6-weight:400;--p-color:#484848;--p-size:16px;--p-max-width:100%;--p-margin-top:px;--p-margin-bottom:16px;--p-align:left;--p-transform:initial;--p-weight:400;--li-color:#484848;--li-size:16px;--li-max-width:100%;--li-margin-top:10px;--li-margin-bottom:10px;--li-align:left;--li-transform:initial;--li-weight:400;--label-color:#484848;--label-size:16px;--label-max-width:100%;--label-margin-top:10px;--label-margin-bottom:10px;--label-align:left;--label-transform:initial;--label-weight:400;--a-color:#484848;--a-size:16px;--a-max-width:100%;--a-margin-top:0px;--a-margin-bottom:16px;--a-align:left;--a-transform:initial;--a-weight:300;--a-color-hover:#111;--a-weight-hover:300;--a-translate-y-hover:px;--nav-pri-color:#ffffff;--nav-pri-size:25px;--nav-pri-max-width:100%;--nav-pri-margin-top:px;--nav-pri-margin-bottom:px;--nav-pri-align:left;--nav-pri-transform:initial;--nav-pri-weight:600;--nav-pri-color-hover:#ffffff;--nav-pri-weight-hover:600;--nav-pri-translate-y-hover:1px;--nav-pri-color-scroll:#ffffff;--nav-pri-color-hover-scroll:#ffffff;--nav-pri-drop-color:#ffffff;--nav-pri-drop-size:16px;--nav-pri-drop-max-width:100%;--nav-pri-drop-margin-top:px;--nav-pri-drop-margin-bottom:px;--nav-pri-drop-align:left;--nav-pri-drop-transform:initial;--nav-pri-drop-weight:400;--nav-pri-drop-color-hover:#ebebeb;--nav-pri-drop-weight-hover:400;--nav-pri-drop-translate-y-hover:3px;--nav-pri-drop-color-bg:;--nav-pri-drop-color-bg-hover:;--nav-sec-color:#ffffff;--nav-sec-size:11px;--nav-sec-max-width:100%;--nav-sec-margin-top:px;--nav-sec-margin-bottom:px;--nav-sec-align:left;--nav-sec-transform:capitalize;--nav-sec-weight:300;--nav-sec-color-hover:#ffffff;--nav-sec-weight-hover:300;--nav-sec-translate-y-hover:-3px;--nav-sec-color-scroll:#955f58;--nav-sec-color-hover-scroll:#ffffff;--nav-sec-drop-color:#ffffff;--nav-sec-drop-size:11px;--nav-sec-drop-max-width:100%;--nav-sec-drop-margin-top:px;--nav-sec-drop-margin-bottom:px;--nav-sec-drop-align:left;--nav-sec-drop-transform:capitalize;--nav-sec-drop-weight:300;--nav-sec-drop-color-hover:#955f58;--nav-sec-drop-weight-hover:300;--nav-sec-drop-translate-y-hover:px;--nav-sec-drop-color-bg:;--nav-sec-drop-color-bg-hover:;--title-color:#484848;--title-size:30px;--title-max-width:100%;--title-margin-top:10px;--title-margin-bottom:7px;--title-align:left;--title-transform:initial;--title-weight:600;--location-color:#484848;--location-size:13px;--location-max-width:100%;--location-margin-top:10px;--location-margin-bottom:5px;--location-align:left;--location-transform:initial;--location-weight:300;--date-color:#484848;--date-size:13px;--date-max-width:100%;--date-margin-top:10px;--date-margin-bottom:5px;--date-align:left;--date-transform:uppercase;--date-weight:600;
+        /* Buttuns */
+        --primary-bg-color:#a9a894;--primary-text-color:#ffffff;--primary-text-size:13px;--primary-text-weight:300;--primary-line-height:15px;--primary-border-color:#a9a894;--primary-border-width:2px;--primary-border-radius:50px;--primary-padding-left:25px;--primary-padding-right:25px;--primary-padding-top:10px;--primary-padding-bottom:10px;--primary-hover-bg-color:#a9a894;--primary-hover-border-color:#a9a894;--primary-hover-text-color:#133a22;--secondary-bg-color:;--secondary-text-color:#fff;--secondary-text-size:15px;--secondary-text-weight:300;--secondary-line-height:15px;--secondary-border-color:#ffffff;--secondary-border-width:1px;--secondary-border-radius:50px;--secondary-padding-left:30px;--secondary-padding-right:30px;--secondary-padding-top:10px;--secondary-padding-bottom:10px;--secondary-hover-bg-color:#ffffff;--secondary-hover-border-color:#ffffff;--secondary-hover-text-color:#0b0b0b;--tertiary-bg-color:#54af77;--tertiary-text-color:#ffffff;--tertiary-text-size:16px;--tertiary-text-weight:300;--tertiary-line-height:15px;--tertiary-border-color:#54af77;--tertiary-border-width:1px;--tertiary-border-radius:4px;--tertiary-padding-left:20px;--tertiary-padding-right:20px;--tertiary-padding-top:19px;--tertiary-padding-bottom:19px;--tertiary-hover-bg-color:#468b60;--tertiary-hover-border-color:#468b60;--tertiary-hover-text-color:#e2e2e2;--quaternary-bg-color:rgba(21,40,75,0);--quaternary-text-color:#484848;--quaternary-text-size:25px;--quaternary-text-weight:300;--quaternary-line-height:25px;--quaternary-border-color:rgba(21,40,75,0);--quaternary-border-width:1px;--quaternary-border-radius:4px;--quaternary-padding-left:5px;--quaternary-padding-right:5px;--quaternary-padding-top:3px;--quaternary-padding-bottom:5px;--quaternary-hover-bg-color:#f1f1f1;--quaternary-hover-border-color:rgba(21,40,75,0);--quaternary-hover-text-color:#484848;--pag-btn-bg-color:rgba(21,40,75,0);--pag-btn-text-color:#484848;--pag-btn-text-size:25px;--pag-btn-text-weight:300;--pag-btn-line-height:20px;--pag-btn-border-color:rgba(21,40,75,0);--pag-btn-border-width:1px;--pag-btn-border-radius:4px;--pag-btn-padding-left:px;--pag-btn-padding-right:px;--pag-btn-padding-top:3px;--pag-btn-padding-bottom:8px;--pag-btn-hover-bg-color:#f1f1f1;--pag-btn-hover-border-color:rgba(21,40,75,0);--pag-btn-hover-text-color:#484848;--pag-number-bg-color:rgba(21,40,75,0);--pag-number-text-color:#484848;--pag-number-text-size:15px;--pag-number-text-weight:300;--pag-number-line-height:13px;--pag-number-border-color:rgba(21,40,75,0);--pag-number-border-width:1px;--pag-number-border-radius:4px;--pag-number-padding-left:5px;--pag-number-padding-right:5px;--pag-number-padding-top:5px;--pag-number-padding-bottom:5px;--pag-number-hover-bg-color:#f1f1f1;--pag-number-hover-border-color:rgba(21,40,75,0);--pag-number-hover-text-color:#484848;--add-to-calender-bg-color:rgba(21,40,75,0);--add-to-calender-text-color:rgba(21,40,75,1);--add-to-calender-text-size:15px;--add-to-calender-text-weight:300;--add-to-calender-line-height:15px;--add-to-calender-border-color:rgba(21,40,75,1);--add-to-calender-border-width:1px;--add-to-calender-border-radius:2px;--add-to-calender-padding-left:30px;--add-to-calender-padding-right:30px;--add-to-calender-padding-top:10px;--add-to-calender-padding-bottom:10px;--add-to-calender-hover-bg-color:rgba(21,40,75,1);--add-to-calender-hover-border-color:rgba(21,40,75,1);--add-to-calender-hover-text-color:#fff;--filter-btn-bg-color:;--filter-btn-text-color:;--filter-btn-text-size:px;--filter-btn-text-weight:;--filter-btn-line-height:px;--filter-btn-border-color:;--filter-btn-border-width:px;--filter-btn-border-radius:px;--filter-btn-padding-left:px;--filter-btn-padding-right:px;--filter-btn-padding-top:px;--filter-btn-padding-bottom:px;--filter-btn-hover-bg-color:;--filter-btn-hover-border-color:;--filter-btn-hover-text-color:;      }
+      /* Category colors */
+       .born-og-familie{background-color:#3b1934!important; border-color:#3b1934!important;} .jazz{background-color:#af3623!important; border-color:#af3623!important;} .dans-klassisk-musik{background-color:#d9ab4c!important; border-color:#d9ab4c!important;} .det-verdensklasse{background-color:#a9a894!important; border-color:#a9a894!important;} .ener-plads-spar-50{background-color:#434141!important; border-color:#434141!important;} .foredrag{background-color:#a05b56!important; border-color:#a05b56!important;} .koncert{background-color:#ecba29!important; border-color:#ecba29!important;} .musical{background-color:#fd907c!important; border-color:#fd907c!important;} .rock-i-byparken-2026{background-color:#54af77!important; border-color:#54af77!important;} .show{background-color:#133a22!important; border-color:#133a22!important;} .stand-up{background-color:#c4926f!important; border-color:#c4926f!important;} .study-in-vejle{background-color:#ff7373!important; border-color:#ff7373!important;} .teater{background-color:#9c8e8e!important; border-color:#9c8e8e!important;} .top-100-dk{background-color:#f0a424!important; border-color:#f0a424!important;} .toppen-af-poppen-26{background-color:rgba(180, 143, 215, 0.66)!important; border-color:rgba(180, 143, 215, 0.66)!important;} .uncategorized{background-color:#868686!important; border-color:#868686!important;} .valentinsdag-favorit{background-color:#dd3333!important; border-color:#dd3333!important;}    </style>
+    <link rel="stylesheet" href="https://use.typekit.net/ylw1vcy.css">
+<!-- Google Tag Manager -->
+<script>!function(){"use strict";function l(e){for(var t=e,r=0,n=document.cookie.split(";");r<n.length;r++){var o=n[r].split("=");if(o[0].trim()===t)return o[1]}}function s(e){return localStorage.getItem(e)}function u(e){return window[e]}function A(e,t){e=document.querySelector(e);return t?null==e?void 0:e.getAttribute(t):null==e?void 0:e.textContent}var e=window,t=document,r="script",n="dataLayer",o="https://gst.vejlemusikteater.dk",a="",i="5ensxvlpq",c="b8kl=&page=1",g="stapeUserId",v="",E="",d=!1;try{var d=!!g&&(m=navigator.userAgent,!!(m=new RegExp("Version/([0-9._]+)(.*Mobile)?.*Safari.*").exec(m)))&&16.4<=parseFloat(m[1]),f="stapeUserId"===g,I=d&&!f?function(e,t,r){void 0===t&&(t="");var n={cookie:l,localStorage:s,jsVariable:u,cssSelector:A},t=Array.isArray(t)?t:[t];if(e&&n[e])for(var o=n[e],a=0,i=t;a<i.length;a++){var c=i[a],c=r?o(c,r):o(c);if(c)return c}else console.warn("invalid uid source",e)}(g,v,E):void 0;d=d&&(!!I||f)}catch(e){console.error(e)}var m=e,g=(m[n]=m[n]||[],m[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"}),t.getElementsByTagName(r)[0]),v=I?"&bi="+encodeURIComponent(I):"",E=t.createElement(r),f=(d&&(i=8<i.length?i.replace(/([a-z]{8}$)/,"kp$1"):"kp"+i),!d&&a?a:o);E.async=!0,E.src=f+"/"+i+".js?"+c+v,null!=(e=g.parentNode)&&e.insertBefore(E,g)}();</script>
+<!-- End Google Tag Manager -->
+<!-- Baggrundssplash -->
+
+          <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Vejle Musikteater - Vejle Musikteater</title>
+	<link rel="canonical" href="https://www.vejlemusikteater.dk/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Vejle Musikteater - Vejle Musikteater" />
+	<meta property="og:url" content="https://www.vejlemusikteater.dk/" />
+	<meta property="og:site_name" content="Vejle Musikteater" />
+	<meta property="article:publisher" content="https://www.facebook.com/VejleMusikteater.dk" />
+	<meta property="article:modified_time" content="2026-08-06T12:52:50+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/www.vejlemusikteater.dk\/","url":"https:\/\/www.vejlemusikteater.dk\/","name":"Vejle Musikteater - Vejle Musikteater","isPartOf":{"@id":"https:\/\/www.vejlemusikteater.dk\/#website"},"datePublished":"2020-05-13T13:45:55+00:00","dateModified":"2026-08-06T12:52:50+00:00","breadcrumb":{"@id":"https:\/\/www.vejlemusikteater.dk\/#breadcrumb"},"inLanguage":"da-DK","potentialAction":[{"@type":"ReadAction","target":["https:\/\/www.vejlemusikteater.dk\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/www.vejlemusikteater.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/www.vejlemusikteater.dk\/#website","url":"https:\/\/www.vejlemusikteater.dk\/","name":"Vejle Musikteater","description":"Stand-up, koncerter, skuespil, komedier, musicals, shows, ballet, dans og gratis arrangementer","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/www.vejlemusikteater.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//vejlemusikteater.billetten.dk' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.vejlemusikteater.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vejlemusikteater.dk%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.vejlemusikteater.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.vejlemusikteater.dk%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://www.vejlemusikteater.dk/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://www.vejlemusikteater.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://www.vejlemusikteater.dk/wp-includes/blocks/columns/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='pb-accordion-blocks-style-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/accordion-blocks/build/index.css?ver=1.5.0' media='all' />
+<link rel='stylesheet' id='categories-images-styles-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/categories-images/assets/css/zci-styles.css?ver=3.3.3' media='all' />
+<link rel='stylesheet' id='cpsh-shortcodes-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/column-shortcodes//assets/css/shortcodes.css?ver=1.0.1' media='all' />
+<link rel='stylesheet' id='wpmdia-custom-stylesheet-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/wp-media-manager-lite/css/frontend/custom-inline-style.css?ver=1.1.4' media='all' />
+<link rel='stylesheet' id='wpmdia-frontend-style-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/wp-media-manager-lite/css/frontend/frontend.css?ver=1.1.4' media='all' />
+<link rel='stylesheet' id='wpmdia-fontawesome-style-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/wp-media-manager-lite/css//font-awesome/font-awesome.min.css?ver=1.1.4' media='all' />
+<link rel='stylesheet' id='wpmmanagerLite-icomoon-style-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/wp-media-manager-lite/css/icomoon/icomoon.css?ver=1.1.4' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.14.5' media='all' />
+<style id="wpdreams-asl-basic-inline-css">
+
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+						font-size: 0px !important;
+						color: rgba(0, 0, 0, 0);
+					}
+					div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+						font-size: 11px !important;
+						position: absolute;
+						top: 0;
+						left: 0;
+						z-index: 1;
+					}
+					.asl_w_container {
+						width: 100%;
+						margin: 0px 0px 0px 0px;
+						min-width: 200px;
+					}
+					div[id*='ajaxsearchlite'].asl_m {
+						width: 100%;
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+						font-weight: bold;
+						color: rgba(217, 49, 43, 1);
+						background-color: rgba(238, 238, 238, 1);
+					}
+					div[id*='ajaxsearchliteres'].wpdreams_asl_results .results img.asl_image {
+						width: 120px;
+						height: 70px;
+						object-fit: cover;
+					}
+					div[id*='ajaxsearchlite'].asl_r .results {
+						max-height: none;
+					}
+					div[id*='ajaxsearchlite'].asl_r {
+						position: absolute;
+					}
+				
+						div.asl_r.asl_w.vertical .results .item::after {
+							display: block;
+							position: absolute;
+							bottom: 0;
+							content: '';
+							height: 1px;
+							width: 100%;
+							background: #D8D8D8;
+						}
+						div.asl_r.asl_w.vertical .results .item.asl_last_item::after {
+							display: none;
+						}
+					
+/*# sourceURL=wpdreams-asl-basic-inline-css */
+</style>
+<link rel='stylesheet' id='wpdreams-asl-instance-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/ajax-search-lite/css/style-underline.css?ver=4.14.5' media='all' />
+<link rel='stylesheet' id='ms-main-css' href='https://www.vejlemusikteater.dk/wp-content/plugins/masterslider/public/assets/css/masterslider.main.css?ver=3.6.5' media='all' />
+<link rel='stylesheet' id='ms-custom-css' href='https://www.vejlemusikteater.dk/wp-content/uploads/masterslider/custom.css?ver=48.1' media='all' />
+<link rel='stylesheet' id='xooom_parent_theme/main.css-css' href='https://www.vejlemusikteater.dk/wp-content/themes/wordpress_parent-template/dist/styles/main.css?id=95d70f7bf5e40e00d0fcb46998688035' media='all' />
+<link rel='stylesheet' id='xooom_child_theme/app.css-css' href='https://www.vejlemusikteater.dk/wp-content/themes/wordpress_vejlemusikteater_new/dist/styles/app.css?id=bde3d24b1894ebd8b5bd1092b30c92ca' media='all' />
+<link rel='stylesheet' id='bwps-basm-style-css' href='https://vejlemusikteater.billetten.dk/basm/css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://www.vejlemusikteater.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://www.vejlemusikteater.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="bwps-basm-script-js" src="https://vejlemusikteater.billetten.dk/basm/sbasm-script?ver=7.0.4"></script>
+<script id="bwps-basm-addon-script-js" src="https://www.vejlemusikteater.dk/wp-content/plugins/bwps/BWPS/../assets/js/basm/addon.js?ver=7.0.4"></script>
+<link rel="https://api.w.org/" href="https://www.vejlemusikteater.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.vejlemusikteater.dk/wp-json/wp/v2/pages/4774" /><link rel='shortlink' href='https://www.vejlemusikteater.dk/' />
+<script>var ms_grabbing_curosr='https://www.vejlemusikteater.dk/wp-content/plugins/masterslider/public/assets/css/common/grabbing.cur',ms_grab_curosr='https://www.vejlemusikteater.dk/wp-content/plugins/masterslider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.6.5 - Responsive Touch Image Slider" />
+				<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+				<link rel="preload" as="style" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" />
+								<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans&display=swap" media="all" />
+				<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="https://www.vejlemusikteater.dk/wp-content/uploads/2021/03/cropped-bogmaerke_ny-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.vejlemusikteater.dk/wp-content/uploads/2021/03/cropped-bogmaerke_ny-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.vejlemusikteater.dk/wp-content/uploads/2021/03/cropped-bogmaerke_ny-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.vejlemusikteater.dk/wp-content/uploads/2021/03/cropped-bogmaerke_ny-1-270x270.png" />
+  <style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+  <body class="home wp-singular page-template page-template-templates page-template-frontpage page-template-templatesfrontpage page page-id-4774 wp-embed-responsive wp-theme-wordpress_parent-template wp-child-theme-wordpress_vejlemusikteater_new _masterslider _msp_version_3.6.5" data-loader="wrapper">
+    <script>
+    var script = document.createElement("script");
+    script.src = "https://applai-assets.web.app/embed-widget.js";
+    script.dataset.chatbotId = "5654f1de-ec53-4bc0-8227-2fe4dbc54bb6";
+    script.dataset.provider = "vejle";
+    script.dataset.buttonWidth = "40px";
+    script.dataset.buttonHeight = "40px";
+    script.dataset.notificationWidth = "260px";
+    script.dataset.notificationBottomOffset = "100px";
+    script.dataset.notificationDelay = "2000";
+
+    document.body.appendChild(script);
+</script>        
+    <header id="navigation" class="banner fixed  top four">
+
+    <div class="container-md four" type="header" role="document">
+    <div class="row justify-content-between g-0" style="min-width: 100%; padding: 15px 0;">
+
+            <div class="col-sm-4 justify-content-start d-flex">
+                <a class="brand" href="https://www.vejlemusikteater.dk/">
+                        <img src="https://www.vejlemusikteater.dk/wp-content/themes/wordpress_vejlemusikteater_new/dist/images/vmt_primaert_hvid_rgb.png" class="one-logo"/>
+            </a>
+            </div>
+
+            <div class="col-sm-8 justify-content-end d-flex">
+
+                <nav class="nav-primary_four right">
+
+                    <ul class="nav_icon_menu">
+    <li>
+        <a class="" href="/program"><i class="icon-calendar" type="calendar"></i>    
+<span>kalender</span></a>
+    </li>
+    <li class="search_container">
+        <a class="search_trigger" href="#"><i class="icon-search"></i><span>Søg</span></a>
+    </li>
+    <li>
+        <a class="user_link basm basm_profile_btn" href="#"><i class="icon-user"></i><span>Kunde</span></a>
+    </li>
+    <li>
+        <a class="sponsor-on" href="/vejle-sponsor"><i class="icon-handshake-o" type="handshake-o"></i>    
+<span>Samarbejdspartner</span></a>
+        <a class="sponsor-off" href="/sponsor-login"><i class="icon-handshake-o" type="handshake-o"></i>    
+<span>Samarbejdspartner</span></a>
+    </li>
+    <li class="basket_link basm basm_basket_btn" href="#">
+        <i class="icon-basket-shopping-solid"></i>
+        <span class="basm basm_basket_indicator">
+            <span class="basm basm_basket_count">0</span>
+        </span>
+    </li>
+</ul>
+
+<div class="container searchBar_fp searchBar_header">
+    <form class="search-form form-inline" action="https://www.vejlemusikteater.dk/" method="get" role="search">
+        <label class="sr-only"></label>
+        <input id="main-search" class="searchInput" type="search" required="" placeholder="Søg blandt 158 oplevelser" name="s" value="" />
+        <button class="btn" type="submit">
+            <span class="icon-search" aria-hidden="true"></span>
+        </button>
+    </form>
+</div>
+
+                    <div class="nav-primary burger-cn">
+                        <div class="burger-four">
+                            <span></span>
+                        </div>
+                    </div>
+
+                    <div class="the_menu">
+                                                    <div class="nav_container"><ul id="menu-megamenu" class="nav_four"><li id="menu-item-774" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-774"><a href="/program">Program</a>
+<ul class="sub-menu">
+	<li id="menu-item-1102" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1102"><a href="/program">Alle arrangementer</a></li>
+	<li id="menu-item-7081" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7081"><a href="https://www.vejlemusikteater.dk/drikkevarer-snacks/">To-Go Drinks &amp; Snacks / NemPause</a></li>
+	<li id="menu-item-467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-467"><a href="https://www.vejlemusikteater.dk/nem-spisning/nem-spisning/">NemSpisning</a></li>
+	<li id="menu-item-469" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-469"><a href="https://www.vejlemusikteater.dk/gavekort/">Gavekort</a></li>
+	<li id="menu-item-1137" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1137"><a href="https://www.vejlemusikteater.dk/samarbejdspartner/samarbejdspartner/">Bliv samarbejdspartner/sponsor</a></li>
+	<li id="menu-item-9404" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9404"><a href="https://www.vejlemusikteater.dk/moeder-fest-konference/moder-erhverv/">Møder, fest, konference m.m.</a></li>
+	<li id="menu-item-1105" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1105"><a href="https://www.vejlemusikteater.dk/nyhedsbrev/">Tilmeld nyhedsbrev</a></li>
+	<li id="menu-item-1139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1139"><a href="https://www.vejlemusikteater.dk/btb-nyhedsbrev/">Tilmeld nyhedsbrev virksomheder/foreninger m.m.</a></li>
+	<li id="menu-item-10247" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10247"><a href="https://www.vejlemusikteater.dk/podcastbackstage/">Podcast: Backstage</a></li>
+	<li id="menu-item-22704" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22704"><a href="https://www.vejlemusikteater.dk/stream-2026-i-vejle-musikteater/">VMT Spotify playliste 2026</a></li>
+	<li id="menu-item-11807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11807"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-ener-plads-spar-50%2522%255D%257D&#038;hide-filter">Éner-plads &#8211; spar 50 %</a></li>
+	<li id="menu-item-23219" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23219"><a href="https://www.vejlemusikteater.dk/kulturpas-for-unge/">Kulturpas for unge</a></li>
+</ul>
+</li>
+<li id="menu-item-779" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-779"><a href="/program">Genrer</a>
+<ul class="sub-menu">
+	<li id="menu-item-11809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11809"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-koncert%2522%255D%257D">Koncert</a></li>
+	<li id="menu-item-11810" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11810"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-musical%2522%255D%257D">Musical</a></li>
+	<li id="menu-item-11811" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11811"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-stand-up%2522%255D%257D">Stand-up</a></li>
+	<li id="menu-item-11814" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11814"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-show%2522%255D%257D">Show</a></li>
+	<li id="menu-item-11812" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11812"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-born-og-familie%2522%255D%257D">Børn og familie</a></li>
+	<li id="menu-item-11813" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11813"><a href="https://www.vejlemusikteater.dk/program/?filter=%257B%2522category%2522%3A%255B%2522.category-dans%2522%2C%2522.category-dans-klassisk-musik%2522%255D%257D">Dans &#038; klassisk musik</a></li>
+	<li id="menu-item-11817" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11817"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-foredrag%2522%255D%257D">Foredrag</a></li>
+	<li id="menu-item-11819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11819"><a href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-teater%2522%255D%257D">Teater</a></li>
+</ul>
+</li>
+<li id="menu-item-1465" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1465"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/planlaeg-dit-besoeg/">Planlæg dit besøg</a>
+<ul class="sub-menu">
+	<li id="menu-item-4323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4323"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/handelsbetingelser/">Handelsbetingelser</a></li>
+	<li id="menu-item-365" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-365"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/salsoversigt/">Store Sal salsoversigt</a></li>
+	<li id="menu-item-998" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-998"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/billetkoebsvejledning/">Billetkøbsvejledning</a></li>
+	<li id="menu-item-763" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-763"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/parkering/">Parkering</a></li>
+	<li id="menu-item-997" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-997"><a href="https://www.vejlemusikteater.dk/planlaeg-besoeg/brug-ekstra-hjaelp/">Brug for ekstra hjælp</a></li>
+</ul>
+</li>
+<li id="menu-item-771" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-771"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/kontakt/">Kontakt &#038; om os</a>
+<ul class="sub-menu">
+	<li id="menu-item-426" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-426"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/kontakt/">Billetsalg, administration &amp; handletank</a></li>
+	<li id="menu-item-428" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-428"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/presse/">Presse</a></li>
+	<li id="menu-item-18419" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18419"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/voreshistorie/">Vores historie</a></li>
+	<li id="menu-item-15547" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15547"><a href="/info-og-kontakt/et-groennere-vejle-musikteater/">Et grønnere musikteater</a></li>
+	<li id="menu-item-6746" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6746"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/ledigestillinger/">Ledige stillinger</a></li>
+	<li id="menu-item-1321" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1321"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/laan-vejle-musikteater/">Lån af Vejle Musikteater</a></li>
+	<li id="menu-item-1462" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1462"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/venueinfo/">Venue  SPEC</a></li>
+	<li id="menu-item-1324" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1324"><a href="https://www.vejlemusikteater.dk/info-og-kontakt/databeskyttelsesrettigheder/">Databeskyttelsesrettigheder</a></li>
+</ul>
+</li>
+</ul></div>
+                                            </div>
+
+                </nav>
+
+            </div>
+
+        </div>
+</div></header>
+
+    <main class="main">
+            <div class="frontpage-hero-slider type--chosen">
+            <div
+            class="owl-carousel owl-loaded owl-drag simple-slider"
+            data-slider-nav=""
+            data-slider-dots=""
+            data-slider-loop="1"
+            data-slider-autoplay="1"
+            data-slider-autoplay-speed="4000"
+            data-slider-autoplay-timeout="4000"
+            data-slider-speed="4000"
+            data-slider-items="3"
+            data-slider-margin="7.5"
+            data-slider-transition="linear"
+            data-slider-responsive="1"
+            data-slider-hover-pause="0"
+        >
+                            
+                                            <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-partoutbillet/">
+                            <div class="slide-item slide-type--post">
+                                                                    <img width="1024" height="633" src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680-1024x633.jpg" class="image" alt="" decoding="async" fetchpriority="high" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680-1024x633.jpg 1024w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680-300x185.jpg 300w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680-768x475.jpg 768w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                <div class="slide-item__content">
+                                    <h3 class="title">Rock i Byparken 2026 &#8211; Partoutbillet</h3>
+                                </div>
+                            </div>
+                        </a>
+                                                
+                                            <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/">
+                            <div class="slide-item slide-type--post">
+                                                                    <img width="1024" height="633" src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680-1024x633.png" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680-1024x633.png 1024w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680-300x185.png 300w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680-768x475.png 768w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680.png 1100w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                <div class="slide-item__content">
+                                    <h3 class="title">Rock i Byparken  2026 &#8211; endagsbillet</h3>
+                                </div>
+                            </div>
+                        </a>
+                                                
+                                            <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/">
+                            <div class="slide-item slide-type--post">
+                                                                    <img width="1024" height="633" src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-1024x633.jpg" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-1024x633.jpg 1024w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-300x185.jpg 300w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-768x475.jpg 768w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-1536x949.jpg 1536w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-2048x1266.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                <div class="slide-item__content">
+                                    <h3 class="title">Rock i Byparken  2026 &#8211; endagsbillet</h3>
+                                </div>
+                            </div>
+                        </a>
+                                                
+                                            <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-3/">
+                            <div class="slide-item slide-type--post">
+                                                                    <img width="1024" height="633" src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-1024x633.jpg" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-1024x633.jpg 1024w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-300x185.jpg 300w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-768x475.jpg 768w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-1536x949.jpg 1536w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-2048x1266.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                <div class="slide-item__content">
+                                    <h3 class="title">Rock i Byparken  2026 &#8211; endagsbillet</h3>
+                                </div>
+                            </div>
+                        </a>
+                                                
+                                            <a href="https://www.vejlemusikteater.dk/program/stupid-man-the-musical/">
+                            <div class="slide-item slide-type--post">
+                                                                    <img width="1024" height="633" src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/Stupid-Man-1100x680-4-1024x633.jpg" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/Stupid-Man-1100x680-4-1024x633.jpg 1024w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/Stupid-Man-1100x680-4-300x185.jpg 300w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/Stupid-Man-1100x680-4-768x475.jpg 768w, https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/Stupid-Man-1100x680-4.jpg 1100w" sizes="(max-width: 1024px) 100vw, 1024px" />
+                                                                <div class="slide-item__content">
+                                    <h3 class="title">Stupid Man The Musical</h3>
+                                </div>
+                            </div>
+                        </a>
+                                                
+                                                                        
+                            <a href="https://www.vejlemusikteater.dk/nem-spisning/nem-spisning/" target="">
+                                <div class="slide-item slide-type--custom">
+                                    <img width="437" height="275" src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_1_final_forside_437_275-1.png" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_1_final_forside_437_275-1.png 437w, https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_1_final_forside_437_275-1-300x189.png 300w" sizes="(max-width: 437px) 100vw, 437px" />
+                                    <div class="slide-item__content">
+                                        <h3 class="title">Nem Spisning</h3>
+                                    </div>
+                                </div>
+                            </a>
+                                                                        
+                                                                        
+                            <a href="https://www.vejlemusikteater.dk/drikkevarer-snacks/to-go-drinks-snacks/" target="">
+                                <div class="slide-item slide-type--custom">
+                                    <img width="437" height="275" src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/To_Go_1_final_forside_437_275-2.png" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/To_Go_1_final_forside_437_275-2.png 437w, https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/To_Go_1_final_forside_437_275-2-300x189.png 300w" sizes="(max-width: 437px) 100vw, 437px" />
+                                    <div class="slide-item__content">
+                                        <h3 class="title">To-Go Drinks & Snacks</h3>
+                                    </div>
+                                </div>
+                            </a>
+                                                                        
+                                                                        
+                            <a href="https://www.vejlemusikteater.dk/nem-spisning/nem-spisning/" target="">
+                                <div class="slide-item slide-type--custom">
+                                    <img width="437" height="275" src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_3_final_forside_437_275-1.png" class="image" alt="" decoding="async" srcset="https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_3_final_forside_437_275-1.png 437w, https://www.vejlemusikteater.dk/wp-content/uploads/2026/05/Nem_Spisning_3_final_forside_437_275-1-300x189.png 300w" sizes="(max-width: 437px) 100vw, 437px" />
+                                    <div class="slide-item__content">
+                                        <h3 class="title">NemSpisning</h3>
+                                    </div>
+                                </div>
+                            </a>
+                                                                </div>
+    </div>        
+    <div class="search-front">
+        <form class="search-form form-inline" action="https://www.vejlemusikteater.dk/" method="get" role="search">
+            <label class="sr-only"></label>
+            <input class="searchInput" type="search" required="" placeholder="Søg blandt 158 oplevelser" name="s" value="" />
+            <button class="btn" type="submit">
+                <span class="icon-search" aria-hidden="true"></span>
+            </button>
+        </form>
+    </div>
+
+            <div class="d-flex py-4 justify-content-center flex-wrap cta-buttons-fp" style="gap:15px;">
+                                            
+                <a class="btn pri" href="https://www.vejlemusikteater.dk/drikkevarer-snacks/to-go-drinks-snacks/?utm_source=to_go_knap_forside&amp;utm_medium=to_go_knap_forside&amp;utm_campaign=to_go_knap_forside&amp;utm_content=to_go_knap_forside"> To-Go drinks &amp; snacks på dit sæde </a>
+                                            
+                <a class="btn pri" href="https://www.vejlemusikteater.dk/nem-spisning/nem-spisning/?utm_source=nem_spisning_knap_forside&amp;utm_medium=nem_spisning_knap_forside&amp;utm_campaign=nem_spisning_knap_forside&amp;utm_content=nem_spisning_knap_forside"> NemSpisning </a>
+                                            
+                <a class="btn pri" href="https://www.vejlemusikteater.dk/drikkevarer-snacks/nem-pause/?utm_source=nem_pause_knap-forside&amp;utm_medium=nem_pause_knap-forside&amp;utm_campaign=nem_pause_knap-forside&amp;utm_content=nem_pause_knap-forside"> NemPause  </a>
+                    </div>
+    
+    
+            <div class="row categories">
+            <div class="col-12">
+                <h4>Vælg genre(r) </h4>
+                <ul class="list-inline filter-group">
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-koncert%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Koncert"
+                            data-count="65"
+                            data-color="var(--koncert-color)" 
+                            style="background-color: var(--koncert-color); 
+                                border-color: var(--koncert-color);
+                                color: var(--koncert-color);">
+                                Koncert (65)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-stand-up%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Stand-up"
+                            data-count="20"
+                            data-color="var(--stand-up-color)" 
+                            style="background-color: var(--stand-up-color); 
+                                border-color: var(--stand-up-color);
+                                color: var(--stand-up-color);">
+                                Stand-up (20)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-show%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Show"
+                            data-count="58"
+                            data-color="var(--show-color)" 
+                            style="background-color: var(--show-color); 
+                                border-color: var(--show-color);
+                                color: var(--show-color);">
+                                Show (58)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-foredrag%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Foredrag"
+                            data-count="8"
+                            data-color="var(--foredrag-color)" 
+                            style="background-color: var(--foredrag-color); 
+                                border-color: var(--foredrag-color);
+                                color: var(--foredrag-color);">
+                                Foredrag (8)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-teater%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Teater"
+                            data-count="40"
+                            data-color="var(--teater-color)" 
+                            style="background-color: var(--teater-color); 
+                                border-color: var(--teater-color);
+                                color: var(--teater-color);">
+                                Teater (40)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-born-og-familie%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Børn og familie"
+                            data-count="16"
+                            data-color="var(--born-og-familie-color)" 
+                            style="background-color: var(--born-og-familie-color); 
+                                border-color: var(--born-og-familie-color);
+                                color: var(--born-og-familie-color);">
+                                Børn og familie (16)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-det-verdensklasse%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Det&#039; verdensklasse"
+                            data-count="4"
+                            data-color="var(--det-verdensklasse-color)" 
+                            style="background-color: var(--det-verdensklasse-color); 
+                                border-color: var(--det-verdensklasse-color);
+                                color: var(--det-verdensklasse-color);">
+                                Det&#039; verdensklasse (4)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-jazz%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Børnerabat"
+                            data-count="12"
+                            data-color="var(--jazz-color)" 
+                            style="background-color: var(--jazz-color); 
+                                border-color: var(--jazz-color);
+                                color: var(--jazz-color);">
+                                Børnerabat (12)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-uncategorized%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Ungerabat"
+                            data-count="50"
+                            data-color="var(--uncategorized-color)" 
+                            style="background-color: var(--uncategorized-color); 
+                                border-color: var(--uncategorized-color);
+                                color: var(--uncategorized-color);">
+                                Ungerabat (50)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-dans-klassisk-musik%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Dans og klassisk musik"
+                            data-count="10"
+                            data-color="var(--dans-klassisk-musik-color)" 
+                            style="background-color: var(--dans-klassisk-musik-color); 
+                                border-color: var(--dans-klassisk-musik-color);
+                                color: var(--dans-klassisk-musik-color);">
+                                Dans og klassisk musik (10)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-musical%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Musical"
+                            data-count="3"
+                            data-color="var(--musical-color)" 
+                            style="background-color: var(--musical-color); 
+                                border-color: var(--musical-color);
+                                color: var(--musical-color);">
+                                Musical (3)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-rock-i-byparken-2026%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Rock i Byparken 2026"
+                            data-count="5"
+                            data-color="var(--rock-i-byparken-2026-color)" 
+                            style="background-color: var(--rock-i-byparken-2026-color); 
+                                border-color: var(--rock-i-byparken-2026-color);
+                                color: var(--rock-i-byparken-2026-color);">
+                                Rock i Byparken 2026 (5)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-study-in-vejle%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Study-In Vejle"
+                            data-count="13"
+                            data-color="var(--study-in-vejle-color)" 
+                            style="background-color: var(--study-in-vejle-color); 
+                                border-color: var(--study-in-vejle-color);
+                                color: var(--study-in-vejle-color);">
+                                Study-In Vejle (13)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-top-100-dk%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Top100 DK"
+                            data-count="15"
+                            data-color="var(--top-100-dk-color)" 
+                            style="background-color: var(--top-100-dk-color); 
+                                border-color: var(--top-100-dk-color);
+                                color: var(--top-100-dk-color);">
+                                Top100 DK (15)
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a 
+                            href="/program/?filter=%257B%2522category%2522%3A%255B%2522.category-toppen-af-poppen-26%2522%255D%257D"
+                            class="btn cat"
+                            data-name="Toppen af poppen 26&#039;"
+                            data-count="4"
+                            data-color="var(--toppen-af-poppen-26-color)" 
+                            style="background-color: var(--toppen-af-poppen-26-color); 
+                                border-color: var(--toppen-af-poppen-26-color);
+                                color: var(--toppen-af-poppen-26-color);">
+                                Toppen af poppen 26&#039; (4)
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+        
+    <div>
+        <div class="page-box">
+            <div class="container-md" type="default" role="document">
+    <h3>Kommende arrangementer <a href="https://www.vejlemusikteater.dk/program/" class="archive-link">Se hele programmet</a></h3>
+                <div
+                    class="owl-carousel owl-loaded owl-drag simple-slider bwps-multiple event-tiles columns-3"
+                    data-slider-nav="1"
+                    data-slider-dots=""
+                    data-slider-loop="1"
+                    data-slider-responsive="1"
+                    data-slider-autoplay="1"
+                    data-slider-autoplay-timeout="5000"
+                    data-slider-items="3"
+                    data-slider-in="0"
+                    data-slider-out="0"
+                    data-slider-speed="1000"
+                >
+                     
+                                                <div class="event-tile three august2026 zero post-23102 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert location-vejle-musikteater-byparken" type="custom" title="Haven VIP Rock i Byparken 2026">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/haven-vip-rock-i-byparken-2026/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/03/1100_680_Haven_VIP_RIB_1.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/haven-vip-rock-i-byparken-2026/">
+                    <p class='show_name search_name'>Haven VIP Rock i Byparken 2026</p>
+                    <p class="show_date">
+                        14. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                            </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22230 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Få billetter tilbage!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        14. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141279">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22232 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-scaled.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        21. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141294">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-24249 bwps type-bwps status-publish has-post-thumbnail hentry category-born-og-familie category-show location-jelling-hoejene-graesarealet-ved-kongernes-jelling" type="custom" title="Sommerpicnic ved Højene">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/sommerpicnic-ved-hoejene/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/07/Sommerpicninc_1100x680.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--born-og-familie-color)">Børn og familie</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--show-color)">Show</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/sommerpicnic-ved-hoejene/">
+                    <p class='show_name search_name'>Sommerpicnic ved Højene</p>
+                    <p class="show_date">
+                        23. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                            </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22496 bwps type-bwps status-publish has-post-thumbnail hentry category-show category-study-in-vejle category-uncategorized tag-puljebillet location-vejle-musikteater-lille-sal-jacob-gade-salen" type="custom" title="Klamedia Life Show">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/klamedia-life-show/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/12/Klamedia_1100_680-Kopi.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--show-color)">Show</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/klamedia-life-show/">
+                    <p class='show_name search_name'>Klamedia Life Show</p>
+                    <p class="show_date">
+                        25. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="142529">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-21660 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-uncategorized tag-plusbillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken 2026 – Partoutbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-partoutbillet/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Få billetter tilbage!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-partoutbillet/">
+                    <p class='show_name search_name'>Rock i Byparken 2026 – Partoutbillet</p>
+                    <p class="show_date">
+                        28. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="139703">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22233 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-3/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-scaled.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-3/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        28. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141302">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-22630 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-show tag-puljebillet location-vejle-musikteater-lille-sal-jacob-gade-salen" type="custom" title="Nikolaj Steen">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/nikolaj-steen/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/01/Nikolaj_Steen_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--show-color)">Show</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/nikolaj-steen/">
+                    <p class='show_name search_name'>Nikolaj Steen</p>
+                    <p class="show_date">
+                        3. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="143427">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-24191 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-study-in-vejle location-vejle-musikteater-byparken" type="custom" title="Studiestartsfestival">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/studiestartsfestival/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/07/studiestart_v1.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/studiestartsfestival/">
+                    <p class='show_name search_name'>Studiestartsfestival</p>
+                    <p class="show_date">
+                        4. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="151064">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-22542 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-show category-study-in-vejle tag-puljebillet location-vejle-musikteater-lille-sal-jacob-gade-salen" type="custom" title="Aura Dione">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/aura-dione/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/12/AuraDione_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--show-color)">Show</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/aura-dione/">
+                    <p class='show_name search_name'>Aura Dione</p>
+                    <p class="show_date">
+                        10. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="142862">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-19786 bwps type-bwps status-publish has-post-thumbnail hentry category-stand-up location-vejle-musikteater-store-sal" type="custom" title="Nikolaj Stokholm feat. Stokkefar">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/nikolaj-stokholm-feat-stokkefar/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/03/Nikolaj_Stokholm_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--stand-up-color)">Stand-up</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">6 shows i salg</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/nikolaj-stokholm-feat-stokkefar/">
+                    <p class='show_name search_name'>Nikolaj Stokholm feat. Stokkefar</p>
+                    <p class="show_date">
+                        11. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="133129">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-23231 bwps type-bwps status-publish has-post-thumbnail hentry category-teater category-uncategorized location-vejle-musikteater-jacob-gade-salen" type="custom" title="BRYLD – EN VERDEN PÅ TVÆRS">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/bryld-en-verden-paa-tvaers/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/04/2_1100x680px.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--teater-color)">Teater</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/bryld-en-verden-paa-tvaers/">
+                    <p class='show_name search_name'>BRYLD – EN VERDEN PÅ TVÆRS</p>
+                    <p class="show_date">
+                        12. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="145632">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                                    </div>
+</div>        </div>
+                                                                <div class="page-box">
+            <div class="container-md" type="default" role="document">
+    <h3>Oplevelser i Byparken i 2026 <a href="https://www.vejlemusikteater.dk/program/" class="archive-link">Se hele programmet</a></h3>
+                <div
+                    class="owl-carousel owl-loaded owl-drag simple-slider bwps-multiple event-tiles columns-3"
+                    data-slider-nav="1"
+                    data-slider-dots=""
+                    data-slider-loop="1"
+                    data-slider-responsive="1"
+                    data-slider-autoplay="1"
+                    data-slider-autoplay-timeout="5000"
+                    data-slider-items="3"
+                    data-slider-in="0"
+                    data-slider-out="0"
+                    data-slider-speed="1000"
+                >
+                     
+                                                <div class="event-tile three august2026 zero post-22230 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Få billetter tilbage!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        14. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141279">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22232 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-scaled.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        21. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141294">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-21660 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-uncategorized tag-plusbillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken 2026 – Partoutbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-partoutbillet/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_Partout_alle_1100x680.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Få billetter tilbage!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-partoutbillet/">
+                    <p class='show_name search_name'>Rock i Byparken 2026 – Partoutbillet</p>
+                    <p class="show_date">
+                        28. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="139703">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22233 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-3/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/28-august_1100x680-scaled.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-3/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        28. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141302">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three september2026 zero post-24191 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-study-in-vejle location-vejle-musikteater-byparken" type="custom" title="Studiestartsfestival">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/studiestartsfestival/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2026/07/studiestart_v1.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/studiestartsfestival/">
+                    <p class='show_name search_name'>Studiestartsfestival</p>
+                    <p class="show_date">
+                        4. september 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="151064">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                                    </div>
+</div>        </div>
+                                                                                                    <div class="page-box">
+            <div class="container-md" type="default" role="document">
+    <h3>Udvalgte Top100 DK <a href="https://www.vejlemusikteater.dk/program/" class="archive-link">Se hele programmet</a></h3>
+                <div
+                    class="owl-carousel owl-loaded owl-drag simple-slider bwps-multiple event-tiles columns-3"
+                    data-slider-nav="1"
+                    data-slider-dots=""
+                    data-slider-loop="1"
+                    data-slider-responsive="1"
+                    data-slider-autoplay="1"
+                    data-slider-autoplay-timeout="5000"
+                    data-slider-items="3"
+                    data-slider-in="0"
+                    data-slider-out="0"
+                    data-slider-speed="1000"
+                >
+                     
+                                                <div class="event-tile three august2026 zero post-22230 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/RIB_14_faa_billetter_1100_680.png" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Få billetter tilbage!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        14. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141279">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22232 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/" class="event-tile-link">
+            <div class="entry-summary">        
+                <div class="bwps_thumbnail" style=" height:275px;" data-src="https://www.vejlemusikteater.dk/wp-content/uploads/2025/10/21-august_1100x680-scaled.jpg" lazyload></div>
+                            </div>
+        </a>
+                    <div class="tag-container">
+                                                            <div class="bwps-tag" style="background-color: var(--koncert-color)">Koncert</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--rock-i-byparken-2026-color)">Rock i Byparken 2026</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--study-in-vejle-color)">Study-In Vejle</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--top-100-dk-color)">Top100 DK</div>
+                                                                                <div class="bwps-tag" style="background-color: var(--uncategorized-color)">Ungerabat</div>
+                                                                        <div class="bwps-tag" style="background-color: #ecba29">Slutspurt - gæstefavorit!</div>
+                            </div>
+                <div class="meta entry-summary">
+            <div class="first">
+                <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-2026-endagsbillet-2/">
+                    <p class='show_name search_name'>Rock i Byparken  2026 – endagsbillet</p>
+                    <p class="show_date">
+                        21. august 2026                     </p>
+                </a> 
+            </div>
+
+            <div class="second">
+                <a href="#" class="btn ter basm basm_select" data-event_no="141294">
+                                    Køb billet
+                            </a>
+
+                        
+                </div>
+        </div>
+    </article>
+</div>
+                     
+                                                <div class="event-tile three august2026 zero post-22233 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert category-rock-i-byparken-2026 category-study-in-vejle category-top-100-dk category-uncategorized tag-puljebillet location-vejle-musikteater-byparken" type="custom" title="Rock i Byparken  2026 – endagsbillet">
+    <article>
+        <a href="https://www.vejlemusikteater.dk/program/rock-i-byparken-20
+<!-- TRIMMED BY recon.mjs -->

@@ -1,0 +1,1893 @@
+<!DOCTYPE html><html lang="da-DK">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta charset="UTF-8" />
+<title>Copenhagen Jazz Festival 2026</title>
+<meta property="description" content="10 days, 100+ venues, 1000+ concerts – in the heart of Copenhagen." />
+<meta property="keywords" content="copenhagen,copenhagen jazz,jazzfestival,live,jazz,copenhagen jazz festival,københavn,cphjazz,vinterjazz,vinter jazz,concerts,live music,live jazz,montmartre,jazzhouse,la fontaine,kenneth hansen,kontakt,summer jazz,jazz calendar" />
+<meta property="og:title" content="Festival | Copenhagen Jazz Festival" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="10 days, 100+ venues, 1000+ concerts &ndash; in the heart of Copenhagen." />
+<meta property="og:url" content="http://jazz.dk/copenhagen-jazz-festival-2026/forside/" />
+<meta property="og:image" content="" />
+<meta property="og:site_name" content="Copenhagen Jazz Festival" />
+<meta property="fb:app_id" content="553219744767683" />
+<meta name="apple-itunes-app" content="app-id=536735113">
+<link rel="icon" href="https://jazz.dk/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://jazz.dk/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" media="all" href="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/style.css?v=4"/>
+<link rel="pingback" href="https://jazz.dk/xmlrpc.php"/>
+<link rel="stylesheet" type="text/css" media="all" href="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/moonbird-responsive.css?v=14">
+<link href='https://fonts.googleapis.com/css?family=Titillium+Web:700|Roboto:400,400italic,700' rel='stylesheet' type='text/css'>
+<!-- Meta Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '674345887837016');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=674345887837016&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+<!--[if lt IE 9]><![endif]-->
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jazz.dk &raquo; Festival Comments Feed" href="https://jazz.dk/festival/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jazz.dk\/wp-includes\/js\/wp-emoji-release.min.js?ver=be30cb8858c6db962f93768cde16ee8e"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://jazz.dk/wp-includes/css/dist/block-library/style.min.css?ver=be30cb8858c6db962f93768cde16ee8e' type='text/css' media='all' />
+<link rel='stylesheet' id='mux-ticket-css'  href='https://jazz.dk/wp-content/plugins/1415EventTicket/css/ticket.css?ver=1.1' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox.css-css'  href='https://jazz.dk/wp-includes/js/thickbox/thickbox.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='moonbird-admin-css'  href='https://jazz.dk/wp-content/themes/jazz.dk-theme-only/admin/admin-styles.css?ver=1.0' type='text/css' media='all' />
+<script type='text/javascript' id='fb_js-js-extra'>
+/* <![CDATA[ */
+var WP_URLS = {"siteurl":"https:\/\/jazz.dk","logout_link":"https:\/\/jazz.dk\/wp-login.php?action=logout&_wpnonce=ee66c2ef02"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://jazz.dk/wp-content/themes/jazz.dk-theme-only/js/fb.js?ver=be30cb8858c6db962f93768cde16ee8e' id='fb_js-js'></script>
+<link rel="https://api.w.org/" href="https://jazz.dk/wp-json/" /><link rel="alternate" type="application/json" href="https://jazz.dk/wp-json/wp/v2/pages/2519" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jazz.dk/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jazz.dk/wp-includes/wlwmanifest.xml" /> 
+<link rel='shortlink' href='https://jazz.dk/?p=2519' />
+<link rel="alternate" type="application/json+oembed" href="https://jazz.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjazz.dk%2Ffestival%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jazz.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjazz.dk%2Ffestival%2F&#038;format=xml" />
+		<style type="text/css">
+			.comments-link {
+				display: none;
+			}
+					</style>
+		
+		<meta name="generator" content="WPML ver:3.1.7.2 stt:12,1;0" />
+<link rel="alternate" hreflang="da-DK" href="https://jazz.dk/festival/" />
+<link rel="alternate" hreflang="en-US" href="https://jazz.dk/en/festivalenglish/" />
+<link rel="icon" href="https://jazz.dk/wp-content/uploads/2021/04/cropped-CJF2016logo-1-neg-2-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://jazz.dk/wp-content/uploads/2021/04/cropped-CJF2016logo-1-neg-2-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://jazz.dk/wp-content/uploads/2021/04/cropped-CJF2016logo-1-neg-2-180x180.png" />
+<meta name="msapplication-TileImage" content="https://jazz.dk/wp-content/uploads/2021/04/cropped-CJF2016logo-1-neg-2-270x270.png" />
+</head>
+
+
+<body class="page-template page-template-frontpage page-template-frontpage-php page page-id-2519">
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8NX6XJXJ5F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8NX6XJXJ5F');
+</script>
+<div class="concert-list-loader-container">
+  <div class="jazz-icon-loader">
+<svg width="83px" height="85px" viewBox="-2 -2 83 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="CJF_logo" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M38.074,19.979 C26.822,20.777 17.901,30.179 17.901,41.635 C17.901,53.614 27.644,63.356 39.62,63.356 C51.024,63.356 60.399,54.509 61.224,43.332 C61.231,43.235 61.353,0.584 61.353,0.584" id="Shape" stroke="#ffffff" stroke-width="4"></path>
+        <path d="M38.074,11.251 C22.017,12.061 9.2,25.377 9.2,41.635 C9.2,58.409 22.846,72.058 39.619,72.058 C56.397,72.058 70.047,58.41 70.042,41.495 L70.039,41.495 L70.039,0.584" id="Shape" stroke="#ffffff" stroke-width="4"></path>
+        <path d="M43.981,0.584 L43.981,41.636 C43.981,44.039 42.026,45.998 39.619,45.998 C37.221,45.998 35.263,44.039 35.263,41.636 C35.263,39.793 36.447,38.231 38.074,37.658" id="Shape" stroke="#ffffff" stroke-width="4"></path>
+        <path d="M38.074,28.717 C31.626,29.485 26.605,34.982 26.605,41.635 C26.605,48.814 32.444,54.654 39.62,54.654 C46.804,54.654 52.643,48.814 52.643,41.635 C52.643,41.587 52.666,0.583 52.666,0.583" id="Shape" stroke="#ffffff" stroke-width="4"></path>
+        <path d="M38.074,2.59 C17.24,3.404 0.536,20.604 0.536,41.636 C0.536,63.19 18.07,80.723 39.619,80.723 C61.177,80.723 78.713,63.19 78.713,41.636 C78.713,41.589 78.722,0.584 78.722,0.584" id="Shape" stroke="#ffffff" stroke-width="4"></path>
+    </g>
+</svg>
+</div></div>
+<header class="l-section l-section--header large">
+  
+  
+  <div id="search-container" class="search-container">
+    <div class="l-container">
+      <form class="search-form" action="https://jazz.dk/copenhagen-jazz-festival-2026/soegning" method="get">
+        <i class="icon icon--search icon--big"></i>
+        <input id="search-input" class="search-input" type="text" placeholder="Søg..." name="keyword" />
+        <button type="submit" class="search-button">Søg</button>
+      </form>
+    </div>
+  </div>
+  <nav class="navigation navigation--secondary">
+    <div class="l-container">
+      <div class="left">
+                                 
+          <a class="item item--blue" href="https://jazz.dk/copenhagen-jazz-festival-2026/forside/">Copenhagen Jazz Festival</a>
+                         
+          <a class="item " href="https://jazz.dk/vinterjazz-2026/forside/">Vinterjazz</a>
+                      </div>
+      <div class="right">
+
+        <a class="item" href="https://jazz.dk/en/copenhagen-jazz-festival-2026/frontpage/">English <i class="icon icon--big icon--globe"></i></a>        <a href="http://www.jazz.dk/shop" class="item">Shop <i class="icon icon--shop icon--big"></i></a>
+        <a href="#" id="search-toggle" class="item item--search">
+          <i class="icon icon--search icon--big"></i>
+          <i class="icon icon--cross-black icon--big"></i>
+        </a>
+      </div>
+    </div>
+  </nav>
+  
+  
+  <div class="header-image-container">
+    <a href="https://jazz.dk/copenhagen-jazz-festival-2026/forside/">
+      <img class="header-image" src="https://jazz.dk/wp-content/uploads/2026/06/jazzdk.png">
+    </a>
+  </div>
+  <nav class="navigation navigation--primary">
+    <div class="l-container">
+    
+      <ul>
+        <li id="nav-menu-item-17040" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/program/" class="menu-link main-menu-link">Program</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17042" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/" class="menu-link sub-menu-link">Koncertoversigt</a></li>
+	<li id="nav-menu-item-17043" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/" class="menu-link sub-menu-link">Temaer</a></li>
+	<li id="nav-menu-item-18382" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/app/" class="menu-link sub-menu-link">App</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17041" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/" class="menu-link main-menu-link">Locations</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17044" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/" class="menu-link sub-menu-link">Venues &#038; arrangører</a></li>
+	<li id="nav-menu-item-20315" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/app/" class="menu-link sub-menu-link">App</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17047" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-festivalerne/" class="menu-link main-menu-link">Info</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17050" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/presse/" class="menu-link sub-menu-link">Presse/Baggrund</a></li>
+	<li id="nav-menu-item-17049" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/samarbejdspartnere/" class="menu-link sub-menu-link">Bidragsydere</a></li>
+	<li id="nav-menu-item-20325" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-copenhagen-jazz-festival/" class="menu-link sub-menu-link">Om Copenhagen Jazz Festival</a></li>
+	<li id="nav-menu-item-20326" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-vinterjazz/" class="menu-link sub-menu-link">Om Vinterjazz</a></li>
+	<li id="nav-menu-item-17051" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/kontakt-os/" class="menu-link sub-menu-link">Kontakt</a></li>
+	<li id="nav-menu-item-20341" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/persondatapolitik/" class="menu-link sub-menu-link">Persondatapolitik</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17046" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/" class="menu-link main-menu-link">Organisation</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-14587" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-fonden/" class="menu-link sub-menu-link">Om fonden</a></li>
+	<li id="nav-menu-item-14559" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/bestyrelse/" class="menu-link sub-menu-link">Om bestyrelsen</a></li>
+</ul>
+</li>
+      </ul>
+    </div>
+  </nav>
+  <nav class="navigation navigation--mobile-bar" style="background-image: url('https://jazz.dk/wp-content/uploads/2026/06/jazzdk.png');">
+	<a href="/" class="home-button"><span class="home-button-label">Copenhagen Jazz Festival</span></a>
+	<button id="menu-button" class="menu-button">
+		<div class="mobile-menu-icon">
+			<div class="mobile-menu-icon-bar one"></div>
+			<div class="mobile-menu-icon-bar two"></div>
+			<div class="mobile-menu-icon-bar three"></div>
+		</div>
+	</button>
+</nav>
+
+<nav id="side-menu" class="navigation navigation--mobile-side">
+	<a class="mobile-language-button" href="https://jazz.dk/en/copenhagen-jazz-festival-2026/frontpage/">English <i class="icon icon--big icon--globe-black"></i></a>	<div id="mobile-search-bar-toggle" class="mobile-search-bar-toggle">Søg <i class="icon icon--big icon--search-black"></i></div>
+	<div id="mobile-search-bar" class="search-bar">
+		<form class="search-form" action="https://jazz.dk/copenhagen-jazz-festival-2026/soegning" method="get">
+			<i class="icon icon--search-grey"></i>
+            			<input id="mobile-search-input" class="search-input" type="text" placeholder="Søg..." name="keyword" />
+		</form>
+	</div>
+	<div id="mobile-festival-selector" class="mobile-festival-selector">
+		<div id="mobile-festival-selector-toggle" class="mobile-festival-selector-toggle">Vælg festival</div>
+		<div id="mobile-festival-selector-festivals" class="mobile-festival-selector-festivals">
+														 
+				<a class="item item--blue" href="https://jazz.dk/copenhagen-jazz-festival-2026/forside">Copenhagen Jazz Festival</a>
+											 
+				<a class="item " href="https://jazz.dk/vinterjazz-2026/forside">Vinterjazz</a>
+								</div>
+	</div>
+	<ul class="">
+		<li id="nav-menu-item-17040" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/program/" class="menu-link main-menu-link">Program</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17042" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/" class="menu-link sub-menu-link">Koncertoversigt</a></li>
+	<li id="nav-menu-item-17043" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/" class="menu-link sub-menu-link">Temaer</a></li>
+	<li id="nav-menu-item-18382" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/app/" class="menu-link sub-menu-link">App</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17041" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/" class="menu-link main-menu-link">Locations</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17044" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/" class="menu-link sub-menu-link">Venues &#038; arrangører</a></li>
+	<li id="nav-menu-item-20315" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/app/" class="menu-link sub-menu-link">App</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17047" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-festivalerne/" class="menu-link main-menu-link">Info</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-17050" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/presse/" class="menu-link sub-menu-link">Presse/Baggrund</a></li>
+	<li id="nav-menu-item-17049" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/samarbejdspartnere/" class="menu-link sub-menu-link">Bidragsydere</a></li>
+	<li id="nav-menu-item-20325" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-copenhagen-jazz-festival/" class="menu-link sub-menu-link">Om Copenhagen Jazz Festival</a></li>
+	<li id="nav-menu-item-20326" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-vinterjazz/" class="menu-link sub-menu-link">Om Vinterjazz</a></li>
+	<li id="nav-menu-item-17051" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/kontakt-os/" class="menu-link sub-menu-link">Kontakt</a></li>
+	<li id="nav-menu-item-20341" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/persondatapolitik/" class="menu-link sub-menu-link">Persondatapolitik</a></li>
+</ul>
+</li>
+<li id="nav-menu-item-17046" class="main-menu-item  menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/" class="menu-link main-menu-link">Organisation</a>
+<ul class="sub-menu">
+	<li id="nav-menu-item-14587" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om-fonden/" class="menu-link sub-menu-link">Om fonden</a></li>
+	<li id="nav-menu-item-14559" class="sub-menu-item  menu-item-odd menu-item-depth-1 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/bestyrelse/" class="menu-link sub-menu-link">Om bestyrelsen</a></li>
+</ul>
+</li>
+	</ul>
+	<a class="item item--newsletter" target="_blank" href="http://eepurl.com/umPn1"><i class="icon icon--big icon--newsletter"></i> Nyhedsbrev</a>
+	<a class="item item--shop" target="_blank" href="http://cphjazz.bigcartel.com"><i class="icon icon--big icon--shop"></i> Shop <i class="icon icon--big icon--external u-pull-right"></i></a>
+</nav></header>
+<div id="body-content" class="body-content">
+  <img class="mobile-header-image" src="https://jazz.dk/wp-content/uploads/2026/06/jazzdk.png" alt="">
+
+<section class="l-section l-section--frontpage">
+	<div class="l-container">
+		<div class="l-row">
+			<div class="l-column l-md16">
+				<div class="slider-frontpage-container">
+	        		<div id="spinner" class="spinner">
+  <div class="spinner-container container1">
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+    <div class="circle3"></div>
+    <div class="circle4"></div>
+  </div>
+  <div class="spinner-container container2">
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+    <div class="circle3"></div>
+    <div class="circle4"></div>
+  </div>
+  <div class="spinner-container container3">
+    <div class="circle1"></div>
+    <div class="circle2"></div>
+    <div class="circle3"></div>
+    <div class="circle4"></div>
+  </div>
+</div>
+					<div id="slider-frontpage" class="slider-frontpage" style="opacity: 0;">
+														<article class="slide pre-active active"><a href="https://www.facebook.com/media/set/?set=a.1657719355737682&type=3" title="Se de bedste øjeblikke fra Copenhagen Jazz Festival 2026"><h5 class="slide__title">Se de bedste øjeblikke fra Copenhagen Jazz Festival 2026</h5><img class="slide__image" src="https://jazz.dk/wp-content/uploads/2026/07/740712707_1657704865739131_8301040240214253318_n-2-1466x942.jpg" alt="Se de bedste øjeblikke fra Copenhagen Jazz Festival 2026" /></a></article>
+																<article class="slide "><a href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder/det-skrev-pressen-om-copenhagen-jazz-festival-2026/" title="“Jazzen er et velgørende vaccinestik mod menneskelig ensretning”: Det skrev pressen om Copenhagen Jazz Festival 2026"><h5 class="slide__title">“Jazzen er et velgørende vaccinestik mod menneskelig ensretning”: Det skrev pressen om Copenhagen Jazz Festival 2026</h5><img class="slide__image" src="https://jazz.dk/wp-content/uploads/2026/07/26.07-GONDOLF_CJF26_Fatoumata-Diawara_DR-koncertsal-5-1-1466x942.jpg" alt="“Jazzen er et velgørende vaccinestik mod menneskelig ensretning”: Det skrev pressen om Copenhagen Jazz Festival 2026" /></a></article>
+														<nav class="slide__nav">
+							<a class='slide__nav__link active' data-slidenumber="0" href="#"></a><a class='slide__nav__link ' data-slidenumber="1" href="#"></a>						</nav>
+					</div>
+				</div>
+			</div>
+			<div class="l-column l-md8">
+				<h3 class="h"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder" title="Jazz nyheder">Nyheder</a></h3>
+				<hr class="blackline">
+				<ul class="c-link-list">
+											<li class="c-link-list__item"><a class="c-link-list__link" href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder/det-skrev-pressen-om-copenhagen-jazz-festival-2026">&#8220;Jazzen er et velgørende vaccinestik mod menneskelig ensretning&#8221;: Det skrev pressen om Copenhagen Jazz Festival 2026</a></li>
+											<li class="c-link-list__item"><a class="c-link-list__link" href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder/copenhagen-jazz-festival-2026-siger-tak-for-i-aar">Copenhagen Jazz Festival 2026 siger tak for i år</a></li>
+											<li class="c-link-list__item"><a class="c-link-list__link" href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder/gilberto-gils-arvtagere-og-dragende-cellist-indtager-dr-koncerthuset-se-hoejdepunkterne-fra-finaleweekenden-paa-aarets-festival">Gilberto Gils arvtagere og dragende cellist indtager DR Koncerthuset: Se højdepunkterne fra finaleweekenden på årets festival</a></li>
+											<li class="c-link-list__item"><a class="c-link-list__link" href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder/verdensfaenomen-fra-mali-og-feteret-la-producer-se-hoejdepunkterne-fra-fredag-paa-copenhagen-jazz-festival-2026">Verdensfænomen fra Mali og feteret LA-producer: Se højdepunkterne fra fredag på Copenhagen Jazz Festival 2026</a></li>
+									</ul>
+				<a href="https://jazz.dk/copenhagen-jazz-festival-2026/nyheder" class="button" title="Se alle nyheder">Se alle nyheder</a>
+			</div>
+		</div>
+	</div>
+</section><section class="l-section l-section--black l-section--promo">
+  <div class="l-container">
+    <div class="l-row">
+                    <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6066/" title="3/7: Thilo Forever">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/thilo_square2-1.png" alt="3/7: Thilo Forever" />
+            <h4 class="promo-box__title">3/7: Thilo Forever</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4900/" title="3/7: Camille Bertault Quintet (FR)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/0032030252_25-440x400.jpg" alt="3/7: Camille Bertault Quintet (FR)" />
+            <h4 class="promo-box__title">3/7: Camille Bertault Quintet (FR)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5108/" title="4/7: DR Big Band, Ivan Lins & New York Voices (INT)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/ab071f044961329551f08330d6846ab2-440x400.jpg" alt="4/7: DR Big Band, Ivan Lins & New York Voices (INT)" />
+            <h4 class="promo-box__title">4/7: DR Big Band, Ivan Lins & New York Voices (INT)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4831/" title="5/7: Mari Froes (BRA)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/48f0ef859a070925e7852bd9e6c10441-thumb-1200-440x400.jpeg" alt="5/7: Mari Froes (BRA)" />
+            <h4 class="promo-box__title">5/7: Mari Froes (BRA)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6106/" title="5/7: Magiske Mazurs Mystiske Musik - en hyldest til Marilyn">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/mazur_bred-kopi-440x400.jpg" alt="5/7: Magiske Mazurs Mystiske Musik - en hyldest til Marilyn" />
+            <h4 class="promo-box__title">5/7: Magiske Mazurs Mystiske Musik - en hyldest til Marilyn</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5008/" title="6/7: Bill Frisell Trio ft. Greg Tardy (US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/Screenshot_2023-08-08_at_1.18.58_PM-440x400.png" alt="6/7: Bill Frisell Trio ft. Greg Tardy (US)" />
+            <h4 class="promo-box__title">6/7: Bill Frisell Trio ft. Greg Tardy (US)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6049/" title="6/7: Jason Moran (US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/1JM_Bolade_Banjo-2-440x400.jpg" alt="6/7: Jason Moran (US)" />
+            <h4 class="promo-box__title">6/7: Jason Moran (US)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5115/" title="7/7: anaiis (FR)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/anaiis-1-scaled-1-440x400.jpg" alt="7/7: anaiis (FR)" />
+            <h4 class="promo-box__title">7/7: anaiis (FR)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5165/" title="7/7: The Bad Plus (US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/bdd318f55a029d6dea86f0d9a20b5d99-440x400.jpg" alt="7/7: The Bad Plus (US)" />
+            <h4 class="promo-box__title">7/7: The Bad Plus (US)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5306/" title="7/7: Maria Faust Sacrum Facere ">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/ae4ae665e754a48aa3db1d38dc6ee073-440x400.jpg" alt="7/7: Maria Faust Sacrum Facere " />
+            <h4 class="promo-box__title">7/7: Maria Faust Sacrum Facere </h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5305/" title="8/7: Cécile McLorin Salvant (US) + Brandee Younger (US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/687874128_1598245881685030_5184370653624764557_n-440x400.jpg" alt="8/7: Cécile McLorin Salvant (US) + Brandee Younger (US)" />
+            <h4 class="promo-box__title">8/7: Cécile McLorin Salvant (US) + Brandee Younger (US)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5998/" title="8/7: ØKSE (DK/SE/HT/US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/985c55ae53045600b9db23f286e6099f92ac83536884d708c9cb1b55fbea20a8-440x400.jpeg" alt="8/7: ØKSE (DK/SE/HT/US)" />
+            <h4 class="promo-box__title">8/7: ØKSE (DK/SE/HT/US)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4975/" title="9/7: Sarathy Korwar (UK/IN)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/sarathy-korwar-about-drumming-033-440x400.jpg" alt="9/7: Sarathy Korwar (UK/IN)" />
+            <h4 class="promo-box__title">9/7: Sarathy Korwar (UK/IN)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4898/" title="10/7: Fatoumata Diawara (ML)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/fatoumata-diawara-2025-1920x1080-1-440x400.jpg" alt="10/7: Fatoumata Diawara (ML)" />
+            <h4 class="promo-box__title">10/7: Fatoumata Diawara (ML)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4895/" title="11/7: Gilsons (BRA)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/Background-440x400.png" alt="11/7: Gilsons (BRA)" />
+            <h4 class="promo-box__title">11/7: Gilsons (BRA)</h4>
+          </a>
+        </div>
+                      <div class="l-column l-md6 l-sm12 l-xs12">
+          <a class="promo-box" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6174/" title="12/7: CJF 2026 Final Party – Eliel Lazo feat. Myra Washington (CU/US)">
+            <img class="promo-box__image" src="/wp-content/uploads/2026/07/8484f9e3563b571ab69645a3bdca46d7-440x400.jpg" alt="12/7: CJF 2026 Final Party – Eliel Lazo feat. Myra Washington (CU/US)" />
+            <h4 class="promo-box__title">12/7: CJF 2026 Final Party – Eliel Lazo feat. Myra Washington (CU/US)</h4>
+          </a>
+        </div>
+              
+    </div>
+  </div>
+</section><section class="l-section l-section--grey">
+	<div class="l-container">
+		<div class="concert-list">
+					<div class="bar u-center-text">
+				<h2 class="bar__title"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter">Udvalgte koncerter i Copenhagen Jazz Festival</a></h2>
+			</div>
+			<ul>
+        <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6105/" title="Official Opening of Copenhagen Jazz Festival 2026: Purpur">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/2ba58a416ccf4b8d5feebd39c544dbde-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Official Opening of Copenhagen Jazz Festival 2026: Purpur">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 15:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 15:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6105/" title="Official Opening of Copenhagen Jazz Festival 2026: Purpur">Official Opening of Copenhagen Jazz Festival 2026: Purpur</a>
+        </h2>    
+        <div class="concert__organizer">
+                            <a class="concert__club" href="https://jazz.dk/copenhagen-jazz-festival-2026/arrangoerer" title=""></a> 
+                                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/51/" title="Klangbar v/ DR Koncerthuset">Klangbar v/ DR Koncerthuset, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5987/" title="100 Stemmer">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/b9ce7af348f97018b360f319f31b3430-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="100 Stemmer">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 17:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 17:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5987/" title="100 Stemmer">100 Stemmer</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/5944/" title="DR Koncerthuset, Studie 2">DR Koncerthuset, Studie 2, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5014/" title="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/8528ba6cc67918eada67717c5cfbf246-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 17:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 17:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5014/" title="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/72/" title="HUSET">HUSET, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                                                    <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/krydsklange-iii" class="concert__theme" style="background:#2b3e4c">Krydsklange III</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billet.to/1899134-jazzdk" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6098/" title="Jeppe Gram presents: "Skyggekaster – Shadows of Börje Fredriksson" ft. Joakim Milder (DK/SE) – AFLYST PGA BLÆSEVEJR">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/de1eb58de2d931bff11f9d08a1196287-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Jeppe Gram presents: "Skyggekaster – Shadows of Börje Fredriksson" ft. Joakim Milder (DK/SE) – AFLYST PGA BLÆSEVEJR">
+    </a>
+    
+    <div class="concert__date" style="background:#30a9ab">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 18:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#30a9ab">
+            <time>Fredag <span>3/7</span> kl. 18:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6098/" title="Jeppe Gram presents: "Skyggekaster – Shadows of Börje Fredriksson" ft. Joakim Milder (DK/SE) – AFLYST PGA BLÆSEVEJR">Jeppe Gram presents: "Skyggekaster – Shadows of Börje Fredriksson" ft. Joakim Milder (DK/SE) – AFLYST PGA BLÆSEVEJR</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/7368/" title="Kulturhuset Islands Brygge">Kulturhuset Islands Brygge, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/nordic-jazz-tributes-by-the-sea" class="concert__theme" style="background:#30a9ab">Nordic Jazz Tributes by the Sea</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5781/" title="Margaux Oswald Quartet">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/784dc5031b54349e40188ed5e709acf9-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Margaux Oswald Quartet">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 18:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 18:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5781/" title="Margaux Oswald Quartet">Margaux Oswald Quartet</a>
+        </h2>    
+        <div class="concert__organizer">
+                            <a class="concert__club" href="https://jazz.dk/copenhagen-jazz-festival-2026/arrangoerer/8834/" title="ILK Music">ILK Music</a> 
+                                    /
+                                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/7379/" title="5e">5e, København V</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--door-fee">Dørsalg</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5167/" title="Jazz i Museumshaven: Cort Lunde + Johanne Linnea Jacobsen">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/43db581b75f3705fbf0c7f88c0a9ea86-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Jazz i Museumshaven: Cort Lunde + Johanne Linnea Jacobsen">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5167/" title="Jazz i Museumshaven: Cort Lunde + Johanne Linnea Jacobsen">Jazz i Museumshaven: Cort Lunde + Johanne Linnea Jacobsen</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/11846/" title="Designmuseum Danmark">Designmuseum Danmark, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://shop.designmuseum.dk/vare/jazz-i-museumshaven/" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5190/" title="Hilal Kaya">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/7e6c778a37099d51d95c22bdb214cc1b-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Hilal Kaya">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5190/" title="Hilal Kaya">Hilal Kaya</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/9251/" title="KLEIN – Karens Minde Kulturhus">KLEIN – Karens Minde Kulturhus, København SV</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/e/hilal-kaya-billetter-1907459" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4936/" title="Copenhagen Jazz Orchestra feat. Ashwani Shankar (IN) & Zuheb Ahmed Khan (IN) "Indian Skies"">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/c5e307a3fb3b8c4fa88ed00976eba602-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Copenhagen Jazz Orchestra feat. Ashwani Shankar (IN) & Zuheb Ahmed Khan (IN) "Indian Skies"">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 19:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 19:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4936/" title="Copenhagen Jazz Orchestra feat. Ashwani Shankar (IN) & Zuheb Ahmed Khan (IN) "Indian Skies"">Copenhagen Jazz Orchestra feat. Ashwani Shankar (IN) & Zuheb Ahmed Khan (IN) "Indian Skies"</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/3988/" title="Den Sorte Diamant">Den Sorte Diamant, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.kb.dk/arrangementer/copenhagen-jazz-orchestra-feat-ashwani-shankar-zuheb-ahmed-khan-indian-skies" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4900/" title="Camille Bertault Quintet (FR) - UDSOLGT">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/86c560c2d6727bd419a25da9a8ba4a2e-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Camille Bertault Quintet (FR) - UDSOLGT">
+    </a>
+    
+    <div class="concert__date" style="background:#00b0eb">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#00b0eb">
+            <time>Fredag <span>3/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4900/" title="Camille Bertault Quintet (FR) - UDSOLGT">Camille Bertault Quintet (FR) - UDSOLGT</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/4026/" title="Jazzhus Montmartre">Jazzhus Montmartre, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/internationale-highlights" class="concert__theme" style="background:#00b0eb">Internationale Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://jazzhusmontmartre.billetten.dk/index/eventdetails/eventno/145004" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6066/" title="Thilo Forever">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/5308fc6229e45edf6f70b38997100d62-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Thilo Forever">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6066/" title="Thilo Forever">Thilo Forever</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/9336/" title="DR Koncerthuset, Koncertsalen">DR Koncerthuset, Koncertsalen, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34212/106677/" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4829/" title="Mezzoforte (IS) – UDSOLGT">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/b6cf1949d4ee810df34950cbd16b0507-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Mezzoforte (IS) – UDSOLGT">
+    </a>
+    
+    <div class="concert__date" style="background:#00b0eb">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#00b0eb">
+            <time>Fredag <span>3/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4829/" title="Mezzoforte (IS) – UDSOLGT">Mezzoforte (IS) – UDSOLGT</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/10203/" title="Bremen Teater">Bremen Teater, København</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/internationale-highlights" class="concert__theme" style="background:#00b0eb">Internationale Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.billetlugen.dk/artist/mezzoforte/" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5879/" title="J.Tex & The Volunteers">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/6645e164ecd46e115bec8d455287b0c6-thumb-1200.jpeg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="J.Tex & The Volunteers">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5879/" title="J.Tex & The Volunteers">J.Tex & The Volunteers</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/3971/" title="Bartof Cafe">Bartof Cafe, Frederiksberg</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/e/j-tex-the-volunteers-vokal-americana-roots-billetter-1922943?bref=eyJzIjoib3JnYW5pc2VyIiwibSI6InNoYXJlIiwiYyI6Im1hbmFnZV92aXNpdCIsImNvIjoiMSIsInQiOjE3Nzg2NzM2NTV9" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5015/" title="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/5a630f8c6fcbbab36339700ac266387d-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 21:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Fredag <span>3/7</span> kl. 21:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5015/" title="Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER">Girls in Airports x Halvcirkel | Xenon | FÅ BILLETTER</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/72/" title="HUSET">HUSET, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                                                    <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/krydsklange-iii" class="concert__theme" style="background:#2b3e4c">Krydsklange III</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billet.to/1899134-jazzdk" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5301/" title="Gustaf Ljunggren & Skúli Sverrisson (SE/IS)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/cfb4eba92caeb916ab7a2bd3bb0d5186-thumb-1200.jpeg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Gustaf Ljunggren & Skúli Sverrisson (SE/IS)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 21:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 21:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5301/" title="Gustaf Ljunggren & Skúli Sverrisson (SE/IS)">Gustaf Ljunggren & Skúli Sverrisson (SE/IS)</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/10258/" title="Brorsons Kirke">Brorsons Kirke, København N</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/e/gustaf-ljunggren-skuli-sverrisson-se-is-billetter-1911201?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=2" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6110/" title="Tazelaar / Besiakov / Franck / Nilsson (INT)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/26b4627cad7da3df8e5137954b1626fb-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Tazelaar / Besiakov / Franck / Nilsson (INT)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 21:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 21:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6110/" title="Tazelaar / Besiakov / Franck / Nilsson (INT)">Tazelaar / Besiakov / Franck / Nilsson (INT)</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/3976/" title="Blågårds Apotek">Blågårds Apotek, København N</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--door-fee">Dørsalg</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4907/" title="Horse Orchestra">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/d2d9078af67acaf7d6ce0e5e0324dec4-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Horse Orchestra">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Fredag            </span>
+            <span class="date">
+                3/7            </span>
+            <span class="time">
+                kl. 23:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Fredag <span>3/7</span> kl. 23:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4907/" title="Horse Orchestra">Horse Orchestra</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/5873/" title="Christiania Jazz Club">Christiania Jazz Club, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--door-fee">Dørsalg</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5143/" title="Street Parade med Dusty Rag Jazz Band fra Husum til Brønshøj  - 100-års fødselsdagfejring for jazzen i Danmark">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/49803138d6ea7ec851eeb37828787010-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Street Parade med Dusty Rag Jazz Band fra Husum til Brønshøj  - 100-års fødselsdagfejring for jazzen i Danmark">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 12:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 12:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5143/" title="Street Parade med Dusty Rag Jazz Band fra Husum til Brønshøj  - 100-års fødselsdagfejring for jazzen i Danmark">Street Parade med Dusty Rag Jazz Band fra Husum til Brønshøj  - 100-års fødselsdagfejring for jazzen i Danmark</a>
+        </h2>    
+        <div class="concert__organizer">
+                            <a class="concert__club" href="https://jazz.dk/copenhagen-jazz-festival-2026/arrangoerer/12110/" title="Brønshøj Sommerjazz">Brønshøj Sommerjazz</a> 
+                                    /
+                                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/57/" title="BRØK">BRØK, Brønshøj</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5260/" title="Casper Hejlesen, Richard Andersson & Kresten Osgood">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/86dec5bec2f2b9488d8757b8777ed711-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Casper Hejlesen, Richard Andersson & Kresten Osgood">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 13:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Lørdag <span>4/7</span> kl. 13:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5260/" title="Casper Hejlesen, Richard Andersson & Kresten Osgood">Casper Hejlesen, Richard Andersson & Kresten Osgood</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/11479/" title="Tårnby Hovedbibliotek">Tårnby Hovedbibliotek, Kastrup</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://place2book.com/da/sw2/sales/87hwvwrv4p" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5016/" title="Girls In Airports - The Early Years & The Coming | Xenon">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/0dd3285e0fdc6a1665ffa9ea8627964f-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Girls In Airports - The Early Years & The Coming | Xenon">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 17:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Lørdag <span>4/7</span> kl. 17:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5016/" title="Girls In Airports - The Early Years & The Coming | Xenon">Girls In Airports - The Early Years & The Coming | Xenon</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/72/" title="HUSET">HUSET, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billet.to/1899154-jazzdk" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6099/" title="Fredrik Lundin presents: "Open Spaces - the Sound of ECM"">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/d22dfc506791369edc6cc173b7e628e1-thumb-1200.jpeg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Fredrik Lundin presents: "Open Spaces - the Sound of ECM"">
+    </a>
+    
+    <div class="concert__date" style="background:#30a9ab">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 18:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#30a9ab">
+            <time>Lørdag <span>4/7</span> kl. 18:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6099/" title="Fredrik Lundin presents: "Open Spaces - the Sound of ECM"">Fredrik Lundin presents: "Open Spaces - the Sound of ECM"</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/7368/" title="Kulturhuset Islands Brygge">Kulturhuset Islands Brygge, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/nordic-jazz-tributes-by-the-sea" class="concert__theme" style="background:#30a9ab">Nordic Jazz Tributes by the Sea</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5131/" title="Casper Hejlesen Kvartet (DK/SE)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/5b05ec189eb5ccb9822c6097dbcbe3dd-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Casper Hejlesen Kvartet (DK/SE)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5131/" title="Casper Hejlesen Kvartet (DK/SE)">Casper Hejlesen Kvartet (DK/SE)</a>
+        </h2>    
+        <div class="concert__organizer">
+                            <a class="concert__club" href="https://jazz.dk/copenhagen-jazz-festival-2026/arrangoerer/12110/" title="Brønshøj Sommerjazz">Brønshøj Sommerjazz</a> 
+                                    /
+                                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/57/" title="BRØK">BRØK, Brønshøj</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/users/jazzivaerk?fbclid=IwY2xjawRO0FlleHRuA2FlbQIxMABicmlkETBZeExVb2JwTVBFZXZyTXdCc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoseLbhhh9wJn2n-Ge5zQ0hmq-643qBFloZYEQDGKQoVUS7OIWq8Ta7zWyrc_aem_wOBci_8FaMVCUIRCtushIQ" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5214/" title="K A L E II D O + Mike Sheridan">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/a03ed08e2cd38dbefc5d701f3e9f107d-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="K A L E II D O + Mike Sheridan">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Lørdag <span>4/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5214/" title="K A L E II D O + Mike Sheridan">K A L E II D O + Mike Sheridan</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/9251/" title="KLEIN – Karens Minde Kulturhus">KLEIN – Karens Minde Kulturhus, København SV</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/e/k-a-l-e-ii-d-o-mike-sheridan-billetter-1907462" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5264/" title="Kresten Osgood Kvartet ft. Gilbert Holmström spiller Bent Jædig (DK/SE)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/2510621258a6cf4cc6383b2b5ebd553c-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Kresten Osgood Kvartet ft. Gilbert Holmström spiller Bent Jædig (DK/SE)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5264/" title="Kresten Osgood Kvartet ft. Gilbert Holmström spiller Bent Jædig (DK/SE)">Kresten Osgood Kvartet ft. Gilbert Holmström spiller Bent Jædig (DK/SE)</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/4022/" title="Jazzcup">Jazzcup, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.eventim-light.com/dk/a/5ccaf7cc73496e0001688297/e/69f1d04b857ef593561e1796" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6127/" title="Ned Ferm Trio">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/831cae688e9fc70f155a5065094bce30-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Ned Ferm Trio">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/6127/" title="Ned Ferm Trio">Ned Ferm Trio</a>
+        </h2>    
+        <div class="concert__organizer">
+                            <a class="concert__club" href="https://jazz.dk/copenhagen-jazz-festival-2026/arrangoerer" title=""></a> 
+                                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/51/" title="Klangbar v/ DR Koncerthuset">Klangbar v/ DR Koncerthuset, København S</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5374/" title="I Think You're Awesome">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/c5ac520ed69273e11d5b9462b62f78a1-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="I Think You're Awesome">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 19:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5374/" title="I Think You're Awesome">I Think You're Awesome</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/12668/" title="Enghave Plads 9">Enghave Plads 9, København V</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--free">Fri entré</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4934/" title="Pierre Dørge & New Jungle Orchestra feat. Shashank Subramanyam (INT)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/fb9e44fb8a8ff52833586b7b86044708-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Pierre Dørge & New Jungle Orchestra feat. Shashank Subramanyam (INT)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 19:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 19:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4934/" title="Pierre Dørge & New Jungle Orchestra feat. Shashank Subramanyam (INT)">Pierre Dørge & New Jungle Orchestra feat. Shashank Subramanyam (INT)</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/3988/" title="Den Sorte Diamant">Den Sorte Diamant, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.kb.dk/arrangementer/pierre-doerge-new-jungle-orchestra-feat-shashank-subramanyam" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5578/" title="Margaux Oswald & Jesper Zeuthen (CH/DK)">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/c3dfa792aa0fdcdfe5b428105a730717-thumb-1200.jpeg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Margaux Oswald & Jesper Zeuthen (CH/DK)">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5578/" title="Margaux Oswald & Jesper Zeuthen (CH/DK)">Margaux Oswald & Jesper Zeuthen (CH/DK)</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/7380/" title="KoncertKirken">KoncertKirken, København N</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <div class="concert__ticket concert__ticket--door-fee">Dørsalg</div>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4830/" title="Buki Yamaz - FÅ BILLETTER">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/9821779895b7aee6a8d9602ce2842843-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Buki Yamaz - FÅ BILLETTER">
+    </a>
+    
+    <div class="concert__date" style="background:#007185">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#007185">
+            <time>Lørdag <span>4/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/4830/" title="Buki Yamaz - FÅ BILLETTER">Buki Yamaz - FÅ BILLETTER</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/10203/" title="Bremen Teater">Bremen Teater, København</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                                                            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/temaer/danske-highlights" class="concert__theme" style="background:#007185">Danske Highlights</a>
+                            
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.billetlugen.dk/noapp/event/20712497/?affiliate=BT9" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5856/" title="Kalaha feat. Viktoria H. Søndergaard">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/55790067c51b746fdf584f76dc4ef023-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="Kalaha feat. Viktoria H. Søndergaard">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 20:00            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 20:00</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5856/" title="Kalaha feat. Viktoria H. Søndergaard">Kalaha feat. Viktoria H. Søndergaard</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/4169/" title="Studenterhuset, København">Studenterhuset, København, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://billetto.dk/e/kalaha-feat-viktoria-h-sondergaard-billetter-1921511?utm_source=organiser&utm_medium=share&utm_campaign=copy_link&utm_content=1" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+          <li>
+        
+<div class="concert">
+    <!-- Concert info -->
+    
+    <a class="concert__image-container" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5216/" title="John Coltrane 100 feat. Jesper Løvdal">
+                <img class="concert__image" data-original="https://jazz.dk/wp-content/media/99f3cb6390dcad02e324e4af2b2fe182-thumb-1200.jpg" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/greypixel.gif" alt="John Coltrane 100 feat. Jesper Løvdal">
+    </a>
+    
+    <div class="concert__date" style="background:#">
+        <time class="time-container">
+            <span class="day">
+                Lørdag            </span>
+            <span class="date">
+                4/7            </span>
+            <span class="time">
+                kl. 20:30            </span>
+        </time>
+    </div>
+    <div class="concert__info">
+        <div class="concert__date-mobile" style="color:#">
+            <time>Lørdag <span>4/7</span> kl. 20:30</time>
+        </div>
+        <h2 class="concert__title">
+            <a href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter/5216/" title="John Coltrane 100 feat. Jesper Løvdal">John Coltrane 100 feat. Jesper Løvdal</a>
+        </h2>    
+        <div class="concert__organizer">
+                        <a class="concert__venue" href="https://jazz.dk/copenhagen-jazz-festival-2026/spillesteder/10964/" title="Posthus Teatret">Posthus Teatret, København K</a>
+                    </div>
+    </div>
+    <div class="concert__meta">
+        <hr class="greyline">
+        <!-- Themes -->
+                
+        <!-- Show if highlighted -->
+        <span class="concert__selected"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon.svg"> Highlight</span>
+        <!-- Show add/remove favorite  -->
+        <a href="https://jazz.dk/app/" class="concert__favorite fav"><img class="icon icon--big" src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/star.svg"> Tilføj til favoritter</a>
+
+        <!-- Show tickets option -->
+                    <a href="https://www.yourticket.dk/?ytfilterarrid=416" class="concert__ticket concert__ticket--buy-ticket" target="_blank">Køb billet</a>
+            </div>
+</div>    </li>
+      </ul>			<p style="text-align:center; margin-top: 15px;">
+        		<a style="color: black;" href="https://jazz.dk/copenhagen-jazz-festival-2026/koncerter" title="Se alle koncerter">Se alle koncerter...</a>
+      		</p>
+		</div>
+	</div>
+</section>
+
+<section class="l-section l-section--article-teasers">
+	<div class="l-container">
+		<h3 class="h"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler" title="Jazz Artikler">Artikler</a></h3>
+		<hr class="blackline">
+
+		<div class="l-row">
+			
+							<div class="l-column l-md8">
+					<article class="article-teaser">
+						<a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/kunstplakat/" title="Årets kunstplakat er skabt af Jack Kabangu"><img class="article-teaser__image" src="https://jazz.dk/wp-content/uploads/2026/06/CJF-ArtPoster-01-rgb-800x343.jpg" alt="Årets kunstplakat er skabt af Jack Kabangu" /></a>
+						<h5 class="article-teaser__title"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/kunstplakat/" title="Årets kunstplakat er skabt af Jack Kabangu">Årets kunstplakat er skabt af Jack Kabangu</a></h5>
+						<div class="article-teaser__body"><p>Dette års kunstplakat er skabt af billedkunstner Jack Kabangu, født i Zambia i 1996 og opvokset i Lusaka og Holstebro. Kabangu er en kunstner med en unik stil, der præsenterer en livfuld palet af farver og energiske linjer i sine kunstværker. Han formår at forene samtidskunst med sin afrikanske arv, hvor figurative elementer møder resonante [&hellip;]</p>
+</div>
+						<a class="article-teaser__more-link button" href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/kunstplakat/">Læs mere..</a>
+					</article>
+				</div>
+							<div class="l-column l-md8">
+					<article class="article-teaser">
+						<a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/app/" title="Ti dages jazzfestival i lommen: Download den nye Copenhagen Jazz Festival-app her"><img class="article-teaser__image" src="https://jazz.dk/wp-content/uploads/2025/05/CJF26_APP_promo_bred-800x343.png" alt="Ti dages jazzfestival i lommen: Download den nye Copenhagen Jazz Festival-app her" /></a>
+						<h5 class="article-teaser__title"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/app/" title="Ti dages jazzfestival i lommen: Download den nye Copenhagen Jazz Festival-app her">Ti dages jazzfestival i lommen: Download den nye Copenhagen Jazz Festival-app her</a></h5>
+						<div class="article-teaser__body"><p>Copenhagen Jazz Festival er klar med en nyopdateret app, der både giver dig overblikket over det samlede koncertprogram og mulighed for at se highlights fra programmet samt sammensætte dig helt eget program af udvalgte favoritter. App&#8217;en giver dig samtidig nem adgang til billetkøb og viser dig vej til spillestederne via din smartphones indbyggede kort-funktioner. De [&hellip;]</p>
+</div>
+						<a class="article-teaser__more-link button" href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/app/">Læs mere..</a>
+					</article>
+				</div>
+							<div class="l-column l-md8">
+					<article class="article-teaser">
+						<a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/moed-de-deltagende-spillesteder-og-arrangoerer-paa-copenhagen-jazz-festival-2026/" title="Mød de deltagende spillesteder og arrangører på Copenhagen Jazz Festival 2026"><img class="article-teaser__image" src="https://jazz.dk/wp-content/uploads/2021/02/husetkbh-800x343.png" alt="Mød de deltagende spillesteder og arrangører på Copenhagen Jazz Festival 2026" /></a>
+						<h5 class="article-teaser__title"><a href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/moed-de-deltagende-spillesteder-og-arrangoerer-paa-copenhagen-jazz-festival-2026/" title="Mød de deltagende spillesteder og arrangører på Copenhagen Jazz Festival 2026">Mød de deltagende spillesteder og arrangører på Copenhagen Jazz Festival 2026</a></h5>
+						<div class="article-teaser__body"><p>22. juni &#8211; opdateres løbende Copenhagen Jazz Festival er som altid garant for en altomfavnende totaloplevelse, når hele hovedstaden indhylles i levende musik. Festivalens flere end 100 deltagende spillesteder og arrangører præsenterer omtrent 1000 koncerter fordelt på festivalens 10 dage – fra 3.-12. juli. Her er årets spillesteder og arrangører: 25hours Hotel Indre By, 4tallet [&hellip;]</p>
+</div>
+						<a class="article-teaser__more-link button" href="https://jazz.dk/copenhagen-jazz-festival-2026/artikler/moed-de-deltagende-spillesteder-og-arrangoerer-paa-copenhagen-jazz-festival-2026/">Læs mere..</a>
+					</article>
+				</div>
+						
+		</div>
+	</div>
+</section>
+<script type='text/javascript' src='https://jazz.dk/wp-includes/js/wp-embed.min.js?ver=be30cb8858c6db962f93768cde16ee8e' id='wp-embed-js'></script>
+	<section class="l-section l-section--more-jazz">
+		<div class="l-container">
+			
+			<div class="l-row">
+				<div class="l-column l-md8">
+					<a target="_blank" href="https://mailchi.mp/jazz/dk">
+						<div class="more-jazz more-jazz--newsletter">
+							<div class="more-jazz__head">
+								<div class="more-jazz__head-inner">
+									<img src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/newsletter-icon-white.svg">
+									<h2 class="more-jazz__title">Tilmeld nyhedsbrev</h2>
+								</div>
+							</div>
+							<hr class="more-jazz__line">
+							<div class="more-jazz__body">
+								<div class="more-jazz__text">
+									Copenhagen Jazz Festivals nyhedsbrev er for musikelskere, der vil være opdateret på jazzscenen i København.								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="l-column l-md8">
+					<a target="_blank" href="https://jazz.dk/shop">
+						<div class="more-jazz more-jazz--shop">
+							<div class="more-jazz__head">
+								<div class="more-jazz__head-inner">
+									<img src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/webshop-icon-white.svg">
+									<h2 class="more-jazz__title">Webshop</h2>
+								</div>
+							</div>
+							<hr class="more-jazz__line">
+							<div class="more-jazz__body">
+								<div class="more-jazz__text">
+									Årets festival-merchandise kan bestilles via webshoppen								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="l-column l-md8">
+					<a href="http://www.jazz.dk/app">
+						<div class="more-jazz more-jazz--my-jazz">
+							<div class="more-jazz__head">
+								<div class="more-jazz__head-inner">
+									<img src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/jazz-icon-white.svg">
+									<h2 class="more-jazz__title">Download app</h2>
+								</div>
+							</div>
+							<hr class="more-jazz__line">
+							<div class="more-jazz__body">
+								<div class="more-jazz__text">
+									Download festivalens officielle app og sammensæt dit eget favoritprogram.								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer class="footer">
+		<div class="l-container">
+			<div class="info">
+				<div class="l-row">
+					<div class="l-column l-md8">
+						<div class="information">
+							<h6 class="h">Information</h6>
+							<hr class="whiteline">
+															
+										            					            			<a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/om">Om festivalerne</a>
+															
+										            					            			<a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/samarbejdspartnere">Bidragsydere</a>
+															
+										            					            			<a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/presse">Presse</a>
+															
+										            					            			<a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/kontakt-os">Kontakt os</a>
+															
+										            					            			<a href="https://jazz.dk/copenhagen-jazz-festival-2026/om-festivalen/persondatapolitik">Persondatapolitik</a>
+													</div>		
+                        					</div>
+					<div class="l-column l-md8">
+						<h6 class="h">Kontakt os</h6>
+						<hr class="whiteline">
+						<p>Copenhagen Jazz Festival Fonden<br />
+Slotsgade 2, 4. tv.<br />
+2200 København N<br />
+Tlf.: +45 3393 2013<br />
+CVR: 75892616<a href="mailto:information@jazz.dk">information@jazz.dk</a></p>
+						<p><big></big></p>
+					</div>
+					<div class="l-column l-md8">
+						<h6 class="h">Følg os</h6>
+						<hr class="whiteline">
+						<ul class="follow">
+    <li><a class="fb" target="_blank" href="https://www.facebook.com/cphjazzfestival">Copenhagen Jazz Festival på Facebook</a></li>
+    <li><a class="tw" target="_blank" href="https://twitter.com/cphjazz">Copenhagen Jazz Festival på Twitter</a></li>
+    <li><a class="gp" target="_blank" href="https://plus.google.com/b/108053743954822387841/108053743954822387841/" rel="author">Copenhagen Jazz Festival på Google Plus</a></li>
+    <li><a class="yt" target="_blank" href="https://instagram.com/cphjazz">Copenhagen Jazz Festival på Instagram</a></li>
+    <li><a class="in" target="_blank" href="https://www.youtube.com/user/cphjazzfestival">Copenhagen Jazz Festival på Youtube</a></li>
+</ul>
+
+						<div class="wrap">
+								<h6 class="h">Apps</h6>
+								<hr class="whiteline">
+								<ul class="apps">
+									<li><a class="app" href="https://apps.apple.com/dk/developer/copenhagen-jazz-festival/" target="_blank">Copenhagen Jazz Festival på Apple App Store</a></li>
+									<li><a class="play" href="https://play.google.com/store/apps/developer?id=CPHJAZZ" target="_blank">Copenhagen Jazz Festival på Google Play</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- 
+			<div class="l-container">
+				<div class="sponsors">
+					<div class="l-row">
+						<div class="l-column l-md8">
+							<h6>Hovedbidragyder</h6>
+							<img src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/nordea.png" alt="" />
+						</div>
+						<div class="l-column l-md8">
+							<h6>Offentlige bidragydere</h6>
+							<img src="https://jazz.dk/wp-content/themes/jazz.dk-theme-only/images/sponsor1.png" alt="" />
+						</div>
+						<div class="l-column l-md8">
+							<h6>Partnere</h6>
+							<img src="https://jazz.dk/
+<!-- TRIMMED BY recon.mjs -->

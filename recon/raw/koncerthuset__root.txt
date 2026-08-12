@@ -1,0 +1,1175 @@
+
+<!doctype html>
+<html lang="da" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="apple-touch-icon" sizes="180x180" href="/frontend/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/frontend/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/frontend/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/frontend/assets/favicon/site.webmanifest">
+    <link rel="mask-icon" color="#5bbad5" href="/frontend/assets/favicon/safari-pinned-tab.svg">
+    <link rel="shortcut icon" href="/frontend/assets/favicon/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/frontend/assets/favicon/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+
+        <link rel="canonical" href="https://www.drkoncerthuset.dk/" />
+
+    <link rel="stylesheet" href="/frontend/styles/main.css?v=20260811230557" />
+            <title>DR Koncerthuset | Koncerter, events og store oplevelser i K&#xF8;benhavn</title>
+        <meta name="description" content="DR Koncerthuset i K&#xF8;benhavn er et musikhus fyldt med klassiske koncerter, kor, jazz, rytmisk livemusik og familievenlige oplevelser. Se koncertkalenderen og k&#xF8;b billetter til store musikoplevelser for b&#xE5;de voksne og b&#xF8;rn.">
+        <meta name="og:description" content="DR Koncerthuset i K&#xF8;benhavn er et musikhus fyldt med klassiske koncerter, kor, jazz, rytmisk livemusik og familievenlige oplevelser. Se koncertkalenderen og k&#xF8;b billetter til store musikoplevelser for b&#xE5;de voksne og b&#xF8;rn.">
+            <meta name="keywords" content="">
+        <meta property="og:title" content="DR Koncerthuset | Koncerter, events og store oplevelser i K&#xF8;benhavn" />
+        <meta property="og:url" content="https://www.drkoncerthuset.dk/" />
+            <meta property="og:image" content="https://www.drkoncerthuset.dk/media/x0bcou0w/baggrundsbillede_webshop.jpg?mode=crop&width=1200&height=630&quality=80" />
+
+
+    <script type="text/javascript" src="/polyfill.js"></script>
+    <script type="text/javascript" src="/frontend/Scripts/DRKoncerthuset.bundle.js?v=20260811230557"></script>
+    <script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js"
+    data-culture="DA" data-gcm-version="2.0" type="text/javascript"></script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s);j.async=true;j.src="https://data.drkoncerthuset.dk/bycnsvhczqp.js?"+i;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','5lxibd=aWQ9R1RNLUtWNU1WRA%3D%3D&sort=asc');</script>
+<!-- End Google Tag Manager -->
+</head>
+<body class="" data-barba="wrapper" style=" ">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://data.drkoncerthuset.dk/ns.html?id=GTM-KV5MVD" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+<nav class="top-navigation  top-navigation--hero-style animating-hero" data-component="top-navigation" data-component-id="top-navigation">
+    <div class="top-navigation__curtain">
+        <a href="/" class="top-navigation__curtain__logo" aria-label="Naviger til forsiden">
+            <svg class="svg-icon">
+                <use xlink:href="/frontend/assets/spritesheet.svg#branded-logo">
+                </use>
+            </svg>
+        </a>
+    </div>
+    <a href="/" class="top-navigation__logo" aria-label="Naviger til forsiden">
+        <svg class="svg-icon">
+            <use xlink:href="/frontend/assets/spritesheet.svg#branded-logo">
+            </use>
+        </svg>
+    </a>
+    <div class="top-navigation__main">
+    <div class="top-navigation__main__outer | page-container">
+        <div class="top-navigation__main__inner">
+            <div class="top-navigation__content-container | content-container">
+                <div class="container">
+                    <div class="top-navigation__menu-items" data-component="font-resizer">
+                                    <div class="top-navigation__menu-item">
+                                        <a class="top-navigation__menu-item__main-link top-navigation__link " data-url="/kalender/" data-barba-transition="menu-to-calendar" href="/kalender/">
+                                            Kalender
+                                        </a>
+                                    </div>
+                                    <div class="top-navigation__menu-item top-navigation__menu-item--with-submenu">
+                                        <div class="top-navigation__menu-item__main-link top-navigation__link  " data-top-navigation__submenu-open data-url="/ensembler/">
+                                            DR&#x27;s Kor og Orkestre
+                                            <svg class="svg-icon">
+                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                </use>
+                                            </svg>
+                                        </div>
+                                        <div class="top-navigation__menu-item__submenu">
+                                            <div class="page-container">
+                                                <div class="content-container top-navigation__menu-item__submenu__content-container">
+                                                    <div class="container">
+                                                        <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-close>
+                                                            <svg class="svg-icon">
+                                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                </use>
+                                                            </svg>
+                                                            DR&#x27;s Kor og Orkestre
+                                                        </div>
+                                                            <div class="top-navigation__menu-item__submenu-section top-navigation__menu-item__submenu-section--quick-menu">
+                                                                <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                    DR&#x27;s Kor og Orkestre
+                                                                    <svg class="svg-icon">
+                                                                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                        </use>
+                                                                    </svg>
+                                                                </h5>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-symfoniorkestret/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Symfoniorkestret
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-pigekoret/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Pigekoret
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-big-band/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Big Band
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-vokalensemblet/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Vokalensemblet
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-koncertkoret/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Koncertkoret
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-korskolen/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    DR Korskolen
+                </a>
+                                                            </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="top-navigation__menu-item top-navigation__menu-item--with-submenu">
+                                        <div class="top-navigation__menu-item__main-link top-navigation__link  " data-top-navigation__submenu-open data-url="/ensembler/dr-musikariet/">
+                                            B&#xF8;rn og Familie
+                                            <svg class="svg-icon">
+                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                </use>
+                                            </svg>
+                                        </div>
+                                        <div class="top-navigation__menu-item__submenu">
+                                            <div class="page-container">
+                                                <div class="content-container top-navigation__menu-item__submenu__content-container">
+                                                    <div class="container">
+                                                        <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-close>
+                                                            <svg class="svg-icon">
+                                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                </use>
+                                                            </svg>
+                                                            B&#xF8;rn og Familie
+                                                        </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        For familier
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                For familier
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/sider/familiekoncerter/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Familiekoncerter
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        For skoler
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                For skoler
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-musikariet/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Skolekoncerter
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-musikariet/undervisningsmateriale/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Undervisning
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/ensembler/dr-musikariet/skolernes-sangdag/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Skolernes Sangdag
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="top-navigation__menu-item top-navigation__menu-item--with-submenu">
+                                        <div class="top-navigation__menu-item__main-link top-navigation__link  " data-top-navigation__submenu-open data-url="/dit-besoeg/">
+                                            Dit bes&#xF8;g
+                                            <svg class="svg-icon">
+                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                </use>
+                                            </svg>
+                                        </div>
+                                        <div class="top-navigation__menu-item__submenu">
+                                            <div class="page-container">
+                                                <div class="content-container top-navigation__menu-item__submenu__content-container">
+                                                    <div class="container">
+                                                        <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-close>
+                                                            <svg class="svg-icon">
+                                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                </use>
+                                                            </svg>
+                                                            Dit bes&#xF8;g
+                                                        </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Mad og drikke
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Mad og drikke
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/mad-og-drikke/restaurant-klang/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Restaurant KLANG
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/mad-og-drikke/barer/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Barer i DR Koncerthuset
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Rundvisninger
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Rundvisninger
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/rundvisninger/for-boern/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    For b&#xF8;rn
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/rundvisninger/rundvisning-i-dr-koncerthuset-og-dr-byen/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    &#xD8;vrige rundvisninger
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Praktisk information
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Praktisk information
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/billetter-og-gavekort/billettyper-og-rabatter/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Billettyper og rabatter
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/billetter-og-gavekort/gavekort/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Gavekort
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/dit-besoeg/praktisk-information/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    F&#xF8;r/Under/Efter dit bes&#xF8;g
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="top-navigation__menu-item">
+                                        <a class="top-navigation__menu-item__main-link top-navigation__link " data-url="/artikler/" data-barba-transition="" href="/artikler/">
+                                            Artikler
+                                        </a>
+                                    </div>
+                                    <div class="top-navigation__menu-item top-navigation__menu-item--with-submenu">
+                                        <div class="top-navigation__menu-item__main-link top-navigation__link  " data-top-navigation__submenu-open data-url="/om-dr-koncerthuset/">
+                                            Om DR Koncerthuset
+                                            <svg class="svg-icon">
+                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                </use>
+                                            </svg>
+                                        </div>
+                                        <div class="top-navigation__menu-item__submenu">
+                                            <div class="page-container">
+                                                <div class="content-container top-navigation__menu-item__submenu__content-container">
+                                                    <div class="container">
+                                                        <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-close>
+                                                            <svg class="svg-icon">
+                                                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                </use>
+                                                            </svg>
+                                                            Om DR Koncerthuset
+                                                        </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Lej DR Koncerthuset
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Lej DR Koncerthuset
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/om-dr-koncerthuset/lej-koncerthuset/koncerter/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Til koncerter
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/om-dr-koncerthuset/lej-koncerthuset/konferencer-og-events/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Til Konferencer og Events
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Sal og Studier
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Sal og Studier
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/venue/koncertsalen/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Koncertsalen
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/venue/studie-1/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Studie 1
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/venue/studie-2/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Studie 2
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/venue/studie-3/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Studie 3
+                </a>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/venue/studie-4/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Studie 4
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="top-navigation__menu-item__submenu-section">
+                                                                    <h5 class="top-navigation__menu-item__submenu-section__headline top-navigation__link" data-top-navigation__submenu-section-open>
+                                                                        Kontakt
+                                                                        <svg class="svg-icon">
+                                                                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                            </use>
+                                                                        </svg>
+                                                                    </h5>
+                                                                    <div class="top-navigation__menu-item__submenu-section__inner">
+                                                                        <div class="top-navigation__menu-item__submenu-section__inner__container">
+                                                                            <div class="top-navigation__menu-item__submenu__back top-navigation__link" data-top-navigation__submenu-section-close>
+                                                                                <svg class="svg-icon">
+                                                                                    <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                                                                    </use>
+                                                                                </svg>
+                                                                                Kontakt
+                                                                            </div>
+                <a class="top-navigation__menu-item__submenu__link top-navigation__link" href="/om-dr-koncerthuset/kontakt/kontakt-os/">
+                    <svg class="svg-icon">
+                        <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                        </use>
+                    </svg>
+                    Kontakt os
+                </a>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="top-navigation__menu-item">
+                                        <a class="top-navigation__menu-item__main-link top-navigation__link " data-url="/dit-besoeg/billetter-og-gavekort/gavekort/" data-barba-transition="" href="/dit-besoeg/billetter-og-gavekort/gavekort/">
+                                            Gavekort
+                                        </a>
+                                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    <div class="top-navigation__toolbar">
+    <div class="top-navigation__toolbar__item top-navigation__toolbar__home" data-container style="--home-link-bg: #0F05A0; --home-link-color: #fff">
+    <a class="top-navigation__toolbar__home-link top-navigation__toolbar__home-link--active" data-link  href="/kalender/">
+            <img class="top-navigation__toolbar__home-link__image filter-toggle__closed" data-image src="/frontend/assets/arrow.svg" />
+            <svg class="svg-icon top-navigation__toolbar__home-link__image filter-toggle__open">
+                <use xlink:href="/frontend/assets/spritesheet.svg#x">
+                </use>
+            </svg>
+        <span data-name>
+            Kalender
+        </span>
+    </a>
+</div>
+<div class="top-navigation__toolbar__item top-navigation__toolbar__home top-navigation__toolbar__home--menu" data-container style="--home-link-bg: #0F05A0; --home-link-color: #fff">
+    <a class="top-navigation__toolbar__home-link top-navigation__toolbar__home-link--active" data-link href="/">
+        <img class="top-navigation__toolbar__home-link__image" data-image src="/frontend/assets/k-logo.svg" />
+        <span data-name>
+            Forside
+        </span>
+    </a>
+</div>
+    <a href="https://billetter.drkoncerthuset.dk/da/buyingflow/order/" target="_self" class="top-navigation__toolbar__item" data-component="basket-controller">
+        <svg class="svg-icon svg-icon--stroke">
+            <use xlink:href="/frontend/assets/spritesheet.svg#basket">
+            </use>
+        </svg>
+        Kurv
+        <span class="top-navigation__toolbar__item__number text semi-bold" data-basket-amount></span>
+    </a>
+    <a href="https://billetter.drkoncerthuset.dk/da/login/" target="_self" class="top-navigation__toolbar__item">
+        <svg class="svg-icon svg-icon--stroke">
+            <use xlink:href="/frontend/assets/spritesheet.svg#profile">
+            </use>
+        </svg>
+        Profil
+    </a>
+    
+<div class="search-bar" data-component="search" data-free-text="Fritekst">
+    <button class="top-navigation__toolbar__item top-navigation__toolbar__item--search" data-search-toggle>
+        <div class="search-bar__open-search-button">
+            <svg class="svg-icon svg-icon--stroke">
+                <use xlink:href="/frontend/assets/spritesheet.svg#search">
+                </use>
+            </svg>
+            S&#xF8;g
+        </div>
+        <div class="search-bar__close-search-button">
+            <svg class="svg-icon svg-icon--stroke">
+                <use xlink:href="/frontend/assets/spritesheet.svg#x-close">
+                </use>
+            </svg>
+            Luk
+        </div>
+    </button>
+    <div class="search-bar__results">
+        <div class="search-bar__title">
+            <p class="text">
+                S&#xF8;g p&#xE5; DR Koncerthuset
+            </p>
+            <div class="search-bar__close-search-button" data-search-toggle>
+                <svg class="svg-icon svg-icon--stroke">
+                    <use xlink:href="/frontend/assets/spritesheet.svg#x-close">
+                    </use>
+                </svg>
+            </div>
+        </div>
+        <input class="search-bar__bar" name="search-events" type="text" placeholder="S&#xF8;g efter arrangementer" data-search-input />
+        <svg class="search-bar__bar__icon svg-icon svg-icon--stroke">
+            <use xlink:href="/frontend/assets/spritesheet.svg#search">
+            </use>
+        </svg>
+        <div class="search-bar__filters">
+            <div class="search-bar__filters__upper">
+                <div class="search-bar__filters__upper__categories">
+                    <p class="color-grey search-bar__filters__upper__categories__label">
+                        <span data-current-categories-label class="">
+                            Genre
+                        </span>
+                    </p>
+                    <div class="search-bar__categories-container swiper-container" data-component="mobile-slider" data-space-between="10" data-breakpoint="992" data-all-auto="true">
+                        <div class="swiper-wrapper">
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="1450">
+                                    Klassisk
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="19559">
+                                    U30 halv pris
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="1860">
+                                    Pop
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="1453">
+                                    Kor
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="1852">
+                                    Folk/Country
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="1452">
+                                    Jazz
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined swiper-slide" data-category-id="19619">
+                                    Jul og nyt&#xE5;r
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1443">
+                                    Familie/B&#xF8;rn
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1855">
+                                    Indie
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1851">
+                                    Filmmusik
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1861">
+                                    Rock
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1863">
+                                    Soul/R&amp;B
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1850">
+                                    Elektronisk
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="14381">
+                                    Cabaret/Musicals
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1864">
+                                    Standup
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="2250">
+                                    Talkshow
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1867">
+                                    Verdensmusik
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1854">
+                                    Hip Hop/Rap
+                                </div>
+                                <div class="btn btn--xsmall btn--outlined d-none swiper-slide" data-category-id="1868">
+                                    Viden/Fakta
+                                </div>
+                            <div class="btn btn--xsmall btn--blue  swiper-slide" data-show-all-button data-state="less">
+                                <span class="btn-label" data-show-all-label>
+                                    <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="m11 11h-7.25c-.414 0-.75.336-.75.75s.336.75.75.75h7.25v7.25c0 .414.336.75.75.75s.75-.336.75-.75v-7.25h7.25c.414 0 .75-.336.75-.75s-.336-.75-.75-.75h-7.25v-7.25c0-.414-.336-.75-.75-.75s-.75.336-.75.75z" fill-rule="nonzero" />
+                                    </svg>
+                                    Se alle
+                                </span>
+                                <span class="btn-label d-none" data-show-less-label>
+                                    <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="m21 11.75c0-.414-.336-.75-.75-.75h-16.5c-.414 0-.75.336-.75.75s.336.75.75.75h16.5c.414 0 .75-.336.75-.75z" fill-rule="nonzero" />
+                                    </svg>
+                                    Se f&#xE6;rre
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="search-bar__filters__upper__categories-toggle color-grey">
+                    <p class="search-bar__filters__upper__categories-toggle__label">
+                        Genre
+                    </p>
+                    <div class="btn btn--xsmall btn--black" data-toggle-category-picker>
+                        V&#xE6;lg Genre
+                        <svg class="svg-icon svg-icon--arrow-down">
+                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                            </use>
+                        </svg>
+                    </div>
+                </div>
+                <div class="search-bar__filters__upper__date color-grey">
+                    <p class="search-bar__filters__upper__date__label">
+                        Dato
+                    </p>
+                    <div class="btn btn--xsmall btn--black" data-toggle-date-picker>
+                        V&#xE6;lg Dato
+                        <svg class="svg-icon svg-icon--arrow-down">
+                            <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                            </use>
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div class="search-bar__timeline d-none" data-timeline>
+                <div class="calendar-page__timeline-container">
+                    <div class="calendar-page__timeline content-container content-container--no-padding swiper-container swiper-container--mobile-nav-buttons" data-calendar-page__timeline data-component="search-timeline">
+                        <div class="swiper-wrapper">
+                                <div class="swiper-slide">
+                                    <div class="calendar-page__timeline__year ">
+                                        <div class="calendar-page__timeline__year-date headline--small">2026</div>
+                                        <ul class="calendar-page__timeline__month-list">
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2026-8">
+                                                    aug
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2026-9">
+                                                    sep
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2026-10">
+                                                    okt
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2026-11">
+                                                    nov
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2026-12">
+                                                    dec
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="swiper-slide">
+                                    <div class="calendar-page__timeline__year ">
+                                        <div class="calendar-page__timeline__year-date headline--small">2027</div>
+                                        <ul class="calendar-page__timeline__month-list">
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-1">
+                                                    jan
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-2">
+                                                    feb
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-3">
+                                                    mar
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-4">
+                                                    apr
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-5">
+                                                    maj
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-6">
+                                                    jun
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-7">
+                                                    jul
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-8">
+                                                    aug
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-9">
+                                                    sep
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-10">
+                                                    okt
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-11">
+                                                    nov
+                                                </li>
+                                                <li class="calendar-page__timeline__month-item text--small" data-year-month-link="2027-12">
+                                                    dec
+                                                </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="search-bar__active-filters d-none" data-search-bar-active-filters-container>
+            <div class="btn btn--blue btn--xxsmall d-none" data-active-filter-template>
+                <span class="btn-label">
+                    <svg clip-rule="evenodd" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m12 10.93 5.719-5.72c.146-.146.339-.219.531-.219.404 0 .75.324.75.749 0 .193-.073.385-.219.532l-5.72 5.719 5.719 5.719c.147.147.22.339.22.531 0 .427-.349.75-.75.75-.192 0-.385-.073-.531-.219l-5.719-5.719-5.719 5.719c-.146.146-.339.219-.531.219-.401 0-.75-.323-.75-.75 0-.192.073-.384.22-.531l5.719-5.719-5.72-5.719c-.146-.147-.219-.339-.219-.532 0-.425.346-.749.75-.749.192 0 .385.073.531.219z" /></svg>
+                    <span data-template-tag-label>
+                    </span>
+                </span>
+            </div>
+        </div>
+        <div class="search-bar__results__outer-container">
+            <p class="color-grey search-bar__results-label" data-search-popular-label>
+                <span>
+                    Popul&#xE6;re s&#xF8;gninger
+                </span>
+            </p>
+            <div class="search-bar__results__container" data-popular-searches-results>
+            </div>
+        </div>
+        <div class="search-bar__results__outer-container d-none">
+            <p class="d-none search-bar__results-label" data-search-results-label>
+                <span class="bold" data-search-results-amount>
+                    0
+                </span>
+                <span class="color-grey" data-search-any-results>
+                    Resultater
+                </span>
+                <span class="color-grey" data-search-1-result>
+                    Resultat
+                </span>
+            </p>
+            <div class="search-bar__results__container" data-search-results>
+            </div>
+        </div>
+        <div class="search-bar__no-results headline--small-med white" data-no-results>
+            Ingen resultater
+        </div>
+        <div class="search-bar__actions">
+            <p class="search-bar__actions__reset upper bold" data-reset-button>
+                Nulstil
+            </p>
+            <a class="btn" href="/kalender/" data-show-concerts-text="Vis {X} koncerter i kalenderen" data-go-to-concert-text="G&#xE5; til koncerten" data-results-link data-calendar-href="/kalender/">
+                Vis 200&#x2B; koncerter i kalenderen
+            </a>
+        </div>
+    </div>
+</div>
+
+    <button class="top-navigation__toolbar__item top-navigation__toolbar__menu-toggle" data-top-navigation__toggle>
+        <svg class="svg-icon svg-icon--stroke">
+            <use xlink:href="/frontend/assets/spritesheet.svg#veggie-burger">
+            </use>
+        </svg>
+        Menu
+    </button>
+    <button class="top-navigation__toolbar__item top-navigation__toolbar__menu-toggle top-navigation__toolbar__menu-toggle--close" data-top-navigation__toggle>
+        <svg class="svg-icon svg-icon--stroke">
+            <use xlink:href="/frontend/assets/spritesheet.svg#x-close">
+            </use>
+        </svg>
+        Menu
+    </button>
+</div>
+</nav>
+
+    <main data-barba="container" data-barba-namespace="home" data-toolbar="{&quot;Name&quot;:&quot;Kalender&quot;,&quot;ImageUrl&quot;:&quot;/frontend/assets/arrow.svg&quot;,&quot;Background&quot;:&quot;#0F05A0&quot;,&quot;Color&quot;:&quot;#fff&quot;,&quot;Link&quot;:&quot;/kalender/&quot;,&quot;IsFilterToggle&quot;:false,&quot;IsToursToggle&quot;:false,&quot;ProductCategoryGroupingText&quot;:null}">
+        <iframe style="display: none;" class="top-navigation__toolbar__basket-iframe" data-basket-iframe src="https://billetter.drkoncerthuset.dk/da/itix"></iframe>
+        
+        
+<div data-component="front-page">
+
+    <section class="hero" data-component="hero-slider" id="">
+        <div class="page-container">
+            <div class="content-container hero__container">
+                <div class="hero__image-container">
+                    
+    <div class="swiper-controls">
+        <div class="swiper-button-prev">
+            <svg class="svg-icon">
+                <use xlink:href="/frontend/assets/spritesheet.svg#arrow"></use>
+            </svg>
+        </div>
+        <div class="swiper-pagination text bold"></div>
+        <div class="swiper-button-next">
+            <svg class="svg-icon">
+                <use xlink:href="/frontend/assets/spritesheet.svg#arrow"></use>
+            </svg>
+        </div>
+    </div>
+
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+
+<div class="swiper-slide">
+        <a href="/kalender/2026/fireside-talk-banderelateret-live/">
+            <picture ><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/sakbtwd0/event_34240.jpg?width=2025&height=1000&v=1dcf4ddadb5e100&format=webp&quality=80 2025w,/media/sakbtwd0/event_34240.jpg?width=1600&height=1000&v=1dcf4ddadb5e100&format=webp&quality=80 1600w,/media/sakbtwd0/event_34240.jpg?width=1350&height=840&v=1dcf4ddadb5e100&format=webp&quality=80 1350w,/media/sakbtwd0/event_34240.jpg?width=1012&height=630&v=1dcf4ddadb5e100&format=webp&quality=80 1012w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/sakbtwd0/event_34240.jpg?width=2025&height=1000&v=1dcf4ddadb5e100&format=jpg&quality=80 2025w,/media/sakbtwd0/event_34240.jpg?width=1600&height=1000&v=1dcf4ddadb5e100&format=jpg&quality=80 1600w,/media/sakbtwd0/event_34240.jpg?width=1350&height=840&v=1dcf4ddadb5e100&format=jpg&quality=80 1350w,/media/sakbtwd0/event_34240.jpg?width=1012&height=630&v=1dcf4ddadb5e100&format=jpg&quality=80 1012w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/sakbtwd0/event_34240.jpg?width=800&height=600&v=1dcf4ddadb5e100&format=webp&quality=80 800w,/media/sakbtwd0/event_34240.jpg?width=600&height=600&v=1dcf4ddadb5e100&format=webp&quality=80 600w,/media/sakbtwd0/event_34240.jpg?width=375&height=375&v=1dcf4ddadb5e100&format=webp&quality=80 375w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/sakbtwd0/event_34240.jpg?width=800&height=600&v=1dcf4ddadb5e100&format=jpg&quality=80 800w,/media/sakbtwd0/event_34240.jpg?width=600&height=600&v=1dcf4ddadb5e100&format=jpg&quality=80 600w,/media/sakbtwd0/event_34240.jpg?width=375&height=375&v=1dcf4ddadb5e100&format=jpg&quality=80 375w" type="image/jpg"><source srcset="/media/sakbtwd0/event_34240.jpg?width=2175&height=950&v=1dcf4ddadb5e100&format=webp&quality=80" type="image/webp"><img class=""/ src="/media/sakbtwd0/event_34240.jpg?width=2175&height=950&v=1dcf4ddadb5e100&format=jpg&quality=80"/ alt="Fireside Talk: Banderelateret Live"></picture>
+        </a>
+</div>
+<div class="swiper-slide">
+        <a href="/kalender/2026/myter-ekko-trinitatis/">
+            <picture ><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=2025&height=1000&v=1dcf9a7037cafb0&format=webp&quality=80 2025w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1600&height=1000&v=1dcf9a7037cafb0&format=webp&quality=80 1600w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1350&height=840&v=1dcf9a7037cafb0&format=webp&quality=80 1350w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1012&height=630&v=1dcf9a7037cafb0&format=webp&quality=80 1012w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=2025&height=1000&v=1dcf9a7037cafb0&format=jpg&quality=80 2025w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1600&height=1000&v=1dcf9a7037cafb0&format=jpg&quality=80 1600w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1350&height=840&v=1dcf9a7037cafb0&format=jpg&quality=80 1350w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=1012&height=630&v=1dcf9a7037cafb0&format=jpg&quality=80 1012w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=800&height=600&v=1dcf9a7037cafb0&format=webp&quality=80 800w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=600&height=600&v=1dcf9a7037cafb0&format=webp&quality=80 600w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=375&height=375&v=1dcf9a7037cafb0&format=webp&quality=80 375w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=800&height=600&v=1dcf9a7037cafb0&format=jpg&quality=80 800w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=600&height=600&v=1dcf9a7037cafb0&format=jpg&quality=80 600w,/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=375&height=375&v=1dcf9a7037cafb0&format=jpg&quality=80 375w" type="image/jpg"><source srcset="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=2175&height=950&v=1dcf9a7037cafb0&format=webp&quality=80" type="image/webp"><img class=""/ src="/media/xvkjmp1j/event_32681.jpg?rxy=0.41991379416813845,0.32111134165258715&width=2175&height=950&v=1dcf9a7037cafb0&format=jpg&quality=80"/ alt="Myter & Ekko (Trinitatis)"></picture>
+        </a>
+</div>
+<div class="swiper-slide">
+        <a href="/kalender/2026/kochanovsky-sjostakovitj/">
+            <picture ><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/q3scc2bc/event_30973.jpg?width=2025&height=1000&v=1dc91e31d41d690&format=webp&quality=80 2025w,/media/q3scc2bc/event_30973.jpg?width=1600&height=1000&v=1dc91e31d41d690&format=webp&quality=80 1600w,/media/q3scc2bc/event_30973.jpg?width=1350&height=840&v=1dc91e31d41d690&format=webp&quality=80 1350w,/media/q3scc2bc/event_30973.jpg?width=1012&height=630&v=1dc91e31d41d690&format=webp&quality=80 1012w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" srcset="/media/q3scc2bc/event_30973.jpg?width=2025&height=1000&v=1dc91e31d41d690&format=jpg&quality=80 2025w,/media/q3scc2bc/event_30973.jpg?width=1600&height=1000&v=1dc91e31d41d690&format=jpg&quality=80 1600w,/media/q3scc2bc/event_30973.jpg?width=1350&height=840&v=1dc91e31d41d690&format=jpg&quality=80 1350w,/media/q3scc2bc/event_30973.jpg?width=1012&height=630&v=1dc91e31d41d690&format=jpg&quality=80 1012w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/q3scc2bc/event_30973.jpg?width=800&height=600&v=1dc91e31d41d690&format=webp&quality=80 800w,/media/q3scc2bc/event_30973.jpg?width=600&height=600&v=1dc91e31d41d690&format=webp&quality=80 600w,/media/q3scc2bc/event_30973.jpg?width=375&height=375&v=1dc91e31d41d690&format=webp&quality=80 375w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" srcset="/media/q3scc2bc/event_30973.jpg?width=800&height=600&v=1dc91e31d41d690&format=jpg&quality=80 800w,/media/q3scc2bc/event_30973.jpg?width=600&height=600&v=1dc91e31d41d690&format=jpg&quality=80 600w,/media/q3scc2bc/event_30973.jpg?width=375&height=375&v=1dc91e31d41d690&format=jpg&quality=80 375w" type="image/jpg"><source srcset="/media/q3scc2bc/event_30973.jpg?width=2175&height=950&v=1dc91e31d41d690&format=webp&quality=80" type="image/webp"><img class=""/ src="/media/q3scc2bc/event_30973.jpg?width=2175&height=950&v=1dc91e31d41d690&format=jpg&quality=80"/ alt="Kochanovsky & Sjostakovitj"></picture>
+        </a>
+</div>                        </div>
+                    </div>
+                </div>
+
+                <div class="hero__text-container swiper-container">
+                    <div class="swiper-wrapper">
+<div class="swiper-slide" data-slide-name="Fireside Talk">
+    <a class="hero__text-container__item" href="/kalender/2026/fireside-talk-banderelateret-live/" >
+            <h2 class="hero__text-container__item__title headline--medium stencil">Fireside Talk</h2>
+            <h3 class="hero__text-container__item__subtitle headline--small">Banderelateret Live</h3>
+
+            <p class="text ">En aften om det Danmark, vi l&#xE6;ser om hver morgen - men aldrig kommer t&#xE6;t p&#xE5;.</p>
+
+            <div class="hero__text-container__item__button">
+                <div class="btn">L&#xE6;s mere</div>
+            </div>
+    </a>
+</div><div class="swiper-slide" data-slide-name="Myter &amp; Ekko">
+    <a class="hero__text-container__item" href="/kalender/2026/myter-ekko-trinitatis/" >
+            <h2 class="hero__text-container__item__title stencil headline--large">Myter &amp; Ekko</h2>
+
+            <p class="text ">Oplev kraftfulde korv&#xE6;rker og urgamle myter, der har inspireret de st&#xF8;rste komponister.</p>
+
+            <div class="hero__text-container__item__button">
+                <div class="btn">L&#xE6;s mere</div>
+            </div>
+    </a>
+</div><div class="swiper-slide" data-slide-name="Kochanovsky &amp; Sjostakovitj">
+    <a class="hero__text-container__item" href="/kalender/2026/kochanovsky-sjostakovitj/" >
+            <h2 class="hero__text-container__item__title stencil headline--medium">Kochanovsky &amp; Sjostakovitj</h2>
+
+            <p class="text ">En bev&#xE6;gende rejse fra nattens m&#xF8;rke mod lyset &#x2013; med Barbers ber&#xF8;mte Adagio og Sjostakovitjs sidste og mest personlige symfoni.</p>
+
+            <div class="hero__text-container__item__button">
+                <div class="btn">L&#xE6;s mere</div>
+            </div>
+    </a>
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <div class="cta-sidebar-section page-container">
+        <div class="content-container">
+            <div class="cta-sidebar-container" data-front-page__scroll-sticker data-component-args="{&quot;target&quot;:&quot;#frontpage-sticky-sidebar-target&quot;,&quot;saveRootHeight&quot;:false,&quot;relateStickyWidthToRoot&quot;:false,&quot;fixToScreenTopOffset&quot;:-200,&quot;breakpoint&quot;:1400}">
+                <a class="cta-sidebar cta-sidebar--no-anim hidden animate-start" data-scroll-sticker-elem href="/">
+                    <span class="cta-sidebar__content">
+                        <span class="cta-sidebar__logo">
+                            <svg class="svg-icon cta-sidebar__logo__arrow">
+                                <use xlink:href="/frontend/assets/spritesheet.svg#arrow">
+                                </use>
+                            </svg>
+                            <span class="cta-sidebar__logo__ensemble">
+                                <img class="cta-sidebar__logo__ensemble__fp-logo" data-sidebar-logo src="" alt="logo" />
+                            </span>
+                        </span>
+                    </span>
+                    <span class="cta-sidebar__btn">
+                        <span class="cta-sidebar__btn__text">
+                            <span class="cta-sidebar__btn__text__inner" data-sidebar-btn-text>
+                            </span>
+                        </span>
+                    </span>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div id="frontpage-sticky-sidebar-target" data-front-page__section-containers>
+        <div class="umb-block-list">
+
+
+
+<div class="grouped-section grouped-section--has-title   page-container 
+        grouped-section--mobile-background"
+     style="background: #0f05a0;
+            " data-sticky-sidebar-content="{&quot;btnText&quot;:&quot;Se alle arrangementer&quot;,&quot;href&quot;:&quot;/kalender/&quot;,&quot;size&quot;:&quot;Small&quot;,&quot;color&quot;:&quot;#0f05a0&quot;,&quot;isEnsemble&quot;:false,&quot;ensembleLink&quot;:null,&quot;ensembleText&quot;:&quot;Bes\u00F8g&quot;,&quot;ensembleImageUrl&quot;:null,&quot;ensembleLogoUrl&quot;:null,&quot;logoInOneLine&quot;:false}">
+    <div class="content-container">
+        <div class="container">
+            <img id="preloadwat" style="display: none;">
+<h1 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Nyheder</h1>        </div>
+    </div>
+    <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
+        <div class="container" id="sticky-target-80fc6b7e-cf39-433b-b368-4d4a3ce6055b">
+            <div class="umb-block-list">
+
+
+<div class="page-container" id="">
+    <div class="container">
+        <div class="event-section column-slider__grid column-slider__mobile-swiper swiper-container  swiper-auto-width" data-component="mobile-slider" data-breakpoint="576">
+            <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19565,&#xA;  &quot;eventimId&quot;: &quot;114610&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2026/science-cocktails-black-hole-mysteries/science-cocktails-black-hole-mysteries/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/vypgtlu5/event_34903.jpg?width=1600&amp;height=800&amp;v=1dd094fe03021a0&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/vypgtlu5/event_34903.jpg?width=400&amp;height=200&amp;v=1dd094fe03021a0&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/vypgtlu5/event_34903.jpg?width=340&amp;height=191&amp;v=1dd094fe03021a0&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Science &amp; Cocktails: Black Hole Mysteries&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34903/114610/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: false,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Science &amp; Cocktails: Black Hole Mysteries&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;Koncertsalen&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2026-8&quot;,&#xA;  &quot;dateTime&quot;: &quot;29. august 2026 KL. 20.00&quot;,&#xA;  &quot;dateHeader&quot;: &quot;l&#xF8;rdag 29. august&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--xxxsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#000000&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#000000&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;Science &amp; Cocktails: Black Hole Mysteries&quot;,&#xA;    &quot;headline&quot;: &quot;Science &amp; Cocktails: Black Hole Mysteries&quot;,&#xA;    &quot;description&quot;: &quot;Oplev Black Hole Mysteries i DR Koncerthuset, n&#xE5;r Science &amp; Cocktails inviterer til en aften om universets st&#xF8;rste mysterier.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: false,&#xA;  &quot;isHighlighted&quot;: true,&#xA;  &quot;category&quot;: [&#xA;    1868,&#xA;    1855,&#xA;    1452&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2026-08-29T20:00:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Viden/Fakta&quot;,&#xA;    &quot;Indie&quot;,&#xA;    &quot;Jazz&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19571,&#xA;  &quot;eventimId&quot;: &quot;114651&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2026/gibran-alcocer/gibran-alcocer/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/5gkmmrn0/event_34915.jpg?width=1600&amp;height=800&amp;v=1dd09f59a8bbeb0&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/5gkmmrn0/event_34915.jpg?width=400&amp;height=200&amp;v=1dd09f59a8bbeb0&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/5gkmmrn0/event_34915.jpg?width=340&amp;height=191&amp;v=1dd09f59a8bbeb0&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Gibran Alcocer&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34915/114651/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: false,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Gibran Alcocer&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;Koncertsalen&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2026-10&quot;,&#xA;  &quot;dateTime&quot;: &quot;03. oktober 2026 KL. 19.30&quot;,&#xA;  &quot;dateHeader&quot;: &quot;l&#xF8;rdag 3. oktober&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--xsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#0b1e25&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#0b1e25&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;Gibran Alcocer&quot;,&#xA;    &quot;headline&quot;: &quot;Gibran Alcocer&quot;,&#xA;    &quot;description&quot;: &quot;Oplev en af den moderne klavermusiks mest markante nye stemmer, n&#xE5;r den mexicanske komponist og pianist Gibran Alcocer g&#xE6;ster Koncertsalen.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: false,&#xA;  &quot;isHighlighted&quot;: true,&#xA;  &quot;category&quot;: [&#xA;    1450&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2026-10-03T19:30:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Klassisk&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19641,&#xA;  &quot;eventimId&quot;: &quot;114802&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2026/yndling/yndling/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/n13cbphb/event_34967.jpg?width=1600&amp;height=800&amp;v=1dd2324fce0d210&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/n13cbphb/event_34967.jpg?width=400&amp;height=200&amp;v=1dd2324fce0d210&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/n13cbphb/event_34967.jpg?width=340&amp;height=191&amp;v=1dd2324fce0d210&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Yndling&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34967/114802/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: false,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Yndling&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;Studie 3&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2026-11&quot;,&#xA;  &quot;dateTime&quot;: &quot;10. november 2026 KL. 20.30&quot;,&#xA;  &quot;dateHeader&quot;: &quot;tirsdag 10. november&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--small-med&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#001528&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#001528&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;&quot;,&#xA;    &quot;headline&quot;: &quot;Yndling&quot;,&#xA;    &quot;description&quot;: &quot;Yndling g&#xE6;ster DR Koncerthuset med sine dr&#xF8;mmende og atmosf&#xE6;riske lyduniverser, hvor glitrende guitarer, sv&#xE6;vende synths og intime vokaler smelter sammen i et filmisk udtryk.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: false,&#xA;  &quot;isHighlighted&quot;: true,&#xA;  &quot;category&quot;: [&#xA;    1860,&#xA;    1852,&#xA;    1850&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2026-11-10T20:30:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Pop&quot;,&#xA;    &quot;Folk/Country&quot;,&#xA;    &quot;Elektronisk&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19579,&#xA;  &quot;eventimId&quot;: &quot;114655&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2026/poetiske-mestre-soroe/poetiske-mestre/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/pewcizhq/event_32683.jpg?width=1600&amp;height=800&amp;v=1dcac18af8b3240&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/pewcizhq/event_32683.jpg?width=400&amp;height=200&amp;v=1dcac18af8b3240&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/pewcizhq/event_32683.jpg?width=340&amp;height=191&amp;v=1dcac18af8b3240&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Poetiske mestre&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34916/114655/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: false,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Poetiske mestre&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;Sor&#xF8; Klosterkirke&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2026-11&quot;,&#xA;  &quot;dateTime&quot;: &quot;12. november 2026 KL. 19.30&quot;,&#xA;  &quot;dateHeader&quot;: &quot;torsdag 12. november&quot;,&#xA;  &quot;ensembleLabel&quot;: &quot;DR Vokalensemblet&quot;,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: &quot;/media/aqun1avs/group-2.svg&quot;,&#xA;  &quot;titleClass&quot;: &quot;headline--xsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#52ae32&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#ad9d87&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#ad9d87&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;DR Vokalensemblet | Nils Schweckendiek dirigent&quot;,&#xA;    &quot;headline&quot;: &quot;Poetiske mestre&quot;,&#xA;    &quot;description&quot;: &quot;Den Grammy-vindende dirigent Nils Schweckendiek m&#xF8;der DR Vokalensemblet i et enest&#xE5;ende program, hvor den st&#xF8;rste poesi bliver til klang og toner.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: false,&#xA;  &quot;isHighlighted&quot;: true,&#xA;  &quot;category&quot;: [&#xA;    1453,&#xA;    1450,&#xA;    19559&#xA;  ],&#xA;  &quot;ensembles&quot;: [&#xA;    1552&#xA;  ],&#xA;  &quot;orderDate&quot;: &quot;2026-11-12T19:30:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Kor&quot;,&#xA;    &quot;Klassisk&quot;,&#xA;    &quot;U30 halv pris&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19546,&#xA;  &quot;eventimId&quot;: &quot;34884&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2026/boerstes-store-julefest/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/b5wno1b3/boerste-store-julefest-2.jpg?rxy=0.6301854225723879,0.39498995378860524&amp;width=1600&amp;height=800&amp;v=1dd0d2b924a2370&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/b5wno1b3/boerste-store-julefest-2.jpg?rxy=0.6301854225723879,0.39498995378860524&amp;width=400&amp;height=200&amp;v=1dd0d2b924a2370&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/b5wno1b3/boerste-store-julefest-2.jpg?rxy=0.6301854225723879,0.39498995378860524&amp;width=340&amp;height=191&amp;v=1dd0d2b924a2370&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;B&#xF8;rstes store julefest&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34884/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: true,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;B&#xF8;rstes store julefest&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2026-11&quot;,&#xA;  &quot;dateTime&quot;: &quot;14. november 2026 KL. 09.30&quot;,&#xA;  &quot;dateHeader&quot;: &quot;l&#xF8;rdag 14. november&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--xsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#e6003c&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#e6003c&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;B&#xF8;rstes Juleshow 2026&quot;,&#xA;    &quot;headline&quot;: &quot;B&#xF8;rstes Juleshow 2026&quot;,&#xA;    &quot;description&quot;: &quot;Julen bliver ekstra hyggelig, n&#xE5;r B&#xF8;rste fra DR Minisjang g&#xE6;ster DR Koncerthuset med sit helt nye juleshow.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: true,&#xA;  &quot;isHighlighted&quot;: false,&#xA;  &quot;category&quot;: [&#xA;    1443,&#xA;    19619&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2026-11-14T09:30:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Familie/B&#xF8;rn&quot;,&#xA;    &quot;Jul og nyt&#xE5;r&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 18111,&#xA;  &quot;eventimId&quot;: &quot;31106&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2027/duellen/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/j5jgbg2b/event_31106.jpg?width=1600&amp;height=800&amp;v=1dc9745006fb250&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/j5jgbg2b/event_31106.jpg?width=400&amp;height=200&amp;v=1dc9745006fb250&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/j5jgbg2b/event_31106.jpg?width=340&amp;height=191&amp;v=1dc9745006fb250&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Duellen&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/31106/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: true,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Duellen&quot;,&#xA;  &quot;subTitle&quot;: &quot;Morricone og den sidste blodsdr&#xE5;be&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2027-1&quot;,&#xA;  &quot;dateTime&quot;: &quot;28. januar 2027 KL. 19.30&quot;,&#xA;  &quot;dateHeader&quot;: &quot;torsdag 28. januar&quot;,&#xA;  &quot;ensembleLabel&quot;: &quot;DR Symfoniorkestret&quot;,&#xA;  &quot;secondaryEnsembleLabel&quot;: &quot;DR Koncertkoret&quot;,&#xA;  &quot;ensembleIcon&quot;: &quot;/media/iaan5svq/group.svg&quot;,&#xA;  &quot;titleClass&quot;: &quot;headline--small-med&quot;,&#xA;  &quot;themeColor&quot;: &quot;#f0005a&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#000000&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#000000&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;&quot;,&#xA;    &quot;headline&quot;: &quot;Duellen&quot;,&#xA;    &quot;description&quot;: &quot;DR Symfoniorkestrets filmkoncert &#x201D;Duellen&#x201D; er set af over 400 millioner p&#xE5; YouTube, og nu har du chancen for at opleve en helt ny version af det ultimative symfoniske &#x2019;take&#x2019; af det brutale og beskidte Vilde Vesten live i Koncertsalen. Solister: Mathias Heise (mundharmonika), Tuva Semmingsen og Christine Nonboe Andersen (vokal).&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: true,&#xA;  &quot;isHighlighted&quot;: false,&#xA;  &quot;category&quot;: [&#xA;    1851,&#xA;    1450,&#xA;    14381,&#xA;    1453&#xA;  ],&#xA;  &quot;ensembles&quot;: [&#xA;    1210,&#xA;    1844&#xA;  ],&#xA;  &quot;orderDate&quot;: &quot;2027-01-28T19:30:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Filmmusik&quot;,&#xA;    &quot;Klassisk&quot;,&#xA;    &quot;Cabaret/Musicals&quot;,&#xA;    &quot;Kor&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19666,&#xA;  &quot;eventimId&quot;: &quot;114851&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2027/brandi-carlile/brandi-carlile-the-human-tour/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/hrcfw13o/event_34980.jpg?width=1600&amp;height=800&amp;v=1dd26404bd0f210&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/hrcfw13o/event_34980.jpg?width=400&amp;height=200&amp;v=1dd26404bd0f210&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/hrcfw13o/event_34980.jpg?width=340&amp;height=191&amp;v=1dd26404bd0f210&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;Brandi Carlile&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34980/114851/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: false,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;Brandi Carlile&quot;,&#xA;  &quot;subTitle&quot;: &quot;The Human Tour&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;Koncertsalen&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2027-3&quot;,&#xA;  &quot;dateTime&quot;: &quot;26. marts 2027 KL. 20.00&quot;,&#xA;  &quot;dateHeader&quot;: &quot;fredag 26. marts&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--xsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#4d572a&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#4d572a&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;&quot;,&#xA;    &quot;headline&quot;: &quot;Brandi Carlile&quot;,&#xA;    &quot;description&quot;: &quot;Den 11-dobbelte Grammy-vinder Brandi Carlile indtager Koncertsalen med sange fra sit seneste album &#x201D;Returning to Myself&#x201D;.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: false,&#xA;  &quot;isHighlighted&quot;: true,&#xA;  &quot;category&quot;: [&#xA;    1852,&#xA;    1861&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2027-03-26T20:00:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Folk/Country&quot;,&#xA;    &quot;Rock&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div data-component="vue-component-loader" data-vue-component="vue-event-card" data-component-args="{&#xA;  &quot;imageAspectRatio&quot;: 2.0,&#xA;  &quot;eventId&quot;: 19520,&#xA;  &quot;eventimId&quot;: &quot;34862&quot;,&#xA;  &quot;showUSPText&quot;: false,&#xA;  &quot;url&quot;: &quot;/kalender/2027/olafur-arnalds/&quot;,&#xA;  &quot;image&quot;: {&#xA;    &quot;defaultUrl&quot;: &quot;/media/ei0kmfqq/event_34862.jpg?width=1600&amp;height=800&amp;v=1dd03afc4e6c0c0&quot;,&#xA;    &quot;responsiveImg&quot;: [&#xA;      {&#xA;        &quot;sizes&quot;: &quot;400px&quot;,&#xA;        &quot;mediaQuery&quot;: null,&#xA;        &quot;srcSetSources&quot;: [&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/ei0kmfqq/event_34862.jpg?width=400&amp;height=200&amp;v=1dd03afc4e6c0c0&quot;,&#xA;            &quot;width&quot;: &quot;400w&quot;&#xA;          },&#xA;          {&#xA;            &quot;src&quot;: &quot;/media/ei0kmfqq/event_34862.jpg?width=340&amp;height=191&amp;v=1dd03afc4e6c0c0&quot;,&#xA;            &quot;width&quot;: &quot;340w&quot;&#xA;          }&#xA;        ]&#xA;      }&#xA;    ],&#xA;    &quot;alt&quot;: &quot;&#xD3;lafur Arnalds&quot;&#xA;  },&#xA;  &quot;differentCardImage&quot;: false,&#xA;  &quot;entryType&quot;: &quot;event&quot;,&#xA;  &quot;ticketLink&quot;: &quot;https://billetter.drkoncerthuset.dk/da/buyingflow/tickets/34862/&quot;,&#xA;  &quot;showMultipleDatesLabel&quot;: true,&#xA;  &quot;allDatesOnSameDay&quot;: false,&#xA;  &quot;title&quot;: &quot;&#xD3;lafur Arnalds&quot;,&#xA;  &quot;subTitle&quot;: &quot;&quot;,&#xA;  &quot;isSidebar&quot;: false,&#xA;  &quot;venue&quot;: &quot;&quot;,&#xA;  &quot;yearMonth&quot;: &quot;2027-4&quot;,&#xA;  &quot;dateTime&quot;: &quot;17. april 2027 KL. 20.00&quot;,&#xA;  &quot;dateHeader&quot;: &quot;l&#xF8;rdag 17. april&quot;,&#xA;  &quot;ensembleLabel&quot;: null,&#xA;  &quot;secondaryEnsembleLabel&quot;: null,&#xA;  &quot;ensembleIcon&quot;: null,&#xA;  &quot;titleClass&quot;: &quot;headline--xsmall&quot;,&#xA;  &quot;themeColor&quot;: &quot;#4F6FFF&quot;,&#xA;  &quot;eventBackground&quot;: &quot;#000000&quot;,&#xA;  &quot;eventBackgroundAnimate&quot;: &quot;#000000&quot;,&#xA;  &quot;badge&quot;: null,&#xA;  &quot;isInProgress&quot;: false,&#xA;  &quot;ctaLabel&quot;: &quot;L&#xE6;s mere&quot;,&#xA;  &quot;info&quot;: {&#xA;    &quot;label&quot;: &quot;&#xD3;lafur Arnalds&quot;,&#xA;    &quot;headline&quot;: &quot;&#xD3;lafur Arnalds&quot;,&#xA;    &quot;description&quot;: &quot;Den prisvindende islandske komponist, producer og kunstner &#xD3;lafur Arnalds vender tilbage med sit hidtil mest ambiti&#xF8;se liveprojekt.&quot;&#xA;  },&#xA;  &quot;isMainEvent&quot;: true,&#xA;  &quot;isHighlighted&quot;: false,&#xA;  &quot;category&quot;: [&#xA;    1450,&#xA;    1850&#xA;  ],&#xA;  &quot;ensembles&quot;: [],&#xA;  &quot;orderDate&quot;: &quot;2027-04-17T20:00:00Z&quot;,&#xA;  &quot;allCategoriesNames&quot;: [&#xA;    &quot;Klassisk&quot;,&#xA;    &quot;Elektronisk&quot;&#xA;  ]&#xA;}"></div>
+                    </div>
+            </div>
+            <div class="swiper-scrollbar">
+            </div>
+        </div>
+    </div>
+</div></div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="grouped-section grouped-section--has-title   page-container 
+        "
+     style="
+            " data-sticky-sidebar-content="{&quot;btnText&quot;:&quot;Se alle arrangementer&quot;,&quot;href&quot;:&quot;/kalender/&quot;,&quot;size&quot;:&quot;Small&quot;,&quot;color&quot;:&quot;#000&quot;,&quot;isEnsemble&quot;:false,&quot;ensembleLink&quot;:null,&quot;ensembleText&quot;:&quot;Bes\u00F8g&quot;,&quot;ensembleImageUrl&quot;:null,&quot;ensembleLogoUrl&quot;:null,&quot;logoInOneLine&quot;:false}">
+    <div class="content-container">
+        <div class="container">
+            <img id="preloadwat" style="display: none;">
+<h2 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Aktuelt</h2>        </div>
+    </div>
+    <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
+        <div class="container" id="sticky-target-57756686-3533-49ee-9ea8-304061b8081e">
+            <div class="umb-block-list">
+
+
+<a class="short-content__page-container page-container" id="" href="https://www.youtube.com/watch?v=CivZ_e3Tj0I&list=PLmsuTjatt0Xy-Y2SpapOi2qmc_isH7W_3" target="_blank">
+<div class="content-container">
+    <div class="container">
+        <div class="short-content short-content--right short-content--White" >
+            <div class="short-content__image-container">
+                <div class="short-content__image-container__swiper">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                                    <div class="swiper-slide" data-credit-text="Foto: Emilia Therese">
+                                            <div class="thumbnail-container" data-modal-opens="modal-6d048605-1fe5-4bf0-b61b-ea652034136e">
+                                                <div class="thumbnail-container__play-button">
+                                                    <svg class=" svg-icon">
+                                                        <use xlink:href="/frontend/assets/spritesheet.svg#play"></use>
+                                                    </svg>
+                                                </div>
+<picture class="lazy"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=1249&height=813&v=1dd0ac2f0b24110&format=webp&quality=80 1249w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=833&height=542&v=1dd0ac2f0b24110&format=webp&quality=80 833w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=624&height=406&v=1dd0ac2f0b24110&format=webp&quality=80 624w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=1249&height=813&v=1dd0ac2f0b24110&format=jpg&quality=80 1249w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=833&height=542&v=1dd0ac2f0b24110&format=jpg&quality=80 833w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=624&height=406&v=1dd0ac2f0b24110&format=jpg&quality=80 624w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=600&height=500&v=1dd0ac2f0b24110&format=webp&quality=80 600w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=400&height=317&v=1dd0ac2f0b24110&format=webp&quality=80 400w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=300&height=278&v=1dd0ac2f0b24110&format=webp&quality=80 300w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=600&height=500&v=1dd0ac2f0b24110&format=jpg&quality=80 600w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=400&height=317&v=1dd0ac2f0b24110&format=jpg&quality=80 400w,/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=300&height=278&v=1dd0ac2f0b24110&format=jpg&quality=80 300w" type="image/jpg"><source data-srcset="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=2175&height=950&v=1dd0ac2f0b24110&format=webp&quality=80" type="image/webp"><img class=""/ data-src="/media/ilhp05z3/drbigband_klassebillede.jpg?rxy=0.486615681702185,0.45253302674514845&width=2175&height=950&v=1dd0ac2f0b24110&format=jpg&quality=80"/ alt="DR Big Band Ensemblegrafik 2024"></picture>                                            </div>
+                                    </div>
+                        </div>
+                    </div>
+                </div>
+                <figcaption class="short-content__credit" data-credit-container>
+Foto: Emilia Therese                </figcaption>
+            </div>
+            <div class="short-content__text-container">
+<h2 class="headline--xsmall">Serie med DR Big Band</h2>                <p class="text">
+                    DR Big Band er klar med den nye YouTube-serie &#39;Mig &amp; Big Band&#39;.<br /><br />I 7 korte episoder inviterer udvalgte musikere dig med helt t&#230;t p&#229; med personlige historier og n&#248;rdede detaljer om lyd og instrumenter.<br /><br />Ny episode hver fredag hele sommeren!
+                </p>
+
+
+<div class="btn " >Se nu</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</a>
+
+            <div class="media-section__modal modal modal--iframe" data-component="modal" data-modal-id="modal-6d048605-1fe5-4bf0-b61b-ea652034136e" data-video-player="youtube">
+                <div class="modal-wrapper">
+                    <div class="modal__close">
+                        <svg class="svg-icon">
+                            <use xlink:href="/frontend/assets/spritesheet.svg#x-close"></use>
+                        </svg>
+                    </div>
+                    <iframe width="1300" height="731" src="https://www.youtube-nocookie.com/embed/CivZ_e3Tj0I?list=PLmsuTjatt0Xy-Y2SpapOi2qmc_isH7W_3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+                </div>
+            </div>
+
+
+<a class="short-content__page-container page-container" id="" href="/ensembler/dr-symfoniorkestret/koncertvaelger/" target="">
+<div class="content-container">
+    <div class="container">
+        <div class="short-content short-content--right short-content--White" >
+            <div class="short-content__image-container">
+                <div class="short-content__image-container__swiper">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                                    <div class="swiper-slide" data-credit-text="">
+<picture class="lazy"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=1249&height=813&v=1dd2594d5a68330&format=webp&quality=80 1249w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=833&height=542&v=1dd2594d5a68330&format=webp&quality=80 833w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=624&height=406&v=1dd2594d5a68330&format=webp&quality=80 624w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=1249&height=813&v=1dd2594d5a68330&format=jpg&quality=80 1249w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=833&height=542&v=1dd2594d5a68330&format=jpg&quality=80 833w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=624&height=406&v=1dd2594d5a68330&format=jpg&quality=80 624w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=600&height=500&v=1dd2594d5a68330&format=webp&quality=80 600w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=400&height=317&v=1dd2594d5a68330&format=webp&quality=80 400w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=300&height=278&v=1dd2594d5a68330&format=webp&quality=80 300w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=600&height=500&v=1dd2594d5a68330&format=jpg&quality=80 600w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=400&height=317&v=1dd2594d5a68330&format=jpg&quality=80 400w,/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=300&height=278&v=1dd2594d5a68330&format=jpg&quality=80 300w" type="image/jpg"><source data-srcset="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=2175&height=950&v=1dd2594d5a68330&format=webp&quality=80" type="image/webp"><img class=""/ data-src="/media/xi5dko5d/koncertvaelger_backstage_2550x1275.jpg?rxy=0.4999994501724259,0.28852252713513815&width=2175&height=950&v=1dd2594d5a68330&format=jpg&quality=80"/ alt="Frederik Cilius og Rasmus Bruun bladrer i DR Symfoniorkestrets sæsonbrochure"></picture>                                    </div>
+                        </div>
+                    </div>
+                </div>
+                <figcaption class="short-content__credit" data-credit-container>
+                </figcaption>
+            </div>
+            <div class="short-content__text-container">
+<h3 class="headline--xsmall">Koncertvælger</h3>                <p class="text">
+                    Svar p&#229; 8 hurtige sp&#248;rgsm&#229;l i vores koncertv&#230;lger, og find dit perfekte koncertmatch med DR Symfoniorkestret.
+                </p>
+
+
+<div class="btn " >Prøv nu</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</a>
+
+
+
+<a class="short-content__page-container page-container" id="" href="/ensembler/dr-symfoniorkestret/klassisk-fredag/" target="">
+<div class="content-container">
+    <div class="container">
+        <div class="short-content short-content--right short-content--White" >
+            <div class="short-content__image-container">
+                <div class="short-content__image-container__swiper">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                                    <div class="swiper-slide" data-credit-text="">
+<picture class="lazy"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=1249&height=813&v=1dd258e8c734050&format=webp&quality=80 1249w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=833&height=542&v=1dd258e8c734050&format=webp&quality=80 833w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=624&height=406&v=1dd258e8c734050&format=webp&quality=80 624w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=1249&height=813&v=1dd258e8c734050&format=jpg&quality=80 1249w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=833&height=542&v=1dd258e8c734050&format=jpg&quality=80 833w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=624&height=406&v=1dd258e8c734050&format=jpg&quality=80 624w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=600&height=500&v=1dd258e8c734050&format=webp&quality=80 600w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=400&height=317&v=1dd258e8c734050&format=webp&quality=80 400w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=300&height=278&v=1dd258e8c734050&format=webp&quality=80 300w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=600&height=500&v=1dd258e8c734050&format=jpg&quality=80 600w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=400&height=317&v=1dd258e8c734050&format=jpg&quality=80 400w,/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=300&height=278&v=1dd258e8c734050&format=jpg&quality=80 300w" type="image/jpg"><source data-srcset="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=2175&height=950&v=1dd258e8c734050&format=webp&quality=80" type="image/webp"><img class=""/ data-src="/media/t2ap23js/klassisk-fredag_gaardhave_2550x1275.jpg?rxy=0.49987954476441904,0.36722340413665233&width=2175&height=950&v=1dd258e8c734050&format=jpg&quality=80"/ alt="Frederik Cilius og Rasmus Bruun med et glas bobler i hånanden"></picture>                                    </div>
+                        </div>
+                    </div>
+                </div>
+                <figcaption class="short-content__credit" data-credit-container>
+                </figcaption>
+            </div>
+            <div class="short-content__text-container">
+<h3 class="headline--xsmall">Klassisk fredag</h3>                <p class="text">
+                    Kom til klassisk fredag i DR Koncerthuset. Oplev storsl&#229;ede v&#230;rker og en stemning, der g&#229;r lige i hjertet.<br /><br />F&#229; koncerter i kalenderen, du ikke vil g&#229; glip af.
+                </p>
+
+
+<div class="btn " >Udforsk nu</div>
+
+            </div>
+        </div>
+    </div>
+</div>
+</a>
+
+</div>
+
+        </div>
+    </div>
+</div>
+
+
+
+
+<div class="grouped-section grouped-section--has-title   page-container 
+        "
+     style="
+            " data-sticky-sidebar-content="{&quot;btnText&quot;:&quot;L\u00E6s mere om Restaurant KLANG&quot;,&quot;href&quot;:&quot;/dit-besoeg/mad-og-drikke/restaurant-klang/&quot;,&quot;size&quot;:&quot;Small&quot;,&quot;color&quot;:&quot;#000&quot;,&quot;isEnsemble&quot;:false,&quot;ensembleLink&quot;:null,&quot;ensembleText&quot;:&quot;Bes\u00F8g&quot;,&quot;ensembleImageUrl&quot;:null,&quot;ensembleLogoUrl&quot;:null,&quot;logoInOneLine&quot;:false}">
+    <div class="content-container">
+        <div class="container">
+            <img id="preloadwat" style="display: none;">
+<h2 class="headline--large grouped-section__headline" data-component="fit-text" data-component-args='{"minFontSize": 25}'>Mad og Drikke</h2>        </div>
+    </div>
+    <div class="content-container grouped-section__content-container " style="background-color: #f2f2f2; color: inherit;">
+        <div class="container" id="sticky-target-40239f82-2d15-4dc9-9f3b-d4763f5fc7cf">
+            <div class="umb-block-list">
+
+
+<a class="short-content__page-container page-container" id="" href="/dit-besoeg/mad-og-drikke/restaurant-klang/" target="">
+<div class="content-container">
+    <div class="container">
+        <div class="short-content short-content--right short-content--White" >
+            <div class="short-content__image-container">
+                <div class="short-content__image-container__swiper">
+                    <div class="swiper-container">
+                        <div class="swiper-wrapper">
+                                    <div class="swiper-slide" data-credit-text="">
+<picture class="lazy"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=1249&height=813&v=1dbfbd9bb5ad9d0&format=webp&quality=80 1249w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=833&height=542&v=1dbfbd9bb5ad9d0&format=webp&quality=80 833w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=624&height=406&v=1dbfbd9bb5ad9d0&format=webp&quality=80 624w" type="image/webp"><source media="(orientation: landscape)" sizes="(min-width: 1837px) 1400px, 100vw" data-srcset="/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=1249&height=813&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 1249w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=833&height=542&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 833w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=624&height=406&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 624w" type="image/jpg"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=600&height=500&v=1dbfbd9bb5ad9d0&format=webp&quality=80 600w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=400&height=317&v=1dbfbd9bb5ad9d0&format=webp&quality=80 400w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=300&height=278&v=1dbfbd9bb5ad9d0&format=webp&quality=80 300w" type="image/webp"><source media="(orientation: portrait)" sizes="100vw" data-srcset="/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=600&height=500&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 600w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=400&height=317&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 400w,/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?width=300&height=278&v=1dbfbd9bb5ad9d0&format=jpg&quality=80 300w" type="image/jpg"><source data-srcset="/media/rp1o0ouu/restaurant-klang-treretters-menu-ved-opstillede-borde-meyers-x-drkh.jpg?widt
+<!-- TRIMMED BY recon.mjs -->

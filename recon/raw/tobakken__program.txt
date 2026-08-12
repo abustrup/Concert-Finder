@@ -1,0 +1,1069 @@
+
+<!DOCTYPE html>
+<html lang="da-DK">
+  <head>
+    <style>
+      :root {       
+        /* Header colors*/
+        --header-background-color:;--header-background-color-scroll:#817c44;--header-dropdown-background-color:#817c44;--header-mobile-background-color:#817c44;--header-border-color:#ededed;--header-burger-color:#000000;--header-burger-color-scroll:#000000;--header-burger-color-open:#000000;--header-icon-color:#000000;--header-icon-color-scroll:#000000;--header-icon-color-open:#000000;--header-basket-bg-circle:#000000;--header-basket-bg-circle-scroll:#000000;--header-basket-bg-circle-open:#000000;--header-basket-tx-circle:#817c44;--header-basket-tx-circle-scroll:#817c44;--header-basket-tx-circle-open:#817c44;        /* Footer colors*/
+        --footer-text-color: #fff;
+        --footer-header-color: #fff;
+        --footer-link-color: #fff;
+        --footer-hover-link-color: #00dcfe;
+        --footer-background-color: #000000;
+        /* Breakpoints*/
+        --breakpoints-padding: 100px;
+        /* Bwps style variables*/
+        --bwps-image-height: 250px;
+        --bwps-image-overlay: rgba(21,40,75,0.7);
+        --bwps-bg-color: rgba(0, 0, 0, 0);
+        --bwps-overlay-text-color: #fff;
+        --bwps-grid-gap: 30px;
+        /* Colors */
+        --load-color: #fff;
+        --primary-color:#817c44;--secondary-color:#00dcfe;--third-color:#ffafff;--fourth-color:#000000;--black:#000000;--dark:#231f20;--dark-grey:#505050;--light-grey:#aeb4bc;--lighter-grey:#eaebee;--white:#fff;--background-color:#817c44;--ticketstatus-few-color:#000000;--ticketstatus-soldout-color:#000000;--ticketstatus-custom-color:#231f20;        /* Category colors */
+         --andet-color:rgba(0, 0, 0, 0); --blues-color:rgba(0, 0, 0, 0); --elektronisk-color:rgba(0, 0, 0, 0); --event-categories-color:rgba(0, 0, 0, 0); --folk-country-color:rgba(0, 0, 0, 0); --hiohop-color:rgba(0, 0, 0, 0); --indie-color:rgba(0, 0, 0, 0); --jazz-color:rgba(0, 0, 0, 0); --metal-color:rgba(0, 0, 0, 0); --pop-color:rgba(0, 0, 0, 0); --punk-color:rgba(0, 0, 0, 0); --rb-soul-color:rgba(0, 0, 0, 0); --rock-color:rgba(0, 0, 0, 0); --singer-songwriter-color:rgba(0, 0, 0, 0); --tilflytter-color:rgba(0, 0, 0, 0); --uncategorized-color:rgba(0, 0, 0, 0);
+        /* Message colors */
+        --message-primary-text-color: #fff;
+        --message-primary-background-color: rgba(21,40,75,1);
+
+        /* Texts */
+        --h1-color:#000000;--h1-size:616px;--h1-max-width:100%;--h1-margin-top:10px;--h1-margin-bottom:5px;--h1-align:left;--h1-transform:none;--h1-weight:700;--h2-color:#000000;--h2-size:150px;--h2-max-width:100%;--h2-margin-top:10px;--h2-margin-bottom:0px;--h2-align:left;--h2-transform:none;--h2-weight:700;--h3-color:#000000;--h3-size:90px;--h3-max-width:100%;--h3-margin-top:10px;--h3-margin-bottom:5px;--h3-align:left;--h3-transform:none;--h3-weight:700;--h4-color:#000000;--h4-size:64px;--h4-max-width:100%;--h4-margin-top:10px;--h4-margin-bottom:5px;--h4-align:left;--h4-transform:none;--h4-weight:700;--h5-color:#000000;--h5-size:50px;--h5-max-width:100%;--h5-margin-top:10px;--h5-margin-bottom:5px;--h5-align:left;--h5-transform:none;--h5-weight:700;--h6-color:#000000;--h6-size:28px;--h6-max-width:100%;--h6-margin-top:10px;--h6-margin-bottom:5px;--h6-align:left;--h6-transform:none;--h6-weight:400;--p-color:#000000;--p-size:22px;--p-max-width:100%;--p-margin-top:10px;--p-margin-bottom:10px;--p-align:left;--p-transform:initial;--p-weight:400;--li-color:#000000;--li-size:22px;--li-max-width:100%;--li-margin-top:10px;--li-margin-bottom:10px;--li-align:left;--li-transform:initial;--li-weight:400;--label-color:#000000;--label-size:22px;--label-max-width:100%;--label-margin-top:10px;--label-margin-bottom:10px;--label-align:left;--label-transform:initial;--label-weight:400;--a-color:#000000;--a-size:22px;--a-max-width:100%;--a-margin-top:5px;--a-margin-bottom:5px;--a-align:left;--a-transform:initial;--a-weight:400;--a-color-hover:#111;--a-weight-hover:400;--a-translate-y-hover:px;--nav-pri-color:#000000;--nav-pri-size:50px;--nav-pri-max-width:100%;--nav-pri-margin-top:px;--nav-pri-margin-bottom:px;--nav-pri-align:left;--nav-pri-transform:initial;--nav-pri-weight:700;--nav-pri-color-hover:#111;--nav-pri-weight-hover:700;--nav-pri-translate-y-hover:0px;--nav-pri-color-scroll:#ffffff;--nav-pri-color-hover-scroll:#ffffff;--nav-pri-drop-color:#484848;--nav-pri-drop-size:80px;--nav-pri-drop-max-width:100%;--nav-pri-drop-margin-top:px;--nav-pri-drop-margin-bottom:px;--nav-pri-drop-align:left;--nav-pri-drop-transform:capitalize;--nav-pri-drop-weight:400;--nav-pri-drop-color-hover:#111;--nav-pri-drop-weight-hover:400;--nav-pri-drop-translate-y-hover:px;--nav-pri-drop-color-bg:;--nav-pri-drop-color-bg-hover:;--nav-sec-color:#484848;--nav-sec-size:11px;--nav-sec-max-width:100%;--nav-sec-margin-top:px;--nav-sec-margin-bottom:px;--nav-sec-align:left;--nav-sec-transform:capitalize;--nav-sec-weight:300;--nav-sec-color-hover:#111;--nav-sec-weight-hover:300;--nav-sec-translate-y-hover:-3px;--nav-sec-color-scroll:#484848;--nav-sec-color-hover-scroll:#111;--nav-sec-drop-color:#484848;--nav-sec-drop-size:11px;--nav-sec-drop-max-width:100%;--nav-sec-drop-margin-top:px;--nav-sec-drop-margin-bottom:px;--nav-sec-drop-align:left;--nav-sec-drop-transform:capitalize;--nav-sec-drop-weight:300;--nav-sec-drop-color-hover:#111;--nav-sec-drop-weight-hover:300;--nav-sec-drop-translate-y-hover:px;--nav-sec-drop-color-bg:;--nav-sec-drop-color-bg-hover:;--title-color:#ffffff;--title-size:36px;--title-max-width:100%;--title-margin-top:0px;--title-margin-bottom:0px;--title-align:left;--title-transform:initial;--title-weight:700;--location-color:#484848;--location-size:13px;--location-max-width:100%;--location-margin-top:10px;--location-margin-bottom:5px;--location-align:left;--location-transform:uppercase;--location-weight:400;--date-color:#ffffff;--date-size:36px;--date-max-width:100%;--date-margin-top:0px;--date-margin-bottom:0px;--date-align:left;--date-transform:initial;--date-weight:700;
+        /* Buttons */
+        --primary-bg-color:#00dcfe;--primary-text-color:#000000;--primary-text-size:30px;--primary-text-weight:700;--primary-line-height:30px;--primary-border-color:#00dcfe;--primary-border-width:0px;--primary-border-radius:30px;--primary-padding-left:40px;--primary-padding-right:40px;--primary-padding-top:12px;--primary-padding-bottom:12px;--primary-hover-bg-color:#00dcfe;--primary-hover-border-color:#00dcfe;--primary-hover-text-color:#000000;--secondary-bg-color:#817c44;--secondary-text-color:#ffffff;--secondary-text-size:30px;--secondary-text-weight:700;--secondary-line-height:30px;--secondary-border-color:#817c44;--secondary-border-width:0px;--secondary-border-radius:30px;--secondary-padding-left:40px;--secondary-padding-right:40px;--secondary-padding-top:12px;--secondary-padding-bottom:12px;--secondary-hover-bg-color:#817c44;--secondary-hover-border-color:#817c44;--secondary-hover-text-color:#ffffff;--tertiary-bg-color:#ffafff;--tertiary-text-color:#000000;--tertiary-text-size:30px;--tertiary-text-weight:700;--tertiary-line-height:30px;--tertiary-border-color:#ffafff;--tertiary-border-width:0px;--tertiary-border-radius:30px;--tertiary-padding-left:40px;--tertiary-padding-right:40px;--tertiary-padding-top:12px;--tertiary-padding-bottom:12px;--tertiary-hover-bg-color:#ffafff;--tertiary-hover-border-color:#ffafff;--tertiary-hover-text-color:#000000;--quaternary-bg-color:#aeb4bc;--quaternary-text-color:#ffffff;--quaternary-text-size:30px;--quaternary-text-weight:700;--quaternary-line-height:30px;--quaternary-border-color:#aeb4bc;--quaternary-border-width:0px;--quaternary-border-radius:30px;--quaternary-padding-left:40px;--quaternary-padding-right:40px;--quaternary-padding-top:12px;--quaternary-padding-bottom:12px;--quaternary-hover-bg-color:#aeb4bc;--quaternary-hover-border-color:#aeb4bc;--quaternary-hover-text-color:#ffffff;--pag-btn-bg-color:rgba(21,40,75,0);--pag-btn-text-color:#484848;--pag-btn-text-size:25px;--pag-btn-text-weight:300;--pag-btn-line-height:20px;--pag-btn-border-color:rgba(21,40,75,0);--pag-btn-border-width:1px;--pag-btn-border-radius:4px;--pag-btn-padding-left:px;--pag-btn-padding-right:px;--pag-btn-padding-top:3px;--pag-btn-padding-bottom:8px;--pag-btn-hover-bg-color:#f1f1f1;--pag-btn-hover-border-color:rgba(21,40,75,0);--pag-btn-hover-text-color:#484848;--pag-number-bg-color:rgba(21,40,75,0);--pag-number-text-color:#484848;--pag-number-text-size:15px;--pag-number-text-weight:300;--pag-number-line-height:13px;--pag-number-border-color:rgba(21,40,75,0);--pag-number-border-width:1px;--pag-number-border-radius:4px;--pag-number-padding-left:5px;--pag-number-padding-right:5px;--pag-number-padding-top:5px;--pag-number-padding-bottom:5px;--pag-number-hover-bg-color:#f1f1f1;--pag-number-hover-border-color:rgba(21,40,75,0);--pag-number-hover-text-color:#484848;--add-to-calender-bg-color:rgba(21,40,75,0);--add-to-calender-text-color:rgba(21,40,75,1);--add-to-calender-text-size:15px;--add-to-calender-text-weight:300;--add-to-calender-line-height:15px;--add-to-calender-border-color:rgba(21,40,75,1);--add-to-calender-border-width:1px;--add-to-calender-border-radius:2px;--add-to-calender-padding-left:30px;--add-to-calender-padding-right:30px;--add-to-calender-padding-top:10px;--add-to-calender-padding-bottom:10px;--add-to-calender-hover-bg-color:rgba(21,40,75,1);--add-to-calender-hover-border-color:rgba(21,40,75,1);--add-to-calender-hover-text-color:#fff;--filter-btn-bg-color:#7a753e;--filter-btn-text-color:#000000;--filter-btn-text-size:30px;--filter-btn-text-weight:700;--filter-btn-line-height:30px;--filter-btn-border-color:#7a753e;--filter-btn-border-width:0px;--filter-btn-border-radius:30px;--filter-btn-padding-left:40px;--filter-btn-padding-right:40px;--filter-btn-padding-top:12px;--filter-btn-padding-bottom:12px;--filter-btn-hover-bg-color:#7a753e;--filter-btn-hover-border-color:#7a753e;--filter-btn-hover-text-color:#000000;      }
+      /* Category colors */
+       .andet{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .blues{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .elektronisk{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .event-categories{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .folk-country{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .hiohop{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .indie{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .jazz{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .metal{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .pop{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .punk{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .rb-soul{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .rock{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .singer-songwriter{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .tilflytter{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .uncategorized{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;}    </style>
+    <!-- Add head links here -->
+          <!-- Google Tag Manager -->
+      <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })
+        (window,document,'script','dataLayer','GTM-MQ26MDRG');
+      </script>
+      <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Program - Tobakken</title>
+	<link rel="canonical" href="https://tobakken.dk/program/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Program - Tobakken" />
+	<meta property="og:url" content="https://tobakken.dk/program/" />
+	<meta property="og:site_name" content="Tobakken" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/tobakken.dk\/program\/","url":"https:\/\/tobakken.dk\/program\/","name":"Program - Tobakken","isPartOf":{"@id":"https:\/\/tobakken.dk\/#website"},"primaryImageOfPage":{"@id":"https:\/\/tobakken.dk\/program\/#primaryimage"},"image":{"@id":"https:\/\/tobakken.dk\/program\/#primaryimage"},"thumbnailUrl":"https:\/\/tobakken.dk\/wp-content\/uploads\/2026\/07\/Oelsmagning-1.png","breadcrumb":{"@id":"https:\/\/tobakken.dk\/program\/#breadcrumb"},"inLanguage":"da-DK"},{"@type":"ImageObject","inLanguage":"da-DK","@id":"https:\/\/tobakken.dk\/program\/#primaryimage","url":"https:\/\/tobakken.dk\/wp-content\/uploads\/2026\/07\/Oelsmagning-1.png","contentUrl":"https:\/\/tobakken.dk\/wp-content\/uploads\/2026\/07\/Oelsmagning-1.png","width":1080,"height":1350},{"@type":"BreadcrumbList","@id":"https:\/\/tobakken.dk\/program\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem","item":"https:\/\/tobakken.dk\/"},{"@type":"ListItem","position":2,"name":"Billetten Events"}]},{"@type":"WebSite","@id":"https:\/\/tobakken.dk\/#website","url":"https:\/\/tobakken.dk\/","name":"Tobakken","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/tobakken.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//tobakken.billetten.dk' />
+<link rel="alternate" type="application/rss+xml" title="Tobakken &raquo; Billetten Events Feed" href="https://tobakken.dk/program/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://tobakken.dk/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://tobakken.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://tobakken.dk/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id="wp-block-quote-inline-css">
+.wp-block-quote{box-sizing:border-box;overflow-wrap:break-word}.wp-block-quote.is-large:where(:not(.is-style-plain)),.wp-block-quote.is-style-large:where(:not(.is-style-plain)){margin-bottom:1em;padding:0 1em}.wp-block-quote.is-large:where(:not(.is-style-plain)) p,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) p{font-size:1.5em;font-style:italic;line-height:1.6}.wp-block-quote.is-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-large:where(:not(.is-style-plain)) footer,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) footer{font-size:1.125em;text-align:right}.wp-block-quote>cite{display:block}
+/*# sourceURL=https://tobakken.dk/wp-includes/blocks/quote/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://tobakken.dk/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='xooom_parent_theme/main.css-css' href='https://tobakken.dk/wp-content/themes/wordpress_parent-template/dist/styles/main.css?id=4e49e4f4b39fa3a7d1c92c8df9eaf47a' media='all' />
+<link rel='stylesheet' id='xooom_child_theme/app.css-css' href='https://tobakken.dk/wp-content/themes/wordpress_mhe/dist/styles/app.css?id=5c37330674d38cd415cf504bb5bfeecf' media='all' />
+<link rel='stylesheet' id='bwps-basm-style-css' href='https://tobakken.billetten.dk/basm/css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://tobakken.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://tobakken.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="bwps-basm-script-js" src="https://tobakken.billetten.dk/basm/sbasm-script?ver=7.0.4"></script>
+<script id="bwps-basm-addon-script-js" src="https://tobakken.dk/wp-content/plugins/bwps/BWPS/../assets/js/basm/addon.js?ver=7.0.4"></script>
+<link rel="https://api.w.org/" href="https://tobakken.dk/wp-json/" /><link rel="icon" href="https://tobakken.dk/wp-content/uploads/2024/05/cropped-fav-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tobakken.dk/wp-content/uploads/2024/05/cropped-fav-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tobakken.dk/wp-content/uploads/2024/05/cropped-fav-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tobakken.dk/wp-content/uploads/2024/05/cropped-fav-270x270.png" />
+<style id="wp-custom-css">
+@media (max-width: 1024px) {
+	.frontpage-hero-slider {
+		overflow: hidden;
+	}
+}
+</style>
+  <style id="core-block-supports-inline-css">
+.wp-elements-5e7af6863fb39d3323d1675f901e1808 a:where(:not(.wp-element-button)){color:#00dcfe;}.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+
+</head>
+
+  <body class="archive post-type-archive post-type-archive-bwps wp-embed-responsive wp-theme-wordpress_parent-template wp-child-theme-wordpress_mhe" data-loader="wrapper">
+    
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MQ26MDRG" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+            
+    <header id="navigation" class="banner fixed zero top four background-color--default">
+    <div class="container-md four" type="header" role="document">
+    <div class="row justify-content-between g-0" style="min-width: 100%; padding: 15px 0;">
+            <div class="col-sm-10 justify-content-start d-flex">
+                                    <div class="nav_container"><ul id="menu-primaer-menu" class="nav_four"><li id="menu-item-2028" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home hover-color--black menu-item-2028"><a href="https://tobakken.dk/">Forside</a></li>
+<li id="menu-item-654" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item hover-color--black menu-item-654"><a href="/program" aria-current="page">Program</a></li>
+<li id="menu-item-1842" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--secondary menu-item-1842"><a href="#">Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-1724" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1724"><a href="https://tobakken.dk/dit-besoeg/dit-besog/">Dit besøg</a></li>
+	<li id="menu-item-2804" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2804"><a href="https://tobakken.dk/billetter/">Billetter</a></li>
+	<li id="menu-item-1729" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1729"><a href="https://tobakken.dk/tobakken/lej-tobakken/">Møder og konferencer</a></li>
+	<li id="menu-item-2776" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2776"><a href="https://tobakken.dk/dit-besoeg/nyhedsbrev/">Nyhedsbrev</a></li>
+	<li id="menu-item-1723" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1723"><a href="https://tobakken.dk/dit-besoeg/presse/">Presse</a></li>
+	<li id="menu-item-1732" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1732"><a href="https://tobakken.dk/tobakken/scener/">Scener</a></li>
+</ul>
+</li>
+<li id="menu-item-1917" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--third menu-item-1917"><a href="#">Om Tobakken</a>
+<ul class="sub-menu">
+	<li id="menu-item-1733" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1733"><a href="https://tobakken.dk/tobakken/mission/">Mission</a></li>
+	<li id="menu-item-1727" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1727"><a href="https://tobakken.dk/tobakken/samarbejde/">Samarbejde</a></li>
+	<li id="menu-item-2026" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent hover-color--black menu-item-2026"><a href="https://tobakken.dk/nyheder/">Nyheder</a></li>
+	<li id="menu-item-1731" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1731"><a href="https://tobakken.dk/tobakken/partnere/">Tak for støtten</a></li>
+	<li id="menu-item-1728" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1728"><a href="https://tobakken.dk/tobakken/ledige-stillinger/">Ledige stillinger</a></li>
+	<li id="menu-item-1725" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1725"><a href="https://tobakken.dk/dit-besoeg/kontakt/">Kontakt</a></li>
+</ul>
+</li>
+<li id="menu-item-2195" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2195"><a href="https://tobakken.dk/gavekort-til-tobakken/">Gavekort</a></li>
+</ul></div>
+                            </div>
+            <div class="col-sm-2 justify-content-end">
+                <nav class="nav-primary_four right">
+                    <ul class="nav_icon_menu">
+    <li>
+        <a class="search_trigger search-modal-btn" href="#">
+            <svg width="38" height="37" viewBox="0 0 38 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M23.1666 25.1076C18.0499 29.1869 10.5601 28.8658 5.81692 24.1445C0.727692 19.0786 0.727692 10.8652 5.81692 5.79939C10.9062 0.733537 19.1574 0.733538 24.2467 5.79939C28.9898 10.5207 29.3124 17.9761 25.2143 23.0693L34.9237 32.766L32.876 34.8044L23.1666 25.1076ZM7.8635 7.83827C3.90521 11.7784 3.90521 18.1666 7.8635 22.1067C11.8189 26.0439 18.23 26.0468 22.189 22.1153L22.1977 22.1066L22.2065 22.098C26.156 18.1572 26.1531 11.7755 22.1977 7.83827C18.2394 3.89817 11.8218 3.89817 7.8635 7.83827Z" fill="black"/>
+                <path d="M5.81692 24.1445L4.75871 25.2076L5.81692 24.1445ZM23.1666 25.1076L24.2265 24.0463L23.2788 23.0998L22.2315 23.9348L23.1666 25.1076ZM5.81692 5.79939L6.87514 6.86249L5.81692 5.79939ZM24.2467 5.79939L25.3049 4.73629L24.2467 5.79939ZM25.2143 23.0693L24.0456 22.129L23.2011 23.1786L24.1543 24.1307L25.2143 23.0693ZM34.9237 32.766L35.982 33.8291L37.0482 32.7678L35.9837 31.7047L34.9237 32.766ZM32.876 34.8044L31.816 35.8657L32.8743 36.9225L33.9342 35.8675L32.876 34.8044ZM7.8635 22.1067L6.80528 23.1698H6.80528L7.8635 22.1067ZM7.8635 7.83827L8.92172 8.90137H8.92172L7.8635 7.83827ZM22.189 22.1153L23.246 23.1797L23.2516 23.1741L22.189 22.1153ZM22.1977 22.1066L21.1439 21.0391L21.1352 21.0478L22.1977 22.1066ZM22.2065 22.098L23.2602 23.1655L23.2659 23.1598L22.2065 22.098ZM22.1977 7.83827L23.256 6.77518L22.1977 7.83827ZM22.1989 22.1061L21.145 21.0386L21.1364 21.0473L22.1989 22.1061ZM23.2615 23.1648C23.851 22.5828 23.8571 21.6331 23.275 21.0435C22.693 20.454 21.7432 20.448 21.1537 21.03L23.2615 23.1648ZM21.1277 21.056C20.5429 21.6428 20.5446 22.5925 21.1314 23.1773C21.7182 23.7621 22.668 23.7604 23.2527 23.1736L21.1277 21.056ZM4.75871 25.2076C10.0483 30.4729 18.3961 30.8292 24.1016 26.2805L22.2315 23.9348C17.7036 27.5446 11.0718 27.2588 6.87514 23.0814L4.75871 25.2076ZM4.75871 4.73629C-0.919569 10.3885 -0.919569 19.5554 4.75871 25.2076L6.87514 23.0814C2.37495 18.6018 2.37495 11.342 6.87514 6.86249L4.75871 4.73629ZM25.3049 4.73629C19.6304 -0.912096 10.4332 -0.912097 4.75871 4.73629L6.87514 6.86249C11.3791 2.37917 18.6844 2.37917 23.1884 6.86249L25.3049 4.73629ZM26.383 24.0096C30.957 18.3248 30.5974 10.0045 25.3049 4.73629L23.1884 6.86249C27.3822 11.037 27.6677 17.6274 24.0456 22.129L26.383 24.0096ZM35.9837 31.7047L26.2743 22.0079L24.1543 24.1307L33.8638 33.8274L35.9837 31.7047ZM33.9342 35.8675L35.982 33.8291L33.8655 31.7029L31.8178 33.7413L33.9342 35.8675ZM22.1066 26.169L31.816 35.8657L33.936 33.743L24.2265 24.0463L22.1066 26.169ZM8.92172 21.0436C5.55247 17.6898 5.55247 12.2551 8.92172 8.90137L6.80528 6.77518C2.25795 11.3016 2.25795 18.6433 6.80528 23.1698L8.92172 21.0436ZM21.1321 21.051C17.7584 24.4011 12.2923 24.3987 8.92172 21.0436L6.80528 23.1698C11.3455 27.6891 18.7016 27.6924 23.246 23.1797L21.1321 21.051ZM21.1352 21.0478L21.1265 21.0565L23.2516 23.1741L23.2602 23.1654L21.1352 21.0478ZM21.1527 21.0305L21.1439 21.0391L23.2515 23.1741L23.2602 23.1655L21.1527 21.0305ZM21.1395 8.90137C24.5063 12.2527 24.5088 17.6818 21.147 21.0361L23.2659 23.1598C27.8033 18.6325 27.8 11.2983 23.256 6.77518L21.1395 8.90137ZM8.92172 8.90137C12.2948 5.5438 17.7665 5.5438 21.1395 8.90137L23.256 6.77518C18.7124 2.25254 11.3488 2.25253 6.80528 6.77518L8.92172 8.90137ZM23.2528 23.1735L23.2615 23.1648L21.1537 21.03L21.145 21.0387L23.2528 23.1735ZM23.2527 23.1736L23.2614 23.1649L21.1364 21.0473L21.1277 21.056L23.2527 23.1736Z" fill="black"/>
+            </svg>
+        </a>
+    </li>
+    <li>
+        <a class="user_link basm basm_profile_btn" href="#">
+            <svg width="36" height="37" viewBox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="18" cy="11" r="8" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M32 33C31.1126 15.6667 4.88737 15.6667 4 33" stroke="black" stroke-width="6" stroke-linecap="square" stroke-linejoin="round"/>
+            </svg>
+
+        </a>
+    </li>
+    <li class="basket_link basm basm_basket_btn" href="#">
+        <svg width="34" height="38" viewBox="0 0 34 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="3" y="13" width="28" height="22" stroke="black" stroke-width="6" stroke-linecap="round"/>
+            <path d="M9 11C9 6.58172 12.3579 3 16.5 3C20.6421 3 24 6.58172 24 11" stroke="black" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="basm basm_basket_indicator">
+            <span class="basm basm_basket_count">0</span>
+        </span>
+    </li>
+</ul>                    <div class="nav-primary burger-cn">
+                        <div class="burger-four">
+                            <span></span>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <a class="brand" href="https://tobakken.dk/">
+    <div class="logo">
+    <svg class="logo__desktop" viewBox="0 0 1855 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M141.143 75.3366C127.389 75.3366 120.291 64.9881 120.291 50.1286C120.291 35.2691 127.367 24.9206 141.143 24.9206C154.919 24.9206 161.995 35.2691 161.995 50.1286C161.995 64.9881 154.897 75.3366 141.143 75.3366ZM141.143 100.257C171.658 100.257 191.271 79.5601 191.271 50.1286C191.271 20.6971 171.68 0 141.143 0C110.606 0 91.0143 20.6971 91.0143 50.1286C91.0143 79.5601 110.628 100.257 141.143 100.257ZM90.3288 2.45447H0V27.6625H30.7803V97.8249H59.3937V27.6404H90.3288V2.45447Z" fill="black"/>
+        <path d="M1169.19 2.43164L1145.06 40.1773H1144.66V2.43164H1116.74V97.802H1144.66V75.8666L1155.7 62.5108H1155.96L1174.63 97.802H1208.02L1174.23 40.1773L1205.3 2.43164H1169.19ZM1265.66 2.43164L1241.54 40.1773H1241.14V2.43164H1213.21V97.802H1241.14V75.8666L1252.17 62.5108H1252.44L1271.1 97.802H1304.49L1270.7 40.1773L1301.77 2.43164H1265.66Z" fill="black"/>
+        <path d="M1681.24 2.43164V97.802H1759.72V73.0141H1709.17V61.56H1746.78V37.7229H1709.17V27.2416H1759.72V2.43164H1681.24ZM1828.24 2.43164L1829.33 63.4616H1828.93L1804.41 2.43164H1767.77V97.802H1794.48L1793.39 37.0374H1793.82L1818.07 97.802H1855V2.43164H1828.29H1828.24Z" fill="black"/>
+        <path d="M686.077 60.6095L694.657 29.9618H695.055L703.369 60.6095H686.055H686.077ZM647.513 97.8245H675.574L679.797 82.965H709.361L713.452 97.8245H743.437L714.823 2.4541H676.679L647.513 97.8245ZM605.876 39.2269H590.353V25.6057H605.876C610.785 25.6057 614.19 27.6621 614.19 32.4163C614.19 37.1704 610.785 39.2269 605.876 39.2269ZM609.149 74.6508H590.353V60.7643H609.149C614.588 60.7643 617.595 63.2187 617.595 67.7075C617.595 72.1963 614.588 74.6508 609.149 74.6508ZM562.823 97.8245H610.785C633.804 97.8245 646.894 86.105 646.894 69.8966C646.894 57.6243 638.447 50.4157 626.86 48.2266V47.8286C636.678 44.9761 642.538 37.3473 642.538 27.3968C642.538 12.0066 629.868 2.4541 608.065 2.4541H562.823V97.8245Z" fill="black"/>
+    </svg>
+
+    <svg class="logo__mobile" viewBox="0 0 352 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M47.8783 26.0184C43.2095 26.0184 40.808 22.5063 40.808 17.4687C40.808 12.4311 43.2095 8.91904 47.8783 8.91904C52.5471 8.91904 54.9485 12.4311 54.9485 17.4687C54.9485 22.5063 52.5429 26.0184 47.8783 26.0184ZM47.8783 34.4759C58.2301 34.4759 64.8855 27.4518 64.8855 17.4687C64.8855 7.48571 58.2301 0.461548 47.8783 0.461548C37.5265 0.461548 30.8711 7.48571 30.8711 17.4687C30.8711 27.4518 37.5265 34.4759 47.8783 34.4759ZM30.6406 1.29556H0V9.84526H10.444V33.6461H20.1505V9.84107H30.6406V1.29556Z" fill="black"/>
+        <path d="M213.613 1.29567L205.432 14.0951H205.293V1.29567H195.818V33.6462H205.293V26.2071L209.036 21.6766H209.128L215.461 33.6462H226.785L215.327 14.0993L225.863 1.29986H213.617L213.613 1.29567ZM246.336 1.29567L238.155 14.0951H238.017V1.29567H228.545V33.6462H238.017V26.2071L241.76 21.6766H241.852L248.184 33.6462H259.509L248.046 14.0993L258.582 1.29986H246.336V1.29567Z" fill="black"/>
+        <path d="M293.078 1.29567V33.6462H319.7V25.2348H302.554V21.3539H315.308V13.2652H302.554V9.70706H319.7V1.29567H293.078ZM342.943 1.29567L343.312 21.9993H343.174L334.855 1.29567H322.424V33.6462H331.481L331.112 13.0347H331.25L339.477 33.6462H352V1.29567H342.943Z" fill="black"/>
+        <path d="M142.671 21.0271L145.584 10.6292H145.722L148.539 21.0271H142.671ZM129.595 33.6421H139.117L140.55 28.6045H150.58L151.967 33.6421H162.134L152.428 1.29157H139.49L129.599 33.6421H129.595ZM115.467 13.7725H110.199V9.14975H115.467C117.131 9.14975 118.284 9.84546 118.284 11.459C118.284 13.0725 117.131 13.7683 115.467 13.7683M116.578 25.7881H110.199V21.0732H116.578C118.426 21.0732 119.444 21.903 119.444 23.4286C119.444 24.9541 118.426 25.7839 116.578 25.7839M100.861 33.6421H117.127C124.939 33.6421 129.373 29.669 129.373 24.1662C129.373 20.0087 126.506 17.5569 122.579 16.8193V16.681C125.907 15.7087 127.894 13.1228 127.894 9.74906C127.894 4.52705 123.598 1.29157 116.201 1.29157H100.857V33.6421H100.861Z" fill="black"/>
+    </svg>
+</div></a>            <div class="mobile">
+                                    <div class="nav_container"><ul id="menu-primaer-menu-1" class="nav_four"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home hover-color--black menu-item-2028"><a href="https://tobakken.dk/">Forside</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item hover-color--black menu-item-654"><a href="/program" aria-current="page">Program</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--secondary menu-item-1842"><a href="#">Info</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1724"><a href="https://tobakken.dk/dit-besoeg/dit-besog/">Dit besøg</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2804"><a href="https://tobakken.dk/billetter/">Billetter</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1729"><a href="https://tobakken.dk/tobakken/lej-tobakken/">Møder og konferencer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2776"><a href="https://tobakken.dk/dit-besoeg/nyhedsbrev/">Nyhedsbrev</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1723"><a href="https://tobakken.dk/dit-besoeg/presse/">Presse</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1732"><a href="https://tobakken.dk/tobakken/scener/">Scener</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--third menu-item-1917"><a href="#">Om Tobakken</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1733"><a href="https://tobakken.dk/tobakken/mission/">Mission</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1727"><a href="https://tobakken.dk/tobakken/samarbejde/">Samarbejde</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent hover-color--black menu-item-2026"><a href="https://tobakken.dk/nyheder/">Nyheder</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1731"><a href="https://tobakken.dk/tobakken/partnere/">Tak for støtten</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1728"><a href="https://tobakken.dk/tobakken/ledige-stillinger/">Ledige stillinger</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-1725"><a href="https://tobakken.dk/dit-besoeg/kontakt/">Kontakt</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-2195"><a href="https://tobakken.dk/gavekort-til-tobakken/">Gavekort</a></li>
+</ul></div>
+                            </div>
+            <ul class="some-icons list-inline borderless">
+                                                    <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.facebook.com/tobakken.esbjerg" target="_blank" rel="noopener">
+                                                    <svg class="icon-facebook" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M38 19.6183C38 8.7828 29.4943 0 19 0C8.50567 0 0 8.7828 0 19.6183C0 29.4125 6.9464 37.5284 16.0309 39V25.2902H11.2075V19.617H16.0309V15.2958C16.0309 10.3792 18.867 7.6622 23.2079 7.6622C25.2852 7.6622 27.4613 8.0457 27.4613 8.0457V12.8739H25.0635C22.7037 12.8739 21.9691 14.3871 21.9691 15.9393V19.6183H27.2384L26.3961 25.2889H21.9691V39C31.0536 37.5284 38 29.4125 38 19.6183Z" fill="#F2F0EB"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                        <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.instagram.com/tobakkenspillestedet/" target="_blank" rel="noopener">
+                                                    <svg class="icon-instagram" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 36.8 36.8">
+                                <path d="M18.4,0c-5,0-5.6,0-7.6.1-2,0-3.3.4-4.5.9-1.2.5-2.3,1.2-3.3,2.1-.9.9-1.7,2-2.1,3.3-.5,1.2-.8,2.5-.9,4.5,0,2-.1,2.6-.1,7.6s0,5.6.1,7.6c0,2,.4,3.3.9,4.5.5,1.2,1.2,2.3,2.1,3.3.9.9,2,1.7,3.3,2.1,1.2.5,2.5.8,4.5.9,2,0,2.6.1,7.6.1s5.6,0,7.6-.1c2,0,3.3-.4,4.5-.9,1.2-.5,2.3-1.2,3.3-2.1.9-.9,1.7-2,2.1-3.3.5-1.2.8-2.5.9-4.5,0-2,.1-2.6.1-7.6s0-5.6-.1-7.6c0-2-.4-3.3-.9-4.5-.5-1.2-1.2-2.3-2.1-3.3-.9-.9-2-1.7-3.3-2.1-1.2-.5-2.5-.8-4.5-.9-2,0-2.6-.1-7.6-.1ZM18.4,3.3c4.9,0,5.5,0,7.4.1,1.8,0,2.8.4,3.4.6.9.3,1.5.7,2.1,1.4.6.6,1,1.3,1.4,2.1.3.6.6,1.6.6,3.4,0,1.9.1,2.5.1,7.4s0,5.5-.1,7.4c0,1.8-.4,2.8-.6,3.4-.3.8-.8,1.5-1.4,2.1-.6.6-1.3,1.1-2.1,1.4-.6.3-1.6.6-3.4.6-1.9,0-2.5.1-7.4.1s-5.5,0-7.4-.1c-1.8,0-2.8-.4-3.4-.6-.8-.3-1.5-.8-2.1-1.4-.6-.6-1.1-1.3-1.4-2.1-.3-.6-.6-1.6-.6-3.4,0-1.9-.1-2.5-.1-7.4s0-5.5.1-7.4c0-1.8.4-2.8.6-3.4.3-.9.7-1.5,1.4-2.1.6-.6,1.3-1.1,2.1-1.4.6-.3,1.6-.6,3.4-.6,1.9,0,2.5-.1,7.4-.1Z" fill="#f2f0eb" fill-rule="evenodd"/>
+                                <path d="M18.4,24.5c-.8,0-1.6-.2-2.3-.5-.7-.3-1.4-.8-2-1.3-.6-.6-1-1.2-1.3-2-.3-.7-.5-1.5-.5-2.3s.2-1.6.5-2.3.8-1.4,1.3-2c.6-.6,1.2-1,2-1.3.7-.3,1.5-.5,2.3-.5,1.6,0,3.2.6,4.3,1.8,1.1,1.1,1.8,2.7,1.8,4.3s-.6,3.2-1.8,4.3c-1.1,1.1-2.7,1.8-4.3,1.8ZM18.4,8.9c-2.5,0-4.9,1-6.7,2.8-1.8,1.8-2.8,4.2-2.8,6.7s1,4.9,2.8,6.7c1.8,1.8,4.2,2.8,6.7,2.8s4.9-1,6.7-2.8c1.8-1.8,2.8-4.2,2.8-6.7s-1-4.9-2.8-6.7c-1.8-1.8-4.2-2.8-6.7-2.8ZM30.6,8.8c0,.6-.2,1.2-.7,1.6-.4.4-1,.7-1.6.7s-1.2-.2-1.6-.7c-.4-.4-.7-1-.7-1.6s.2-1.2.7-1.6,1-.7,1.6-.7,1.2.2,1.6.7c.4.4.7,1,.7,1.6Z" fill="#f2f0eb" fill-rule="evenodd"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                                                                    <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.youtube.com/@spillestedtobakken/videos" target="_blank" rel="noopener">
+                                                    <svg class="icon-youtube" viewBox="0 0 51 34" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path fill-rule="evenodd" clip-rule="evenodd" d="M45.3697 1.02747C47.5629 1.5879 49.2978 3.2381 49.887 5.32417C50.9673 9.12271 51 17 51 17C51 17 51 24.9084 49.9198 28.6758C49.3306 30.7619 47.5956 32.4121 45.4024 32.9725C41.4416 34 25.5 34 25.5 34C25.5 34 9.55841 34 5.59756 32.9725C3.40436 32.4121 1.66945 30.7619 1.08023 28.6758C0 24.8773 0 17 0 17C0 17 0 9.12271 1.0475 5.35531C1.63671 3.26923 3.37163 1.61905 5.56483 1.05862C9.52568 0.0311279 25.4673 0 25.4673 0C25.4673 0 41.4089 0 45.3697 1.02747ZM33.6181 17L20.3935 24.2857V9.71429L33.6181 17Z" fill="#F2F0EB"/>
+                            </svg>
+                                            </a>
+                </li>
+                            <span class="powered-by">Powered by Billetten A/S</span>
+</ul>        </div>
+</div></header>
+<div class="row search-row search-modal search">
+    <div class="col-12 p-0">
+        <button class="btn search-modal-btn search">✕</button>
+        <div class="container-md">
+            <h4 class="search-header">Søg</h4>
+            <form class="search-form form-inline" action="https://tobakken.dk/" method="get" role="search">
+                <input class="searchInput" type="search" required="" placeholder="Kunstner..." name="s" value="" />
+                
+            </form>
+        </div>
+    </div>
+</div>
+        <main class="main">
+        <div class="container-md" type="default" role="document">
+    <a class="brand" href="https://tobakken.dk/">
+    <div class="logo">
+    <svg class="logo__desktop" viewBox="0 0 1855 101" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M141.143 75.3366C127.389 75.3366 120.291 64.9881 120.291 50.1286C120.291 35.2691 127.367 24.9206 141.143 24.9206C154.919 24.9206 161.995 35.2691 161.995 50.1286C161.995 64.9881 154.897 75.3366 141.143 75.3366ZM141.143 100.257C171.658 100.257 191.271 79.5601 191.271 50.1286C191.271 20.6971 171.68 0 141.143 0C110.606 0 91.0143 20.6971 91.0143 50.1286C91.0143 79.5601 110.628 100.257 141.143 100.257ZM90.3288 2.45447H0V27.6625H30.7803V97.8249H59.3937V27.6404H90.3288V2.45447Z" fill="black"/>
+        <path d="M1169.19 2.43164L1145.06 40.1773H1144.66V2.43164H1116.74V97.802H1144.66V75.8666L1155.7 62.5108H1155.96L1174.63 97.802H1208.02L1174.23 40.1773L1205.3 2.43164H1169.19ZM1265.66 2.43164L1241.54 40.1773H1241.14V2.43164H1213.21V97.802H1241.14V75.8666L1252.17 62.5108H1252.44L1271.1 97.802H1304.49L1270.7 40.1773L1301.77 2.43164H1265.66Z" fill="black"/>
+        <path d="M1681.24 2.43164V97.802H1759.72V73.0141H1709.17V61.56H1746.78V37.7229H1709.17V27.2416H1759.72V2.43164H1681.24ZM1828.24 2.43164L1829.33 63.4616H1828.93L1804.41 2.43164H1767.77V97.802H1794.48L1793.39 37.0374H1793.82L1818.07 97.802H1855V2.43164H1828.29H1828.24Z" fill="black"/>
+        <path d="M686.077 60.6095L694.657 29.9618H695.055L703.369 60.6095H686.055H686.077ZM647.513 97.8245H675.574L679.797 82.965H709.361L713.452 97.8245H743.437L714.823 2.4541H676.679L647.513 97.8245ZM605.876 39.2269H590.353V25.6057H605.876C610.785 25.6057 614.19 27.6621 614.19 32.4163C614.19 37.1704 610.785 39.2269 605.876 39.2269ZM609.149 74.6508H590.353V60.7643H609.149C614.588 60.7643 617.595 63.2187 617.595 67.7075C617.595 72.1963 614.588 74.6508 609.149 74.6508ZM562.823 97.8245H610.785C633.804 97.8245 646.894 86.105 646.894 69.8966C646.894 57.6243 638.447 50.4157 626.86 48.2266V47.8286C636.678 44.9761 642.538 37.3473 642.538 27.3968C642.538 12.0066 629.868 2.4541 608.065 2.4541H562.823V97.8245Z" fill="black"/>
+    </svg>
+
+    <svg class="logo__mobile" viewBox="0 0 352 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M47.8783 26.0184C43.2095 26.0184 40.808 22.5063 40.808 17.4687C40.808 12.4311 43.2095 8.91904 47.8783 8.91904C52.5471 8.91904 54.9485 12.4311 54.9485 17.4687C54.9485 22.5063 52.5429 26.0184 47.8783 26.0184ZM47.8783 34.4759C58.2301 34.4759 64.8855 27.4518 64.8855 17.4687C64.8855 7.48571 58.2301 0.461548 47.8783 0.461548C37.5265 0.461548 30.8711 7.48571 30.8711 17.4687C30.8711 27.4518 37.5265 34.4759 47.8783 34.4759ZM30.6406 1.29556H0V9.84526H10.444V33.6461H20.1505V9.84107H30.6406V1.29556Z" fill="black"/>
+        <path d="M213.613 1.29567L205.432 14.0951H205.293V1.29567H195.818V33.6462H205.293V26.2071L209.036 21.6766H209.128L215.461 33.6462H226.785L215.327 14.0993L225.863 1.29986H213.617L213.613 1.29567ZM246.336 1.29567L238.155 14.0951H238.017V1.29567H228.545V33.6462H238.017V26.2071L241.76 21.6766H241.852L248.184 33.6462H259.509L248.046 14.0993L258.582 1.29986H246.336V1.29567Z" fill="black"/>
+        <path d="M293.078 1.29567V33.6462H319.7V25.2348H302.554V21.3539H315.308V13.2652H302.554V9.70706H319.7V1.29567H293.078ZM342.943 1.29567L343.312 21.9993H343.174L334.855 1.29567H322.424V33.6462H331.481L331.112 13.0347H331.25L339.477 33.6462H352V1.29567H342.943Z" fill="black"/>
+        <path d="M142.671 21.0271L145.584 10.6292H145.722L148.539 21.0271H142.671ZM129.595 33.6421H139.117L140.55 28.6045H150.58L151.967 33.6421H162.134L152.428 1.29157H139.49L129.599 33.6421H129.595ZM115.467 13.7725H110.199V9.14975H115.467C117.131 9.14975 118.284 9.84546 118.284 11.459C118.284 13.0725 117.131 13.7683 115.467 13.7683M116.578 25.7881H110.199V21.0732H116.578C118.426 21.0732 119.444 21.903 119.444 23.4286C119.444 24.9541 118.426 25.7839 116.578 25.7839M100.861 33.6421H117.127C124.939 33.6421 129.373 29.669 129.373 24.1662C129.373 20.0087 126.506 17.5569 122.579 16.8193V16.681C125.907 15.7087 127.894 13.1228 127.894 9.74906C127.894 4.52705 123.598 1.29157 116.201 1.29157H100.857V33.6421H100.861Z" fill="black"/>
+    </svg>
+</div></a>
+<div class="program_top_wrap">
+    <div class="kalendar-header">
+        <h1 class="section-header program-header">Program</h1>
+    </div>
+</div>
+
+<div class="event-filtering">
+    
+    <button class="btn filter-modal-btn months">Måned</button>
+    <div class="row filter-row filter-modal months">
+        <div class="col-12 p-0">
+            <button class="btn filter-modal-btn months">✕</button>
+            <div class="container-md">
+                <h4 class="filter-header">
+                    Måned
+                </h4>
+                <ul class="filter-group p-0" data-id="media-grid" data-filter-name="date" multiple relation="AND">
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".august2026">
+                                August 26
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".september2026">
+                                September 26
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".oktober2026">
+                                Oktober 26
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".november2026">
+                                November 26
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".december2026">
+                                December 26
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".januar2027">
+                                Januar 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".februar2027">
+                                Februar 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".marts2027">
+                                Marts 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".april2027">
+                                April 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".maj2027">
+                                Maj 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".juni2027">
+                                Juni 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".september2027">
+                                September 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".oktober2027">
+                                Oktober 27
+                            </a>
+                        </li>
+                                            <li class="list-inline-item px-0 d-inline">
+                            <a class="btn filter" href="#" data-filter=".november2027">
+                                November 27
+                            </a>
+                        </li>
+                                    </ul>
+            </div>
+            <div class="button-row">
+                <button class="btn ter filter-close">Søg</button>
+                <button class="btn qui filter-clear" data-id="media-grid">Nulstil filtre</button>
+            </div>
+        </div>
+    </div>
+
+    
+            <button class="btn filter-modal-btn categories">Genre</button>
+        <div class="row filter-row filter-modal categories">
+            <div class="col-12 p-0">
+                <button class="btn filter-modal-btn categories">✕</button>
+                <div class="container-md">
+                    <h4 class="filter-header">
+                        Genre
+                    </h4>
+                    <ul class="filter-group p-0" data-id="media-grid" data-filter-name="category" multiple>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-andet">
+                                    Andet
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-blues">
+                                    Blues
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-elektronisk">
+                                    Elektronisk
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-folk-country">
+                                    Folk/Country
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-hiohop">
+                                    Hiphop
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-indie">
+                                    Indie
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-jazz">
+                                    Jazz
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-metal">
+                                    Metal
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-pop">
+                                    Pop
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-punk">
+                                    Punk
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-rb-soul">
+                                    R&amp;B/Soul
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-rock">
+                                    Rock
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-singer-songwriter">
+                                    Singer/songwriter
+                                </a>
+                            </li>
+                                                    <li class="list-inline-item px-0 d-inline">
+                                <a class="btn filter" data-filter=".category-tilflytter">
+                                    Tilflytter
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+                <div class="button-row">
+                    <button class="btn ter filter-close">Søg</button>
+                    <button class="btn qui filter-clear" data-id="media-grid">Nulstil filtre</button>
+                </div>
+            </div>
+        </div>
+    
+    
+    <button id="change-view" class="change-view view--grid">
+        <svg class="icon grid-icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90.86 59">
+            <rect x="52.12" y="1.66" width="37.58" height="10.32"/>
+            <rect x="52.12" y="24.44" width="37.58" height="10.32"/>
+            <rect x="52.12" y="47.21" width="37.58" height="10.32"/>
+            <rect x="1.59" y="1.66" width="37.58" height="10.32"/>
+            <rect x="1.59" y="24.44" width="37.58" height="10.32"/>
+            <rect x="1.59" y="47.21" width="37.58" height="10.32"/>
+        </svg>
+        
+        <svg class="icon list-icon" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 90.86 59">
+            <rect x="1.59" y="1.66" width="88.12" height="10.32"/>
+            <rect x="1.59" y="24.44" width="88.12" height="10.32"/>
+            <rect x="1.59" y="47.21" width="88.12" height="10.32"/>
+        </svg>
+    </button>
+</div>
+
+ 
+    <div id="media-grid" class="event-tiles no-gutter columns-4">
+                    
+                            <h3 id="august2026" class="event-tile month-title">August 2026</h3>
+                                    <a href="https://tobakken.dk/program/sommer-tobakken/" class="event-tile one august2026 post-4071 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" fetchpriority="high" srcset="https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/06/Forside-WEB_Sommer-paa-Tobakken-4.png 1080w" sizes="(max-width: 480px) 100vw, 480px" />
+  <div class="ticketstatuses">
+        
+        
+                
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <div class="title-container">
+      <h2 class="show_name search_name">Sommer på Tobakken</h2>
+                </div>
+    <p class="event-date">
+              13. august - <br>15. august
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/oelsmagning/" class="event-tile one august2026 post-4221 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" srcset="https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png 1080w" sizes="(max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <div class="title-container">
+      <h2 class="show_name search_name">Ølsmagning</h2>
+                </div>
+    <p class="event-date">
+              14. august - <br>15. august
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/portvinsfestival/" class="event-tile one august2026 post-4271 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken">
+  <img width="600" height="400" src="https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-600x400.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" srcset="https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-600x400.jpg 600w, https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-1024x683.jpg 1024w, https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-200x133.jpg 200w, https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-768x512.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival-1536x1024.jpg 1536w, https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">13.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Portvinsfestival</h2>
+                </div>
+    <p class="event-date">
+              15. august
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/smukke-moeller/" class="event-tile one august2026 post-3452 bwps type-bwps status-publish has-post-thumbnail hentry category-rock tag-eksternkoncert location-tobakken organizer-pdh-tour-accounts">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web-480x600.png" class="event-image" alt="" style="object-position: 50% 65%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2025/12/Smukke-Moeller-web.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Smukke Møller</h2>
+                </div>
+    <p class="event-date">
+              28. august
+          </p>
+  </div>
+</a>
+
+    
+                                                
+                            <h3 id="september2026" class="event-tile month-title">September 2026</h3>
+                                    <a href="https://tobakken.dk/program/cuban-night/" class="event-tile one september2026 post-4011 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1-480x600.png" class="event-image" alt="" style="object-position: 50% 32%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/4E7C3E2F-A6BD-49C1-8249-556049E122F1.png 1122w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">15.45</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Cuban Night</h2>
+                </div>
+    <p class="event-date">
+              5. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/et-cv-over-danmark/" class="event-tile one september2026 post-3823 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken organizer-teater-og-musikhusvennerne">
+  <img width="450" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-450x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-450x600.png 450w, https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-767x1024.png 767w, https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-150x200.png 150w, https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-768x1025.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2-1151x1536.png 1151w, https://tobakken.dk/wp-content/uploads/2026/05/Et-CV-over-Danmark-logo-uden-titel-2.png 1499w" sizes="auto, (max-width: 450px) 100vw, 450px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Et CV over Danmark</h2>
+                </div>
+    <p class="event-date">
+              6. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/nikolaj-steen/" class="event-tile one september2026 post-3464 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="600" height="400" src="https://tobakken.dk/wp-content/uploads/2026/01/image002-600x400.jpg" class="event-image" alt="Billede af Nikolaj Steen" style="object-position: 50% 32%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/01/image002-600x400.jpg 600w, https://tobakken.dk/wp-content/uploads/2026/01/image002-1024x683.jpg 1024w, https://tobakken.dk/wp-content/uploads/2026/01/image002-200x133.jpg 200w, https://tobakken.dk/wp-content/uploads/2026/01/image002-768x512.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/01/image002-1536x1024.jpg 1536w, https://tobakken.dk/wp-content/uploads/2026/01/image002-2048x1366.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Nikolaj Steen</h2>
+                </div>
+    <p class="event-date">
+              9. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/d-a-d/" class="event-tile one september2026 post-3610 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/02/d-a-d-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/02/d-a-d-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/02/d-a-d-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/02/d-a-d-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/02/d-a-d-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/02/d-a-d.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus soldout">Udsolgt</span>
+        
+        
+                
+            </div>
+  <div class="event-content">
+          <p class="event-status">Udsolgt</p>
+        <div class="title-container">
+      <h2 class="show_name search_name">D-A-D</h2>
+              <p class="event-slogan">Support: Ashes of Billy</p>
+                    <p class="event-teaser">Support: Ashes of Billy</p>
+          </div>
+    <p class="event-date">
+              11. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/callous/" class="event-tile one september2026 post-4031 bwps type-bwps status-publish has-post-thumbnail hentry category-metal organizer-tobakken">
+  <img width="450" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3-450x600.jpg" class="event-image" alt="" style="object-position: 50% 75%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3-450x600.jpg 450w, https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3-768x1024.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3-150x200.jpg 150w, https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3-1152x1536.jpg 1152w, https://tobakken.dk/wp-content/uploads/2026/05/Callous-Band-Pic-3.jpg 1536w" sizes="auto, (max-width: 450px) 100vw, 450px" />
+  <div class="ticketstatuses">
+        
+        
+                
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Callous</h2>
+              <p class="event-slogan">Support: Solipsy</p>
+                </div>
+    <p class="event-date">
+              12. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/hellripper/" class="event-tile one september2026 post-3811 bwps type-bwps status-publish has-post-thumbnail hentry category-metal category-rock location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier--480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier--480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier--819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier--160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier--768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/04/Hellripper-Necrofier-.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Hellripper & Necrofier</h2>
+                </div>
+    <p class="event-date">
+              18. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/noah/" class="event-tile one september2026 post-3278 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="600" height="600" src="https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-600x600.jpg" class="event-image" alt="" style="object-position: 50% 33%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-600x600.jpg 600w, https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-1024x1024.jpg 1024w, https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-200x200.jpg 200w, https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-768x768.jpg 768w, https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-1536x1536.jpg 1536w, https://tobakken.dk/wp-content/uploads/2025/11/Profilbillede_Final-2048x2048.jpg 2048w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">NOAH</h2>
+                </div>
+    <p class="event-date">
+              19. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/familien/" class="event-tile one september2026 post-3912 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web-480x600.png" class="event-image" alt="" style="object-position: 50% 25%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/FAMILIEN-web.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Familien</h2>
+                </div>
+    <p class="event-date">
+              25. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/michael-hausted/" class="event-tile one september2026 post-3654 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web-480x600.png" class="event-image" alt="" style="object-position: 50% 23%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/03/Michael-Hausted-web.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+                
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">11.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Michael Hausted</h2>
+                </div>
+    <p class="event-date">
+              26. september
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/niarn/" class="event-tile one september2026 post-3548 bwps type-bwps status-publish has-post-thumbnail hentry category-hiohop category-tilflytter location-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken--480x600.png" class="event-image" alt="" style="object-position: 65% 54%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken--480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken--819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken--160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken--768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/01/Niarn-tobakken-.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Niarn</h2>
+                </div>
+    <p class="event-date">
+              26. september
+          </p>
+  </div>
+</a>
+
+    
+                                                
+                            <h3 id="oktober2026" class="event-tile month-title">Oktober 2026</h3>
+                                    <a href="https://tobakken.dk/program/rasmus-walter/" class="event-tile one oktober2026 post-3322 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock category-singer-songwriter location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2-480x600.png" class="event-image" alt="" style="object-position: 50% 34%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2025/11/Rasmus-Walter-2.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Rasmus Walter</h2>
+                </div>
+    <p class="event-date">
+              1. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/enrico-tomasso/" class="event-tile one oktober2026 post-3239 bwps type-bwps status-publish has-post-thumbnail hentry category-jazz location-tobakken">
+  <img width="600" height="400" src="https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-600x400.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-600x400.jpg 600w, https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-1024x682.jpg 1024w, https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-200x133.jpg 200w, https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-768x512.jpg 768w, https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B-1536x1024.jpg 1536w, https://tobakken.dk/wp-content/uploads/2025/11/Enrico-Tomasso-Finn-B.jpg 2000w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">13.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Enrico Tomasso & Finn Burric Int. N.O.J.</h2>
+                </div>
+    <p class="event-date">
+              3. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/kaj-norman-og-krigen/" class="event-tile one oktober2026 post-3826 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken organizer-teater-og-musikhusvennerne">
+  <img width="531" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-531x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-531x600.png 531w, https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-906x1024.png 906w, https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-177x200.png 177w, https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-768x868.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst-1359x1536.png 1359w, https://tobakken.dk/wp-content/uploads/2026/05/Kai-Normann-og-Krigen-Plakatbillede-u.-tekst.png 1398w" sizes="auto, (max-width: 531px) 100vw, 531px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus soldout">Udsolgt</span>
+        
+        
+                
+            </div>
+  <div class="event-content">
+          <p class="event-status">Udsolgt</p>
+        <div class="title-container">
+      <h2 class="show_name search_name">Kaj Norman og Krigen</h2>
+                </div>
+    <p class="event-date">
+              5. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/lydsyn/" class="event-tile one oktober2026 post-3946 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn-480x600.png" class="event-image" alt="" style="object-position: 50% 32%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/Lydsyn.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Uffe Lorenzen & LYDSYN</h2>
+                </div>
+    <p class="event-date">
+              8. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/bornenes-metalfestival/" class="event-tile one oktober2026 post-3192 bwps type-bwps status-publish has-post-thumbnail hentry category-metal category-rock location-tobakken organizer-tobakken">
+  <img width="600" height="600" src="https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival-600x600.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival-600x600.jpg 600w, https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival-1024x1024.jpg 1024w, https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival-200x200.jpg 200w, https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival-768x768.jpg 768w, https://tobakken.dk/wp-content/uploads/2025/11/Boernens-Metalfestival.jpg 1080w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">12.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Børnenes Metalfestival</h2>
+                </div>
+    <p class="event-date">
+              10. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/ehcc/" class="event-tile one oktober2026 post-4000 bwps type-bwps status-publish has-post-thumbnail hentry category-metal category-rock location-tobakken organizer-esbjerg-hardcore-crew">
+  <img width="424" height="600" src="https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-424x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-424x600.png 424w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-724x1024.png 724w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-141x200.png 141w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-768x1086.png 768w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-1086x1536.png 1086w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-1448x2048.png 1448w, https://tobakken.dk/wp-content/uploads/2026/07/97ce3052-9ea5-4342-a0ce-4bb7baf2291b-scaled.png 1810w" sizes="auto, (max-width: 424px) 100vw, 424px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Esbjerg Hardcore Crew vol. 4</h2>
+                </div>
+    <p class="event-date">
+              10. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/teitur/" class="event-tile one oktober2026 post-4045 bwps type-bwps status-publish has-post-thumbnail hentry category-singer-songwriter location-endrupholm organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web--480x600.png" class="event-image" alt="" style="object-position: 50% 18%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web--480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web--819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web--160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web--768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/06/Teitur-web-.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Teitur</h2>
+                </div>
+    <p class="event-date">
+              10. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/paul-van-dyk/" class="event-tile one oktober2026 post-4152 bwps type-bwps status-publish has-post-thumbnail hentry category-elektronisk location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1-480x600.png" class="event-image" alt="" style="object-position: 50% 25%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/06/Paul-Van-Dyk-1.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Paul Van Dyk</h2>
+                </div>
+    <p class="event-date">
+              15. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/george-michael/" class="event-tile one oktober2026 post-4046 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web-480x600.png" class="event-image" alt="" style="object-position: 50% 28%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/06/George-Michael-web.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">George Michael Experience</h2>
+                </div>
+    <p class="event-date">
+              17. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/faroe-islands/" class="event-tile one oktober2026 post-4020 bwps type-bwps status-publish has-post-thumbnail hentry category-andet location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web-480x600.png" class="event-image" alt="" style="object-position: 50% 17%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/06/History-of-Faroe-Islands-web.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">History of the Faroe islands (Please don’t laugh)</h2>
+                </div>
+    <p class="event-date">
+              19. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/loud-tiger/" class="event-tile one oktober2026 post-3760 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rb-soul location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger--480x600.png" class="event-image" alt="" style="object-position: 50% 31%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger--480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger--819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger--160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger--768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/04/Loud-Tiger-.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Loud Tiger</h2>
+                </div>
+    <p class="event-date">
+              21. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/barselona/" class="event-tile one oktober2026 post-3681 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/03/Barselona-web-45.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">21.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Barselona</h2>
+                </div>
+    <p class="event-date">
+              23. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/genlyd-gobs-blaest/" class="event-tile one oktober2026 post-3923 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2-480x600.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2-480x600.jpg 480w, https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2-819x1024.jpg 819w, https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2-160x200.jpg 160w, https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2-768x960.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/05/Gobs-2.jpg 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Gobs & Blæst</h2>
+                </div>
+    <p class="event-date">
+              24. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/augusta-schackinger/" class="event-tile one oktober2026 post-3244 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="600" height="600" src="https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha-600x600.png" class="event-image" alt="" style="object-position: 50% 26%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha-600x600.png 600w, https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha-1024x1024.png 1024w, https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha-200x200.png 200w, https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha-768x768.png 768w, https://tobakken.dk/wp-content/uploads/2025/11/Augusta-Scha.png 1080w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Augusta Schackinger</h2>
+                </div>
+    <p class="event-date">
+              29. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/zar-paulo/" class="event-tile one oktober2026 post-3549 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-tilflytter location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5-480x600.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5-480x600.jpg 480w, https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5-819x1024.jpg 819w, https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5-160x200.jpg 160w, https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5-768x960.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/01/Zar-Paulo_4x5.jpg 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Zar Paulo</h2>
+                </div>
+    <p class="event-date">
+              31. oktober
+          </p>
+  </div>
+</a>
+
+    
+                                                
+                            <h3 id="november2026" class="event-tile month-title">November 2026</h3>
+                                    <a href="https://tobakken.dk/program/soeren-huss/" class="event-tile one november2026 post-3575 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock category-singer-songwriter location-tobakken organizer-tobakken">
+  <img width="600" height="401" src="https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-600x401.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-600x401.png 600w, https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-1024x684.png 1024w, https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-200x134.png 200w, https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-768x513.png 768w, https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554-1536x1026.png 1536w, https://tobakken.dk/wp-content/uploads/2026/02/Skaermbillede-2026-02-02-132554.png 1587w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Søren Huss</h2>
+                </div>
+    <p class="event-date">
+              5. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/hit-med-80erne/" class="event-tile one november2026 post-3600 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/02/1080x1350-TOBAKKEN-5.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <div class="title-container">
+      <h2 class="show_name search_name">Hit med 80erne</h2>
+                </div>
+    <p class="event-date">
+              6. november - <br>7. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/big-sleep/" class="event-tile one november2026 post-3986 bwps type-bwps status-publish has-post-thumbnail hentry category-rock location-tobakken organizer-the-tobacco-club">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63-480x600.png" class="event-image" alt="" style="object-position: 50% 31%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/05/Big-sleep-insta-poster-no-dates-63.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Big Sleep (IR)</h2>
+                </div>
+    <p class="event-date">
+              7. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/skullclub/" class="event-tile one november2026 post-3576 bwps type-bwps status-publish has-post-thumbnail hentry category-folk-country category-metal category-punk category-rock category-tilflytter location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2-480x600.png" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2026/01/1080x1350-TOBAKKEN-2.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Skullclub</h2>
+                </div>
+    <p class="event-date">
+              13. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/allan-olsen/" class="event-tile one november2026 post-3326 bwps type-bwps status-publish has-post-thumbnail hentry category-singer-songwriter tag-tobakkenjul location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen-480x600.png" class="event-image" alt="" style="object-position: 50% 40%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen-819x1024.png 819w, https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen-160x200.png 160w, https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen-768x960.png 768w, https://tobakken.dk/wp-content/uploads/2025/12/Allan-Olsen.png 1080w" sizes="auto, (max-width: 480px) 100vw, 480px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Allan Olsen & Det Sidste Slæng</h2>
+              <p class="event-slogan">Support: Mallemuk</p>
+                    <p class="event-teaser">Support: Mallemuk</p>
+          </div>
+    <p class="event-date">
+              14. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/skerryvore/" class="event-tile one november2026 post-3748 bwps type-bwps status-publish has-post-thumbnail hentry category-folk-country category-rock location-tobakken organizer-tobakken">
+  <img width="600" height="338" src="https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-600x338.jpg" class="event-image" alt="" style="object-position: 50% 47%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-600x338.jpg 600w, https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-1024x576.jpg 1024w, https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-200x113.jpg 200w, https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-768x432.jpg 768w, https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1-1536x864.jpg 1536w, https://tobakken.dk/wp-content/uploads/2026/04/Beautiful-Mistakes-1920x1080-1.jpg 1920w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Skerryvore (SCO)</h2>
+                </div>
+    <p class="event-date">
+              18. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/carpark-north/" class="event-tile one november2026 post-3115 bwps type-bwps status-publish has-post-thumbnail hentry category-rock tag-tobakkenjul location-tobakken organizer-tobakken">
+  <img width="600" height="600" src="https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North-600x600.jpg" class="event-image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North-600x600.jpg 600w, https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North-1024x1024.jpg 1024w, https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North-200x200.jpg 200w, https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North-768x768.jpg 768w, https://tobakken.dk/wp-content/uploads/2025/11/Carpark-North.jpg 1080w" sizes="auto, (max-width: 600px) 100vw, 600px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+              <div class="title-container">
+      <h2 class="show_name search_name">Carpark North</h2>
+                </div>
+    <p class="event-date">
+              19. november
+          </p>
+  </div>
+</a>
+
+    
+                                    <a href="https://tobakken.dk/program/soemaendene/" class="event-tile one november2026 post-3329 bwps type-bwps status-publish has-post-thumbnail hentry category-pop location-tobakken organizer-tobakken">
+  <img width="480" height="600" src="https://tobakken.dk/wp-content/uploads/2025/12/Soemaendene-1-480x600.png" class="event-image" alt="" style="object-position: 50% 83%;" decoding="async" loading="lazy" srcset="https://tobakken.dk/wp-content/uploads/2025/12/Soemaendene-1-480x600.png 480w, https://tobakken.dk/wp-content/uploads/2025/12/Soemaendene-1-819x1024.png 819w, https://tobakken.dk/wp-co
+<!-- TRIMMED BY recon.mjs -->

@@ -1,0 +1,1271 @@
+    <!doctype html>
+    <html lang="da-DK">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel='stylesheet' href='https://dexter.dk/wp-content/plugins/breakdance/plugin/themeless/normalize.min.css'>
+                <title>program | Musikhuset Dexter</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//postenlive.billetten.dk' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://dexter.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdexter.dk%2Fprogram%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://dexter.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdexter.dk%2Fprogram%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' id='gob-events-style-css' href='https://dexter.dk/wp-content/plugins/gob-events/css/gob-events.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gu-menu-css-css' href='https://dexter.dk/wp-content/plugins/gu-menu/css/gu-style.css?ver=6.9.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='gu-slicknav-css-css' href='https://dexter.dk/wp-content/plugins/gu-menu/css/slicknav.css?ver=6.9.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='ani-menu-style-css' href='https://dexter.dk/wp-content/plugins/posten/css/ani-menu.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='posten-css-css' href='https://dexter.dk/wp-content/plugins/posten/css/posten.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='splide-css-css' href='https://cdn.jsdelivr.net/npm/@splidejs/splide@3/dist/css/splide.min.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-splide-style-css' href='https://dexter.dk/wp-content/plugins/wp-splide-slider/css/wp-splide-style.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='asp-instances-css' href='https://dexter.dk/wp-content/cache/asp/style.instances-ho-is-po-no-da-se-co-au-ga-se-is.css?ver=xzUUNf' type='text/css' media='all' />
+<script type="text/javascript" id="webtoffee-cookie-consent-js-extra">
+/* <![CDATA[ */
+var _wccConfig = {"_ipData":[],"_assetsURL":"https://dexter.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/","_publicURL":"https://dexter.dk","_categories":[{"name":"N\u00f8dvendige","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true},"foundNoCookieScript":false},{"name":"Funktionelle","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Statistiske","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"_fbp","domain":".dexter.dk","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Ydelse","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Markedsf\u00f8ring","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"\u00d8vrige","slug":"others","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"GDPR":{"settings":{"type":"box","position":"bottom-left","applicableLaw":"gdpr","preferenceCenter":"center","selectedRegion":"ALL","consentExpiry":365,"shortcodes":[{"key":"wcc_readmore","content":"\u003Ca href=\"#\" class=\"wcc-policy\" aria-label=\"Cookiepolitik\" target=\"_blank\" rel=\"noopener\" data-tag=\"readmore-button\"\u003ECookiepolitik\u003C/a\u003E","tag":"readmore-button","status":false,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"wcc_show_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"show-desc-button\" aria-label=\"Vis mere\"\u003EVis mere\u003C/button\u003E","tag":"show-desc-button","status":true,"attributes":[]},{"key":"wcc_hide_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"hide-desc-button\" aria-label=\"Vis mindre\"\u003EVis mindre\u003C/button\u003E","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"wcc_category_toggle_label","content":"[wcc_{{status}}_category_label] [wcc_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_category_label","content":"Aktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_category_label","content":"Deaktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_video_placeholder","content":"\u003Cdiv class=\"video-placeholder-normal\" data-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-tag=\"placeholder-title\"\u003EAccepter venligst {category} cookies for at f\u00e5 adgang til dette indhold\u003C/p\u003E\u003C/div\u003E","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_optout_label","content":"Aktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_optout_label","content":"Deaktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_toggle_label","content":"[wcc_{{status}}_optout_label] [wcc_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_option_title","content":"M\u00e5 ikke s\u00e6lge eller dele mine personlige oplysninger","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_close_label","content":"Luk","tag":"","status":true,"attributes":[]}],"bannerEnabled":true,"consentDetails":{"dateFormat":"d/m/Y H:i:s"},"closeButtonAction":"reject"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":false,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":[],"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}},"poweredBy":{"status":false,"tag":"detail-powered-by","styles":{"background-color":"#EDEDED","color":"#293C5B"}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":false,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}},"gpcOption":false}}}},"_version":"3.5.2","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#000000","border-color":"#000000"}},{"tag":"reject-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"settings-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"readmore-button","styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#000000","border-color":"#000000"}},{"tag":"revisit-consent","styles":[]},{"tag":"detail-category-always-enabled","styles":{"color":"#008000"}}],"_rtl":"","_lawSelected":["GDPR"],"_restApiUrl":"https://directory.cookieyes.com/api/v1/ip","_renewConsent":"1747901636682","_restrictToCA":"","_customEvents":"","_ccpaAllowedRegions":[],"_gdprAllowedRegions":[],"_ssl":"1","_enableConsentSharing":"","_providersToBlock":[]};
+var _wccStyles = {"css":{"GDPR":".wcc-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.wcc-hide{display: none;}.wcc-btn-revisit-wrapper{display: flex; padding: 6px; border-radius: 8px; opacity: 0px; background-color:#ffffff; box-shadow: 0px 3px 10px 0px #798da04d;  align-items: center; justify-content: center;   position: fixed; z-index: 999999; cursor: pointer;}.wcc-revisit-bottom-left{bottom: 15px; left: 15px;}.wcc-revisit-bottom-right{bottom: 15px; right: 15px;}.wcc-btn-revisit-wrapper .wcc-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.wcc-btn-revisit-wrapper .wcc-btn-revisit img{max-width: fit-content; margin: 0; } .wcc-btn-revisit-wrapper .wcc-revisit-help-text{font-size:14px; margin-left:4px; display:none;}.wcc-btn-revisit-wrapper:hover .wcc-revisit-help-text, .wcc-btn-revisit-wrapper:focus-within .wcc-revisit-help-text { display: block;}.wcc-revisit-hide{display: none;}.wcc-preference-btn:hover{cursor:pointer; text-decoration:underline;}.wcc-cookie-audit-table { font-family: inherit; border-collapse: collapse; width: 100%;} .wcc-cookie-audit-table th, .wcc-cookie-audit-table td {text-align: left; padding: 10px; font-size: 12px; color: #000000; word-break: normal; background-color: #d9dfe7; border: 1px solid #cbced6;} .wcc-cookie-audit-table tr:nth-child(2n + 1) td { background: #f1f5fa; }.wcc-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.wcc-consent-container .wcc-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.wcc-box-bottom-left{bottom: 40px; left: 40px;}.wcc-box-bottom-right{bottom: 40px; right: 40px;}.wcc-box-top-left{top: 40px; left: 40px;}.wcc-box-top-right{top: 40px; right: 40px;}.wcc-custom-brand-logo-wrapper .wcc-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.wcc-notice .wcc-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.wcc-notice-des *,.wcc-preference-content-wrapper *,.wcc-accordion-header-des *,.wcc-gpc-wrapper .wcc-gpc-desc *{font-size: 14px;}.wcc-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.wcc-notice-des img{height: 25px; width: 25px;}.wcc-consent-bar .wcc-notice-des p,.wcc-gpc-wrapper .wcc-gpc-desc p,.wcc-preference-body-wrapper .wcc-preference-content-wrapper p,.wcc-accordion-header-wrapper .wcc-accordion-header-des p,.wcc-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.wcc-notice-des P:last-child,.wcc-preference-content-wrapper p:last-child,.wcc-cookie-des-table li div:last-child p:last-child,.wcc-gpc-wrapper .wcc-gpc-desc p:last-child{margin-bottom: 0;}.wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.wcc-notice-des button.wcc-policy{padding: 0;}.wcc-notice-des a.wcc-policy:focus-visible,.wcc-notice-des button.wcc-policy:focus-visible,.wcc-preference-content-wrapper .wcc-show-desc-btn:focus-visible,.wcc-accordion-header .wcc-accordion-btn:focus-visible,.wcc-preference-header .wcc-btn-close:focus-visible,.wcc-switch input[type=\"checkbox\"]:focus-visible,.wcc-footer-wrapper a:focus-visible,.wcc-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.wcc-btn:focus:not(:focus-visible),.wcc-accordion-header .wcc-accordion-btn:focus:not(:focus-visible),.wcc-preference-content-wrapper .wcc-show-desc-btn:focus:not(:focus-visible),.wcc-btn-revisit-wrapper .wcc-btn-revisit:focus:not(:focus-visible),.wcc-preference-header .wcc-btn-close:focus:not(:focus-visible),.wcc-consent-bar .wcc-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.wcc-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.wcc-accordion-btn:not(:hover):not(:active),button.wcc-banner-btn-close:not(:hover):not(:active),button.wcc-btn-revisit:not(:hover):not(:active),button.wcc-btn-close:not(:hover):not(:active){background: transparent;}.wcc-consent-bar button:hover,.wcc-modal.wcc-modal-open button:hover,.wcc-consent-bar button:focus,.wcc-modal.wcc-modal-open button:focus{text-decoration: none;}.wcc-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.wcc-notice-btn-wrapper .wcc-btn{text-shadow: none; box-shadow: none;}.wcc-consent-details-wrapper .wcc-consent-detail-item .wcc-consent-detail-label,.wcc-consent-details-wrapper .wcc-consent-detail-item .wcc-consent-detail-value{font-size:12px;}.wcc-consent-details-wrapper .wcc-accordion.wcc-accordion-active .wcc-accordion-body { padding :0px;}.wcc-consent-details-wrapper .wcc-accordion-wrapper {margin-bottom:0px;}.wcc-consent-details-wrapper .wcc-accordion-wrapper .wcc-accordion .wcc-accordion-item{margin-top:0px;}.wcc-consent-details-wrapper .wcc-accordion .wcc-accordion-item .wcc-accordion-header { justify-content: flex-start; align-items: flex-start;}.wcc-consent-details-wrapper .wcc-accordion .wcc-accordion-item .wcc-accordion-header .wcc-accordion-chevron {margin-left:24px;}.wcc-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.wcc-btn:hover{opacity: 0.8;}.wcc-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.wcc-btn:last-child{margin-right: 0;}@media (max-width: 576px){.wcc-box-bottom-left{bottom: 0; left: 0;}.wcc-box-bottom-right{bottom: 0; right: 0;}.wcc-box-top-left{top: 0; left: 0;}.wcc-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.wcc-box-bottom-left, .wcc-box-bottom-right, .wcc-box-top-left, .wcc-box-top-right{width: 100%; max-width: 100%;}.wcc-consent-container .wcc-consent-bar{padding: 20px 0;}.wcc-custom-brand-logo-wrapper, .wcc-notice .wcc-title, .wcc-notice-des, .wcc-notice-btn-wrapper{padding: 0 24px;}.wcc-notice-des{max-height: 40vh; overflow-y: scroll;}.wcc-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.wcc-btn{width: 100%; margin: 10px 0 0 0;}.wcc-notice-btn-wrapper .wcc-btn-customize{order: 2;}.wcc-notice-btn-wrapper .wcc-btn-reject{order: 3;}.wcc-notice-btn-wrapper .wcc-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.wcc-notice .wcc-title{font-size: 16px;}.wcc-notice-des *{font-size: 12px;}.wcc-notice-des, .wcc-btn{font-size: 12px;}}.wcc-modal.wcc-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.wcc-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.wcc-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.wcc-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.wcc-preference-header .wcc-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.wcc-google-privacy-url a {text-decoration:none;color: #1863dc;cursor:pointer;} .wcc-preference-header .wcc-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.wcc-preference-header .wcc-btn-close img{margin: 0; height: 10px; width: 10px;}.wcc-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.wcc-preference-content-wrapper,.wcc-gpc-wrapper .wcc-gpc-desc,.wcc-google-privacy-policy{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.wcc-preference-content-wrapper{border-bottom: 1px solid;}.wcc-preference-content-wrapper img{height: 25px; width: 25px;}.wcc-preference-content-wrapper .wcc-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-accordion-wrapper{margin-bottom: 10px;}.wcc-accordion{border-bottom: 1px solid;}.wcc-accordion:last-child{border-bottom: none;}.wcc-accordion .wcc-accordion-item{display: flex; margin-top: 10px;}.wcc-accordion .wcc-accordion-body{display: none;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.wcc-accordion-header-wrapper{cursor: pointer; width: 100%;}.wcc-accordion-item .wcc-accordion-header{display: flex; justify-content: space-between; align-items: center;}.wcc-accordion-header .wcc-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-consent-details-wrapper .wcc-accordion-header .wcc-accordion-btn{font-size:12px; font-weight:normal;}.wcc-accordion-header .wcc-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.wcc-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.wcc-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.wcc-accordion-chevron-hide{display: none;}.wcc-accordion .wcc-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.wcc-audit-table{background: #f4f4f4; border-radius: 6px;}.wcc-audit-table .wcc-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.wcc-audit-table .wcc-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.wcc-audit-table .wcc-cookie-des-table:last-child{border-bottom: none;}.wcc-audit-table .wcc-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.wcc-audit-table .wcc-cookie-des-table li:first-child{padding-top: 0;}.wcc-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.wcc-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.wcc-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.wcc-footer-wrapper{position: relative;}.wcc-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.wcc-prefrence-btn-wrapper .wcc-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.wcc-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-preference-header,.wcc-preference-body-wrapper,.wcc-preference-content-wrapper,.wcc-accordion-wrapper,.wcc-accordion,.wcc-accordion-wrapper,.wcc-footer-wrapper,.wcc-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.wcc-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.wcc-modal{max-width: 100%;}.wcc-preference-center{max-height: 100vh;}.wcc-prefrence-btn-wrapper{flex-direction: column;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding-right: 0;}.wcc-prefrence-btn-wrapper .wcc-btn{width: 100%; margin: 10px 0 0 0;}.wcc-prefrence-btn-wrapper .wcc-btn-reject{order: 3;}.wcc-prefrence-btn-wrapper .wcc-btn-accept{order: 1; margin-top: 0;}.wcc-prefrence-btn-wrapper .wcc-btn-preferences{order: 2;}}@media (max-width: 425px){.wcc-accordion-chevron{margin-right: 15px;}.wcc-notice-btn-wrapper{margin-top: 0;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.wcc-preference-header .wcc-preference-title{font-size: 16px;}.wcc-preference-header{padding: 16px 24px;}.wcc-preference-content-wrapper *, .wcc-accordion-header-des *{font-size: 12px;}.wcc-preference-content-wrapper, .wcc-preference-content-wrapper .wcc-show-more, .wcc-accordion-header .wcc-always-active, .wcc-accordion-header-des, .wcc-preference-content-wrapper .wcc-show-desc-btn, .wcc-notice-des a.wcc-policy{font-size: 12px;}.wcc-accordion-header .wcc-accordion-btn{font-size: 14px;}}.wcc-switch{display: flex;}.wcc-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.wcc-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.wcc-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.wcc-switch input[type=\"checkbox\"]:after{display: none;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.wcc-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.wcc-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.wcc-consent-bar .wcc-banner-btn-close{position: absolute; right: 14px; top: 14px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.wcc-consent-bar .wcc-banner-btn-close img{height: 10px; width: 10px; margin: 0;}.wcc-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.wcc-notice-btn-wrapper .wcc-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; white-space: nowrap; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.wcc-consent-bar .wcc-banner-btn-close:focus-visible,.wcc-notice-btn-wrapper .wcc-btn-do-not-sell:focus-visible,.wcc-opt-out-btn-wrapper .wcc-btn:focus-visible,.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.wcc-consent-container{width: 100%;}}@media (max-width: 352px){.wcc-notice-des a.wcc-policy, .wcc-notice-btn-wrapper .wcc-btn-do-not-sell{font-size: 12px;}}.wcc-opt-out-wrapper{padding: 12px 0;}.wcc-opt-out-wrapper .wcc-opt-out-checkbox-wrapper{display: flex; align-items: center;}.wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.wcc-opt-out-checkbox-wrapper.wcc-disabled .wcc-opt-out-checkbox-label,.wcc-opt-out-checkbox-wrapper.wcc-disabled input[type=\"checkbox\"].wcc-opt-out-checkbox{cursor: no-drop;}.wcc-gpc-wrapper{margin: 0 0 0 32px;}.wcc-footer-wrapper .wcc-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.wcc-opt-out-btn-wrapper .wcc-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.wcc-opt-out-btn-wrapper .wcc-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.wcc-opt-out-btn-wrapper .wcc-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{font-size: 14px;}.wcc-gpc-wrapper .wcc-gpc-desc, .wcc-gpc-wrapper .wcc-gpc-desc *{font-size: 12px;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox{width: 16px; height: 16px;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.wcc-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-text-youtube:hover{text-decoration:underline;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.wcc-rtl{direction: rtl; text-align: right;}.wcc-rtl .wcc-banner-btn-close{left: 9px; right: auto;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 8px;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 8px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-accordion .wcc-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.wcc-rtl .wcc-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 0;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 0;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px 0 0;}}@media (max-width: 440px){.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}} @media (min-width: 768px) and (max-width: 1024px) {.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}}.wcc-rtl .wcc-opt-out-btn-wrapper .wcc-btn{margin-right: 12px;}.wcc-rtl .wcc-opt-out-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{margin: 0 12px 0 0;}@media (max-height: 480px) {.wcc-consent-container {max-height: 100vh; overflow-y: scroll;} .wcc-notice-des { max-height: unset; overflow-y: unset; } .wcc-preference-center { height: 100vh; overflow: auto; } .wcc-preference-center .wcc-preference-body-wrapper { overflow: unset; } }"}};
+var _wccApi = {"base":"https://dexter.dk/wp-json/wcc/v1/","nonce":"8e077ccbf5"};
+var _wccGCMConfig = {"_mode":"advanced","_urlPassthrough":"","_debugMode":"","_redactData":"","_regions":[],"_wccBypass":"","wait_for_update":"500","_isGTMTemplate":""};
+//# sourceURL=webtoffee-cookie-consent-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/js/script.min.js?ver=3.5.2" id="webtoffee-cookie-consent-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/js/gcm.min.js?ver=3.5.2" id="webtoffee-cookie-consent-gcm-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://postenlive.billetten.dk/basm/sbasm-script?ver=6.9.7" id="basm2-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://dexter.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="Site Kit by Google 1.185.0" /><style id="wcc-style-inline">[data-tag]{visibility:hidden;}</style><!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/dexter.dk\/#schema-publishing-organization","url":"https:\/\/dexter.dk","name":"Musikhuset Dexter"},{"@type":"WebSite","@id":"https:\/\/dexter.dk\/#schema-website","url":"https:\/\/dexter.dk","name":"Musikhuset Posten","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/dexter.dk\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","@id":"https:\/\/dexter.dk\/program?page&pagename=program\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/dexter.dk"},{"@type":"ListItem","position":2,"name":"program"}]},{"@type":"Person","@id":"https:\/\/dexter.dk\/author\/marginal\/#schema-author","name":"Marginal","url":"https:\/\/dexter.dk\/author\/marginal\/"}]}</script>
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dexter.dk/program/" />
+<meta property="og:title" content="program | Musikhuset Dexter" />
+<meta property="article:published_time" content="2015-05-05T08:32:37" />
+<meta property="article:author" content="Marginal" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="program | Musikhuset Dexter" />
+<!-- /SEO -->
+<link rel="icon" href="https://dexter.dk/wp-content/uploads/sites/2/2024/08/cropped-dextert_fav-01-300x300-1-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://dexter.dk/wp-content/uploads/sites/2/2024/08/cropped-dextert_fav-01-300x300-1-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://dexter.dk/wp-content/uploads/sites/2/2024/08/cropped-dextert_fav-01-300x300-1-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://dexter.dk/wp-content/uploads/sites/2/2024/08/cropped-dextert_fav-01-300x300-1-1-270x270.png" />
+<!-- [HEADER ASSETS] -->
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/font_styles/custom_font_proxima_nova.css?v=fe5b80dfbc38e6ac1941da96cdfe10da&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/font_styles/custom_font_eveleth_clean.css?v=64df7fa5a529d2dcd2948fc2ef710256&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/font_styles/custom_font_eveleth.css?v=8041e48e2b91024c832770013304e797&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-form@1/css/form.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-menu@1/awesome-menu.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/popups@1/popups.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/lightgallery@2/css/lightgallery-bundle.min.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11523-defaults.css?v=044026ff941965aa3f2583995bd797ee" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11413-defaults.css?v=d16bc4c621114ab7dcc3cbfa53c6d4c7" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11595-defaults.css?v=3ce284fb4053035cc23412805f683004" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12350-defaults.css?v=12688f878644fd626a298a5e4e660c1f" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12472-defaults.css?v=393b2f2d353e04d6b21077b41c83350d" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12292-defaults.css?v=3535d44e02db040b53970dfe08dbadec" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11961-defaults.css?v=df4fd53773e89ba974adb21b6365cae2" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/global-settings.css?v=2c3bc32b18e2b4d400f46fd8f59ed49d" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/selectors.css?v=8cab5b44dd2f2d1f7c43dc8123445661" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11523.css?v=0df6ccf171e56a80295f7bdc8828982b" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11413.css?v=06ceca16672d0936e07ba8a206070f6f" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11595.css?v=91ec662685e1d3cd5c06a392b8045846" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12350.css?v=da0a501f414c43b7f0f0785a5445e979" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12472.css?v=ab50039c5d83564ecfe735dc9fe0bd2c" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-12292.css?v=66e95a30a69a75a163c347701e310ff5" />
+
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/css/post-11961.css?v=5002ee837fdee813ab5c78109ccee704" />
+<!-- [/EOF HEADER ASSETS] -->
+<!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.5&appId=939537486107563";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Facebook OG integration -->
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DTGP8RBHTF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DTGP8RBHTF');
+</script>
+<!-- the default values -->
+<meta property="fb:app_id" content="382738311913277" />
+<meta property="fb:admins" content="544889094" />
+     </head>
+    
+    <body class="attachment wp-singular attachment-template-default single single-attachment postid-397 attachmentid-397 attachment-pdf wp-theme-breakdance-zero breakdance site-id-2">
+        <svg class="breakdance-global-gradients-sprite" aria-hidden="true"><linearGradient x1="0.32783619335516734" y1="1" x2="0.6721638066448327" y2="0" id="bde-palette-red-feature-60516b9b-9526-4992-8b00-7bef0872ccc8-gradient-7"><stop stop-opacity="1" stop-color="#ff0000" offset="0"></stop><stop stop-opacity="0.48" stop-color="#ff0000" offset="0.33333333333333337"></stop><stop stop-opacity="0.72" stop-color="#ffffff" offset="0.5333333333333333"></stop><stop stop-opacity="0" stop-color="#ffffff" offset="1"></stop></linearGradient><linearGradient x1="0.32783619335516734" y1="1" x2="0.6721638066448327" y2="0" id="bde-palette-slide-bg-e97b330f-40ad-487d-ba26-52e383e9c042-gradient-7"><stop stop-opacity="1" stop-color="#ff0000" offset="0"></stop><stop stop-opacity="0.48" stop-color="#ff0000" offset="0.33333333333333337"></stop><stop stop-opacity="0.72" stop-color="#ffffff" offset="0.5846153846153846"></stop><stop stop-opacity="0" stop-color="#ffffff" offset="1"></stop></linearGradient></svg>            <section class="bde-section-11523-100 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-image-11523-118 bde-image">
+<figure class="breakdance-image breakdance-image--15017">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="/" target="_self" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/03/Dexter_hvid300x54.png" width="300" height="54" sizes="(max-width: 300px) 100vw, 300px" loading="lazy"></a></div>
+	</div></figure>
+
+</div><a class="bde-container-link-11523-123 bde-container-link toggle-menu breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12472&quot;,&quot;popupAction&quot;:&quot;toggle&quot;}}">
+  
+  
+	
+
+
+
+<div class="bde-code-block-11523-122 bde-code-block">
+
+  <div class="main-menu-toggle">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+
+</div>
+
+</a><a class="bde-container-link-11523-126 bde-container-link basm basm_profile_btn breakdance-link" href="#" target="_self">
+  
+  
+	
+
+
+
+<div class="bde-image-11523-128 bde-image">
+<figure class="breakdance-image breakdance-image--15057">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/03/Group-140411.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a><a class="bde-container-link-11523-129 bde-container-link basm basm_basket_btn breakdance-link" href="#" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11523-130 bde-image">
+<figure class="breakdance-image breakdance-image--12324">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/03/Group-14040.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11523-133 bde-div">
+  
+  
+	
+
+
+
+
+</div></div>
+</section><section class="bde-section-11413-100 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-code-block-11413-101 bde-code-block">
+
+  <p class="attachment"><a href='https://dexter.dk/wp-content/uploads/sites/2/2015/05/program.pdf'>program</a></p>
+
+
+
+</div></div>
+</section><section class="bde-section-11595-183 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-globalblock-11595-190 bde-globalblock"><div class="bde-div-12350-100-12350-1 bde-div bde-div-12350-100">
+  
+  
+	
+
+
+
+<div class="bde-div-12350-101-12350-1 bde-div bde-div-12350-101">
+  
+  
+	
+
+
+
+<div class="bde-div-12350-102-12350-1 bde-div bde-div-12350-102">
+  
+  
+	
+
+
+
+<h2 class="bde-heading-12350-103-12350-1 bde-heading bde-heading-12350-103">
+Tilmeld dig Nyhedsbrevet
+</h2>
+</div>
+</div><div class="bde-form-builder-12350-104-12350-1 bde-form-builder bde-form-builder-12350-104">
+
+<form id="nyhedsbrev104" class="breakdance-form breakdance-form--horizontal" data-options="{&quot;slug&quot;:&quot;custom&quot;,&quot;name&quot;:&quot;Nyhedsbrev&quot;,&quot;ajaxUrl&quot;:&quot;https:\/\/dexter.dk\/wp-admin\/admin-ajax.php&quot;,&quot;clearOnSuccess&quot;:true,&quot;hideOnSuccess&quot;:false,&quot;successMessage&quot;:&quot;Din tilmelding er gennemf\u00f8rt!&quot;,&quot;errorMessage&quot;:&quot;Der opstod en fejl.&quot;,&quot;redirect&quot;:false,&quot;redirectUrl&quot;:&quot;&quot;,&quot;customJavaScript&quot;:&quot;&quot;,&quot;recaptcha&quot;:{&quot;key&quot;:&quot;&quot;,&quot;enabled&quot;:false},&quot;honeypot_enabled&quot;:true,&quot;popupsOnSuccess&quot;:[],&quot;popupsOnError&quot;:[]}" data-steps="0" >
+  
+  
+  
+<div class="breakdance-form-field breakdance-form-field--email" >
+    
+    
+    
+    <input
+    class="breakdance-form-field__input"
+    id="email"
+    aria-describedby="email"
+    type="email"
+    name="fields[email]"
+    placeholder="Skriv din email"
+    value=""
+                
+        
+        
+    required
+    
+    
+    
+    
+    
+>
+
+
+    
+    
+</div>
+
+
+<div class="breakdance-form-field breakdance-form-field--checkbox" >
+    
+    
+    
+    <fieldset role="group"
+    >
+          <div class="breakdance-form-checkbox">
+          <input
+              type="checkbox"
+              name="fields[utldtn]"
+              value="godkend"
+              id="utldtn-1"
+              
+              
+                        >
+          <label class="breakdance-form-checkbox__text" for="utldtn-1">Jeg accepterer <a href="/privatlivspolitik">privatlivspolitikken.</a></label>
+      </div>
+  </fieldset>
+
+
+
+    
+    
+</div>
+
+
+<div class="breakdance-form-field breakdance-form-field--hpinput" >
+    
+    
+            <label class="breakdance-form-field__label" for="hpname">
+            HP Name
+        </label>
+    
+    <input
+    class="breakdance-form-field__input"
+    id="hpname"
+    aria-describedby="hpname"
+    type="hpinput"
+    name="fields[hpname]"
+    placeholder=""
+    value=""
+                
+        
+        
+    
+    autocomplete="off"
+    tabindex="-1"
+    
+    
+    
+>
+
+
+    
+    
+</div>
+
+
+<div class="breakdance-form-field breakdance-form-field--hidden" >
+    
+    
+    
+    <input
+    id="csrf-token-104"
+    type="hidden"
+    name="fields[csrfToken]"
+    value="fb0d91a998"
+    
+    >
+
+
+    
+    
+</div><div class="breakdance-form-field breakdance-form-footer">    
+    
+    
+    
+    
+            
+            <button type="submit" class="button-atom button-atom--primary breakdance-form-button breakdance-form-button__submit"  >
+    
+        <span class="button-atom__text"> TILMELD</span>
+
+        
+        
+            </button>
+    
+    <input type="hidden" name="form_id" value="104">
+    <input type="hidden" name="post_id" value="12350">
+</div>
+
+  
+</form>
+
+
+</div>
+</div></div><div class="bde-text-11595-191 bde-text">
+Musikhuset Dexter • Vindegade 65 • 5000 Odense C
+</div><div class="bde-text-11595-207 bde-text">
+Musikhuset Dexter<br>Vindegade 65<br>5000 Odense C
+</div><div class="bde-div-11595-204 bde-div">
+  
+  
+	
+
+
+
+<a class="bde-text-link-11595-203 bde-text-link breakdance-link" href="tel:+45 63 11 27 28" target="_self" data-type="contact">
+  +45 63 11 27 28
+
+</a><div class="bde-text-11595-192 bde-text">
+ • 
+</div><a class="bde-text-link-11595-206 bde-text-link breakdance-link" href="mailto:mail@postenlive.dk?subject=&amp;body=" target="_self" data-type="contact">
+  mail@postenlive.dk
+
+</a>
+</div><div class="bde-div-11595-208 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-div-11595-209 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-image-11595-210 bde-image">
+<figure class="breakdance-image breakdance-image--12859">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/Group-15680.png" width="29" height="41" sizes="(max-width: 29px) 100vw, 29px"></div>
+	</div></figure>
+
+</div><div class="bde-image-11595-211 bde-image">
+<figure class="breakdance-image breakdance-image--12860">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/Group-15689.png" width="110" height="35" sizes="(max-width: 110px) 100vw, 110px"></div>
+	</div></figure>
+
+</div><div class="bde-image-11595-212 bde-image">
+<figure class="breakdance-image breakdance-image--12861">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/Group-15682.png" width="110" height="37" sizes="(max-width: 110px) 100vw, 110px"></div>
+	</div></figure>
+
+</div>
+</div>
+</div></div>
+</section><section class="bde-section-11595-146 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-columns-11595-147 bde-columns"><div class="bde-column-11595-184 bde-column">
+  
+  
+	
+
+
+
+<div class="bde-div-11595-185 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-image-11595-187 bde-image">
+<figure class="breakdance-image breakdance-image--15497">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="https://www.facebook.com/MusikhusDexter/?fref=ts" target="_blank" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/03/fb.png" width="13" height="28" sizes="(max-width: 13px) 100vw, 13px"></a></div>
+	</div></figure>
+
+</div><div class="bde-image-11595-188 bde-image">
+<figure class="breakdance-image breakdance-image--15498">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="https://www.instagram.com/musikhusetdexter/" target="_blank" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/03/ig.png" width="24" height="24" sizes="(max-width: 24px) 100vw, 24px"></a></div>
+	</div></figure>
+
+</div>
+</div>
+</div><div class="bde-column-11595-148 bde-column">
+  
+  
+	
+
+
+
+<div class="bde-text-11595-150 bde-text">
+Copyright ©
+</div><div class="bde-text-11595-163 bde-text">
+2026
+</div><div class="bde-text-11595-164 bde-text">
+Musikhuset Dexter. Alle rettigheder forbeholdes
+</div>
+</div><div class="bde-column-11595-149 bde-column">
+  
+  
+	
+
+
+
+<div class="bde-menu-11595-151 bde-menu">
+
+
+      
+        
+    <nav class="breakdance-menu breakdance-menu--collapse    ">
+    <button class="breakdance-menu-toggle breakdance-menu-toggle--squeeze" type="button" aria-label="Open Menu" aria-expanded="false" aria-controls="menu-151">
+                  <span class="breakdance-menu-toggle-icon">
+            <span class="breakdance-menu-toggle-lines"></span>
+          </span>
+            </button>
+    
+  <ul class="breakdance-menu-list" id="menu-151">
+              
+  
+    <li class="breakdance-menu-item-11595-160 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/privatlivspolitik" target="_self" data-type="url"  >
+  Privatliv & cookiepolitik
+    </a>
+
+</li>
+  </ul>
+  </nav>
+
+
+</div>
+</div></div></div>
+</section>        <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/sites/2/*","/wp-content/*","/wp-content/plugins/*","/wp-content/plugins/breakdance/plugin/themeless/themes/breakdance-zero/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<div class="breakdance"><div class="bde-popup-12472-100 bde-popup">
+<div
+    class="breakdance-popup
+    "
+    data-breakdance-popup-id="12472"
+        >
+  <div class='breakdance-popup-content'>
+    <div class="bde-div-12472-103 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-div-12472-104 bde-div">
+  
+  
+	
+
+
+
+<a class="bde-container-link-12472-105 bde-container-link breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;11961&quot;,&quot;popupAction&quot;:&quot;close&quot;}}">
+  
+  
+	
+
+
+
+<div class="bde-image-12472-106 bde-image">
+<figure class="breakdance-image breakdance-image--17286">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/06/Group-14038.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-12472-107 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-image-12472-108 bde-image basm basm_profile_btn">
+<figure class="breakdance-image breakdance-image--15057">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="" target="_self" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/03/Group-140411.svg" width="" height=""></a></div>
+	</div></figure>
+
+</div><div class="bde-image-12472-109 bde-image basm basm_basket_btn">
+<figure class="breakdance-image breakdance-image--17287">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="" target="_self" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/06/Group-14040.svg" width="" height=""></a></div>
+	</div></figure>
+
+</div><div class="bde-image-12472-110 bde-image">
+<figure class="breakdance-image breakdance-image--17288">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="https://www.facebook.com/MusikhusDexter/?locale=da_DK" target="_blank" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/06/Path-10889.svg" width="" height=""></a></div>
+	</div></figure>
+
+</div><div class="bde-image-12472-112 bde-image">
+<figure class="breakdance-image breakdance-image--17289">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="https://www.instagram.com/musikhusetdexter/" target="_blank" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/sites/2/2024/06/Group-14003.svg" width="" height=""></a></div>
+	</div></figure>
+
+</div><div class="bde-rich-text-12472-115 bde-rich-text breakdance-rich-text-styles">
+<a title="<I class=&quot;fa fa-shopping-cart fa-2x basm basm_basket_btn&quot;></i>"><i class="fa fa-shopping-cart fa-2x basm basm_basket_btn"></i></a>
+</div>
+</div>
+</div>
+</div><div class="bde-div-12472-102 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-search-form-12472-114 bde-search-form">
+
+
+
+
+
+
+  
+
+<form id="search-form-114" role="search" method="get" data-type="classic" aria-hidden="false" class="js-search-form search-form search-form--classic" action="https://dexter.dk">
+  <div class="search-form__container">
+      <button type="submit" aria-label="Search" class="search-form__button">
+                	<svg width="100%" aria-hidden="true" class="search-form__icon--search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0-beta2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M504.1 471l-134-134C399.1 301.5 415.1 256.8 415.1 208c0-114.9-93.13-208-208-208S-.0002 93.13-.0002 208S93.12 416 207.1 416c48.79 0 93.55-16.91 129-45.04l134 134C475.7 509.7 481.9 512 488 512s12.28-2.344 16.97-7.031C514.3 495.6 514.3 480.4 504.1 471zM48 208c0-88.22 71.78-160 160-160s160 71.78 160 160s-71.78 160-160 160S48 296.2 48 208z"/></svg>
+
+          </button>
+  
+
+
+  	<label class="screen-reader-text" for="search-form-field-114">Search for:</label>
+
+        <input id="search-form-field-114" type="text" class="js-search-form-field search-form__field" placeholder="SØG" value="" name="s" />
+  	
+    
+    
+       </div>
+</form>
+
+
+</div><div id="menu-main-menu" class="bde-shortcode-12472-101 bde-shortcode">   
+	<aside id="menuholder" class="active">
+		<div class="sidebar-content" role="navigation">
+						<div class="bnm-menu">
+				<div class="bnm-menu-list">
+					<nav class="menu-5-container"><ul id="menu-5" class="menu"><li id="menu-item-12543" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12543"><a href="/#callist">Kalender</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://dexter.dk/nyheder/">Nyheder</a></li>
+<li id="menu-item-421" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-421"><a href="https://dexter.dk/sponsorer/">Sponsorer</a></li>
+<li id="menu-item-579" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-579"><a href="https://dexter.dk/residents/">Medlemsklub</a></li>
+<li id="menu-item-4942" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4942"><a target="_blank" href="https://www.postenlive.dk/">Besøg Posten</a></li>
+<li id="menu-item-12617" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-12617"><a href="/praktisk-info">Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-12618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12618"><a href="https://dexter.dk/praktisk-info/">Koncert info</a></li>
+	<li id="menu-item-12533" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12533"><a href="https://dexter.dk/praktisk-info/om-musikhuset-posten/">Om os</a></li>
+	<li id="menu-item-12532" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12532"><a href="https://dexter.dk/praktisk-info/billetter/">Billetter</a></li>
+	<li id="menu-item-12531" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12531"><a href="https://dexter.dk/praktisk-info/gavekort/">Gavekort</a></li>
+	<li id="menu-item-12530" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12530"><a href="https://dexter.dk/praktisk-info/bliv-frivillig/">Bliv frivillig</a></li>
+	<li id="menu-item-12529" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12529"><a href="https://dexter.dk/praktisk-info/booking/">Booking</a></li>
+	<li id="menu-item-12528" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12528"><a href="https://dexter.dk/praktisk-info/udleje/">Udleje</a></li>
+	<li id="menu-item-12527" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12527"><a href="https://dexter.dk/praktisk-info/venue-specs/">Venue Specs</a></li>
+</ul>
+</li>
+<li id="menu-item-69" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-69"><a href="https://dexter.dk/kontakt/">Kontakt</a></li>
+<li id="menu-item-9099" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9099"><a><I class="fa fa-user-alt fa-2x basm basm_profile_btn"></i></a></li>
+<li id="menu-item-9098" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9098"><a><I class="fa fa-shopping-cart fa-2x basm basm_basket_btn"></i></a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" href="https://www.facebook.com/postenlive?fref=ts" title="target_blank"><i class="fa fa-facebook fa-2x"></i></a></li>
+<li id="menu-item-70" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-70"><a target="_blank" href="https://instagram.com/postenlive/" title="target_blank"><i class="fa fa-instagram fa-2x"></i></a></li>
+<li id="menu-item-422" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-422"><a href="#search"><i class="fa fa-search fa-2x popup"></i></a></li>
+</ul></nav>				</div>
+			</div>
+		</div>
+	</aside>
+
+	
+
+	</div>
+</div>
+  </div>
+  </div>
+
+</div></div><div class="breakdance"><div class="bde-popup-12292-100 bde-popup">
+<div
+    class="breakdance-popup
+    "
+    data-breakdance-popup-id="12292"
+        >
+  <div class='breakdance-popup-content'>
+    <div id="popinner" class="bde-div-12292-116 bde-div">
+  
+  
+	
+
+
+
+
+</div><div class="bde-div-12292-104 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-div-12292-105 bde-div">
+  
+  
+	
+
+
+
+<a class="bde-container-link-12292-106 bde-container-link breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;11961&quot;,&quot;popupAction&quot;:&quot;close&quot;}}">
+  
+  
+	
+
+
+
+<div id="popupclose" class="bde-image-12292-107 bde-image">
+<figure class="breakdance-image breakdance-image--12296">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14038.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a>
+</div>
+</div>
+  </div>
+  </div>
+
+</div></div><div class="breakdance"><div class="bde-popup-11961-100 bde-popup">
+<div
+    class="breakdance-popup
+    "
+    data-breakdance-popup-id="11961"
+        >
+  <div class='breakdance-popup-content'>
+    <section class="bde-section-11961-101 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-columns-11961-102 bde-columns"><div class="bde-column-11961-103 bde-column">
+  
+  
+	
+
+
+
+
+</div><div class="bde-column-11961-108 bde-column">
+  
+  
+	
+
+
+
+<div class="bde-search-form-11961-129 bde-search-form">
+
+
+
+
+
+
+  
+
+<form id="search-form-129" role="search" method="get" data-type="classic" aria-hidden="false" class="js-search-form search-form search-form--classic" action="https://dexter.dk">
+  <div class="search-form__container">
+      <button type="submit" aria-label="Search" class="search-form__button">
+                	<svg width="100%" aria-hidden="true" class="search-form__icon--search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Pro 6.0.0-beta2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) --><path d="M504.1 471l-134-134C399.1 301.5 415.1 256.8 415.1 208c0-114.9-93.13-208-208-208S-.0002 93.13-.0002 208S93.12 416 207.1 416c48.79 0 93.55-16.91 129-45.04l134 134C475.7 509.7 481.9 512 488 512s12.28-2.344 16.97-7.031C514.3 495.6 514.3 480.4 504.1 471zM48 208c0-88.22 71.78-160 160-160s160 71.78 160 160s-71.78 160-160 160S48 296.2 48 208z"/></svg>
+
+          </button>
+  
+
+
+  	<label class="screen-reader-text" for="search-form-field-129">Search for:</label>
+
+        <input id="search-form-field-129" type="text" class="js-search-form-field search-form__field" placeholder="SØG" value="" name="s" />
+  	
+    
+    
+       </div>
+</form>
+
+
+</div><div class="bde-menu-11961-109 bde-menu menu-main-list">
+
+
+      
+        
+    <nav class="breakdance-menu breakdance-menu--collapse breakdance-menu--vertical   ">
+    <button class="breakdance-menu-toggle breakdance-menu-toggle--squeeze" type="button" aria-label="Open Menu" aria-expanded="false" aria-controls="menu-109">
+                  <span class="breakdance-menu-toggle-icon">
+            <span class="breakdance-menu-toggle-lines"></span>
+          </span>
+            </button>
+    
+  <ul class="breakdance-menu-list" id="menu-109">
+              
+  
+    <li class="breakdance-menu-item-11961-110 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/" target="_self" data-type="url"  >
+  KALENDER
+    </a>
+
+</li><li class="breakdance-menu-item-11961-111 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/om-musikhuset-posten" target="_self" data-type="url"  >
+  OM OS
+    </a>
+
+</li><li class="breakdance-menu-item-11961-112 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/nyheder" target="_self" data-type="url"  >
+  NYHEDER
+    </a>
+
+</li><li class="breakdance-menu-item-11961-113 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/events" target="_self" data-type="url"  >
+  EVENTS
+    </a>
+
+</li><li class="breakdance-menu-item-11961-114 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/residents" target="_self" data-type="url"  >
+  MEDLEMSKLUB
+    </a>
+
+</li><li class="breakdance-menu-item-11961-115 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/info" target="_self" data-type="url"  >
+  INFO
+    </a>
+
+</li><li class="breakdance-menu-item-11961-116 breakdance-menu-item">
+        
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link breakdance-menu-link" href="/kontakt" target="_self" data-type="url"  >
+  KONTAKT
+    </a>
+
+</li>
+  </ul>
+  </nav>
+
+
+</div>
+</div><div class="bde-column-11961-123 bde-column">
+  
+  
+	
+
+
+
+<div class="bde-div-11961-130 bde-div">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11961-139 bde-container-link breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;11961&quot;,&quot;popupAction&quot;:&quot;close&quot;}}">
+  
+  
+	
+
+
+
+<div class="bde-image-11961-131 bde-image">
+<figure class="breakdance-image breakdance-image--12296">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--lightbox" href="https://dexter.dk/wp-content/uploads/2024/04/Group-14038.svg" target="_self" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14038.svg" width="" height=""></a></div>
+	</div></figure>
+
+</div>
+
+</a>
+</div><div class="bde-div-11961-132 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-image-11961-133 bde-image">
+<figure class="breakdance-image breakdance-image--12304">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14043.svg" width="" height=""></div>
+	</div></figure>
+
+</div><div class="bde-image-11961-136 bde-image">
+<figure class="breakdance-image breakdance-image--12303">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14040.svg" width="" height=""></div>
+	</div></figure>
+
+</div><div class="bde-image-11961-135 bde-image">
+<figure class="breakdance-image breakdance-image--12305">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Path-10889.svg" width="" height=""></div>
+	</div></figure>
+
+</div><div class="bde-image-11961-137 bde-image">
+<figure class="breakdance-image breakdance-image--12299">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14004.svg" width="" height=""></div>
+	</div></figure>
+
+</div><div class="bde-image-11961-134 bde-image">
+<figure class="breakdance-image breakdance-image--12297">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14003.svg" width="" height=""></div>
+	</div></figure>
+
+</div><div class="bde-image-11961-138 bde-image">
+<figure class="breakdance-image breakdance-image--12306">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://dexter.dk/wp-content/uploads/2024/04/Group-14006-1.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+</div>
+</div></div></div>
+</section>
+  </div>
+  </div>
+
+</div></div><script id="wccBannerTemplate_GDPR" type="text/template"><div class="wcc-consent-container wcc-hide" role="complementary" aria-label="Vi værdsætter dit privatliv"> <div class="wcc-consent-bar" data-tag="notice" style="background-color:#FFFFFF;border-color:#f4f4f4">  <div class="wcc-notice"> <p id="wcc-title" class="wcc-title" data-tag="title" role="heading" aria-level="1" aria-labelledby="wcc-title" style="color:#212121">Vi værdsætter dit privatliv</p><div class="wcc-notice-group"> <div id="wcc-notice-des" class="wcc-notice-des" data-tag="description" aria-describedby="wcc-notice-des" style="color:#212121"> <p>Vi bruger cookies til at forbedre din browsingoplevelse, vise personligt tilpassede annoncer eller indhold og analysere vores trafik. Ved at klikke på "Accepter alle", accepterer du vores brug af cookies.</p> </div><div class="wcc-notice-btn-wrapper" data-tag="notice-buttons"> <button class="wcc-btn wcc-btn-customize" aria-label="Tilpas" data-tag="settings-button" style="color:#000000;background-color:transparent;border-color:#000000">Tilpas</button> <button class="wcc-btn wcc-btn-reject" aria-label="Afvis alle" data-tag="reject-button" style="color:#000000;background-color:transparent;border-color:#000000">Afvis alle</button> <button class="wcc-btn wcc-btn-accept" aria-label="Accepter alle" data-tag="accept-button" style="color:#FFFFFF;background-color:#000000;border-color:#000000">Accepter alle</button>  </div></div></div></div></div><div class="wcc-modal" role="dialog" aria-label="Customize Consent Preferences"> <div class="wcc-preference-center" data-tag="detail" style="color:#212121;background-color:#FFFFFF;border-color:#f4f4f4"> <div class="wcc-preference-header"> <span id="wcc-preference-title" class="wcc-preference-title" data-tag="detail-title" role="heading" aria-level="1" aria-labelledby="wcc-preference-title" style="color:#212121">Customize Consent Preferences</span> <button class="wcc-btn-close" aria-label="Luk cookie præferencer" data-tag="detail-close"> <img src="https://dexter.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/close.svg" alt="Close"> </button> </div><div class="wcc-preference-body-wrapper"> <div class="wcc-preference-content-wrapper" data-tag="detail-description" style="color:#212121"> <p>Vi bruger cookies til at hjælpe dig med at navigere effektivt og udføre visse funktioner. Du finder detaljerede oplysninger om alle cookies under hver samtykkekategori nedenfor.</p>
+<p>De cookies, der er kategoriseret som "nødvendige", gemmes i din browser, da de er essentielle for at aktivere webstedets grundlæggende funktionaliteter.</p>
+<p>Vi bruger også tredjepartscookies, der hjælper os med at analysere, hvordan du bruger denne hjemmeside, gemmer dine præferencer og giver det indhold og de annoncer, der er relevante for dig. Disse cookies vil kun blive gemt i din browser med dit forudgående samtykke.</p>
+<p>Du kan vælge at aktivere eller deaktivere nogle eller alle disse cookies, men deaktivering af nogle af dem kan påvirke din browseroplevelse.</p> </div> <div class="wcc-google-privacy-policy" data-tag="google-privacy-policy">  </div><div class="wcc-accordion-wrapper" data-tag="detail-categories"> <div class="wcc-accordion" id="wccDetailCategorynecessary" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Nødvendige" data-tag="detail-category-title" style="color:#212121">Nødvendige</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchnecessary"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Nødvendige cookies er påkrævet for at aktivere de grundlæggende funktioner på dette websted, såsom at give sikkert login eller justere dine samtykkepræferencer. Disse cookies gemmer ingen personligt identificerbare data.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="wcc-empty-cookies-text">Ingen cookies at vise.</p></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryfunctional" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Funktionelle" data-tag="detail-category-title" style="color:#212121">Funktionelle</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchfunctional"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Funktionelle cookies hjælper med at udføre visse funktioner såsom at dele indholdet af webstedet på sociale medieplatforme, indsamle feedback og andre tredjepartsfunktioner.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="wcc-empty-cookies-text">Ingen cookies at vise.</p></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryanalytics" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Statistiske" data-tag="detail-category-title" style="color:#212121">Statistiske</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchanalytics"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Præstationscookies bruges til at forstå og analysere de vigtigste præstationsindekser på webstedet, hvilket hjælper med at levere en bedre brugeroplevelse for de besøgende.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><ul class="wcc-cookie-des-table"><li><div>Cookie</div><div>_fbp</div></li><li><div>Varighed</div><div>7 days</div></li><li><div>Beskrivelse</div><div><p>Facebook indstiller denne cookie til at gemme og spore interaktioner.</p></div></li></ul></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryperformance" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Ydelse" data-tag="detail-category-title" style="color:#212121">Ydelse</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchperformance"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Præstationscookies bruges til at forstå og analysere de vigtigste præstationsindekser på webstedet, hvilket hjælper med at levere en bedre brugeroplevelse for de besøgende.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="wcc-empty-cookies-text">Ingen cookies at vise.</p></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryadvertisement" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Markedsføring" data-tag="detail-category-title" style="color:#212121">Markedsføring</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchadvertisement"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Annoncecookies bruges til at give besøgende tilpassede annoncer baseret på de sider, du tidligere har besøgt, og til at analysere effektiviteten af ​​annoncekampagnerne.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="wcc-empty-cookies-text">Ingen cookies at vise.</p></div> </div> </div><div class="wcc-accordion" id="wccDetailCategoryothers" aria-expanded="false"> <div class="wcc-accordion-item"> <div class="wcc-accordion-chevron"><i class="wcc-chevron-right"></i></div> <div class="wcc-accordion-header-wrapper"> <div class="wcc-accordion-header"><button class="wcc-accordion-btn" aria-label="Øvrige" data-tag="detail-category-title" style="color:#212121">Øvrige</button><span class="wcc-always-active" data-tag="detail-category-always-enabled" style="color:#008000">Altid aktiv</span> <div class="wcc-switch" data-tag="detail-category-toggle"><input type="checkbox" id="wccSwitchothers"></div> </div> <div class="wcc-accordion-header-des" data-tag="detail-category-description" style="color:#212121"> <p>Andre cookies er dem, der identificeres og endnu ikke er klassificeret i nogen kategori.</p></div> </div> </div> <div class="wcc-accordion-body" aria-hidden="true"> <div class="wcc-audit-table" data-tag="audit-table" style="color:#212121;background-color:#f4f4f4;border-color:#ebebeb"><p class="wcc-empty-cookies-text">Ingen cookies at vise.</p></div> </div> </div> </div></div><div class="wcc-footer-wrapper"> <span class="wcc-footer-shadow"></span> <div class="wcc-prefrence-btn-wrapper" data-tag="detail-buttons"> <button class="wcc-btn wcc-btn-reject" aria-label="Afvis alle" data-tag="detail-reject-button" style="color:#000000;background-color:transparent;border-color:#000000"> Afvis alle </button> <button class="wcc-btn wcc-btn-preferences" aria-label="Gem mine præferencer" data-tag="detail-save-button" style="color:#000000;background-color:transparent;border-color:#000000"> Gem mine præferencer </button> <button class="wcc-btn wcc-btn-accept" aria-label="Accepter alle" data-tag="detail-accept-button" style="color:#FFFFFF;background-color:#000000;border-color:#000000"> Accepter alle </button> </div><div class="wcc-footer-bottom-wrapper" style="padding: 8px 24px;font-size: 12px;font-weight: 400;line-height: 20px;text-align: right;border-radius: 0 0 6px 6px;direction: ltr;justify-content: space-between;align-items: center;background-color:#EDEDED;color:#293C5B"><div class="wcc-consent-details-wrapper" style="justify-content: start;float: left;min-width: 50%;text-align: left"></div><div data-tag="detail-powered-by" style="justify-content: end;float: right;min-width: 50%;background-color:#EDEDED;color:#293C5B"> Powered by <a target="_blank" rel="noopener" aria-label="WebToffee product page, opens a new window" href="https://www.webtoffee.com/product/gdpr-cookie-consent/" style="margin-left: 5px;line-height: 0"><img src="https://dexter.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/webtoffee.svg" alt="Webtoffee logo" style="width: 78px;height: 13px;margin: 0"></a> </div></div></div></div></div><div class="wcc-overlay wcc-hide"></div></script>		<div class='asp_hidden_data' id="asp_hidden_data" style="display: none !important;">
+			<svg style="position:absolute" height="0" width="0">
+				<filter id="aspblur">
+					<feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+				</filter>
+			</svg>
+			<svg style="position:absolute" height="0" width="0">
+				<filter id="no_aspblur"></filter>
+			</svg>
+		</div>
+		<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<script type="text/javascript" id="gob-events-script-js-extra">
+/* <![CDATA[ */
+var MyAjax = {"ajaxurl":"https://dexter.dk/wp-admin/admin-ajax.php","security":"10279b6d1a"};
+//# sourceURL=gob-events-script-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gob-events/js/gob-events.js?ver=1786565035" id="gob-events-script-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gu-menu/js/jquery.slicknav.min.js?ver=1.0.10" id="gu-slicknav-js-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/gu-menu/js/gu-menu.js?ver=1.0.10" id="gu-menu-js-js"></script>
+<script type="text/javascript" id="lightbox-acf-insert-js-js-extra">
+/* <![CDATA[ */
+var lightbox_acf_insert = {"ajax_url":"https://dexter.dk/wp-admin/admin-ajax.php","nonce":"3dc2b3d85d"};
+//# sourceURL=lightbox-acf-insert-js-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/lightbox-acf-insert/assets/js/lightbox-acf-insert.js?ver=1.2" id="lightbox-acf-insert-js-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/wp-splide-slider/js/splide.min.js?ver=3.0" id="splide-js-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/wp-splide-slider/js/splide-extension-auto-scroll.min.js?ver=1.0" id="splide-autoscroll-js-js"></script>
+<script type="text/javascript" src="https://dexter.dk/wp-content/plugins/wp-splide-slider/js/init-splide.js?ver=1.0" id="wp-splide-init-js"></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/plugin/global-scripts/breakdance-utils.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/elements-reusable-code/breakdance-link-actions.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-form@1/js/form.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-menu@1/awesome-menu.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/popups@1/popups.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-search-form@1/search-form.js?bd_ver=2.7.2' defer></script>
+<script src='https://unpkg.com/gsap@3.12.2/dist/gsap.min.js' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/popups@1/popup-animations.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/lightgallery@2/lightgallery-bundle.min.js?bd_ver=2.7.2' defer></script>
+<script src='https://dexter.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/elements-reusable-code/lightbox.js?bd_ver=2.7.2' defer></script>
+<script>document.addEventListener('DOMContentLoaded', function(){     // Delegate click event for elements with class 'open'
+    /*document.addEventListener('click', function(event) {
+        if (event.target.classList.contains('open')) {
+            event.target.classList.add('oppenned');
+            event.stopPropagation();
+        } else if (event.target.matches('body') || !event.target.closest('.open')) {
+            // If the clicked element is the body or not a child of an element with 'open', remove class
+            document.querySelectorAll('.open').forEach(function(elem) {
+                elem.classList.remove('oppenned');
+            });
+        }
+
+        // Delegate click event for elements with class 'cls'
+        if (event.target.classList.contains('cls')) {
+            document.querySelectorAll('.open').forEach(function(elem) {
+                elem.classList.remove('oppenned');
+            });
+            event.stopPropagation();
+        }
+    });*/ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ /*window.addEventListener('load', function() {
+    // Attempt to reinitialize Swiper instances with new settings
+    reinitializeAllSwipers();
+
+    function reinitializeAllSwipers() {
+        var swiperContainers = document.querySelectorAll('.swiperlist .swiper');
+
+        swiperContainers.forEach(function(container) {
+            if (container.swiper) {
+                // Determine the reverseDirection based on the container's class
+                const reverseDirection = container.closest('.swiperlistdown') ? true : false;
+                // Reinitialize Swiper with new settings
+                reinitializeSwiper(container, container.swiper, reverseDirection);
+            } else {
+                console.error('No Swiper instance found for this container:', container);
+            }
+        });
+    }
+
+    function reinitializeSwiper(container, existingSwiper, reverseDirection) {
+        // Stop and destroy the existing Swiper instance
+        if (existingSwiper.autoplay && existingSwiper.autoplay.stop) existingSwiper.autoplay.stop();
+        if (existingSwiper.destroy) existingSwiper.destroy(true, true);
+
+        // Define custom settings for the new Swiper instance
+        var myCustomSettings = {
+            direction: 'vertical',
+            freeMode: true,
+            loop: false,
+            allowTouchMove: true,
+            autoplay: {
+                delay: 0, // Adjusted delay for autoplay to work
+                disableOnInteraction: false, // Set to false to not disable autoplay on interaction
+                reverseDirection: reverseDirection, // Use the reverseDirection based on the container's class
+            },
+            slidesPerView: 6,
+            spaceBetween: 24,
+            speed: 6000,
+        };
+
+        // Initialize a new Swiper instance on the container with the updated settings
+        container.swiper = new Swiper(container, myCustomSettings);
+    }
+
+    function getSwiperSettings(swiperContainerSelector) {
+        var container = document.querySelector(swiperContainerSelector);
+        if (container && container.swiper) {
+            var swiperInstance = container.swiper;
+            console.log("Current Swiper Settings:", swiperInstance.params);
+            return swiperInstance.params;
+        } else {
+            console.error("Swiper instance not found for the given selector:", swiperContainerSelector);
+            return null;
+        }
+    }
+
+    // Delayed settings fetch example
+    setTimeout(() => {
+        var settings = getSwiperSettings('.swiperlist .swiper');
+        console.log(settings);
+    }, 1000); // Adjust the delay as needed based on your page's specifics
+});
+*/
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ /*document.addEventListener('DOMContentLoaded', () => {
+  const gridItems = document.querySelectorAll('.bde-grid > .bde-div');
+
+  gridItems.forEach(item => {
+    item.addEventListener('mouseover', () => {
+      const popover = item.querySelector('.popover');
+      if (popover) { // Check if popover exists
+        popover.style.opacity = '1';
+        popover.style.visibility = 'visible';
+      }
+    });
+
+    item.addEventListener('mouseleave', () => {
+      const popover = item.querySelector('.popover');
+      if (popover) { // Check if popover exists
+        popover.style.opacity = '0';
+        // No need to explicitly set visibility here; CSS handles it after opacity transition
+      }
+    });
+  });
+});*/
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ /*
+    // Get the current URL and normalize it
+    var currentUrl = window.location.href.split("#")[0].split("?")[0].replace(/\/$/, "");
+
+    // Select all <a> tags within the .about-menu
+    var menuLinks = document.querySelectorAll('.about-menu a');
+
+    // Iterate over each link
+    menuLinks.forEach(function(link) {
+        // Normalize the href of the link
+        var linkHref = link.href.split("#")[0].split("?")[0].replace(/\/$/, "");
+
+        // Check if the normalized href of the link matches the normalized current URL
+        if (linkHref === currentUrl) {
+            // Add the .active class to the matching link
+            link.classList.add('active');
+        }
+    });
+*/ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){     document.querySelector('.bde-content-reveal__button').addEventListener('click', function () {
+            // Simulate a window resize event
+            window.dispatchEvent(new Event('resize'));
+        })
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){     if (!window.BreakdanceFrontend) {
+        window.BreakdanceFrontend = {}
+    }
+
+    window.BreakdanceFrontend.data = {"homeUrl":"https:\/\/dexter.dk","ajaxUrl":"https:\/\/dexter.dk\/wp-admin\/admin-ajax.php","elementsPluginUrl":"https:\/\/dexter.dk\/wp-content\/plugins\/breakdance\/subplugins\/breakdance-elements\/","BASE_BREAKPOINT_ID":"breakpoint_base","breakpoints":[{"id":"breakpoint_base","label":"Desktop","defaultPreviewWidth":"100%"},{"id":"breakpoint_tablet_landscape","label":"Tablet Landscape","defaultPreviewWidth":1024,"maxWidth":1119},{"id":"breakpoint_tablet_portrait","label":"Tablet Portrait","defaultPreviewWidth":768,"maxWidth":1023},{"id":"breakpoint_phone_landscape","label":"Phone Landscape","defaultPreviewWidth":480,"maxWidth":767},{"id":"breakpoint_phone_portrait","label":"Phone Portrait","defaultPreviewWidth":400,"maxWidth":479}],"subscriptionMode":"pro"} }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ breakdanceForm.init('.breakdance .bde-form-builder-12350-104-12350-1 .breakdance-form') }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+new AwesomeMenu(".breakdance .bde-menu-11595-151 .breakdance-menu", {
+  dropdown: {
+    openOnClick: false,
+    mode: {
+      desktop: 'dropdown'
+    },
+    placement: 'left',
+    width: null,
+    animation: 'fade'
+  },
+  link: {
+    effect: '',
+    effectDirection: '',
+  },
+  mobile: {
+    breakpoint: 'never',
+    mode: 'accordion',
+    offcanvasPosition: 'left',
+    offset: null,
+    followLinks: true
+  }
+});
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdancePopup(12472, {"onlyShowOnce":false,"avoidMultiple":false,"limitSession":null,"limitPageLoad":null,"limitForever":null,"triggers":[],"breakpointConditions":[]}); }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+if (window.breakdancePopupInstances) {
+  const popupInstance = window.breakdancePopupInstances[12472] ?? null;
+  if (popupInstance) {
+    popupInstance.setOptions({
+      keepOpenOnHashlinkClicks: false,
+      closeOnClickOutside: true,
+      closeOnEscapeKey: true,
+      closeAfterMilliseconds: null,
+      showCloseButtonAfterMilliseconds: null,
+      disableScrollWhenOpen: false,
+                });
+  }
+}
+
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdanceSearchForm('.breakdance .bde-search-form-12472-114', {});
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdancePopup(12292, {"onlyShowOnce":false,"avoidMultiple":false,"limitSession":null,"limitPageLoad":null,"limitForever":null,"triggers":[{"slug":"click","options":{"clickType":"selector","selector":".t-pop"}}],"breakpointConditions":[]}); }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+if (window.breakdancePopupInstances) {
+  const popupInstance = window.breakdancePopupInstances[12292] ?? null;
+  if (popupInstance) {
+    popupInstance.setOptions({
+      keepOpenOnHashlinkClicks: false,
+      closeOnClickOutside: true,
+      closeOnEscapeKey: true,
+      closeAfterMilliseconds: null,
+      showCloseButtonAfterMilliseconds: null,
+      disableScrollWhenOpen: false,
+                });
+  }
+}
+
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdancePopup(11961, {"onlyShowOnce":false,"avoidMultiple":false,"limitSession":null,"limitPageLoad":null,"limitForever":null,"triggers":[],"breakpointConditions":[]}); }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+if (window.breakdancePopupInstances) {
+  const popupInstance = window.breakdancePopupInstances[11961] ?? null;
+  if (popupInstance) {
+    popupInstance.setOptions({
+      keepOpenOnHashlinkClicks: false,
+      closeOnClickOutside: true,
+      closeOnEscapeKey: true,
+      closeAfterMilliseconds: null,
+      showCloseButtonAfterMilliseconds: null,
+      disableScrollWhenOpen: false,
+              entranceAnimation: {"animation_type":"fade","duration":{"number":600,"unit":"ms","style":"600ms"},"ease":"linear"},
+                    exitAnimation: {"animation_type":"fade","ease":"linear"},
+          });
+  }
+}
+
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ new BreakdanceSearchForm('.breakdance .bde-search-form-11961-129', {});
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+new AwesomeMenu(".breakdance .bde-menu-11961-109 .breakdance-menu", {
+  dropdown: {
+    openOnClick: false,
+    mode: {
+      desktop: 'dropdown'
+    },
+    placement: 'left',
+    width: null,
+    animation: 'fade'
+  },
+  link: {
+    effect: '',
+    effectDirection: '',
+  },
+  mobile: {
+    breakpoint: '',
+    mode: 'accordion',
+    offcanvasPosition: 'left',
+    offset: null,
+    followLinks: true
+  }
+});
+ }) </script>
+<script>document.addEventListener('DOMContentLoaded', function(){ 
+new BreakdanceLightbox('.breakdance .bde-image-11961-131', {
+  itemSelector: '.breakdance-image-link',
+  ...null
+});
+ }) </script>
+    </body>
+
+    </html>

@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="view-transition" content="same-origin">
+    <meta name="color-scheme" content="light" data-default="light dark">
+    <meta name="apple-mobile-web-app-title" content="Heartland">
+    <style blocking="render">
+        @view-transition { navigation: auto; }
+        ::view-transition-old(root) { animation-duration: 0.6s; }
+        ::view-transition-new(root) { animation-duration: 0.6s; animation-delay: 0.3s; }
+    </style>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T4XT6KZ');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="preload" href="https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/fonts/Telegraf-Variable.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preconnect" href="https://api.open-meteo.com" crossorigin>
+<link rel="dns-prefetch" href="https://api.open-meteo.com">
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Heartland &#8212; 10 – 12 JUNI 2027 @ Egeskov</title>
+	<meta name="description" content="Oplev et varieret musikprogram, spændende samtidskunst, inspirerende talks og kompromisløse madoplevelser alt sammen på Heartland Festival." />
+	<link rel="canonical" href="https://heartlandfestival.dk/" />
+	<link rel="next" href="https://heartlandfestival.dk/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Heartland" />
+	<meta property="og:description" content="Oplev et varieret musikprogram, spændende samtidskunst, inspirerende talks og kompromisløse madoplevelser alt sammen på Heartland Festival." />
+	<meta property="og:url" content="https://heartlandfestival.dk/" />
+	<meta property="og:site_name" content="Heartland" />
+	<meta property="og:image" content="https://heartlandfestival.dk/wp-content/uploads/2026/02/Hero_img-scaled-1.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1440" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/heartlandfestival.dk\/","url":"https:\/\/heartlandfestival.dk\/","name":"Heartland &#8212; 10 – 12 JUNI 2027 @ Egeskov","isPartOf":{"@id":"https:\/\/heartlandfestival.dk\/#website"},"about":{"@id":"https:\/\/heartlandfestival.dk\/#organization"},"description":"Oplev et varieret musikprogram, spændende samtidskunst, inspirerende talks og kompromisløse madoplevelser alt sammen på Heartland Festival.","breadcrumb":{"@id":"https:\/\/heartlandfestival.dk\/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https:\/\/heartlandfestival.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/heartlandfestival.dk\/#website","url":"https:\/\/heartlandfestival.dk\/","name":"Heartland Festival","description":"10 – 12 JUNI 2027 @ Egeskov","publisher":{"@id":"https:\/\/heartlandfestival.dk\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heartlandfestival.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/heartlandfestival.dk\/#organization","name":"Heartland Festival","url":"https:\/\/heartlandfestival.dk\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heartlandfestival.dk\/#\/schema\/logo\/image\/","url":"https:\/\/heartlandfestival.dk\/wp-content\/uploads\/2026\/02\/Heartland2021_Facebook_Ikon_Profilbillede_1024x1024-1024x1024-1.jpg","contentUrl":"https:\/\/heartlandfestival.dk\/wp-content\/uploads\/2026\/02\/Heartland2021_Facebook_Ikon_Profilbillede_1024x1024-1024x1024-1.jpg","width":1024,"height":1024,"caption":"Heartland Festival"},"image":{"@id":"https:\/\/heartlandfestival.dk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/heartlandfestivaldk","https:\/\/www.instagram.com\/heartlandfestivaldk\/?hl=da","https:\/\/www.linkedin.com\/company\/heartlandfestival\/","https:\/\/www.youtube.com\/channel\/UChHpfNbmi-3CfKElVMOpFCQ"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' fetchpriority='high' id='heartland-style-css' href='https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='heartland-main-css' href='https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/main.css?ver=1.0.0' media='all' />
+<style>.wp-block-gallery.is-cropped .blocks-gallery-item picture{height:100%;width:100%;}</style><link rel="icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-180x180.png" />
+<meta name="msapplication-TileImage" content="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-270x270.png" />
+</head>
+
+<body class="home blog wp-embed-responsive wp-theme-heartland-festival bg-white text-base-dark antialiased has-bg-video">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4XT6KZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+        <div class="bg-video-container" style="opacity: 1;" aria-hidden="true" inert>
+        <heartland-video
+    video-title="background-video (1).webm"
+    data-src240="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_240p.mp4"
+    data-src360="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_360p.mp4"
+    data-src480="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_480p.mp4"
+    data-src720="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_720p.mp4"
+    data-src1080="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_1080p.mp4"
+    data-fallback-src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/original"
+    data-fallback-type="video/webm"
+    data-use-fallback="true"
+    data-autoplay="true"
+    data-loading="eager"
+    class="heartland-video block overflow-hidden group relative h-full bg-video"
+>
+    <div class="video-wrapper relative w-full h-full" style="height: 100%;">
+        <video
+                        autoplay loop muted            controlslist="nodownload"
+            playsinline
+            preload="auto"
+            class="video-element absolute inset-0 w-full h-full object-cover"
+            style="object-position: 50% 50%;"
+            aria-label="background-video (1).webm"
+        >
+            <source src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/original" class="source" type="video/webm">
+                                </video>
+                <img
+            src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/thumbnail.jpg"
+            alt="background-video (1).webm poster"
+            class="poster absolute inset-0 w-full h-full object-cover pointer-events-none transition-opacity duration-300 z-10"
+            style="object-position: 50% 50%;"
+            loading="eager"
+            decoding="async"
+        >
+                        <button
+            type="button"
+            class="pause-toggle absolute bottom-4 right-4 z-20 w-10 h-10 bg-black/50 hover:bg-black/70 rounded-full flex items-center justify-center transition-all duration-300 cursor-pointer border-0"
+            aria-label="Sæt video på pause"
+            data-label-pause="Sæt video på pause"
+            data-label-play="Afspil video"
+        >
+            <svg class="pause-icon w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+            </svg>
+            <svg class="play-icon w-5 h-5 text-white ml-0.5 hidden" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </button>
+            </div>
+</heartland-video>
+    </div>
+    <script>
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        const bgVideo = document.querySelector('.bg-video-container video');
+        if (bgVideo) bgVideo.removeAttribute('loop');
+    }
+    </script>
+    
+    <div id="page" class="site bg-transparent">
+        <a class="skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-rolig-green focus:text-white focus:px-4 focus:py-2 focus:rounded"
+            href="#main-content">
+            Spring til indhold        </a>
+
+        <header
+            x-data="{ ready: false }"
+            x-init="$nextTick(() => ready = true)"
+            class="site-header"
+            :class="ready ? 'transition-all duration-600 ease-in-out' : ''"
+            :style="$store.hero.videoPlaying ? 'opacity: 0; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : ($store.hero.headerHidden ? 'opacity: 1; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : 'opacity: 1; transform: translateY(0)')"
+        >
+            <div class="site-nav section-navigation">
+                <div class="nav-left">
+                    <div class="weather-badge" id="weather-badge" role="group" aria-label="Vejr">
+                        <div class="weather-icon" id="weather-icon">
+                            <!-- Default sun icon -->
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                <circle cx="12" cy="12" r="5" fill="#ffffff" />
+                                <path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+                            </svg>
+                        </div>
+                        <div class="weather-text">
+                            <span class="weather-temp" id="weather-temp">--°C</span>
+                            <span class="weather-location" id="weather-location">Indlæser...</span>
+                        </div>
+                    </div>
+                    <div class="date-badge" aria-label="Festivaldatoer">
+                        <time datetime="2026-06-18/2026-06-20">
+                            10 – 12 JUNI                        </time>
+                    </div>
+                </div>
+
+                 
+
+                <nav class="nav-right" aria-label="Handlinger">
+                        <a href="https://communication.markethype.io/signup-forms/67cf00f507deb0177c1cf186/" class="btn btn-outline  bg-white" target="_blank" rel="noopener noreferrer">
+        Tilmeld nyhedsbrev                <span class="sr-only">(åbner i nyt faneblad)</span>    </a>
+                        <a href="https://heartlandfestival.dk/billetter/" class="btn btn-tickets">
+        Køb billetter                    </a>
+                    <button class="hamburger" id="hamburger-btn" aria-label="Menu" aria-expanded="false" aria-controls="menu-overlay">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </nav>
+            </div>
+            <!-- Fullscreen Menu Overlay -->
+            <div class="menu-overlay" id="menu-overlay" aria-hidden="true" inert>
+                <div class="menu-content">
+                    <nav class="menu-nav" aria-label="Hovedmenu">
+                        <a href="https://heartlandfestival.dk/nyheder/">Nyheder</a><a href="https://heartlandfestival.dk/program/">Program</a><a href="https://heartlandfestival.dk/tidsplan/">Tidsplan</a><a href="https://heartlandfestival.dk/billetter/">Billetter</a><a href="https://heartlandfestival.dk/overnatning/">Overnatning</a>                    </nav>
+                    <div class="menu-footer">
+                        <a href="https://heartlandfestival.dk/om-heartland/" class="menu-footer-link">Om Heartland</a><a href="https://heartlandfestival.dk/praktisk-information/" class="menu-footer-link">Praktisk Information</a><a href="https://heartlandfestival.dk/restauranter/" class="menu-footer-link">Restauranter</a><a href="https://heartlandfestival.dk/bliv-frivillig/" class="menu-footer-link">Bliv frivillig</a><a href="https://heartlandfestival.dk/transport-parkering/" class="menu-footer-link">Transport &amp; Parkering</a><a href="https://heartlandfestival.dk/vip/" class="menu-footer-link">VIP &amp; Virksomheder</a><a href="https://heartlandfestival.dk/partnere/" class="menu-footer-link">Partnere</a>                            <div class="w-full mt-3 lg:hidden">
+                                    <a href="https://communication.markethype.io/signup-forms/67cf00f507deb0177c1cf186/" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
+        Tilmeld nyhedsbrev                <span class="sr-only">(åbner i nyt faneblad)</span>    </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="menu-backdrop" id="menu-backdrop"></div>
+        </header>
+        <div class="header-logo"  x-data="{ ready: false }"
+            x-init="$nextTick(() => ready = true)"
+            :class="ready ? 'transition-all duration-600 ease-in-out' : ''"
+            :style="$store.hero.videoPlaying ? 'opacity: 0; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : ($store.hero.headerHidden ? 'opacity: 1; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : 'opacity: 1; transform: translateY(0)')"
+        >
+            <a href="/" class="page-logo" aria-label="Heartland - Gå til forsiden">
+               <svg class="page-logo-svg" role="img" aria-label="Heartland" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 52"><path d="M63.032 5.759c3.22.192 10.212 2.644 12.453 10.949 2.242 8.306-3.669 14.743-6.897 16.918L41.344 51.99l-2.032-4.129 6.916-14.091-.006.024 5.505-11.213c1.246-2.538 2.577-7.712.9-12.684l.04-.153c2.97-3.535 8.152-4.129 10.365-3.985ZM23.352 9.907c-1.676 4.972-.335 10.145.901 12.683l12.348 25.262L34.637 52 7.393 33.636C4.164 31.46-1.747 25.024.495 16.718 2.727 8.403 9.73 5.95 12.95 5.768c2.213-.143 7.386.45 10.365 3.986l.038.153Z" fill="#fff"/><path d="M44.323 1.237c1.992.977 5.963 4.123 6.983 8.632.192.846 1.588 5.067 0 9.83-1.587 4.762-6.418 14.11-6.418 14.11l-6.897 14.053-6.898-14.053s-4.966-10.067-6.418-14.11c-1.453-4.044-.284-8.767 0-9.83 1.19-4.455 4.99-7.645 6.983-8.632C33 .567 35.298-.094 37.991.011c2.691-.105 4.99.556 6.332 1.226Z" fill="#fff"/></svg>
+            </a>
+        </div>
+        
+        
+
+<main id="main-content" tabindex="-1">
+    
+<div class="heartland-hero-zone">
+    
+
+<section
+    id="hero-block_58301682775d847f847ea3ab84cd68ae"
+    class="hero-frontpage relative min-h-svh lg:min-h-screen flex items-center justify-center overflow-hidden"
+        x-data="heroSection('2027-06-10 12:00', true)"
+    >
+
+        
+            <div aria-hidden="true">
+            <video
+                                x-ref="heroVideo"
+                x-show="videoPlaying"
+                x-transition:leave="transition-opacity duration-50"
+                x-transition:leave-start="opacity-100"
+                x-transition:leave-end="opacity-0"
+                @ended="onVideoEnded()"
+                @loadeddata="onVideoCanPlay()"
+                                class="absolute inset-0 w-full h-svh lg:h-full object-cover z-2"
+                autoplay
+                muted
+                playsinline
+                preload="auto"
+                poster="https://vz-28e88a7a-7ca.b-cdn.net/fdaa52c4-11b5-4aa4-bd89-c93f8545575c/thumbnail.jpg"            >
+                <source src="https://vz-28e88a7a-7ca.b-cdn.net/fdaa52c4-11b5-4aa4-bd89-c93f8545575c/play_720p.mp4" type="video/mp4">
+            </video>
+        </div>
+    
+    <!-- Left vertical text -->
+    <div class="absolute left-4 md:left-10 lg:left-12 xl:left-15 top-1/2 -translate-y-1/2 z-3 aspect-square -rotate-90">
+        <p
+            class="vertical-text-left header-sides font-medium tracking-[-0.04em] text-base-dark uppercase"
+            :class="ready ? 'transition-all duration-600 ease-bounce' : ''"
+            :style="videoPlaying ? 'opacity: 0; transform: translateY(-100%)' : 'opacity: 1; transform: translateY(0) ; transition-delay: 300ms'"
+        >
+            MUSIK / KUNST / TALKS / MAD        </p>
+    </div>
+
+    <!-- Right vertical text -->
+    <div class="absolute right-4 md:right-10 lg:right-12 xl:right-15 top-1/2 -translate-y-1/2 z-3  aspect-square rotate-90">
+        <p
+            class="vertical-text-right header-sides font-medium tracking-[-0.04em] text-base-dark uppercase"
+            :class="ready ? 'transition-all duration-600 ease-bounce' : ''"
+            :style="videoPlaying ? 'opacity: 0; transform: translateY(-100%)' : 'opacity: 1; transform: translateY(0); transition-delay: 300ms'"
+        >
+            10 — 12 JUNI 2027        </p>
+    </div>
+
+    <!-- Center content -->
+    <div class="container mx-auto px-4 text-center relative flex flex-col items-center justify-center min-h-svh lg:min-h-screen py-32 z-3 text-base-dark"
+    :class="videoPlaying ? 'invert-100  mix-blend-difference' : 'text-base-dark'">
+        <div class="flex-1 flex items-center justify-center">
+            <h1
+                class="text-hero"
+                :class="videoPlaying ? 'transition-all ease-out duration-4000  scale-110' : 'transition-all ease-bounce delay-300 duration-600 scale-100'"
+            >
+                
+                <svg viewBox="0 0 1512 263" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Heartland" class="w-[60vw] lg:w-[65vw] h-auto">
+                    <title>Heartland</title>
+                    <path d="M167.316 12.8408H205.106V256.825H167.316V146.39H35.9681V256.825H-1.82201V12.8408H35.9681V115.938H167.316V12.8408ZM322.696 235.545C356.083 235.545 370.759 220.503 375.895 201.424H409.649C406.347 226.74 386.168 262.695 321.595 262.695C256.288 262.695 228.771 219.035 228.771 164.735C228.771 111.168 258.856 67.508 321.595 67.508C379.931 67.508 410.016 108.967 410.016 161.433C410.016 166.202 410.016 170.605 409.283 175.375H264.726C267.661 221.603 291.143 235.545 322.696 235.545ZM321.962 94.6581C290.409 94.6581 269.496 107.866 265.093 148.592H374.794C372.96 111.535 354.615 94.6581 321.962 94.6581ZM488.979 261.595C451.556 261.595 428.074 241.416 428.074 207.661C428.074 178.31 442.75 159.231 483.842 152.26L529.704 144.556C547.315 141.621 555.386 136.117 555.386 123.276C555.386 106.766 546.581 95.3919 515.028 95.3919C484.943 95.3919 470.634 107.499 468.8 130.614H432.11C432.477 91.723 461.462 67.1411 513.561 67.1411C564.192 67.1411 589.141 90.2554 589.141 124.01V214.999C589.141 228.574 589.508 239.581 590.975 256.825H557.588C556.12 242.516 555.386 230.042 555.386 215.366C548.049 238.481 527.869 261.595 488.979 261.595ZM496.683 233.344C535.207 233.344 555.386 204.359 555.386 167.67V156.663C545.48 164.001 533.74 166.936 522.733 169.504L497.417 175.375C474.67 180.511 464.764 189.317 464.764 206.194C464.764 223.805 477.605 233.344 496.683 233.344ZM849.905 101.629H791.202V227.474H846.236V256.825H809.913C765.519 256.825 754.512 239.581 754.512 202.892V77.4141L772.857 31.9193H791.202V73.3783H849.905V101.629ZM658.019 117.772C669.026 90.6223 688.838 70.4431 722.959 70.4431H728.463V106.032H719.291C670.127 106.032 658.386 136.851 658.386 186.748V256.825H621.697V73.3783H658.019V117.772ZM871.084 256.825V-0.000481362H907.774V256.825H871.084ZM996.367 261.595C958.944 261.595 935.463 241.416 935.463 207.661C935.463 178.31 950.138 159.231 991.231 152.26L1037.09 144.556C1054.7 141.621 1062.77 136.117 1062.77 123.276C1062.77 106.766 1053.97 95.3919 1022.42 95.3919C992.331 95.3919 978.022 107.499 976.188 130.614H939.498C939.865 91.723 968.85 67.1411 1020.95 67.1411C1071.58 67.1411 1096.53 90.2554 1096.53 124.01V214.999C1096.53 228.574 1096.9 239.581 1098.36 256.825H1064.98C1063.51 242.516 1062.77 230.042 1062.77 215.366C1055.44 238.481 1035.26 261.595 996.367 261.595ZM1004.07 233.344C1042.6 233.344 1062.77 204.359 1062.77 167.67V156.663C1052.87 164.001 1041.13 166.936 1030.12 169.504L1004.81 175.375C982.058 180.511 972.152 189.317 972.152 206.194C972.152 223.805 984.993 233.344 1004.07 233.344ZM1232.18 67.508C1280.98 67.508 1298.96 94.2912 1298.96 142.354V256.825H1262.27V145.656C1262.27 107.133 1244.66 97.9602 1221.54 97.9602C1185.59 97.9602 1165.77 121.074 1165.77 179.411V256.825H1129.09V73.3783H1165.77V114.47C1176.78 87.3203 1196.96 67.508 1232.18 67.508ZM1476.09 -0.000481362H1512.78V256.825H1476.09V225.272C1463.62 249.12 1441.24 262.695 1408.22 262.695C1349.15 262.695 1322.73 219.035 1322.73 165.102C1322.73 111.168 1349.15 67.508 1408.22 67.508C1441.24 67.508 1463.62 81.0831 1476.09 104.931V-0.000481362ZM1415.92 233.344C1454.45 233.344 1476.09 212.064 1476.09 165.102C1476.09 118.139 1454.45 96.8595 1415.92 96.8595C1375.2 96.8595 1359.79 119.607 1359.79 165.102C1359.79 210.597 1375.2 233.344 1415.92 233.344Z" fill="currentColor"/>
+                </svg>
+            </h1>
+        </div>
+    </div>
+
+    <!-- Countdown timer -->
+    <div class="absolute bottom-2 lg:bottom-5 left-1/2 -translate-x-1/2 z-6">
+        <div
+            class="countdown-timer flex justify-center gap-2 md:gap-4 "
+            role="timer"
+            aria-live="off"
+            aria-atomic="true"
+            :class="ready ? 'transition-all duration-600 ease-bounce' : ''"
+            :style="videoPlaying ? 'opacity: 0; transform: translateY(6rem)' : 'opacity: 1; transform: translateY(0); transition-delay: 300ms'"
+        >
+            <div class="text-center" aria-label="Dage">
+                <span class="block header-count tabular-nums" x-text="days.toString().padStart(2, '0')">00</span>
+                <span class="block text-[10px] md:text-xsmall md:uppercase mt-0.5 text-gray-600" aria-hidden="true">Dage</span>
+            </div>
+            <span class="header-count font-light" aria-hidden="true">/</span>
+            <div class="text-center" aria-label="Timer">
+                <span class="block header-count tabular-nums" x-text="hours.toString().padStart(2, '0')">00</span>
+                <span class="block text-[10px] md:text-xsmall md:uppercase mt-0.5 text-gray-600" aria-hidden="true">Timer</span>
+            </div>
+            <span class="header-count font-light" aria-hidden="true">/</span>
+            <div class="text-center" aria-label="Minutter">
+                <span class="block header-count tabular-nums" x-text="minutes.toString().padStart(2, '0')">00</span>
+                <span class="block text-[10px] md:text-xsmall md:uppercase mt-0.5 text-gray-600" aria-hidden="true">Minutter</span>
+            </div>
+            <span class="header-count font-light" aria-hidden="true">/</span>
+            <div class="text-center" aria-label="Sekunder">
+                <span class="block header-count tabular-nums" x-text="seconds.toString().padStart(2, '0')">00</span>
+                <span class="block text-[10px] md:text-xsmall md:uppercase mt-1 text-gray-600" aria-hidden="true">Sekunder</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+</div>
+
+
+<svg width="0" height="0" style="position: absolute; pointer-events: none;" aria-hidden="true">
+    <defs>
+        <clipPath id="reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-blob" clipPathUnits="objectBoundingBox">
+            <path d="M0.452234 0.73576C0.467659 0.751273 0.483093 0.734294 0.49974 0.733716C0.516386 0.734294 0.531818 0.751273 0.547245 0.73576C0.556156 0.725577 0.554432 0.703872 0.563198 0.694123C0.57687 0.677519 0.587229 0.688553 0.591068 0.643545C0.603161 0.501772 0.662432 0.634604 0.669953 0.553628C0.674484 0.504815 0.706323 0.514821 0.709224 0.500737C0.709354 0.500089 0.709354 0.499369 0.709224 0.498721C0.706323 0.484661 0.674484 0.495184 0.669953 0.446372C0.662432 0.365396 0.603161 0.498228 0.591068 0.356455C0.587229 0.311447 0.57687 0.322481 0.563198 0.305877C0.554432 0.296128 0.556156 0.274423 0.547245 0.26424C0.531818 0.248727 0.516386 0.265706 0.49974 0.266284C0.483093 0.265706 0.467659 0.248727 0.452234 0.26424C0.443325 0.274423 0.445049 0.296128 0.436283 0.305877C0.422609 0.322481 0.412251 0.311447 0.40841 0.356455C0.396315 0.498228 0.337047 0.365396 0.329528 0.446372C0.324995 0.495184 0.293158 0.484661 0.290257 0.498721C0.290124 0.499369 0.290124 0.500089 0.290257 0.500737C0.293156 0.514821 0.324995 0.504815 0.329528 0.553628C0.337047 0.634604 0.396315 0.501772 0.40841 0.643545C0.412251 0.688553 0.422609 0.677519 0.436283 0.694123C0.445049 0.703872 0.443325 0.725577 0.452234 0.73576Z"/>
+        </clipPath>
+        <clipPath id="reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-vertical" clipPathUnits="objectBoundingBox">
+            <path d="M0.29225 0.547667C0.278578 0.532229 0.307872 0.516787 0.308381 0.50013V0.49987C0.307872 0.483212 0.278578 0.467769 0.29225 0.452333C0.301224 0.443418 0.320354 0.445144 0.328946 0.436371C0.34358 0.42269 0.333855 0.412323 0.373522 0.408481C0.498469 0.396378 0.381402 0.337071 0.452767 0.329547C0.496775 0.324907 0.497724 0.300521 0.499994 0.300521C0.502265 0.300521 0.503225 0.324907 0.547233 0.329547C0.618598 0.337071 0.501531 0.396378 0.626478 0.408481C0.666145 0.412323 0.65642 0.42269 0.671054 0.436371C0.679646 0.445144 0.698776 0.443418 0.70775 0.452333C0.721422 0.467769 0.692128 0.483212 0.691619 0.49987V0.50013C0.692128 0.516787 0.721422 0.532229 0.70775 0.547667C0.698776 0.556583 0.679646 0.554854 0.671054 0.56363C0.65642 0.577313 0.666145 0.587677 0.626478 0.591521C0.501531 0.60362 0.618598 0.662927 0.547233 0.670453C0.503225 0.675094 0.502265 0.699479 0.499994 0.699479C0.497724 0.699479 0.496775 0.675094 0.452767 0.670453C0.381402 0.662927 0.498469 0.60362 0.373522 0.591521C0.333855 0.587677 0.34358 0.577313 0.328946 0.56363C0.320354 0.554854 0.301224 0.556583 0.29225 0.547667Z"/>
+        </clipPath>
+    </defs>
+</svg>
+
+<section
+    id="reveal-video-block_ae4c3225fc14532fab0b34f81f98421e"
+    class="reveal-video-section relative w-full"
+    data-reveal-video
+    data-end-scale-landscape="5.1"
+    data-end-scale-portrait="5.2"
+    data-scroll-height-landscape="250vh"
+    data-scroll-height-portrait="250vh"
+    data-clip-blob="#reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-blob"
+    data-clip-vertical="#reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-vertical"
+>
+    <div class="reveal-video-sticky sticky top-0 h-screen w-full overflow-hidden flex items-center justify-center">
+        <div
+            class="reveal-video-container absolute inset-0 w-full h-full overflow-hidden"
+            
+            style="transform: scale(0); clip-path: url(#reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-blob); -webkit-clip-path: url(#reveal-video-block_ae4c3225fc14532fab0b34f81f98421e-blob);"
+        >
+            <div class="reveal-video-wrapper relative w-full h-full" style="transform-origin: center center;" aria-hidden="true">
+                <div class="absolute inset-0 bg-black/20 z-10 pointer-events-none"></div>
+                <video
+                    class="reveal-video-element w-full h-full object-cover"
+                    muted
+                    loop
+                    playsinline
+                    preload="none"
+
+                >
+                    <source src="https://vz-28e88a7a-7ca.b-cdn.net/3eb8d4d5-ccbb-49ea-a162-f77c0d0485b2/play_720p.mp4" type="video/mp4">
+                                    </video>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<div class="theme-light">
+    <section id="filtered-posts-block_acd18f67aa83ca7aa4d48f417db9ca25" class="filtered-posts-block section-wide">
+        
+                    <div class="flex gap-6 flex-wrap justify-between items-center mb-8">
+                                    <h2 class="text-header-2 text-on-surface-pattern">
+                        Nyt på Heartland                    </h2>
+                
+                                    <div>
+                            <a href="https://heartlandfestival.dk/nyheder/" class="btn btn-outline">
+        Nyheder                    </a>
+                    </div>
+                            </div>
+        
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-x-cards-x gap-y-cards-y">
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/aftermovie-2026/" class="block aspect-[4/2.5] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <picture><source srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-587x576.jpg.webp 587w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-300x295.jpg.webp 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1024x1006.jpg.webp 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-768x754.jpg.webp 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1536x1508.jpg.webp 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1100x1080.jpg.webp 1100w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-917x900.jpg.webp 917w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-733x720.jpg.webp 733w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-458x450.jpg.webp 458w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-367x360.jpg.webp 367w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06.jpg.webp 1664w" sizes='auto, (min-width: 768px) 50vw, 100vw' type="image/webp"><img width="587" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-587x576.jpg" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="Aftermovie 2026" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 51% 43%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-587x576.jpg 587w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-300x295.jpg 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1024x1006.jpg 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-768x754.jpg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1536x1508.jpg 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-1100x1080.jpg 1100w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-917x900.jpg 917w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-733x720.jpg 733w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-458x450.jpg 458w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06-367x360.jpg 367w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Skaermbillede-2026-06-25-kl.-10.43.06.jpg 1664w" data-eio="p" /></picture>                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/aftermovie-2026/" class="text-on-surface-pattern hover:underline">
+                                Aftermovie 2026                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Genoplev de magiske øjeblikke fra Heartland 2026!                            </p>
+                                            </article>
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/brugerundersogelse/" class="block aspect-[4/3] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <img width="461" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-461x576.jpeg" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="billede af festivalgæster der ligger og sidder på græsplæne" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 94% 6%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-461x576.jpeg 461w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-240x300.jpeg 240w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-819x1024.jpeg 819w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-768x960.jpeg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-1229x1536.jpeg 1229w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-1638x2048.jpeg 1638w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-864x1080.jpeg 864w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-720x900.jpeg 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-576x720.jpeg 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-360x450.jpeg 360w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen-288x360.jpeg 288w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Heartland_2026_Stemning_41_NadjaAndersen.jpeg 2048w" />                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/brugerundersogelse/" class="text-on-surface-pattern hover:underline">
+                                Vær med til at forme næste års festival                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Deltag i spørgeskemaundersøgelsen og vind billetter.                            </p>
+                                            </article>
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/ses-vi-igen-naeste-ar/" class="block aspect-[4/3] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <img width="461" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-461x576.jpeg" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="Et dronebillede af pladsen" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 96% 11%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-461x576.jpeg 461w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-240x300.jpeg 240w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-819x1024.jpeg 819w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-768x960.jpeg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-720x900.jpeg 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-576x720.jpeg 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-360x450.jpeg 360w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5-288x360.jpeg 288w, https://heartlandfestival.dk/wp-content/uploads/2026/06/DRONE_5.jpeg 864w" />                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/ses-vi-igen-naeste-ar/" class="text-on-surface-pattern hover:underline">
+                                Ses vi igen næste år?                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Vores Heartfelt 2027 partoutbilletter er i salg!                            </p>
+                                            </article>
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/tasteland-fynsk-pinot-nyhed/" class="block aspect-[4/3] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <picture><source srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-864x576.jpg.webp 864w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-300x200.jpg.webp 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1024x683.jpg.webp 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-768x512.jpg.webp 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1536x1024.jpg.webp 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-2048x1366.jpg.webp 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1620x1080.jpg.webp 1620w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1350x900.jpg.webp 1350w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1080x720.jpg.webp 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-675x450.jpg.webp 675w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-540x360.jpg.webp 540w" sizes='auto, (min-width: 768px) 50vw, 100vw' type="image/webp"><img width="864" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-864x576.jpg" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="Tasteland Fynsk Pinot" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 24% 58%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-864x576.jpg 864w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-300x200.jpg 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1024x683.jpg 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-768x512.jpg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1536x1024.jpg 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-2048x1366.jpg 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1620x1080.jpg 1620w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1350x900.jpg 1350w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-1080x720.jpg 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-675x450.jpg 675w, https://heartlandfestival.dk/wp-content/uploads/2026/06/Jacobsen-x-Stokkebye-www.MickFriis.dk-8-540x360.jpg 540w" data-eio="p" /></picture>                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/tasteland-fynsk-pinot-nyhed/" class="text-on-surface-pattern hover:underline">
+                                Tasteland Fynsk Pinot                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Når vin møder øl — smag på sommeren.                            </p>
+                                            </article>
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/bogsigneringer/" class="block aspect-[4/2.5] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <picture><source srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-576x576.jpg.webp 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-300x300.jpg.webp 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1024x1024.jpg.webp 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-150x150.jpg.webp 150w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-768x768.jpg.webp 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1536x1536.jpg.webp 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-2048x2048.jpg.webp 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-600x600.jpg.webp 600w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1200x1200.jpg.webp 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1080x1080.jpg.webp 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-900x900.jpg.webp 900w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-720x720.jpg.webp 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-450x450.jpg.webp 450w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-360x360.jpg.webp 360w" sizes='auto, (min-width: 768px) 50vw, 100vw' type="image/webp"><img width="576" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-576x576.jpg" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="Bogsigneringer" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 93% 5%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-576x576.jpg 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-300x300.jpg 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1024x1024.jpg 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-150x150.jpg 150w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-768x768.jpg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1536x1536.jpg 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-2048x2048.jpg 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-600x600.jpg 600w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1200x1200.jpg 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-1080x1080.jpg 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-900x900.jpg 900w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-720x720.jpg 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-450x450.jpg 450w, https://heartlandfestival.dk/wp-content/uploads/2026/06/MartinReich_Heartland25_0513-2-360x360.jpg 360w" data-eio="p" /></picture>                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/bogsigneringer/" class="text-on-surface-pattern hover:underline">
+                                Bogsigneringer                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Tag fortællingerne med hjem.                            </p>
+                                            </article>
+                                    <article class="group">
+                        <a href="https://heartlandfestival.dk/festivalkortet-2026-er-klar/" class="block aspect-[4/3] overflow-hidden mb-6 relative  hover:rounded-lg hover:md:rounded-2xl transition-all duration-300" aria-hidden="true" tabindex="-1">
+                                                            <picture><source srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-576x576.png.webp 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-300x300.png.webp 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1024x1024.png.webp 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-150x150.png.webp 150w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-768x768.png.webp 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1536x1536.png.webp 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-2048x2048.png.webp 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-600x600.png.webp 600w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1200x1200.png.webp 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1080x1080.png.webp 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-900x900.png.webp 900w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-720x720.png.webp 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-450x450.png.webp 450w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-360x360.png.webp 360w" sizes='auto, (min-width: 768px) 50vw, 100vw' type="image/webp"><img width="576" height="576" src="https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-576x576.png" class="object-cover w-full h-full transition-transform duration-500 group-hover:scale-105" alt="Grafisk festivalkort 2026" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" style="object-position: 53% 53%;" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-576x576.png 576w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-300x300.png 300w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1024x1024.png 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-150x150.png 150w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-768x768.png 768w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1536x1536.png 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-2048x2048.png 2048w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-600x600.png 600w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1200x1200.png 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-1080x1080.png 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-900x900.png 900w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-720x720.png 720w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-450x450.png 450w, https://heartlandfestival.dk/wp-content/uploads/2026/06/HL26_Festivalkort_NB_1080x1080-360x360.png 360w" data-eio="p" /></picture>                            
+                                                            <div class="absolute top-4 left-4">
+                                        <span class="inline-block rounded-full px-4 py-2 text-xsmall bg-black/60 text-white backdrop-blur-[200px]">
+        Nyheder    </span>
+                                </div>
+                                                    </a>
+
+                        <h3 class="text-header-3 mb-2">
+                            <a href="https://heartlandfestival.dk/festivalkortet-2026-er-klar/" class="text-on-surface-pattern hover:underline">
+                                Festivalkortet til Heartland 2026 er klar!                            </a>
+                        </h3>
+
+                                                    <p class="text-on-surface-pattern text-small line-clamp-3">
+                                Så er pladskortet til Heartland 2026 klar – og nu kan du begynde at planlægge for alvor.                            </p>
+                                            </article>
+                            </div>
+        
+    </section>
+</div>
+
+
+    <!-- Variant: Image Left -->
+    <section id="banner-block_4474cd2a7f7d55cf5841e1955497d9f6" class="section-wide pt-section-y md:pt-section-y pb-section-y md:pb-section-y">
+        <div class="relative grid md:grid-cols-2 bg-surface group overflow-hidden clamp-[min-h,400px,700px] transition-[border-radius] duration-500 hover:rounded-lg hover:md:rounded-2xl theme-frisk-blue">
+                            <a
+                    href="https://heartlandfestival.dk/hjerteland/"
+                                        class="absolute inset-0 z-10 focus-visible:border-8 focus-visible:border-base-dark"
+                    aria-label="Hjerteland"
+                ></a>
+                        <!-- Image -->
+            <div class="relative h-full flex items-center justify-center overflow-hidden p-6">
+                                    <picture><source srcset="https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-720x720.jpg.webp 720w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-300x300.jpg 300w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1024x1024.jpg.webp 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-150x150.jpg 150w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-768x768.jpg.webp 768w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1536x1536.jpg.webp 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-600x600.jpg 600w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1200x1200.jpg.webp 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1080x1080.jpg.webp 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-900x900.jpg.webp 900w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-576x576.jpg 576w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-450x450.jpg 450w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-360x360.jpg 360w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image.jpg.webp 1710w" sizes='auto, (min-width: 768px) 50vw, 100vw' type="image/webp"><img width="720" height="720" src="https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-720x720.jpg" class="object-cover w-full h-full object-cover" alt="Hjerteland - Det bedste sted at være barn" loading="lazy" decoding="async" sizes="auto, (min-width: 768px) 50vw, 100vw" srcset="https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-720x720.jpg 720w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-300x300.jpg 300w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1024x1024.jpg 1024w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-150x150.jpg 150w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-768x768.jpg 768w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1536x1536.jpg 1536w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-600x600.jpg 600w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1200x1200.jpg 1200w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-1080x1080.jpg 1080w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-900x900.jpg 900w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-576x576.jpg 576w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-450x450.jpg 450w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image-360x360.jpg 360w, https://heartlandfestival.dk/wp-content/uploads/2026/01/Image.jpg 1710w" data-eio="p" /></picture>                            </div>
+            <!-- Content -->
+            <div class="flex flex-col gap-4 px-section-x-wide pb-section-y pt-6 md:py-section-y">
+                                    <span class="pb-section-y text-on-surface-pattern inline-flex items-center clamp-[w,30,40] group-hover:translate-x-4 transition-transform transition-duration-800">
+                        <svg viewBox="0 0 184 108" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true"><path d="M183.562 53.6644L129.898 107.329L124.549 101.98L173.899 53.6644L124.549 5.34919L129.898 0L183.562 53.6644ZM178.386 57.288L0 57.4606V50.2133L178.386 50.0407V57.288Z" fill="currentColor"/></svg>                    </span>
+                                <div class="mt-auto">
+                                            <h2 class="text-on-surface-pattern text-header-1 mb-4 text-pretty hyphens-auto">
+                            Hjerteland &#8211; Det bedste sted at være barn                        </h2>
+                                                                <div class="text-on-surface-pattern prose prose-sm">
+                            <p>Læs om alle de spændende og sjove aktiviteter der finder sted i Hjerteland her.</p>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+    </section>
+
+</main>
+
+<footer class="site-footer text-base-dark">
+    <div class="section-wide">
+        <!-- Partners Section -->
+        <div class="flex flex-col lg:flex-row lg:items-center gap-12 lg:justify-between">
+
+            <!-- Main Partners -->
+            
+        </div>
+
+        <!-- Main Content Area -->
+    <div class="flex flex-col lg:flex-row justify-between gap-12 lg:gap-8 py-12 lg:py-20">
+
+            <!-- Address Columns -->
+            <div class="flex flex-col sm:flex-row gap-12 sm:gap-16 lg:gap-24">
+                <!-- Office Address -->
+                <div class="footer-address">
+                    <h2 class="text-small font-bold mb-2">Kontor</h2>
+                    <address class="not-italic text-small leading-[200%] text-base-dark/80">
+                        Heartland Festival<br />
+Frederiksberg Allé 3<br />
+1790 København V<br />
+Danmark                    </address>
+                </div>
+
+                <!-- Festival Address -->
+                <div class="footer-address">
+                    <h2 class="text-small font-bold mb-2">Festival</h2>
+                    <address class="not-italic text-small leading-[200%] text-base-dark/80">
+                        Egeskov slot<br />
+Egeskov Gade 22<br />
+5772 Kværndrup<br />
+Danmark                    </address>
+                </div>
+            </div>
+
+            <!-- Presenting Partner -->
+                            <div class="shrink-0 flex flex-col items-start gap-3">
+                    <span class="text-small font-bold whitespace-nowrap">Hovedpartner</span>
+                                                <img src="https://heartlandfestival.dk/wp-content/uploads/2026/01/logo-1664.svg" alt="Hovedpartner" class="h-12 lg:h-16 w-auto">
+                                        </div>
+                    </div>
+
+        <!-- Bottom Bar -->
+        <div class="pt-6">
+            <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6">
+
+                <!-- Left Links -->
+                <nav class="footer-nav-left order-1 lg:order-0  -mx-section-x-wide px-section-x-wide border-y border-y-gray-300 w-[calc(100%+var(--spacing-section-x-wide)*2)] py-4 lg:p-0 lg:mx-0 lg:border-0 lg:w-auto" aria-label="Footerlinks">
+                    <ul class="flex flex-wrap gap-6 gap-y-1"><li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="https://heartlandfestival.dk/presse/" class="footer-link">Presse</a></li>
+<li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="https://heartlandfestival.dk/kontakt/" class="footer-link">Kontakt</a></li>
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://heartlandfestival.dk/karriere/" class="footer-link">Karriere</a></li>
+</ul>                </nav>
+
+                <!-- Social Links (Center) -->
+                <nav class="footer-social order-0 lg:order-0" aria-label="Sociale medier">
+                    <p class="text-small font-bold mb-2 lg:hidden">Sociale medier</p>
+                    <ul class="flex flex-wrap gap-x-6 gap-y-1"><li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/heartlandfestivaldk/" class="footer-link">Instagram<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/heartlandfestivaldk" class="footer-link">Facebook<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-301"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/heartlandfestival/" class="footer-link">LinkedIn<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/heartlandfestivaldk?si=WQKrcEySTmiA3StsMvHtCw&#038;nd=1&#038;dlsi=ba23db69a6024a13" class="footer-link">Spotify<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-303"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChHpfNbmi-3CfKElVMOpFCQ" class="footer-link">Youtube<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+</ul>                </nav>
+
+                <!-- Right Links (Legal) -->
+                <nav class="footer-nav-right lg:text-right order-2 lg:order-2" aria-label="Juridiske links">
+                    <ul class="flex flex-wrap lg:flex-row lg:items-center gap-y-1 gap-x-6"><li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-903"><a rel="privacy-policy" href="https://heartlandfestival.dk/privatlivs-politik/" class="footer-link">Privatlivs politik</a></li>
+<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="https://heartlandfestival.dk/cookies/" class="footer-link">Cookies</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2262"><a target="_blank" rel="noopener noreferrer" href="https://info.livenationinternational.com/accessibility-statement" class="footer-link">Accessibility<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+</ul>                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Large Decorative Logo -->
+    <div class="footer-wordmark relative overflow-hidden mt-8">
+                    <img width="1728" height="228" src="https://heartlandfestival.dk/wp-content/uploads/2026/01/footer-logo.svg" alt="" class="w-full h-auto">
+            </div>
+
+</footer>
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/heartland-festival/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="heartland-script-js-extra">
+var heartlandData = {"ajaxUrl":"https://heartlandfestival.dk/wp-admin/admin-ajax.php","nonce":"f9a3df72cd","themeUrl":"https://heartlandfestival.dk/wp-content/themes/heartland-festival","siteUrl":"https://heartlandfestival.dk"};
+//# sourceURL=heartland-script-js-extra
+</script>
+<script type="module" id="heartland-script-js" src="https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/main.js?ver=1.0.0"></script>
+</body>
+
+</html>
+<!--
+Object Caching 71/74 objects using Disk
+Page Caching using Disk: Enhanced 
+
+Served from: heartlandfestival.dk @ 2026-08-12 11:30:37 by W3 Total Cache
+-->

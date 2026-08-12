@@ -1,0 +1,736 @@
+<!DOCTYPE html>
+<html lang="da" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:type" content="sectionpage" />
+<meta name="Department" content="Kultur Ø" />
+<meta name="description" content="HUSET - Danmarks første kulturhus – præsenterer sammen med frivillige og kulturpartnere events indenfor musik, teater, film, ord og tværkunstneriske oplevelser" />
+<link rel="shortlink" href="https://huset.kk.dk/" />
+<link rel="canonical" href="https://huset.kk.dk/" />
+<meta name="Generator" content="Drupal 11 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/kk_basis/favicon.png" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="da" href="https://huset.kk.dk/" />
+<link rel="alternate" hreflang="en" href="https://huset.kk.dk/en" />
+
+    <title>HUSET</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_QHmPlHStgGbdp9iopv_Ju8QS_NA5LutHSydIUDES53g.css?delta=0&amp;language=da&amp;theme=kkevent&amp;include=eJx1j2tqxDAMhC_kxkcyijObCMsPLDklPX2TLLRL6f6RNB8amIlCqofPUKUV6uJTl7rAxdpxXj2T8BccRoi1Jsa5chOmEuH_g2GmDpfShXItwTZk-Jn0hj8O_yqmnZWt9uuj9fpgQcCOYn_camSsxtG_ikntkDN9SrfHr1Jnko-Lclldo05rp7apX_poJNMvmUZpYxbWDYtTUI9boMaBhtW7Egz-DXd6qCE_w-2MT_X3nHJdhuAbl7iJnw" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_396GR2i2ejaoYnEFfdjFAQ6Z00XkL7dhYZXccMM4hoA.css?delta=1&amp;language=da&amp;theme=kkevent&amp;include=eJx1j2tqxDAMhC_kxkcyijObCMsPLDklPX2TLLRL6f6RNB8amIlCqofPUKUV6uJTl7rAxdpxXj2T8BccRoi1Jsa5chOmEuH_g2GmDpfShXItwTZk-Jn0hj8O_yqmnZWt9uuj9fpgQcCOYn_camSsxtG_ikntkDN9SrfHr1Jnko-Lclldo05rp7apX_poJNMvmUZpYxbWDYtTUI9boMaBhtW7Egz-DXd6qCE_w-2MT_X3nHJdhuAbl7iJnw" />
+
+    <script src="/sites/default/files/js/js_6t8DnVPPUh753PyYRk8_KIAo9TEPcnkKNbuEr2w9Qx0.js?scope=header&amp;delta=0&amp;language=da&amp;theme=kkevent&amp;include=eJxtj_0OgyAMxF9IQnwiAnjTxkINFJe9_XBb3LL417W_u_QDzUWRldAlbUw-R1hcwGFdXfAVdqcJYt7-B1K1sVAXE3zOKCayVISmKvkbIYzj0fWZSbLTBQn2GHnArciNGA47sv55lRSUemKH_am79Urb6Mtk5kLTSWaW4NlUfTDl-cQs934c94ZNQm5DhS9xcX4j55vK61to33LNnz46deI"></script>
+
+  </head>
+  <body class="path-frontpage page-node-type-sectionpage color-scheme-10">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Gå til hovedindhold
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+  <div class="page-content">
+    <header role="banner">
+        <div class="region region-header">
+    <div class="region-header__inner">
+      <div class="region-header__menu">
+        <div id="block-kkevent-branding" class="block block-system block-system-branding-block">
+  
+    
+          <div class="site-name">
+      <a href="/" rel="home">HUSET</a>
+    </div>
+    </div>
+<button class="menu-toggle btn--menu js-menu-toggle js-search-form-button--close" aria-expanded="false" aria-controls="block-kkevent-primaernavigation">Åben menu</button>
+<nav aria-labelledby="block-kkevent-primaernavigation-menu" id="block-kkevent-primaernavigation" class="block block-menu navigation mobile-hidden menu--main">
+  <div class="main-menu-wrapper">
+            
+  <h1 class="visually-hidden" id="block-kkevent-primaernavigation-menu">Primær navigation</h1>
+  
+
+        <div class="top">
+      <h2>Menu</h2>
+      <button class="menu-search-icon search-form-button search-form-button--toggle js-search-form-button--toggle js-menu-toggle" aria-controls="views-exposed-filter-blocksearch-page-1">Søg</button>
+      <button class="menu-toggle btn--close js-menu-toggle">Luk menu</button>
+    </div>
+    
+        <ul class="menu">
+                                                                <li class="menu-item menu-item--collapsed menu-item--first">
+        <a href="/events" class="link-animate-on-hover" data-link-text="Events" data-drupal-link-system-path="node/1">Events</a>
+              </li>
+                                            <li class="menu-item">
+        <a href="/bliv-kulturpartner" title="Værd at vide om at være kulturpartner i Huset" class="link-animate-on-hover" data-link-text="Bliv Kulturpartner" data-drupal-link-system-path="node/3">Bliv Kulturpartner</a>
+              </li>
+                                            <li class="menu-item">
+        <a href="/bliv-frivillig" class="link-animate-on-hover" data-link-text="Bliv Frivillig" data-drupal-link-system-path="node/4">Bliv Frivillig</a>
+              </li>
+                                            <li class="menu-item menu-item--collapsed">
+        <a href="/lokaler" class="link-animate-on-hover" data-link-text="Lokaler" data-drupal-link-system-path="node/7">Lokaler</a>
+              </li>
+                                                              <li class="menu-item menu-item--collapsed menu-item--last">
+        <a href="/om-huset" class="link-animate-on-hover" data-link-text="Om HUSET" data-drupal-link-system-path="node/72">Om HUSET</a>
+              </li>
+      </ul>
+  
+
+
+    </div>
+</nav>
+<div class="views-exposed-form block block-views block-views-exposed-filter-blocksearch-page-1 search-form-block search-form-block--collapsible" data-drupal-selector="views-exposed-form-search-page-1" id="block-blotlagtformularsearchpage-1">
+      <button id="search-section-button" class="search-form-button search-form-button--toggle js-search-form-button--toggle" aria-controls="views-exposed-filter-blocksearch-page-1" aria-haspopup="true" aria-expanded="false">Søg</button>
+    <div id="views-exposed-filter-blocksearch-page-1" class="search-form js-search-form">
+              <form action="/soeg" method="get" id="views-exposed-form-search-page-1" accept-charset="UTF-8">
+  <div class="form--inline clearfix">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-soeg form-item-soeg">
+      <label for="edit-soeg">Hvad leder du efter?</label>
+        <input placeholder="Søg her ..." data-drupal-selector="edit-soeg" data-search-api-autocomplete-search="search" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/search?display=page_1&amp;&amp;filter=soeg" type="text" id="edit-soeg" name="soeg" value="" size="30" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-search" type="submit" id="edit-submit-search" value="Søg" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+            <button class="btn--close search-form-button--close js-search-form-button--close" aria-controls="views-exposed-filter-blocksearch-page-1">Luk</button>
+    </div>
+  </div>
+<div class="language-switcher-language-url block block-kkevent-language block-kk-language-blocklanguage-interface" id="block-kkevent-language-switcher">
+  
+    
+      <ul class="links"><li class="da"><a href="/forside?language=da" class="is-active" hreflang="da">Dansk</a></li><li class="en"><a href="/en/front-page?language=en" hreflang="en">Engelsk</a></li></ul>
+  </div>
+
+      </div>
+    </div>
+  </div>
+
+      
+        <div class="region region-banner">
+    <div class="views-element-container block block-views block-views-blockcrisis-banner-block-1" id="block-views-block-crisis-banner-block-1">
+  
+    
+      <div>
+<div class="view view-crisis-banner view-id-crisis_banner view-display-id-block_1 js-view-dom-id-94eb19e3fc352d25bb8b6a66e318696d50759d9c8b4e8d90c1163c1df2198671">
+  
+    
+      
+  
+  
+        </div>
+</div>
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+    </header>
+
+    <main role="main">
+      <a id="main-content" tabindex="-1"></a>        <div class="region region-content">
+    <div id="block-kkevent-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Forside</span>
+</h1>
+
+
+  </div>
+
+<article class="node node--type-sectionpage node--promoted node--view-mode-full">
+
+  
+    
+
+  
+  <div class="node__content">
+    
+      <div class="field field--name-paragraphs field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="appearance--light layout--common paragraph paragraph--type--hero paragraph--view-mode--default">
+    
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item"><article data-kk-animate="fade-in-down" class="media media--type-image media--view-mode-hero">
+  
+      
+            <div class="field field--name-field-media-image field--type-image field--label-visually_hidden field__item">    <picture>
+                  <source srcset="/sites/default/files/styles/hero_desktop_wide/public/2024-02/Design%20uden%20navn.png?itok=SD5GzX1k 1x" media="all and (min-width: 1600px)" type="image/png" width="1920" height="544"/>
+              <source srcset="/sites/default/files/styles/hero_desktop/public/2024-02/Design%20uden%20navn.png?h=68858823&amp;itok=AxrvYbta 1x" media="all and (min-width: 1064px) and (max-width: 1599px)" type="image/png" width="1599" height="544"/>
+              <source srcset="/sites/default/files/styles/hero_tablet/public/2024-02/Design%20uden%20navn.png?h=60250f74&amp;itok=YBvlpOr0 1x" media="all and (min-width: 768px) and (max-width: 1063px)" type="image/png" width="1064" height="400"/>
+              <source srcset="/sites/default/files/styles/hero_mobile/public/2024-02/Design%20uden%20navn.png?h=8e7c27cb&amp;itok=ssUGpqCo 1x" media="all and (min-width: 0px) and (max-width: 767px)" type="image/png" width="768" height="320"/>
+                  <img loading="eager" width="1599" height="544" src="/sites/default/files/styles/hero_desktop/public/2024-02/Design%20uden%20navn.png?h=68858823&amp;itok=AxrvYbta" alt="" role="presentation" />
+
+  </picture>
+
+</div>
+      
+          <div class="media__texts">
+        <span class="media__texts--text"></span>
+        
+        
+      </div>
+    
+  </article>
+</div>
+      
+          <div class="layout-content">
+                <div class="hero-box" data-kk-animate="fade-in-up">
+          <div class="hero-box__wrapper">
+            <div class="hero-box__wrapper--inner">
+                
+                        <h2  class="field field--name-title field--type-string field--label-hidden field__item">HUSET</h2>
+            
+            <div class="clearfix text-formatted field field--name-text field--type-text-long field--label-hidden field__item"><p>HUSET - Danmarks første kulturhus – præsenterer sammen med frivillige og kulturpartnere events indenfor musik, teater, film, ord og tværkunstneriske oplevelser. Få oplevelser med Københavns kulturmiljøer, bliv frivillig eller lav arrangementer i HUSET.</p></div>
+      
+            </div>
+                          <div class="field--name-cta">
+                <a href="/events" >
+                  Se kommende events
+                                      <svg class="svg svg-arrow" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Link</title>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11.2327 3.11755C11.3686 2.96082 11.5888 2.96082 11.7246 3.11755L15.8985 7.9336C16.0344 8.09033 16.0344 8.34445 15.8985 8.50118L11.7246 13.3172C11.5888 13.474 11.3686 13.474 11.2327 13.3172C11.0969 13.1605 11.0969 12.9064 11.2327 12.7497L15.1607 8.21739L11.2327 3.68513C11.0969 3.52839 11.0969 3.27428 11.2327 3.11755Z" fill="currentColor"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8.21697C0 8.02487 0.166109 7.86914 0.371015 7.86914H14.9333C15.1382 7.86914 15.3043 8.02487 15.3043 8.21697C15.3043 8.40907 15.1382 8.56479 14.9333 8.56479H0.371015C0.166109 8.56479 0 8.40907 0 8.21697Z" fill="currentColor"/>
+</svg>
+
+                                  </a>
+              </div>
+                      </div>
+        </div>
+                <article class="media media--type-image media--view-mode-text-only">
+  
+      
+          <div class="media__texts">
+        <span class="media__texts--text"></span>
+        
+  <div class="field field--name-photographer field--type-string field--label-inline clearfix">
+    <div class="field__label">Fotograf</div>
+              <div class="field__item">Liv Lilholt</div>
+          </div>
+
+        
+            <div class="field field--name-retouched field--type-boolean field--label-hidden field__item"></div>
+      
+      </div>
+    
+  </article>
+
+      </div>
+        <div class="hero-branding layout-content">
+      <div  class="appearance--light layout--common paragraph paragraph--type--hero paragraph--view-mode--default kk-base-cph-brand">
+  <div class="kk-base-cph-brand-inner" role="presentation">
+    <svg class="svg svg-cph-brand" width="101" height="104" viewBox="0 0 101 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Københavns Kommunes logo</title>
+  <path d="M64.0174 97.5272L60.2035 98.6409L61.1849 102.082L59.1664 102.674L56.8524 94.3856L58.8262 93.8094L59.7407 97.0119L63.5156 95.9093L62.5287 92.7234L64.4914 92.1472L67.0786 100.358L65.0713 100.946L64.0174 97.5272ZM92.1146 32.2136C90.7095 32.9449 89.0535 32.3964 88.3453 31.0666C87.6372 29.7202 88.1279 28.058 89.533 27.3267C90.9381 26.5953 92.5942 27.1438 93.3079 28.4902C94.016 29.82 93.5198 31.4877 92.1146 32.2136ZM94.9863 27.6203C93.7707 25.3099 91.0329 24.2904 88.6018 25.5536C86.1763 26.8169 85.457 29.6261 86.6725 31.9365C87.8881 34.247 90.6259 35.2665 93.057 34.0032C95.4881 32.7399 96.2018 29.9253 94.9863 27.6203ZM58.369 4.47133L57.6999 9.41363L55.6591 9.13659L56.2279 4.63756C56.4174 3.15265 56.094 2.15533 54.6554 1.97803C53.1945 1.79518 52.6314 2.70386 52.4474 4.1666L51.8786 8.66564L49.8322 8.43847L50.4066 3.52388C50.7021 1.158 52.3024 -0.216087 54.8896 0.105273C57.4657 0.421092 58.6645 2.12762 58.369 4.47133ZM43.5872 94.9286L45.4384 94.9618L49.8211 100.248L49.7988 95.0283L51.8173 95.0616L51.8229 103.661L49.8155 103.627L49.8099 103.417C49.8155 103.123 49.6371 102.713 49.3137 102.359L45.4774 97.7045L45.3436 103.561L43.3028 103.528L43.5872 94.9286ZM65.1103 2.52101L67.0229 3.20252L65.4505 8.66564L69.8053 4.63201L70.9651 5.16392L70.6863 11.0703L73.8367 6.35517L75.6154 7.3802L70.6249 14.3836L68.7905 13.5414L69.0358 7.80683L64.7312 11.6798L62.8632 10.821L65.1103 2.52101ZM80.6895 10.8708L82.2619 12.1452L78.9554 16.7329L84.4254 14.3836L85.3343 15.2701L83.076 20.7388L87.6316 17.359L88.9642 18.9159L81.8995 23.8471L80.4609 22.4453L82.6355 17.1263L77.2715 19.3425L75.805 17.913L80.6895 10.8708ZM13.6945 85.4817C12.3005 86.2297 10.6333 85.7089 9.90846 84.3902C9.81924 84.2295 9.75233 84.0578 9.69657 83.8916L15.1498 83.3319C15.0662 84.1963 14.5588 85.0163 13.6945 85.4817ZM11.046 80.6281C12.4399 79.8801 14.1071 80.4009 14.8376 81.7362C14.9157 81.8803 14.9826 82.0299 15.0328 82.185L9.5962 82.7446C9.691 81.8858 10.1984 81.088 11.046 80.6281ZM18.2891 83.0106L18.1664 81.8637L16.9509 81.9911C16.8505 81.6032 16.6944 81.2154 16.4937 80.8442C15.2446 78.5559 12.4901 77.5752 10.0813 78.8717C8.45314 79.7471 7.62232 81.3151 7.63347 82.9496L6.39004 83.0771L6.55174 84.2129L7.78402 84.0855C7.88439 84.4955 8.04052 84.8944 8.2524 85.2823C9.50699 87.5706 12.2559 88.5513 14.6647 87.2547C16.3041 86.3738 17.1405 84.7836 17.1126 83.1325L18.2891 83.0106ZM76.6358 84.7836L78.2974 83.3042L84.7321 85.7809L81.8884 79.52L83.26 77.8023L87.2468 86.6397L85.7525 88.2133L76.6358 84.7836ZM45.1931 8.50496L43.3641 8.80415L38.0837 4.41039L39.0651 9.54106L37.0745 9.8735L35.4853 1.41842L37.4648 1.08597L37.5038 1.29098C37.554 1.5791 37.8049 1.95032 38.1841 2.24398L42.8121 6.12246L41.8642 0.337982L43.8883 0L45.1931 8.50496ZM85.2953 74.899L86.1372 73.259L92.8395 71.6466L88.0944 69.3916L89.0033 67.6019L96.804 71.3419L95.9007 73.126L95.7111 73.0374C95.4435 72.9044 94.9974 72.8877 94.5346 73.0152L88.6408 74.417L93.8934 77.0876L92.9734 78.8994L85.2953 74.899ZM7.80633 67.6019L8.70405 69.4525L5.69304 70.8931C6.86957 71.7076 8.70963 72.3558 10.098 72.3171L11.0515 74.2785C9.40105 74.4114 7.22643 73.6413 5.87705 72.8268L3.42921 78.3896L2.30844 76.0903L4.34366 71.5414L0.897728 73.1925L0 71.3363L7.80633 67.6019ZM23.0677 91.3105C23.7034 91.7427 24.339 91.7538 24.7126 91.2053C25.0472 90.7177 24.9189 90.2301 24.1606 89.7148L23.0454 88.9613L21.9525 90.557L23.0677 91.3105ZM21.4785 94.5629C22.2369 95.0727 22.8224 94.984 23.1959 94.4466C23.5249 93.9701 23.4301 93.3883 22.6551 92.8619L21.0994 91.8092L19.9284 93.5157L21.4785 94.5629ZM22.2201 86.5289L25.0527 88.446C27.1103 89.8367 27.3333 91.0169 26.5694 92.1195C26.1233 92.7677 25.4263 93.0835 24.5844 92.9617C25.3594 93.8592 25.4319 94.8012 24.8464 95.6544C24.0435 96.8235 22.683 97.2557 20.6087 95.8484L17.3356 93.6321L22.2201 86.5289ZM97.5512 65.2084L96.5866 63.5184C97.5345 62.9921 98.0809 62.3604 98.2593 61.4407C98.4211 60.6207 98.198 59.9779 97.5791 59.856C96.8765 59.7175 96.4081 60.5265 96.0624 61.3576C95.4825 62.8868 94.5402 64.2554 92.728 63.9007C91.111 63.5849 90.3694 62.1222 90.7708 60.1109C91.0441 58.7479 91.5961 57.8171 92.7782 57.0746L93.6982 58.7202C93.0235 59.1247 92.6053 59.7175 92.4492 60.5043C92.2875 61.3243 92.4882 61.8396 92.9734 61.9338C93.5811 62.0502 94.0328 61.4351 94.3785 60.5154C95.0197 58.8643 95.8784 57.4957 97.8133 57.8725C99.7425 58.2492 100.334 59.9835 99.9656 61.8396C99.6478 63.4243 98.8281 64.4825 97.5512 65.2084ZM91.7355 45.8547L91.295 43.849L94.5625 43.1453C93.609 42.0815 91.9697 41.0233 90.6147 40.7407L90.1519 38.6131C91.7912 38.8624 93.7261 40.1201 94.8413 41.2227L98.5326 36.3802L99.079 38.879L96.029 42.8295L99.7649 42.0261L100.205 44.0318L91.7355 45.8547ZM32.6751 11.3695L26.7534 14.1398L26.0174 12.594L30.0711 10.6991L29.3518 9.18646L25.9728 10.7711L25.2367 9.22524L28.6158 7.64061L27.8407 6.00611L23.787 7.90102L23.051 6.35517L28.9726 3.58482L32.6751 11.3695ZM32.3795 92.0862L38.6246 94.0365L38.106 95.6655L33.8293 94.3302L33.3219 95.9259L36.8905 97.0396L36.3719 98.6686L32.8033 97.5549L32.2569 99.278L36.5336 100.613L36.015 102.242L29.77 100.292L32.3795 92.0862ZM73.1285 93.5656L72.6156 90.1414L75.5151 92.0918L73.1285 93.5656ZM78.6655 94.2083L80.4163 92.9173L72.4873 87.8642L70.6417 89.0167L71.8238 98.2918L73.6917 97.3222L73.4073 95.4106L77.0763 93.139L78.6655 94.2083ZM48.4048 78.6445C45.2154 78.6445 43.8548 81.0159 39.645 81.0159C41.2676 81.4924 44.7804 82.2626 48.4048 82.2626C52.0292 82.2626 55.542 81.4924 57.1646 81.0159C52.9492 81.0159 51.5887 78.6445 48.4048 78.6445ZM64.8148 73.5194C63.4933 74.2452 62.1718 74.7272 59.763 74.7272C57.3542 74.7272 56.0438 74.1787 54.7223 73.4473C53.2503 72.6384 51.5496 71.6134 48.3992 71.5857C45.2488 71.6134 43.5481 72.6384 42.0761 73.4473C40.7546 74.1732 39.4442 74.7272 37.0354 74.7272C34.6266 74.7272 33.3051 74.2452 31.9836 73.5194C30.4949 72.6994 28.5098 71.3585 25.181 71.7242C30.2161 78.1514 37.1247 78.0517 37.1247 78.0517C40.1747 78.0517 41.9032 77.4367 43.392 76.6166C44.6968 75.8963 46.0462 75.032 48.3992 75.0098C50.7467 75.032 52.1017 75.8963 53.4064 76.6166C54.8952 77.4367 56.6237 78.0517 59.6738 78.0517C59.6738 78.0517 66.588 78.1514 71.6175 71.7242C68.2942 71.3585 66.3036 72.6994 64.8148 73.5194ZM71.4669 64.405C68.1604 64.405 66.4318 65.6738 64.904 66.516C63.5491 67.2584 62.3837 67.9842 59.9135 67.9842C57.4434 67.9842 56.2725 67.2584 54.9231 66.516C53.4064 65.6793 51.6779 64.7318 48.4048 64.7208C45.1373 64.7318 43.4032 65.6793 41.8865 66.516C40.5316 67.2584 39.3662 67.9842 36.896 67.9842C34.4259 67.9842 33.2605 67.2584 31.9056 66.516C30.3778 65.6738 28.6492 64.405 25.3427 64.405C23.2517 64.405 20.7593 65.0588 20.7593 65.0588L22.5547 68.156C22.5547 68.156 24.0546 67.89 25.3483 67.89C27.8184 67.89 29.1511 68.6103 30.5004 69.3583C32.0282 70.2005 33.2996 71.3585 36.6061 71.3585C39.9126 71.3585 41.7192 70.2947 43.2415 69.4525C44.5853 68.7101 45.9737 68.0729 48.4104 68.0618C50.8471 68.0729 52.2299 68.7101 53.5793 69.4525C55.1015 70.2947 56.9081 71.3585 60.2147 71.3585C63.5212 71.3585 64.7925 70.2005 66.3203 69.3583C67.6753 68.6103 69.0079 67.89 71.4725 67.89C72.7605 67.89 74.266 68.156 74.266 68.156L76.0615 65.0588C76.0503 65.0588 73.5523 64.405 71.4669 64.405ZM35.1062 26.0634L32.4799 25.4705L34.3088 27.4375L32.4799 29.3989L35.1062 28.806L35.9035 31.3603L36.7009 28.806L39.3272 29.3989L37.4982 27.4375L39.3272 25.4705L36.7009 26.0634L35.9035 23.5091L35.1062 26.0634ZM68.5172 47.8106H69.3481V46.5916C69.3481 46.5916 68.2775 46.3756 68.2775 45.2619H68.2719L68.2106 44.1925L69.2421 43.3614L69.4484 41.1673H67.9429L67.7478 42.7187H66.2924L66.075 41.1673H65.2386H64.4078L64.1903 42.7187H62.735L62.5398 41.1673H61.0343L61.2406 43.3614L62.2722 44.1925L62.2108 45.2619H62.2053C62.2053 46.37 61.1347 46.5916 61.1347 46.5916V47.8106H61.9655C61.9265 51.9329 59.8689 57.8836 59.8689 62.3604H65.2386H70.6138C70.6138 57.8836 68.5563 51.9329 68.5172 47.8106ZM68.5953 39.7434V39.0286C68.5953 36.973 67.0731 35.6876 65.2442 35.6876C63.4152 35.6876 61.893 36.973 61.893 39.0286V39.7434H68.5953ZM34.8385 47.8106H35.6693V46.5916C35.6693 46.5916 34.5988 46.3756 34.5988 45.2619H34.5932L34.5318 44.1925L35.5634 43.3614L35.7697 41.1673H34.2586L34.0635 42.7187H32.6081L32.3907 41.1673H31.5599H30.729L30.5116 42.7187H29.0563L28.8611 41.1673H27.3556L27.5619 43.3614L28.5935 44.1925L28.5321 45.2619H28.5265C28.5265 46.37 27.456 46.5916 27.456 46.5916V47.8106H28.2868C28.2477 51.9329 26.1902 57.8836 26.1902 62.3604H31.5654H36.9407C36.9351 57.8836 34.8775 51.9329 34.8385 47.8106ZM50.0943 20.8662C50.0943 19.9409 49.336 19.1874 48.3992 19.1874C47.4625 19.1874 46.7041 19.9409 46.7041 20.8662C46.7041 21.7915 47.4625 22.5451 48.3992 22.5451C49.336 22.5451 50.0943 21.7915 50.0943 20.8662ZM55.319 44.0762H41.4851V46.1484C41.4851 46.1484 42.3493 46.5307 42.3493 47.4782C42.3493 49.3786 40.855 56.9195 41.1449 62.3549H45.9625L46.325 57.191C46.4867 55.8889 47.3286 55.1243 48.4048 55.1243C49.481 55.1243 50.3229 55.8834 50.4846 57.191L50.8471 62.3549H55.6647C55.9546 56.9195 54.4603 49.3786 54.4603 47.4782C54.4603 46.5252 55.3245 46.1484 55.3245 46.1484L55.319 44.0762ZM34.9166 39.7434V39.0286C34.9166 36.973 33.3943 35.6876 31.5654 35.6876C29.7365 35.6876 28.2143 36.973 28.2143 39.0286V39.7434H34.9166ZM53.6796 42.4361C53.6796 42.4361 53.3395 39.8597 53.3395 39.0064C53.3395 37.7709 54.5328 37.2944 54.5328 37.2944L54.6833 34.5462H52.4195L52.1853 36.2749H50.1835L49.9493 34.5462H46.8603L46.6261 36.2749H44.6243L44.3901 34.5462H42.1263L42.2768 37.2944C42.2768 37.2944 43.4701 37.7709 43.4701 39.0064C43.4701 39.8597 43.13 42.4361 43.13 42.4361H53.6796ZM60.6886 24.1519C59.7686 24.102 58.9266 24.4234 58.2965 24.9774C58.2519 25.0162 58.291 25.0882 58.3467 25.0716C58.7426 24.9608 59.172 24.9386 59.6236 25.0439C60.5715 25.2711 61.3187 26.0579 61.4748 27.0164C61.7313 28.5567 60.5381 29.892 59.0326 29.892C58.7928 29.892 58.5642 29.8588 58.3523 29.7978C58.2965 29.7812 58.2575 29.8532 58.3021 29.892C58.8876 30.4073 59.6571 30.7287 60.5046 30.7287C62.3893 30.7287 63.9004 29.1717 63.8167 27.2823C63.7331 25.6146 62.3614 24.2405 60.6886 24.1519ZM53.5012 32.4518V32.9394H43.3028V32.4518C43.3028 31.2772 48.3992 23.559 48.3992 23.559C48.3992 23.559 53.5012 31.2772 53.5012 32.4518Z" fill="currentColor"/>
+</svg>
+
+  </div>
+</div>
+
+    </div>
+  </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--event-grid paragraph--view-mode--default">
+          
+            <div class="field field--name-views-reference-event-grid field--type-viewsreference field--label-hidden field__item"><div class="views-element-container"><div class="viewsreference--view-title">
+    Koncerter
+</div>
+
+<div class="view view-events-grid view-id-events_grid view-display-id-summary js-view-dom-id-45b3d46b5f0a1333c8ae245875d251141b2087e3dc61c23e5c09e4061b3e480e">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="card-grid card-grid--event">
+
+          <li class="card-grid-item--wrapper">
+
+
+<div class="node node--type-event node--promoted card-grid-item" data-node-id="6520">
+  <a href="/events/afskum">
+
+    <div class="image">
+      
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" class="decorative image-style-news-grid-teaser" src="/sites/default/files/styles/news_grid_teaser/public/2026-06/Hjemmeside%20event%20%281200%20x%20554%20px%29%20%2818%29.png?itok=Wco8nCtl" width="330" height="250" alt="" role="presentation" />
+
+
+</div>
+      
+
+      <div class="ribbon">
+        
+      </div>
+    </div>
+
+    <div class="node__content">
+      <div class="pre-title">
+        
+            <div class="field field--name-contact-list field--type-entity-reference-revisions field--label-hidden field__item">  <div class="appearance--dark paragraph paragraph--type--contact-box paragraph--view-mode--preview">
+                  <div class="paragraph paragraph--type--contact-information paragraph--view-mode--preview">
+      
+            <div class="field field--name-contact field--type-kk-contact field--label-hidden field__item">HUSET, Vartov</div>
+      
+    </div>
+  
+
+      </div>
+</div>
+      
+      </div>
+
+      <div class="title">
+        <h3 class="title"><span class="field field--name-title field--type-string field--label-hidden">Afskum</span>
+</h3>
+      </div>
+
+      <div class="footer">
+        
+      <div class="field field--name-scheduled-dates field--type-date-recur field--label-hidden field__items">
+              <div class="field__item"><div class="date-text">Ons. 02. sep. 2026 Kl. 21 - 22</div></div>
+          </div>
+  
+      </div>
+    </div>
+
+    <span class="dates"></span>
+
+  </a>
+</div>
+</li>
+          <li class="card-grid-item--wrapper">
+
+
+<div class="node node--type-event node--promoted card-grid-item" data-node-id="6584">
+  <a href="/events/final-descent-les-nuits-super-parquet-trucs">
+
+    <div class="image">
+      
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" class="decorative image-style-news-grid-teaser" src="/sites/default/files/styles/news_grid_teaser/public/2026-08/supertrucs.png?itok=0NCGB794" width="330" height="250" alt="" role="presentation" />
+
+
+</div>
+      
+
+      <div class="ribbon">
+        
+      </div>
+    </div>
+
+    <div class="node__content">
+      <div class="pre-title">
+        
+            <div class="field field--name-contact-list field--type-entity-reference-revisions field--label-hidden field__item">  <div class="appearance--dark paragraph paragraph--type--contact-box paragraph--view-mode--preview">
+                  <div class="paragraph paragraph--type--contact-information paragraph--view-mode--preview">
+      
+            <div class="field field--name-contact field--type-kk-contact field--label-hidden field__item">HUSET, Stairway</div>
+      
+    </div>
+  
+
+      </div>
+</div>
+      
+      </div>
+
+      <div class="title">
+        <h3 class="title"><span class="field field--name-title field--type-string field--label-hidden">Final Descent: Les Nuits: Super Parquet + TRUCS</span>
+</h3>
+      </div>
+
+      <div class="footer">
+        
+      <div class="field field--name-scheduled-dates field--type-date-recur field--label-hidden field__items">
+              <div class="field__item"><div class="date-text">Lør. 19. sep. 2026 Kl. 20 - 23</div></div>
+          </div>
+  
+      </div>
+    </div>
+
+    <span class="dates"></span>
+
+  </a>
+</div>
+</li>
+          <li class="card-grid-item--wrapper">
+
+
+<div class="node node--type-event node--promoted card-grid-item" data-node-id="6562">
+  <a href="/events/jasmine-myra-uk">
+
+    <div class="image">
+      
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" class="decorative image-style-news-grid-teaser" src="/sites/default/files/styles/news_grid_teaser/public/2026-06/WEB%20%2B%20BILLETTO%20%281%29_0.png?itok=MFxvfvOa" width="330" height="250" alt="" role="presentation" />
+
+
+</div>
+      
+
+      <div class="ribbon">
+        
+      </div>
+    </div>
+
+    <div class="node__content">
+      <div class="pre-title">
+        
+            <div class="field field--name-contact-list field--type-entity-reference-revisions field--label-hidden field__item">  <div class="appearance--dark paragraph paragraph--type--contact-box paragraph--view-mode--preview">
+                  <div class="paragraph paragraph--type--contact-information paragraph--view-mode--preview">
+      
+            <div class="field field--name-contact field--type-kk-contact field--label-hidden field__item">HUSET, Stairway</div>
+      
+    </div>
+  
+
+      </div>
+</div>
+      
+      </div>
+
+      <div class="title">
+        <h3 class="title"><span class="field field--name-title field--type-string field--label-hidden">Jasmine Myra (UK)</span>
+</h3>
+      </div>
+
+      <div class="footer">
+        
+      <div class="field field--name-scheduled-dates field--type-date-recur field--label-hidden field__items">
+              <div class="field__item"><div class="date-text">Fre. 25. sep. 2026 Kl. 19 - 23</div></div>
+          </div>
+  
+      </div>
+    </div>
+
+    <span class="dates"></span>
+
+  </a>
+</div>
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+  
+        <div class="more-link"><a href="/events?categories%5B0%5D=95&amp;free=all&amp;title=Koncerter">Se alle (7)</a></div>
+
+      </div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field__item">  <div class="paragraph paragraph--type--event-grid paragraph--view-mode--default">
+          
+            <div class="field field--name-views-reference-event-grid field--type-viewsreference field--label-hidden field__item"><div class="views-element-container"><div class="viewsreference--view-title">
+    Film, kultur og teater
+</div>
+
+<div class="view view-events-grid view-id-events_grid view-display-id-summary js-view-dom-id-b1e64f58c39b66c6f1780620a4756ae01fbf59db9dccb023f5f2c68f0e00fdfe">
+  
+    
+      
+      <div class="view-content">
+      <div>
+  
+  <ul class="card-grid card-grid--event">
+
+          <li class="card-grid-item--wrapper">
+
+
+<div class="node node--type-event node--promoted card-grid-item" data-node-id="6575">
+  <a href="/events/poetry-unleashed-3-years-anniversary-anthology-release-party">
+
+    <div class="image">
+      
+            <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">  <img loading="lazy" class="decorative image-style-news-grid-teaser" src="/sites/default/files/styles/news_grid_teaser/public/2026-05/697792751_122167652408898323_7780772673454656844_n.jpg?itok=1a_TkGFI" width="330" height="250" alt="" role="presentation" />
+
+
+</div>
+      
+
+      <div class="ribbon">
+        
+      </div>
+    </div>
+
+    <div class="node__content">
+      <div class="pre-title">
+        
+            <div class="field field--name-contact-list field--type-entity-reference-revisions field--label-hidden field__item">  <div class="appearance--dark paragraph paragraph--type--contact-box paragraph--view-mode--preview">
+                  <div class="paragraph paragraph--type--contact-information paragraph--view-mode--preview">
+      
+            <div class="field field--name-contact field--type-kk-contact field--label-hidden field__item">HUSET, Kulturhuset Indre By</div>
+      
+    </div>
+  
+
+      </div>
+</div>
+      
+      </div>
+
+      <div class="title">
+        <h3 class="title"><span class="field field--name-title field--type-string field--label-hidden">Poetry Unleashed 3 years anniversary + Anthology Release Party</span>
+</h3>
+      </div>
+
+      <div class="footer">
+        
+      <div class="field field--name-scheduled-dates field--type-date-recur field--label-hidden field__items">
+              <div class="field__item"><div class="date-text">Fre. 14. aug. 2026 Kl. 19.30 - 22.30</div></div>
+          </div>
+  
+      </div>
+    </div>
+
+    <span class="dates"></span>
+
+  </a>
+</div>
+</li>
+    
+  </ul>
+
+</div>
+
+    </div>
+  
+  
+        <div class="more-link"><a href="/events?categories%5B0%5D=157&amp;categories%5B1%5D=144&amp;categories%5B2%5D=137&amp;categories%5B3%5D=120&amp;categories%5B4%5D=176&amp;categories%5B5%5D=93&amp;categories%5B6%5D=128&amp;categories%5B7%5D=160&amp;free=all&amp;title=Film%2C%20kultur%20og%20teater">Se alle (1)</a></div>
+
+      </div>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="field__item">      <div class="paragraph paragraph--type--news-grid-teaser paragraph--view-mode--default" data-kk-animate="fade-in-left">
+              <div class="news-grid-teaser--title-wrapper">
+                              <a href="/nyheder" class="see-all-link small-arrow-animate-on-hover"><span>Se alle</span><span class="visually-hidden">&nbsp;news</span></a>
+                          </div>
+          
+                        <h2  class="field field--name-title field--type-string field--label-hidden field__item">Nyheder</h2>
+            <div class="views-element-container">
+<div class="paragraph paragraph--type--event-grid">
+  <div class="field field--name-views-reference-event-grid">
+    
+    <div class="views-element-container">
+      <div class="view view-eva view-latest-news-grid view-id-latest_news_grid view-display-id-entity_view_1 js-view-dom-id-c6ae56b04c30c982f3241b38d8af732af9e82f4102e8e25ce00938c2c38c7bac">
+        <div class="view-content">
+              <div class="views-row">
+<article class="node node--type-news node--promoted node--view-mode-grid-item">
+      <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">
+      <img src="/sites/default/files/styles/news_grid_teaser/public/2026-06/0 (12).jpg" alt="" role="presentation" class="image-style-news-grid-teaser">
+    </div>
+  
+  <div class="node__info">
+    <span class="node__type">nyhed</span>
+    
+            <div class="field field--name-publication-date field--type-datetime field--label-hidden field__item"><time datetime="2026-06-12T12:00:00Z" class="datetime">12.06.2026</time>
+</div>
+      
+  </div>
+
+  
+  <h3 class="node-title">
+    <a href="/nyheder/huset-rykker-kulturen-ud-af-huset-og-ud-i-byen-under-renovering" class="link-animate-on-hover">
+      HUSET rykker kulturen ud af huset - og ud i byen under renovering
+    </a>
+  </h3>
+  
+
+  
+            <div class="field field--name-teaser field--type-string field--label-hidden field__item">Københavns og Danmarks ældste kulturhus skal renoveres fra efteråret i år. Mens håndværkerne tager fat, flytter HUSET sit kulturprogram ud i København og fortsætter aktiviteterne på nye scener og lokationer rundt om i byen.</div>
+      
+
+  <a href="/nyheder/huset-rykker-kulturen-ud-af-huset-og-ud-i-byen-under-renovering" rel="bookmark" class="only-arrow-link">Read more</a>
+</article>
+</div>
+    <div class="views-row">
+<article class="node node--type-news node--promoted node--view-mode-grid-item">
+      <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">
+      <img src="/sites/default/files/2026-05/Frizone invitation (1080 x 864 px)_0.png" alt="" role="presentation" class="image-style-news-grid-teaser">
+    </div>
+  
+  <div class="node__info">
+    <span class="node__type">nyhed</span>
+    
+            <div class="field field--name-publication-date field--type-datetime field--label-hidden field__item"><time datetime="2026-05-19T12:00:00Z" class="datetime">19.05.2026</time>
+</div>
+      
+  </div>
+
+  
+  <h3 class="node-title">
+    <a href="/nyheder/invitation-aaben-hus" class="link-animate-on-hover">
+      Invitation åben hus
+    </a>
+  </h3>
+  
+
+  
+            <div class="field field--name-teaser field--type-string field--label-hidden field__item">Den kulturelle Frizone Christians Brygge 31</div>
+      
+
+  <a href="/nyheder/invitation-aaben-hus" rel="bookmark" class="only-arrow-link">Read more</a>
+</article>
+</div>
+    <div class="views-row">
+<article class="node node--type-news node--promoted node--view-mode-grid-item">
+      <div class="field field--name-image field--type-entity-reference field--label-hidden field__item">
+      <img src="/sites/default/files/2025-06/debut fest billede.jpg" alt="" role="presentation" class="image-style-news-grid-teaser">
+    </div>
+  
+  <div class="node__info">
+    <span class="node__type">nyhed</span>
+    
+            <div class="field field--name-publication-date field--type-datetime field--label-hidden field__item"><time datetime="2025-06-18T12:00:00Z" class="datetime">18.06.2025</time>
+</div>
+      
+  </div>
+
+  
+  <h3 class="node-title">
+    <a href="/nyheder/debut-fest-2025-programmet-er-nu-ude" class="link-animate-on-hover">
+      Debut Fest 2025 programmet er nu ude!
+    </a>
+  </h3>
+  
+
+  
+            <div class="field field--name-teaser field--type-string field--label-hidden field__item">Kom og udforsk nicheværker og eksperimenterende kunstformater fra Københavns kulturelle vækstlag, når 19 lovende kunstnere præsenterer deres værker inden for musik, dans, film, teater, performance, billedkunst og meget mere.</div>
+      
+
+  <a href="/nyheder/debut-fest-2025-programmet-er-nu-ude" rel="bookmark" class="only-arrow-link">Read more</a>
+</article>
+</div>
+
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+          </div>
+  </div>
+          </div>
+  
+  </div>
+
+</article>
+
+  </div>
+
+    </main>
+  </div>
+      <footer role="contentinfo">
+        <div class="region region-footer">
+    <div class="kk-site-footer">
+
+  <div class="kk-site-footer-text appearance--dark" data-kk-animate="fade-in-right">
+    <div class="kk-site-footer-text__free">
+      <h2>HUSET</h2>
+      HUSET er en kulturplatform, hvor frivillige og kulturmiljøer indenfor det alternative vækstlag får rum, sparring og erfaring til at skabe kulturelle vækstlagsaktiviteter. Sammen præsenterer vi alt fra koncerter til teater, talks, undergrundsfilm, madkultur og tværkunstneriske projekter.
+    </div>
+    <div class="kk-site-footer-text__contact">
+      <h3>Kontakt</h3>
+              <div class="kk-site-footer-contact-item">
+          <svg aria-hidden="true" role="presentation" class="svg svg-address-pin" height="24" width="24" xmlns="http://www.w3.org/2000/svg" id="Layer_1"
+     viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1{fill:none;stroke:currentColor;stroke-miterlimit:10}
+    </style>
+  </defs>
+  <path
+    d="M12 2.75c-3.51 0-6.36 2.89-6.36 6.43 0 1.48.92 3.68 2.75 6.56 1.4 2.21 2.91 4.16 3.5 4.89l.12.15.12-.15c1.04-1.3 6.24-7.98 6.24-11.45s-2.85-6.43-6.36-6.43Z"
+    class="cls-1"/>
+  <path
+    d="M12 6.48c-1.41 0-2.55 1.11-2.55 2.48s1.15 2.48 2.55 2.48 2.55-1.11 2.55-2.48S13.4 6.48 12 6.48Z"
+    class="cls-1"/>
+</svg>
+
+          <p>Rådhusstræde 13, 1466 KBH K</p>
+        </div>
+                    <div class="kk-site-footer-contact-item">
+          <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M9.09743 8.47266C8.78421 8.71691 8.38684 8.83293 8 8.83293H7.98529C7.61952 8.82285 7.2223 8.72197 6.90257 8.47266L0.941176 3.84691V12.6538H15.0588V3.84691L9.09743 8.47266ZM7.51746 7.83226L7.5193 7.83308C7.63745 7.92528 7.80705 7.97932 8.00735 7.98595C8.18701 7.98449 8.35625 7.93021 8.4807 7.83308L8.48254 7.83226L14.2629 3.34615H1.73713L7.51746 7.83226ZM16 13.5H0V2.5H16V13.5Z" fill="#000C2E"/>
+</svg>
+
+          <p><a href="mailto:info@huset-kbh.dk" class="link-animate-on-hover" data-link-text="info@huset-kbh.dk" target="_blank">info@huset-kbh.dk</a></p>
+        </div>
+                          <p class="kk-site-footer-text__id-number">EAN: 5798009780690</p>
+          </div>
+
+    <div class="kk-site-footer-text__links">
+      <h3>Links</h3>
+      
+              <ul class="kk-footer-menu menu">
+                    <li class="menu-item">
+        <a href="/about/contact" class="small-arrow-animate-on-hover"><span>Kontakt</span></a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.facebook.com/Huset.Koebenhavn" class="small-arrow-animate-on-hover"><span>Følg HUSET på facebook</span></a>
+              </li>
+                <li class="menu-item">
+        <a href="https://www.instagram.com/husetkbh/" class="small-arrow-animate-on-hover"><span>Følg HUSET på Instagram</span></a>
+              </li>
+                <li class="menu-item">
+        <a href="/was" class="small-arrow-animate-on-hover"><span>Tilgængelighedserklæring</span></a>
+              </li>
+                <li class="menu-item">
+        <a href="/cookiepolitik" class="small-arrow-animate-on-hover"><span>Cookiepolitik</span></a>
+              </li>
+      </ul>
+    
+
+
+    </div>
+  </div>
+
+  <div class="kk-site-footer-gfx" data-kk-animate="fade-in-up">
+    <div class="kk-site-footer-gfx__first">
+      <div  id="block-kkevent-sitefooter" class="kk-base-cph-brand">
+  <div class="kk-base-cph-brand-inner" role="presentation">
+    <svg class="svg svg-cph-brand" width="101" height="104" viewBox="0 0 101 104" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Københavns Kommunes logo</title>
+  <path d="M64.0174 97.5272L60.2035 98.6409L61.1849 102.082L59.1664 102.674L56.8524 94.3856L58.8262 93.8094L59.7407 97.0119L63.5156 95.9093L62.5287 92.7234L64.4914 92.1472L67.0786 100.358L65.0713 100.946L64.0174 97.5272ZM92.1146 32.2136C90.7095 32.9449 89.0535 32.3964 88.3453 31.0666C87.6372 29.7202 88.1279 28.058 89.533 27.3267C90.9381 26.5953 92.5942 27.1438 93.3079 28.4902C94.016 29.82 93.5198 31.4877 92.1146 32.2136ZM94.9863 27.6203C93.7707 25.3099 91.0329 24.2904 88.6018 25.5536C86.1763 26.8169 85.457 29.6261 86.6725 31.9365C87.8881 34.247 90.6259 35.2665 93.057 34.0032C95.4881 32.7399 96.2018 29.9253 94.9863 27.6203ZM58.369 4.47133L57.6999 9.41363L55.6591 9.13659L56.2279 4.63756C56.4174 3.15265 56.094 2.15533 54.6554 1.97803C53.1945 1.79518 52.6314 2.70386 52.4474 4.1666L51.8786 8.66564L49.8322 8.43847L50.4066 3.52388C50.7021 1.158 52.3024 -0.216087 54.8896 0.105273C57.4657 0.421092 58.6645 2.12762 58.369 4.47133ZM43.5872 94.9286L45.4384 94.9618L49.8211 100.248L49.7988 95.0283L51.8173 95.0616L51.8229 103.661L49.8155 103.627L49.8099 103.417C49.8155 103.123 49.6371 102.713 49.3137 102.359L45.4774 97.7045L45.3436 103.561L43.3028 103.528L43.5872 94.9286ZM65.1103 2.52101L67.0229 3.20252L65.4505 8.66564L69.8053 4.63201L70.9651 5.16392L70.6863 11.0703L73.8367 6.35517L75.6154 7.3802L70.6249 14.3836L68.7905 13.5414L69.0358 7.80683L64.7312 11.6798L62.8632 10.821L65.1103 2.52101ZM80.6895 10.8708L82.2619 12.1452L78.9554 16.7329L84.4254 14.3836L85.3343 15.2701L83.076 20.7388L87.6316 17.359L88.9642 18.9159L81.8995 23.8471L80.4609 22.4453L82.6355 17.1263L77.2715 19.3425L75.805 17.913L80.6895 10.8708ZM13.6945 85.4817C12.3005 86.2297 10.6333 85.7089 9.90846 84.3902C9.81924 84.2295 9.75233 84.0578 9.69657 83.8916L15.1498 83.3319C15.0662 84.1963 14.5588 85.0163 13.6945 85.4817ZM11.046 80.6281C12.4399 79.8801 14.1071 80.4009 14.8376 81.7362C14.9157 81.8803 14.9826 82.0299 15.0328 82.185L9.5962 82.7446C9.691 81.8858 10.1984 81.088 11.046 80.6281ZM18.2891 83.0106L18.1664 81.8637L16.9509 81.9911C16.8505 81.6032 16.6944 81.2154 16.4937 80.8442C15.2446 78.5559 12.4901 77.5752 10.0813 78.8717C8.45314 79.7471 7.62232 81.3151 7.63347 82.9496L6.39004 83.0771L6.55174 84.2129L7.78402 84.0855C7.88439 84.4955 8.04052 84.8944 8.2524 85.2823C9.50699 87.5706 12.2559 88.5513 14.6647 87.2547C16.3041 86.3738 17.1405 84.7836 17.1126 83.1325L18.2891 83.0106ZM76.6358 84.7836L78.2974 83.3042L84.7321 85.7809L81.8884 79.52L83.26 77.8023L87.2468 86.6397L85.7525 88.2133L76.6358 84.7836ZM45.1931 8.50496L43.3641 8.80415L38.0837 4.41039L39.0651 9.54106L37.0745 9.8735L35.4853 1.41842L37.4648 1.08597L37.5038 1.29098C37.554 1.5791 37.8049 1.95032 38.1841 2.24398L42.8121 6.12246L41.8642 0.337982L43.8883 0L45.1931 8.50496ZM85.2953 74.899L86.1372 73.259L92.8395 71.6466L88.0944 69.3916L89.0033 67.6019L96.804 71.3419L95.9007 73.126L95.7111 73.0374C95.4435 72.9044 94.9974 72.8877 94.5346 73.0152L88.6408 74.417L93.8934 77.0876L92.9734 78.8994L85.2953 74.899ZM7.80633 67.6019L8.70405 69.4525L5.69304 70.8931C6.86957 71.7076 8.70963 72.3558 10.098 72.3171L11.0515 74.2785C9.40105 74.4114 7.22643 73.6413 5.87705 72.8268L3.42921 78.3896L2.30844 76.0903L4.34366 71.5414L0.897728 73.1925L0 71.3363L7.80633 67.6019ZM23.0677 91.3105C23.7034 91.7427 24.339 91.7538 24.7126 91.2053C25.0472 90.7177 24.9189 90.2301 24.1606 89.7148L23.0454 88.9613L21.9525 90.557L23.0677 91.3105ZM21.4785 94.5629C22.2369 95.0727 22.8224 94.984 23.1959 94.4466C23.5249 93.9701 23.4301 93.3883 22.6551 92.8619L21.0994 91.8092L19.9284 93.5157L21.4785 94.5629ZM22.2201 86.5289L25.0527 88.446C27.1103 89.8367 27.3333 91.0169 26.5694 92.1195C26.1233 92.7677 25.4263 93.0835 24.5844 92.9617C25.3594 93.8592 25.4319 94.8012 24.8464 95.6544C24.0435 96.8235 22.683 97.2557 20.6087 95.8484L17.3356 93.6321L22.2201 86.5289ZM97.5512 65.2084L96.5866 63.5184C97.5345 62.9921 98.0809 62.3604 98.2593 61.4407C98.4211 60.6207 98.198 59.9779 97.5791 59.856C96.8765 59.7175 96.4081 60.5265 96.0624 61.3576C95.4825 62.8868 94.5402 64.2554 92.728 63.9007C91.111 63.5849 90.3694 62.1222 90.7708 60.1109C91.0441 58.7479 91.5961 57.8171 92.7782 57.0746L93.6982 58.7202C93.0235 59.1247 92.6053 59.7175 92.4492 60.5043C92.2875 61.3243 92.4882 61.8396 92.9734 61.9338C93.5811 62.0502 94.0328 61.4351 94.3785 60.5154C95.0197 58.8643 95.8784 57.4957 97.8133 57.8725C99.7425 58.2492 100.334 59.9835 99.9656 61.8396C99.6478 63.4243 98.8281 64.4825 97.5512 65.2084ZM91.7355 45.8547L91.295 43.849L94.5625 43.1453C93.609 42.0815 91.9697 41.0233 90.6147 40.7407L90.1519 38.6131C91.7912 38.8624 93.7261 40.1201 94.8413 41.2227L98.5326 36.3802L99.079 38.879L96.029 42.8295L99.7649 42.0261L100.205 44.0318L91.7355 45.8547ZM32.6751 11.3695L26.7534 14.1398L26.0174 12.594L30.0711 10.6991L29.3518 9.18646L25.9728 10.7711L25.2367 9.22524L28.6158 7.64061L27.8407 6.00611L23.787 7.90102L23.051 6.35517L28.9726 3.58482L32.6751 11.3695ZM32.3795 92.0862L38.6246 94.0365L38.106 95.6655L33.8293 94.3302L33.3219 95.9259L36.8905 97.0396L36.3719 98.6686L32.8033 97.5549L32.2569 99.278L36.5336 100.613L36.015 102.242L29.77 100.292L32.3795 92.0862ZM73.1285 93.5656L72.6156 90.1414L75.5151 92.0918L73.1285 93.5656ZM78.6655 94.2083L80.4163 92.9173L72.4873 87.8642L70.6417 89.0167L71.8238 98.2918L73.6917 97.3222L73.4073 95.4106L77.0763 93.139L78.6655 94.2083ZM48.4048 78.6445C45.2154 78.6445 43.8548 81.0159 39.645 81.0159C41.2676 81.4924 44.7804 82.2626 48.4048 82.2626C52.0292 82.2626 55.542 81.4924 57.1646 81.0159C52.9492 81.0159 51.5887 78.6445 48.4048 78.6445ZM64.8148 73.5194C63.4933 74.2452 62.1718 74.7272 59.763 74.7272C57.3542 74.7272 56.0438 74.1787 54.7223 73.4473C53.2503 72.6384 51.5496 71.6134 48.3992 71.5857C45.2488 71.6134 43.5481 72.6384 42.0761 73.4473C40.7546 74.1732 39.4442 74.7272 37.0354 74.7272C34.6266 74.7272 33.3051 74.2452 31.9836 73.5194C30.4949 72.6994 28.5098 71.3585 25.181 71.7242C30.2161 78.1514 37.1247 78.0517 37.1247 78.0517C40.1747 78.0517 41.9032 77.4367 43.392 76.6166C44.6968 75.8963 46.0462 75.032 48.3992 75.0098C50.7467 75.032 52.1017 75.8963 53.4064 76.6166C54.8952 77.4367 56.6237 78.0517 59.6738 78.0517C59.6738 78.0517 66.588 78.1514 71.6175 71.7242C68.2942 71.3585 66.3036 72.6994 64.8148 73.5194ZM71.4669 64.405C68.1604 64.405 66.4318 65.6738 64.904 66.516C63.5491 67.2584 62.3837 67.9842 59.9135 67.9842C57.4434 67.9842 56.2725 67.2584 54.9231 66.516C53.4064 65.6793 51.6779 64.7318 48.4048 64.7208C45.1373 64.7318 43.4032 65.6793 41.8865 66.516C40.5316 67.2584 39.3662 67.9842 36.896 67.9842C34.4259 67.9842 33.2605 67.2584 31.9056 66.516C30.3778 65.6738 28.6492 64.405 25.3427 64.405C23.2517 64.405 20.7593 65.0588 20.7593 65.0588L22.5547 68.156C22.5547 68.156 24.0546 67.89 25.3483 67.89C27.8184 67.89 29.1511 68.6103 30.5004 69.3583C32.0282 70.2005 33.2996 71.3585 36.6061 71.3585C39.9126 71.3585 41.7192 70.2947 43.2415 69.4525C44.5853 68.7101 45.9737 68.0729 48.4104 68.0618C50.8471 68.0729 52.2299 68.7101 53.5793 69.4525C55.1015 70.2947 56.9081 71.3585 60.2147 71.3585C63.5212 71.3585 64.7925 70.2005 66.3203 69.3583C67.6753 68.6103 69.0079 67.89 71.4725 67.89C72.7605 67.89 74.266 68.156 74.266 68.156L76.0615 65.0588C76.0503 65.0588 73.5523 64.405 71.4669 64.405ZM35.1062 26.0634L32.4799 25.4705L34.3088 27.4375L32.4799 29.3989L35.1062 28.806L35.9035 31.3603L36.7009 28.806L39.3272 29.3989L37.4982 27.4375L39.3272 25.4705L36.7009 26.0634L35.9035 23.5091L35.1062 26.0634ZM68.5172 47.8106H69.3481V46.5916C69.3481 46.5916 68.2775 46.3756 68.2775 45.2619H68.2719L68.2106 44.1925L69.2421 43.3614L69.4484 41.1673H67.9429L67.7478 42.7187H66.2924L66.075 41.1673H65.2386H64.4078L64.1903 42.7187H62.735L62.5398 41.1673H61.0343L61.2406 43.3614L62.2722 44.1925L62.2108 45.2619H62.2053C62.2053 46.37 61.1347 46.5916 61.1347 46.5916V47.8106H61.9655C61.9265 51.9329 59.8689 57.8836 59.8689 62.3604H65.2386H70.6138C70.6138 57.8836 68.5563 51.9329 68.5172 47.8106ZM68.5953 39.7434V39.0286C68.5953 36.973 67.0731 35.6876 65.2442 35.6876C63.4152 35.6876 61.893 36.973 61.893 39.0286V39.7434H68.5953ZM34.8385 47.8106H35.6693V46.5916C35.6693 46.5916 34.5988 46.3756 34.5988 45.2619H34.5932L34.5318 44.1925L35.5634 43.3614L35.7697 41.1673H34.2586L34.0635 42.7187H32.6081L32.3907 41.1673H31.5599H30.729L30.5116 42.7187H29.0563L28.8611 41.1673H27.3556L27.5619 43.3614L28.5935 44.1925L28.5321 45.2619H28.5265C28.5265 46.37 27.456 46.5916 27.456 46.5916V47.8106H28.2868C28.2477 51.9329 26.1902 57.8836 26.1902 62.3604H31.5654H36.9407C36.9351 57.8836 34.8775 51.9329 34.8385 47.8106ZM50.0943 20.8662C50.0943 19.9409 49.336 19.1874 48.3992 19.1874C47.4625 19.1874 46.7041 19.9409 46.7041 20.8662C46.7041 21.7915 47.4625 22.5451 48.3992 22.5451C49.336 22.5451 50.0943 21.7915 50.0943 20.8662ZM55.319 44.0762H41.4851V46.1484C41.4851 46.1484 42.3493 46.5307 42.3493 47.4782C42.3493 49.3786 40.855 56.9195 41.1449 62.3549H45.9625L46.325 57.191C46.4867 55.8889 47.3286 55.1243 48.4048 55.1243C49.481 55.1243 50.3229 55.8834 50.4846 57.191L50.8471 62.3549H55.6647C55.9546 56.9195 54.4603 49.3786 54.4603 47.4782C54.4603 46.5252 55.3245 46.1484 55.3245 46.1484L55.319 44.0762ZM34.9166 39.7434V39.0286C34.9166 36.973 33.3943 35.6876 31.5654 35.6876C29.7365 35.6876 28.2143 36.973 28.2143 39.0286V39.7434H34.9166ZM53.6796 42.4361C53.6796 42.4361 53.3395 39.8597 53.3395 39.0064C53.3395 37.7709 54.5328 37.2944 54.5328 37.2944L54.6833 34.5462H52.4195L52.1853 36.2749H50.1835L49.9493 34.5462H46.8603L46.6261 36.2749H44.6243L44.3901 34.5462H42.1263L42.2768 37.2944C42.2768 37.2944 43.4701 37.7709 43.4701 39.0064C43.4701 39.8597 43.13 42.4361 43.13 42.4361H53.6796ZM60.6886 24.1519C59.7686 24.102 58.9266 24.4234 58.2965 24.9774C58.2519 25.0162 58.291 25.0882 58.3467 25.0716C58.7426 24.9608 59.172 24.9386 59.6236 25.0439C60.5715 25.2711 61.3187 26.0579 61.4748 27.0164C61.7313 28.5567 60.5381 29.892 59.0326 29.892C58.7928 29.892 58.5642 29.8588 58.3523 29.7978C58.2965 29.7812 58.2575 29.8532 58.3021 29.892C58.8876 30.4073 59.6571 30.7287 60.5046 30.7287C62.3893 30.7287 63.9004 29.1717 63.8167 27.2823C63.7331 25.6146 62.3614 24.2405 60.6886 24.1519ZM53.5012 32.4518V32.9394H43.3028V32.4518C43.3028 31.2772 48.3992 23.559 48.3992 23.559C48.3992 23.559 53.5012 31.2772 53.5012 32.4518Z" fill="currentColor"/>
+</svg>
+
+  </div>
+</div>
+
+    </div>
+    <div class="kk-site-footer-gfx__second">
+                        <img class="kk-site-footer-gfx__logo"
+               src="https://huset.kk.dk/sites/default/files/Huset_logo_9_B.png" alt="HUSET">
+                  </div>
+  </div>
+
+</div>
+
+  </div>
+
+    </footer>
+  
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/2","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"da","currentQuery":{"per_page":"5"}},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtkGuOgzAMhC8ERD1RZJJZsHAeihOq7uk3wG5brfon9nwe-REnpPowMykGd-UBqrRA_3RMvtdSQc9KIOFvDGjWpbQxeghZmKKD-QTtTAXDttljgtnZI42X6ReyGle4h3GmGFFGJ0kxt1pTfFkYt9uheuOQoq0rAq6lO8wlfbHAYkes_2rKFRy6Y4d5y89Spcpa2Zl3MWl9SD9-2852xlHx41LYP8kiaSYZDx_H5Ykl3fv20oWMAbENmQothfKqxpeWSaYXmVrMbRbWFX5QUHGrpcyWWk3n56H2fT_zQR9aEa4Td8ZdzflOIfkm-AHKBLaI","theme":"kkevent","theme_token":null},"ajaxTrustedUrl":{"\/soeg":true},"eu_cookie_compliance":{"cookie_policy_version":"2.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Caside class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n    \u003Cdiv data-nosnippet=\u0022true\u0022 class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Ch1 class=\u0022visually-hidden\u0022\u003ECookieindstillinger\u003C\/h1\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EK\u00f8benhavns Kommunes hjemmeside bruger cookies\u003C\/h2\u003E\u003Cp\u003EDe indsamlede data bruges kun internt i K\u00f8benhavns Kommune til at kunne vise fx videoer og kort p\u00e5 hjemmesiden og forbedre den generelle brugeroplevelse. \u003Ca href=\u0022\/cookiepolitik\u0022\u003EL\u00e6s hele vores cookiepolitik her\u003C\/a\u003E\u003C\/p\u003E\u003Cp\u003EDu kan \u00e6ndre dine valg senere ved at klikke p\u00e5 \u0027Cookieindstillinger\u0027, som du finder som link nederst\u0026nbsp;p\u00e5\u0026nbsp;siden.\u003C\/p\u003E\n    \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n        \u003Cdiv class=\u0022kk-eu-cookie_category-control-list\u0022\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n                \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EN\u00f8dvendige\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional\u0022\n                     value=\u0022functional\u0022\n                                           \u003E\n                \u003Clabel for=\u0022cookie-category-functional\u0022\u003EFunktionelle\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-statistics\u0022\n                     value=\u0022statistics\u0022\n                                           \u003E\n                \u003Clabel for=\u0022cookie-category-statistics\u0022\u003EStatistiske\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n\n        \u003Cdiv class=\u0022kk-accordion\u0022\u003E\n          \u003Cdetails class=\u0022kk-accordion__details\u0022\u003E\n            \u003Csummary class=\u0022kk-accordion__summary\u0022\u003E\n              \u003Cp class=\u0022kk-accordion__summary--headline\u0022\u003EVis cookieforklaring\u003C\/p\u003E\n              \u003Cdiv class=\u0022kk-accordion__summary-visual\u0022 aria-hidden=\u0022true\u0022\u003E\n                \u003Csvg class=\u0022svg svg-chevron\u0022 width=\u00225\u0022 height=\u002211\u0022 viewBox=\u00220 0 5 11\u0022 fill=\u0022none\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M.101876 0.117061C0.23771 -0.0396713 0.457942 -0.0396713 0.593776 0.117061L4.76769 4.93311C4.90352 5.08985 4.90352 5.34396 4.76769 5.50069L0.593776 10.3167C0.457942 10.4735 0.23771 10.4735 0.101876 10.3167C-0.0339586 10.16 -0.0339586 9.9059 0.101876 9.74917L4.02984 5.2169L0.101876 0.684638C-0.0339586 0.527906 -0.0339586 0.273793 0.101876 0.117061Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\n              \u003C\/div\u003E\n            \u003C\/summary\u003E\n            \u003Cdiv class=\u0022kk-accordion__text\u0022\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EN\u00f8dvendige\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EN\u00f8dvendige cookies aktiverer grundl\u00e6ggende funktioner s\u00e5som afvisning af cookies og adgang til sikret indhold.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ecookie-agreed-categories\u003Cbr\u003Ecookie-agreed-version\u003Cbr\u003Ecookie-agreed\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at gemme dine til- og fravalg af cookies p\u00e5 hjemmesiden\u003C\/td\u003E\u003Ctd\u003E100 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Ecrisis-banner-close\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at lukke et banner, s\u00e5 det ikke vises flere gange under dit bes\u00f8g\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDrupal_visitor_votingapi_source\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EGiver dig mulighed for at afgive din stemme p\u00e5 indsendte id\u00e9er\u003C\/td\u003E\u003Ctd\u003E365 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003ESESS-32-digits-and-letters\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt som redakt\u00f8r at f\u00e5 adgang til sikret indhold\u003C\/td\u003E\u003Ctd\u003E11 timer\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EFunktionelle\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EFunktionelle cookies g\u00f8r det muligt at anvende funktioner som visning af videoer og\u0026nbsp;interaktive\u0026nbsp;kort.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ead_session_id\u003C\/td\u003E\u003Ctd\u003ETwentyThree\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se video fra vores videoplatform video.kk.dk\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EJSESSIONID\u003C\/td\u003E\u003Ctd\u003ESeptima\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se og anvende vores bykort\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EStatistiske\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EStatistiske cookies g\u00f8r det muligt for K\u00f8benhavns Kommune at f\u00e5 indsigt i brugen af hjemmesiden ved at indsamle og internt anvende oplysninger for at forbedre den generelle brugeroplevelse.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EAWSELBCORS\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik over den generelle brug af hjemmesiden\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Enmstat\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik om bes\u00f8gshistorik\u003C\/td\u003E\u003Ctd\u003E1000 dage\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                          \u003C\/div\u003E\n          \u003C\/details\u003E\n        \u003C\/div\u003E\n      \u003C\/div\u003E\n    \n  \u003C\/div\u003E\n  \u003Cdiv data-nosnippet=\u0022true\u0022 class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n          \u003Cbutton type=\u0022button\u0022\n              class=\u0022eu-cookie-compliance-save-preferences-button\u0022\u003ETillad udvalgte cookies \u003Csvg class=\u0022svg svg-arrow\u0022 width=\u002216\u0022 height=\u002211\u0022 viewBox=\u00220 0 16 11\u0022 fill=\u0022none\u0022 role=\u0022presentation\u0022 aria-hidden=\u0022true\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M11.6435 0.123916C11.5086 -0.0413055 11.2899 -0.0413055 11.155 0.123916C11.0201 0.289138 11.0201 0.557016 11.155 0.722238L14.7565 5.13368H0.368429C0.164951 5.13368 0 5.29784 0 5.50034C0 5.70285 0.164951 5.86701 0.368429 5.86701H14.756L11.155 10.2778C11.0201 10.443 11.0201 10.7109 11.155 10.8761C11.2899 11.0413 11.5086 11.0413 11.6435 10.8761L15.7883 5.79916C15.9232 5.63394 15.9232 5.36606 15.7883 5.20084L11.6435 0.123916Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\u003C\/button\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022\n         class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022\n              class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003ETillad alle cookies \u003Csvg class=\u0022svg svg-arrow\u0022 width=\u002216\u0022 height=\u002211\u0022 viewBox=\u00220 0 16 11\u0022 fill=\u0022none\u0022 role=\u0022presentation\u0022 aria-hidden=\u0022true\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M11.6435 0.123916C11.5086 -0.0413055 11.2899 -0.0413055 11.155 0.123916C11.0201 0.289138 11.0201 0.557016 11.155 0.722238L14.7565 5.13368H0.368429C0.164951 5.13368 0 5.29784 0 5.50034C0 5.70285 0.164951 5.86701 0.368429 5.86701H14.756L11.155 10.2778C11.0201 10.443 11.0201 10.7109 11.155 10.8761C11.2899 11.0413 11.5086 11.0413 11.6435 10.8761L15.7883 5.79916C15.9232 5.63394 15.9232 5.36606 15.7883 5.20084L11.6435 0.123916Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/aside\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Caside class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--categories\u0022\u003E\n    \u003Cdiv data-nosnippet=\u0022true\u0022 class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Ch1 class=\u0022visually-hidden\u0022\u003ECookieindstillinger\u003C\/h1\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n\n          \u003Cdiv id=\u0022eu-cookie-compliance-categories\u0022 class=\u0022eu-cookie-compliance-categories\u0022\u003E\n        \u003Cdiv class=\u0022kk-eu-cookie_category-control-list\u0022\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-necessary\u0022\n                     value=\u0022necessary\u0022\n                      checked                       disabled  \u003E\n                \u003Clabel for=\u0022cookie-category-necessary\u0022\u003EN\u00f8dvendige\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-functional\u0022\n                     value=\u0022functional\u0022\n                                           \u003E\n                \u003Clabel for=\u0022cookie-category-functional\u0022\u003EFunktionelle\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                      \u003Cdiv class=\u0022eu-cookie-compliance-category\u0022\u003E\n              \u003Cdiv class=\u0022eu-cookie-compliance-category--form-control\u0022\u003E\n                \u003Cinput type=\u0022checkbox\u0022 name=\u0022cookie-categories\u0022 id=\u0022cookie-category-statistics\u0022\n                     value=\u0022statistics\u0022\n                                           \u003E\n                \u003Clabel for=\u0022cookie-category-statistics\u0022\u003EStatistiske\u003C\/label\u003E\n              \u003C\/div\u003E\n            \u003C\/div\u003E\n                  \u003C\/div\u003E\n\n        \u003Cdiv class=\u0022kk-accordion\u0022\u003E\n          \u003Cdetails class=\u0022kk-accordion__details\u0022\u003E\n            \u003Csummary class=\u0022kk-accordion__summary\u0022\u003E\n              \u003Cp class=\u0022kk-accordion__summary--headline\u0022\u003EVis cookieforklaring\u003C\/p\u003E\n              \u003Cdiv class=\u0022kk-accordion__summary-visual\u0022 aria-hidden=\u0022true\u0022\u003E\n                \u003Csvg class=\u0022svg svg-chevron\u0022 width=\u00225\u0022 height=\u002211\u0022 viewBox=\u00220 0 5 11\u0022 fill=\u0022none\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M.101876 0.117061C0.23771 -0.0396713 0.457942 -0.0396713 0.593776 0.117061L4.76769 4.93311C4.90352 5.08985 4.90352 5.34396 4.76769 5.50069L0.593776 10.3167C0.457942 10.4735 0.23771 10.4735 0.101876 10.3167C-0.0339586 10.16 -0.0339586 9.9059 0.101876 9.74917L4.02984 5.2169L0.101876 0.684638C-0.0339586 0.527906 -0.0339586 0.273793 0.101876 0.117061Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\n              \u003C\/div\u003E\n            \u003C\/summary\u003E\n            \u003Cdiv class=\u0022kk-accordion__text\u0022\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EN\u00f8dvendige\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EN\u00f8dvendige cookies aktiverer grundl\u00e6ggende funktioner s\u00e5som afvisning af cookies og adgang til sikret indhold.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ecookie-agreed-categories\u003Cbr\u003Ecookie-agreed-version\u003Cbr\u003Ecookie-agreed\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at gemme dine til- og fravalg af cookies p\u00e5 hjemmesiden\u003C\/td\u003E\u003Ctd\u003E100 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Ecrisis-banner-close\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at lukke et banner, s\u00e5 det ikke vises flere gange under dit bes\u00f8g\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDrupal_visitor_votingapi_source\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EGiver dig mulighed for at afgive din stemme p\u00e5 indsendte id\u00e9er\u003C\/td\u003E\u003Ctd\u003E365 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003ESESS-32-digits-and-letters\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt som redakt\u00f8r at f\u00e5 adgang til sikret indhold\u003C\/td\u003E\u003Ctd\u003E11 timer\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EFunktionelle\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EFunktionelle cookies g\u00f8r det muligt at anvende funktioner som visning af videoer og\u0026nbsp;interaktive\u0026nbsp;kort.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ead_session_id\u003C\/td\u003E\u003Ctd\u003ETwentyThree\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se video fra vores videoplatform video.kk.dk\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EJSESSIONID\u003C\/td\u003E\u003Ctd\u003ESeptima\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se og anvende vores bykort\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                              \u003Cdiv class=\u0022kk-eu-cookie_category\u0022\u003E\n                  \u003Ch3 class=\u0022kk-eu-cookie_category-title\u0022\u003EStatistiske\u003C\/h3\u003E\n                  \u003Cdiv class=\u0022kk-eu-cookie_category-description\u0022\u003EStatistiske cookies g\u00f8r det muligt for K\u00f8benhavns Kommune at f\u00e5 indsigt i brugen af hjemmesiden ved at indsamle og internt anvende oplysninger for at forbedre den generelle brugeroplevelse.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EAWSELBCORS\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik over den generelle brug af hjemmesiden\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Enmstat\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik om bes\u00f8gshistorik\u003C\/td\u003E\u003Ctd\u003E1000 dage\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E\u003C\/div\u003E\n                \u003C\/div\u003E\n                          \u003C\/div\u003E\n          \u003C\/details\u003E\n        \u003C\/div\u003E\n      \u003C\/div\u003E\n    \n  \u003C\/div\u003E\n  \u003Cdiv data-nosnippet=\u0022true\u0022 class=\u0022eu-cookie-compliance-categories-buttons\u0022\u003E\n          \u003Cbutton type=\u0022button\u0022\n              class=\u0022eu-cookie-compliance-save-preferences-button\u0022\u003ETillad udvalgte cookies \u003Csvg class=\u0022svg svg-arrow\u0022 width=\u002216\u0022 height=\u002211\u0022 viewBox=\u00220 0 16 11\u0022 fill=\u0022none\u0022 role=\u0022presentation\u0022 aria-hidden=\u0022true\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M11.6435 0.123916C11.5086 -0.0413055 11.2899 -0.0413055 11.155 0.123916C11.0201 0.289138 11.0201 0.557016 11.155 0.722238L14.7565 5.13368H0.368429C0.164951 5.13368 0 5.29784 0 5.50034C0 5.70285 0.164951 5.86701 0.368429 5.86701H14.756L11.155 10.2778C11.0201 10.443 11.0201 10.7109 11.155 10.8761C11.2899 11.0413 11.5086 11.0413 11.6435 10.8761L15.7883 5.79916C15.9232 5.63394 15.9232 5.36606 15.7883 5.20084L11.6435 0.123916Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\u003C\/button\u003E\n        \u003Cdiv id=\u0022popup-buttons\u0022\n         class=\u0022eu-cookie-compliance-buttons eu-cookie-compliance-has-categories\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022\n              class=\u0022agree-button eu-cookie-compliance-default-button\u0022\u003ETillad alle cookies \u003Csvg class=\u0022svg svg-arrow\u0022 width=\u002216\u0022 height=\u002211\u0022 viewBox=\u00220 0 16 11\u0022 fill=\u0022none\u0022 role=\u0022presentation\u0022 aria-hidden=\u0022true\u0022 xmlns=\u0022http:\/\/www.w3.org\/2000\/svg\u0022\u003E\n  \u003Cpath fill-rule=\u0022evenodd\u0022 clip-rule=\u0022evenodd\u0022 d=\u0022M11.6435 0.123916C11.5086 -0.0413055 11.2899 -0.0413055 11.155 0.123916C11.0201 0.289138 11.0201 0.557016 11.155 0.722238L14.7565 5.13368H0.368429C0.164951 5.13368 0 5.29784 0 5.50034C0 5.70285 0.164951 5.86701 0.368429 5.86701H14.756L11.155 10.2778C11.0201 10.443 11.0201 10.7109 11.155 10.8761C11.2899 11.0413 11.5086 11.0413 11.6435 10.8761L15.7883 5.79916C15.9232 5.63394 15.9232 5.36606 15.7883 5.20084L11.6435 0.123916Z\u0022 fill=\u0022currentColor\u0022\/\u003E\n\u003C\/svg\u003E\n\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/aside\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":true,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/cookiepolitik","popup_link_new_window":true,"popup_position":false,"fixed_top_position":false,"popup_language":"da","consent_storage_method":"categories","store_consent":true,"better_support_for_screen_readers":true,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"categories","automatic_cookies_removal":true,"allowed_cookies":"cookie-agreed-categories\ncookie-agreed-version\ncookie-agreed\ncrisis-banner-close\nDrupal_visitor_votingapi_source\nad_session_id\nJSESSIONID\nAWSELBCORS\nnmstat","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003ECookieindstillinger\u003C\/button\u003E\n\u003Cdiv data-nosnippet=\u0022true\u0022 class=\u0022eu-cookie-withdraw-banner eu-cookie-compliance-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003ETr\u00e6k samtykke tilbage\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":true,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":["necessary","functional","statistics"],"cookie_categories_details":{"necessary":{"uuid":"9ce1c49e-77f6-4be6-9093-da1fbbc35902","langcode":"da","status":true,"dependencies":[],"id":"necessary","label":"N\u00f8dvendige","description":{"#markup":"N\u00f8dvendige cookies aktiverer grundl\u00e6ggende funktioner s\u00e5som afvisning af cookies og adgang til sikret indhold.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ecookie-agreed-categories\u003Cbr\u003Ecookie-agreed-version\u003Cbr\u003Ecookie-agreed\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at gemme dine til- og fravalg af cookies p\u00e5 hjemmesiden\u003C\/td\u003E\u003Ctd\u003E100 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Ecrisis-banner-close\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at lukke et banner, s\u00e5 det ikke vises flere gange under dit bes\u00f8g\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EDrupal_visitor_votingapi_source\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EGiver dig mulighed for at afgive din stemme p\u00e5 indsendte id\u00e9er\u003C\/td\u003E\u003Ctd\u003E365 dage\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003ESESS-32-digits-and-letters\u003C\/td\u003E\u003Ctd\u003EK\u00f8benhavns Kommunes hjemmeside\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt som redakt\u00f8r at f\u00e5 adgang til sikret indhold\u003C\/td\u003E\u003Ctd\u003E11 timer\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E"},"checkbox_default_state":"required","weight":0},"functional":{"uuid":"00e6781a-1cf4-4bdf-92d3-343d22e27271","langcode":"da","status":true,"dependencies":[],"id":"functional","label":"Funktionelle","description":{"#markup":"Funktionelle cookies g\u00f8r det muligt at anvende funktioner som visning af videoer og\u0026nbsp;interaktive\u0026nbsp;kort.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003Ead_session_id\u003C\/td\u003E\u003Ctd\u003ETwentyThree\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se video fra vores videoplatform video.kk.dk\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003EJSESSIONID\u003C\/td\u003E\u003Ctd\u003ESeptima\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at se og anvende vores bykort\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E"},"checkbox_default_state":"unchecked","weight":1},"statistics":{"uuid":"f253a261-631d-40f4-b38f-6db607df899f","langcode":"da","status":true,"dependencies":[],"id":"statistics","label":"Statistiske","description":{"#markup":"Statistiske cookies g\u00f8r det muligt for K\u00f8benhavns Kommune at f\u00e5 indsigt i brugen af hjemmesiden ved at indsamle og internt anvende oplysninger for at forbedre den generelle brugeroplevelse.\u003Cdiv class=\u0022kk-eu-cookie_category-details\u0022\u003E\u003Ctable\u003E\u003Cthead\u003E\u003Ctr\u003E\u003Cth\u003ECookie navn\u003C\/th\u003E\u003Cth\u003EAfsender\u003C\/th\u003E\u003Cth\u003EBeskrivelse\u003C\/th\u003E\u003Cth\u003EVarighed\u003C\/th\u003E\u003C\/tr\u003E\u003C\/thead\u003E\u003Ctbody\u003E\u003Ctr\u003E\u003Ctd\u003EAWSELBCORS\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik over den generelle brug af hjemmesiden\u003C\/td\u003E\u003Ctd\u003ES\u00e5 l\u00e6nge du bes\u00f8ger hjemmesiden\u003C\/td\u003E\u003C\/tr\u003E\u003Ctr\u003E\u003Ctd\u003Enmstat\u003C\/td\u003E\u003Ctd\u003ESiteimprove\u003C\/td\u003E\u003Ctd\u003EG\u00f8r det muligt at f\u00e5 statistik om bes\u00f8gshistorik\u003C\/td\u003E\u003Ctd\u003E1000 dage\u003C\/td\u003E\u003C\/tr\u003E\u003C\/tbody\u003E\u003C\/table\u003E\u003C\/div\u003E"},"checkbox_default_state":"unchecked","weight":3}},"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"","open_by_default":true,"modules_allow_popup":true,"hide_the_banner":false,"geoip_match":true,"unverified_scripts":[]},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:c6ae56b04c30c982f3241b38d8af732af9e82f4102e8e25ce00938c2c38c7bac":{"view_name":"latest_news_grid","view_display_id":"entity_view_1","view_args":"50","view_path":"\/node\/2","view_base_path":"\/node\/2","view_dom_id":"c6ae56b04c30c982f3241b38d8af732af9e82f4102e8e25ce00938c2c38c7bac","pager_element":0}}},"cph_brand_scroll":true,"eventCalendar":{"6575":{"event_defaults":{"ticket_link":"https:\/\/billetto.dk\/e\/poetry-unleashed-3-years-anniversary-anthology-release-party-billetter-1967876?utm_source=organiser\u0026utm_medium=share\u0026utm_campaign=copy_link\u0026utm_content=2","place":"HUSET, Kulturhuset Indre By","place_get_content":"","schedule_type":"","status_key":"","status_name":"","status_button_text":"K\u00f8b billetter","price_value":"60 kr."},"event_occurrences":[]},"6562":{"event_defaults":{"ticket_link":"https:\/\/billet.to\/1959542-venue","place":"HUSET, Stairway","place_get_content":"","schedule_type":"","status_key":"","status_name":"","status_button_text":"K\u00f8b billetter","price_value":["Almindelig 200 kr.","Studerende 150 kr."]},"event_occurrences":[]},"6584":{"event_defaults":{"ticket_link":"https:\/\/tikkio.com\/dk\/events\/64385-final-descent-les-nuits-x-super-parquet-trucs","place":"HUSET, Stairway","place_get_content":"","schedule_type":"","status_key":"","status_name":"","status_button_text":"K\u00f8b billetter","price_value":"100 kr."},"event_occurrences":[]},"6520":{"event_defaults":{"ticket_link":"https:\/\/grundtvigskforum.dk\/kalender\/intimkoncert-med-afskum-i-vartov-kirke","place":"HUSET, Vartov","place_get_content":"","schedule_type":"","status_key":"","status_name":"","status_button_text":"Tilmeld dig","price_value":"Gratis"},"event_occurrences":[]}},"search_api_autocomplete":{"search":{"auto_submit":true}},"user":{"uid":0,"permissionsHash":"50b4cd14b92f6cbd8036cd1e3d30e49aa2351a195df45887430050780eb7a77a"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=4.0.0-rc.1"></script>
+<script src="/sites/default/files/js/js_Fc2wazGSRfqVvZBh7QeoMWw55CZNfQql3FYnaZKsabI.js?scope=footer&amp;delta=1&amp;language=da&amp;theme=kkevent&amp;include=eJxtj_0OgyAMxF9IQnwiAnjTxkINFJe9_XBb3LL417W_u_QDzUWRldAlbUw-R1hcwGFdXfAVdqcJYt7-B1K1sVAXE3zOKCayVISmKvkbIYzj0fWZSbLTBQn2GHnArciNGA47sv55lRSUemKH_am79Urb6Mtk5kLTSWaW4NlUfTDl-cQs934c94ZNQm5DhS9xcX4j55vK61to33LNnz46deI"></script>
+<script src="/modules/custom/kk_base/js/video-cookie.js?thspkd" defer></script>
+<script src="/sites/default/files/js/js_h5Tfa7qtNaI8Aplq4Hm-nBKr-HmLLZjJR5FhU0Vnkek.js?scope=footer&amp;delta=3&amp;language=da&amp;theme=kkevent&amp;include=eJxtj_0OgyAMxF9IQnwiAnjTxkINFJe9_XBb3LL417W_u_QDzUWRldAlbUw-R1hcwGFdXfAVdqcJYt7-B1K1sVAXE3zOKCayVISmKvkbIYzj0fWZSbLTBQn2GHnArciNGA47sv55lRSUemKH_am79Urb6Mtk5kLTSWaW4NlUfTDl-cQs934c94ZNQm5DhS9xcX4j55vK61to33LNnz46deI"></script>
+<script src="/modules/custom/kk_eu_cookie/js/kk_eu_cookie.visitor.js?thspkd" defer></script>
+<script src="/modules/custom/kk_siteimprove/js/siteimprove.js?thspkd" defer></script>
+<script src="/sites/default/files/js/js_lBlNUmolOehowk19CM4KYlha7Fd95nsOYyN8roYH81s.js?scope=footer&amp;delta=6&amp;language=da&amp;theme=kkevent&amp;include=eJxtj_0OgyAMxF9IQnwiAnjTxkINFJe9_XBb3LL417W_u_QDzUWRldAlbUw-R1hcwGFdXfAVdqcJYt7-B1K1sVAXE3zOKCayVISmKvkbIYzj0fWZSbLTBQn2GHnArciNGA47sv55lRSUemKH_am79Urb6Mtk5kLTSWaW4NlUfTDl-cQs934c94ZNQm5DhS9xcX4j55vK61to33LNnz46deI"></script>
+
+  </body>
+</html>

@@ -1,0 +1,3076 @@
+<!doctype html>
+
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="da" 
+  xmlns:fb="https://ogp.me/ns/fb#"
+  xmlns:og="https://ogp.me/ns#"  lang="da" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="da" 
+  xmlns:fb="https://ogp.me/ns/fb#"
+  xmlns:og="https://ogp.me/ns#"  lang="da" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="da" 
+  xmlns:fb="https://ogp.me/ns/fb#"
+  xmlns:og="https://ogp.me/ns#"  lang="da" dir="ltr"> <!--<![endif]-->
+<head>
+<title>Stars</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="https://stars.dk/profiles/helium/themes/helium_neat/favicon.png" />
+<meta name="description" content="STARS // Algade 84, 4760 Vordingborg // telefon 55 34 20 60" />
+<link rel="image_src" href="http://www.stars.dk/sites/default/files/mediearkiv/billeder/stars-facebook.png" />
+<link rel="canonical" href="https://stars.dk/" />
+<link rel="shortlink" href="https://stars.dk/" />
+<meta property="og:site_name" content="Stars" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://stars.dk/" />
+<meta property="og:title" content="Stars" />
+<meta property="og:description" content="STARS // Algade 84, 4760 Vordingborg // telefon 55 34 20 60" />
+<meta property="og:image" content="http://www.stars.dk/sites/default/files/mediearkiv/billeder/stars-facebook.png" />
+<meta itemprop="name" content="Stars" />
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '142753623000619');
+fbq('track', 'PageView');
+fbq('track', 'ViewContent', {"content_type":"product","content_ids":"24"});
+</script>
+<noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=142753623000619&ev=PageView&noscript=1' /></noscript>
+<!-- End Facebook Pixel Code -->
+<link rel="apple-touch-icon" sizes="144x144" href="https://stars.dk/profiles/helium/themes/helium_neat/apple-touch-icon-144x144.png"><link rel="apple-touch-icon" sizes="114x114" href="https://stars.dk/profiles/helium/themes/helium_neat/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://stars.dk/profiles/helium/themes/helium_neat/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="https://stars.dk/profiles/helium/themes/helium_neat/apple-touch-icon.png">
+<link rel="apple-touch-startup-image" href="https://stars.dk/profiles/helium/themes/helium_neat/apple-startup.png">
+<meta name="MobileOptimized" content="width">
+<meta name="HandheldFriendly" content="true"><meta name="viewport" content="width=device-width, initial-scale=1"><meta http-equiv="cleartype" content="on">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<link rel="stylesheet" href="https://stars.dk/sites/default/files/css/css_tUEHoT0xLI0fUJ8RAE6Qz7PehL9J-WR-McIrbjeajM0.css" media="screen" />
+<!--[if lt IE 9]>
+  <script src="https://stars.dk/profiles/helium/themes/contrib/mothership/mothership/js/respond.min.js"></script>
+<![endif]-->
+<!--[if lt IE 9]>
+  <script src="https://stars.dk/profiles/helium/themes/contrib/mothership/mothership/js/html5.js"></script>
+<![endif]-->
+</head>
+<body class="front node-type-frontpage path-stars" >
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.9&appId=744814885683851";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+<script>window.twttr = (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0],
+            t = window.twttr || {};
+        if (d.getElementById(id)) return t;
+        js = d.createElement(s);
+        js.id = id;
+        js.src = "https://platform.twitter.com/widgets.js";
+        fjs.parentNode.insertBefore(js, fjs);
+
+        t._e = [];
+        t.ready = function(f) {
+            t._e.push(f);
+        };
+
+        return t;
+    }(document, "script", "twitter-wjs"));</script>
+<a href="#main-content" class="element-invisible element-focusable">Gå til hovedindhold</a>
+
+    <div id="cookie-compliance" class="cookie-compliance clearfix">
+  <div class="cookie-compliance__inner">
+    <div class="cookie-compliance__text">
+          <p>Dette website benytter cookies for at forbedre brugeroplevelsen for dig og andre. Hvis du klikker videre på websitet, accepterer du samtidig vores brug af cookies.
+</p>
+        </div>
+          <form action="/" method="post" id="simple-cookie-compliance-dismiss-form" accept-charset="UTF-8"><input class="cookie-compliance__button" type="submit" id="edit-submit" name="op" value="Ok" /><input type="hidden" name="form_build_id" value="form-pBdb0gzp1GTKCdTJ8j9XJd4nKobQuO1gueBe_BnEmfU" />
+<input type="hidden" name="form_id" value="simple_cookie_compliance_dismiss_form" />
+</form>      </div>
+</div>
+
+<noscript>
+  <div class="cookie-compliance clearfix">
+    <div class="cookie-compliance__inner">
+      <div class="cookie-compliance__text">
+              <p>Dette website benytter cookies for at forbedre brugeroplevelsen for dig og andre. Hvis du klikker videre på websitet, accepterer du samtidig vores brug af cookies.
+</p>
+            </div>
+              <form action="/" method="post" id="simple-cookie-compliance-dismiss-form" accept-charset="UTF-8"></form>          </div>
+  </div>
+</noscript>
+  
+
+<div role="document" class="page no-banner">
+
+            <div class="header">
+            <div class="header--inner">
+                <div class="logo">
+                    <a href="/"><img class="stars-logo" src="https://stars.dk/sites/default/files/logo.png" alt="Stars" /></a>                </div>
+                
+    
+<div  class="nav block-superfish-1 ">
+  
+      
+  
+  <ul  id="superfish-1" class="menu sf-menu sf-main-menu sf-horizontal sf-style-none sf-total-items-6 sf-parent-items-6 sf-single-items-0"><li id="menu-378-1" class="first odd sf-item-1 sf-depth-1 sf-total-children-3 sf-parent-children-0 sf-single-children-3 menuparent"><a href="https://stars.dk/#event-section" class="sf-depth-1 menuparent">Program</a><ul><li id="menu-813-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/program/om-program#om-program" class="sf-depth-2">Om program</a></li><li id="menu-765-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/program/nyhedsbrev#nyhedsbrev" target="_self" class="sf-depth-2">Nyhedsbrev</a></li><li id="menu-850-1" class="last odd sf-item-3 sf-depth-2 sf-no-children"><a href="/ekstern#andre-arrangementer" class="sf-depth-2">Andre arrangementer</a></li></ul></li><li id="menu-379-1" class="middle even sf-item-2 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="https://stars.dk/billetter/koeb-billetter#koeb-billetter" class="sf-depth-1 menuparent">Billetter</a><ul><li id="menu-841-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/billetter/billetter#billet-info" class="sf-depth-2">Billet info</a></li><li id="menu-811-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/billetter/koeb-billetter#koeb-billetter" class="sf-depth-2">Køb billetter</a></li><li id="menu-566-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/billetter/gavekort#gavekort" class="sf-depth-2">Gavekort</a></li><li id="menu-792-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/billetter/koeb-spisebillet#koeb-spisebillet" class="sf-depth-2">Køb spisebillet</a></li></ul></li><li id="menu-381-1" class="middle odd sf-item-3 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="https://stars.dk/stars/om-stars#about-stars" class="sf-depth-1 menuparent">STARS</a><ul><li id="menu-785-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/stars/om-stars#om-stars" class="sf-depth-2">Om STARS</a></li><li id="menu-549-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/stars/organisation#organisation" class="sf-depth-2">Organisation</a></li><li id="menu-547-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/stars/teknisk-info#teknisk-info" class="sf-depth-2">Teknisk Info</a></li><li id="menu-851-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/stars/nordea-fonden#nordea-fonden" class="sf-depth-2">Nordea-fonden</a></li></ul></li><li id="menu-779-1" class="middle even sf-item-4 sf-depth-1 sf-total-children-5 sf-parent-children-0 sf-single-children-5 menuparent"><a href="https://stars.dk/smallstars/om-smallstars" class="sf-depth-1 menuparent">SmallSTARS</a><ul><li id="menu-780-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/smallstars/om-smallstars#om-smallstars" class="sf-depth-2">Om smallstars</a></li><li id="menu-793-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/smallstars/spisning#spisning" class="sf-depth-2">Spisning</a></li><li id="menu-781-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/smallstars/jam-sessions#jam-sessions" class="sf-depth-2">JAM Sessions</a></li><li id="menu-784-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/smallstars/quiz-mig-i-oeret#quiz-mig-i-oeret" class="sf-depth-2">Quiz mig i øret</a></li><li id="menu-847-1" class="last odd sf-item-5 sf-depth-2 sf-no-children"><a href="/smallstars/musikbar#musikbaren" class="sf-depth-2">Musikbaren</a></li></ul></li><li id="menu-816-1" class="middle odd sf-item-5 sf-depth-1 sf-total-children-8 sf-parent-children-0 sf-single-children-8 menuparent"><a href="https://stars.dk/stars-business/udlejning#udlejning" class="sf-depth-1 menuparent">STARS business</a><ul><li id="menu-563-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/stars-business/udlejning#udlejning" class="sf-depth-2">Udlejning</a></li><li id="menu-564-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/stars-business/produktionsoever-paa-stars#produktionsoever" class="sf-depth-2">Produktionsøver</a></li><li id="menu-790-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/stars-business/print#print" class="sf-depth-2">Print</a></li><li id="menu-819-1" class="middle even sf-item-4 sf-depth-2 sf-no-children"><a href="/stars-business/plastikkort#plastikkort" class="sf-depth-2">Plastikkort</a></li><li id="menu-809-1" class="middle odd sf-item-5 sf-depth-2 sf-no-children"><a href="/stars-business/armbaand#armbaand" class="sf-depth-2">Armbånd</a></li><li id="menu-814-1" class="middle even sf-item-6 sf-depth-2 sf-no-children"><a href="/stars-business/salg-af-billetter#salg-af-billetter" class="sf-depth-2">Salg af billetter</a></li><li id="menu-794-1" class="middle odd sf-item-7 sf-depth-2 sf-no-children"><a href="/stars-business/bytavler#bytavler" class="sf-depth-2">Bytavler</a></li><li id="menu-810-1" class="last even sf-item-8 sf-depth-2 sf-no-children"><a href="/stars-business/raadgivning#raadgivning" class="sf-depth-2">Rådgivning</a></li></ul></li><li id="menu-382-1" class="last even sf-item-6 sf-depth-1 sf-total-children-4 sf-parent-children-0 sf-single-children-4 menuparent"><a href="https://stars.dk/kontakt/kontakt-info#contact" class="sf-depth-1 menuparent">Kontakt</a><ul><li id="menu-823-1" class="first odd sf-item-1 sf-depth-2 sf-no-children"><a href="/kontakt/bliv-frivillig#bliv-frivillig" class="sf-depth-2">Bliv Frivillig</a></li><li id="menu-786-1" class="middle even sf-item-2 sf-depth-2 sf-no-children"><a href="/kontakt/kontakt-info#kontakt-info" class="sf-depth-2">Kontakt info</a></li><li id="menu-567-1" class="middle odd sf-item-3 sf-depth-2 sf-no-children"><a href="/kontakt/booking#booking" class="sf-depth-2">BOOKING</a></li><li id="menu-778-1" class="last even sf-item-4 sf-depth-2 sf-no-children"><a href="/kontakt/presse#presse" class="sf-depth-2">Presse</a></li></ul></li></ul>
+  </div>
+
+<div  class="block-helium-mobile-menu-helium-mobile-menu-menu-toggle ">
+  
+      
+  
+  <div class="mobile-menu-toggle"><button class="hmm-toggle hmm-toggle--htx"><span>toggle menu</span></button></div>
+  </div>
+
+<div  class="right-menu block-superfish-2 ">
+  
+      
+  
+  <ul  id="superfish-2" class="menu sf-menu sf-menu-social-menu sf-horizontal sf-style-none sf-total-items-2 sf-parent-items-0 sf-single-items-2"><li id="menu-558-2" class="first odd sf-item-1 sf-depth-1 sf-no-children"><a href="https://www.facebook.com/stars.dk/?fref=ts" class="right-menu--facebook sf-depth-1" target="_blank">Facebook</a></li><li id="menu-559-2" class="last even sf-item-2 sf-depth-1 sf-no-children"><a href="https://www.instagram.com/starsdk/" class="right-menu--instagram sf-depth-1" target="_blank">Instagram</a></li></ul>
+  </div>
+  
+            </div>
+                    </div>
+
+    
+            <div class="menu-bar">
+            
+    
+<div  class="block-helium-mobile-menu-helium-mobile-menu-menu ">
+  
+      
+  
+  <div class="mobile-menu mm-closed"><ul><li><a href="https://stars.dk/#event-section">Program</a><ul><li><a href="/program/om-program#om-program">Om program</a></li>
+<li><a href="/program/nyhedsbrev#nyhedsbrev" target="_self">Nyhedsbrev</a></li>
+<li><a href="/ekstern#andre-arrangementer">Andre arrangementer</a></li>
+</ul></li>
+<li><a href="https://stars.dk/billetter/koeb-billetter#koeb-billetter">Billetter</a><ul><li><a href="/billetter/billetter#billet-info">Billet info</a></li>
+<li><a href="/billetter/koeb-billetter#koeb-billetter">Køb billetter</a></li>
+<li><a href="/billetter/gavekort#gavekort">Gavekort</a></li>
+<li><a href="/billetter/koeb-spisebillet#koeb-spisebillet">Køb spisebillet</a></li>
+</ul></li>
+<li><a href="https://stars.dk/stars/om-stars#about-stars">STARS</a><ul><li><a href="/stars/om-stars#om-stars">Om STARS</a></li>
+<li><a href="/stars/organisation#organisation">Organisation</a></li>
+<li><a href="/stars/teknisk-info#teknisk-info">Teknisk Info</a></li>
+<li><a href="/stars/nordea-fonden#nordea-fonden">Nordea-fonden</a></li>
+</ul></li>
+<li><a href="https://stars.dk/smallstars/om-smallstars">SmallSTARS</a><ul><li><a href="/smallstars/om-smallstars#om-smallstars">Om smallstars</a></li>
+<li><a href="/smallstars/spisning#spisning">Spisning</a></li>
+<li><a href="/smallstars/jam-sessions#jam-sessions">JAM Sessions</a></li>
+<li><a href="/smallstars/quiz-mig-i-oeret#quiz-mig-i-oeret">Quiz mig i øret</a></li>
+<li><a href="/smallstars/musikbar#musikbaren">Musikbaren</a></li>
+</ul></li>
+<li><a href="https://stars.dk/stars-business/udlejning#udlejning">STARS business</a><ul><li><a href="/stars-business/udlejning#udlejning">Udlejning</a></li>
+<li><a href="/stars-business/produktionsoever-paa-stars#produktionsoever">Produktionsøver</a></li>
+<li><a href="/stars-business/print#print">Print</a></li>
+<li><a href="/stars-business/plastikkort#plastikkort">Plastikkort</a></li>
+<li><a href="/stars-business/armbaand#armbaand">Armbånd</a></li>
+<li><a href="/stars-business/salg-af-billetter#salg-af-billetter">Salg af billetter</a></li>
+<li><a href="/stars-business/bytavler#bytavler">Bytavler</a></li>
+<li><a href="/stars-business/raadgivning#raadgivning">Rådgivning</a></li>
+</ul></li>
+<li><a href="https://stars.dk/kontakt/kontakt-info#contact">Kontakt</a><ul><li><a href="/kontakt/bliv-frivillig#bliv-frivillig">Bliv Frivillig</a></li>
+<li><a href="/kontakt/kontakt-info#kontakt-info">Kontakt info</a></li>
+<li><a href="/kontakt/booking#booking">BOOKING</a></li>
+<li><a href="/kontakt/presse#presse">Presse</a></li>
+</ul></li>
+</ul></div>
+  </div>
+  
+        </div>
+        
+
+            <div class="gradient top 000000"></div>
+    
+
+    <section id="event-section" data-parallax="scroll" data-image-src="https://stars.dk/sites/default/files/styles/fullscreen/public/mediearkiv/fullscreen/section-tickets.jpg?itok=oIsMbFS4" class="section-parallax">
+
+                        <div class="events-wrapper">
+
+    <div class="events">
+                
+            
+            <div class="event" data-event-id="142500">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_692d53ba4f01e-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>UDSOLGT</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            20 <span>aug</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            GUTTER ISLAND 2026        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="142500">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145462">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14940696cb-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            25 <span>aug</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quiz Mig I Øret #62        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145462">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145463">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14a19a5082-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            28 <span>aug</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Musikbaren #46        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145463">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="146107">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a3bcf860fb80-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            03 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Jamsession #32        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="146107">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="151588">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_699316525630f-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            04 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            SMALL's Ølklub #79        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="151588">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145464">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14cbc625a9-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            09 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quizzeriet #35        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145464">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148639">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a0dad4a96d42-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            11 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Lokal Lyd #1 - Escobar's Jazz Quintet        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148639">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148649">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a0dbc56ace10-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            11 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Mames Babegenush feat. LiveStrings        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148649">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148059">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69f9e713a82d7-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            18 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Lydsyn        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148059">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145465">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14d5f66f6d-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            19 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Alive #17        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145465">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="147231">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69e0f3ddbf128-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            19 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Bozenga        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="147231">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145469">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14dbb0142b-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            25 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Musikbaren #47        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145469">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="143283">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_694410806312f-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            25 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Doors Legacy        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="143283">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145557">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b288c3c9b33-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            26 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Søs Fenger        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145557">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="146115">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69c1252f6d220-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FOR BØRN</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            27 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Jesper Falch - Familiekoncert        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="146115">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145466">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14e379ff52-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            29 <span>sep</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quiz Mig I Øret #63        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145466">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="149067">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a198b5543878-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            01 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Eva Jin - Testshow        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="149067">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="151292">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a4cee96ebd19-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            01 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            JamSession #33        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="151292">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148689">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a0ed1b81b1dc-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            02 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Lokal Lyd #2 - Hende og dem        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148689">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="140489">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_68de558899572-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            03 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Hit med 80'erne        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="140489">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="139100">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_68a44f8e08f8e-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            08 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Mikkel Klint Thorius        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="139100">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="151293">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a54c465570b3-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            09 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            HEARTZ: Fed & Phil + Grøn Dreng        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="151293">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145605">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b2ca487b33a-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            13 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Jonathan Christensen        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145605">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145468">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b14ea3a273c-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            14 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quizzeriet #36        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145468">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="144705">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6995b269bf8d3-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            16 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Anne Linnet        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="144705">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148297">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a01be6d01b85-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            23 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Bo Evers m. band        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148297">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="146404">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69c53b331d8de-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            24 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Kind mod kind        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="146404">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145470">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b150073fd24-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            27 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quiz Mig I Øret #64        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145470">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145471">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b150821326a-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            30 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Musikbaren #48        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145471">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="147721">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69ef4aef2ce14-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            30 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Mekdes        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="147721">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148921">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a16e01679d6b-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            31 <span>okt</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Bersærk        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148921">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="146126">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69c12e0bc7de7-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FOR BØRN</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            01 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Tikke Takke Trio - FAMILIEKONCERT        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="146126">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="151043">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a3bcd54ae7f5-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            05 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            JamSession #34        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="151043">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148300">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a01c0b3796ce-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            06 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Naja Rosa        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148300">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="150424">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a201fcd603a2-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            07 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Big Martin Band        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="150424">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145472">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b150c4726c3-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            11 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quizzeriet #37        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145472">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148694">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a0ed2cfcdc19-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            13 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Lokal Lyd #3 - Strengeleg        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148694">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145222">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69a828a679d06-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            19 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Electric Guitars        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145222">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="141770">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69148ce01ce9e-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            20 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Halberg        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="141770">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145473">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b15119cbb72-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            21 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Alive #18        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145473">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="143887">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69721556a1122-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            21 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Skullclub        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="143887">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145475">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b1518be0c55-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            24 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Quiz Mig I Øret #65        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145475">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145476">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69b151d9c3135-large.png" alt="" />
+    </div>
+
+    
+    <div class="event__date">
+        <p>
+            27 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Musikbaren #49        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145476">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="141553">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_690de7fa4c680-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            27 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Die Herren        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="141553">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148308">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a01c9e6b3d47-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            28 <span>nov</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Aura Dione        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148308">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="147739">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69f34cb3ed424-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            03 <span>dec</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            DR Big Band - A Jazzy Christmas        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="147739">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="144184">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69806416a780b-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            04 <span>dec</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Søren Huss        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="144184">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148697">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a0ed5277f2d3-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            05 <span>dec</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Lokal Lyd #4 - Bondo's Kvartet        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148697">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="140924">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_68f202713b417-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            04 <span>feb</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Torben Chris        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="140924">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="150551">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a27dadcc029c-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            06 <span>feb</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Søren Andersen        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="150551">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="144885">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_699d77d1e6fab-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            11 <span>feb</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Phillip Devantier        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="144885">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="147482">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69e889284de68-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            04 <span>mar</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            LIAM STAND-UP TOUR 2027 - SKAMLØST        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="147482">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="148407">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a27dff0611c8-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            05 <span>mar</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            The Beatophonics        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="148407">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="147178">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69e0e9d0769e5-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            12 <span>mar</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Rugsted, Kibsgaard & DK        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="147178">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="145718">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69dfa1448d504-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            13 <span>mar</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Signe Svendsen        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="145718">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="144680">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69946317304a0-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            15 <span>apr</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Andreas Bo (tager og fylder) RUNDT!         </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="144680">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="150705">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a2c0e879bebb-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            01 <span>maj</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Ibrahim Electric        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="150705">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="149065">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_6a198425f00c5-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+  <ul>
+                  <li><span>FÆLLESSPISNING</span></li>
+            </ul>
+
+        </div>
+    
+    <div class="event__date">
+        <p>
+            07 <span>maj</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Sylvester, Varsted & Lange        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="149065">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                                
+            
+            <div class="event" data-event-id="144343">
+
+    <div class="event__image">
+        <img style="opacity: 0.2" loading="lazy" src="/sites/all/modules/custom/stars_feed/image/placeholder-400x400.jpg" ref-src="https://media.billetten.dk/images/event/advanced/102/102_69a6a51605146-large.png" alt="" />
+    </div>
+
+    
+        <div class="event__state">
+            
+        </div>
+    
+    <div class="event__date">
+        <p>
+            27 <span>maj</span>
+        </p>
+    </div>
+
+    <div class="event__meta">
+        <h1>
+            Linda P. - Stand-up Tour 2027        </h1>
+    </div>
+
+    <div class="event__figcaption">
+        <p>
+                            <a class="basm basm_select" data-event_no="144343">Køb billet</a>
+                    </p>
+    </div>
+
+</div>
+
+                            </div>
+                                    </div>
+
+    
+    <div class="events-popout-wrapper">
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="142500">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_692d53ba4f01e-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="142500" class="active"><h3>GUTTER ISLAND 2026</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                            <a class="btn btn--ticket" data-event_no="142500">
+    <p>Venteliste</p>
+</a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/142500">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Så er billetsalget i gang til Nordens største garagerockfestival!</p><p>På en fredet mark, i skyggen af et krigsfort fra 1. verdenskrig, samler festivalen Gutter Island hvert 2. år garagerockelskere fra fjern og nær på Masnedø.</p><p>Henover tre dage kan du opleve 25 bands, du endnu ikke vidste, at du elskede, og deltage i en traditionsrig festival fuld af lige dele øm kærlighed og voldsom smadreguitar.</p><p>På scenerne kan du både finde helt nye eller unge konstellationer og mere velkendte og etablerede bands, der repræsenterer alle aspekter af garagerocken. Garagerock er, ligesom Gutter Island selv, ikke kun musik, men i høj grad også en stemning. Garagerock kan både have oldschool 60'er-vibe, være punket, have psykedeliske undertoner eller være straight-up rock'n'roll. Programmet offentliggøres løbende på festivalens hjemmeside og sociale mediekanaler.</p><p>Gutter Island er en festival uden så meget pis og ståhej. Festivalen organiseres af foreningen <i>Gutter Island</i>, hvis formål er at sprede viden om og skabe større forståelse for garagerocken og de omgivende genrer. Foreningen er non-profit og samler en lang række frivillige kræfter. Gutter Islands styregruppe sørger for alle de nødvendige tilladelser, bands, toiletvogne, madboder og rigeligt med øl i hanerne - I sørger for at komme tørstige og nysgerrige.</p><p>På Gutter Island er vi et åbent fællesskab. Vi hjælper hinanden med at rydde op og passe på hinanden, så vi kan bruge både kræfter og penge på alt det sjove i stedet for metervis af hegn, sure vagter eller ekstra renovationsafhentning.<br>&nbsp;</p><p>Vel mødt - vi glæder os til at se jer!</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>GUTTER ISLAND 2026</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Torsdag                                // 20.08.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 18:00                                                                    // Døre kl.  18:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>GUTTER ISLAND </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>1200,-</span>
+                                </p>
+                            
+                            
+                            <br />
+
+                        </div>
+
+                        <a class="btn btn--ticket" data-event_no="142500">
+    <p>Venteliste</p>
+</a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="145462">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69b14940696cb-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="145462" class="active"><h3>Quiz Mig I Øret #62</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/145462">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Den sidste tirsdag i hver måned kan du teste din og dine venners paratviden om musik. I dyster mod andre hold om æren, den flotte pokal (og lidt lækre præmier) i de meget varierede quizrunder, hvor der både vil være opgaver for vinyl-nørderne og streaming-surferne.<br>&nbsp;</p><p>Vi dyster i hold på max 6 personer, og I møder bare op på dagen ? der er ingen tilmelding. Har du lyst til at komme alene, skal vi nok finde ud af at sætte dig på et hold, hvor du kan bidrage med dit musikspeciale, hvis du da ikke foretrækker at quizze solo. Alle er velkomne, og vi blander genrer og emner så grundigt, at der altid vil være noget, man kan svare på, hvad enten du er til eurodance eller linedance.&nbsp;</p><p>Quiz mig i øret - det er sjovt!</p><p><br><strong>Quizvært er Jacob Lynard Duvier</strong></p><p>Jacob Duvier vil styre quizzens gang lige så kompetent, som han i sine unge dage styrede pladebutikken i Vordingborg. Han er så forelsket i skiver med musik, at han fortsatte sin karriere på CD-trykkeriet "DanDisc", og det har givet ham én af de mest potente pladesamlinger på Møn. Jacob er en erfaren quizmand og vil klippe de mange lydeksempler sammen, som vil give tænksomme rynker i deltagernes pander.</p><p>&nbsp;</p><p><i>Entré: 30 kr. ved indgangen</i></p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Quiz Mig I Øret #62</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Tirsdag                                // 25.08.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 19:00                                                                    // Døre kl.  18:30                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>STARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>30,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="145463">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69b14a19a5082-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="145463" class="active"><h3>Musikbaren #46</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket">
+        <p>fri entré</p>
+    </a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/145463">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Musikbaren på SmallSTARS er din Oase i en travl hverdag. Den sidste fredag i måneden kan du mødes med dit slæng og bare hygge, imens forskellige DJ´s præsenterer musik i alle genrer.</p><p>Vi hylder Vinylpladerne og i Musikbaren kan du altid følge med i, hvad der bliver spillet. Vi vil gerne interagere med publikum og tale om den musik, der bliver spillet - kom endelig og spørg - eller kom med et musikønske. I modsætning til at gå på almindelig cafe/bar hvor de spiller en dødssyg playliste, har du her muligheden for at blive præsenteret for både musik du kender, og den musik du slet ikke vidste, at du er topvild med.</p><p>Som en lille gimmick har vi hver gang vores tilbagevendende og populære indslag MUSIKBONGO med <strong>gratis spilleplader</strong> til alle<br><br>Kl. 20:30 - Musikbongo runde 1<br>Kl. 21:00 - kort pause&nbsp;<br>Kl. 21:15 - Musikbongo runde 2<br><br>Konceptet er enkelt - 2 x DJ spiller tilfældigt udvalgte vinyler - få pladen fuld og vind fx koncertbilletter, Stars Merchandise eller en omgang drikkevarer til bordet.</p><p><strong>Der er altid gratis adgang og dørene åbner kl. 19:00</strong><br><br>Vi ses på Musikbaren</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Musikbaren #46</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Fredag                                // 28.08.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 19:00                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>SmallSTARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                            
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket">
+        <p>fri entré</p>
+    </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="146107">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_6a3bcf860fb80-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="146107" class="active"><h3>Jamsession #32</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket">
+        <p>dørsalg</p>
+    </a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/146107">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p><strong>Aftenens vært: Anton Henckel</strong><br><br><br>En god jam handler om førstegangsmødet mellem musikere - direkte på scenen, live foran publikum. Der skal spilles på intuitionen og fornemmelsen, og man skal fange de signaler, der gives og de muligheder, der åbner sig efterhånden som man bevæger sig frem gennem musikken. En jam er uforudsigelig, den er spændende og den er først og fremmest sjov!</p><p>Rutinerede musikere kan stå side om side med uprøvede kræfter, og sammen skabe helt nye versioner og arrangementer af velkendte numre, og alle musikalske valg udspiller sig lige for ørerne af publikum. Det er ikke vigtigt at spille ?rigtigt? eller at ?spille bedst?, men vigtigt at give plads til hinanden på scenen og i musikken. Det er sådan en jam vi laver til Smallstars Jam Sessions.</p><p>Værtskabet for jam'en går på skift mellem jam-værter, som sammensætter et husorkester til lejligheden. Det er det orkester, der er backing for de gæster der kommer for at jamme. Du kan selv tage et instrument med eller låne dig frem på aftenen. Vi har klaver, trommer og diverse forstærkere, så det er muligt for de fleste rytmiske musikere at gå direkte på scenen. Sangere er også mere end velkomne!</p><p>Vi glæder os til en fed jam!</p><p>Dørene åbner kl. 19:00 - Entré 50 kr.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Jamsession #32</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Torsdag                                // 03.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 19:30                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>SmallSTARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>50,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket">
+        <p>dørsalg</p>
+    </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="151588">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_699316525630f-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="151588" class="active"><h3>SMALL's Ølklub #79</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket basm basm_select" data-event_no="151588">
+        <p>Billet</p>
+    </a>
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/151588">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Præsenteres af Small's Ølklub<br>&nbsp;</p><p>Ølstævnerne afholdes én gang månedligt - på en fredag i hver måned, klemt ind i to timer lige mellem karriere- og familieræset&nbsp;&nbsp;Du kan bla. lære nye bryggerier at kende og høre spændende talks. Det er billigt, det er sjovt, og øllene samt selskabet er fremragende!</p><p>NB: Ølklubben er ikke en klub, man skal være medlem af - alle er velkomne. Du skal blot købe en billet.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>SMALL's Ølklub #79</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Fredag                                // 04.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 16:00                                                                    // Døre kl.  16:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>SmallSTARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>150,-</span>
+                                </p>
+                            
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket basm basm_select" data-event_no="151588">
+        <p>Billet</p>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="145464">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69b14cbc625a9-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="145464" class="active"><h3>Quizzeriet #35</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/145464">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Velkommen til Quizzeriet med Assistenten</p><p>Quizzeriet er vores quiz for alle jer, der elsker at spille Trivial Pursuit, Bezzerwizzer eller lignende og dyste med masser af spørgsmål i almen paratviden.&nbsp;</p><p>Der vil være spørgsmål om historie, biologi, teknik og videnskab, religion, sport og meget mere. Det er kun fantasien, der sætter grænser. Der vil være spørgsmål, hvor alle i princippet kan være med og der vil være spørgsmål, som de fleste kan svare på, og så vil der naturligvis være de spørgsmål, hvor nørderne, eksperterne eller dem der bare er gode til at gætte kan brillere.</p><p>Vi dyster i hold på mellem to og seks personer, og I møder bare op på dagen - der er ingen tilmelding. Har du lyst til at komme alene, skal vi nok finde ud af at sætte dig på et hold.&nbsp;</p><p>Assistenten (Kasper Kim) glæder sig til at se jer!</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Quizzeriet #35</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Onsdag                                // 09.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 19:00                                                                    // Døre kl.  18:30                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>STARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>30,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="148639">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_6a0dad4a96d42-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="148639" class="active"><h3>Lokal Lyd #1 - Escobar's Jazz Quintet</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket basm basm_select" data-event_no="148639">
+        <p>Billet</p>
+    </a>
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/148639">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p><strong>Rejs tilbage i tiden med os!</strong></p><p>Escobar's Jazz Quintet er en kvintet, der skaber stemningsfulde koncerter med kendte klassiske jazznumre&nbsp;/ sange fra ca 1940 til 1960erne (Ella Fitzgerald, Frank Sinatra og Billy Hollyday&nbsp;m.fl.)</p><p>Med nærvær, små fortællinger og en varm atmosfære inviterer vi publikum ind i musikken i stearinlysets&nbsp;skær<br>&nbsp;</p><p><i>Escobar's Jazz Quintet består af:</i></p><p>Klaver og sax:&nbsp;Per Jørgensen</p><p>Guitar: Jens Olsen</p><p>Kontrabas: Morten Toftdal</p><p>Trommer: Steen Werning</p><p>Vokal og klaver:&nbsp; Birgitte Escobar<br><br><br><br><strong>OM LOKAL LYD</strong><br><br>Lokal Lyd er en ny koncertrække på Smallstars, der vil give lokale bands og artister en fast plads i STARS program.<br><br>Én gang om måneden åbner vi dørene på Smallstars, for musik med lokal forankring - fra unge navne til erfarne musikere fra området.<br>Målet er at skabe en scene, hvor lokale musikere kan blive hørt, oplevet og støttet af et publikum tæt på dem selv - og samtidig være en aktiv del af vores områdes kulturliv.<br><br>Hos Lokal Lyd handler det om nærvær, fællesskab og levende musik i intime rammer.<br>Vi ønsker at styrke det lokale musikliv og skabe aftener, hvor publikum kan opdage og opleve den musik, der bliver skabt lige her i vores område. Det er for alle der ønsker flere lokale live oplevelser og at skabe mere liv omkring den lokale musikscene.<br><br>Er du selv artist eller spiller i et band med lokal tilknytning, og kunne du tænke dig at blive en del af programmet til Lokal Lyd, så send en mail til <a href="mailto:luna@stars.dk">luna@stars.dk</a>.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Lokal Lyd #1 - Escobar's Jazz Quintet</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Fredag                                // 11.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 20:00                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>SmallSTARS </p>
+                                                                                        <p>Siddende</p>
+                                                    </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>75,-</span>
+                                </p>
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>100,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket basm basm_select" data-event_no="148639">
+        <p>Billet</p>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="148649">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_6a0dbc56ace10-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="148649" class="active"><h3>Mames Babegenush feat. LiveStrings</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket basm basm_select" data-event_no="148649">
+        <p>Billet</p>
+    </a>
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/148649">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Den 11. september inviterer Stars i Vordingborg i samarbejde med Musikforeningen Cæcilia til koncert med Mames Babegenush feat. LiveStrings.<br><br>Der er dømt høj energi, store følelser og masser af instrumenter, når Mames Babegenush går på scenen sammen med strygerensemblet LiveStrings.<br><br>Mames Babegenush er en populær instrumental kvintet, der bevæger sig mellem folk, jazz og kammermusik med afsæt i østeuro pæiske traditioner og et nordisk udtryk. Deres musik spænder fra egne kompositioner til arrangementer af traditionelt materiale og er kendetegnet ved tæt sammenspil, improvisation og nærvær og kontakt med publikum. De har hele syv albums med sig I bagagen og har optrådt bredt i ind- og udland, blandt andet i Carnegie Hall.<br><br>Live Strings er en eftertragtet strygerkvartet anført af den norske cellist Live Johansson. Musikerne spiller på tværs af genrer, har samarbejdet med en lang række anerkendte danske og internationale artister og ses ofte på tv-skærme I diverse musikprogrammer. De er kendetegnet ved et stærkt sammenspil og deres legende og nysgerrige tilgang til musikken.<br><br>Mames Babegenush og LiveStrings har mange år bag sig med samarbejde. Siden 2014 har de spillet sammen, bla. på festivaler i hele Norden, i Østrig og Tyskyland og har udgivet to albums sammen. Til koncerten I september spiller de fra Mames Babegenush' repertoire, og garanterer en intens og nærværende koncertoplevelse.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Mames Babegenush feat. LiveStrings</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Fredag                                // 11.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 20:00                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>STARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>225,-</span>
+                                </p>
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>250,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket basm basm_select" data-event_no="148649">
+        <p>Billet</p>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="148059">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69f9e713a82d7-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="148059" class="active"><h3>Lydsyn</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket basm basm_select" data-event_no="148059">
+        <p>Billet</p>
+    </a>
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/148059">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p><strong>LYDSYN …altid på landevejen</strong></p><p>LYDSYN er endnu en gang klar på at bringe deres højspændte rockshow på landevejene. Albummet ”Højspændt” høstede bl.a. fem stjerner hos musikmagasinet Gaffa og er ifølge Kulturkapellets anmelder fuld af sange <i>”der nærmest skriger på at blive spillet live”</i></p><p>LYDSYN er en tight spillende rock trio, dedikeret til en ren analog lydoplevelse, fri for backing tracks, klik, samples, auto-tune, og “alt det andet pis,” som de selv udtrykker det. Koncerterne er ikke gennemkoreograferede shows, men unikke rockkoncerter, der kan gå alle veje, afhængig af stemning, sted og publikum.</p><p>Som et band der har etableret sig som en uomgængelig kraft på den danske rockscene, har LYDSYN i flere omgange spillet på store og små steder - alt fra Ølluminati til Copenhell til ThyLejr Festival til Store Vega og Pumpehuset og gruppen lå i mange uger på vinyl top-10, da de udgav deres debutalbum i 2022.</p><p>Power trioen består af Uffe Lorenzen (Baby Woodrose, Spids Nøgenhat) på guitar og vokal, Palle Demant (Hjortene/The Sledge) på bas, og Jens Eyde på trommer.&nbsp;</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Lydsyn</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Fredag                                // 18.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 20:00                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>STARS </p>
+                                                            <p>Stående</p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>250,-</span>
+                                </p>
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>275,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket basm basm_select" data-event_no="148059">
+        <p>Billet</p>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="145465">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69b14d5f66f6d-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="145465" class="active"><h3>Alive #17</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/145465">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>STEDET HVOR ALT KAN SKE<br><br>Få en forrygende, overraskende, spændende og sjov aften, på Smallstars.<br>Alt kan ske. Musik - Underholdning - sang - spas &amp; pjat.<br>Medbring godt humør, til en lidt anderledes oplevelse, hvor programmet først bliver offentliggjort på aftenen.<br>Døren åbnes kl. 18:57 og det koster kun 25 kr. i entre ved indgangen.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Alive #17</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Lørdag                                // 19.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 19:00                                                                    // Døre kl.  18:57                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>SmallSTARS </p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>25,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket">
+        <p>Dørsalg</p>
+    </a>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="147231">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="left"><i
+                    class="fa fa-chevron-left slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+            <a href="#" class="slider-link right" data-direction="right"><i
+                    class="fa fa-chevron-right slider-controls--desktop"
+                    aria-hidden="true"></i></a>
+        </div>
+
+        <div class="inner">
+            <div class="event-popout__meta artist"
+                 data-artist="">
+                <div class="event-popout__meta__wrapper">
+                    <div class="event-popout__meta--left">
+                        <div class="event-popout__meta--left__some">
+                            <img src="https://media.billetten.dk/images/event/advanced/102/102_69e0f3ddbf128-large.png">
+                        </div>
+
+                        <div class="event-popout__meta--left__artist-title">
+                            <a href="#" data-artist="147231" class="active"><h3>Bozenga</h3></a>                        </div>
+
+                        <div class="event-popout__meta--left__cta">
+                                <a class="btn btn--ticket basm basm_select" data-event_no="147231">
+        <p>Billet</p>
+    </a>
+
+                        </div>
+
+                        <div class="event-popout__meta--left__social">
+                            <a href="/" class="share-link active"><i class='fa fa-share-alt share-icon' aria-hidden='true'></i></a>                        </div>
+
+                        <div class="event-popout__meta--left__sharebox">
+
+                            <div class="event-popout__meta--left__sharebox__content">
+                                <div class="sharebox__share">
+                                    <input type="text" onLoad="this.select();"
+                                           value="https://stars.dk/event/147231">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="event-popout__meta--left__description">
+                            <p>Med en mur af rå blæsere og en utrættelig, karismatisk og legende forsanger rammer Bozenga scenen som et godstog i fart. Med energiske sange på både dansk og engelsk fungerer koncerten som en invitation til at lade sig ruske igennem, råbe med af sine lungers fulde kraft og danse, til sveden driver af én som Nilen ved højvande. Musikken sætter fokus på klimakrisen, social uretfærdighed og friheden til at forme sit liv som man vil.</p><p><br>Bozenga er et 10-personers global groove-orienteret orkester med base i København. Bandet leverer en energisk blanding af sydamerikansk orkesterfest og afrofunk med et københavnsk twist, der afsøger rockens kantede univers. Resultatet er en stilsikker og alsidig groovemaskine, der går direkte i kroppen. Bandet blev dannet i 2019 af trommeslager Tobias Havskov Sørensen og blev hurtigt en etableret institution i det københavnske undergrundsmiljø. I februar 2024 udgav gruppen deres debut-EP Superoptimister, der blev fulgt op af en koncertrække, der kulminerede på sommerens festivalscener.</p>                        </div>
+
+                    </div>
+
+                    <div class="event-popout__meta--right">
+                        <h1>Bozenga</h1>
+
+                        <div class="wrap">
+
+                            <p class="date">
+                                Lørdag                                // 19.09.2026                            </p>
+
+
+                            <p>
+                                Showstart kl. 20:00                                                                    // Døre kl.  19:00                                                            </p>
+                            <p>
+                                                            </p>
+                        </div>
+
+                        <div class="wrap">
+                            <p>STARS </p>
+                                                            <p>Stående</p>
+                                                                                </div>
+
+                        <div class="prices">
+
+                                                            <p>
+                                    Forsalg:                                    <span>150,-</span>
+                                </p>
+                            
+                                                            <p>
+                                    Dørsalg:                                    <span>175,-</span>
+                                </p>
+                            
+                            <br />
+
+                        </div>
+
+                            <a class="btn btn--ticket basm basm_select" data-event_no="147231">
+        <p>Billet</p>
+    </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    <div class="event-popout-wrapper">
+    <div class="event-popout" data-event-id="145469">
+        <div class="actions">
+            <div class="close big"></div>
+            <a href="#" class="slider-link left" data-direction="le
+<!-- TRIMMED BY recon.mjs -->

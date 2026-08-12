@@ -1,0 +1,831 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml">
+    <script type="text/javascript" charset="UTF-8" src="//cdn.cookie-script.com/s/635dda1ea8e5b426381857c75bebd5e4.js"></script>
+    <!-- Google Consent Mode -->
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+            dataLayer.push(arguments)
+        }
+        gtag("consent", "default", {
+            ad_personalization: "denied",
+            ad_storage: "denied",
+            ad_user_data: "denied",
+            analytics_storage: "denied",
+            functionality_storage: "denied",
+            personalization_storage: "denied",
+            security_storage: "granted",
+            wait_for_update: 500
+        });
+        gtag("set", "ads_data_redaction", true);
+        gtag("set", "url_passthrough", true);
+    </script>
+    <!-- End Google Consent Mode-->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-6ED9CZP8GE"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-6ED9CZP8GE');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return; n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+            n.queue = []; t = b.createElement(e); t.async = !0;
+            t.src = v; s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '3681585278820986');
+        fbq('track', 'PageView');
+    </script>
+    <!-- Snap Pixel Code -->
+    <script>
+        (function (e, t, n) {
+            if (e.snaptr) return;
+            var a = e.snaptr = function () {
+                a.handleRequest ? a.handleRequest.apply(a, arguments) : a.queue.push(arguments)
+            };
+            a.queue = [];
+            var s = 'script';
+            var r = t.createElement(s);
+            r.async = true;
+            r.src = n;
+            var u = t.getElementsByTagName(s)[0];
+            u.parentNode.insertBefore(r, u);
+        })(window, document, 'https://sc-static.net/scevent.min.js');
+        snaptr('init', 'c7da1e32-8a96-4ab9-8575-25e58795d354');
+        snaptr('track', 'PAGE_VIEW');
+    </script>
+    <!-- End Snap Pixel Code -->
+
+    <script src="https://jellingmusikfestival.billetten.dk/basm/sbasm-script"></script>
+    <link rel="apple-touch-icon" sizes="57x57" href="https://cdn.jellingmusikfestival.dk/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="https://cdn.jellingmusikfestival.dk/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://cdn.jellingmusikfestival.dk/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jellingmusikfestival.dk/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://cdn.jellingmusikfestival.dk/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="https://cdn.jellingmusikfestival.dk/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="https://cdn.jellingmusikfestival.dk/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://cdn.jellingmusikfestival.dk/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://cdn.jellingmusikfestival.dk/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="https://cdn.jellingmusikfestival.dk/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="https://cdn.jellingmusikfestival.dk/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="https://cdn.jellingmusikfestival.dk/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://cdn.jellingmusikfestival.dk/favicon-16x16.png">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="https://cdn.jellingmusikfestival.dk/ms-icon-144x144.png">
+    <link rel="shortcut icon" href="https://cdn.jellingmusikfestival.dk/favicon.ico" />
+    <meta name="theme-color" content="#15155b">
+    <script crossorigin="anonymous" src="https://kit.fontawesome.com/b797a9e4a5.js"></script>
+    <meta charset="utf-8">
+    <meta name="referrer" content="origin-when-cross-origin" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=10.0, user-scalable=yes" />
+
+    
+
+    <link href="/sb/styles.css.vf5da3da1c7d2366f946356175aaab70485b94754" rel="stylesheet">
+
+
+<title>Program | Jelling Musikfestival</title>
+<meta name="description" content="Programmet til Jelling Musikfestival 2027 bliver l&#248;bende offentliggjort her." />
+<meta name="robots" content="index, follow" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="canonical" href="https://jellingmusikfestival.dk/program"/>
+<meta property="og:title" content="Program | Jelling Musikfestival" />
+<meta property="og:description" content="Programmet til Jelling Musikfestival 2027 bliver løbende offentliggjort her." />
+<meta property="og:type" content="website" />
+<meta property="og:image" content="https://jellingmusikfestival.dk/media/kqxnhfzj/qm_flemming-_ege_2024-32-of-35.jpg" />
+<meta property="og:url" content="https://jellingmusikfestival.dk/program" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Program | Jelling Musikfestival" />
+<meta name="twitter:description" content="Programmet til Jelling Musikfestival 2027 bliver løbende offentliggjort her." />
+<meta name="twitter:image" content="https://jellingmusikfestival.dk/media/kqxnhfzj/qm_flemming-_ege_2024-32-of-35.jpg" />    <meta name="recaptcha-sitekey" content="6LckamcqAAAAABSe0sRRd4qUaa8QQQsFDA-7jZ-W">
+    <script src="https://www.google.com/recaptcha/api.js?render=6LckamcqAAAAABSe0sRRd4qUaa8QQQsFDA-7jZ-W"></script>
+    <script>
+        window.popupConfig = {
+            basePath: "/popups/".replace(/\/+$/, "/")
+        };
+    </script>
+    <script>
+        (function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="1rbvrf_Wdun08yNj0rbm0";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+    </script>
+</head>
+<body id="body" class="jmf ">
+    <a class="skip-link" href="#render-body" tabindex="1">Gå til indhold</a>
+    <script>
+        (function () {
+            var hasHandledInitialTab = false;
+            var hasPointerInteraction = false;
+
+            function registerPointerInteraction() {
+                hasPointerInteraction = true;
+            }
+
+            document.addEventListener("pointerdown", registerPointerInteraction, { once: true, capture: true });
+            document.addEventListener("touchstart", registerPointerInteraction, { once: true, capture: true });
+            document.addEventListener("mousedown", registerPointerInteraction, { once: true, capture: true });
+
+            function removeTabStops(elements, originalTabindexAttribute) {
+                Array.prototype.forEach.call(elements, function (element) {
+                    if (
+                        originalTabindexAttribute &&
+                        !element.hasAttribute(originalTabindexAttribute)
+                    ) {
+                        var originalTabindex = element.getAttribute("tabindex");
+                        element.setAttribute(originalTabindexAttribute, originalTabindex === null ? "" : originalTabindex);
+                    }
+
+                    if (element.getAttribute("tabindex") !== "-1") {
+                        element.setAttribute("tabindex", "-1");
+                    }
+                });
+            }
+
+            function restoreTabStops(elements, originalTabindexAttribute) {
+                Array.prototype.forEach.call(elements, function (element) {
+                    if (!element.hasAttribute(originalTabindexAttribute)) {
+                        return;
+                    }
+
+                    var originalTabindex = element.getAttribute(originalTabindexAttribute);
+
+                    if (originalTabindex === "") {
+                        element.removeAttribute("tabindex");
+                    } else {
+                        element.setAttribute("tabindex", originalTabindex);
+                    }
+
+                    element.removeAttribute(originalTabindexAttribute);
+                });
+            }
+
+            function removeCookieScriptTabStops() {
+                var cookieDialog = document.getElementById("cookiescript_injected");
+
+                if (!cookieDialog) {
+                    return;
+                }
+
+                var tabStops = cookieDialog.querySelectorAll("[tabindex]");
+
+                if (cookieDialog.hasAttribute("tabindex")) {
+                    tabStops = Array.prototype.slice.call(tabStops);
+                    tabStops.unshift(cookieDialog);
+                }
+
+                removeTabStops(tabStops);
+            }
+
+            function removeHiddenBasmTabStops() {
+                var basmPanel = document.getElementById("basm");
+                var originalTabindexAttribute = "data-jmf-basm-original-tabindex";
+
+                if (!basmPanel) {
+                    return;
+                }
+
+                if (!basmPanel.classList.contains("hidden")) {
+                    basmPanel.removeAttribute("aria-hidden");
+                    basmPanel.removeAttribute("inert");
+                    restoreTabStops(
+                        basmPanel.querySelectorAll("[" + originalTabindexAttribute + "]"),
+                        originalTabindexAttribute
+                    );
+                    return;
+                }
+
+                basmPanel.setAttribute("aria-hidden", "true");
+                basmPanel.setAttribute("inert", "");
+
+                var tabStops = basmPanel.querySelectorAll("a, button, input, select, textarea, iframe, [tabindex], [role='button']");
+
+                if (basmPanel.hasAttribute("tabindex")) {
+                    tabStops = Array.prototype.slice.call(tabStops);
+                    tabStops.unshift(basmPanel);
+                }
+
+                removeTabStops(tabStops, originalTabindexAttribute);
+            }
+
+            function removeThirdPartyTabStops() {
+                removeCookieScriptTabStops();
+                removeHiddenBasmTabStops();
+            }
+
+            var cleanupQueued = false;
+
+            function queueThirdPartyTabStopCleanup() {
+                if (cleanupQueued) {
+                    return;
+                }
+
+                cleanupQueued = true;
+                window.requestAnimationFrame(function () {
+                    cleanupQueued = false;
+                    removeThirdPartyTabStops();
+                });
+            }
+
+            removeThirdPartyTabStops();
+
+            var thirdPartyObserver = new MutationObserver(function () {
+                queueThirdPartyTabStopCleanup();
+            });
+
+            thirdPartyObserver.observe(document.body, {
+                childList: true,
+                subtree: true
+            });
+
+            var skipLinkElement = document.querySelector(".skip-link");
+            var shouldKeepSkipLinkFocused = false;
+
+            function isInsideCookieScript(element) {
+                return !!(element && element.closest && element.closest("#cookiescript_injected"));
+            }
+
+            document.addEventListener("focusin", function (event) {
+                if (
+                    hasPointerInteraction ||
+                    !shouldKeepSkipLinkFocused ||
+                    !isInsideCookieScript(event.target)
+                ) {
+                    return;
+                }
+
+                removeThirdPartyTabStops();
+                skipLinkElement.focus();
+            }, true);
+
+            skipLinkElement.addEventListener("keydown", function (event) {
+                if (event.key === "Tab" && !event.shiftKey) {
+                    shouldKeepSkipLinkFocused = false;
+                }
+            });
+
+            skipLinkElement.addEventListener("click", function () {
+                shouldKeepSkipLinkFocused = false;
+            });
+
+            function focusSkipLinkOnInitialTab(event) {
+                if (
+                    hasHandledInitialTab ||
+                    hasPointerInteraction ||
+                    event.key !== "Tab" ||
+                    event.shiftKey ||
+                    event.altKey ||
+                    event.ctrlKey ||
+                    event.metaKey
+                ) {
+                    return;
+                }
+
+                var skipLink = document.querySelector(".skip-link");
+                var activeElement = document.activeElement;
+
+                if (
+                    !skipLink ||
+                    (activeElement && activeElement.matches("input, select, textarea, [contenteditable='true']"))
+                ) {
+                    return;
+                }
+
+                hasHandledInitialTab = true;
+                shouldKeepSkipLinkFocused = true;
+                event.preventDefault();
+                skipLink.focus();
+            }
+
+            window.addEventListener("keydown", focusSkipLinkOnInitialTab, true);
+            document.addEventListener("keydown", focusSkipLinkOnInitialTab, true);
+        })();
+    </script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT882BTK"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <noscript>
+        <img height="1" width="1" style="display:none"
+             src="https://www.facebook.com/tr?id=3681585278820986&ev=PageView&noscript=1" />
+    </noscript>
+    <!-- End Facebook Pixel Code -->
+    
+
+<nav data-component="topnav" class="topnav container-fluid hide-app">
+	<div class="row">
+		<div class="col">
+				<a class="d-inline-block" href="/" aria-label="Gå til forsiden">
+					
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+
+				</a>
+		</div>
+		<div class="col-auto">
+			<div class="d-flex align-items-center h-100">
+					<div class="topnav-primarylinks">
+							<a class="menu-link" href="/billetter/">Billet</a>
+							<a class="menu-link" href="/program/">Program</a>
+							<a class="menu-link" href="/info/">Info</a>
+							<a class="menu-link" href="/nyheder/">Nyheder</a>
+							<a class="menu-link" href="/faellesskab/">F&#xE6;llesskab</a>
+					</div>
+				<button type="button" class="button-unset pe-3 basm basm_profile_btn" aria-label="Login">
+					<svg aria-hidden="true" focusable="false" fill="#15155B" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 512 512"><path d="M399 384.2C376.9 345.8 335.4 320 288 320H224c-47.4 0-88.9 25.8-111 64.2c35.2 39.2 86.2 63.8 143 63.8s107.8-24.7 143-63.8zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256zm256 16a72 72 0 1 0 0-144 72 72 0 1 0 0 144z" /></svg>
+				</button>
+				<button type="button" class="button-unset pe-3 basm basm_basket_btn position-relative" aria-label="Kurv">
+					<svg aria-hidden="true" focusable="false" fill="#15155B" xmlns="http://www.w3.org/2000/svg" height="20px" viewBox="0 0 576 512"><path d="M0 24C0 10.7 10.7 0 24 0H69.5c22 0 41.5 12.8 50.6 32h411c26.3 0 45.5 25 38.6 50.4l-41 152.3c-8.5 31.4-37 53.3-69.5 53.3H170.7l5.4 28.5c2.2 11.3 12.1 19.5 23.6 19.5H488c13.3 0 24 10.7 24 24s-10.7 24-24 24H199.7c-34.6 0-64.3-24.6-70.7-58.5L77.4 54.5c-.7-3.8-4-6.5-7.9-6.5H24C10.7 48 0 37.3 0 24zM128 464a48 48 0 1 1 96 0 48 48 0 1 1 -96 0zm336-48a48 48 0 1 1 0 96 48 48 0 1 1 0-96z" /></svg>
+					<div class="basm basm_basket_count" aria-hidden="true">0</div>
+				</button>
+				<button type="button" class="button-unset pe-3 search-focus" data-bs-toggle="modal" data-bs-target="#search-menu-modal" aria-label="Søg" aria-controls="search-menu-modal">
+					<i class="fa-solid fa-magnifying-glass text-primary" aria-hidden="true"></i>
+				</button>
+				<button type="button" class="topnav__mega-menu-toggle" data-bs-toggle="modal" data-bs-target="#mega-menu-modal" aria-label="Åbn menu" aria-controls="mega-menu-modal">
+					<svg aria-hidden="true" focusable="false" xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30" fill="none">
+						<path d="M3.6088 24.7876C5.80689 27.1377 7.62223 28.5837 10.7564 29.5348C13.626 30.4046 16.7274 29.884 19.6844 29.3549C20.9464 29.1299 22.2477 28.89 23.326 28.2195C23.7984 27.926 24.214 27.5575 24.6274 27.1891C25.3557 26.5443 26.0818 25.8973 26.8101 25.2525C27.2563 24.8562 27.7069 24.4556 28.0721 23.9886C28.6364 23.2666 28.9798 22.4119 29.3166 21.5678C30.0471 19.7405 30.7842 17.8811 30.9592 15.9295C31.2566 12.6112 29.8918 9.34425 28.0765 6.51008C27.5363 5.66603 26.9479 4.84127 26.2174 4.14291C24.5377 2.53837 22.239 1.71361 20.0103 0.94455C18.687 0.492538 17.3354 0.0362419 15.9334 0.00196619C14.5752 -0.0301673 13.241 0.336155 11.9594 0.764602C9.36977 1.62792 6.85017 2.77402 4.73956 4.45781C2.62896 6.14161 0.947038 8.40167 0.33026 10.9724C0.0634275 12.0863 0 13.2367 0 14.3806C0.00656146 18.1338 0.839867 22.1055 3.59131 24.7662L3.6088 24.7876Z" fill="#15155B" />
+					</svg>
+					<i class="fa-solid fa-bars text-white" aria-hidden="true"></i>
+				</button>
+			</div>
+		</div>
+	</div>
+</nav>
+<div class="modal fade" id="mega-menu-modal">
+	<div class="modal-dialog modal-fullscreen">
+		<div class="modal-content mega-menu-content">
+			<div class="container-fluid mega-header">
+				<div class="row">
+					<div class="col">
+
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+					</div>
+					<div class="col-auto">
+						<div class="d-flex align-items-center h-100">
+							<button type="button" class="button-unset pe-md-3" data-bs-toggle="modal" data-bs-target="#mega-menu-modal" aria-label="Luk menu">
+								<svg aria-hidden="true" focusable="false" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M10.8809 2.7489C10.1075 3.61889 9.1363 5.25988 8.76965 5.53595C8.7286 5.85288 8.24347 5.44695 7.10715 4.02028C6.21339 3.26744 4.38856 1.96065 4.14599 1.28682C3.33433 -0.0989859 3.00874 -0.138944 1.58414 0.651128C1.21749 0.928107 0.654925 1.21326 0.395567 1.4076C0.136209 1.60194 0 2.08779 0 2.08779C0 2.08779 0.361981 2.43015 0.889094 3.45997C1.7418 4.52974 3.67579 5.99818 4.4464 6.69199C6.13129 8.6699 6.31602 7.41123 2.69154 11.4297C1.18484 12.8527 0.00373177 14.3157 0.00373177 14.3157C-0.0373177 14.6327 0.291078 14.8642 0.575625 15.2211C1.01131 15.6707 1.4246 16.0993 1.7502 16.1392C1.9937 16.8122 2.64396 16.8921 3.05165 16.2991C3.86145 15.5036 4.36337 14.8869 4.66657 14.5918C5.03322 14.3148 4.59007 14.6563 5.73013 13.5093C7.31893 11.4524 7.64453 11.4924 8.86295 12.2861C10.0823 13.0798 13.6564 16.092 13.6154 16.409C13.8999 16.7659 14.8515 17.1282 14.9187 16.9557C14.9187 16.9557 15.8031 15.9794 16.0149 15.7388C16.7883 14.8688 17.3863 14.5736 16.6969 14.1032C16.4282 13.9198 15.0829 12.7292 13.8644 11.9355C11.2242 9.35916 10.7764 8.74436 10.9331 8.46466C11.3558 7.70637 13.0603 5.40336 14.567 3.98032C15.8432 2.63569 15.8581 1.67247 14.6117 1.09066C13.0677 0.257 13.0714 0 13.0714 0C12.9921 0.488573 11.9314 1.61465 10.8809 2.7489Z" fill="#15155B" />
+								</svg>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+				<div class="mega-primary-links">
+						<a class="mega-link" href="/billetter/">Billet</a>
+						<a class="mega-link" href="/program/">Program</a>
+						<a class="mega-link" href="/info/">Info</a>
+						<a class="mega-link" href="/nyheder/">Nyheder</a>
+						<a class="mega-link" href="/faellesskab/">F&#xE6;llesskab</a>
+				</div>
+				<div class="mega-secondary-links">
+						<a class="sec-link" href="/faellesskab/frivillig/">Til frivillige</a>
+						<a class="sec-link" href="/til-presse/">Til presse</a>
+						<a class="sec-link" href="/til-artister/">Til artister</a>
+				</div>
+
+					<div class="mb-3">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/nrhbglcp/lag_1-1.svg?rmode=pad&amp;width=800&amp;quality=80&amp;v=1da18dbc57f2700" alt="Lag 1 (1)" />
+		</picture>
+</div>
+
+					</div>
+					<div class="mb-3">
+						
+
+<div class="media-container">
+		<picture>
+				<img src="https://cdn.jellingmusikfestival.dk/media/wy4fojzk/royal_primary_logo_white_rgb.png?width=800&amp;quality=80&amp;v=1da97cade77c4b0" alt="Royal Primary Logo White RGB (1)" />
+		</picture>
+</div>
+
+					</div>
+
+			<div class="some-element">
+				<div class="container">
+					<div class="row">
+						<div class="col-12">
+							<div class="d-flex align-items-center justify-content-center">
+								<div class="title text-center text-primary">F&#xE6;llesskabet er allerede igang - v&#xE6;r med her</div>
+							</div>
+						</div>
+						<div class="col-10 offset-1">
+							<div class="d-flex align-items-center justify-content-center gap-3 mt-3">
+									<a href="https://www.instagram.com/jellingmusikfestival/" target="_blank" aria-label="Instagram">
+										<img src="https://cdn.jellingmusikfestival.dk/media/zzneuvua/insta-blue.svg" alt="" aria-hidden="true" />
+									</a>
+									<a href="https://www.facebook.com/JellingMusikfestival" target="_blank" aria-label="Facebook">
+										<img src="https://cdn.jellingmusikfestival.dk/media/1utf0h5u/fb-blue.svg" alt="" aria-hidden="true" />
+									</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="modal fade" id="search-menu-modal" data-component="search">
+	<div class="modal-dialog modal-fullscreen">
+		<div class="modal-content mega-menu-content">
+			<div class="container-fluid mega-header">
+				<div class="row">
+					<div class="col">
+
+
+<div class="media-container logo">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/kkcdwqh2/jmf_logo2027_bla-_venstre.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1dcebdc28f24210" alt="Jmf Logo2027 Bla&#x30A; Venstre" />
+		</picture>
+</div>
+					</div>
+					<div class="col-auto">
+						<div class="d-flex align-items-center h-100">
+							<button type="button" class="button-unset pe-md-3" data-bs-toggle="modal" data-bs-target="#search-menu-modal" aria-label="Luk søgning">
+								<svg aria-hidden="true" focusable="false" width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<path d="M10.8809 2.7489C10.1075 3.61889 9.1363 5.25988 8.76965 5.53595C8.7286 5.85288 8.24347 5.44695 7.10715 4.02028C6.21339 3.26744 4.38856 1.96065 4.14599 1.28682C3.33433 -0.0989859 3.00874 -0.138944 1.58414 0.651128C1.21749 0.928107 0.654925 1.21326 0.395567 1.4076C0.136209 1.60194 0 2.08779 0 2.08779C0 2.08779 0.361981 2.43015 0.889094 3.45997C1.7418 4.52974 3.67579 5.99818 4.4464 6.69199C6.13129 8.6699 6.31602 7.41123 2.69154 11.4297C1.18484 12.8527 0.00373177 14.3157 0.00373177 14.3157C-0.0373177 14.6327 0.291078 14.8642 0.575625 15.2211C1.01131 15.6707 1.4246 16.0993 1.7502 16.1392C1.9937 16.8122 2.64396 16.8921 3.05165 16.2991C3.86145 15.5036 4.36337 14.8869 4.66657 14.5918C5.03322 14.3148 4.59007 14.6563 5.73013 13.5093C7.31893 11.4524 7.64453 11.4924 8.86295 12.2861C10.0823 13.0798 13.6564 16.092 13.6154 16.409C13.8999 16.7659 14.8515 17.1282 14.9187 16.9557C14.9187 16.9557 15.8031 15.9794 16.0149 15.7388C16.7883 14.8688 17.3863 14.5736 16.6969 14.1032C16.4282 13.9198 15.0829 12.7292 13.8644 11.9355C11.2242 9.35916 10.7764 8.74436 10.9331 8.46466C11.3558 7.70637 13.0603 5.40336 14.567 3.98032C15.8432 2.63569 15.8581 1.67247 14.6117 1.09066C13.0677 0.257 13.0714 0 13.0714 0C12.9921 0.488573 11.9314 1.61465 10.8809 2.7489Z" fill="#15155B" />
+								</svg>
+							</button>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-lg-8 offset-lg-2 col-xl-6 offset-xl-3">
+<form action="/program" class="search-form" enctype="multipart/form-data" id="formc06bfaca000a43d2890ac359b364fee7" method="post">							<button type="submit" disabled class="d-none" aria-hidden="true" tabindex="-1"></button>
+							<div class="search-term-container">
+								<label class="visually-hidden" for="topnav-search-term">S&#xF8;g</label>
+								<input id="topnav-search-term" class="w-100 search-term rounded-5" type="search" name="term" placeholder="S&#xF8;g" />
+							</div>
+							<div class="search-result-container pb-2 px-4"></div>
+<input name="__RequestVerificationToken" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aNW0es_4VKrKSR8X50U__klPowDvpOpH-99VI8aePWSWFDBtmi-1Izg1_MaI-shwnkcgA2d51irFphaNsW0VIEKJuUUgC257ueH5bsHKzCX665Icl5YmvHlszUebiIvIK0" /><input name="ufprt" type="hidden" value="CfDJ8Dfy8wcBu5tBtXDgqSUe7aOkBPUQpzY5qVAhwpz4NtpCYr4MAlg9bei2Hs81aMVIBklZMQr7ZJt_StnwrYpkyqEzuvPqnsaFbjZsAGSSidtz0LzhgTK-gc9uw5xuMkV9z6s_alZCoZhSJA8D11tcNw8" /></form>					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <main id="render-body" tabindex="-1">
+        
+<div class="performers">
+	<div class="container">
+		<div class="row d-none d-lg-flex">
+			<div class="col-12 col-lg-7  mb-4 mb-lg-0">
+				
+
+<div class="ticket-info p-4 ticket-info-slim">
+	<div class="block-title">
+		<div class="text-primary title">Billetsalget starter 1. oktober 🎉</div>
+	</div>
+	<div class="block-rte ">
+		<p>Tag del i fællesskabsfesten 🫶</p>		
+	</div>
+
+	<div class="block-button">
+			<a href="/billetter/" class="btn btn-info rounded-0 w-100 text-white fw-bold text-20 text-uppercase">KØB BILLET</a>
+	</div>
+</div>
+			</div>
+			<div class="col-12 col-lg-5">
+				
+
+	<div class="countdown" style="position: relative;" data-component="countdown" data-date="2027-05-27 16:00:00">
+        <style>
+            #Royal_star {
+                transform-box: fill-box;
+                transform-origin: center;
+                animation: royal-star-pulse 5s ease-in-out infinite;
+            }
+
+            @keyframes royal-star-pulse {
+                0%, 86%, 100% {
+                    transform: scale(1);
+                    opacity: 1;
+                }
+
+                90% {
+                    transform: scale(1.12);
+                    opacity: 0.85;
+                }
+
+                94% {
+                    transform: scale(1.02);
+                    opacity: 1;
+                }
+            }
+        </style>
+		<div class="title" style="margin-bottom: 0; display: flex; align-items: center; justify-content: center;">
+			<div>Jelling Musikfestival 2027</div> <svg style="width: 40px; height: auto; margin-left: 10px;" id="Royal_star" viewBox="0 0 154 178" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M60.53 131.93C61.01 139.7 72.76 168 76.56 177.18H77.19C80.99 168 92.74 139.7 93.22 131.93C93.84 121.87 87.8 115.87 82.44 112.31C80.95 111.32 77.39 108.91 77.39 108.91H76.39C76.39 108.91 72.83 111.31 71.34 112.31C65.98 115.87 59.93 121.88 60.56 131.93H60.53Z" fill="white" />
+				<path d="M93.21 45.25C92.73 37.48 80.9899 9.18 77.1899 0H76.56C72.76 9.18 61.01 37.48 60.53 45.25C59.91 55.31 65.95 61.31 71.31 64.87C72.8 65.86 76.36 68.27 76.36 68.27H77.36C77.36 68.27 80.92 65.87 82.41 64.87C87.77 61.31 93.8199 55.3 93.1899 45.25H93.21Z" fill="white" />
+				<path d="M106.24 124.41C113.21 127.88 143.59 131.86 153.44 133.16L153.75 132.62C147.7 124.74 129.06 100.42 122.58 96.11C114.18 90.54 105.96 92.78 100.19 95.64C98.5899 96.44 94.72 98.32 94.72 98.32L94.22 99.19C94.22 99.19 94.5199 103.48 94.6299 105.27C95.0399 111.69 97.21 119.93 106.23 124.42L106.24 124.41Z" fill="white" />
+				<path d="M47.5099 52.77C40.5399 49.3 10.16 45.32 0.309998 44.02L0 44.56C6.05 52.44 24.69 76.76 31.17 81.07C39.57 86.64 47.79 84.4 53.56 81.54C55.16 80.74 59.03 78.86 59.03 78.86L59.53 77.99C59.53 77.99 59.23 73.7 59.12 71.91C58.71 65.49 56.54 57.25 47.52 52.76L47.5099 52.77Z" fill="white" />
+				<path d="M122.58 81.07C129.07 76.77 147.71 52.44 153.75 44.56L153.44 44.02C143.59 45.32 113.21 49.3 106.24 52.77C97.22 57.26 95.04 65.5 94.64 71.92C94.53 73.71 94.23 78 94.23 78L94.73 78.87C94.73 78.87 98.59 80.75 100.2 81.55C105.97 84.41 114.19 86.65 122.59 81.08L122.58 81.07Z" fill="white" />
+				<path d="M31.17 96.11C24.68 100.41 6.04 124.74 0 132.62L0.309998 133.16C10.16 131.86 40.5399 127.88 47.5099 124.41C56.5299 119.92 58.71 111.68 59.11 105.26C59.22 103.47 59.52 99.18 59.52 99.18L59.02 98.31C59.02 98.31 55.16 96.43 53.55 95.63C47.78 92.77 39.56 90.53 31.16 96.1L31.17 96.11Z" fill="white" />
+			</svg>
+		</div>
+		<div class="timer">
+			<div class="days"><span class="days-value">287</span><span class="time-shorthand">D</span></div>
+			<div class="hours"><span class="hours-value">17</span><span class="time-shorthand">T</span></div>
+			<div class="minutes"><span class="minutes-value">55</span><span class="time-shorthand">M</span></div>
+			<div class="seconds"><span class="seconds-value">35</span><span class="time-shorthand">S</span></div>
+		</div>
+		<div class="calendar-info d-flex align-items-center justify-content-center">
+			<div class="me-2 calendar-info-title">Tilføj til kalender</div>
+			<a class="me-2 mb-1 d-none" target="_blank" href="https://outlook.live.com/calendar/0/action/compose?allday=true&amp;body=Jelling%20Musikfestival&amp;enddt=2027-05-30T22%3A00%3A00%2B00%3A00&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2027-05-27T22%3A00%3A00%2B00%3A00&amp;subject=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="18" height="20" viewBox="0 0 15 17" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2769)">
+						<path d="M9.94309 2.7596C10.5154 2.04337 10.9506 1.03222 10.794 0C9.85822 0.063197 8.76364 0.642503 8.12603 1.39876C7.54501 2.0834 7.06626 3.10297 7.25341 4.09095C8.27619 4.12255 9.33378 3.5285 9.94527 2.7596H9.94309ZM15.0004 12.473C14.5913 13.3556 14.3933 13.7517 13.8666 14.5332C13.1311 15.6265 12.0931 16.9853 10.807 16.9958C9.66455 17.0084 9.37077 16.2711 7.8192 16.2796C6.26762 16.288 5.94556 17.0084 4.80092 16.9979C3.51483 16.9874 2.53123 15.7592 1.7957 14.6659C-0.26509 11.6156 -0.480526 8.03234 0.788153 6.1259C1.69124 4.77348 3.1166 3.98141 4.45492 3.98141C5.79323 3.98141 6.67456 4.70818 7.80179 4.70818C8.92902 4.70818 9.56227 3.97931 11.1378 3.97931C12.3303 3.97931 13.5946 4.61128 14.4934 5.70248C11.5447 7.27609 12.0235 11.3755 15.0004 12.4709V12.473Z" fill="white" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2769">
+							<rect width="15" height="17" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+			<a class="me-2" target="_blank" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;dates=20270527%2F20270531&amp;details=Jelling%20Musikfestival&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;text=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="20" height="20" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2773)">
+						<path d="M3.34808 8.0002C3.34808 7.48067 3.43554 6.98303 3.5942 6.51525L0.840071 4.45703C0.303077 5.52396 0 6.72426 0 8.0002C0 9.27614 0.303076 10.4744 0.838037 11.5414L3.59217 9.47918C3.43554 9.01339 3.35011 8.51774 3.35011 8.0002" fill="#F2BA45" />
+						<path d="M8.18715 3.27246C9.34047 3.27246 10.3819 3.67256 11.2016 4.32744L13.5835 2.0005C12.1312 0.764369 10.27 0 8.18715 0C4.95094 0 2.17037 1.8114 0.840088 4.45683L3.59422 6.51505C4.22885 4.63001 6.03917 3.27246 8.18512 3.27246" fill="#DB493C" />
+						<path d="M8.18719 12.7275C6.03921 12.7275 4.23093 11.3719 3.5963 9.48486L0.842163 11.5431C2.17448 14.1885 4.95302 15.9999 8.18923 15.9999C10.1867 15.9999 12.0926 15.3052 13.5226 14.0054L10.9067 12.0268C10.1684 12.4826 9.23881 12.7255 8.18719 12.7255" fill="#37A759" />
+						<path d="M16 8.00001C16 7.52825 15.9247 7.01867 15.8149 6.54492H8.18713V9.63624H12.5787C12.359 10.6892 11.761 11.4994 10.9067 12.0269L13.5225 14.0055C15.0257 12.64 16.002 10.6076 16.002 8.00001" fill="#567BB8" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2773">
+							<rect width="16" height="16" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+			<a target="_blank" href="https://outlook.live.com/calendar/0/action/compose?allday=true&amp;body=Jelling%20Musikfestival&amp;enddt=2027-05-30T22%3A00%3A00%2B00%3A00&amp;location=M%C3%B8lvangvej%2066B%2C%207300%20Jelling&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2027-05-27T22%3A00%3A00%2B00%3A00&amp;subject=Jelling%20Musikfestival" title="Gem i min kalender">
+				<svg width="20" height="20" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_450_2781)">
+						<path d="M16 8C16 3.58172 12.4183 0 8 0C3.58172 0 0 3.58172 0 8C0 12.4183 3.58172 16 8 16C12.4183 16 16 12.4183 16 8Z" fill="#008BCA" />
+						<path d="M9.00122 7.42702V5.61035H12.0538C12.1398 5.61035 12.2552 5.66902 12.3373 5.76679C12.4019 5.84306 12.4488 5.94474 12.4488 6.06012V6.11096L12.4077 6.13834L9.81667 7.88657L9.79125 7.8983C9.77365 7.90417 9.75214 7.90612 9.73063 7.90612C9.70912 7.90612 9.68761 7.90417 9.67001 7.8983L9.64654 7.88852L9.04424 7.50915L8.99927 7.48178V7.42898L9.00122 7.42702Z" fill="white" />
+						<path d="M9.14984 7.74977L9.69934 8.12718H9.70325C9.72671 8.14674 9.76191 8.12718 9.76973 8.12523L12.306 6.43567L12.4527 6.33789V9.68182C12.4527 9.86954 12.394 10.0084 12.3021 10.1042C12.1946 10.2157 12.046 10.2665 11.8895 10.2665H9.00317V7.73608H9.09899L9.15179 7.75173L9.14984 7.74977Z" fill="white" />
+						<path d="M6.25166 7.05176C6.16953 7.05176 6.09522 7.07131 6.03069 7.10847C5.9642 7.14758 5.90554 7.2082 5.85274 7.29033C5.79994 7.37442 5.75887 7.4761 5.7315 7.59343C5.70217 7.71272 5.68848 7.8457 5.68848 7.99627C5.68848 8.14684 5.70217 8.28373 5.7315 8.40106C5.75887 8.51644 5.79799 8.61421 5.85274 8.6983C5.90358 8.77847 5.96225 8.83714 6.02678 8.8743C6.08936 8.91145 6.15975 8.92905 6.23798 8.92905C6.32011 8.92905 6.39246 8.91145 6.45699 8.8743C6.52152 8.83714 6.58019 8.78043 6.62908 8.70416C6.68188 8.62399 6.72099 8.52621 6.74836 8.41279C6.77574 8.29546 6.78943 8.16053 6.78943 8.008C6.78943 7.85547 6.77574 7.70685 6.74836 7.58366C6.72294 7.46437 6.68383 7.36464 6.63299 7.28055C6.5841 7.20233 6.52935 7.14367 6.46482 7.10651C6.40224 7.06936 6.33184 7.05176 6.25166 7.05176Z" fill="white" />
+						<path fill-rule="evenodd" clip-rule="evenodd" d="M8.86623 12.404V3.48096L8.75281 3.50247L3.62546 4.49391L3.54919 4.50956V11.4047L3.62546 11.4203L8.75281 12.4959L8.86623 12.5193V12.402V12.404ZM6.2654 6.36534C6.44922 6.36534 6.61739 6.40249 6.76797 6.47876C6.91659 6.55502 7.04956 6.66649 7.16298 6.81902C7.27445 6.96764 7.35853 7.13777 7.41329 7.33136C7.46804 7.523 7.49542 7.73615 7.49542 7.97081C7.49542 8.2133 7.46804 8.43231 7.41133 8.62786C7.35462 8.82733 7.26662 9.00332 7.15125 9.1539C7.03392 9.30838 6.89703 9.42376 6.7445 9.50198C6.59002 9.5802 6.41793 9.61931 6.22825 9.61931C6.04247 9.61931 5.8743 9.58216 5.72372 9.50589C5.57315 9.42963 5.44017 9.31816 5.32284 9.16759C5.20942 9.02092 5.12338 8.85079 5.06667 8.65915C5.00996 8.46947 4.98258 8.26023 4.98258 8.02948C4.98258 7.787 5.00996 7.56602 5.06863 7.36852C5.12534 7.1671 5.21334 6.9911 5.32871 6.83662C5.44604 6.68017 5.58293 6.56284 5.74132 6.48267C5.89972 6.40445 6.07376 6.36338 6.26931 6.36338L6.2654 6.36534Z" fill="white" />
+					</g>
+					<defs>
+						<clipPath id="clip0_450_2781">
+							<rect width="16" height="16" fill="white" />
+						</clipPath>
+					</defs>
+				</svg>
+			</a>
+		</div>
+	</div>
+
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12">
+				<div class="py-4">
+					
+
+	<div class="custom-breadcrumb my-3 hide-app">
+
+			<a href="/program/" class="custom-breadcrumb-item text-black text-decoration-none">
+				<svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<g clip-path="url(#clip0_359_24160)">
+						<path d="M2.55496 5.25744C2.27074 5.6334 2.97462 6.8172 4.66659 8.80884C6.07723 10.2324 7.06424 11.513 7.20455 11.7963C7.90881 12.5059 7.48192 13.7811 6.19809 16.1863C5.77177 16.7503 5.48147 17.5996 5.62391 17.8872C5.90454 18.4539 6.4706 18.8845 6.8948 18.3163C8.31837 16.9056 12.0106 14.3661 15.2739 13.1081C17.5461 11.9828 18.5887 11.2312 18.4016 10.8535C18.4043 10.1465 18.121 10.2868 17.5544 10.5675C16.9877 10.8481 16.1362 10.5642 13.5923 9.70188C11.8913 9.1277 9.20712 7.98206 7.50831 7.41217C6.09498 6.69555 4.25586 5.84234 4.11554 5.55902C3.41129 4.84938 3.12797 4.98969 2.55704 5.27244L2.55496 5.25744ZM6.23048 7.68152C7.07774 7.96753 8.49536 8.68202 9.48293 9.25135C12.4548 10.2545 13.302 10.5406 13.0187 10.6809C12.7354 10.8212 11.8811 11.2442 10.8909 11.3819L8.62274 11.7995L7.2121 10.376C6.79116 9.52603 5.66115 8.66909 5.38053 8.10246L4.53383 7.10521L6.23477 7.67939L6.23048 7.68152Z" fill="black" />
+					</g>
+					<defs>
+						<clipPath id="clip0_359_24160">
+							<rect width="13.7098" height="14.6966" fill="white" transform="translate(13.1699) rotate(63.6531)" />
+						</clipPath>
+					</defs>
+				</svg>
+				<span>Program</span>
+			</a>
+
+		<a href="/" class="custom-breadcrumb-item text-black text-decoration-none">
+			<svg width="20" height="19" viewBox="0 0 20 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<g clip-path="url(#clip0_359_24160)">
+					<path d="M2.55496 5.25744C2.27074 5.6334 2.97462 6.8172 4.66659 8.80884C6.07723 10.2324 7.06424 11.513 7.20455 11.7963C7.90881 12.5059 7.48192 13.7811 6.19809 16.1863C5.77177 16.7503 5.48147 17.5996 5.62391 17.8872C5.90454 18.4539 6.4706 18.8845 6.8948 18.3163C8.31837 16.9056 12.0106 14.3661 15.2739 13.1081C17.5461 11.9828 18.5887 11.2312 18.4016 10.8535C18.4043 10.1465 18.121 10.2868 17.5544 10.5675C16.9877 10.8481 16.1362 10.5642 13.5923 9.70188C11.8913 9.1277 9.20712 7.98206 7.50831 7.41217C6.09498 6.69555 4.25586 5.84234 4.11554 5.55902C3.41129 4.84938 3.12797 4.98969 2.55704 5.27244L2.55496 5.25744ZM6.23048 7.68152C7.07774 7.96753 8.49536 8.68202 9.48293 9.25135C12.4548 10.2545 13.302 10.5406 13.0187 10.6809C12.7354 10.8212 11.8811 11.2442 10.8909 11.3819L8.62274 11.7995L7.2121 10.376C6.79116 9.52603 5.66115 8.66909 5.38053 8.10246L4.53383 7.10521L6.23477 7.67939L6.23048 7.68152Z" fill="black" />
+				</g>
+				<defs>
+					<clipPath id="clip0_359_24160">
+						<rect width="13.7098" height="14.6966" fill="white" transform="translate(13.1699) rotate(63.6531)" />
+					</clipPath>
+				</defs>
+			</svg>
+			<span>Forside</span>
+		</a>
+
+	</div>
+
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-12">
+				
+
+
+<div class="jmf-title">
+	<div class="block-text">
+		<h1>JMF27</h1>
+			<div class="rte"><p>Programmet til Jelling Musikfestival 2027 bliver løbende offentliggjort her.</p></div>
+	</div>
+	<svg viewBox="0 0 737 262" fill="none" xmlns="http://www.w3.org/2000/svg">
+		<path opacity="0.05" d="M488.289 73.5958C487.813 67.5588 486.499 61.5382 486.417 55.5012C486.286 46.1157 486.877 36.7303 487.172 26.8335C487.172 24.5407 487.337 21.7201 487.123 18.9325C486.926 16.3594 486.467 13.7697 485.859 11.246C485.186 8.52439 483.643 6.54504 481.033 5.06052C479.113 3.97187 475.124 2.78425 473.582 4.21929C471.316 6.3306 469.166 8.57388 467.016 10.8007C463.323 14.5944 459.695 18.4707 455.953 22.2315C453.162 25.0355 450.109 27.5757 447.45 30.4953C442.099 36.3344 437.044 42.4539 431.611 48.2105C428.968 51.0146 425.603 53.1094 422.796 55.7651C420.909 57.563 419.645 60.0702 417.708 61.8021C413.522 65.5794 408.894 68.8618 404.807 72.7381C400.506 76.7958 395.877 80.7875 392.742 85.6864C387.145 94.4451 379.168 100.894 372.569 108.663C372.225 109.059 370.616 108.927 370.042 108.482C365.593 105.035 361.211 101.505 356.878 97.9089C354.169 95.6492 351.198 93.5543 349.015 90.8492C345.224 86.1317 342.105 80.8699 338.395 76.0865C335.982 72.9855 333.126 70.1979 330.238 67.5258C328.153 65.5959 325.395 64.3753 323.442 62.3465C319.749 58.5032 316.483 54.2641 312.921 50.2724C311.378 48.5404 309.063 47.3363 307.997 45.3899C305.682 41.1838 302.35 37.8519 298.526 35.4932C291.599 31.2045 288.349 24.1778 283.917 17.9923C283.802 17.8439 283.835 17.5965 283.72 17.448C281.455 14.1656 278.517 11.6749 274.774 10.3718C272.969 9.745 270.72 10.1409 269.112 9.26665C265.517 7.30379 263.383 8.02955 260.724 11.2295C257.556 15.0233 254.224 18.1408 254.126 23.749C253.912 35.5261 253.059 47.3033 252.501 59.064C252.353 62.1815 252.386 65.3155 252.156 68.433C251.86 72.3092 251.056 76.169 251.04 80.0452C251.023 83.9215 251.811 87.7812 252.025 91.674C252.271 96.4904 252.336 101.323 252.353 106.156C252.353 110.197 252.353 114.255 252.057 118.28C251.581 124.63 250.761 130.948 250.268 137.298C249.989 140.894 249.825 144.539 249.989 148.152C250.301 154.997 250.99 161.826 251.319 168.671C251.466 172.036 251.04 175.417 251.023 178.799C250.99 185.182 251.089 191.566 251.089 197.949C251.089 203.739 250.908 209.545 251.073 215.334C251.171 219.145 251.91 222.938 252.041 226.749C252.222 232.076 252.156 237.437 252.123 242.765C252.074 248.456 255.389 251.969 260.412 253.107C263.826 253.882 267.388 254.064 270.884 254.476C271.262 254.526 271.656 254.394 272.05 254.377C277.762 254.196 283.244 252.645 288.808 251.639C297.721 250.023 306.995 250.303 316.121 250.105C320.964 249.99 325.839 250.798 330.681 250.765C340.907 250.715 351.133 250.254 361.342 250.221C366.874 250.221 372.422 250.765 377.953 250.996C384.059 251.243 390.149 250.336 396.304 251.54C400.375 252.332 404.741 251.54 408.976 251.623C416.707 251.788 424.077 249.561 431.627 248.406C438.308 247.4 445.169 246.872 451.931 247.12C457.381 247.301 462.699 247.054 468.017 246.163C471.464 245.586 474.829 244.299 478.26 244.134C481.953 243.953 483.84 240.967 486.811 239.779C487.287 239.582 487.73 238.79 487.829 238.196C488.108 236.431 488.321 234.633 488.321 232.868C488.321 231.499 487.796 230.147 487.763 228.778C487.616 223.466 487.517 218.155 487.468 212.844C487.386 203.607 487.205 194.353 487.337 185.116C487.484 174.362 487.55 163.591 488.321 152.869C488.912 144.721 489.224 136.638 489.06 128.474C488.83 117.917 489.667 107.327 489.618 96.7708C489.569 89.0348 488.945 81.2988 488.354 73.5793L488.289 73.5958Z" fill="#C87E62" />
+		<path opacity="0.05" d="M208.413 5.47297C204.408 3.36165 200.584 3.84 196.513 4.1534C191.556 4.53277 186.615 5.20905 181.658 3.42763C179.623 2.68537 177.112 2.71836 174.945 3.06475C164.834 4.73071 154.805 5.70389 144.956 1.74518C144.333 1.49776 143.545 1.6627 142.839 1.61322C139.409 1.41528 135.994 1.18436 132.564 1.01941C128.953 0.854466 125.079 -0.135213 121.78 0.821477C117.529 2.05858 113.474 1.71219 109.289 1.79466C107.861 1.82765 105.907 2.6029 105.136 3.70804C103.889 5.50596 102.887 7.79872 102.69 9.95952C102.313 14.2811 102.559 18.6687 102.575 23.0233C102.575 27.5263 102.575 32.0129 102.641 36.5159C102.69 40.4251 103.232 44.3674 102.822 48.2271C101.804 57.9755 101.591 67.7073 101.558 77.4886C101.541 82.9649 102.149 88.3586 101.295 93.9833C100.031 102.231 100.491 110.725 100.08 119.121C100.031 119.995 99.0463 121.496 98.3734 121.579C95.4188 121.909 92.4151 121.942 89.4277 121.859C81.2535 121.645 73.0957 121.315 64.9379 121.068C63.6576 121.035 62.3773 121.101 61.1135 121.249C58.6185 121.546 56.1072 122.272 53.6286 122.206C43.8459 121.925 34.0631 121.414 24.2803 120.985C23.7715 120.969 23.2462 120.985 22.721 121.002C18.3877 121.265 14.0379 121.529 9.68821 121.81C9.68821 121.727 9.65538 121.645 9.63897 121.562C8.19453 121.843 6.68443 121.925 5.32207 122.437C1.10365 123.987 1.038 128.177 0.56199 131.525C-0.143815 136.358 -0.0289163 141.356 0.0859821 146.271C0.250123 152.671 0.529162 159.088 1.20214 165.455C1.56325 168.803 2.9092 172.02 3.71349 175.318C4.58343 178.931 5.28924 182.576 6.14277 186.188C7.04554 189.966 7.96473 193.743 9.04806 197.471C10.2463 201.611 10.8208 206.229 13.1023 209.693C17.2387 215.994 22.4091 221.619 27.1692 227.491C28.9255 229.652 30.7146 231.796 32.5858 233.858C34.7525 236.217 36.9191 238.641 39.3156 240.753C41.6956 242.848 44.6009 244.349 46.8825 246.526C51.2978 250.732 56.4683 253.767 62.164 255.35C67.121 256.736 71.8975 258.402 76.7068 260.167C80.6134 261.602 85.0287 262.344 89.1979 260.365C92.3658 258.864 95.6158 258.402 99.0628 259.095C100.212 259.326 101.377 259.606 102.526 259.557C107.056 259.359 111.57 258.93 116.101 258.765C128.214 258.303 139.573 254.757 150.767 250.468C158.219 247.615 165.211 243.986 170.677 237.866C171.908 236.497 173.632 235.573 175.093 234.402C176.554 233.215 178.211 232.176 179.328 230.707C182.66 226.32 185.91 221.866 188.913 217.231C190.801 214.312 192.13 211.046 193.788 207.945C195.971 203.854 198.253 199.813 200.42 195.706C201.043 194.518 201.585 193.232 201.864 191.912C202.488 188.992 202.898 186.04 203.407 183.104C204.556 176.523 205.803 169.974 206.805 163.376C207.494 158.89 208.003 154.354 208.298 149.818C209.135 137.397 209.923 124.977 210.514 112.556C210.728 108.202 210.087 103.814 210.202 99.443C210.399 91.1297 210.777 82.8329 211.236 74.5361C211.827 64.0785 212.599 53.6374 213.223 43.1797C213.567 37.5881 214.06 31.9964 214.01 26.4047C213.961 21.8852 213.387 17.3491 212.73 12.8791C212.303 9.97601 211.778 7.25439 208.43 5.48946L208.413 5.47297Z" fill="#C87E62" />
+		<path opacity="0.05" d="M736.814 113.843C736.552 107.443 736.158 101.026 735.37 94.676C734.96 91.3441 733.548 88.1442 732.695 84.8452C731.759 81.2494 731.004 77.6041 730.068 74.0082C729.1 70.2475 728.115 66.4867 726.982 62.7754C725.719 58.6517 725.046 54.0497 722.715 50.6188C718.48 44.4003 713.211 38.8581 708.336 33.0685C706.547 30.9407 704.725 28.8294 702.805 26.8005C700.589 24.4748 698.389 22.0996 695.943 20.0377C693.531 17.9924 690.592 16.5409 688.278 14.3966C683.797 10.2729 678.577 7.33685 672.849 5.85233C667.875 4.56575 663.066 2.96577 658.224 1.28331C654.301 -0.085744 649.869 -0.74553 645.733 1.29981C642.598 2.8668 639.348 3.37813 635.901 2.75134C634.752 2.53691 633.57 2.28949 632.437 2.35546C627.907 2.63587 623.41 3.13071 618.879 3.39463C606.782 4.07091 595.473 7.81519 584.361 12.3017C576.958 15.2873 570.031 19.0481 564.664 25.25C563.466 26.6521 561.742 27.5923 560.314 28.7964C558.886 30.0005 557.228 31.0891 556.145 32.5737C552.895 37.0107 549.711 41.5303 546.805 46.1983C544.967 49.1508 543.687 52.4497 542.094 55.5672C539.977 59.6909 537.778 63.7651 535.677 67.9217C535.069 69.1258 534.56 70.4289 534.298 71.732C533.74 74.668 533.362 77.6206 532.903 80.5731C531.869 87.171 530.736 93.7523 529.85 100.367C529.242 104.87 528.816 109.406 528.586 113.942C527.962 126.362 527.387 138.799 527.01 151.236C526.879 155.591 527.584 159.962 527.552 164.333C527.486 172.646 527.256 180.96 526.944 189.256C526.55 199.73 525.96 210.188 525.5 220.646C525.254 226.237 524.876 231.846 525.007 237.437C525.122 241.957 525.779 246.476 526.518 250.946C527.01 253.849 527.568 256.555 530.949 258.254C535.004 260.299 538.812 259.738 542.882 259.359C547.823 258.897 552.764 258.122 557.737 259.837C559.789 260.53 562.284 260.464 564.467 260.068C574.545 258.221 584.558 257.066 594.472 260.86C595.096 261.107 595.883 260.926 596.589 260.959C600.02 261.091 603.45 261.272 606.864 261.371C610.475 261.486 614.366 262.394 617.648 261.371C621.867 260.068 625.938 260.332 630.123 260.183C631.551 260.134 633.488 259.309 634.243 258.188C635.474 256.373 636.426 254.064 636.574 251.887C636.869 247.565 636.557 243.177 636.459 238.823C636.377 234.336 636.295 229.833 636.163 225.33C636.049 221.421 635.441 217.479 635.77 213.619C636.623 203.871 636.656 194.122 636.525 184.341C636.442 178.865 635.737 173.471 636.525 167.846C637.641 159.583 637.017 151.088 637.296 142.692C637.329 141.818 638.281 140.3 638.954 140.218C641.908 139.838 644.912 139.756 647.899 139.789C656.074 139.855 664.232 140.036 672.406 140.152C673.686 140.168 674.966 140.086 676.23 139.904C678.725 139.574 681.22 138.799 683.699 138.816C693.481 138.915 703.281 139.278 713.063 139.525C713.572 139.525 714.097 139.525 714.623 139.476C718.956 139.129 723.289 138.783 727.639 138.453C727.639 138.535 727.672 138.618 727.688 138.7C729.133 138.403 730.643 138.288 731.989 137.76C736.191 136.127 736.174 131.954 736.585 128.589C737.192 123.74 737.011 118.742 736.798 113.826L736.814 113.843Z" fill="#C87E62" />
+	</svg>
+</div>
+			</div>
+		</div>
+			<div class="row my-5">
+			</div>
+
+	</div>
+
+</div>
+    </main>
+
+    <div class="modal fade" id="popupModal" tabindex="-1" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content bg-secondary">
+                <div class="modal-header pb-0">
+                    <h5 class="modal-title d-none" id="popupModalTitle"></h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Luk">
+                    </button>
+                </div>
+                <div class="modal-body" id="popupModalBody"></div>
+            </div>
+        </div>
+    </div>
+
+    
+
+<footer class="footer hide-app">
+		<img class="footer-paper" src="/files/images/footer-paper.png" />
+	
+
+	<div class="footer-top">
+		<div class="left-footer-bg"></div>
+		<div class="right-footer-bg d-none d-xl-block"></div>
+		<div class="container footer-top-inner-container">
+			<div class="row">
+				<div class="col-12 col-xl-8 position-relative">
+					<div class="left-footer-inner-bg"></div>
+				</div>
+				<div class="d-none d-xl-block col-4 position-relative">
+					<div class="right-footer-inner-bg"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer-main">
+		<div class="left-bg"></div>
+		<div class="right-bg d-none d-xl-block"></div>
+		<div class="footer-content">
+			<div class="container">
+				<div class="row">
+					<div class="col-12 col-lg-8 left-footer-content pt-6">
+						<div class="row mb-4">
+							<div class="col-12 col-lg-5 mb-5 mb-xl-0">
+									
+
+<div class="media-container footer-logo pe-4">
+		<picture>
+					<img src="https://cdn.jellingmusikfestival.dk/media/h1zjjs1e/jmf_footer-logo_medium.svg?rmode=pad&amp;width=1000&amp;quality=80&amp;v=1da7c654d016890" alt="JMF Footer Logo Medium" />
+		</picture>
+</div>
+
+							</div>
+							<div class="col-12 col-lg-7 text-white">
+								<div class="row">
+									<div class="col-12 col-lg-6 mb-4">
+										<h6 class="text-light text-14">Festivalplads</h6>
+										<div class="textarea text-14">M&#xF8;lvangvej 66B&#xA;DK-7300 Jelling</div>
+									</div>
+									<div class="col-12 col-lg-6 mb-4">
+										<h6 class="text-light text-14">Kontor/post</h6>
+										<div class="textarea text-14">Byens Hus&#xA;M&#xF8;llegade 10, 1. sal&#xA;DK-7300 Jelling</div>
+									</div>
+									<div class="col-12 col-lg-6">
+										<h6 class="text-light text-14">Kontakt</h6>
+										<div>
+											<div class="footer-phone text-14">(&#x2B;45) 7587 2888</div>
+											<div class="footer-email text-14">info@jellingmusikfestival.dk</div>
+										</div>
+									</div>
+									<div class="col-12 col-lg-6">
+										<div class="d-flex flex-column">
+													<a href="https://cdn.jellingmusikfestival.dk/media/vz1h5xmb/2025-08-13-privatlivspolitik-til-hjemmesiden-aug25.pdf" class="text-secondary fw-medium text-decoration-none text-14" target="_blank">Privatlivspolitik</a>
+													<a href="/cookiepolitik/" class="text-secondary fw-medium text-decoration-none text-14">Cookiepolitik</a>
+													<a href="/tilgaengelighed/" class="text-secondary fw-medium text-decoration-none text-14">Tilg&#xE6;ngelighed</a>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-12 col-lg-4 right-footer-content pt-6 pb-6">
+						<div class="ps-lg-4 pe-md-6">
+									<a href="/til-artister/" class="btn btn-info rounded-0 text-white fw-bold text-uppercase w-100 text-18">Artist-info</a>
+									<a href="https://selfcare.jellingmusikfestival.dk/dk/login/" target="_blank" class="btn btn-outline-info mt-3 rounded-0 text-white fw-bold text-uppercase w-100 text-18">Frivillig-login</a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+
+    <script integrity="sha512-X/YkDZyjTf4wyc2Vy16YGCPHwAY8rZJY+POgokZjQB2mhIRFJCckEGc6YyX9eNsPfn0PzThEuNs+uaomE5CO6A==" crossorigin="anonymous" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.2/js/bootstrap.bundle.min.js"></script>
+
+    <script integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script integrity="sha512-q11YPKX7TkRW0J1N8w1MP7cg05EpUDRx5B/jTnPPQxY4lsIjGd5fMyBKzjCgbXPQ0ArBgFkNj2v0jh1O2SAqSg==" crossorigin="anonymous" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.0/jquery.validate.min.js"></script>
+
+    <script integrity="sha512-EanukVTZc4W9tUCLnDl069Izidg49PcNRKO1upLzKt9ajq66i+bXOtlzXcIbRhb6vVEGF6BCc8wQi5T1ztCpTQ==" crossorigin="anonymous" referrerpolicy="no-referrer" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+
+    
+
+    <script src="/sb/app.js.vf5da3da1c7d2366f946356175aaab70485b94754"></script>
+
+    
+
+    <script type="text/javascript">
+        window.addEventListener('CookieScriptLoaded', function () {
+
+
+            window.setTimeout(function () {
+                ((d, i, m) => {
+                    ct = t => d.createTextNode(t);
+                    ce = e => d.createElement(e);
+                    d.querySelectorAll(i).forEach(e => {
+                        const a = ce('a'),
+                            div = ce('div'),
+                            p = ce('p'),
+                            s = e.dataset.src,
+                            o = e.src,
+                            sp = /google\.com\/maps\/embed/.test(s) ? 'Google Maps' :
+                                /player\.vimeo\.com\/video\//.test(s) ? 'Vimeo' :
+                                    /youtube\.com\/embed\//.test(s) ? 'YouTube' :
+                                        /open\.spotify\.com\/embed\//.test(s) ? 'Spotify' : undefined,
+                            op = /jellingmusikfestival\.dk\//.test(o) ? true : false
+
+                        if (!op) return;
+
+                        if (!sp) return;
+
+                        div.innerHTML = `<div style="background-color:#CCC;display:inline-block;height:${e.height}px;position:relative;width:100%;">` +
+                            '<div style="background-color:#848484;border-radius:15px;height:50%;position:absolute;transform:translate(50%,50%);width:50%;">' +
+                            '<p style="color:#FFF;font-size:7.5em;position:relative;top:50%;left:50%;margin:0;text-align:center;transform:translate(-50%,-50%);">&ctdot;</p>' +
+                            '</div>';
+
+                        div.classList.add(`cookieconsent-optout-${m}`);
+                        a.textContent = `Accepter Målretning cookies`;
+                        a.href = 'javascript:CookieScript.instance.show() ';
+                        p.append(ct(''), a, ct(` for at se dette ${sp} indhold.`));
+                        div.append(p);
+                        e.parentNode.insertBefore(div, e);
+                    });
+                })(document, 'iframe[data-src]', 'targeting');
+            }, 500);
+
+        });
+
+
+    </script>
+
+</body>
+</html>

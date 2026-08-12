@@ -1,0 +1,2473 @@
+<!DOCTYPE html>
+<html lang="da" data-integer-separator="." data-decimal-separator=",">
+<head>
+    <meta charset="UTF-8">
+
+
+    <title>MCH A/S</title>
+<!--
+Copyright © 2014 Co3 A/S. Alle rettigheder forbeholdes.
+
+Co3 A/S
+Strøget 40
+DK-7430 Ikast
++45 9725 0333
+www.co3.dk
+-->
+
+
+    <meta name="viewport" content=" width=device-width, initial-scale=1.0">
+
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link href="/Files/Templates/Designs/mch/assets/css/preloader.css" type="text/css" rel="stylesheet">
+    <link href="/Files/Templates/Designs/mch/assets/css/default.css?v=1.013" type="text/css" rel="stylesheet">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+
+    
+
+    <meta name="description" content="Oplevelser for alle siden 1954. Messer, 
+mesterskaber, musik, m&#248;der - og alt derimellem." />
+<base href="https://www.mch.dk/" />
+<meta name="keywords" content="MCH, Messe, Messecenter, Herning, Koncert, Teater, Show, Mesterskaber, Sport, Messe, B&#248;rn, Voksne, Jyske, Boxen, Foredrag, kongrescenter, jyske bank boxen, " />
+<meta name="generator" content="Dynamicweb 8" />
+
+
+
+    
+    <link rel="shortcut icon" href="/Files/System/espresso/mch_favicon.ico">
+    
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.1.0/respond.min.js"></script>
+    <![endif]-->
+    <meta name="facebook-domain-verification" content="pjain49idjn29wba9i5e7ioqwwu5g4">
+    <meta name="google-site-verification" content="8OnT3MgnE0PokigxZYhk8QsWE4OcLH4UnwEQ0AO16oo">
+
+
+    
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.mch.dk/">
+    <meta property="og:title" content="MCH A/S">
+    <meta property="og:description" content="Oplevelser for alle siden 1954. Messer, 
+mesterskaber, musik, møder - og alt derimellem.">
+    <meta property="og:image" content="https://www.mch.dk/Files/Templates/Designs/mch/assets/img/logo.png">
+    
+    
+
+
+    
+
+    <!-- Google Tag Manager -->
+     <script>!function(){"use strict";function l(e){for(var t=e,r=0,n=document.cookie.split(";");r<n.length;r++){var o=n[r].split("=");if(o[0].trim()===t)return o[1]}}function s(e){return localStorage.getItem(e)}function u(e){return window[e]}function d(e,t){e=document.querySelector(e);return t?null==e?void 0:e.getAttribute(t):null==e?void 0:e.textContent}var e=window,t=document,r="script",n="dataLayer",o="KZBX57",a="https://ss.mch.dk",i="",c="qclwueik",E="stapeUserId",I="",v="",g=!1;try{var g=!!E&&(m=navigator.userAgent,!!(m=new RegExp("Version/([0-9._]+)(.*Mobile)?.*Safari.*").exec(m)))&&16.4<=parseFloat(m[1]),A="stapeUserId"===E,f=g&&!A?function(e,t,r){void 0===t&&(t="");var n={cookie:l,localStorage:s,jsVariable:u,cssSelector:d},t=Array.isArray(t)?t:[t];if(e&&n[e])for(var o=n[e],a=0,i=t;a<i.length;a++){var c=i[a],c=r?o(c,r):o(c);if(c)return c}else console.warn("invalid uid source",e)}(E,I,v):void 0;g=g&&(!!f||A)}catch(e){console.error(e)}var m=e,E=(m[n]=m[n]||[],m[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"}),t.getElementsByTagName(r)[0]),I="dataLayer"===n?"":"&l="+n,v=f?"&bi="+encodeURIComponent(f):"",A=t.createElement(r),e=g?"kp"+c:c,n=!g&&i?i:a;A.async=!0,A.src=n+"/"+e+".js?st="+o+I+v+"",null!=(f=E.parentNode)&&f.insertBefore(A,E)}();</script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Retargeting-pixel -->
+    
+
+    <!-- Chatbot / START -->
+    <script src="https://files.userlink.ai/public/embed.min.js" charset="utf-8" id="bai-scr-emb" data-cid="6825d5e966b2f83b38ec2f18" async="" domain="mch.dk"></script>
+    <!-- Chatbot / END -->
+
+</head>
+
+
+<body>
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://ss.mch.dk/ns.html?id=GTM-KZBX57" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--@DwCookieWarning-->
+
+
+<div class="e-nav-global-top js-e-nav-global-top">
+  <div class="navbar navbar-inverse">
+    <div class="navbar-inner">
+      <div class="container">
+
+<a href="/" class="e-logo pull-left">
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 841.9 382.4" style="enable-background:new 0 0 841.9 382.4;" xml:space="preserve">
+
+<path class="mch-logo" d="M580.9,225l-16.4,4.5c-12.5,3.3-26,6.3-39.8,6.3c-20.2,0-26.6-5.3-29.9-9.8c-5-7-7.3-19.2-7.3-39.7
+  c0-20.5,2.3-32.7,7.3-39.7c3.3-4.6,9.7-9.9,29.9-9.9c13.8,0,27.3,3,39.7,6.3c0.1,0,16.4,4.5,16.4,4.5l1.6-6.8l8.9-37.6l-14.3-5.6
+  c-16.5-5.9-35.9-8.9-57.6-8.9c-32.8,0-54.8,7.9-69.3,25c-13.3,15.7-19.6,38.7-19.7,72.5c0,18.8,2,34.3,6,47c0.3,0,0.5,0.1,0.8,0.1
+  c12.9,2.3,21,13.2,27.2,23.5l0.6,1c0.5,0.9,1.2,1.9,1.6,2.7c0.2,0,0.3,0,0.5-0.1c3.5-0.6,7.1-0.9,10.5-0.9c17,0,30,7.5,35.5,20.5
+  c0.5,1.3,1,2.5,1.3,3.8c1.6,0,3.2,0.1,4.9,0.1c21.7,0,41.1-3,57.6-8.9l14.4-5.6l-1.4-5.7L580.9,225z"></path>
+<path class="mch-logo" d="M840.4,283.9l0-188.3c0,0-58.1-7.5-60.7-7.8c-2.6-0.3-2.3,1.7-2.3,5.6V187c0,4.9-4,8.9-8.9,8.9h-17.8h-49.2
+  h-17.8c-4.9,0-8.9-4-8.9-8.9V93.4c0-3.9,0.3-5.9-2.3-5.6c-2.6,0.3-60.7,7.8-60.7,7.8l0,188.3h63.1v-31.5c0.1-4.8,4-8.7,8.9-8.7h17.8
+  h49.2h17.8c4.8,0,8.7,3.9,8.9,8.7v31.5H840.4z"></path>
+<path class="mch-logo" d="M414.3,239.8c0.4-0.5,0.9-0.9,1.4-1.3l-11.5-136.8c-0.4-4.4-3.8-7.9-8.1-7.9h-94c-4.7,0-8.1,3.9-8.9,7.9
+  l-29,108.6l-3.4,12.4c-2,9.2-4.3,4.9-5.4,2l-32.1-123c-0.8-3.9-4.3-7.9-8.9-7.9h-94c-4.3,0-7.7,3.5-8.1,7.9L96.9,283.9h59
+  c0,0,9.2-139.8,9.4-142.9c0.5-7.5,1.5-11.8,6.4-11.8c2.6,0,5.2,0.9,9.1,14.3c3.7,12.5,41.3,140.4,41.3,140.4h72.1
+  c0,0,37.6-127.9,41.3-140.4c3.9-13.4,6.4-14.3,9.1-14.3c4.9,0,5.9,4.3,6.4,11.8c0.2,3.1,9.4,142.9,9.4,142.9h0h51.9
+  c-2.9-7.9-5.3-16.5-5.4-24.6C406.9,251.6,409.4,244.7,414.3,239.8z"></path>
+<path class="mch-logo" d="M503.9,281.4c-0.1-0.2-0.3-0.4-0.4-0.7c-0.3-0.5-0.6-1-0.9-1.4c-0.2-0.2-0.3-0.4-0.5-0.7
+  c-0.3-0.4-0.7-0.9-1.1-1.3c-0.2-0.2-0.3-0.3-0.5-0.5c-0.5-0.6-1.1-1.1-1.7-1.6c-0.1,0-0.1-0.1-0.2-0.1c-0.5-0.4-1.1-0.9-1.6-1.2
+  c-0.2-0.1-0.4-0.3-0.6-0.4c-0.4-0.3-0.9-0.6-1.4-0.8c-0.2-0.1-0.5-0.3-0.7-0.4c-0.5-0.3-1-0.5-1.5-0.7c-0.2-0.1-0.4-0.2-0.6-0.3
+  c-0.7-0.3-1.4-0.6-2.2-0.8c-0.1,0-0.2-0.1-0.4-0.1c-0.6-0.2-1.3-0.4-1.9-0.5c-0.2-0.1-0.5-0.1-0.8-0.2c-0.5-0.1-1.1-0.2-1.6-0.3
+  c-0.3,0-0.5-0.1-0.8-0.1c-0.6-0.1-1.2-0.2-1.8-0.2c-0.2,0-0.4,0-0.6-0.1c-0.8-0.1-1.6-0.1-2.5-0.2c-0.2,0-0.3,0-0.5,0
+  c-0.7,0-1.3,0-2,0c-0.3,0-0.6,0-0.9,0c-0.6,0-1.1,0-1.7,0.1c-0.3,0-0.6,0-0.9,0.1c-0.6,0-1.2,0.1-1.8,0.2c-0.3,0-0.5,0.1-0.8,0.1
+  c-0.8,0.1-1.7,0.2-2.5,0.4c-0.4,0.1-0.7,0.1-1.1,0.2c-0.1,0-0.2,0-0.3,0c-0.3,0-0.6,0.1-0.9,0.1c0,0-0.1,0-0.1,0c-0.2,0-0.5,0-0.7,0
+  c0,0-0.1,0-0.1,0c-0.1,0-0.2,0-0.3,0c-0.2,0-0.4,0-0.5,0c-0.1,0-0.2,0-0.3,0c-0.2,0-0.3-0.1-0.5-0.1c-0.1,0-0.2,0-0.3-0.1
+  c-0.2-0.1-0.4-0.1-0.6-0.2c0,0-0.1,0-0.1,0c-0.2-0.1-0.4-0.2-0.6-0.3c-0.1,0-0.1-0.1-0.2-0.1c-0.1-0.1-0.3-0.2-0.4-0.3
+  c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.2-0.2-0.4-0.3c-0.1-0.1-0.1-0.1-0.2-0.2c-0.1-0.1-0.2-0.3-0.4-0.4c-0.1-0.1-0.1-0.1-0.2-0.2
+  c-0.2-0.2-0.3-0.4-0.5-0.6c0,0,0,0,0,0c-0.2-0.2-0.4-0.5-0.5-0.8c-0.1-0.1-0.1-0.2-0.2-0.2c-0.1-0.2-0.3-0.4-0.4-0.6
+  c-0.1-0.1-0.1-0.2-0.2-0.3c-0.1-0.2-0.3-0.4-0.4-0.7c-0.1-0.1-0.1-0.2-0.2-0.3c-0.2-0.3-0.3-0.6-0.5-0.9c-0.3-0.4-0.5-0.9-0.8-1.3
+  c-5-8.3-11.6-17.6-21.1-19.3c-0.7-0.1-1.5-0.2-2.2-0.3c-0.2,0-0.4,0-0.7,0c-0.5,0-0.9,0-1.4,0c-0.3,0-0.5,0-0.8,0
+  c-0.4,0-0.8,0-1.2,0.1c-0.3,0-0.5,0.1-0.8,0.1c-0.4,0.1-0.7,0.1-1.1,0.2c-0.2,0.1-0.5,0.1-0.7,0.2c-0.3,0.1-0.7,0.2-1,0.3
+  c-0.2,0.1-0.5,0.2-0.7,0.3c-0.3,0.1-0.6,0.3-0.9,0.4c-0.2,0.1-0.4,0.2-0.6,0.3c-0.3,0.2-0.6,0.4-0.9,0.6c-0.2,0.1-0.3,0.2-0.5,0.3
+  c-0.4,0.3-0.8,0.7-1.2,1c0,0-0.1,0.1-0.1,0.1c-0.4,0.4-0.7,0.7-1,1.1c-0.1,0.1-0.2,0.3-0.4,0.5c-0.2,0.3-0.4,0.6-0.6,0.9
+  c-0.1,0.2-0.2,0.4-0.4,0.6c-0.2,0.3-0.3,0.6-0.5,0.9c-0.1,0.2-0.2,0.4-0.3,0.6c-0.1,0.3-0.3,0.6-0.4,0.9c-0.1,0.2-0.2,0.5-0.3,0.7
+  c-0.1,0.3-0.2,0.6-0.3,1c-0.1,0.2-0.1,0.5-0.2,0.7c-0.1,0.3-0.2,0.7-0.2,1.1c0,0.2-0.1,0.5-0.1,0.7c-0.1,0.4-0.1,0.8-0.1,1.2
+  c0,0.2,0,0.4-0.1,0.6c0,0.6-0.1,1.2,0,1.9c0.3,15.9,11.1,35.3,14.3,44.9c3.2,9.6,2.5,15,2.5,15s1.8-1.8,1.7-7.3
+  c-0.2-5.5-1.5-11-4.1-17.1c-9.3-22.5-5-34.4,6.7-35.7c0.4,0,0.8-0.1,1.2-0.1c0.1,0,0.1,0,0.2,0c0.2,0,0.4,0,0.7,0
+  c0.3,0,0.6,0,0.8,0.1c0.2,0,0.4,0.1,0.7,0.1c0.3,0.1,0.5,0.1,0.8,0.2c0.2,0.1,0.4,0.1,0.6,0.2c0.2,0.1,0.5,0.2,0.7,0.3
+  c0.2,0.1,0.4,0.2,0.6,0.3c0.2,0.1,0.5,0.2,0.7,0.4c0.2,0.1,0.4,0.2,0.6,0.4c0.2,0.1,0.4,0.3,0.7,0.4c0.2,0.1,0.4,0.3,0.6,0.4
+  c0.2,0.2,0.4,0.3,0.6,0.5c0.2,0.2,0.4,0.3,0.5,0.5c0.2,0.2,0.4,0.4,0.6,0.6c0.2,0.2,0.3,0.3,0.5,0.5c0.2,0.2,0.4,0.4,0.6,0.6
+  c0.2,0.2,0.3,0.4,0.5,0.6c0.2,0.2,0.3,0.4,0.5,0.7c0.2,0.2,0.3,0.4,0.4,0.6c0.2,0.2,0.3,0.5,0.5,0.7c0.1,0.2,0.3,0.4,0.4,0.6
+  c0.2,0.2,0.3,0.5,0.5,0.7c0.1,0.2,0.3,0.4,0.4,0.6c0.2,0.3,0.3,0.5,0.4,0.8c0.1,0.2,0.2,0.4,0.3,0.6c0.2,0.3,0.3,0.5,0.4,0.8
+  c0.1,0.2,0.2,0.4,0.3,0.6c0.2,0.3,0.3,0.6,0.5,0.9c0.1,0.2,0.2,0.3,0.2,0.5c0.2,0.4,0.4,0.9,0.6,1.3c0.2,0.4,0.4,0.8,0.6,1.1
+  c0.1,0.1,0.1,0.2,0.2,0.3c0.2,0.3,0.3,0.5,0.5,0.7c0.1,0.1,0.1,0.2,0.2,0.3c0.2,0.3,0.4,0.5,0.7,0.8c0,0,0.1,0.1,0.1,0.1
+  c0.2,0.2,0.4,0.4,0.6,0.5c0.1,0.1,0.2,0.1,0.2,0.2c0.2,0.1,0.4,0.2,0.6,0.3c0.1,0,0.1,0.1,0.2,0.1c0.3,0.1,0.5,0.2,0.8,0.3
+  c0.1,0,0.1,0,0.2,0c0.2,0.1,0.5,0.1,0.7,0.1c0.1,0,0.2,0,0.3,0c0.2,0,0.5,0,0.7,0c0.1,0,0.2,0,0.2,0c0.3,0,0.6,0,1,0
+  c0.1,0,0.2,0,0.3,0c0.3,0,0.5-0.1,0.8-0.1c0.1,0,0.2,0,0.4-0.1c0.3,0,0.5-0.1,0.8-0.2c0.1,0,0.2,0,0.3-0.1c0.4-0.1,0.8-0.2,1.2-0.3
+  c0.7-0.2,1.3-0.3,2-0.5c0.2,0,0.4-0.1,0.6-0.1c0.4-0.1,0.9-0.2,1.3-0.2c0.2,0,0.4-0.1,0.7-0.1c0.4,0,0.8-0.1,1.1-0.1
+  c0.2,0,0.4,0,0.6,0c0.4,0,0.7,0,1.1,0c0.1,0,0.3,0,0.4,0c0.1,0,0.1,0,0.2,0c0.2,0,0.3,0,0.5,0c0.3,0,0.5,0,0.8,0c0.2,0,0.3,0,0.5,0
+  c0.3,0,0.5,0.1,0.7,0.1c0.2,0,0.3,0,0.5,0.1c0.2,0,0.5,0.1,0.7,0.1c0.1,0,0.3,0.1,0.4,0.1c0.3,0.1,0.6,0.2,0.9,0.2
+  c0.1,0,0.1,0,0.2,0.1c0.3,0.1,0.7,0.2,1,0.4c0.1,0,0.2,0.1,0.3,0.1c0.2,0.1,0.4,0.2,0.6,0.3c0.1,0.1,0.2,0.1,0.4,0.2
+  c0.2,0.1,0.3,0.2,0.5,0.3c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.1,0.3,0.2,0.5,0.3c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.1,0.3,0.2,0.5,0.4
+  c0.1,0.1,0.2,0.1,0.3,0.2c0.2,0.2,0.4,0.4,0.6,0.6c0,0,0.1,0.1,0.1,0.1c0.2,0.2,0.3,0.3,0.5,0.5c0.1,0.1,0.1,0.2,0.2,0.3
+  c0.1,0.1,0.2,0.3,0.3,0.4c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.1,0.2,0.3,0.3,0.4c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.2,0.2,0.3,0.2,0.5
+  c0.1,0.1,0.1,0.2,0.2,0.3c0.1,0.2,0.2,0.4,0.2,0.5c0,0.1,0.1,0.2,0.1,0.3c0.1,0.3,0.2,0.5,0.3,0.8c0,0.1,0,0.2,0.1,0.2
+  c0.1,0.2,0.1,0.4,0.1,0.6c0,0.1,0,0.2,0.1,0.3c0,0.2,0.1,0.3,0.1,0.5c0,0.1,0,0.2,0.1,0.3c0,0.2,0,0.3,0.1,0.5c0,0.1,0,0.2,0,0.3
+  c0,0.2,0,0.4,0,0.5c0,0.1,0,0.2,0,0.3c0,0.2,0,0.4,0,0.7c0,0.1,0,0.1,0,0.2c0,0.3,0,0.6-0.1,0.8c0,0.1,0,0.2,0,0.2
+  c0,0.2-0.1,0.4-0.1,0.6c0,0.1,0,0.2-0.1,0.3c0,0.2-0.1,0.4-0.1,0.5c0,0.1-0.1,0.2-0.1,0.3c0,0.2-0.1,0.3-0.1,0.5
+  c0,0.1-0.1,0.2-0.1,0.3c-0.1,0.2-0.1,0.4-0.2,0.5c0,0.1-0.1,0.2-0.1,0.3c-0.1,0.3-0.2,0.5-0.3,0.8c-4.2,8.7-11.5,11.6-24.6,18.1
+  c-13.6,6.7-27.8,17.5-29.7,25.8c8.7-12.6,23.9-17.4,38.9-21.2c28.7-7.1,40.2-20.1,33.8-35.2C504.7,282.8,504.3,282.1,503.9,281.4z"></path>
+</svg>
+
+</a>
+
+
+
+        <div class="search-toggle hidden-phone pull-right"><i class="icon-search icon-large"></i></div>
+
+        <button type="button" class="btn mch-menu-burger hidden-desktop pull-right" data-toggle="collapse" data-target=".e-nav-global-top .nav-collapse"> <i class="icon-reorder icon-large"></i>
+        </button>
+
+
+        <div class="nav-collapse collapse">
+          <ul class="nav">
+            <li class="inpath active active ">
+  <a href="/" title="Forside - MCH Messecenter Herning" class="notext ">
+    <i class="icon-home notext icon-large"> </i>  </a>
+</li>
+<li class="dropdown ">
+  <a href="http://#" class="dropdown-toggle " data-toggle="dropdown">Oplevelser <i class=" icon-angle-down "> </i></a>
+  <ul class="dropdown-menu">
+    <li>
+      <a href="/oplevelser/for-boern">For børn</a>
+    </li>
+    <li>
+      <a href="/oplevelser/foredrag">Foredrag</a>
+    </li>
+    <li>
+      <a href="/oplevelser/koncerter">Koncerter</a>
+    </li>
+    <li>
+      <a href="/oplevelser/mesterskaber-sport">Mesterskaber &amp; Sport</a>
+    </li>
+    <li>
+      <a href="/oplevelser/teater-og-show">Teater og show</a>
+    </li>
+    <li>
+      <a href="/oplevelser/mch-musical">MCH Musical</a>
+    </li>
+    <li>
+      <a href="/oplevelser/andet">Andet</a>
+    </li>
+    <li>
+      <a href="/oplevelser/se-alle">Se alle</a>
+    </li>
+    <li>
+      <a href="/oplevelser/billetsalg">Billetsalg</a>
+    </li>
+    <li>
+      <a href="/oplevelser/student-tickets">Student Tickets</a>
+    </li>
+    <li>
+      <a href="/oplevelser/gavekort">Gavekort</a>
+    </li>
+  </ul>
+</li>
+<li>
+  <a href="/messer">Messer</a>
+</li>
+<li class="dropdown ">
+  <a href="http://#" class="dropdown-toggle " data-toggle="dropdown">Møder | Kongresser | Fester <i class=" icon-angle-down "> </i></a>
+  <ul class="dropdown-menu">
+    <li>
+      <a href="/moeder-kongresser-fester/mch-som-vaert-1">MCH som vært</a>
+    </li>
+    <li>
+      <a href="/moeder-kongresser-fester/moeder">Møder</a>
+    </li>
+    <li>
+      <a href="/moeder-kongresser-fester/firmafester">Firmafester</a>
+    </li>
+    <li>
+      <a href="/moeder-kongresser-fester/kongresser">Kongresser</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown ">
+  <a href="http://#" class="dropdown-toggle " data-toggle="dropdown">Nyheder | Presse <i class=" icon-angle-down "> </i></a>
+  <ul class="dropdown-menu">
+    <li>
+      <a href="/nyheder-presse/alle-nyheder">Alle nyheder</a>
+    </li>
+    <li>
+      <a href="/nyheder-presse/video">Video</a>
+    </li>
+    <li>
+      <a href="/nyheder-presse/download">Download</a>
+    </li>
+    <li>
+      <a href="/nyheder-presse/pressekontakt">Pressekontakt</a>
+    </li>
+  </ul>
+</li>
+<li class="dropdown ">
+  <a href="http://#" class="dropdown-toggle " data-toggle="dropdown">Om os <i class=" icon-angle-down "> </i></a>
+  <ul class="dropdown-menu">
+    <li>
+      <a href="/om-os/koncernen">Koncernen</a>
+    </li>
+    <li>
+      <a href="/om-os/partnerskaber">Partnerskaber</a>
+    </li>
+    <li>
+      <a href="/om-os/lokationer">Lokationer</a>
+    </li>
+    <li>
+      <a href="/om-os/restauranter-i-mch">Restauranter i MCH</a>
+    </li>
+    <li>
+      <a href="/om-os/job-i-mch">Job i MCH</a>
+    </li>
+    <li>
+      <a href="/om-os/kulturcirklen">Kulturcirklen</a>
+    </li>
+    <li>
+      <a href="/om-os/nyhedsbrev">Nyhedsbrev</a>
+    </li>
+    <li>
+      <a href="https://mch.indberet.nu/">Whistleblower</a>
+    </li>
+    <li>
+      <a href="/om-os/baeredygtighed">Bæredygtighed</a>
+    </li>
+  </ul>
+</li>
+
+            
+
+          </ul>
+        </div>
+      </div>
+
+        <form action="/Default.aspx" class="e-search-form visible-phone" method="get"><input type="hidden" name="ID" value="1146" />
+          <div class="e-search-box">
+            <button type="submit" class="btn icon pull-left"><i class="icon-search"></i>
+            </button>
+            <input type="text" name="q" value="">
+          </div>
+        </form>
+
+    </div>
+  </div>
+
+<div class="hidden-phone">
+    <div class="mch-searchbar">
+      <form action="/Default.aspx" method="get"><input type="hidden" name="ID" value="1146" />
+      <button type="submit" class="btn icon pull-left"><i class="icon-search"></i></button>
+      <input class="pull-left" type="text" name="q" value="" placeholder="Søg på mch.dk">
+    </form>
+    </div>
+</div>
+
+</div>
+
+
+<style type="text/css">
+body,
+html {
+  background-color: #222;
+}
+</style>
+<div id="preloader">
+  <div class="loader-wrapper"></div>
+  <div class="loaderlogo">
+    <img src="/Files/Templates/Designs/mch/assets/img/mch-heart.png"> </div>
+  <div class="loader"></div>
+</div>
+<div class="grid-container" id="js-apsis-popup-blur">
+  <div id="dwcontent-fullscreen-grid-span12">
+    
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_LukasGraham-2027_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>lørdag 30. januar</h5>
+        <h5>2027 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/lukas-graham-30-1-2027" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/lukas-graham-30-1-2027" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_LukasGraham-2027_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>lørdag 30. januar 2027 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/lukas-graham-30-1-2027" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/DEN-EPS_Forsidebanner_1920x800px.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 4. november</h5>
+        <h5>2026 kl. 20:15</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/mesterskaber-sport/ehf-euro-cup-danmark-vs-spanien" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/mesterskaber-sport/ehf-euro-cup-danmark-vs-spanien" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/DEN-EPS_Forsidebanner_1920x800px.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 4. november 2026 kl. 20:15</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/mesterskaber-sport/ehf-euro-cup-danmark-vs-spanien" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU1_2026_Formland_Autumn_2026_forsidebanner_1920x800_mchdk.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH MESSECENTER HERNING</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>søndag 16. august - </h5>
+        <h5>tirsdag. 18 august</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://www.formland.dk/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://www.formland.dk/" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU1_2026_Formland_Autumn_2026_forsidebanner_1920x800_mchdk.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH MESSECENTER HERNING</h2>
+    <div class="event-date">
+      
+      
+      <h5>søndag 16. august - tirsdag 18. august</h5>
+      
+      
+    </div> <a class="btn-grid" href="https://www.formland.dk/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+<div class="js-item pct50" style="background-image: url('/files/templates/designs/mch/assets/img/front-news-bg.jpg');" data-sr="enter">
+  <img class="visible-desktop" style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" />
+  <div class="news-front">
+    <div class="news-front-content">
+      <h2>Nyheder <a href="/nyheder" class="pull-right"><span class="news-see-all-link">Se alle <span class="hidden-phone">nyheder</span> &nbsp;<i class="icon-angle-right"></i></span></a></h2>
+  
+      <h3>
+        <span class="news-date">
+          <span class="news-day">12</span><span class="news-sep">/</span>8
+        </span>
+        <a class="news-heading" href="/nyheder/formland-og-design-hub-denmark-samler-igen-branchen" title="Formland og Design Hub Denmark samler igen branchen">
+          Formland og Design Hub Denmark samler igen branchen
+        </a>
+      </h3>
+
+  
+      <h3>
+        <span class="news-date">
+          <span class="news-day">11</span><span class="news-sep">/</span>8
+        </span>
+        <a class="news-heading" href="/nyheder/haandboldherrerne-vender-tilbage-til-jyske-bank-boxen" title="Håndboldherrerne vender tilbage til Jyske Bank Boxen">
+          Håndboldherrerne vender tilbage til Jyske Bank Boxen
+        </a>
+      </h3>
+
+  
+      <h3>
+        <span class="news-date">
+          <span class="news-day">10</span><span class="news-sep">/</span>8
+        </span>
+        <a class="news-heading" href="/nyheder/automatik-messen-byder-paa-et-hoejaktuelt-konferenceprogram" title="Automatik-messen byder på et højaktuelt konferenceprogram">
+          Automatik-messen byder på et højaktuelt konferenceprogram
+        </a>
+      </h3>
+
+  
+    </div>
+    <div style="clear: both;"></div>
+  </div>
+</div>
+
+<div class="mch-shortcuts-wrapper hidden-phone">
+  <a href="/om-os/restauranter-i-mch">Restauranter i MCH &nbsp;<i class="icon-angle-right"></i></a>
+  <a href="/oplevelser/koncerter">Se alle koncerter &nbsp;<i class="icon-angle-right"></i></a>
+  <a href="/oplevelser/jyske-bank-boxen">Jyske bank boxen &nbsp;<i class="icon-angle-right"></i></a>
+  <a href="/oplevelser/se-alle">Se flere oplevelser &nbsp;<i class="icon-angle-right"></i></a>
+  <div style="clear:both;"></div>
+</div>
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Dalo2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH MESSECENTER HERNING</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 19. august - </h5>
+        <h5>torsdag. 20 august</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://www.daloindustrydays.dk/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://www.daloindustrydays.dk/" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Dalo2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH MESSECENTER HERNING</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 19. august - torsdag 20. august</h5>
+      
+      
+    </div> <a class="btn-grid" href="https://www.daloindustrydays.dk/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-Minecraft-31marts-forside_banner_1920x800.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Messecenter Herning</h2>
+      
+      <div class="event-date">
+        
+        <h5>Flere</h5>
+        <h5>datoer</h5>
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://www.minecraftexperience.com/denmark/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://www.minecraftexperience.com/denmark/" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-Minecraft-31marts-forside_banner_1920x800.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Messecenter Herning</h2>
+    <div class="event-date">
+      
+      <h5>Flere datoer</h5>
+      
+    </div> <a class="btn-grid" href="https://www.minecraftexperience.com/denmark/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-1920x800_Forsidebanner_JoeyMoe2026_TLR.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>lørdag 3. oktober</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/joey-moe-3-10-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/joey-moe-3-10-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-1920x800_Forsidebanner_JoeyMoe2026_TLR.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>lørdag 3. oktober 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/joey-moe-3-10-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_QueenMachine2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge bottomright" src="files/templates/designs/mch/assets/img/badge-faa-billetter-bottomright.png" alt="" />
+  
+  <div class="event-label visible-desktop righttop">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 13. november</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/queen-machine-13-11-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/queen-machine-13-11-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_QueenMachine2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge bottomright" src="files/templates/designs/mch/assets/img/badge-faa-billetter-bottomright.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 13. november 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/queen-machine-13-11-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/getticketsnow-1920x800_Forsidebanner_BryanAdams26_MOL-.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop rightbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>tirsdag 8. december</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/bryan-adams-08-12-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.4;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/bryan-adams-08-12-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/getticketsnow-1920x800_Forsidebanner_BryanAdams26_MOL-.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>tirsdag 8. december 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/bryan-adams-08-12-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.4;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_Faceoff26_TLR.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="AIRTOX Faceoff finals" />
+  
+  <div class="event-label visible-desktop rightbottom">
+    <div class="event-label-content">
+      <h1 >AIRTOX Faceoff finals</h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>lørdag 5. december</h5>
+        <h5>2026 kl. 13:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/mesterskaber-sport/airtox-faceoff-finals" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/mesterskaber-sport/airtox-faceoff-finals" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_Faceoff26_TLR.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="AIRTOX Faceoff finals" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1>AIRTOX Faceoff finals</h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>lørdag 5. december 2026 kl. 13:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/mesterskaber-sport/airtox-faceoff-finals" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_DisneyOnIce2027.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>Jyske Bank Boxen</h2>
+      
+      <div class="event-actions">
+        
+        <div class="event-date">
+        
+        
+        <h5>fredag 22. januar - </h5>
+        <h5>søndag 24. januar</h5>
+        
+        
+        </div>
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/disney-on-ice-2027" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/disney-on-ice-2027" >
+<div class="js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_DisneyOnIce2027.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>Jyske Bank Boxen</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 22. januar - søndag 24. januar</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/disney-on-ice-2027" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_TV2-2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge topleft" src="files/templates/designs/mch/assets/img/badge-venteliste-topleft.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>lørdag 7. november</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/tv-2-semi-akustisk-koncert-07-11-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/tv-2-semi-akustisk-koncert-07-11-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_TV2-2026_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge topleft" src="files/templates/designs/mch/assets/img/badge-venteliste-topleft.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>lørdag 7. november 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/tv-2-semi-akustisk-koncert-07-11-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2025_1920x800_Forsidebanner_Folkeklubben_DUO26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge bottomright" src="files/templates/designs/mch/assets/img/badge-faa-billetter-bottomright.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 6. november</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/folkeklubben-og-duo-06-11-26" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/folkeklubben-og-duo-06-11-26" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2025_1920x800_Forsidebanner_Folkeklubben_DUO26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge bottomright" src="files/templates/designs/mch/assets/img/badge-faa-billetter-bottomright.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 6. november 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/folkeklubben-og-duo-06-11-26" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-1920x800_Forsidebanner_Pil2026.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Pil" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 >Pil</h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>torsdag 29. oktober</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/pil-29-10-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/pil-29-10-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NY-1920x800_Forsidebanner_Pil2026.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Pil" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1>Pil</h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>torsdag 29. oktober 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/pil-29-10-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_alle-artister_KC-LINEUP-2026_KLN.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 30. oktober</h5>
+        <h5>2026 kl. 20:20</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/koncerter/kc-lineup-30-10-26" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/koncerter/kc-lineup-30-10-26" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_alle-artister_KC-LINEUP-2026_KLN.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 30. oktober 2026 kl. 20:20</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/koncerter/kc-lineup-30-10-26" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_WSS27_KLN-002.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-actions">
+        
+        <div class="event-date">
+        
+        
+        <h5>fredag 2. april - </h5>
+        <h5>søndag 18. april</h5>
+        
+        
+        </div>
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://mchmusical.dk/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://mchmusical.dk/" >
+<div class="js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/1920x800_Forsidebanner_WSS27_KLN-002.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 2. april - søndag 18. april</h5>
+      
+      
+    </div> <a class="btn-grid" href="https://mchmusical.dk/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_EvaJin_p_maanen26_SIT.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 25. november</h5>
+        <h5>2026 kl. 19:30</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/eva-jin-25-11-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/eva-jin-25-11-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/1920x800_Forsidebanner_EvaJin_p_maanen26_SIT.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 25. november 2026 kl. 19:30</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/eva-jin-25-11-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/ComedyBallroom26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge topleft" src="files/templates/designs/mch/assets/img/badge-venteliste-topleft.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 18. september</h5>
+        <h5>2026 kl. 20:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/comedy-ballroom-2026-18-09-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/comedy-ballroom-2026-18-09-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/ComedyBallroom26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <img class="badge topleft" src="files/templates/designs/mch/assets/img/badge-venteliste-topleft.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 18. september 2026 kl. 20:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/comedy-ballroom-2026-18-09-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NikolajStokholm2026.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop rightbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>torsdag 8. oktober</h5>
+        <h5>2026 kl. 18:30</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/nikolaj-stokholm-08-10-26-kl--18-30" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/nikolaj-stokholm-08-10-26-kl--18-30" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/NikolajStokholm2026.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>torsdag 8. oktober 2026 kl. 18:30</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/nikolaj-stokholm-08-10-26-kl--18-30" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2025_1920x800_Forsidebanner_MarkLeFevre2025.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 11. november</h5>
+        <h5>2026 kl. 18:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/mark-le-fevre-11-11-26" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/mark-le-fevre-11-11-26" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2025_1920x800_Forsidebanner_MarkLeFevre2025.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 11. november 2026 kl. 18:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/mark-le-fevre-11-11-26" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2027_1920x800_Forsidebanner_FrankHvam27_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>lørdag 8. maj</h5>
+        <h5>2027 kl. 19:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/frank-hvam-8-5-27-kl-19" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/frank-hvam-8-5-27-kl-19" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2027_1920x800_Forsidebanner_FrankHvam27_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>lørdag 8. maj 2027 kl. 19:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/frank-hvam-8-5-27-kl-19" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2026_1920x800_Forsidebanner_LindaP27_SIT.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 12. maj</h5>
+        <h5>2027 kl. 18:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/linda-p--12-05-27" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/linda-p--12-05-27" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2026_1920x800_Forsidebanner_LindaP27_SIT.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 12. maj 2027 kl. 18:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/linda-p--12-05-27" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2026_1920x800_Forsidebanner_NikolajJ-2027_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Nikolaj Jacobsen" />
+  
+  <div class="event-label visible-desktop rightbottom">
+    <div class="event-label-content">
+      <h1 >Nikolaj Jacobsen</h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-actions">
+        
+        <div class="event-date">
+        
+        
+        <h5>tirsdag 23. februar</h5>
+        <h5>2027 kl. 19:00</h5>
+        
+        
+        </div>
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/foredrag/nikolaj-jacobsen-23-02-2027" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/foredrag/nikolaj-jacobsen-23-02-2027" >
+<div class="js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2027/Arrangementer_BU2_2026_1920x800_Forsidebanner_NikolajJ-2027_MOL.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Nikolaj Jacobsen" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1>Nikolaj Jacobsen</h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>tirsdag 23. februar 2027 kl. 19:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/foredrag/nikolaj-jacobsen-23-02-2027" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_AndersLundMadsen26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Anders Lund Madsen " />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 >Anders Lund Madsen </h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>onsdag 28. oktober</h5>
+        <h5>2026 kl. 19:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/foredrag/anders-lund-madsen-28-10-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/foredrag/anders-lund-madsen-28-10-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_AndersLundMadsen26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Anders Lund Madsen " />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1>Anders Lund Madsen </h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>onsdag 28. oktober 2026 kl. 19:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/foredrag/anders-lund-madsen-28-10-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_KM_Lillelund26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Karen-Marie Lillelund" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 >Karen-Marie Lillelund</h1>
+      
+      <h2>MCH Herning Kongrescenter</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>mandag 7. september</h5>
+        <h5>2026 kl. 19:00</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/foredrag/karen-marie-lillielund-7-09-2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/foredrag/karen-marie-lillielund-7-09-2026" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_KM_Lillelund26_ULG.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="Karen-Marie Lillelund" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1>Karen-Marie Lillelund</h1>
+    
+    <h2>MCH Herning Kongrescenter</h2>
+    <div class="event-date">
+      
+      
+      <h5>mandag 7. september 2026 kl. 19:00</h5>
+      
+      
+    </div> <a class="btn-grid" href="/oplevelser/foredrag/karen-marie-lillielund-7-09-2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_Julefrokost26_EarlyBird_SITny.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2></h2>
+      
+      <div class="event-actions">
+        
+        <div class="event-date">
+        
+        <h5>Flere</h5>
+        <h5>datoer</h5>
+        
+        </div>
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="/oplevelser/teater-og-show/aarets_julefrokost_2026" >Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="/oplevelser/teater-og-show/aarets_julefrokost_2026" >
+<div class="js-item pct100" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU2_2026_1920x800_Forsidebanner_Julefrokost26_EarlyBird_SITny.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2></h2>
+    <div class="event-date">
+      
+      <h5>Flere datoer</h5>
+      
+    </div> <a class="btn-grid" href="/oplevelser/teater-og-show/aarets_julefrokost_2026" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU1_BoligMadDesign_2026_MCHbanner.png&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop lefttop">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2>MCH MESSECENTER HERNING</h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 2. oktober - </h5>
+        <h5>søndag. 4 oktober</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://boligmaddesign.dk/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://boligmaddesign.dk/" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Arrangementer_BU1_BoligMadDesign_2026_MCHbanner.png&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2>MCH MESSECENTER HERNING</h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 2. oktober - søndag 4. oktober</h5>
+      
+      
+    </div> <a class="btn-grid" href="https://boligmaddesign.dk/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+
+<!--If Not(Global:Device.IsMobile=='True')-->
+<div class="devema1 visible-desktop visible-tablet js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Messer_1920x800_Elbilmessen26_Forsidebanner_KLN.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+  <div class="event-label visible-desktop leftbottom">
+    <div class="event-label-content">
+      <h1 ></h1>
+      
+      <h2></h2>
+      
+      <div class="event-date">
+        
+        
+        <h5>fredag 2. oktober - </h5>
+        <h5>søndag. 4 oktober</h5>
+        
+        
+      </div>
+      
+      <div class="event-actions">
+        
+        <span class="event-buttons"> 
+          <a class="btn-grid" href="https://www.elbilmessen.dk/" target="_blank">Se mere her</a>
+          
+            
+          
+        </span>
+      </div>
+      <div style="clear: both;"></div>
+    </div>
+    <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+  </div>
+  <span class="event-overlay hidden-phone"></span>
+</div>
+<!--Else-->
+<a class="visible-phone" href="https://www.elbilmessen.dk/" >
+<div class="js-item pct50" style="background-image: url('/admin/public/getimage.ashx?image=/Files/Images/forside/2026/Messer_1920x800_Elbilmessen26_Forsidebanner_KLN.jpg&amp;height=800&amp;compression=70');" data-sr="enter">
+  <img style="visibility: hidden;" src="files/templates/designs/mch/assets/img/placeholder.png" alt="" />
+  
+</div>
+</a>
+<!--EndIf-->
+
+
+
+
+
+
+
+<!--If(Global:Device.IsMobile=='True')-->
+<!-- MOBILE LABEL -->
+<div class="devema3 js-item visible-phone">
+<div class="event-label visible-phone">
+  <div class="event-label-content">
+    <h1></h1>
+    
+    <h2></h2>
+    <div class="event-date">
+      
+      
+      <h5>fredag 2. oktober - søndag 4. oktober</h5>
+      
+      
+    </div> <a class="btn-grid" href="https://www.elbilmessen.dk/" >Se mere her</a>
+    
+    <div style="clear: both;"></div>
+  </div>
+  <div class="event-label-bg" style="background-color: #000000; opacity: 0.3;"></div>
+</div>
+</div>
+<!-- MOBILE LABEL END -->
+<!--EndIf-->
+
+
+  </div>
+  <div style="clear: both;"></div>
+</div>
+<div class="e-nav-utilities-bottom">
+  <div class="container">
+    <ul class="nav nav-pills">
+      <li>
+  <a href="/forside">Forside</a>
+</li>
+<li>
+  <a href="/nyheder-fra-mch">Nyheder fra MCH</a>
+</li>
+<li>
+  <a href="/mch-pressecenter">MCH pressecenter</a>
+</li>
+<li>
+  <a href="/kontakt-mch">Kontakt MCH</a>
+</li>
+<li>
+  <a href="/sitemap">Sitemap</a>
+</li>
+<li>
+  <a href="/persondatapolitik">Persondatapolitik</a>
+</li>
+<li>
+  <a href="/politik-for-billede--og-videomateriale">Politik for billede- og videomateriale</a>
+</li>
+      <li class="e-website-by"><a href="http://www.co3.dk/" title="Co3 - Webbureauet der forst&aring;r din forretning" target="_blank">Website: Co3</a></li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+
+
+<!--Include(../../../Extranet/espresso-login-modal.html)-->
+<!--
+Copyright © 2014 Co3 A/S. Alle rettigheder forbeholdes.
+
+Co3 A/S
+Strøget 40
+DK-7430 Ikast
++45 9725 0333
+www.co3.dk
+-->
+
+
+<script async="" src="/Files/Templates/Designs/mch/assets/js/default.min.js?v=1.006"></script>
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.5&appId=203168943052691";
+    fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<noscript><img src='http://tr.apsislead.com/?id=bac0bad88d' style='border:0;display:none;'></noscript>
+<!-- End Tracking code -->
+
+<!--Include(../inc/apsis-script.html)-->
+
+
+
+</body>
+
+
+</body></html> <!-- Exe time: 0,03125 :   < >  <PageID (1051)>  <Page from cache>  -->

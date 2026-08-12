@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /dashboard/
+Disallow: /my/
+Disallow: /*?*
+Allow: /*?page=*
+Allow: /dist*?*
+Allow: /platform*?*
+Crawl-delay: 5
+
+Sitemap: https://www.godset.net/sitemap
+
+# Slow down specific bots
+
+User-Agent: FacebookBot
+User-Agent: Scrapy
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: serpstatbot
+Crawl-delay: 10

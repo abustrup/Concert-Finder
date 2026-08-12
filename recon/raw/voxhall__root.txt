@@ -1,0 +1,1877 @@
+<!doctype html>
+<html lang="da-DK" prefix="og: https://ogp.me/ns#">
+
+  <head>
+  <meta charset="UTF-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+	<meta name="HandheldFriendly" content="True">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="VoxHall">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="application-name" content="VoxHall">
+
+  <link rel="apple-touch-icon" sizes="180x180" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/favicon-16x16.png">
+  <link rel="manifest" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/site.webmanifest">
+  <link rel="mask-icon" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/safari-pinned-tab.svg" color="#000000">
+  <link rel="shortcut icon" href="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/favicon.ico">
+  <meta name="msapplication-TileColor" content="#000000">
+  <meta name="msapplication-config" content="https://voxhall.dk/wp-content/themes/voxhall/assets/img/favicons/browserconfig.xml">
+  <meta name="theme-color" content="#ffffff">
+
+  
+<!-- Search Engine Optimization by Rank Math PRO - https://rankmath.com/ -->
+<title>VoxHall - Live Music Venue</title>
+<meta name="description" content="Spillestedet VoxHall præsenterer musik og koncerter i Aarhus inden for genrerne heavy, jazz, rock, urban og world. Find det samlede program hér."/>
+<meta name="robots" content="follow, index"/>
+<link rel="canonical" href="https://voxhall.dk/" />
+<meta property="og:locale" content="da_DK" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="VoxHall - Live Music Venue" />
+<meta property="og:description" content="Spillestedet VoxHall præsenterer musik og koncerter i Aarhus inden for genrerne heavy, jazz, rock, urban og world. Find det samlede program hér." />
+<meta property="og:url" content="https://voxhall.dk/" />
+<meta property="og:site_name" content="VoxHall" />
+<meta property="og:image" content="https://voxhall.dk/wp-content/uploads/2022/09/VoxHall-facade1-Recovered-1920x1280.jpg" />
+<meta property="og:image:secure_url" content="https://voxhall.dk/wp-content/uploads/2022/09/VoxHall-facade1-Recovered-1920x1280.jpg" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1280" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="VoxHall - Live Music Venue" />
+<meta name="twitter:description" content="Spillestedet VoxHall præsenterer musik og koncerter i Aarhus inden for genrerne heavy, jazz, rock, urban og world. Find det samlede program hér." />
+<meta name="twitter:image" content="https://voxhall.dk/wp-content/uploads/2022/09/VoxHall-facade1-Recovered-1920x1280.jpg" />
+<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":"Place","@id":"https://voxhall.dk/#place","address":{"@type":"PostalAddress","streetAddress":"Vester All\u00e9 15, 8000 Aarhus"}},{"@type":"Organization","@id":"https://voxhall.dk/#organization","name":"VoxHall","url":"https://voxhall.dk","sameAs":["https://www.facebook.com/voxhallny"],"address":{"@type":"PostalAddress","streetAddress":"Vester All\u00e9 15, 8000 Aarhus"},"logo":{"@type":"ImageObject","@id":"https://voxhall.dk/#logo","url":"https://voxhall.dk/wp-content/uploads/2022/09/voxhall-square.jpg","contentUrl":"https://voxhall.dk/wp-content/uploads/2022/09/voxhall-square.jpg","caption":"VoxHall","inLanguage":"da-DK","width":"932","height":"932"},"location":{"@id":"https://voxhall.dk/#place"}},{"@type":"WebSite","@id":"https://voxhall.dk/#website","url":"https://voxhall.dk","name":"VoxHall","publisher":{"@id":"https://voxhall.dk/#organization"},"inLanguage":"da-DK","potentialAction":{"@type":"SearchAction","target":"https://voxhall.dk/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://voxhall.dk/#webpage","url":"https://voxhall.dk/","name":"VoxHall - Live Music Venue","about":{"@id":"https://voxhall.dk/#organization"},"isPartOf":{"@id":"https://voxhall.dk/#website"},"inLanguage":"da-DK"}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//voxhall.billetten.dk' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 768px;--wp--style--global--wide-size: 1024px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='theme-css' href='https://voxhall.dk/wp-content/themes/voxhall/dist/assets/main-CFZ-FplZ.css?ver=7.0.4' media='all' />
+<script id="google-translate-js" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateInit&#038;ver=7.0.4"></script>
+<script id="theme-js-js-extra">
+var voxhallData = {"eventsUrl":"https://voxhall.dk/koncerter/","pastEventsUrl":"https://voxhall.dk/arkiv/","archivedEventsUrl":"https://voxhall.dk/tidligere-koncerter/"};
+//# sourceURL=theme-js-js-extra
+</script>
+<link rel="https://api.w.org/" href="https://voxhall.dk/wp-json/" /><script type="module" defer src="https://voxhall.dk/wp-content/themes/voxhall/dist/assets/main-BserI8Bf.js"></script>
+  <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'analytics_storage': 'denied',
+    });
+    gtag('set', 'ads_data_redaction', true);
+</script><script async src="https://www.googletagmanager.com/gtag/js?id=G-1HQSBNMTRE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-1HQSBNMTRE');
+</script>
+<script id="CookieConsent" type="text/javascript" data-culture="DA" src="https://policy.app.cookieinformation.com/uc.js" data-gcm-version="2.0"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WMZFP49D');</script></head>
+  <body data-rsssl=1
+    class="font-sans text-base antialiased leading-normal text-black bg-white font-regular"
+    data-template="front-page"
+    x-data="{ showGoogleModal: false }"
+  >
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMZFP49D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<nav data-lenis-prevent class="fixed inset-0 z-40 flex justify-center overflow-y-auto bg-white js-drawer-navigation drawer-navigation scroll-container disable-scrollbars">
+
+  <div class="relative flex flex-col gap-12 lg:gap-20 w-full min-h-full xl:max-w-[80%] 2xl:max-w-[70%] site-padding-x pt-24 pb-6 my-auto overflow-hidden lg:pb-4">
+
+    <!-- Navigation -->
+    <div class="flex items-center flex-grow">
+      <ul id="menu-navigation" class="w-full flex flex-col drawer-navigation-menu js-sub-menu-navigation js-navigation-menu"><li class="menu-item"><a href="/koncerter">Program</a></li>
+<li class="menu-item menu-item-has-children"><a href="#">Dit besøg</a>
+<ul class="sub-menu">
+	<li class="menu-item"><a href="https://voxhall.dk/faq/">FAQ</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/en-oelbar/">En ølbar</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/to-oel-2/">To Øl</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-has-children"><a href="#">Om VoxHall</a>
+<ul class="sub-menu">
+	<li class="menu-item"><a href="https://voxhall.dk/production-specs/">Production specs</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/ansatte/">Ansatte</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/presse/">Presse</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/lej-voxhall/">Lej VoxHall</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/fakta/">Fakta</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/bestyrelse/">Bestyrelse</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/samarbejdspartnere/">Samarbejdspartnere</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/baeredygtighed/">Bæredygtighed</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/voxhalls-adfaerdskodeks/">VoxHalls adfærdskodeks</a></li>
+</ul>
+</li>
+<li class="menu-item"><a href="https://voxhall.dk/frivillige/">Frivillige</a></li>
+<li class="menu-item menu-item-has-children"><a href="#">Part</a>
+<ul class="sub-menu">
+	<li class="menu-item"><a href="https://voxhall.dk/om-part/">Om Part</a></li>
+</ul>
+</li>
+<li class="menu-item"><a href="https://voxhall.dk/gauss/">Gauss</a></li>
+<li class="menu-item menu-item-has-children"><a href="/arkiv">Arkiv</a>
+<ul class="sub-menu">
+	<li class="menu-item"><a href="https://voxhall.dk/arkiv/">Fotos</a></li>
+	<li class="menu-item"><a href="https://voxhall.dk/tidligere-koncerter/">Tidligere koncerter</a></li>
+</ul>
+</li>
+<li class="menu-item"><a href="#buyvoucher">Gavekort</a></li>
+
+      <li class='menu-item md:!hidden menu-item--search js-search-overlay-trigger'>
+        <span>
+          Search
+        </span>
+      </li>
+    </ul>    </div>
+
+    <!-- Utilities -->
+    <div class="flex flex-col justify-between gap-10 text-sm leading-tight md:text-xl lg:flex-row xl:text-2xl">
+              <div class="flex flex-col grow">
+                      <a
+              class="duration-150 max-w-fit hover:opacity-70"
+              href="tel:(0045)87309797"
+            >(0045) 8730 9797 </a>
+          
+                      <a
+              class="underline duration-150 max-w-fit hover:opacity-70"
+              href="mailto:voxhall@fondenvoxhall.dk"
+            >voxhall@fondenvoxhall.dk</a>
+                  </div>
+      
+      <div class="flex justify-start gap-20 lg:justify-between lg:gap-10 grow">
+        <div class="flex flex-col leading-tight">
+          <a href="https://dashboard.mailerlite.com/forms/1217549/152653506815198645/share" target="_blank" rel="nofollow noopener" class="underline">Newsletter sign-up</a>
+          <span class="underline duration-150 cursor-pointer hover:opacity-70 basm basm_profile_btn">Login (Billetten)</span>
+          <button class="text-left underline duration-150 appearance-none cursor-pointer hover:opacity-70" onClick="javascript:CookieConsent.renew();">Cookie consent</button>
+        </div>
+
+        <div class="flex flex-col leading-tight">
+                      <a href="https://www.facebook.com/voxhallny" target="_blank" rel="nofollow noopener" class="underline duration-150 max-w-fit hover:opacity-70">Facebook</a>
+          
+                      <a href="https://www.instagram.com/voxhall.dk" target="_blank" rel="nofollow noopener" class="underline duration-150 max-w-fit hover:opacity-70">Instagram</a>
+          
+                      <a href="https://twitter.com/FondenVoxHall" target="_blank" rel="nofollow noopener" class="underline duration-150 max-w-fit hover:opacity-70">Twitter</a>
+                  </div>
+      </div>
+
+    </div>
+
+  </div>
+
+</nav>
+    
+<header site-header role="banner" class="fixed inset-x-0 top-0 z-50 text-white bg-black mix-blend-difference site-header opacity-0">
+
+  <div class="relative grid grid-cols-[1fr_auto_1fr] w-full gap-6 py-3.5 items-center lg:py-4 mx-auto text-[17px] sm:text-lg leading-none lg:text-2xl site-padding-x select-none">
+
+    <!-- Navigation toggle -->
+    <div class="relative flex items-center gap-3 sm:gap-4">
+      <button type="button" id="nav-drawer-toggle-btn" class="relative z-20 flex items-center justify-center flex-shrink-0 w-10 h-2 mt-px cursor-pointer focus:outline-none" aria-label="Vis eller skjul menuen">
+        <div class="btn-hamburger">
+          <div class="w-10 h-2 btn-hamburger-icon" role="presentational">
+            <div class="btn-hamburger-line"></div>
+            <div class="btn-hamburger-line"></div>
+          </div>
+        </div>
+      </button>
+
+      <a
+        href="https://voxhall.dk"
+        class="rounded-full w-8 h-[18px] sm:w-9 sm:h-[20px] md:h-[22px] duration-200 transition-all mt-px border border-white cursor-pointer hover:bg-white hover:text-black px-2 py-0.5 opacity-0"
+        site-header-back-btn
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="w-full h-full" fill="none" viewBox="0 0 16 16">
+          <g stroke="currentColor" stroke-linecap="square"><path d="M15.14 8.07H1.592" stroke-linejoin="round"/><path d="m5.849 13.001-4.95-4.95 4.95-4.95"/></g>
+        </svg>
+      </a>
+    </div>
+
+    <!-- Logo -->
+    <div class="transition-opacity duration-[var(--drawer-navigation-transition-duration)] site-header-logo">
+      <a href="https://voxhall.dk" rel="home" class="transition-opacity duration-200 hover:opacity-70">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 724 121" class="h-[14px] sm:mt-px sm:h-6 justify-self-center w-28">
+          <path fill="currentColor" d="M31.994 3.9H.044l29.7 113.1h22.8l66.15-113.1h-31.95l-38.25 68.7-16.5-68.7ZM177.456.15c-32.55 0-66.3 24-71.7 58.2-5.85 36.6 16.35 62.4 52.65 62.4s66.6-25.8 72.45-62.4c5.4-34.2-20.85-58.2-53.4-58.2Zm-4.5 28.5c17.55 0 29.7 14.25 27.3 29.85-3.15 19.5-19.8 33.75-37.35 33.75s-29.7-14.25-26.55-33.75c2.4-15.6 19.05-29.85 36.6-29.85Zm94.757 27.9L213.863 117h35.55l31.8-36.9 17.85 36.9h35.4l-32.25-60.45 44.4-52.65h-36.15l-21.75 29.25-12.75-29.25h-36.15l27.9 52.65Zm115.66-9 6.9-43.65h-29.4L343.023 117h29.4l7.35-46.35h42.45l-7.35 46.35h29.4l17.85-113.1h-29.4l-6.9 43.65h-42.45Zm152.51 49.8 4.2 19.65h31.35L546.683 3.9h-32.1L453.233 117h31.2l10.95-19.65h40.5Zm-4.35-22.5h-24.45l17.85-36h.3l6.3 36ZM627.871 3.9h-29.4L580.621 117h64.65l3.9-24.9h-35.25l13.95-88.2Zm74.267 0h-29.4L654.888 117h64.65l3.9-24.9h-35.25l13.95-88.2Z"/>
+        </svg>
+      </a>
+    </div>
+
+    <!-- Language + search + basket toggle -->
+    <div class="relative flex items-center gap-3 sm:gap-4 justify-self-end">
+      <div
+        class="duration-200 transition-colors mt-px uppercase text-xs sm:text-sm md:text-base leading-none border border-white rounded-full cursor-pointer hover:bg-white hover:text-black px-2 py-0.5"
+        x-on:click="showGoogleModal = true"
+      >
+        En
+      </div>
+
+      <div class="hidden transition-opacity duration-200 cursor-pointer md:block hover:opacity-70 js-search-overlay-trigger">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20" class="w-5 h-5">
+          <path d="M9.167 15.833a6.667 6.667 0 1 0 0-13.333 6.667 6.667 0 0 0 0 13.333ZM17.5 17.5l-3.625-3.625" stroke="currentColor" stroke-linecap="square"/>
+        </svg>
+      </div>
+
+      <button type="button" onclick="window.basm.showBasket()" class="transition-opacity duration-200 outline-none appearance-none cursor-pointer hover:opacity-70">
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 15 18" class="w-[15px] h-5">
+          <path stroke="currentColor" d="M.592 4.131H14.5v13.031H.592z"/>
+          <path stroke="currentColor" d="M4.371 7.957V1h6.261v6.957" />
+        </svg>
+      </button>
+    </div>
+
+  </div>
+
+</header>
+
+    <div data-barba="wrapper">
+
+      <main
+        role="main"
+        class="relative z-10 bg-white"
+        data-barba="container"
+        data-barba-namespace="front-page"
+      >
+
+          <div image-revealer class="fixed inset-0 z-[999] overflow-hidden pointer-events-none bg-white hidden">
+
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(-2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2025/11/Laibach-2560x1810.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2025/12/Prewn-2560x1713.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(-2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/05/Curtis-Harding-2.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(-2vw, -2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/03/Biohazard-2560x1708.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(-2vw, -2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2194x2560.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2560x1708.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-1920x2560.jpg"
+        >
+      </div>
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 w-full max-w-[70%] sm:max-w-[60%] lg:w-auto lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[70vh]"
+          style="
+            transform: translate3d(2vw, 2vh, 0);
+          "
+          src="https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2048x2560.jpg"
+        >
+      </div>
+    
+          <div image-revealer-item class="absolute -translate-x-1/2 -translate-y-1/2 top-1/2 max-w-[50%] lg:max-w-[50%] left-1/2 opacity-0 -z-50">
+        <img
+          image-revealer-img
+          class="max-w-full max-h-[80vh]"
+          src="https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2.jpg"
+        >
+      </div>
+    
+  </div>
+<div logo-preloader class="logo-preloader hidden fixed inset-0 z-[999] justify-center text-white mix-blend-difference items-center p-10  overflow-hidden pointer-events-none">
+
+  <div class="overflow-hidden">
+    <svg
+      class="h-20 max-w-full translate-y-full w-36 md:w-64 lg:w-96"
+      fill="none"
+      viewBox="0 0 724 121"
+    >
+      <path fill="currentColor" d="M31.994 3.9H.044l29.7 113.1h22.8l66.15-113.1h-31.95l-38.25 68.7-16.5-68.7ZM177.456.15c-32.55 0-66.3 24-71.7 58.2-5.85 36.6 16.35 62.4 52.65 62.4s66.6-25.8 72.45-62.4c5.4-34.2-20.85-58.2-53.4-58.2Zm-4.5 28.5c17.55 0 29.7 14.25 27.3 29.85-3.15 19.5-19.8 33.75-37.35 33.75s-29.7-14.25-26.55-33.75c2.4-15.6 19.05-29.85 36.6-29.85Zm94.757 27.9L213.863 117h35.55l31.8-36.9 17.85 36.9h35.4l-32.25-60.45 44.4-52.65h-36.15l-21.75 29.25-12.75-29.25h-36.15l27.9 52.65Zm115.66-9 6.9-43.65h-29.4L343.023 117h29.4l7.35-46.35h42.45l-7.35 46.35h29.4l17.85-113.1h-29.4l-6.9 43.65h-42.45Zm152.51 49.8 4.2 19.65h31.35L546.683 3.9h-32.1L453.233 117h31.2l10.95-19.65h40.5Zm-4.35-22.5h-24.45l17.85-36h.3l6.3 36ZM627.871 3.9h-29.4L580.621 117h64.65l3.9-24.9h-35.25l13.95-88.2Zm74.267 0h-29.4L654.888 117h64.65l3.9-24.9h-35.25l13.95-88.2Z"/>
+    </svg>
+  </div>
+
+</div>
+
+  <div data-lenis-prevent item-wheel-container class="absolute inset-0 overflow-hidden disable-scrollbars item-wheel-container opacity-0">
+    <div class="z-10 w-full overflow-visible text-black bg-white js-item-wheel-items">
+              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1024x679.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1920x1273.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-768x509.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1536x1018.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/bonnie-prince-billy/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Bonnie Prince Billy + Support Dawn Landes      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-13 20:00:00"
+          datetime="2026-08-13 20:00:00"
+        >
+          13.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1707x2560.jpg 1707w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-683x1024.jpg 683w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1280x1920.jpg 1280w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-768x1152.jpg 768w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1024x1536.jpg 1024w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1365x2048.jpg 1365w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/in-flames/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        In Flames + Support Gaerea      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-17 20:00:00"
+          datetime="2026-08-17 20:00:00"
+        >
+          17.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1889x2560.jpg 1889w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-756x1024.jpg 756w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1417x1920.jpg 1417w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-768x1041.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1134x1536.jpg 1134w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1511x2048.jpg 1511w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/soen/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Soen      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-20 20:00:00"
+          datetime="2026-08-20 20:00:00"
+        >
+          20.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2.jpg 2500w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1024x683.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1536x1024.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-2048x1366.jpg 2048w"
+>
+  <a href="https://voxhall.dk/koncerter/bodyslam-11th-anniversary-show/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        BODYSLAM 11th Anniversary Show       </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-21 20:00:00"
+          datetime="2026-08-21 20:00:00"
+        >
+          21.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1024x738.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1920x1384.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-768x554.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1536x1107.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/ryan-davis-and-the-roadhouse-band/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Ryan Davis &amp; the Roadhouse Band      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-28 20:00:00"
+          datetime="2026-08-28 20:00:00"
+        >
+          28.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1024x686.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1920x1285.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-768x514.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1536x1028.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/gauss-praes-crushing-sauna-senere-merry/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        GAUSS præs. Crushing, Sauna Senere &amp; Merry      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-29 20:00:00"
+          datetime="2026-08-29 20:00:00"
+        >
+          29.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-885x1024.jpg 885w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1659x1920.jpg 1659w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-768x889.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1328x1536.jpg 1328w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1770x2048.jpg 1770w"
+>
+  <a href="https://voxhall.dk/koncerter/gauss-praes-oskar-witt-midlertidigt-foregt-bagudd/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        GAUSS præs. Oskar Witt, Midlertidigt Fore!gt &amp; Bagudd      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-04 20:00:00"
+          datetime="2026-09-04 20:00:00"
+        >
+          04.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1920x2560.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-768x1024.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1440x1920.jpg 1440w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1152x1536.jpg 1152w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1536x2048.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/smoegmaend/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Smøgmænd      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-05 20:00:00"
+          datetime="2026-09-05 20:00:00"
+        >
+          05.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/mclusky/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Mclusky      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-07 20:00:00"
+          datetime="2026-09-07 20:00:00"
+        >
+          07.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/alter-festival-2026/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Alter Festival 2026      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-10 19:00:00"
+          datetime="2026-09-10 19:00:00"
+        >
+          10.09.26
+                      -
+            12.09.26                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/red-warszawa-3/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Red Warszawa      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-18 20:00:00"
+          datetime="2026-09-18 20:00:00"
+        >
+          18.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/hellripper-support-necrofier/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Hellripper + Support Necrofier      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-19 20:00:00"
+          datetime="2026-09-19 20:00:00"
+        >
+          19.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1698x2560.jpg 1698w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-679x1024.jpg 679w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1273x1920.jpg 1273w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-768x1158.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1019x1536.jpg 1019w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1358x2048.jpg 1358w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/afskum-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Afskum      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-26 20:00:00"
+          datetime="2026-09-26 20:00:00"
+        >
+          26.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1024x791.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1920x1483.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-768x593.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1536x1187.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/sessa/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Sessa      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-29 20:00:00"
+          datetime="2026-09-29 20:00:00"
+        >
+          29.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/Koya-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/koya-persecuter/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Persecutor &amp; Kōya      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-01 20:00:00"
+          datetime="2026-10-01 20:00:00"
+        >
+          01.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-878x1024.jpg 878w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1646x1920.jpg 1646w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-768x896.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1317x1536.jpg 1317w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1756x2048.jpg 1756w"
+>
+  <a href="https://voxhall.dk/koncerter/cizzo/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Cizzo      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-02 20:00:00"
+          datetime="2026-10-02 20:00:00"
+        >
+          02.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/fed-phil/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Fed &amp; Phil      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-03 20:00:00"
+          datetime="2026-10-03 20:00:00"
+        >
+          03.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-1829x2560.jpg 1829w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-731x1024.jpg 731w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-1371x1920.jpg 1371w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-768x1075.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-1097x1536.jpg 1097w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2-1463x2048.jpg 1463w, https://voxhall.dk/wp-content/uploads/2026/06/Sara-Parkman-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/sara-parkman/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Sara Parkman      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-06 20:00:00"
+          datetime="2026-10-06 20:00:00"
+        >
+          06.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/vox-web-another-festival-1.jpg 1080w, https://voxhall.dk/wp-content/uploads/2026/05/vox-web-another-festival-1-819x1024.jpg 819w, https://voxhall.dk/wp-content/uploads/2026/05/vox-web-another-festival-1-768x960.jpg 768w"
+>
+  <a href="https://voxhall.dk/koncerter/another-festival-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Another Festival feat. Maruja + Shame + Bricknasty + Lauren Auder + My New Band Believe + Horse Vision + Daufødt + Fauna      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-08 19:00:00"
+          datetime="2026-10-08 19:00:00"
+        >
+          08.10.26
+                      -
+            09.10.26                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-1707x2560.jpg 1707w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-683x1024.jpg 683w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-1280x1920.jpg 1280w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-768x1152.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-1024x1536.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2-1365x2048.jpg 1365w, https://voxhall.dk/wp-content/uploads/2026/05/Kliken-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/kliken/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Kliken      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-10 20:00:00"
+          datetime="2026-10-10 20:00:00"
+        >
+          10.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2-1024x683.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2-1920x1281.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/01/SmagPaaDigSelv-2-1536x1025.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/smag-paa-dig-selv/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Smag På Dig Selv      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-16 20:00:00"
+          datetime="2026-10-16 20:00:00"
+        >
+          16.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-2560x2377.jpg 2560w, https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-1024x951.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-1920x1783.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-768x713.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-1536x1426.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/06/MONO-25AaRFORMUSIKKEN-2-2048x1901.jpg 2048w"
+>
+  <a href="https://voxhall.dk/koncerter/mono-25-aar-for-musikken-feat-folket-baench-danafae-permanoia-situationsfornaermelse/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Mono &#8211; 25 år for musikken + feat.: Folket, Bænch, Danafae/Permanoia &amp; Situationsfornærmelse      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-23 20:00:00"
+          datetime="2026-10-23 20:00:00"
+        >
+          23.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-1683x2560.jpg 1683w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-673x1024.jpg 673w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-1262x1920.jpg 1262w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-768x1168.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-1010x1536.jpg 1010w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2-1346x2048.jpg 1346w, https://voxhall.dk/wp-content/uploads/2026/01/VilmaKrage-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/vilma-crow/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Vilma Crow      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-24 20:00:00"
+          datetime="2026-10-24 20:00:00"
+        >
+          24.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/The-Clockworks-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/the-clockworks/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        The Clockworks + Support Danny Blue      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-31 20:00:00"
+          datetime="2026-10-31 20:00:00"
+        >
+          31.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-936x1024.jpg 936w, https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-1756x1920.jpg 1756w, https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-768x840.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-1405x1536.jpg 1405w, https://voxhall.dk/wp-content/uploads/2026/03/WestsideCowboy-2-1873x2048.jpg 1873w"
+>
+  <a href="https://voxhall.dk/koncerter/westside-cowboy/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Westside Cowboy      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-01 20:00:00"
+          datetime="2026-11-01 20:00:00"
+        >
+          01.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1969x2560.jpg 1969w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-788x1024.jpg 788w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1477x1920.jpg 1477w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-768x998.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1182x1536.jpg 1182w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2-1575x2048.jpg 1575w, https://voxhall.dk/wp-content/uploads/2026/05/Graveyard-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/graveyard-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Graveyard + Support Skraeckoedlan      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-07 20:00:00"
+          datetime="2026-11-07 20:00:00"
+        >
+          07.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/ELEINE-2-1-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/eleine/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Eleine + Support Rexoria &amp; Serapis Project      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-09 20:00:00"
+          datetime="2026-11-09 20:00:00"
+        >
+          09.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1710x2560.jpg 1710w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-684x1024.jpg 684w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1283x1920.jpg 1283w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-768x1150.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1026x1536.jpg 1026w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2-1368x2048.jpg 1368w, https://voxhall.dk/wp-content/uploads/2026/05/Boris-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/boris-support-planning-for-burial/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Boris + Support Planning For Burial      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-10 20:00:00"
+          datetime="2026-11-10 20:00:00"
+        >
+          10.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1920x2560.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-768x1024.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1440x1920.jpg 1440w, https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1152x1536.jpg 1152w, https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2-1536x2048.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/08/Yndling-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/yndling/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Yndling      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-11 20:00:00"
+          datetime="2026-11-11 20:00:00"
+        >
+          11.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2-1024x768.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2-1920x1440.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2-768x576.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/Tortoise-2-1536x1152.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/tortoise/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Tortoise      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-12 20:00:00"
+          datetime="2026-11-12 20:00:00"
+        >
+          12.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-819x1024.jpg 819w, https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-1536x1920.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-768x960.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-1229x1536.jpg 1229w, https://voxhall.dk/wp-content/uploads/2026/04/BAEST-2-1638x2048.jpg 1638w"
+>
+  <a href="https://voxhall.dk/koncerter/baest-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Baest      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-14 20:00:00"
+          datetime="2026-11-14 20:00:00"
+        >
+          14.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/07/Prong-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/07/Prong-2-1024x684.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/07/Prong-2-1920x1282.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/07/Prong-2-768x513.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/07/Prong-2-1536x1025.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/prong/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Prong      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-20 20:00:00"
+          datetime="2026-11-20 20:00:00"
+        >
+          20.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1703x2560.jpg 1703w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-681x1024.jpg 681w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1277x1920.jpg 1277w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-768x1155.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1022x1536.jpg 1022w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2-1362x2048.jpg 1362w, https://voxhall.dk/wp-content/uploads/2026/02/Jacob-Bellens-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/jacob-bellens-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Jacob Bellens      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-21 20:00:00"
+          datetime="2026-11-21 20:00:00"
+        >
+          21.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2-1024x768.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2-1920x1440.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2-768x576.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Tyr-2-1536x1152.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/tyr/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Týr + Support Twilight Force, Dragonland &amp; Vanaheim      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-25 18:20:00"
+          datetime="2026-11-25 18:20:00"
+        >
+          25.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/100WET-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-819x1024.jpg 819w, https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-1536x1920.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-768x960.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-1229x1536.jpg 1229w, https://voxhall.dk/wp-content/uploads/2026/04/100WET-2-1638x2048.jpg 1638w"
+>
+  <a href="https://voxhall.dk/koncerter/100wet/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        100%WET      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-26 20:00:00"
+          datetime="2026-11-26 20:00:00"
+        >
+          26.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1920x2560.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-768x1024.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1440x1920.jpg 1440w, https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1152x1536.jpg 1152w, https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2-1536x2048.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/04/Michael-Williams-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/michael-williams/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Michael Williams      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-27 20:00:00"
+          datetime="2026-11-27 20:00:00"
+        >
+          27.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM.jpg 2500w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-1024x683.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-1536x1024.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-2048x1366.jpg 2048w"
+>
+  <a href="https://voxhall.dk/koncerter/bodyslam-wrestling-scandinavian-slammasters/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        BODYSLAM Wrestling &#8211; Scandinavian Slammasters       </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-11-28 20:00:00"
+          datetime="2026-11-28 20:00:00"
+        >
+          28.11.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/PAY-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/PAY-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/PAY-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/PAY-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/PAY-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/pay2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        PAY      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-12-04 20:00:00"
+          datetime="2026-12-04 20:00:00"
+        >
+          04.12.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Self-Deception-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/Self-Deception-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Self-Deception-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/Self-Deception-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Self-Deception-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/self-deception-ankor-support-lauren-babic/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Self Deception &amp; Ankor + Support Lauren Babic      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-12-17 19:00:00"
+          datetime="2026-12-17 19:00:00"
+        >
+          17.12.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Iceage-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/Iceage-2-1024x679.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Iceage-2-1920x1274.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/Iceage-2-768x510.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Iceage-2-1536x1019.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/iceage-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Iceage      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-01-08 20:00:00"
+          datetime="2027-01-08 20:00:00"
+        >
+          08.01.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/RobenKnud.jpg 480w, https://voxhall.dk/wp-content/uploads/2026/04/RobenKnud-384x384.jpg 384w"
+>
+  <a href="https://voxhall.dk/koncerter/roben-knud/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Roben &amp; Knud      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-01-22 20:00:00"
+          datetime="2027-01-22 20:00:00"
+        >
+          22.01.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Hvalfugl-2-1.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Hvalfugl-2-1-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/Hvalfugl-2-1-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Hvalfugl-2-1-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Hvalfugl-2-1-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/hvalfugl-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Hvalfugl      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-01-23 20:00:00"
+          datetime="2027-01-23 20:00:00"
+        >
+          23.01.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Lowly-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/Lowly-2-1024x691.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Lowly-2-1920x1295.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/Lowly-2-768x518.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Lowly-2-1536x1036.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/lowly-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Lowly      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-02-06 20:00:00"
+          datetime="2027-02-06 20:00:00"
+        >
+          06.02.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/01/Tonser-2-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/tonser/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Tonser      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-02-19 20:00:00"
+          datetime="2027-02-19 20:00:00"
+        >
+          19.02.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-1810x2560.jpg 1810w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-724x1024.jpg 724w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-1358x1920.jpg 1358w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-768x1086.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-1086x1536.jpg 1086w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2-1448x2048.jpg 1448w, https://voxhall.dk/wp-content/uploads/2026/05/Clemens-Jokeren-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/clemens-jokeren/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Clemens &amp; Jokeren      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-02-20 20:00:00"
+          datetime="2027-02-20 20:00:00"
+        >
+          20.02.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Kids-logo.jpg 1150w, https://voxhall.dk/wp-content/uploads/2026/05/Kids-logo-1024x930.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Kids-logo-768x697.jpg 768w"
+>
+  <a href="https://voxhall.dk/koncerter/hxc-kids-3/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        HXC Kids      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2027-05-30 12:00:00"
+          datetime="2027-05-30 12:00:00"
+        >
+          30.05.27
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1024x679.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1920x1273.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-768x509.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/Bonnie-Prince-Billy-2-1536x1018.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/bonnie-prince-billy/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Bonnie Prince Billy + Support Dawn Landes      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-13 20:00:00"
+          datetime="2026-08-13 20:00:00"
+        >
+          13.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1707x2560.jpg 1707w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-683x1024.jpg 683w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1280x1920.jpg 1280w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-768x1152.jpg 768w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1024x1536.jpg 1024w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2-1365x2048.jpg 1365w, https://voxhall.dk/wp-content/uploads/2025/11/In-Flames-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/in-flames/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        In Flames + Support Gaerea      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-17 20:00:00"
+          datetime="2026-08-17 20:00:00"
+        >
+          17.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1889x2560.jpg 1889w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-756x1024.jpg 756w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1417x1920.jpg 1417w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-768x1041.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1134x1536.jpg 1134w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2-1511x2048.jpg 1511w, https://voxhall.dk/wp-content/uploads/2026/04/Soen-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/soen/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Soen      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-20 20:00:00"
+          datetime="2026-08-20 20:00:00"
+        >
+          20.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2.jpg 2500w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1024x683.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-1536x1024.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/05/BODYSLAM-VoxHall28nov2026_2-2048x1366.jpg 2048w"
+>
+  <a href="https://voxhall.dk/koncerter/bodyslam-11th-anniversary-show/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        BODYSLAM 11th Anniversary Show       </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-21 20:00:00"
+          datetime="2026-08-21 20:00:00"
+        >
+          21.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1024x738.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1920x1384.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-768x554.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/RyanDavisTheRoadhouseBand-2-1536x1107.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/ryan-davis-and-the-roadhouse-band/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Ryan Davis &amp; the Roadhouse Band      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-28 20:00:00"
+          datetime="2026-08-28 20:00:00"
+        >
+          28.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1024x686.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1920x1285.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-768x514.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Crushing-2-1536x1028.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/gauss-praes-crushing-sauna-senere-merry/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        GAUSS præs. Crushing, Sauna Senere &amp; Merry      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-08-29 20:00:00"
+          datetime="2026-08-29 20:00:00"
+        >
+          29.08.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-885x1024.jpg 885w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1659x1920.jpg 1659w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-768x889.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1328x1536.jpg 1328w, https://voxhall.dk/wp-content/uploads/2026/06/Oscar-Witt-2-1770x2048.jpg 1770w"
+>
+  <a href="https://voxhall.dk/koncerter/gauss-praes-oskar-witt-midlertidigt-foregt-bagudd/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        GAUSS præs. Oskar Witt, Midlertidigt Fore!gt &amp; Bagudd      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-04 20:00:00"
+          datetime="2026-09-04 20:00:00"
+        >
+          04.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1920x2560.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-768x1024.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1440x1920.jpg 1440w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1152x1536.jpg 1152w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2-1536x2048.jpg 1536w, https://voxhall.dk/wp-content/uploads/2026/02/Smoegmaend-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/smoegmaend/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Smøgmænd      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-05 20:00:00"
+          datetime="2026-09-05 20:00:00"
+        >
+          05.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Mclusky-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/mclusky/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Mclusky      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-07 20:00:00"
+          datetime="2026-09-07 20:00:00"
+        >
+          07.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Alter2026-2-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/alter-festival-2026/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Alter Festival 2026      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-10 19:00:00"
+          datetime="2026-09-10 19:00:00"
+        >
+          10.09.26
+                      -
+            12.09.26                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/03/RedWarszawa-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/red-warszawa-3/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Red Warszawa      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-18 20:00:00"
+          datetime="2026-09-18 20:00:00"
+        >
+          18.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/HELLRIPPER-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/hellripper-support-necrofier/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Hellripper + Support Necrofier      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-19 20:00:00"
+          datetime="2026-09-19 20:00:00"
+        >
+          19.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1698x2560.jpg 1698w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-679x1024.jpg 679w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1273x1920.jpg 1273w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-768x1158.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1019x1536.jpg 1019w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2-1358x2048.jpg 1358w, https://voxhall.dk/wp-content/uploads/2026/02/Afskum-2.jpg 2000w"
+>
+  <a href="https://voxhall.dk/koncerter/afskum-2/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Afskum      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-26 20:00:00"
+          datetime="2026-09-26 20:00:00"
+        >
+          26.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1024x791.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1920x1483.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-768x593.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/05/Sessa-2-1536x1187.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/sessa/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Sessa      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-09-29 20:00:00"
+          datetime="2026-09-29 20:00:00"
+        >
+          29.09.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/04/Koya-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1024x682.jpg 1024w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1920x1280.jpg 1920w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-768x512.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/04/Koya-2-1536x1024.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/koya-persecuter/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Persecutor &amp; Kōya      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-01 20:00:00"
+          datetime="2026-10-01 20:00:00"
+        >
+          01.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-878x1024.jpg 878w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1646x1920.jpg 1646w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-768x896.jpg 768w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1317x1536.jpg 1317w, https://voxhall.dk/wp-content/uploads/2026/02/Cizzo-2-1756x2048.jpg 1756w"
+>
+  <a href="https://voxhall.dk/koncerter/cizzo/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Cizzo      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-normal md:text-xl lg:text-3xl pr-2.5 md:pr-8"
+          itemprop="startDate"
+          content="2026-10-02 20:00:00"
+          datetime="2026-10-02 20:00:00"
+        >
+          02.10.26
+                  </time>
+          </header>
+
+  </a>
+</article>              
+<article
+  class="item-wheel-element relative w-full shrink-0 leading-snug js-item-wheel-element"
+  itemscope
+  itemtype="https://schema.org/MusicEvent"
+  data-srcset="https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2.jpg 2000w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1024x1024.jpg 1024w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1920x1920.jpg 1920w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-384x384.jpg 384w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-768x768.jpg 768w, https://voxhall.dk/wp-content/uploads/2025/12/FedPhil-2-1536x1536.jpg 1536w"
+>
+  <a href="https://voxhall.dk/koncerter/fed-phil/" class="relative flex w-full py-1 sm:py-0.5" itemprop="url">
+
+    <header class="relative z-10 flex items-center justify-between w-full">
+      <h2 class="text-[28px] pl-2.5 md:pl-8 sm:text-4xl truncate lg:text-6xl hyphens-auto" itemprop="performer">
+        Fed &amp; Phil      </h2>
+
+              <time
+          class="pl-6 text-sm uppercase shrink-0 sm:text-base font-no
+<!-- TRIMMED BY recon.mjs -->
