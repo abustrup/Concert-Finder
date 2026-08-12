@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:21:05.965Z",
+  "generatedAt": "2026-08-12T22:12:00.631Z",
   "results": [
     {
       "name": "a script tag in a typed artist name does not execute",
@@ -24,7 +24,7 @@
     {
       "name": "8,000 typed artists still returns a list",
       "pass": true,
-      "detail": "1055ms"
+      "detail": "1989ms"
     },
     {
       "name": "8,000 artists does not blow the cap",
@@ -34,7 +34,7 @@
     {
       "name": "8,000 artists stays under 20 seconds",
       "pass": true,
-      "detail": "1055ms"
+      "detail": "1989ms"
     },
     {
       "name": "junk artist names do not crash the page",
@@ -59,7 +59,7 @@
     {
       "name": "switching to Danish re-renders the results",
       "pass": true,
-      "detail": "4 koncerter fra 2026-08 → 2027-08, vi tror du fakt"
+      "detail": "5 koncerter fra 2026-08 → 2027-08, vi tror du fakt"
     },
     {
       "name": "not-a-zip.zip: handled with a message, not a crash",
