@@ -24,7 +24,11 @@ permissions:
 
 concurrency:
   group: harvest-${{ github.ref }}
-  cancel-in-progress: true
+  # NOT cancel-in-progress. A harvest takes 10-40 minutes and any push that
+  # touches pipeline/ re-triggers it, so cancelling the running one meant three
+  # consecutive full crawls were killed at the enrichment step and the corpus
+  # never gained its artist index. Queue instead.
+  cancel-in-progress: false
 
 jobs:
   harvest:
