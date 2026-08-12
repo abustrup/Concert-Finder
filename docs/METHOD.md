@@ -25,8 +25,8 @@ way — not by hand, not by a language model. `pipeline/validate.mjs` enforces i
 each event must name the adapter that produced it, a source URL whose host is a
 registered venue, and the timestamp it was fetched at.
 
-Three adapters cover almost everything, which is why adding a venue is normally
-one entry in `pipeline/sources.json` rather than new code:
+Five adapters cover everything that is covered, which is why adding a venue is
+normally one entry in `pipeline/sources.json` rather than new code:
 
 | Adapter | What it reads | Why it exists |
 | --- | --- | --- |
@@ -55,8 +55,9 @@ claims stay honest rather than implied:
   benchmark.
 - **`notYetCovered`** — venues that were probed and did not yield. Each carries
   the reason and the date it was checked. Roskilde Festival is here because its
-  programme pages are undated artist profiles; DR Koncerthuset because it
-  publishes no structured data of any kind.
+  programme pages are undated artist profiles; Royal Arena, Parken, Amager Bio,
+  Forum and Musikhuset Aarhus because they render their listings in JavaScript
+  and serve no event URLs in their HTML at all.
 
 ## How something gets recommended
 
