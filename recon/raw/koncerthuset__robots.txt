@@ -1,0 +1,4 @@
+
+Sitemap: https://www.drkoncerthuset.dk/sitemap
+User-agent: *
+Disallow: /umbraco/

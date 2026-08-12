@@ -1,0 +1,26 @@
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-Agent: 008
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-Agent: YoudaoBot
+Disallow: /
+
+User-Agent: claudebot
+Disallow: /
+
+User-agent: *
+Sitemap: https://www.paradiso.nl/sitemap.xml

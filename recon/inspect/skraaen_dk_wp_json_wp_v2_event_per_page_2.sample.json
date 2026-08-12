@@ -1,0 +1,98 @@
+[
+ {
+  "id": 5992,
+  "date": "2026-07-06T11:24:32",
+  "date_gmt": "2026-07-06T09:24:32",
+  "guid": {
+   "rendered": "https://skraaen.dk/?post_type=event&#038;p=5992"
+  },
+  "modified": "2026-07-06T11:33:02",
+  "modified_gmt": "2026-07-06T09:33:02",
+  "slug": "karmafest-feat-hit-paralementet",
+  "status": "publish",
+  "type": "event",
+  "link": "https://skraaen.dk/event/karmafest-feat-hit-paralementet/",
+  "title": {
+   "rendered": "Karmafest feat. Hit Paralementet"
+  },
+  "parent": 0,
+  "template": "",
+  "_links": {
+   "self": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/event/5992"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/media?parent=5992"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 5975,
+  "date": "2026-07-02T22:22:48",
+  "date_gmt": "2026-07-02T20:22:48",
+  "guid": {
+   "rendered": "https://skraaen.dk/?post_type=event&#038;p=5975"
+  },
+  "modified": "2026-07-02T22:22:48",
+  "modified_gmt": "2026-07-02T20:22:48",
+  "slug": "skattejagt-costa-del-nordkraft",
+  "status": "publish",
+  "type": "event",
+  "link": "https://skraaen.dk/event/skattejagt-costa-del-nordkraft/",
+  "title": {
+   "rendered": "Skattejagt - Costa del Nordkraft"
+  },
+  "parent": 0,
+  "template": "",
+  "_links": {
+   "self": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/event/5975"
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://skraaen.dk/wp-json/wp/v2/media?parent=5975"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

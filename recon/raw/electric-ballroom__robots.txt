@@ -1,0 +1,13 @@
+# Termly scanner
+User-agent: TermlyBot
+Allow: /
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://electricballroom.co.uk/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

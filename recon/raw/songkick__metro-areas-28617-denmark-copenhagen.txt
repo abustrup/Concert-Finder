@@ -1,0 +1,1796 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml">
+  <head prefix="og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml songkick-concerts: http://ogp.me/ns/fb/songkick-concerts#">
+
+   <meta name="robots" content="all">
+
+    <script type="text/javascript">
+  // Deletes legacy consent/analytics cookies left behind by the removed
+  // OneTrust + Adobe Launch setup. Runs at most once per browser: once the
+  // GUARD cookie has been set the block exits immediately, so cookies set
+  // by GA/Freestar/etc. after this script runs are never touched.
+  //
+  // To force everyone through the purge again (e.g. after another cleanup),
+  // bump the GUARD name to `sk_cookie_purge_v2`, `_v3`, etc.
+  (function () {
+    var GUARD = 'sk_cookie_purge_v1';
+    // Guard clause: if this browser has already been purged for this version,
+    // do nothing. Bumping GUARD is what re-triggers the purge for everyone.
+    if (document.cookie.indexOf(GUARD + '=') !== -1) return;
+
+    // Allowlist of first-party cookies to KEEP. Anything not listed here (or
+    // matched by KEEP_PREFIX) gets expired. HttpOnly cookies (_skweb_session,
+    // auth_http_s) are already invisible to document.cookie and cannot be
+    // touched by JS - they're listed defensively.
+    var KEEP = {
+      '_skweb_session': 1,
+      'auth_http': 1,
+      'auth_http_s': 1,
+      'session_uuid': 1,
+      'variant_cohort': 1,
+      'override_split_test': 1,
+      'filter_metro_area': 1,
+      'dismissed_discovery_tooltip': 1,
+      'view_desktop_app_cta': 1,
+      'view_attendance_popup': 1,
+      'num_calendar_events_post_signup': 1,
+      'post_authentication': 1,
+      'postsignup_imported_artist_count': 1,
+      'postsignup_taste_import_source': 1,
+      'ticket_vendor_link': 1,
+      'show_ticket_link_popup': 1,
+      'analytics_trigger': 1,
+      'sk_disable_admin': 1
+    };
+    var KEEP_PREFIX = ['taste_imports_success_'];
+
+    // document.cookie doesn't expose a cookie's original domain/path, so to
+    // delete reliably we re-issue the expiry against every plausible
+    // domain/path combo. Includes the bare host, dotted parent domains, and
+    // the shared .songkick.com / .songkick.net roots.
+    var host = window.location.hostname;
+    var domains = ['', host, '.' + host, '.songkick.com', '.songkick.net'];
+    var parts = host.split('.');
+    for (var i = 0; i < parts.length - 1; i++) {
+      domains.push('.' + parts.slice(i).join('.'));
+    }
+    var paths = ['/', window.location.pathname];
+
+    function keep(name) {
+      if (name === GUARD || KEEP[name]) return true;
+      for (var p = 0; p < KEEP_PREFIX.length; p++) {
+        if (name.indexOf(KEEP_PREFIX[p]) === 0) return true;
+      }
+      return false;
+    }
+
+    var rawCookies = document.cookie ? document.cookie.split(';') : [];
+    for (var c = 0; c < rawCookies.length; c++) {
+      var raw = rawCookies[c];
+      var eq = raw.indexOf('=');
+      var name = (eq > -1 ? raw.slice(0, eq) : raw).replace(/^\s+/, '');
+      if (!name || keep(name)) continue;
+      var base = name + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT';
+      for (var d = 0; d < domains.length; d++) {
+        for (var pth = 0; pth < paths.length; pth++) {
+          document.cookie = base + '; path=' + paths[pth] + (domains[d] ? '; domain=' + domains[d] : '');
+        }
+      }
+    }
+
+    // Set the guard last so a mid-run failure doesn't leave a browser marked
+    // as purged. 5-year max-age matches the practical retention we want.
+    document.cookie = GUARD + '=1; path=/; max-age=' + (60 * 60 * 24 * 365 * 5);
+  })();
+</script>
+
+
+      <link rel="preconnect" href="https://assets.sk-static.com">
+  <link rel="dns-prefetch" href="https://assets.sk-static.com">
+  <link rel="preconnect" href="https://images.sk-static.com">
+  <link rel="dns-prefetch" href="https://images.sk-static.com">
+
+
+      <div class="onetrust-container-placeholder">
+</div
+
+
+      <div class="adobe-launch-container-placeholder">
+</div>
+
+
+    
+
+    <link rel="stylesheet" type="text/css" href="//assets.sk-static.com/assets/stylesheets/scss/global-64F6HFIR.css">
+  <link rel="stylesheet" type="text/css" href="//assets.sk-static.com/assets/stylesheets/scss/pages/metro-area/metro-area-critical-PD7KMYEV.css">
+  <link rel="preload" href="//assets.sk-static.com/assets/stylesheets/scss/pages/metro-area/metro-area-deferred-HQZR7CX2.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript><link rel="stylesheet" href="//assets.sk-static.com/assets/stylesheets/scss/pages/metro-area/metro-area-deferred-HQZR7CX2.css"></noscript>
+
+
+
+
+    <script type="text/javascript">
+  SK = typeof(SK) == 'undefined' ? {} : SK;
+  SK_ASSET_HOST = "//assets.sk-static.com";
+  SK_DYNAMIC_ASSET_HOST = "https://images.sk-static.com";
+  ADDITIONAL_JQUERY_UI_PLUGINS =                                     false
+
+  ADDITIONAL_DATEPICKER_PLUGIN = 
+                                    true;
+</script>
+
+
+<script type="text/javascript" src="//assets.sk-static.com/assets/javascript/entryPoints/JQuery-ca5acb31bb.js"></script>
+<script type="text/javascript" src="//assets.sk-static.com/assets/javascript/entryPoints/Songkick-F6PKCDLZ.js"></script>
+
+
+    
+
+    <title>Copenhagen Concerts, Festivals, Tickets &amp; Tour Dates 2026 &amp; 2027 – Songkick</title>
+
+    <link href="https://fonts.googleapis.com/css2?family=Archivo:wght@300;400;500;600;700;800&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+
+    <link href="//assets.sk-static.com/images/nw/1200-x-600-Wordmark-White.png" rel="image_src">
+    <link rel="icon" type="image/x-icon" href="//assets.sk-static.com/images/favicon.ico" />
+    <link href="//assets.sk-static.com/images/apple-touch-icon.png" rel="apple-touch-icon">
+    <link href="//assets.sk-static.com/images/apple-touch-icon.png" rel="apple-touch-icon-precomposed">
+        <link href="https://www.songkick.com/metro-areas/28617-denmark-copenhagen" rel="canonical">
+    <link rel="alternate" hreflang="en" href="https://www.songkick.com/metro-areas/28617-denmark-copenhagen" />
+    <link rel="alternate" hreflang="fr" href="https://www.songkick.com/fr/metro-areas/28617-denmark-copenhagen" />
+    <link rel="alternate" hreflang="es" href="https://www.songkick.com/es/metro-areas/28617-denmark-copenhagen" />
+    <link rel="alternate" hreflang="de" href="https://www.songkick.com/de/metro-areas/28617-denmark-copenhagen" />
+    <link rel="alternate" hreflang="pt" href="https://www.songkick.com/pt/metro-areas/28617-denmark-copenhagen" />
+    <link rel="alternate" hreflang="x-default" href="https://www.songkick.com/metro-areas/28617-denmark-copenhagen" />
+    <meta name="description" content="Find live music near you. Buy tickets for every upcoming concert, festival, gig and tour date taking place in Copenhagen in 2026 &amp; 2027">
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, width=device-width">
+    <meta name="mobile-web-app-capable" content="yes">
+
+
+
+      <script data-cfasync="false" type="text/javascript">
+  var freestar = freestar || {};
+  freestar.hitTime = Date.now();
+  freestar.queue = freestar.queue || [];
+  freestar.config = freestar.config || {};
+  freestar.debug = window.location.search.indexOf('fsdebug') === -1 ? false : true;
+  freestar.config.channel = 'location';
+  freestar.config.enabled_slots = [];
+
+  !function (a, b) {
+  var c = b.getElementsByTagName("script")[0], d = b.createElement("script"),
+    e = "https://a.pub.network/songkick-com";
+  e += freestar.debug ? "/qa/pubfig.min.js" : "/pubfig.min.js", d.async = !0, d.src = e, c.parentNode.insertBefore(d, c)
+  }(window, document);
+
+  freestar.initCallback = function () {
+    freestar.newAdSlots(freestar.config.enabled_slots);
+  }
+</script>
+
+  </head>
+  <body>
+    
+
+    <div id="fb-root"></div>
+    <!-- Code from Primis: songkick_slider -->
+<!-- Insert into the BODY section of the page -->
+<div id="primisSlider" class="primis-slider--desktop">
+<script type="text/javascript" language="javascript" src="https://live.primis.tech/live/liveView.php?s=118045&schain=1.0,1!freestar.com,604,1"></script>
+</div>
+<!-- End of code from Primis -->
+
+    
+    
+
+
+
+
+
+      <div class="navigation navigation-wrapper">
+          <div class="navigation-large-screen">
+  <ul class="nav-bar">
+    <li class="sub-nav">
+      <ul>
+        <li class="logo">
+          <a class="logo-link" href="/" data-analytics-category="navigation" data-analytics-label="logo"></a>
+        </li>
+          <li class="nav-item metro-area menu hover-for-touch">
+            <a href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="navigation" data-analytics-label="metro_area" title="Copenhagen concerts">Copenhagen concerts</a>
+            <div class="menu-content">
+              <a href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="navigation" data-analytics-label="popular_tickets"><span>Copenhagen concerts</span></a>
+              <a class="repeat" href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="navigation" data-analytics-label="metro_area" title="Copenhagen concerts">Copenhagen concerts</a>
+                <ul class="listing">
+                  <li class="event">
+                    <a href="/concerts/43352792-eric-prydz-at-tap1" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/315347/avatar" width="35" height="35" class="artist-profile-image artist" alt="Eric Prydz Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Eric Prydz</span>
+                        <br>
+                          <span class="venue">TAP1</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43337898-omah-lay-at-poolen" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10134761/avatar" width="35" height="35" class="artist-profile-image artist" alt="Omah Lay Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Omah Lay</span>
+                        <br>
+                          <span class="venue">Poolen</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/festivals/3797662-ministry-hate-to-go-goodbye-europe/id/43338131-ministry--hate-to-go--goodbye-europe-2027" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/events/43338131/avatar?series_id=3797662" width="35" height="35" class="artist-profile-image artist" alt="Ministry - Hate To Go – Goodbye Europe 2027">
+                      <span class="col">
+                        <span class="name">Ministry</span>
+                        <br>
+                          <span class="venue">Amager Bio</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43323689-jordan-rakei-at-vega-main-hall" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/7562719/avatar" width="35" height="35" class="artist-profile-image artist" alt="Jordan Rakei Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Jordan Rakei</span>
+                        <br>
+                          <span class="venue">Vega Main Hall</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43346169-nemzzz-at-lille-sal-pumpehuset" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10281000/avatar" width="35" height="35" class="artist-profile-image artist" alt="NEMZZZ Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">NEMZZZ</span>
+                        <br>
+                          <span class="venue">Lille Sal, Pumpehuset</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43328370-saint-levant-at-vega-musikkens-hus-store-vega" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10223434/avatar" width="35" height="35" class="artist-profile-image artist" alt="Saint Levant Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Saint Levant</span>
+                        <br>
+                          <span class="venue">VEGA - Musikkens Hus, Store VEGA</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43355671-paul-van-dyk-at-poolen" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/198526/avatar" width="35" height="35" class="artist-profile-image artist" alt="Paul van Dyk Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Paul van Dyk</span>
+                        <br>
+                          <span class="venue">Poolen</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43346401-sunflwr-at-rust" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10317306/avatar" width="35" height="35" class="artist-profile-image artist" alt="sunflwr Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">sunflwr</span>
+                        <br>
+                          <span class="venue">Rust</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43334309-andrea-vanzo-at-bremen-teater" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10275144/avatar" width="35" height="35" class="artist-profile-image artist" alt="Andrea Vanzo Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">Andrea Vanzo</span>
+                        <br>
+                          <span class="venue">Bremen Teater</span>
+                      </span>
+                    </a>
+                  </li>
+                  <li class="event">
+                    <a href="/concerts/43344835-rezn-at-spillestedet-stengade" class="col" data-analytics-category="navigation" data-analytics-label="metro_area_popular_ticket">
+                      <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/9074364/avatar" width="35" height="35" class="artist-profile-image artist" alt="REZN Concert Tickets - 2026 Tour Dates">
+                      <span class="col">
+                        <span class="name">REZN</span>
+                        <br>
+                          <span class="venue">Spillestedet Stengade</span>
+                      </span>
+                    </a>
+                  </li>
+                </ul>
+              <a href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="navigation" data-analytics-label="metro_area_see_all"></a>See all Copenhagen concerts <span class="change-location">(<a class="change-location" data-analytics-category="navigation-megadropdown" data-analytics-label="change_location" href="/session/filter_metro_area">Change&nbsp;location</a>)</span><br><br>
+              <a class="metro-area-today" data-analytics-category="navigation" data-analytics-label="metro_area_today" href="/en/metro-areas/28617-denmark-copenhagen?filters%5BmaxDate%5D=08%2F12%2F2026&amp;filters%5BminDate%5D=08%2F12%2F2026#date-filter-form">Today ·</a>
+              <a class="metro-area-7days" data-analytics-category="navigation" data-analytics-label="metro_area_7days" href="/en/metro-areas/28617-denmark-copenhagen?filters%5BmaxDate%5D=08%2F19%2F2026&amp;filters%5BminDate%5D=08%2F12%2F2026#date-filter-form">Next 7 days ·</a>
+              <a class="metro-area-month" data-analytics-category="navigation" data-analytics-label="metro_area_month" href="/en/metro-areas/28617-denmark-copenhagen?filters%5BmaxDate%5D=09%2F12%2F2026&amp;filters%5BminDate%5D=08%2F12%2F2026#date-filter-form">Next 30 days</a>
+            </div>
+          </li>
+        <li class="nav-item artists menu hover-for-touch">
+          <a href="/artists" data-analytics-category="navigation" data-analytics-label="artists">Artists</a>
+          <div class="menu-content">
+                <ul class="artists-navigation">
+  <li class="col"><a href="/metro-areas/28617-denmark-copenhagen#popular-artists-in-metro-area" data-analytics-category="navigation" data-analytics-label="popular_artists_metro_area">Popular artists in Copenhagen</a></li>
+    <li class="col"><a href="/leaderboards/trending_artists" data-analytics-category="navigation" data-analytics-label="trending_artists">Trending artists worldwide</a></li>
+  </ul>
+  <div class="listing">
+      <ul class="col popular-artists">
+          <li>
+            <a href="/artists/9175734-nba-youngboy" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/9175734/avatar" width="35" height="35" class="artist-profile-image artist" alt="NBA Youngboy Concert Tickets - 2026 Tour Dates.">
+              <span class="name">NBA Youngboy</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/235089-ashanti" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/235089/avatar" width="35" height="35" class="artist-profile-image artist" alt="Ashanti Concert Tickets - 2026 Tour Dates.">
+              <span class="name">Ashanti</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/416142-e40" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/416142/avatar" width="35" height="35" class="artist-profile-image artist" alt="E-40 Concert Tickets - 2026 Tour Dates.">
+              <span class="name">E-40</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/579183-wale" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/579183/avatar" width="35" height="35" class="artist-profile-image artist" alt="Wale Concert Tickets - 2026 Tour Dates.">
+              <span class="name">Wale</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/368240-all-time-low" data-analytics-category="navigation" data-analytics-label="artists_popular_artist_metro_area">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/368240/avatar" width="35" height="35" class="artist-profile-image artist" alt="All Time Low Concert Tickets - 2026 Tour Dates.">
+              <span class="name">All Time Low</span>
+            </a>
+          </li>
+      </ul>
+      <ul class="col popular-artists">
+          <li>
+            <a href="/artists/86467-kuru" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/86467/avatar" width="35" height="35" class="artist-profile-image artist" alt="kuru Concert Tickets - 2026 Tour Dates.">
+              <span class="name">kuru</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/10188892-mary-in-the-junkyard" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10188892/avatar" width="35" height="35" class="artist-profile-image artist" alt="Mary In The Junkyard Concert Tickets - 2026 Tour Dates.">
+              <span class="name">Mary In The Junkyard</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/10145653-omd" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/10145653/avatar" width="35" height="35" class="artist-profile-image artist" alt="OMD Concert Tickets - 2026 Tour Dates.">
+              <span class="name">OMD</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/25867-stardust" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/25867/avatar" width="35" height="35" class="artist-profile-image artist" alt="Stardust Concert Tickets - 2026 Tour Dates.">
+              <span class="name">Stardust</span>
+            </a>
+          </li>
+          <li>
+            <a href="/artists/751136-mike-d" data-analytics-category="navigation" data-analytics-label="artists_trending_artist">
+              <img src="//assets.sk-static.com/images/default_images/thumb/default-artist.png" data-src="//images.sk-static.com/images/media/profile_images/artists/751136/avatar" width="35" height="35" class="artist-profile-image artist" alt="Mike D Concert Tickets - 2026 Tour Dates.">
+              <span class="name">Mike D</span>
+            </a>
+          </li>
+      </ul>
+  </div>
+
+            <div class="tourbox-cta">
+              Get your tour dates seen by one billion fans: <a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=visitor" class="sign-up-as-an-artist" data-analytics-category="navigation" data-analytics-label="sign_up_tourbox">Sign up as an artist</a>
+            </div>
+          </div>
+        </li>
+        <li class="nav-item menu about-us">
+          <a class="festivals" data-analytics-category="navigation" data-analytics-label="festivals" href="/festivals">Festivals</a>
+        </li>
+        <li class="nav-item live-stream-concerts menu">
+          <a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=nav-tourbox-upsell-visitor" target="_blank" data-analytics-category="navigation" data-analytics-label="tourbox_upsell" title="Tourbox for artists">Tourbox for artists</a>
+        </li>
+        </ul>
+    <li class="sub-nav">
+      <ul class="right-side-navbar">
+        <li class="search nav-search-wrap">
+            <div class="search-modal-button" id="searchButton">
+  <img class="search-icon" src="/images/react/search-icon-nav.svg" alt="search icon"/>
+  <p class="search-button-text" id="searchButtonText">Search for events or artists</p>
+</div>
+
+
+        </li>
+        <li class="login-signup">
+          <a href="https://accounts.songkick.com/signup/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fmetro-areas%2F28617-denmark-copenhagen&amp;locale=en" rel="nofollow" class="signup-link" data-signup-source="Everything else" data-analytics-category="signup_cta" data-analytics-action="metro-areas:navigation_sign_up" data-analytics-label="sign_up">Sign up</a> <a href="https://accounts.songkick.com/session/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fmetro-areas%2F28617-denmark-copenhagen&amp;locale=en" rel="nofollow" class="login-link"  data-analytics-category-additional="login_cta" data-analytics-category="navigation" data-analytics-label="log_in" data-analytics-action="metro-areas:navigation_login">Log in</a>
+        </li>
+      </ul>
+    </li>
+  </ul>
+
+</div>
+
+<div>
+  <input type="hidden" name="authenticity_token" id="authenticity_token" value="HMnM2ey6opiW6kjgAUYKktyMs8GCdLePxY0OoDzSQ3R1oR8h3HrrIdhwpHduAtH4Ly3xtrjqkYCs5hTJZyCxMw" autocomplete="off" />
+<noscript>Sorry, you have to enable javascript to view this page!</noscript>
+<div id="searchmodal" data-props="{&quot;env&quot;:&quot;production&quot;,&quot;visible&quot;:false}" ></div>
+
+</div>
+
+
+          <div class="local-navigation">
+  <a href="/" id="logo" data-analytics-category="navigation_small_screen" data-analytics-label="logo"><img src="//assets.sk-static.com/images/nw/components/navigation/header-logo.svg" alt="Songkick" width="124" height="32"></a>
+  <ul>
+    <li class="nav-icon main-menu"><a href="#home"><img src="//assets.sk-static.com/images/nw/components/navigation/local-navigation/navigation-icon.png" width="22" height="15" alt="Show navigation"></a></li>
+    <li class="get-mobile-app-button">
+      
+<a
+  href="#"
+  data-app-store-campaign="mobile_app_banner_logged_out_metr"
+  data-analytics-category="mobile_app_banner_logged_out"
+  data-analytics-action="click"
+  data-analytics-label="get_free_app"
+  data-analytics-page-type="metro-area"
+  class="button app-store-redirect">
+  <span class="button-copy">Get the app</span>
+</a>
+
+
+    </li>
+    <li class="home nav nav-top" id="home">
+      <a class="home" data-analytics-category="navigation" data-analytics-label="home" href="/">Home</a>
+    </li>
+    <li class="nav">
+      <a data-analytics-category="navigation" data-analytics-label="metro_area" href="/metro-areas/28617-denmark-copenhagen">Copenhagen concerts</a>
+    </li>
+    <li class="nav">
+      <a class="change-location" data-analytics-category="navigation" data-analytics-label="change_location" href="/session/filter_metro_area">Change&nbsp;location</a>
+    </li>
+    <li>
+      <a class="popular-artists" data-analytics-category="navigation" data-analytics-label="popular_artists" href="/artists">Popular Artists</a>
+    </li>
+    <li class="nav">
+      <a class="festivals" data-analytics-category="navigation" data-analytics-label="festivals" href="/festivals">Festivals</a>
+    </li>
+    <li class="nav tourbox_cta_logged_out">
+      <a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=nav-tourbox-upsell-visitor" target="_blank" data-analytics-category="navigation" data-analytics-label="tourbox_upsell" title="Tourbox for artists">Tourbox for artists</a>
+    </li>
+    <li class="nav">
+      <a data-analytics-category="navigation" data-analytics-label="live_stream_concerts" href="/live-stream-concerts">Live streams</a>
+    </li>
+      <li class="nav language-switcher language-nav">
+        <p class="language-subtitle">Language</p>
+          <div class="language-options">
+            <div class="english-language">
+              <a class="switch-language-english" data-analytics-category="navigation" data-analytics-label="switch_language_english" href="https://www.songkick.com/metro-areas/28617-denmark-copenhagen">English</a>
+            </div>
+            <div class="french-language">
+              <a class="switch-language-french" data-analytics-category="navigation" data-analytics-label="switch_language_french" href="https://www.songkick.com/fr/metro-areas/28617-denmark-copenhagen">Français</a>
+            </div>
+            <div class="spanish-language">
+              <a class="switch-language-spanish" data-analytics-category="navigation" data-analytics-label="switch_language_spanish" href="https://www.songkick.com/es/metro-areas/28617-denmark-copenhagen">Español</a>
+            </div>
+          </div>
+      </li>
+      <li class="nav language-switcher language-bottom">
+          <div class="language-options">
+            <div class="german-language">
+              <a class="switch-language-german" data-analytics-category="navigation" data-analytics-label="switch_language_german" href="https://www.songkick.com/de/metro-areas/28617-denmark-copenhagen">Deutsch</a>
+            </div>
+            <div class="portuguese-language">
+              <a class="switch-language-portuguese" data-analytics-category="navigation" data-analytics-label="switch_language_portuguese" href="https://www.songkick.com/pt/metro-areas/28617-denmark-copenhagen">Português</a>
+            </div>
+          </div>
+      </li>
+    <li class="login">
+      <a href="https://accounts.songkick.com/session/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fmetro-areas%2F28617-denmark-copenhagen&amp;locale=en" data-analytics_category="navigation" data-analytics_label="log_in">
+        <img src="//assets.sk-static.com/images/nw/components/navigation/user.svg" height="14" alt="Log in"> Log in to your account
+      </a>
+    </li>
+    <li class="signup nav-bottom">
+      <a class="sign-up" data-analytics-category="navigation" data-analytics-label="sign_up" href="https://accounts.songkick.com/signup/new?source_product=skweb&amp;login_success_url=https%3A%2F%2Fwww.songkick.com%2Fmetro-areas%2F28617-denmark-copenhagen&amp;locale=en">Sign up</a>
+    </li>
+  </ul>
+</div>
+
+<script type="text/javascript">
+  new Songkick.Component.NavigationSmallScreen();
+</script>
+
+
+
+
+      </div>
+
+        <div class="navigation-carousel-wrapper not-sticky">
+    <ul>
+      <li class="carousel-item">
+          <button class="search-button" id="searchButtonMobile">
+    <img src="//assets.sk-static.com/images/nw/components/navigation/carousel/search_icon_24.svg" height="16" width="16" alt="search">
+    Find concerts
+  </button>
+
+  <div>
+    <input type="hidden" name="authenticity_token" id="authenticity_token" value="MoMD30mnxqCcEREiOCO3wjRCX41WcYWI-5h7VRKoFqlb69AneWePGdKL_bVXZ2yox-Md-mzvo4eS82E8SVrk7g" autocomplete="off" />
+<noscript>Sorry, you have to enable javascript to view this page!</noscript>
+<div id="searchmodal" data-props="{&quot;env&quot;:&quot;production&quot;,&quot;visible&quot;:false}" ></div>
+
+  </div>
+
+
+      </li>
+      <li class="carousel-item carousel-button">
+        <a data-analytics-category="navigation" data-analytics-label="metro_area_mobile_nav" data-analytics-action="click" href="/metro-areas/nearby">Concerts near you</a>
+
+      </li>
+      <li class="carousel-item carousel-button">
+        <a data-analytics-category="signup_cta" data-analytics-label="mobile_nav:your_artists" data-analytics-action="click" class="your-artists" href="/metro-areas/nearby?sign_up=true">
+<img src="//assets.sk-static.com/images/nw/elements/social-buttons/spotify_logo_30px_height.svg" height="18" width="18" alt="spotify icon" class="spotify-icon">
+  <span>Your artists</span>
+</a>
+      </li>
+      <li class="carousel-item carousel-button">
+        <a data-analytics-category="navigation" data-analytics-label="popular_artists_mobile_nav" data-analytics-action="click" href="/artists">Popular artists</a>
+
+      </li>
+      <li class="carousel-item carousel-button">
+        <a href="//tourbox.songkick.com/?utm_medium=referral&amp;utm_source=songkick.com&amp;utm_campaign=nav-tourbox-upsell-visitor" data-analytics-category="navigation" data-analytics-label="sign_up_tourbox">Tourbox for artists</a>
+      </li>
+    </ul>
+  </div>
+
+
+
+    <div class="sticky-container">
+        <div class="sticky-container">
+      <div class="ad-container ad-container-grey ad-primary-desktop">
+        <div id='songkick_728x90_970x90_970x250_ATF_Desktop'></div>
+      </div>
+
+    <div class="component brief logged-out">
+  <div class="container">
+    <div class="copy">
+      <h1 class="fn org">Concerts in Copenhagen</h1>
+      <p class="summary">Find tickets to all live music, concerts, tour dates and festivals in and around Copenhagen.</p>
+      <p class="upcoming-concerts-count">Currently there are <b>627</b> upcoming events.</p>
+    </div>
+  </div>
+</div>
+
+
+    <div class="container">
+      <div class="row">
+        <div class="col-8 primary">
+          <div class="filter-container">
+           <div class="artist-filter component">
+  <h4>Filter by artist</h4>
+  <ul class="filter-nav-carousel artist">
+  <li class="item selected">
+    <a class="link">
+      All
+    </a>
+  </li>
+  <li>
+    <div class="tracking">
+  <form data-analytics-category="signup_cta" data-analytics-action="metro_area:cta_button" data-analytics-label="28617" data-tracking-text="Your favorite artists" data-stop-tracking-text="Your favorite artists" class="app-store-redirect" action="/trackings" accept-charset="UTF-8" method="post"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" /><input type="hidden" name="authenticity_token" value="tI14Rrv7FYu-u3rZS5NJNdF0crfP9n2UCY9VM6u7rm7d5au-iztcMvAhlk4k15JfItUwwPVoW5tg5E9a8ElcKQ" autocomplete="off" />
+    <input type="hidden" name="relationship_type" value="concerts">
+    <input type="hidden" name="subject_id" value="28617">
+    <input type="hidden" name="subject_type" value="MetroArea">
+    <input type="hidden" name="success_url" value="/metro-areas/28617-denmark-copenhagen">
+    <button type="submit" class="metro-area signup-cta" value="Your favorite artists">Your favorite artists</button>
+</form></div>
+
+  </li>
+</ul>
+
+</div>
+
+
+            
+<div class="date-filter component">
+  <h4>Filter by date</h4>
+  <ul class="filter-nav-carousel date">
+    <li class="item selected">
+      <a href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="metro_page_date_filter" data-analytics-label="all" data-analytics-action="click" class="link">
+        All
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/tonight" data-analytics-category="metro_page_date_filter" data-analytics-label="tonight" data-analytics-action="click" class="link">
+        Tonight
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/this-weekend" data-analytics-category="metro_page_date_filter" data-analytics-label="this_weekend" data-analytics-action="click" class="link">
+        This weekend
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/this-month" data-analytics-category="metro_page_date_filter" data-analytics-label="this_month" data-analytics-action="click" class="link">
+        This month
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/september-2026" data-analytics-category="metro_page_date_filter" data-analytics-label="next_month" data-analytics-action="click" class="link">
+        Sep
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/october-2026" data-analytics-category="metro_page_date_filter" data-analytics-label="next_month_plus_1" data-analytics-action="click" class="link">
+        Oct
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/november-2026" data-analytics-category="metro_page_date_filter" data-analytics-label="next_month_plus_2" data-analytics-action="click" class="link">
+        Nov
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/2026" data-analytics-category="metro_page_date_filter" data-analytics-label="this_year" data-analytics-action="click" class="link">
+        2026
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/2027" data-analytics-category="metro_page_date_filter" data-analytics-label="next_year" data-analytics-action="click" class="link">
+        2027
+      </a>
+    </li>
+  <li>
+    <span class="last-item-spacer"></span>
+  </li>
+</ul>
+
+
+  <form id="date-filter-form" action="/metro-areas/28617-denmark-copenhagen" accept-charset="UTF-8" method="get"><input type="hidden" name="utf8" value="&#x2713;" autocomplete="off" />
+    <div class="datepicker-top-row">
+      <div class="datepicker-container">
+        <input type="text" id="datepicker-mindate" name="filters[minDate]" placeholder="From" readonly>
+      </div>
+      <div class="datepicker-container">
+      <input type="text" id="datepicker-maxdate" name="filters[maxDate]" placeholder="To" readonly>
+      </div>
+      <input class="datepicker-submit" type="submit" data-analytics-category="metro_area_in_page_nav_date_filter" data-analytics-action="click" data-analytics-label="date_picker_search" value="" tabindex="100">
+    </div>
+</form></div>
+
+
+            <div class="genre-filter component">
+  <h4>Filter by genre</h4>
+  <ul class="filter-nav-carousel genre">
+    <li class="item selected">
+      <a href="/metro-areas/28617-denmark-copenhagen" data-analytics-category="metro_page_genre_filter" data-analytics-label="all" data-analytics-action="click" class="link">
+        All
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/rock" data-analytics-category="metro_page_genre_filter" data-analytics-label="rock" data-analytics-action="click" class="link">
+        Rock
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/comedy" data-analytics-category="metro_page_genre_filter" data-analytics-label="comedy" data-analytics-action="click" class="link">
+        Comedy
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/pop" data-analytics-category="metro_page_genre_filter" data-analytics-label="pop" data-analytics-action="click" class="link">
+        Pop
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/hip-hop" data-analytics-category="metro_page_genre_filter" data-analytics-label="hip_hop" data-analytics-action="click" class="link">
+        Hip-Hop
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/r-and-b" data-analytics-category="metro_page_genre_filter" data-analytics-label="r_and_b" data-analytics-action="click" class="link">
+        R&amp;B
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/indie-alternative" data-analytics-category="metro_page_genre_filter" data-analytics-label="indie_alternative" data-analytics-action="click" class="link">
+        Indie &amp; Alt
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/electronic" data-analytics-category="metro_page_genre_filter" data-analytics-label="electronic" data-analytics-action="click" class="link">
+        Electronic
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/country" data-analytics-category="metro_page_genre_filter" data-analytics-label="country" data-analytics-action="click" class="link">
+        Country
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/classical" data-analytics-category="metro_page_genre_filter" data-analytics-label="classical" data-analytics-action="click" class="link">
+        Classical
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/metal" data-analytics-category="metro_page_genre_filter" data-analytics-label="metal" data-analytics-action="click" class="link">
+        Metal
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/latin" data-analytics-category="metro_page_genre_filter" data-analytics-label="latin" data-analytics-action="click" class="link">
+        Latin
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/folk" data-analytics-category="metro_page_genre_filter" data-analytics-label="folk_blues" data-analytics-action="click" class="link">
+        Folk &amp; Blues
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/jazz" data-analytics-category="metro_page_genre_filter" data-analytics-label="jazz" data-analytics-action="click" class="link">
+        Jazz
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/funk-soul" data-analytics-category="metro_page_genre_filter" data-analytics-label="funk_soul" data-analytics-action="click" class="link">
+        Funk &amp; Soul
+      </a>
+    </li>
+    <li class="item">
+      <a href="/metro-areas/28617-denmark-copenhagen/genre/reggae" data-analytics-category="metro_page_genre_filter" data-analytics-label="reggae" data-analytics-action="click" class="link">
+        Reggae
+      </a>
+    </li>
+  <li>
+    <span class="last-item-spacer"></span>
+  </li>
+</ul>
+
+
+</div>
+          </div>
+          
+                <div class="video-ad-wrapper">
+    <div align="center" data-freestar-ad="__336x280" id="songkick_incontent_top">
+      <script data-cfasync="false" type="text/javascript">
+        freestar.config.enabled_slots.push({ placementName: "songkick_incontent_top", slotId: "songkick_incontent_top" });
+      </script>
+    </div>
+  </div>
+
+
+          <div class="component metro-area-calendar with-ads" id="metro-area-calendar">
+    <div class="upcoming-concerts-count-wrapper">
+      <h2 class="upcoming-concerts">621 upcoming concerts</h2>
+    </div>
+    <ul class="component metro-area-calendar-listings dynamic-ad-container">
+    <li class="date-element after-ad">
+      <time datetime="2026-08-12T20:00:00+0200">Wednesday 12 August 2026</time>
+    </li>
+
+      <li title="Wednesday 12 August 2026" class="event-listings-element">
+        <time datetime="2026-08-12T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/9033619/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="bbno$ Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega">
+                <span>
+                  <strong>bbno$</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/4179174-vega-musikkens-hus-store-vega">VEGA - Musikkens Hus, Store VEGA</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"bbno$ @ VEGA - Musikkens Hus, Store VEGA","url":"https://www.songkick.com/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/9033619/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Enghavevej 40","postalCode":"1674"},"name":"VEGA - Musikkens Hus, Store VEGA","sameAs":"http://www.vega.dk","geo":{"@type":"GeoCoordinates","latitude":55.66811,"longitude":12.54404}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-12T20:00:00","endDate":"2026-08-12","performer":[{"@type":"MusicGroup","name":"bbno$","genre":["r_and_b","hip_hop"],"sameAs":"https://www.songkick.com/artists/9033619-bbnos?utm_medium=organic\u0026utm_source=microformat"}],"description":"bbno$ at VEGA - Musikkens Hus, Store VEGA at 2026-08-12T20:00:00+0200","organizer":{"@type":"Organization","name":"bbno$","url":"https://www.songkick.com/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43229938-bbnos-at-vega-musikkens-hus-store-vega?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Wednesday 12 August 2026" class="event-listings-element">
+        <time datetime="2026-08-12T21:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/595055/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="The Ghost Inside Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset">
+                <span>
+                  <strong>The Ghost Inside</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/32939-lille-sal-pumpehuset">Lille Sal, Pumpehuset</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"The Ghost Inside @ Lille Sal, Pumpehuset","url":"https://www.songkick.com/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/595055/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Studiestræde 52","postalCode":"1554"},"name":"Lille Sal, Pumpehuset","sameAs":"http://www.pumpehuset.dk/","geo":{"@type":"GeoCoordinates","latitude":55.67713,"longitude":12.56519}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-12T21:00:00","endDate":"2026-08-12","performer":[{"@type":"MusicGroup","name":"The Ghost Inside","genre":["metal","rock"],"sameAs":"https://www.songkick.com/artists/595055-ghost-inside?utm_medium=organic\u0026utm_source=microformat"}],"description":"The Ghost Inside at Lille Sal, Pumpehuset at 2026-08-12T21:00:00+0200","organizer":{"@type":"Organization","name":"The Ghost Inside","url":"https://www.songkick.com/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/42999295-ghost-inside-at-lille-sal-pumpehuset?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Wednesday 12 August 2026" class="event-listings-element">
+        <time datetime="2026-08-12T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43111117-tailgunner-at-spillestedet-stengade" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/435874/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Tailgunner Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43111117-tailgunner-at-spillestedet-stengade">
+                <span>
+                  <strong>Tailgunner</strong>
+                    <span class="support">Shred</span>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1136391-spillestedet-stengade">Spillestedet Stengade</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43111117-tailgunner-at-spillestedet-stengade">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Tailgunner @ Spillestedet Stengade","url":"https://www.songkick.com/concerts/43111117-tailgunner-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/435874/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Stengade 18","postalCode":"2200"},"name":"Spillestedet Stengade","sameAs":"http://www.stengade.dk","geo":{"@type":"GeoCoordinates","latitude":55.68819,"longitude":12.5557}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-12T20:00:00","endDate":"2026-08-12","performer":[{"@type":"MusicGroup","name":"Tailgunner","genre":[],"sameAs":"https://www.songkick.com/artists/435874-tailgunner?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Shred","genre":[],"sameAs":"https://www.songkick.com/artists/786178-shred?utm_medium=organic\u0026utm_source=microformat"}],"description":"Tailgunner at Spillestedet Stengade at 2026-08-12T20:00:00+0200","organizer":{"@type":"Organization","name":"Tailgunner","url":"https://www.songkick.com/concerts/43111117-tailgunner-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43111117-tailgunner-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-13">Thursday 13 August 2026</time>
+    </li>
+
+      <li title="Thursday 13 August 2026" class="event-listings-element">
+        <time datetime="2026-08-13"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43188747-sombr-at-syd-for-solen" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/10255766/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="sombr Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43188747-sombr-at-syd-for-solen">
+                <span>
+                  <strong>sombr</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/4647529-syd-for-solen">Syd For Solen</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43188747-sombr-at-syd-for-solen">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"sombr @ Syd For Solen","url":"https://www.songkick.com/concerts/43188747-sombr-at-syd-for-solen?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/10255766/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":null,"postalCode":null},"name":"Syd For Solen","sameAs":null},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-13","endDate":"2026-08-13","performer":[{"@type":"MusicGroup","name":"sombr","genre":[],"sameAs":"https://www.songkick.com/artists/10255766-sombr?utm_medium=organic\u0026utm_source=microformat"}],"description":"sombr at Syd For Solen at 2026-08-13","organizer":{"@type":"Organization","name":"sombr","url":"https://www.songkick.com/concerts/43188747-sombr-at-syd-for-solen?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43188747-sombr-at-syd-for-solen?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Thursday 13 August 2026" class="event-listings-element">
+        <time datetime="2026-08-13T20:30:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43330054-coffins-at-loppen" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/452293/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Coffins Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43330054-coffins-at-loppen">
+                <span>
+                  <strong>Coffins</strong>
+                    <span class="support">Dead Void</span>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/44268-loppen">Loppen</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43330054-coffins-at-loppen">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Coffins @ Loppen","url":"https://www.songkick.com/concerts/43330054-coffins-at-loppen?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/452293/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Bådsmandsstræde 43, Christiania","postalCode":"1440"},"name":"Loppen","sameAs":"http://www.loppen.dk/","geo":{"@type":"GeoCoordinates","latitude":55.67347,"longitude":12.59581}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-13T20:30:00","endDate":"2026-08-13","performer":[{"@type":"MusicGroup","name":"Coffins","genre":["metal"],"sameAs":"https://www.songkick.com/artists/452293-coffins?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Dead Void","genre":["metal"],"sameAs":"https://www.songkick.com/artists/10291588-dead-void?utm_medium=organic\u0026utm_source=microformat"}],"description":"Coffins at Loppen at 2026-08-13T20:30:00+0200","organizer":{"@type":"Organization","name":"Coffins","url":"https://www.songkick.com/concerts/43330054-coffins-at-loppen?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43330054-coffins-at-loppen?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Thursday 13 August 2026" class="event-listings-element">
+        <time datetime="2026-08-13"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43195120-freschard-at-basement" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/235232/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Freschard Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43195120-freschard-at-basement">
+                <span>
+                  <strong>Freschard and Stanley Brinks</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/2340624-basement">Basement</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43195120-freschard-at-basement">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Freschard @ Basement","url":"https://www.songkick.com/concerts/43195120-freschard-at-basement?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/235232/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Enghavevej 42","postalCode":"1674"},"name":"Basement","sameAs":"http://www.basement.kk.dk","geo":{"@type":"GeoCoordinates","latitude":55.66779,"longitude":12.54411}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-13","endDate":"2026-08-13","performer":[{"@type":"MusicGroup","name":"Freschard","genre":[],"sameAs":"https://www.songkick.com/artists/235232-freschard?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Stanley Brinks","genre":[],"sameAs":"https://www.songkick.com/artists/580893-stanley-brinks?utm_medium=organic\u0026utm_source=microformat"}],"description":"Freschard and Stanley Brinks at Basement at 2026-08-13","organizer":{"@type":"Organization","name":"Freschard","url":"https://www.songkick.com/concerts/43195120-freschard-at-basement?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43195120-freschard-at-basement?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Thursday 13 August 2026" class="event-listings-element">
+        <time datetime="2026-08-13T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43147877-smuk-at-rust" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/894642/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="SMUK Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43147877-smuk-at-rust">
+                <span>
+                  <strong>SMUK</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/59917-rust">Rust</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43147877-smuk-at-rust">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"SMUK @ Rust","url":"https://www.songkick.com/concerts/43147877-smuk-at-rust?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/894642/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Guldbergsgade 8","postalCode":"2200"},"name":"Rust","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.69092,"longitude":12.55712}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-13T20:00:00","endDate":"2026-08-13","performer":[{"@type":"MusicGroup","name":"SMUK","genre":[],"sameAs":"https://www.songkick.com/artists/894642-smuk?utm_medium=organic\u0026utm_source=microformat"}],"description":"SMUK at Rust at 2026-08-13T20:00:00+0200","organizer":{"@type":"Organization","name":"SMUK","url":"https://www.songkick.com/concerts/43147877-smuk-at-rust?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43147877-smuk-at-rust?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-13">Thursday 13 August 2026 – Saturday 15 August 2026</time>
+    </li>
+
+      <li title="Thursday 13 August 2026 – Saturday 15 August 2026" class="event-listings-element">
+        <time datetime="2026-08-13"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/events/42875082/large_avatar?series_id=3404908"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Syd For Solen 2026">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026">
+                  <strong>Syd For Solen 2026</strong>
+                    <span class="support">Lorde, The xx, Blood Orange, Ravyn Lenae, Turnstile, Paris Paloma, Dijon, and Amyl and The Sniffers</span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/632186-valbyparken">Valbyparken</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Syd For Solen 2026 @ Valbyparken","url":"https://www.songkick.com/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/events/42875082/huge_avatar?series_id=3404908","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Hammelstrupvej 100","postalCode":"2450"},"name":"Valbyparken","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.6419,"longitude":12.52046}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-13","endDate":"2026-08-15","performer":[{"@type":"MusicGroup","name":"Lorde","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/6715369-lorde?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"The xx","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/515434-xx?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Blood Orange","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/631113-blood-orange?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Ravyn Lenae","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/8668669-ravyn-lenae?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Turnstile","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/730608-turnstile?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Paris Paloma","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/10156280-paris-paloma?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Dijon","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/1620772-dijon?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Amyl and The Sniffers","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/8796449-amyl-and-the-sniffers?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Medina","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/375662-medina?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Iceage","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/2613161-iceage?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Freak Slug","genre":["pop","indie_alternative","electronic","funk_soul","r_and_b","rock","country","folk_blues"],"sameAs":"https://www.songkick.com/artists/10175020-freak-slug?utm_medium=organic\u0026utm_source=microformat"}],"description":"Syd For Solen 2026 at Valbyparken at 2026-08-13","organizer":{"@type":"Organization","name":"Syd For Solen 2026","url":"https://www.songkick.com/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/festivals/3404908-syd-for-solen/id/42875082-syd-for-solen-2026?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-14T20:00:00+0200">Friday 14 August 2026</time>
+    </li>
+
+      <li title="Friday 14 August 2026" class="event-listings-element">
+        <time datetime="2026-08-14T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43263302-party-cannon-at-beta" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/3984806/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Party Cannon Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43263302-party-cannon-at-beta">
+                <span>
+                  <strong>Party Cannon</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/811381-beta">Beta</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43263302-party-cannon-at-beta">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Party Cannon @ Beta","url":"https://www.songkick.com/concerts/43263302-party-cannon-at-beta?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/3984806/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Øresundsvej 6","postalCode":"2300"},"name":"Beta","sameAs":"http://www.beta2300.dk/","geo":{"@type":"GeoCoordinates","latitude":55.65796,"longitude":12.60932}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-14T20:00:00","endDate":"2026-08-14","performer":[{"@type":"MusicGroup","name":"Party Cannon","genre":["metal"],"sameAs":"https://www.songkick.com/artists/3984806-party-cannon?utm_medium=organic\u0026utm_source=microformat"}],"description":"Party Cannon at Beta at 2026-08-14T20:00:00+0200","organizer":{"@type":"Organization","name":"Party Cannon","url":"https://www.songkick.com/concerts/43263302-party-cannon-at-beta?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43263302-party-cannon-at-beta?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Friday 14 August 2026" class="event-listings-element">
+        <time datetime="2026-08-14T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/8938969/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="violent magic orchestra Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade">
+                <span>
+                  <strong>violent magic orchestra</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1136391-spillestedet-stengade">Spillestedet Stengade</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"violent magic orchestra @ Spillestedet Stengade","url":"https://www.songkick.com/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/8938969/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Stengade 18","postalCode":"2200"},"name":"Spillestedet Stengade","sameAs":"http://www.stengade.dk","geo":{"@type":"GeoCoordinates","latitude":55.68819,"longitude":12.5557}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-14T20:00:00","endDate":"2026-08-14","performer":[{"@type":"MusicGroup","name":"violent magic orchestra","genre":[],"sameAs":"https://www.songkick.com/artists/8938969-violent-magic-orchestra?utm_medium=organic\u0026utm_source=microformat"}],"description":"violent magic orchestra at Spillestedet Stengade at 2026-08-14T20:00:00+0200","organizer":{"@type":"Organization","name":"violent magic orchestra","url":"https://www.songkick.com/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43201783-violent-magic-orchestra-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Friday 14 August 2026" class="event-listings-element">
+        <time datetime="2026-08-14T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43086883-legobygger123-at-rust" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/10394654/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="legobygger123 Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43086883-legobygger123-at-rust">
+                <span>
+                  <strong>legobygger123, narkovrag27, and Yungholgi</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/59917-rust">Rust</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43086883-legobygger123-at-rust">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"legobygger123 @ Rust","url":"https://www.songkick.com/concerts/43086883-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/10394654/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Guldbergsgade 8","postalCode":"2200"},"name":"Rust","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.69092,"longitude":12.55712}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-14T20:00:00","endDate":"2026-08-14","performer":[{"@type":"MusicGroup","name":"legobygger123","genre":[],"sameAs":"https://www.songkick.com/artists/10394654-legobygger123?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"narkovrag27","genre":[],"sameAs":"https://www.songkick.com/artists/10394657-narkovrag27?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Yungholgi","genre":[],"sameAs":"https://www.songkick.com/artists/10411788-yungholgi?utm_medium=organic\u0026utm_source=microformat"}],"description":"legobygger123, narkovrag27, and Yungholgi at Rust at 2026-08-14T20:00:00+0200","organizer":{"@type":"Organization","name":"legobygger123","url":"https://www.songkick.com/concerts/43086883-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43086883-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Friday 14 August 2026" class="event-listings-element">
+        <time datetime="2026-08-14"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43352184-farveblind-at-byhaven-pumpehuset" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/8725539/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="FARVEBLIND Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43352184-farveblind-at-byhaven-pumpehuset">
+                <span>
+                  <strong>FARVEBLIND</strong>
+                    <span class="support">Green Tea Bitches</span>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/2564809-byhaven-pumpehuset">Byhaven Pumpehuset</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43352184-farveblind-at-byhaven-pumpehuset">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"FARVEBLIND @ Byhaven Pumpehuset","url":"https://www.songkick.com/concerts/43352184-farveblind-at-byhaven-pumpehuset?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/8725539/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Studiestræde 52","postalCode":"1554"},"name":"Byhaven Pumpehuset","sameAs":"http://pumpehuset.dk/","geo":{"@type":"GeoCoordinates","latitude":55.67713,"longitude":12.56521}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-14","endDate":"2026-08-14","performer":[{"@type":"MusicGroup","name":"FARVEBLIND","genre":[],"sameAs":"https://www.songkick.com/artists/8725539-farveblind?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Green Tea Bitches","genre":[],"sameAs":"https://www.songkick.com/artists/10409020-green-tea-bitches?utm_medium=organic\u0026utm_source=microformat"}],"description":"FARVEBLIND at Byhaven Pumpehuset at 2026-08-14","organizer":{"@type":"Organization","name":"FARVEBLIND","url":"https://www.songkick.com/concerts/43352184-farveblind-at-byhaven-pumpehuset?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43352184-farveblind-at-byhaven-pumpehuset?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-15T20:00:00+0200">Saturday 15 August 2026</time>
+    </li>
+
+      <li title="Saturday 15 August 2026" class="event-listings-element">
+        <time datetime="2026-08-15T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43234521-legobygger123-at-rust" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/10394654/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="legobygger123 Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43234521-legobygger123-at-rust">
+                <span>
+                  <strong>legobygger123, narkovrag27, and Yungholgi</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/59917-rust">Rust</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43234521-legobygger123-at-rust">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"legobygger123 @ Rust","url":"https://www.songkick.com/concerts/43234521-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/10394654/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Guldbergsgade 8","postalCode":"2200"},"name":"Rust","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.69092,"longitude":12.55712}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-15T20:00:00","endDate":"2026-08-15","performer":[{"@type":"MusicGroup","name":"legobygger123","genre":[],"sameAs":"https://www.songkick.com/artists/10394654-legobygger123?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"narkovrag27","genre":[],"sameAs":"https://www.songkick.com/artists/10394657-narkovrag27?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Yungholgi","genre":[],"sameAs":"https://www.songkick.com/artists/10411788-yungholgi?utm_medium=organic\u0026utm_source=microformat"}],"description":"legobygger123, narkovrag27, and Yungholgi at Rust at 2026-08-15T20:00:00+0200","organizer":{"@type":"Organization","name":"legobygger123","url":"https://www.songkick.com/concerts/43234521-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43234521-legobygger123-at-rust?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Saturday 15 August 2026" class="event-listings-element">
+        <time datetime="2026-08-15"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/107491/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Dodo &amp; The Dodos Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall">
+                <span>
+                  <strong>Dodo &amp; The Dodos</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1713978-wonderfestiwall">Wonderfestiwall</a></span>,
+              <span>
+                <span class="city-name">Allinge, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Dodo \u0026 The Dodos @ Wonderfestiwall","url":"https://www.songkick.com/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/107491/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Allinge","addressCountry":"Denmark","streetAddress":"Slotslyngvej 7","postalCode":"3770"},"name":"Wonderfestiwall","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.26905,"longitude":14.76309}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-15","endDate":"2026-08-15","performer":[{"@type":"MusicGroup","name":"Dodo \u0026 The Dodos","genre":[],"sameAs":"https://www.songkick.com/artists/107491-dodo-and-the-dodos?utm_medium=organic\u0026utm_source=microformat"}],"description":"Dodo \u0026 The Dodos at Wonderfestiwall at 2026-08-15","organizer":{"@type":"Organization","name":"Dodo \u0026 The Dodos","url":"https://www.songkick.com/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43180233-dodo-and-the-dodos-at-wonderfestiwall?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element after-ad">
+      <time datetime="2026-08-15">Saturday 15 August 2026 – Saturday 15 August 2026</time>
+    </li>
+
+      <li title="Saturday 15 August 2026 – Saturday 15 August 2026" class="event-listings-element">
+        <time datetime="2026-08-15"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/events/42924800/large_avatar?series_id=269303"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Wonderfestiwall 2026">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026">
+                  <strong>Wonderfestiwall 2026</strong>
+                    <span class="support">The Cardigans, Melanie C, Infernal, Burhan G, Kesi, TV-2, Gobs, and Dizzy Mizz Lizzy</span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1713978-wonderfestiwall">Wonderfestiwall</a></span>,
+              <span>
+                <span class="city-name">Allinge, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Wonderfestiwall 2026 @ Wonderfestiwall","url":"https://www.songkick.com/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/events/42924800/huge_avatar?series_id=269303","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Allinge","addressCountry":"Denmark","streetAddress":"Slotslyngvej 7","postalCode":"3770"},"name":"Wonderfestiwall","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.26905,"longitude":14.76309}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-15","endDate":"2026-08-15","performer":[{"@type":"MusicGroup","name":"The Cardigans","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/107413-cardigans?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Melanie C","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/395041-melanie-c?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Infernal","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/432969-infernal?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Burhan G","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/332080-burhan-g?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Kesi","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/4872843-kesi?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"TV-2","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/482017-tv2?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Gobs","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10095348-gobs?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Dizzy Mizz Lizzy","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/392076-dizzy-mizz-lizzy?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Lord Siva","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/8420913-lord-siva?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Saveus","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/8704463-saveus?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Ozzy","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/306555-ozzy?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Berg","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10171436-berg?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Son","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/207882-son?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Dodo \u0026 The Dodos","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/107491-dodo-and-the-dodos?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Zar Paulo","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/9510529-zar-paulo?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Annika Aakjær","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/1972691-annika-aakjaer?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"JONAH BLACKSMITh","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/8419943-jonah-blacksmith?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Rosa","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/377990-rosa?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"JOSVA","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10145879-josva?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Sira Jovina","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10374814-sira-jovina?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Sofie1998","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10383670-sofie1998?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"PATINA (DK)","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/9825319-patina-dk?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"BENJAMIN HAV \u0026 FAMILIEN","genre":["rock","pop","indie_alternative","electronic","funk_soul","comedy"],"sameAs":"https://www.songkick.com/artists/10246508-benjamin-hav-and-familien?utm_medium=organic\u0026utm_source=microformat"}],"description":"Wonderfestiwall 2026 at Wonderfestiwall at 2026-08-15","organizer":{"@type":"Organization","name":"Wonderfestiwall 2026","url":"https://www.songkick.com/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/festivals/269303-wonderfestiwall/id/42924800-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Saturday 15 August 2026 – Saturday 15 August 2026" class="event-listings-element">
+        <time datetime="2026-08-15"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/events/43294558/large_avatar?series_id=269303"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Wonderfestiwall 2026">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026">
+                  <strong>Wonderfestiwall 2026</strong>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1713978-wonderfestiwall">Wonderfestiwall</a></span>,
+              <span>
+                <span class="city-name">Allinge, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Wonderfestiwall 2026 @ Wonderfestiwall","url":"https://www.songkick.com/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/events/43294558/huge_avatar?series_id=269303","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Allinge","addressCountry":"Denmark","streetAddress":"Slotslyngvej 7","postalCode":"3770"},"name":"Wonderfestiwall","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.26905,"longitude":14.76309}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-15","endDate":"2026-08-15","performer":[],"description":"Wonderfestiwall 2026 at Wonderfestiwall at 2026-08-15","organizer":{"@type":"Organization","name":"Wonderfestiwall 2026","url":"https://www.songkick.com/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/festivals/269303-wonderfestiwall/id/43294558-wonderfestiwall-2026?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-16">Sunday 16 August 2026</time>
+    </li>
+
+      <li title="Sunday 16 August 2026" class="event-listings-element">
+        <time datetime="2026-08-16"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/219341/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Bonnie &#39;Prince&#39; Billy Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset">
+                <span>
+                  <strong>Bonnie &#39;Prince&#39; Billy</strong>
+                    <span class="support">Dawn Landes</span>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/448921-dr-koncerthuset">DR Koncerthuset</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Bonnie 'Prince' Billy @ DR Koncerthuset","url":"https://www.songkick.com/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/219341/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Ørestads Blvd. 13","postalCode":"2300"},"name":"DR Koncerthuset","sameAs":"https://www.drkoncerthuset.dk/","geo":{"@type":"GeoCoordinates","latitude":55.65684,"longitude":12.5876}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-16","endDate":"2026-08-16","performer":[{"@type":"MusicGroup","name":"Bonnie 'Prince' Billy","genre":["indie_alternative","folk_blues","country","rock","hip_hop"],"sameAs":"https://www.songkick.com/artists/219341-bonnie-prince-billy?utm_medium=organic\u0026utm_source=microformat"},{"@type":"MusicGroup","name":"Dawn Landes","genre":["indie_alternative","folk_blues","country","rock","hip_hop"],"sameAs":"https://www.songkick.com/artists/426716-dawn-landes?utm_medium=organic\u0026utm_source=microformat"}],"description":"Bonnie 'Prince' Billy at DR Koncerthuset at 2026-08-16","organizer":{"@type":"Organization","name":"Bonnie 'Prince' Billy","url":"https://www.songkick.com/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43100322-bonnie-prince-billy-at-dr-koncerthuset?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-17T20:00:00+0200">Monday 17 August 2026</time>
+    </li>
+
+      <li title="Monday 17 August 2026" class="event-listings-element">
+        <time datetime="2026-08-17T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43268425-swae-lee-at-poolen" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/9811034/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Swae Lee Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43268425-swae-lee-at-poolen">
+                <span>
+                  <strong>Swae Lee</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/4552219-poolen">Poolen</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43268425-swae-lee-at-poolen">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Swae Lee @ Poolen","url":"https://www.songkick.com/concerts/43268425-swae-lee-at-poolen?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/9811034/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Refshalevej 189","postalCode":"1432"},"name":"Poolen","sameAs":null,"geo":{"@type":"GeoCoordinates","latitude":55.6909,"longitude":12.62244}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-17T20:00:00","endDate":"2026-08-17","performer":[{"@type":"MusicGroup","name":"Swae Lee","genre":["hip_hop","electronic","pop"],"sameAs":"https://www.songkick.com/artists/9811034-swae-lee?utm_medium=organic\u0026utm_source=microformat"}],"description":"Swae Lee at Poolen at 2026-08-17T20:00:00+0200","organizer":{"@type":"Organization","name":"Swae Lee","url":"https://www.songkick.com/concerts/43268425-swae-lee-at-poolen?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43268425-swae-lee-at-poolen?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-18T20:00:00+0200">Tuesday 18 August 2026</time>
+    </li>
+
+      <li title="Tuesday 18 August 2026" class="event-listings-element">
+        <time datetime="2026-08-18T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43145225-kurt-vile-at-vega" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/4294851/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Kurt Vile Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43145225-kurt-vile-at-vega">
+                <span>
+                  <strong>Kurt Vile</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/2740208-vega">VEGA</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43145225-kurt-vile-at-vega">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Kurt Vile @ VEGA","url":"https://www.songkick.com/concerts/43145225-kurt-vile-at-vega?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/4294851/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Enghavevej 40","postalCode":"1674"},"name":"VEGA","sameAs":"http://www.vega.dk","geo":{"@type":"GeoCoordinates","latitude":55.668,"longitude":12.54421}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-18T20:00:00","endDate":"2026-08-18","performer":[{"@type":"MusicGroup","name":"Kurt Vile","genre":["indie_alternative"],"sameAs":"https://www.songkick.com/artists/4294851-kurt-vile?utm_medium=organic\u0026utm_source=microformat"}],"description":"Kurt Vile at VEGA at 2026-08-18T20:00:00+0200","organizer":{"@type":"Organization","name":"Kurt Vile","url":"https://www.songkick.com/concerts/43145225-kurt-vile-at-vega?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43145225-kurt-vile-at-vega?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+      <li title="Tuesday 18 August 2026" class="event-listings-element">
+        <time datetime="2026-08-18T20:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43119052-internal-bleeding-at-spillestedet-stengade" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/76504/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Internal Bleeding Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/43119052-internal-bleeding-at-spillestedet-stengade">
+                <span>
+                  <strong>Internal Bleeding</strong>
+                </span>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/1136391-spillestedet-stengade">Spillestedet Stengade</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/concerts/43119052-internal-bleeding-at-spillestedet-stengade">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Internal Bleeding @ Spillestedet Stengade","url":"https://www.songkick.com/concerts/43119052-internal-bleeding-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/artists/76504/huge_avatar","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Stengade 18","postalCode":"2200"},"name":"Spillestedet Stengade","sameAs":"http://www.stengade.dk","geo":{"@type":"GeoCoordinates","latitude":55.68819,"longitude":12.5557}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-18T20:00:00","endDate":"2026-08-18","performer":[{"@type":"MusicGroup","name":"Internal Bleeding","genre":[],"sameAs":"https://www.songkick.com/artists/76504-internal-bleeding?utm_medium=organic\u0026utm_source=microformat"}],"description":"Internal Bleeding at Spillestedet Stengade at 2026-08-18T20:00:00+0200","organizer":{"@type":"Organization","name":"Internal Bleeding","url":"https://www.songkick.com/concerts/43119052-internal-bleeding-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/concerts/43119052-internal-bleeding-at-spillestedet-stengade?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element ">
+      <time datetime="2026-08-18T21:00:00+0200">Tuesday 18 August 2026 – Tuesday 18 August 2026</time>
+    </li>
+
+      <li title="Tuesday 18 August 2026 – Tuesday 18 August 2026" class="event-listings-element">
+        <time datetime="2026-08-18T21:00:00+0200"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/events/43265800/large_avatar?series_id=3790892"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Speed: EU /UK Summer 2026">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026">
+                  <strong>Speed: EU /UK Summer 2026</strong>
+              </a>
+            </p>
+
+            <p class="location">
+                <span><a class="venue-link" href="/venues/32939-lille-sal-pumpehuset">Lille Sal, Pumpehuset</a></span>,
+              <span>
+                <span class="city-name">Copenhagen, Denmark </span>
+              </span>
+            </p>
+          </div>
+
+          <a class="event-link chevron-wrapper" href="/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026">
+            <i class="chevron"></i>
+          </a>
+        </div>
+
+        <div class="microformat">
+          <script type="application/ld+json">[{"@context":"http://schema.org","@type":"MusicEvent","name":"Speed: EU /UK Summer 2026 @ Lille Sal, Pumpehuset","url":"https://www.songkick.com/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026?utm_medium=organic\u0026utm_source=microformat","image":"https://images.sk-static.com/images/media/profile_images/events/43265800/huge_avatar?series_id=3790892","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"Place","address":{"@type":"PostalAddress","addressLocality":"Copenhagen","addressCountry":"Denmark","streetAddress":"Studiestræde 52","postalCode":"1554"},"name":"Lille Sal, Pumpehuset","sameAs":"http://www.pumpehuset.dk/","geo":{"@type":"GeoCoordinates","latitude":55.67713,"longitude":12.56519}},"eventStatus":"https://schema.org/EventScheduled","startDate":"2026-08-18T21:00:00","endDate":"2026-08-18","performer":[],"description":"Speed: EU /UK Summer 2026 at Lille Sal, Pumpehuset at 2026-08-18T21:00:00+0200","organizer":{"@type":"Organization","name":"Speed: EU /UK Summer 2026","url":"https://www.songkick.com/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026?utm_medium=organic\u0026utm_source=microformat"},"offers":[{"@type":"Offer","url":"http://www.songkick.com/festivals/3790892-speed-eu-uk-summer/id/43265800-speed-eu-uk-summer-2026?utm_medium=organic\u0026utm_source=microformat"}]}]</script>
+        </div>
+      </li>
+
+    <li class="date-element after-ad">
+      <time datetime="2026-08-19">Wednesday 19 August 2026</time>
+    </li>
+
+      <li title="Wednesday 19 August 2026" class="event-listings-element">
+        <time datetime="2026-08-19"></time>
+
+        <div class="event-details-wrapper">
+          <div class="image-wrapper">
+            <a href="/concerts/43350330-paper-beat-scissors-at-tjili-pop" class="thumb">
+              <img
+                src="//assets.sk-static.com/images/default_images/large_avatar/default-artist.png"
+                data-src="//images.sk-static.com/images/media/profile_images/artists/1036678/large_avatar"
+                width="48"
+                height="48"
+                class="artist-profile-image artist lazyload"
+                alt="Paper Beat Scissors Concert Tickets - 2026 Tour Dates">
+            </a>
+          </div>
+
+          <div class="artists-venue-location-wrapper">
+            
+            
+
+            <p class="artists">
+              <a class="event-link" href="/concerts/
+<!-- TRIMMED BY recon.mjs -->

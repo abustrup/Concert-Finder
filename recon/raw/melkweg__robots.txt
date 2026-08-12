@@ -1,0 +1,13 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /pagina-niet-gevonden
+Disallow: /page-not-found
+
+# Host
+Host: https://www.melkweg.nl
+
+# Sitemaps
+Sitemap: https://www.melkweg.nl/sitemap.xml
+Sitemap: https://www.melkweg.nl/sitemap-0.xml
+Sitemap: https://www.melkweg.nl/server-sitemap-index.xml

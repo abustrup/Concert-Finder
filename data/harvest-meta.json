@@ -1,0 +1,294 @@
+{
+  "generatedAt": "2026-08-12T20:38:22.543Z",
+  "runner": "github-actions/31637786939",
+  "window": {
+    "from": "2026-08-12",
+    "to": "2027-09-16",
+    "horizonDays": 400
+  },
+  "counts": {
+    "events": 1484,
+    "sources": 15,
+    "sourcesWithEvents": 14,
+    "artists": 1847,
+    "venues": 14,
+    "withTicketUrl": 153,
+    "tributeFlagged": 14
+  },
+  "dropped": {
+    "past": 815,
+    "beyondHorizon": 9,
+    "cancelled": 1,
+    "duplicate": 56,
+    "postponed": 1,
+    "recurring": 121
+  },
+  "http": {
+    "requests": 2441,
+    "bytes": 306921362,
+    "errors": 0,
+    "robotsSkips": 0
+  },
+  "perSource": [
+    {
+      "id": "loppen",
+      "name": "Loppen",
+      "city": "København",
+      "adapter": "jsonld-page",
+      "host": "loppen.dk",
+      "raw": 44,
+      "kept": 44,
+      "fetched": 2,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "kb-hallen",
+      "name": "K.B. Hallen",
+      "city": "Frederiksberg",
+      "adapter": "jsonld-page",
+      "host": "kbhallen.dk",
+      "raw": 30,
+      "kept": 29,
+      "fetched": 1,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "vega",
+      "name": "VEGA",
+      "city": "København",
+      "adapter": "next-data",
+      "host": "vega.dk",
+      "raw": 67,
+      "kept": 66,
+      "fetched": 1,
+      "discovered": 0,
+      "rejects": {
+        "http-404": 1
+      },
+      "error": null
+    },
+    {
+      "id": "stengade",
+      "name": "Stengade",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "stengade.dk",
+      "raw": 249,
+      "kept": 45,
+      "fetched": 250,
+      "discovered": 250,
+      "rejects": {
+        "non-musical": 1
+      },
+      "error": null
+    },
+    {
+      "id": "roskilde",
+      "name": "Roskilde Festival",
+      "city": "Roskilde",
+      "adapter": "next-data",
+      "host": "roskilde-festival.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 179,
+      "discovered": 178,
+      "rejects": {
+        "no-next-events": 179
+      },
+      "error": null
+    },
+    {
+      "id": "voxhall",
+      "name": "VoxHall",
+      "city": "Aarhus",
+      "adapter": "wp-rest",
+      "host": "voxhall.dk",
+      "raw": 435,
+      "kept": 86,
+      "fetched": 435,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "posten",
+      "name": "Posten",
+      "city": "Odense",
+      "adapter": "wp-rest",
+      "host": "postenlive.dk",
+      "raw": 87,
+      "kept": 84,
+      "fetched": 87,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "dexter",
+      "name": "Dexter",
+      "city": "Odense",
+      "adapter": "wp-rest",
+      "host": "dexter.dk",
+      "raw": 144,
+      "kept": 140,
+      "fetched": 146,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 2
+      },
+      "error": null
+    },
+    {
+      "id": "skraaen",
+      "name": "Skråen",
+      "city": "Aalborg",
+      "adapter": "wp-rest",
+      "host": "skraaen.dk",
+      "raw": 482,
+      "kept": 359,
+      "fetched": 500,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 18
+      },
+      "error": null
+    },
+    {
+      "id": "tobakken",
+      "name": "Tobakken",
+      "city": "Esbjerg",
+      "adapter": "wp-rest",
+      "host": "tobakken.dk",
+      "raw": 59,
+      "kept": 55,
+      "fetched": 59,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "sonderborghus",
+      "name": "Sønderborghus",
+      "city": "Sønderborg",
+      "adapter": "wp-rest",
+      "host": "sonderborghus.dk",
+      "raw": 175,
+      "kept": 172,
+      "fetched": 185,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 10
+      },
+      "error": null
+    },
+    {
+      "id": "gimle",
+      "name": "Gimle",
+      "city": "Roskilde",
+      "adapter": "wp-rest",
+      "host": "gimle.dk",
+      "raw": 89,
+      "kept": 84,
+      "fetched": 96,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 7
+      },
+      "error": null
+    },
+    {
+      "id": "musikhuset-esbjerg",
+      "name": "Musikhuset Esbjerg",
+      "city": "Esbjerg",
+      "adapter": "wp-rest",
+      "host": "mhe.dk",
+      "raw": 132,
+      "kept": 124,
+      "fetched": 136,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 4
+      },
+      "error": null
+    },
+    {
+      "id": "vejle-musikteater",
+      "name": "Vejle Musikteater",
+      "city": "Vejle",
+      "adapter": "wp-rest",
+      "host": "vejlemusikteater.dk",
+      "raw": 145,
+      "kept": 141,
+      "fetched": 152,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 7
+      },
+      "error": null
+    },
+    {
+      "id": "kulturvaerftet",
+      "name": "Kulturværftet",
+      "city": "Helsingør",
+      "adapter": "wp-rest",
+      "host": "kuto.dk",
+      "raw": 349,
+      "kept": 177,
+      "fetched": 365,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 16
+      },
+      "error": null
+    }
+  ],
+  "elapsedSeconds": 609,
+  "refilteredAt": "2026-08-12T21:14:58.974227+00:00",
+  "refilterNote": "The current harvest filters (moved shows dropped, recurring activities dropped, past events dropped) re-applied to a corpus fetched before those rules existed. No event was added or altered.",
+  "recurringRemoved": [
+    {
+      "title": "læderværksted",
+      "venue": "sonderborghus",
+      "times": 38
+    },
+    {
+      "title": "syfællesskab",
+      "venue": "sonderborghus",
+      "times": 19
+    },
+    {
+      "title": "spil3000 - brætspil for alle",
+      "venue": "kulturvaerftet",
+      "times": 18
+    },
+    {
+      "title": "torsdagsgarn",
+      "venue": "sonderborghus",
+      "times": 13
+    },
+    {
+      "title": "fyraftenssang i toldkammergården",
+      "venue": "kulturvaerftet",
+      "times": 10
+    },
+    {
+      "title": "kuto studio",
+      "venue": "kulturvaerftet",
+      "times": 9
+    },
+    {
+      "title": "broderi-fællesskab",
+      "venue": "sonderborghus",
+      "times": 9
+    },
+    {
+      "title": "instant disco",
+      "venue": "kulturvaerftet",
+      "times": 5
+    }
+  ]
+}

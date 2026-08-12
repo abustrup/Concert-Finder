@@ -1,0 +1,1012 @@
+<!doctype html>
+<html lang="de" >
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>KNUST Hamburg &#8211; Live Club &amp; Konzerte in der Rinderschlachthalle Neuer Kamp Hamburg</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel="alternate" type="application/rss+xml" title="KNUST Hamburg &raquo; Feed" href="https://knusthamburg.de/feed/" />
+<link rel="alternate" type="application/rss+xml" title="KNUST Hamburg &raquo; Kommentar-Feed" href="https://knusthamburg.de/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://knusthamburg.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknusthamburg.de%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://knusthamburg.de/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fknusthamburg.de%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--strong-magenta: #a156b4;--wp--preset--color--very-dark-grey: rgb(131, 12, 8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--spacing--margin-1: 1.25rem;--wp--preset--spacing--margin-2: 2.1875rem;--wp--preset--spacing--margin-3: 2.8175rem;--wp--preset--spacing--margin-4: 3.75rem;--wp--preset--spacing--margin-5: 6.25rem;--wp--preset--spacing--margin-6: 12.5rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:root { --wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1000px; }:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-color{color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-color{color: var(--wp--preset--color--very-dark-grey) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-background-color{background-color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-background-color{background-color: var(--wp--preset--color--very-dark-grey) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-strong-magenta-border-color{border-color: var(--wp--preset--color--strong-magenta) !important;}.has-very-dark-grey-border-color{border-color: var(--wp--preset--color--very-dark-grey) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='nu-twenty-twenty-one-style-css' href='https://knusthamburg.de/wp-content/themes/knust25/assets/twentytwentyone.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='main-css' href='https://knusthamburg.de/wp-content/themes/knust25/./assets/css/app-DLqNlcaI.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://knusthamburg.de/wp-content/themes/knust25/style.css?ver=2.0.0' media='all' />
+<link rel='stylesheet' id='twenty-twenty-one-print-style-css' href='https://knusthamburg.de/wp-content/themes/twentytwentyone/assets/css/print.css?ver=2.0.0' media='print' />
+<script id="main-js" src="https://knusthamburg.de/wp-content/themes/knust25/./assets/js/main-DdhHE6Em.js?ver=7.0.4"></script>
+<script data-wp-strategy="defer" defer id="twenty-twenty-one-primary-navigation-script-js" src="https://knusthamburg.de/wp-content/themes/twentytwentyone/assets/js/primary-navigation.js?ver=2.0.0"></script>
+<link rel="https://api.w.org/" href="https://knusthamburg.de/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://knusthamburg.de/wp-json/wp/v2/pages/98" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://knusthamburg.de/xmlrpc.php?rsd" />
+<link rel="canonical" href="https://knusthamburg.de/" />
+<link rel='shortlink' href='https://knusthamburg.de/' />
+    <link rel="icon" type="image/png" href="/favicon/favicon-96x96.png" sizes="96x96" />
+    <link rel="icon" type="image/svg+xml" href="/favicon/favicon.svg" />
+    <link rel="shortcut icon" href="/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png" />
+    <link rel="manifest" href="/favicon/site.webmanifest" />
+    <meta name="author" content="Meta3">
+    <meta name="language" content="de">
+    <meta name="description" content="Knust Hamburg. Live Club - Konzerte in der Rinderschlachthalle Neuer Kamp Hamburg">
+    <meta name="keywords" content="band,live,konzerte,b&uuml;hne,hamburgs,live-clubs,musik,music,rock,indie,alternative,folk,singer,song,writer">
+    <meta name="robots" content="index">
+    <meta name="robots" content="follow">
+    <meta name="viewport" content="width=device-width">
+
+    <!-- Facebook OpenGraph tags -->
+    <meta property="og:site_name" content="KNUST Hamburg" />
+    <meta property="og:locale" content="de_DE" />
+    <meta property="og:type" content="website" />
+    <meta property="og:description" content="Knust Hamburg. Live Club - Konzerte in der Rinderschlachthalle Neuer Kamp Hamburg">
+    <meta property="og:image" content="https://knusthamburg.de/knust_OG_social_1200x630.png" />
+    <meta property="og:image:alt" content="KNUST Logo" />
+    <meta property="og:url" content="https://knusthamburg.de"/>
+    <meta property="og:title" content="KNUST Hamburg" />
+        <script>
+            var lewobat_ajax = {
+                url: 'https://knusthamburg.de/wp-admin/admin-ajax.php',
+                nonce: 'f492db0dae'
+            };
+        </script>
+    </head>
+
+<body class="home wp-singular page-template page-template-page-templates page-template-homepage-tpl page-template-page-templateshomepage-tpl-php page page-id-98 wp-custom-logo wp-embed-responsive wp-theme-twentytwentyone wp-child-theme-knust25 is-light-theme no-js singular has-main-navigation">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">
+		Zum Inhalt springen	</a>
+
+	
+<header id="masthead" class="-direct-fade site-header has-logo has-title-and-tagline has-menu">
+
+    <div id="i96-stickyheader" class="w-full -sticky-normal -d irect-fade" classa="-direct-fade flex justify-center items-center bg-primary _kn-bg-white">
+
+        <div class="_kn-bg-primary w-full">
+            <div class="kn-header-top le-content relative flex justify-between items-center">
+
+                
+                <div class="site-logo"><span class="custom-logo-link"><img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2025/09/logo-knust-2025.svg" class="custom-logo" alt="" decoding="async" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2025/09/logo-knust-2025.svg" class="custom-logo" alt="" decoding="async" /></noscript></span></div>
+
+                <div class="kn-socials-wrapper  !relative">
+    <a href="https://www.instagram.com/knusthamburg/" class="kn-social -instagram" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31" fill="none" aria-label="Follow us on Instagram" role="img">
+            <path d="M27.2 20.9975C27.2 21.5212 27.15 22.02 27.0625 22.4938C26.975 22.9801 26.8375 23.4414 26.65 23.8778L26.6875 23.803C26.425 24.4763 26.05 25.0623 25.55 25.5362C25.05 26.01 24.5 26.384 23.875 26.6459H23.8375C23.425 26.8329 22.975 26.9576 22.5125 27.0324C22.05 27.1072 21.5625 27.1571 21.0625 27.182C20.25 27.207 19.55 27.2319 18.9375 27.2444C18.325 27.2569 17 27.2693 14.975 27.2693C12.95 27.2693 11.625 27.2693 11.0125 27.2444C10.4 27.2195 9.6875 27.207 8.8875 27.182C8.3625 27.1571 7.875 27.0948 7.4 27.0075C6.925 26.9202 6.475 26.7955 6.0375 26.6334H6.075C5.425 26.3965 4.85 26.0349 4.35 25.5362C3.85 25.0374 3.475 24.4763 3.2125 23.8155V23.7781C3.05 23.3915 2.9375 22.9551 2.8375 22.4938C2.7375 22.0324 2.7 21.5337 2.7 21.01C2.65 20.2244 2.625 19.5262 2.625 18.9027V10.9726C2.625 10.3616 2.65 9.65087 2.7 8.85287C2.7 8.35411 2.75 7.86783 2.8375 7.39401C2.925 6.90773 3.0625 6.44638 3.25 6.00998L3.2125 6.04738C3.475 5.399 3.85 4.82544 4.35 4.32668C4.85 3.82793 5.4125 3.45387 6.075 3.19202C6.4875 3.04239 6.9375 2.91771 7.4 2.81796C7.875 2.73067 8.3625 2.6808 8.8875 2.6808C9.675 2.65586 10.375 2.63092 11 2.61845C11.625 2.60598 12.95 2.59352 14.9875 2.59352H18.95C19.5625 2.59352 20.275 2.61845 21.075 2.66833C21.575 2.66833 22.05 2.7182 22.525 2.80549C23 2.89277 23.45 3.02993 23.8875 3.21696L23.85 3.17955C24.5 3.4414 25.075 3.81546 25.575 4.31421C26.075 4.81297 26.45 5.37407 26.7125 6.03491C26.8625 6.44638 26.9875 6.89526 27.0875 7.35661C27.175 7.83042 27.225 8.30424 27.225 8.80299V8.8404C27.25 9.61347 27.275 10.3242 27.2875 10.9476C27.3 11.5711 27.3125 12.8928 27.3125 14.9252V18.8778C27.3125 19.4888 27.3 20.187 27.275 20.9601H27.2375L27.2 20.9975ZM29.2375 5.18703C28.85 4.17706 28.275 3.29177 27.5125 2.54364C26.75 1.79551 25.8875 1.22195 24.9 0.822943L24.8625 0.785536C24.3125 0.573566 23.7375 0.411471 23.125 0.299252C22.5125 0.187032 21.8875 0.124688 21.225 0.124688H21.1875C20.4125 0.074813 19.6875 0.0374065 19.0375 0.0249377C18.3875 0.0124688 17.05 0 15.0125 0C12.975 0 11.6375 0 10.9875 0.0249377C10.3375 0.0374065 9.625 0.074813 8.8375 0.124688C8.1875 0.124688 7.55 0.187032 6.925 0.32419C6.3 0.448878 5.7 0.623441 5.125 0.835411L5.2 0.798005C4.1875 1.20948 3.3 1.79551 2.55 2.55611C1.8 3.30424 1.225 4.16459 0.825 5.12469L0.7875 5.1995C0.575 5.72319 0.4125 6.29676 0.3 6.9202C0.1875 7.54364 0.1125 8.17955 0.0875 8.82793C0.0625 9.6384 0.0375 10.3491 0.025 10.985C0.0125 11.6209 0 12.9551 0 14.9751C0 16.995 0 18.3416 0.025 18.99C0.0375 19.6384 0.0625 20.3616 0.0875 21.1721C0.1125 21.7955 0.1875 22.4065 0.3 23.005C0.4125 23.6035 0.575 24.202 0.7875 24.8005C1.2 25.8105 1.7875 26.6958 2.55 27.4439C3.3 28.192 4.1625 28.7656 5.125 29.1646H5.2C5.725 29.4015 6.2875 29.5761 6.9 29.7132C7.5125 29.8504 8.1375 29.9127 8.8 29.9127H8.8375C9.65 29.9626 10.3625 30 11 30.0125C11.6375 30.0249 12.975 30.0374 15 30.0374C17.025 30.0374 18.375 30.0374 19.025 30.0125C19.675 30 20.4 29.9626 21.2125 29.9127C21.8625 29.9127 22.5 29.8504 23.125 29.7132C23.75 29.5761 24.35 29.414 24.925 29.202L24.85 29.2394C25.8625 28.8279 26.75 28.2419 27.5 27.4813C28.25 26.7332 28.825 25.8728 29.225 24.9127V24.8379C29.4625 24.2643 29.6375 23.6783 29.75 23.0673C29.8625 22.4564 29.925 21.8454 29.925 21.2219C29.95 20.4115 29.975 19.7007 29.9875 19.0648C30 18.4289 30.0125 17.0948 30.0125 15.0748V11.0474C30.0125 10.4115 29.9875 9.68828 29.9375 8.89027C29.9375 8.24189 29.875 7.59352 29.7375 6.95761C29.6125 6.3217 29.425 5.72319 29.1875 5.14963L29.225 5.22444L29.2375 5.18703ZM24.8125 6.97008C24.8125 7.49377 24.6375 7.91771 24.2875 8.25436C23.9375 8.59102 23.5125 8.76559 23.0125 8.76559C22.5125 8.76559 22.1 8.59102 21.7375 8.25436C21.3875 7.91771 21.2125 7.49377 21.2125 6.97008C21.2125 6.44638 21.3875 6.05985 21.7375 5.72319C22.0875 5.38653 22.5125 5.21197 23.0125 5.21197C23.5125 5.21197 23.925 5.38653 24.2875 5.72319C24.6375 6.05985 24.8125 6.47132 24.8125 6.97008ZM15.0125 19.9501C13.6375 19.9501 12.45 19.4638 11.475 18.4913C10.5 17.5187 10.0125 16.3466 10.0125 14.9626C10.0125 13.5786 10.5 12.4065 11.475 11.4339C12.45 10.4613 13.625 9.97506 15.0125 9.97506C16.4 9.97506 17.575 10.4613 18.55 11.4339C19.525 12.4065 20.0125 13.5786 20.0125 14.9626C20.0125 16.3466 19.525 17.5187 18.55 18.4913C17.575 19.4638 16.4 19.9501 15.0125 19.9501ZM15.0125 7.2818C13.95 7.2818 12.9375 7.4813 12 7.86783C11.0625 8.2793 10.25 8.8404 9.5625 9.52618C8.875 10.212 8.325 11.0224 7.9 11.9576C7.5125 12.8928 7.3125 13.8903 7.3125 14.9626C7.3125 16.0349 7.5125 17.0324 7.9 17.9676C8.3125 18.9027 8.875 19.7132 9.5625 20.399C10.25 21.0848 11.0625 21.6334 12 22.0574C12.9375 22.4439 13.9375 22.6434 15.0125 22.6434C16.0875 22.6434 17.0875 22.4439 18.025 22.0574C18.9625 21.6459 19.775 21.0848 20.4625 20.399C21.15 19.7132 21.7 18.9027 22.125 17.9676C22.5125 17.0324 22.7125 16.0349 22.7125 14.9626C22.7125 13.8903 22.5125 12.8928 22.125 11.9576C21.7125 11.0224 21.15 10.212 20.4625 9.52618C19.775 8.8404 18.9625 8.29177 18.025 7.86783C17.0875 7.4813 16.0875 7.2818 15.0125 7.2818Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+    <a href="https://www.facebook.com/KnustHamburg" class="kn-social -facebook" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30" fill="none" aria-label="Follow us on Facebook" role="img">
+            <path d="M18.8752 15H16.4189V24.0188H13.0814V15H10.7939V11.8969H13.0814V10.0781C13.0814 8.70938 13.3346 7.6875 13.8408 7.00312C14.3471 6.31875 15.3033 5.98125 16.7096 5.98125H19.1658V9.08437H17.6471C17.1033 9.08437 16.7564 9.17813 16.6252 9.375C16.4939 9.57187 16.4189 9.9 16.4189 10.3688V11.8875H19.2314L18.8752 14.9906V15ZM24.3877 0H5.6377C4.07207 0 2.7502 0.54375 1.65332 1.64062C0.556445 2.7375 0.0126953 4.05937 0.0126953 5.625V24.375C0.0126953 25.9406 0.556445 27.2625 1.65332 28.3594C2.7502 29.4562 4.07207 30 5.6377 30H24.3877C25.9533 30 27.2752 29.4562 28.3721 28.3594C29.4689 27.2625 30.0127 25.9406 30.0127 24.375V5.625C30.0127 4.05937 29.4689 2.7375 28.3721 1.64062C27.2752 0.54375 25.9533 0 24.3877 0Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+</div>
+            </div>
+        </div>
+
+        <div class="_kn-bg-secondary w-full">
+            <div class="site-navigation">
+                <div class="le-content relative flex justify-between items-center">
+
+                    
+    <div class="mobile-nav-bkgr"></div>
+	<nav id="site-navigation" class="primary-navigation"
+         aria-label="Primäres Menü"
+         x-data="{
+             open: false,
+             timeout_hiding: false,
+
+             toggle() {
+
+                if (this.open) {
+
+                    // reset timeout if necessary
+                    if (this.timeout_hiding) clearTimeout(this.timeout_hiding);
+
+                    this.timeout_hiding = setTimeout( () => {
+                        document.querySelector('.mobile-nav-bkgr').classList.remove('-is-active');
+                        // disable existing timeout to prevent multiple timeouts from being set
+                        clearTimeout(this.timeout_hiding);
+                        this.timeout_hiding = false;
+                    }, 350);
+
+                } else {
+                    document.querySelector('.mobile-nav-bkgr').classList.add('-is-active')
+                }
+
+                this.open = ! this.open
+
+             },
+             toggleSubmenu(e) {
+                e.target.parentElement.classList.toggle('-open');
+             }
+         }"
+     >
+		<div class="menu-button-container justify-end">
+
+            <button id="primary-mobile-menu"
+                    type="button"
+                    @click="toggle()"
+                    :class="{ 'is-active': open }"
+                    class="hamburger hamburger--squeeze" aria-controls="primary-menu-list" aria-expanded="false">
+
+              <span class="hamburger-box">
+                <span class="hamburger-inner"></span>
+              </span>
+
+			</button><!-- #primary-mobile-menu -->
+
+            <span class="dropdown-icon open">
+            </span>
+
+		</div><!-- .menu-button-container -->
+
+        <div class="primary-menu-container"><ul id="primary-menu-list" class="menu-wrapper"><li id="menu-item-89" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-89"><a href="http://knusthamburg.de/" aria-current="page">Home</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://knusthamburg.de/programm/">Programm</a></li>
+<li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544"><a href="https://knusthamburg.de/venue/">Venue</a></li>
+<li id="menu-item-9505" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9505"><a href="https://knusthamburg.de/historie/">Historie</a></li>
+<li id="menu-item-697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-697"><a href="https://knusthamburg.de/jobs/">Jobs</a></li>
+<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-92"><a href="https://knusthamburg.de/kontakt/">Kontakt</a></li>
+</ul></div>
+	</nav><!-- #site-navigation -->
+	
+                    <div class="kn-a11y-wrapper flex items-center gap-2.5">
+
+    <div class="kn-a11y-item -contrast -a11y-contrast">
+        <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19" fill="none" role="img" aria-label="Contrast Modus">
+            <path d="M2.73438 2.73438C4.5573 0.911449 6.77082 0 9.375 0C11.9792 0 14.1927 0.911449 16.0156 2.73438C17.8386 4.5573 18.75 6.77082 18.75 9.375C18.75 11.9792 17.8386 14.1927 16.0156 16.0156C14.1927 17.8386 11.9792 18.75 9.375 18.75C6.77082 18.75 4.5573 17.8386 2.73438 16.0156C0.911449 14.1927 0 11.9792 0 9.375C0 6.77082 0.911449 4.5573 2.73438 2.73438ZM9.42383 2.49023V16.2598C11.3119 16.2598 12.9232 15.5925 14.2578 14.2578C15.5925 12.9232 16.2598 11.2956 16.2598 9.375C16.2598 7.45442 15.5925 5.82683 14.2578 4.49219C12.9232 3.15755 11.3119 2.49023 9.42383 2.49023Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+    <div class="kn-a11y-item -font-plus">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" role="img" aria-label="Text größer">
+            <path d="M9.375 4.17481H7.29981V7.29981H4.17481V9.375H7.29981V12.5H9.375V9.375H12.5V7.29981H9.375V4.17481ZM8.34961 0C7.19401 0 6.11166 0.219724 5.10254 0.65918C4.09342 1.09863 3.21045 1.69677 2.45361 2.45361C1.69677 3.21045 1.09863 4.09342 0.65918 5.10254C0.219724 6.11166 0 7.19401 0 8.34961C0 9.48894 0.219724 10.5631 0.65918 11.5723C1.09863 12.5977 1.69677 13.4847 2.45361 14.2334C3.21045 14.9821 4.09342 15.5762 5.10254 16.0156C6.11166 16.4551 7.19401 16.6748 8.34961 16.6748C9.3099 16.6748 10.2254 16.5202 11.0962 16.2109C11.967 15.9017 12.7523 15.4622 13.4521 14.8926V14.917L18.0176 19.5068L19.4824 18.0176L14.917 13.4521C15.4704 12.7523 15.9017 11.967 16.2109 11.0962C16.5202 10.2254 16.6748 9.3099 16.6748 8.34961C16.6748 7.19401 16.4551 6.11166 16.0156 5.10254C15.5762 4.09342 14.9821 3.21045 14.2334 2.45361C13.4847 1.69677 12.5977 1.09863 11.5723 0.65918C10.5631 0.219724 9.48894 0 8.34961 0ZM8.34961 14.5996C7.48698 14.5996 6.67318 14.4369 5.9082 14.1113C5.14323 13.7695 4.47998 13.3179 3.91846 12.7563C3.35693 12.1948 2.91341 11.5316 2.58789 10.7666C2.26237 10.0179 2.09961 9.21224 2.09961 8.34961C2.09961 7.48698 2.26237 6.67318 2.58789 5.9082C2.91341 5.14323 3.35693 4.47998 3.91846 3.91846C4.47998 3.35693 5.14323 2.91341 5.9082 2.58789C6.67318 2.26237 7.48698 2.09961 8.34961 2.09961C9.21224 2.09961 10.0179 2.26237 10.7666 2.58789C11.5316 2.91341 12.1948 3.35693 12.7563 3.91846C13.3179 4.47998 13.7695 5.14323 14.1113 5.9082C14.4369 6.67318 14.5996 7.48698 14.5996 8.34961C14.5996 9.21224 14.4369 10.0179 14.1113 10.7666C13.7695 11.5316 13.3179 12.1948 12.7563 12.7563C12.1948 13.3179 11.5316 13.7695 10.7666 14.1113C10.0179 14.4369 9.21224 14.5996 8.34961 14.5996Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+    <div class="kn-a11y-item -font-minus">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20" fill="none" role="img" aria-label="Text kleiner">
+            <path d="M4.17481 7.29981H12.5V9.375H4.17481V7.29981ZM8.34961 16.6748C9.3099 16.6748 10.2254 16.5202 11.0962 16.2109C11.967 15.9017 12.7523 15.4622 13.4521 14.8926V14.917L18.0176 19.5068L19.4824 18.0176L14.917 13.4521C15.4704 12.7523 15.9017 11.967 16.2109 11.0962C16.5202 10.2254 16.6748 9.3099 16.6748 8.34961C16.6748 7.19401 16.4551 6.11166 16.0156 5.10254C15.5762 4.09342 14.9821 3.21045 14.2334 2.45361C13.4847 1.69677 12.5977 1.09863 11.5723 0.65918C10.5631 0.219724 9.48894 0 8.34961 0C7.19401 0 6.11166 0.219724 5.10254 0.65918C4.09342 1.09863 3.21045 1.69677 2.45361 2.45361C1.69677 3.21045 1.09863 4.09342 0.65918 5.10254C0.219724 6.11166 0 7.19401 0 8.34961C0 9.48894 0.219724 10.5631 0.65918 11.5723C1.09863 12.5977 1.69677 13.4847 2.45361 14.2334C3.21045 14.9821 4.09342 15.5762 5.10254 16.0156C6.11166 16.4551 7.19401 16.6748 8.34961 16.6748ZM8.34961 2.09961C9.21224 2.09961 10.0179 2.26237 10.7666 2.58789C11.5316 2.91341 12.1948 3.35693 12.7563 3.91846C13.3179 4.47998 13.7695 5.14323 14.1113 5.9082C14.4369 6.67318 14.5996 7.48698 14.5996 8.34961C14.5996 9.21224 14.4369 10.0179 14.1113 10.7666C13.7695 11.5316 13.3179 12.1948 12.7563 12.7563C12.1948 13.3179 11.5316 13.7695 10.7666 14.1113C10.0179 14.4369 9.21224 14.5996 8.34961 14.5996C7.48698 14.5996 6.67318 14.4369 5.9082 14.1113C5.14323 13.7695 4.47998 13.3179 3.91846 12.7563C3.35693 12.1948 2.91341 11.5316 2.58789 10.7666C2.26237 10.0179 2.09961 9.21224 2.09961 8.34961C2.09961 7.48698 2.26237 6.67318 2.58789 5.9082C2.91341 5.14323 3.35693 4.47998 3.91846 3.91846C4.47998 3.35693 5.14323 2.91341 5.9082 2.58789C6.67318 2.26237 7.48698 2.09961 8.34961 2.09961Z" fill="#E66D2D"/>
+        </svg>
+    </div>
+
+</div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+		<div id="primary" class="content-area">
+			<main id="main" class="site-main">
+
+    <div class="le-content">
+
+        <div class="le-container">
+            <div class="le-left">
+
+                                <div class="kn-section-hero _kn-col-white">
+
+                    
+                        <div class="kn-hero-entry">
+
+                            <div class="kn-hero-background">
+                                <a href="https://knusthamburg.de/event/indievercity-daniel-benyamin_111656397/"
+                                   title="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT"
+                                   aria-label="INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT - ">
+                                    <div class="kn-image-container">
+                                        <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/DB-Trio-Foto-by-Laura-Straubel-61d6.jpg" alt="Daniel Benyamin Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/DB-Trio-Foto-by-Laura-Straubel-61d6.jpg" alt="Daniel Benyamin Bandfoto" /></noscript>
+                                    </div>
+                                </a>
+                            </div>
+
+                                <div class="kn-hero-claim">
+        <div class="_font-hero-claim">
+                        <h1>13.08.2026</h1>
+        </div>
+    </div>
+
+                            <div class="kn-hero-content">
+                                
+<div class="kn-event-hero   -ev-medium-width -ev-padding-medium -ev-white">
+
+    <div class="kn-ed-info">
+
+                <div class="kn-ed-date _font-ed-date">
+            13.08.2026        </div>
+
+        <div class="kn-tag-wrapper">
+
+                        <div class="kn-ed-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ed-weekday kn-tag -type-wireframe">
+                18:00            </div>
+
+                                <div class="kn-ed-location kn-tag">
+                        Lattenplatz                    </div>
+                
+                            <div class="kn-ed-location kn-tag -type-primary">
+                    Eintritt frei                </div>
+            
+        </div>
+
+        
+    </div>
+
+        <a class="kn-ed-ticket-link" href="https://knusthamburg.de/event/indievercity-daniel-benyamin_111656397/">
+            <div class="kn-ed-name _font-ed-name">
+            INDIEVERCITY: DANIEL BENYAMIN & CELEBRANT        </div>
+        </a>
+    
+    
+</div>
+                            </div>
+
+                        </div>
+
+                    
+                </div>
+
+
+                                <div class="kn-box kn-section-special">
+                                        <a href="/programm/#gf=37" >
+                                                            <div class="sp-desktop">
+                        <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_950x250.jpg" alt="Special Promo" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_950x250.jpg" alt="Special Promo" /></noscript>
+                    </div>
+                                                                <div class="sp-mobile">
+                            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_500x350.jpg" alt="Special Promo" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_500x350.jpg" alt="Special Promo" /></noscript>
+                        </div>
+                                                            </a>
+                                    </div>
+                
+
+                                <div class="kn-box kn-section-kommende">
+
+                    <h2 class="kn-box-claim -type-header _font-box-claim">
+                        Die kommenden Tage
+                    </h2>
+
+                    
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="FUSSBALL" data-location="15690,22714" data-date="2026-08-14">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/holstein-kiel-fc-st-pauli_111678742/" title="HOLSTEIN KIEL - FC ST. PAULI" aria-label="HOLSTEIN KIEL - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-d180-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/knust_fussball_header_2026_St.Pauli_b_1920x1080px-d180-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                14.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/holstein-kiel-fc-st-pauli_111678742/" title="HOLSTEIN KIEL - FC ST. PAULI" aria-label="HOLSTEIN KIEL - FC ST. PAULI - 2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt">
+            HOLSTEIN KIEL - FC ST. PAULI        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            2. Bundesliga auf dem Lattenplatz und in der Bar bei freiem Eintritt        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                <div class=" kn-tag">
+                    Bar                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="ACID ANATOLIA,ELECTRONIC" data-location="15688" data-date="2026-08-15">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/disco-arabesquo_111676724/" title="DISCO ARABESQUO" aria-label="DISCO ARABESQUO - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/hamburg-04-5007-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/hamburg-04-5007-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                15.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                22:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/disco-arabesquo_111676724/" title="DISCO ARABESQUO" aria-label="DISCO ARABESQUO - ">
+            DISCO ARABESQUO        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="CUMBIA,ELECTRONIC" data-location="15688" data-date="2026-08-18">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/killabeatmaker_111605378/" title="KILLABEATMAKER " aria-label="KILLABEATMAKER  - DJ Support by Cumbia im Viertel Crew" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_BMB4395-3fc0-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/03/4950px_BMB4395-3fc0-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                18.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DI            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                21:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/killabeatmaker_111605378/" title="KILLABEATMAKER " aria-label="KILLABEATMAKER  - DJ Support by Cumbia im Viertel Crew">
+            KILLABEATMAKER         </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            DJ Support by Cumbia im Viertel Crew        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="INDIE,INDIEVERCITY" data-location="15690" data-date="2026-08-20">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/indievercity-lasse-berger-pier_111656399/" title="INDIEVERCITY: LASSE BERGER + PIER" aria-label="INDIEVERCITY: LASSE BERGER + PIER - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/04/TORI-28vibesundvisions29-625f-760x500.jpeg" alt="Pier Bandfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/04/TORI-28vibesundvisions29-625f-760x500.jpeg" alt="Pier Bandfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                20.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                DO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/indievercity-lasse-berger-pier_111656399/" title="INDIEVERCITY: LASSE BERGER + PIER" aria-label="INDIEVERCITY: LASSE BERGER + PIER - ">
+            INDIEVERCITY: LASSE BERGER + PIER        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Lattenplatz                </div>
+                                            <div class="kn-tag -type-primary">
+                    Eintritt frei                </div>
+                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-21">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/lotto-king-karl-die-vier-richtigen_111685397/" title="LOTTO KING KARL & DIE VIER RICHTIGEN" aria-label="LOTTO KING KARL & DIE VIER RICHTIGEN -  Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/SMTG_LKK-2-3118-760x500.jpeg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/SMTG_LKK-2-3118-760x500.jpeg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                21.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                FR            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                18:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/lotto-king-karl-die-vier-richtigen_111685397/" title="LOTTO KING KARL & DIE VIER RICHTIGEN" aria-label="LOTTO KING KARL & DIE VIER RICHTIGEN -  Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH">
+            LOTTO KING KARL & DIE VIER RICHTIGEN        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+             Support: Die Toten Ärzte | BÜRGERPARK STADE | STADE Marketing und Tourismus GmbH        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+<div class="kn-event-thumb -bg-white   -type-wide-small "
+     data-genre="" data-location="15838" data-date="2026-08-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/mamf-das-festival-in-stade_111685412/" title="MAMF - Das Festival in Stade" aria-label="MAMF - Das Festival in Stade - Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/08/mamf2026_some_Post-18cc-760x500.jpeg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/08/mamf2026_some_Post-18cc-760x500.jpeg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                13:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/mamf-das-festival-in-stade_111685412/" title="MAMF - Das Festival in Stade" aria-label="MAMF - Das Festival in Stade - Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli">
+            MAMF - Das Festival in Stade        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Stader Hafensänger | Tiny Wolves | herbst | Magda | lovehead | MilleniumKid | MAJAN | Juli        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Knust2go                </div>
+                                    </div>
+        
+    </div>
+
+</div>
+                </div>
+
+            </div>
+
+            <div class="le-right">
+                <div class="le-right-content">
+
+                    
+<div class="kn-box-newsletter -bg-white knust-f-newsletter spin-container">
+
+    <div class="spinner-overlay"><div class="spinner"></div></div>
+
+    <div class="kn-box-claim _font-box-claim">
+        KNUSTLETTER
+    </div>
+
+    <div class="_font-box-newsletter">
+        Alle Neuigkeiten bequem per E-Mail in Dein Postfach. Aboniere einfach unseren KNUSTLETTER!
+            </div>
+
+    <div class="email-input-wrapper">
+        <div class="email-input-outside">
+
+            <div class="email-wrapper">
+                <input type="email" autocomplete="email" class="kn-input email-input" aria-label="E-Mail Adresse zum Eintragen in den Newsletter" />
+            </div>
+
+            <div class="email-error hidden text-[--kn-color-primary] text-base flex mb-4">
+                <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="w-6 pr-2" data-src="https://knusthamburg.de/wp-content/themes/knust25/assets//img/icons/icon-alert.svg" alt="icon warning" /><noscript><img class="w-6 pr-2" src="https://knusthamburg.de/wp-content/themes/knust25/assets//img/icons/icon-alert.svg" alt="icon warning" /></noscript>
+                <span class="">
+                    Es muss eine gültige E-Mail Adresse eingegeben werden.
+                </span>
+            </div>
+
+            <input class="kn-submit _font-input-submit button submit-button" type="submit" value="Eintragen" />
+
+        </div>
+
+    </div>
+
+    <div class="logo-f-legal">
+
+        <label class="flex mt-5 mb-0 cursor-pointer">
+            <input type="checkbox" class="terms-checkbox" />
+            <p class="mb-0 _font-box-newsletter">
+                Ich bin damit einverstanden, dass meine Daten laut <a href="/datenschutz">Datenschutzerklärung</a> verarbeitet und genutzt werden. Deine Daten behandeln wir vertraulich. Eine Abmeldung ist jederzeit möglich!
+            </p>
+        </label>
+
+        <div class="terms-error hidden text-[--kn-color-primary] text-base flex">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" class="w-6 pr-2" data-src="https://knusthamburg.de/wp-content/themes/knust25/assets//img/icons/icon-alert.svg" alt="icon warning" /><noscript><img class="w-6 pr-2" src="https://knusthamburg.de/wp-content/themes/knust25/assets//img/icons/icon-alert.svg" alt="icon warning" /></noscript>
+            <span class="">
+                Die <a href="/datenschutz">Datenschutzerklärung</a> muß akzeptiert werden um den Newsletter zu abonnieren.
+            </span>
+        </div>
+
+    </div>
+
+    <div class="form-thanks _font-box-newsletter text-center">
+        Danke für deine Anmeldung!<br>
+        Du wirst in Kürze eine Opt-In E-Mail erhalten!
+    </div>
+
+</div>
+    <div class="kn-box sidebar-special-promo !p-0">
+
+                <a href="/programm/#gf=37" >
+        
+                            <div class="sp-mobile">
+                <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_500x350.jpg" alt="Special Promo" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/50JahreKnust_500x350.jpg" alt="Special Promo" /></noscript>
+            </div>
+        
+                </a>
+        
+    </div>
+
+
+
+        <div class="kn-preview-boxes">
+                    <div class="kn-box ">
+                <div class="kn-box-claim _font-box-claim -type-preview">
+                    Preview
+                </div>
+                
+<div class="kn-event-thumb -bg-white   -type-vertical-desktop "
+     data-genre="PARTY" data-location="15688" data-date="2026-08-22">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/pretty-loud_111670869/" title="PRETTY LOUD" aria-label="PRETTY LOUD - " >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/IMAGE-2026-06-11-092455-c910-760x500.jpg" alt="Pretty Loud Party Crewfoto" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/IMAGE-2026-06-11-092455-c910-760x500.jpg" alt="Pretty Loud Party Crewfoto" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                22.08.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SA            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                23:30            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/pretty-loud_111670869/" title="PRETTY LOUD" aria-label="PRETTY LOUD - ">
+            PRETTY LOUD        </a>
+
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>            </div>
+                        <div class="kn-box ">
+                <div class="kn-box-claim _font-box-claim -type-preview">
+                    Preview
+                </div>
+                
+<div class="kn-event-thumb -bg-white   -type-vertical-desktop "
+     data-genre="DUB,REGGAE" data-location="15688" data-date="2027-01-24">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/bigaranx_111675557/" title="BIGA*RANX" aria-label="BIGA*RANX - präsentiert von Irie Ites" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/06/10mb_PHOTO-BIGA_RANX-1-b8bc-760x500.jpg" alt="Biga*Ranx Artwork" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/06/10mb_PHOTO-BIGA_RANX-1-b8bc-760x500.jpg" alt="Biga*Ranx Artwork" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                24.01.2027            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                20:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/bigaranx_111675557/" title="BIGA*RANX" aria-label="BIGA*RANX - präsentiert von Irie Ites">
+            BIGA*RANX        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            präsentiert von Irie Ites        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>            </div>
+                        <div class="kn-box ">
+                <div class="kn-box-claim _font-box-claim -type-preview">
+                    Preview
+                </div>
+                
+<div class="kn-event-thumb -bg-white   -type-vertical-desktop "
+     data-genre="" data-location="15688" data-date="2026-11-15">
+
+        <a class="kn-image-wrapper"  href="https://knusthamburg.de/event/soli-kunst-auktion-sar-solidarity-resistance_111658231/" title="Soli-Kunst-Auktion - SAR - SOLIDARITY & RESISTANCE" aria-label="Soli-Kunst-Auktion - SAR - SOLIDARITY & RESISTANCE - Eintritt gegen Spende" >
+        <div class="kn-image-container">
+            <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/uploads/2026/07/iuventa-16-9-c0b8-760x500.jpg" alt="" /><noscript><img src="https://knusthamburg.de/wp-content/uploads/2026/07/iuventa-16-9-c0b8-760x500.jpg" alt="" /></noscript>
+        </div>
+    </a>
+
+    <div class="kn-ethumb-content">
+
+        <div class="kn-ethumb-header">
+
+                        <div class="kn-ethumb-date _font-ethumb-date">
+                15.11.2026            </div>
+
+                        <div class="kn-ethumb-weekday kn-tag -type-wireframe">
+                SO            </div>
+
+                        <div class="kn-ethumb-time kn-tag -type-wireframe">
+                17:00            </div>
+
+                    </div>
+
+                <a class="kn-ethumb-name _font-ethumb-name"  href="https://knusthamburg.de/event/soli-kunst-auktion-sar-solidarity-resistance_111658231/" title="Soli-Kunst-Auktion - SAR - SOLIDARITY & RESISTANCE" aria-label="Soli-Kunst-Auktion - SAR - SOLIDARITY & RESISTANCE - Eintritt gegen Spende">
+            Soli-Kunst-Auktion - SAR - SOLIDARITY & RESISTANCE        </a>
+
+                <div class="kn-ethumb-subtitle _font-ethumb-subtitle">
+            Eintritt gegen Spende        </div>
+        
+                <div class="kn-ethumb-footer">
+                            <div class=" kn-tag">
+                    Saal                </div>
+                                    </div>
+        
+    </div>
+
+</div>            </div>
+                </div>
+        <div class="kn-box -bg-white">
+                    <div class="kn-box-claim -type-header _font-box-claim">
+                Archiv            </div>
+                    <div class="_font-box-newsletter">
+                <p>Hier könnte Ihr noch ein wenig auf unserer alten Webseite stöbern.</p>            </div>
+        
+                    <a class="kn-button -type-primary w-full !mt-8 text-center" href="http://2016.knusthamburg.de/"  target="_blank">
+                        Alte Knust Webseite                        <span class="visually-hidden">
+                            Hier klicken um 'Alte Knust Webseite' zu öffnen
+                        </span>
+                    </a>
+
+                    
+    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+			</main><!-- #main -->
+		</div><!-- #primary -->
+	</div><!-- #content -->
+
+	
+	<footer id="colophon" class="site-footer">
+
+        <div class="site-info flex justify-center le-content !mx-auto">
+
+            <div class="relative w-full flex justify-center">
+
+                <div class="kn-footer-header">
+                    <img data-lazyloaded="1" src="data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=" data-src="https://knusthamburg.de/wp-content/themes/knust25/assets/img/logos/logo-knust-2025-orange.svg" alt="Logo Jever Orange"><noscript><img src="https://knusthamburg.de/wp-content/themes/knust25/assets/img/logos/logo-knust-2025-orange.svg" alt="Logo Jever Orange"></noscript>
+                </div><!-- .site-name -->
+
+                <div class="kn-socials-wrapper ">
+    <a href="https://www.instagram.com/knusthamburg/" class="kn-social -instagram" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31" fill="none" aria-label="Follow us on Instagram" role="img">
+            <path d="M27.2 20.9975C27.2 21.5212 27.15 22.02 27.0625 22.4938C26.975 22.9801 26.8375 23.4414 26.65 23.8778L26.6875 23.803C26.425 24.4763 26.05 25.0623 25.55 25.5362C25.05 26.01 24.5 26.384 23.875 26.6459H23.8375C23.425 26.8329 22.975 26.9576 22.5125 27.0324C22.05 27.1072 21.5625 27.1571 21.0625 27.182C20.25 27.207 19.55 27.2319 18.9375 27.2444C18.325 27.2569 17 27.2693 14.975 27.2693C12.95 27.2693 11.625 27.2693 11.0125 27.2444C10.4 27.2195 9.6875 27.207 8.8875 27.182C8.3625 27.1571 7.875 27.0948 7.4 27.0075C6.925 26.9202 6.475 26.7955 6.0375 26.6334H6.075C5.425 26.3965 4.85 26.0349 4.35 25.5362C3.85 25.0374 3.475 24.4763 3.2125 23.8155V23.7781C3.05 23.3915 2.9375 22.9551 2.8375 22.4938C2.7375 22.0324 2.7 21.5337 2.7 21.01C2.65 20.2244 2.625 19.5262 2.625 18.9027V10.9726C2.625 10.3616 2.65 9.65087 2.7 8.85287C2.7 8.35411 2.75 7.86783 2.8375 7.39401C2.925 6.90773 3.0625 6.44638 3.25 6.00998L3.2125 6.04738C3.475 5.399 3.85 4.82544 4.35 4.32668C4.85 3.82793 5.4125 3.45387 6.075 3.19202C6.4875 3.04239 6.9375 2.91771 7.4 2.81796C7.875 2.73067 8.3625 2.6808 8.8875 2.6808C9.675 2.65586 10.375 2.63092 11 2.61845C11.625 2.60598 12.95 2.59352 14.9875 2.59352H18.95C19.5625 2.59352 20.275 2.61845 21.075 2.66833C21.575 2.66833 22.05 2.7182 22.525 2.80549C23 2.89277 23.45 3.02993 23.8875 3.21696L23.85 3.17955C24.5 3.4414 25.075 3.81546 25.575 4.31421C26.075 4.81297 26.45 5.37407 26.7125 6.03491C26.8625 6.44638 26.9875 6.89526 27.0875 7.35661C27.175 7.83042 27.225 8.30424 27.225 8.80299V8.8404C27.25 9.61347 27.275 10.3242 27.2875 10.9476C27.3 11.5711 27.3125 12.8928 27.3125 14.9252V18.8778C27.3125 19.4888 27.3 20.187 27.275 20.9601H27.2375L27.2 20.9975ZM29.2375 5.18703C28.85 4.17706 28.275 3.29177 27.5125 2.54364C26.75 1.79551 25.8875 1.22195 24.9 0.822943L24.8625 0.785536C24.3125 0.573566 23.7375 0.411471 23.125 0.299252C22.5125 0.187032 21.8875 0.124688 21.225 0.124688H21.1875C20.4125 0.074813 19.6875 0.0374065 19.0375 0.0249377C18.3875 0.0124688 17.05 0 15.0125 0C12.975 0 11.6375 0 10.9875 0.0249377C10.3375 0.0374065 9.625 0.074813 8.8375 0.124688C8.1875 0.124688 7.55 0.187032 6.925 0.32419C6.3 0.448878 5.7 0.623441 5.125 0.835411L5.2 0.798005C4.1875 1.20948 3.3 1.79551 2.55 2.55611C1.8 3.30424 1.225 4.16459 0.825 5.12469L0.7875 5.1995C0.575 5.72319 0.4125 6.29676 0.3 6.9202C0.1875 7.54364 0.1125 8.17955 0.0875 8.82793C0.0625 9.6384 0.0375 10.3491 0.025 10.985C0.0125 11.6209 0 12.9551 0 14.9751C0 16.995 0 18.3416 0.025 18.99C0.0375 19.6384 0.0625 20.3616 0.0875 21.1721C0.1125 21.7955 0.1875 22.4065 0.3 23.005C0.4125 23.6035 0.575 24.202 0.7875 24.8005C1.2 25.8105 1.7875 26.6958 2.55 27.4439C3.3 28.192 4.1625 28.7656 5.125 29.1646H5.2C5.725 29.4015 6.2875 29.5761 6.9 29.7132C7.5125 29.8504 8.1375 29.9127 8.8 29.9127H8.8375C9.65 29.9626 10.3625 30 11 30.0125C11.6375 30.0249 12.975 30.0374 15 30.0374C17.025 30.0374 18.375 30.0374 19.025 30.0125C19.675 30 20.4 29.9626 21.2125 29.9127C21.8625 29.9127 22.5 29.8504 23.125 29.7132C23.75 29.5761 24.35 29.414 24.925 29.202L24.85 29.2394C25.8625 28.8279 26.75 28.2419 27.5 27.4813C28.25 26.7332 28.825 25.8728 29.225 24.9127V24.8379C29.4625 24.2643 29.6375 23.6783 29.75 23.0673C29.8625 22.4564 29.925 21.8454 29.925 21.2219C29.95 20.4115 29.975 19.7007 29.9875 19.0648C30 18.4289 30.0125 17.0948 30.0125 15.0748V11.0474C30.0125 10.4115 29.9875 9.68828 29.9375 8.89027C29.9375 8.24189 29.875 7.59352 29.7375 6.95761C29.6125 6.3217 29.425 5.72319 29.1875 5.14963L29.225 5.22444L29.2375 5.18703ZM24.8125 6.97008C24.8125 7.49377 24.6375 7.91771 24.2875 8.25436C23.9375 8.59102 23.5125 8.76559 23.0125 8.76559C22.5125 8.76559 22.1 8.59102 21.7375 8.25436C21.3875 7.91771 21.2125 7.49377 21.2125 6.97008C21.2125 6.44638 21.3875 6.05985 21.7375 5.72319C22.0875 5.38653 22.5125 5.21197 23.0125 5.21197C23.5125 5.21197 23.925 5.38653 24.2875 5.72319C24.6375 6.05985 24.8125 6.47132 24.8125 6.97008ZM15.0125 19.9501C13.6375 19.9501 12.45 19.4638 11.475 18.4913C10.5 17.5187 10.0125 16.3466 10.0125 14.9626C10.0125 13.5786 10.5 12.4065 11.475 11.4339C12.45 10.4613 13.625 9.97506 15.0125 9.97506C16.4 9.97506 17.575 10.4613 18.55 11.4339C19.525 12.4065 20.0125 13.5786 20.0125 14.9626C20.0125 16.3466 19.525 17.5187 18.55 18.4913C17.575 19.4638 16.4 19.9501 15.0125 19.9501ZM15.0125 7.2818C13.95 7.2818 12.9375 7.4813 12 7.86783C11.0625 8.2793 10.25 8.8404 9.5625 9.52618C8.875 10.212 8.325 11.0224 7.9 11.9576C7.5125 12.8928 7.3125 13.8903 7.3125 14.9626C7.3125 16.0349 7.5125 17.0324 7.9 17.9676C8.3125 18.9027 8.875 19.7132 9.5625 20.399C10.25 21.0848 11.0625 21.6334 12 22.0574C12.9375 22.4439 13.9375 22.6434 15.0125 22.6434C16.0875 22.6434 17.0875 22.4439 18.025 22.0574C18.9625 21.6459 19.775 21.0848 20.4625 20.399C21.15 19.7132 21.7 18.9027 22.125 17.9676C22.5125 17.0324 22.7125 16.0349 22.7125 14.9626C22.7125 13.8903 22.5125 12.8928 22.125 11.9576C21.7125 11.0224 21.15 10.212 20.4625 9.52618C19.775 8.8404 18.9625 8.29177 18.025 7.86783C17.0875 7.4813 16.0875 7.2818 15.0125 7.2818Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+    <a href="https://www.facebook.com/KnustHamburg" class="kn-social -facebook" target="_blank">
+        <svg xmlns="http://www.w3.org/2000/svg" width="31" height="30" viewBox="0 0 31 30" fill="none" aria-label="Follow us on Facebook" role="img">
+            <path d="M18.8752 15H16.4189V24.0188H13.0814V15H10.7939V11.8969H13.0814V10.0781C13.0814 8.70938 13.3346 7.6875 13.8408 7.00312C14.3471 6.31875 15.3033 5.98125 16.7096 5.98125H19.1658V9.08437H17.6471C17.1033 9.08437 16.7564 9.17813 16.6252 9.375C16.4939 9.57187 16.4189 9.9 16.4189 10.3688V11.8875H19.2314L18.8752 14.9906V15ZM24.3877 0H5.6377C4.07207 0 2.7502 0.54375 1.65332 1.64062C0.556445 2.7375 0.0126953 4.05937 0.0126953 5.625V24.375C0.0126953 25.9406 0.556445 27.2625 1.65332 28.3594C2.7502 29.4562 4.07207 30 5.6377 30H24.3877C25.9533 30 27.2752 29.4562 28.3721 28.3594C29.4689 27.2625 30.0127 25.9406 30.0127 24.375V5.625C30.0127 4.05937 29.4689 2.7375 28.3721 1.64062C27.2752 0.54375 25.9533 0 24.3877 0Z" fill="#E66D2D"/>
+        </svg>
+    </a>
+</div>
+            </div>
+
+            
+        </div><!-- .site-info -->
+
+
+					<nav aria-label="Sekundäres Menü" class="footer-navigation">
+				<ul class="footer-navigation-wrapper">
+					<li id="menu-item-649" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-649"><a href="https://maps.app.goo.gl/PjbVGygQm8mAsz7Q6"><span>Anfahrt</span></a></li>
+<li id="menu-item-648" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-648"><a href="https://knusthamburg.de/kontakt/"><span>Kontakt</span></a></li>
+<li id="menu-item-9477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9477"><a href="https://knusthamburg.de/historie/"><span>Historie</span></a></li>
+<li id="menu-item-647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-647"><a href="https://knusthamburg.de/impressum/"><span>Impressum</span></a></li>
+<li id="menu-item-646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-646"><a href="https://knusthamburg.de/datenschutz/"><span>Datenschutz</span></a></li>
+				</ul><!-- .footer-navigation-wrapper -->
+			</nav><!-- .footer-navigation -->
+		
+        <div class="kn-footer-bottom flex justify-center le-content">
+                            <a href="https://www.jever.de/" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://www.jever.de/ ) ">
+                
+                    <svg role="img" aria-label=Unterstützer Logo ( https://www.jever.de/ ) " width="90" height="49" viewBox="0 0 90 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M63.055 9.48749C67.6871 10.6956 71.6486 12.1654 73.543 13.1879C74.5676 13.6871 75.3413 14.1065 76.075 15.1111C76.8982 16.244 77.1362 17.6474 77.1362 18.5454L77.1377 23.271C77.1377 25.2304 76.3191 26.6406 74.4425 27.1973C76.0749 27.5548 77.1422 29.1607 77.1422 30.4871L77.1453 39.9143C75.6163 40.8318 73.9516 41.6752 72.1487 42.4522V31.3896C72.1487 31.3896 72.1784 30.8268 71.949 30.6009C71.7186 30.3689 71.1408 30.4103 71.1408 30.4103H68.7328V43.7899C67.0368 44.4186 65.1441 45.0048 63.0529 45.5353V9.48764M71.9833 18.5132C71.8776 18.3534 71.8107 18.265 71.6572 18.1529C71.6572 18.1529 69.7896 17.3814 68.7328 17.0434V24.249H71.0933C71.0933 24.249 71.6868 24.2837 71.9239 24.0479C72.159 23.8158 72.1478 23.234 72.1478 23.234V19.0686C72.1401 18.8437 72.0635 18.6384 71.9827 18.5129L71.9833 18.5132ZM59.396 31.0116H55.2685V40.721C56.444 40.5889 58.4397 40.2284 59.396 40.0121L59.3975 46.3993C56.1813 47.1986 52.5702 47.5974 49.3782 47.9688V7.07508C52.5674 7.33396 57.3727 8.15942 59.2834 8.6057L59.2818 14.6945C57.9234 14.3872 56.5173 14.1434 55.2684 13.9337V24.2165H59.3958V31.0115L59.396 31.0116ZM24.0868 24.2194H28.5635V31.0137H24.0868V40.9648C25.1966 41.1312 27.5257 41.4245 28.7853 41.5339L28.7869 48.11C25.6846 47.7797 21.4207 47.2561 18.202 46.5426L18.2004 8.50813C20.2027 8.07973 24.9192 7.28936 28.2548 7.01329V12.8466C26.2777 13.0494 24.8896 13.222 24.0881 13.3637V24.2194H24.0868ZM0.018782 14.959C3.24938 13.0743 8.83143 10.6501 14.3208 9.38115L14.3284 36.2248C14.3269 40.2085 11.7786 43.4024 7.17849 43.1927C2.52622 42.9834 0.0562567 39.3311 0.00609858 35.3752L0 29.5419H5.64129V35.1583C5.64586 35.8556 6.20516 36.508 6.98358 36.6012C7.80062 36.6954 8.47845 36.3368 8.48297 35.1727L8.48602 17.55C6.10042 18.3922 2.89332 19.7572 0.0165114 21.3848V14.959H0.018782ZM38.5397 28.6009L40.9711 6.53479C43.1899 6.59855 45.1488 6.7053 46.8449 6.86104L41.7065 48.477C39.7707 48.5513 37.7802 48.5546 35.7321 48.4831L30.0461 6.83053C32.7234 6.65451 34.6682 6.56165 35.8758 6.55707L38.5397 28.598L38.5397 28.6009Z" fill="#E66D2D"/>
+</svg>
+
+                                </a>
+                
+                            <a href="https://nobels.de/" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://nobels.de/ ) ">
+                
+                    <?xml version="1.0" encoding="UTF-8"?>
+<svg role="img" aria-label=Unterstützer Logo ( https://nobels.de/ ) " id="Ebene_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 276 206">
+  <!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 2.1.1 Build 1)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #e66e2d;
+      }
+    </style>
+  </defs>
+  <path class="st0" d="M222.63.45h1c.39,1,.92,3,.9,4.32l-.69,58.75c-.01.99.76,3.18,1.6,3.23,10.1.56,16.38-24.08,17.49-32.43.4-3.01-3.87-6.21-1.11-9.89,1.46-1.95,3.44-4.89,6.73-5.49.94-.17,3.76.51,3.88,1.41l.45,3.38c.27,2.02,1.25,4.08,3.25,4.89,10.6,4.29,14.21,15.06,10.32,25.43-3.44,9.17-13.63,15.6-22.87,11.84-1.5-5.4,3.98-7.44,6.79-9.64,5.07-3.97,3.26-12.9-1.2-16.65-4.9,15.66-7.35,29.59-22.85,37.75-5.74,3.02-11.89,2.04-16.39-2.43-9.22,13.54-14.15,16.64-29.67,21.48-4.93,1.54-8.76-1.75-10.1-6.15-2.59,5.48-7.62,7.35-12.06,7.54-4.28,9.53-19.05,21.48-26.66,14.81-1.45-1.27-3.44-4.66-3.46-6.91l-.12-17.9-9.84,7.4-1.36,16.16c-.45,5.37-3.39,12.43-8.22,14.89s-16.27,8.44-19.48,5.72c-5.89-4.99-3.65-24.88-2.25-31.86,1.67-8.34,7.29-12.28,13.82-15.93-.43.24,10.7-11.21,14.74-5.07,2.72,4.13,1.14,8.27,2.7,7.91,4.46-1.03,7.03-5.7,10.14-9.74l.85-36.93c4.88-2.61,8.34-4.11,14.79-5.95l-.45,35.3c3.62-3.58,6.14-5.29,9.87-4.77,10.15,1.41,4.69,22.7,8.67,24.27,6.51-2.8,8.17-7.49,7.91-13.87-.87-20.89,9.9-23.54,24.22-29.01,2.12-.81,5.87,1.57,6.27,3.82,1.96,11.21,2.23,18.3-7.43,22.58l-9.47,4.19c-.53,3.56-.45,6.88.79,10.56,11.03-3.39,22.68-12.4,23.99-24.86,1.83-17.34.54-34.58,1.31-52.18.13-3.11,1.31-5.28,3.99-6.34l9.2-3.64ZM186.33,56.79c-.81,0-2.78,1.67-2.8,2.48l-.24,11.06c6.56-.8,5.18-13.54,3.04-13.54ZM146.96,101.84l.38-27.38c-.77-1.34-4.15.45-4.18,2.36l-.35,25.85c-.01.77,1.67,2.62,2.03,2.18s2.11-2.14,2.12-3.01ZM103.84,118.59l.04-21.17-4.35-4.99c-.41,9.64-.55,20.06-.4,30.15,2.4,1.04,4.71-1.53,4.71-3.99Z"/>
+  <path class="st0" d="M275.63,66.75c-18.16,13.68-37.22,25.36-58.07,35.99-44.36,22.62-89.47,41.5-137.37,58.59-1.21-4.71-.99-9.44.21-14.31l195.23-82.58v2.31Z"/>
+  <path class="st0" d="M42.62,152.64c-3.91,4.55-9.96,7-16.71,7.24l1.17-75.38c.02-1.22-.85-3-1.64-3.55s-3.86-.59-4.74.12l-16.29,13.09c-1.12.9-3.9-1.28-4.02-2.48s.89-3.43,1.98-4.43c6.94-6.33,33.01-30.92,40.1-16.94,7.04-8.83,18.05-19.84,29.15-14.67,3.14,1.46,6.92,5.19,6.81,9.87l-3.06,131.89c-.1,4.52-13.79,9.68-16.93,7.72l3.09-130.6c.04-1.74-1.63-4.76-2.72-5.62-4.54-3.57-14.64,7.95-14.82,16.51l-1.37,67.22Z"/>
+</svg>
+                                </a>
+                
+                            <a href="https://meta3.com" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://meta3.com ) ">
+                
+                    <svg role="img" aria-label=Unterstützer Logo ( https://meta3.com ) " width="38" height="44" viewBox="0 0 38 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_484_613" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="38" height="44">
+<path d="M37.6852 0H0V44H37.6852V0Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_484_613)">
+<path d="M25.0996 17.4608L37.6852 9.22053L33.8391 0H0L3.91778 9.20633H21.6697L7.40501 17.4608H7.41936L11.2367 26.4966H23.6932L14.7957 34.8362L18.6848 44L37.1543 26.5109L33.3369 17.4608H25.0996Z" fill="#E66D2D"/>
+</g>
+</svg>
+
+                                </a>
+                
+                            <a href="https://stager.co/" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://stager.co/ ) ">
+                
+                    <svg role="img" aria-label=Unterstützer Logo ( https://stager.co/ ) " width="110" height="35" viewBox="0 0 110 35" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M44.1698 13.6957C44.1698 12.4276 45.6483 11.9566 46.7202 11.9566C47.6443 11.9566 48.864 12.3189 49.4554 13.0798L52.0428 10.3262C50.6013 9.09428 48.7162 8.58704 46.7941 8.58704C43.4306 8.58704 40.2518 10.4711 40.2518 14.0581C40.2518 19.674 48.2726 18.0073 48.2726 21.087C48.2726 22.2465 46.8681 22.8262 45.6483 22.8262C44.4285 22.8262 43.1349 22.2465 42.3587 21.232L39.6604 24.1305C41.2867 25.5798 43.2088 26.232 45.4265 26.232C48.9749 26.232 52.0428 24.4204 52.0428 20.6885C52.0428 14.7827 44.1698 16.7392 44.1698 13.6957Z" fill="#E66D2D"/>
+<path d="M57.5135 20.9421V17.1015H60.6553V14.2392H57.4766V10.8334H53.8543V14.2392H51.5256V17.1015H53.8543V22.6087C53.8543 25.1087 55.7393 26.087 58.1419 26.087C58.992 26.087 59.8791 26.0145 60.6923 25.7247V22.7537C60.3596 23.0435 59.5834 23.0798 59.2138 23.0798C57.6614 23.0798 57.5135 22.174 57.5135 20.9421Z" fill="#E66D2D"/>
+<path d="M67.2345 13.9856C65.3125 13.9856 63.3904 14.6015 62.0598 15.8334L63.9819 17.7899C64.7581 16.9204 65.756 16.4131 66.9388 16.4131C68.1956 16.4131 69.2675 17.2102 69.2675 18.4783C66.2735 18.4783 61.3206 18.5508 61.3206 22.5363C61.3206 24.8552 63.2796 26.087 65.4973 26.087C66.9758 26.087 68.4173 25.5798 69.2305 24.3479H69.2675V25.7972H72.5941V19.9276C72.5941 16.087 71.4852 13.9856 67.2345 13.9856ZM69.2675 21.4856C69.2675 22.9349 67.9368 23.6595 66.4953 23.6595C65.7191 23.6595 64.795 23.261 64.795 22.3914C64.795 20.8334 67.2715 20.7247 68.3804 20.7247H69.2675V21.4856Z" fill="#E66D2D"/>
+<path d="M82.9806 14.2755V15.7972H82.9436C82.3892 14.9639 80.9846 13.9856 78.9147 13.9856C75.5881 13.9856 73.5552 16.9566 73.5552 20.0001C73.5552 23.4784 75.8838 25.9421 79.3583 25.9421C80.4671 25.9421 81.8717 25.5436 82.6849 24.4204H82.7218V25.5436C82.7218 27.174 81.6869 28.3697 79.4692 28.3697C78.0276 28.3697 76.7709 27.8262 75.662 26.8841L73.6661 29.8189C75.3663 31.1233 77.5101 31.4856 79.58 31.4856C84.1264 31.4856 86.3811 29.1668 86.3811 24.8189L86.3072 14.2755H82.9806ZM80.1714 22.7899C78.5081 22.7899 77.2514 21.4494 77.2514 19.9276C77.2514 18.4059 78.5081 17.0653 80.1714 17.0653C81.8347 17.0653 83.0915 18.4421 83.0915 19.9276C83.0915 21.4131 81.8347 22.7899 80.1714 22.7899Z" fill="#E66D2D"/>
+<path d="M93.9947 13.7319C90.3724 13.7319 87.4524 16.087 87.4524 19.7827C87.4524 23.4783 90.3724 25.8334 93.9947 25.8334C95.8798 25.8334 97.8019 25 98.9477 23.5508L96.3973 21.7392C95.8059 22.5725 94.9927 23.1522 93.8099 23.1522C92.4053 23.1522 91.3704 22.2464 91.0747 20.9058H99.5021V19.7827C99.5021 16.087 97.3953 13.7319 93.9947 13.7319ZM91.1117 18.4783C91.1856 17.3551 92.0727 16.3044 93.6621 16.3044C94.9557 16.3044 95.9168 17.2827 95.8798 18.4783H91.1117Z" fill="#E66D2D"/>
+<path d="M108.817 17.3188V14.0579C108.485 13.9855 108.004 13.9492 107.597 13.9492C105.971 13.9492 104.973 14.6739 104.197 16.0869H104.16V14.2391H100.538V25.7608H104.16V20.942C104.16 18.6231 104.493 17.0652 107.265 17.0652C107.782 17.0652 108.3 17.1739 108.817 17.3188Z" fill="#E66D2D"/>
+<path d="M107.782 21.558C106.562 21.558 105.564 22.5362 105.564 23.7319C105.564 24.9275 106.562 25.9058 107.782 25.9058C109.002 25.9058 110 24.9275 110 23.7319C110 22.5362 109.002 21.558 107.782 21.558Z" fill="#E66D2D"/>
+<path d="M17.8528 0C8.02083 0 0 7.86232 0 17.5C0 27.1377 7.98387 35 17.8528 35C27.7218 35 35.7056 27.1014 35.7056 17.4638C35.7056 7.82609 27.6848 0 17.8528 0ZM19.5161 8.51449C19.5161 8.51449 20.3293 8.22464 20.4032 8.65942C20.4771 9.05797 20.4771 9.60145 19.7379 10.471C19.2574 11.0507 19.5161 8.51449 19.5161 8.51449ZM21.7006 32.1304C20.7507 29.8623 19.7601 22.4058 21.6969 14.2029C23.3972 7.17391 20.0706 7.6087 18.1855 7.6087C16.3004 7.6087 15.9677 7.78986 14.2305 8.87681C12.4933 9.96377 11.754 9.52899 11.4214 9.8913C11.0887 10.2174 11.4214 11.087 12.9738 11.7754C14.2305 12.2101 14.2305 12.2464 16.3374 12.5725C16.3374 12.5725 17.5571 12.4638 17.5571 14.5652C17.2984 18.9493 14.711 22.9348 13.713 25.3623C12.4194 28.4783 12.6781 29.4203 12.6781 29.4203C12.6781 29.4203 12.789 29.6739 12.9738 29.3841C13.1216 29.0942 13.9718 27.1739 15.4133 26.1232C15.0917 26.5072 13.6687 28.3551 13.3397 31.9457C7.02285 30.0435 2.40255 24.2609 2.40255 17.4638C2.40255 9.13043 9.31452 2.31884 17.8528 2.31884C26.3911 2.31884 33.3031 9.13043 33.3031 17.4638C33.3031 24.4964 28.3538 30.4457 21.7006 32.1304ZM16.6331 9.02174C16.5961 9.27536 16.4113 9.49275 16.1526 9.49275C15.8938 9.49275 15.672 9.27536 15.672 9.02174C15.672 8.76812 15.8938 8.55072 16.1526 8.55072C16.4113 8.55072 16.6331 8.76812 16.6331 9.02174Z" fill="#E66D2D"/>
+</svg>
+
+                                </a>
+                
+                            <a href="https://mydearcaptain.com" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://mydearcaptain.com ) ">
+                
+                    <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 30.2.1, SVG Export Plug-In . SVG Version: 9.03 Build 0)  -->
+<svg role="img" aria-label=Unterstützer Logo ( https://mydearcaptain.com ) " version="1.0" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 495.21 203.14" style="enable-background:new 0 0 495.21 203.14;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E66D2D;}
+</style>
+<g>
+	<path class="st0" d="M156.13,69.59l0.05,0.16l13.31,5.43c-2.02,7.2-3.05,14.47-3.05,21.67h3.72c0-9.65,1.89-19.42,5.74-28.94
+		c7.88-19.23,22.71-34.19,41.82-42.25c9.71-4.09,19.84-6.11,30.04-6.11s19.9,1.95,29.37,5.8c19.23,7.88,34.19,22.71,42.25,41.82
+		c4.03,9.52,6.05,19.54,6.1,29.61h3.73c0-7.57-1.16-15.08-3.3-22.47l13.25-5.56c2.2-0.92,3.91-2.63,4.82-4.89
+		c0.91-2.2,0.91-4.64,0-6.84l-0.12-0.31c-0.92-2.2-2.63-3.91-4.89-4.82c-2.2-0.92-4.64-0.92-6.84,0l-13.25,5.56
+		c-7.51-13.43-18.5-24.42-32.05-31.75l5.43-13.25c0.92-2.2,0.92-4.64,0-6.84c-0.91-2.2-2.63-3.91-4.82-4.82l-0.31-0.12
+		c-4.58-1.89-9.77,0.37-11.66,4.88l-5.43,13.31c-14.78-4.21-30.34-4.15-45.12,0.24l-5.56-13.25c-0.92-2.2-2.63-3.91-4.88-4.82
+		c-2.2-0.91-4.64-0.91-6.84,0l-0.3,0.12c-2.2,0.92-3.91,2.63-4.82,4.88c-0.91,2.2-0.91,4.64,0,6.84l5.56,13.25
+		c-13.43,7.51-24.36,18.5-31.75,32.05l-13.31-5.43c-2.2-0.91-4.64-0.91-6.84,0c-2.2,0.92-3.91,2.63-4.82,4.89l-0.12,0.3
+		c-0.91,2.2-0.91,4.64,0,6.84C152.16,66.97,153.87,68.68,156.13,69.59z M333.48,55.53h0.06l0,0c1.28-0.55,2.69-0.55,3.97,0
+		c1.28,0.55,2.32,1.53,2.81,2.81l0.12,0.3c0.55,1.28,0.55,2.69,0,3.97c-0.55,1.28-1.53,2.32-2.81,2.81l-12.94,5.43
+		c-0.61-1.71-1.22-3.36-1.89-5.01c-0.67-1.65-1.47-3.3-2.26-4.88L333.48,55.53z M278.83,7.18V7.17c1.1-2.63,4.15-3.91,6.78-2.87
+		l0.3,0.12c2.63,1.1,3.91,4.15,2.87,6.78l-5.31,13.01c-1.59-0.79-3.24-1.53-4.88-2.2c-1.65-0.67-3.36-1.28-5.07-1.83L278.83,7.18z
+		 M205.94,11.63c-1.1-2.63,0.12-5.68,2.81-6.78l0.3-0.12c0.61-0.24,1.28-0.43,2.02-0.43c0.74,0,1.34,0.12,1.95,0.37
+		c1.28,0.55,2.32,1.53,2.81,2.81l5.43,12.94c-1.71,0.61-3.36,1.22-5.01,1.89c-1.65,0.67-3.3,1.47-4.88,2.26L205.94,11.63z
+		 M154.71,59.5l0.12-0.31c0.55-1.28,1.53-2.26,2.81-2.81c0.67-0.31,1.34-0.43,2.02-0.43s1.34,0.12,1.95,0.37l13.01,5.31
+		c-0.79,1.59-1.53,3.24-2.2,4.88c-0.67,1.64-1.28,3.36-1.83,5.07l-13-5.31c-1.28-0.55-2.26-1.53-2.81-2.81
+		c-0.55-1.28-0.55-2.69,0-3.97L154.71,59.5z"/>
+	<path class="st0" d="M309.05,96.86h3.79c-0.06-8.36-1.77-16.73-5.07-24.67c-6.72-16-19.29-28.45-35.35-35.04
+		c-33.15-13.55-71.25,2.38-84.8,35.59c-3.24,7.88-4.76,16.06-4.82,24.12h3.72c0-7.02,1.28-14.04,3.85-20.94l31.08,12.7
+		c-0.91,2.75-1.34,5.49-1.4,8.24h3.72c0-2.87,0.61-5.8,1.77-8.61c2.44-5.92,7.02-10.56,12.94-13.06s12.45-2.5,18.38-0.06
+		c9.1,3.72,14.71,12.45,14.9,21.74h3.72c0-2.93-0.55-5.8-1.47-8.49l30.95-13.01C307.59,82.21,308.99,89.47,309.05,96.86z
+		 M222.91,85.14l-31.08-12.7c6.28-14.14,17.37-24.76,30.54-30.81l13,30.93C229.94,75.31,225.6,79.64,222.91,85.14z M256.55,71.04
+		c-5.8-1.95-11.97-1.89-17.71,0.06l-13-30.95c6.96-2.69,14.47-4.09,22.04-4.09v-0.01c7.14,0,14.35,1.28,21.37,3.91L256.55,71.04z
+		 M272.55,84.95c-2.63-5.25-6.96-9.71-12.58-12.52l12.7-31.08v0.01c14.16,6.29,24.79,17.4,30.83,30.59L272.55,84.95z"/>
+	<path class="st0" d="M282.67,146.24l-7.33-6.9c-0.98,1.35-2.2,2.38-3.79,3.24c-1.58,0.79-3.65,1.22-5.49,1.22
+		c-1.84,0-3.48-0.31-5.01-0.98c-1.53-0.67-2.81-1.59-3.91-2.75c-1.1-1.16-1.95-2.56-2.56-4.21c-0.61-1.64-0.92-3.48-0.92-5.43
+		s0.31-3.72,0.92-5.37c0.68-1.58,1.53-2.99,2.63-4.21c1.1-1.16,2.44-2.14,3.97-2.81c1.59-0.67,3.42-1.04,5.13-1.04
+		s3.36,0.31,4.95,0.98c1.65,0.67,2.93,1.71,3.91,3.05l7.2-7.2c-1.83-2.13-4.27-3.72-7.26-4.82c-3-1.1-5.74-1.65-9.1-1.65
+		s-6.47,0.49-9.34,1.59c-2.93,1.1-5.43,2.62-7.57,4.64c-2.2,2.02-3.85,4.4-5.07,7.27c-1.22,2.86-1.83,6.1-1.83,9.52
+		s0.55,6.59,1.77,9.4c1.22,2.81,2.87,5.31,4.95,7.33c2.08,2.07,4.58,3.66,7.45,4.76s5.61,1.65,9.34,1.65s6.96-0.67,9.83-1.95
+		l-0.07-0.02C278.34,150.21,280.72,148.44,282.67,146.24z"/>
+	<path class="st0" d="M316.8,152.3h11.72l-18.19-43.78h-10.25L281.7,152.3h11.48l3.23-8.61h16.97L316.8,152.3z M299.47,135.26
+		l5.56-15.02l5.43,15.02H299.47z"/>
+	<path class="st0" d="M358.94,111.5c-1.52-1.04-3.36-1.77-5.43-2.26c-2.08-0.49-4.34-0.73-6.72-0.73h-16.06v43.78h10.56v-16.48h5.25
+		c2.26,0,4.46-0.24,6.53-0.73c2.08-0.55,3.97-1.28,5.56-2.38c1.59-1.04,2.87-2.44,3.85-4.21c0.91-1.77,1.4-3.91,1.4-6.47l0.06-0.02
+		c0-2.5-0.42-4.64-1.34-6.35C361.69,113.94,360.47,112.54,358.94,111.5z M352.71,124.65c-0.43,0.67-0.98,1.22-1.71,1.65
+		c-0.73,0.43-1.52,0.68-2.44,0.86c-0.92,0.18-1.89,0.24-2.87,0.24h-4.46v-10.32h4.64c0.92,0,1.84,0.06,2.75,0.18
+		c0.85,0.12,1.65,0.36,2.38,0.73c0.67,0.37,1.22,0.86,1.65,1.53s0.61,1.52,0.61,2.56l0.06,0.01
+		C353.32,123.12,353.14,123.98,352.71,124.65z"/>
+	<polygon class="st0" points="400.33,108.52 365.04,108.52 365.04,117.56 377.38,117.56 377.38,152.36 388,152.36 388,117.56 
+		400.33,117.56 	"/>
+	<path class="st0" d="M409.8,108.52l-18.38,43.78h11.48l3.24-8.61h16.97l3.42,8.61h11.78l-18.19-43.78H409.8z M409.18,135.26
+		l5.56-15.02l5.43,15.02H409.18z"/>
+	<rect x="440.38" y="108.52" class="st0" width="10.62" height="43.78"/>
+	<polygon class="st0" points="484.95,108.52 485.2,137.1 485.01,137.1 467.43,108.52 455.4,108.52 455.4,152.36 465.66,152.36 
+		465.41,123.72 465.6,123.72 483.24,152.36 495.21,152.36 495.21,108.52 	"/>
+	<path class="st0" d="M119.91,150.83c2.75-0.92,5.25-2.26,7.45-4.09c2.26-1.83,4.03-4.09,5.37-6.84c1.35-2.75,2.02-5.99,2.02-9.59
+		c0-3.6-0.68-6.77-2.02-9.52c-1.4-2.75-3.17-5.01-5.37-6.84c-2.26-1.83-4.7-3.17-7.45-4.09c-2.75-0.91-5.49-1.34-8.18-1.34H97.2
+		v43.65h14.53C114.41,152.17,117.16,151.75,119.91,150.83z M101.66,148.39v-35.78h8.85c3.3,0,6.17,0.49,8.61,1.53
+		c2.44,0.98,4.51,2.38,6.1,4.03c1.58,1.71,2.81,3.6,3.6,5.74c0.79,2.13,1.22,4.34,1.22,6.59s-0.43,4.45-1.22,6.59
+		c-0.79,2.14-2.01,4.09-3.6,5.74c-1.64,1.65-3.66,2.99-6.1,4.03c-2.44,1.04-5.31,1.53-8.61,1.53H101.66z"/>
+	<polygon class="st0" points="142.32,131.48 163.5,131.48 163.5,127.51 142.32,127.51 142.32,112.49 164.97,112.49 164.97,108.52 
+		137.86,108.52 137.86,152.36 165.76,152.36 165.76,148.39 142.32,148.39 	"/>
+	<path class="st0" d="M186.64,108.52l-18.93,43.77h4.88l4.76-11.48H200l4.82,11.48h4.94l-18.81-43.77H186.64z M179.08,136.73
+		l9.64-23.25l9.65,23.25H179.08z"/>
+	<path class="st0" d="M215.99,131.85h7.45l12.15,20.45h5.43l-12.82-20.82c1.59-0.12,3.12-0.55,4.46-1.1
+		c1.4-0.55,2.56-1.34,3.54-2.32c0.98-0.98,1.77-2.08,2.32-3.42c0.55-1.35,0.86-2.27,0.86-4.4s-0.37-3.97-1.1-5.43
+		s-1.77-2.68-3.11-3.6c-1.34-0.92-2.93-1.59-4.76-2.02s-3.84-0.61-5.98-0.61h-12.88v43.78h4.44V131.85z M216.06,112.38H224
+		c1.65,0,3.18,0.12,4.52,0.43c1.4,0.24,2.5,0.73,3.48,1.34c0.92,0.61,1.65,1.4,2.2,2.38c0.55,1.03,0.79,1.04,0.79,3.66
+		s-0.98,4.58-2.93,5.86c-1.95,1.28-4.7,1.95-8.3,1.95h-7.7V112.38z"/>
+	<polygon class="st0" points="216.01,152.36 215.99,152.36 215.99,152.36 	"/>
+	<polygon class="st0" points="25.28,136.61 24.97,136.61 15.02,108.52 0,108.52 0,152.36 9.95,152.36 9.71,121.34 9.89,121.34 
+		20.94,152.36 28.39,152.36 39.75,121.34 39.93,121.34 39.68,152.36 50.06,152.36 50.06,108.52 34.8,108.52 	"/>
+	<polygon class="st0" points="73.88,124.76 64.53,108.52 51.77,108.52 68.2,133.8 68.2,152.36 78.76,152.36 78.76,133.8 
+		95.61,108.52 83.22,108.52 	"/>
+	<polygon class="st0" points="98.81,203.15 98.81,203.16 113.33,203.16 113.33,200.25 102.05,200.25 102.05,193.37 113.1,193.37 
+		113.1,190.46 102.05,190.46 102.05,184.01 113.33,184.01 113.33,181.1 98.81,181.1 	"/>
+	<polygon class="st0" points="128.65,199.55 121.75,181.1 118.06,181.1 126.65,203.15 130.69,203.15 139.28,181.1 135.59,181.1 	"/>
+	<polygon class="st0" points="144.8,203.15 144.8,203.16 159.32,203.16 159.32,200.25 148.04,200.25 148.04,193.37 159.09,193.37 
+		159.09,190.46 148.04,190.46 148.04,184.01 159.32,184.01 159.32,181.1 144.8,181.1 	"/>
+	<polygon class="st0" points="181.36,197.63 169.6,181.1 166.26,181.1 166.26,203.15 169.5,203.15 169.5,186.22 181.46,203.15 
+		184.6,203.15 184.6,181.1 181.36,181.1 	"/>
+	<polygon class="st0" points="190.89,184 197.6,184 197.6,203.15 200.84,203.15 200.84,184 207.52,184 207.52,181.09 190.89,181.09 
+			"/>
+	<polygon class="st0" points="213.84,203.15 228.36,203.15 228.36,200.21 217.08,200.21 217.08,193.27 228.13,193.27 228.13,190.33 
+		217.08,190.33 217.08,183.82 228.36,183.82 228.36,180.88 213.84,180.88 	"/>
+	<polygon class="st0" points="253.42,180.88 249.5,180.88 243.54,189.43 237.54,180.88 233.62,180.88 241.43,191.73 233.13,203.15 
+		237.05,203.15 243.53,194.07 250.01,203.15 250.01,203.15 253.9,203.15 245.67,191.7 	"/>
+	<path class="st0" d="M268.59,180.88h-9.11v22.26h3.24v-8.58h5.87c4.4,0,6.9-3.14,6.9-6.84
+		C275.49,184.02,273.03,180.88,268.59,180.88z M268.16,191.63h-5.44v-7.81h5.44v-0.01c2.34,0,3.99,1.57,3.99,3.91
+		C272.15,190.06,270.49,191.63,268.16,191.63z"/>
+	<polygon class="st0" points="281.75,203.15 296.27,203.15 296.27,200.21 284.99,200.21 284.99,193.27 296.04,193.27 296.04,190.33 
+		284.99,190.33 284.99,183.82 296.27,183.82 296.27,180.88 281.75,180.88 	"/>
+	<path class="st0" d="M319.26,187.72c0-4.1-2.82-6.84-6.94-6.84h-9.11v22.27h3.24v-8.58h4.05l5.15,8.58l0.01-0.01h3.76l-5.54-8.91
+		C316.63,193.86,319.26,191.82,319.26,187.72z M306.45,191.63v-7.81h5.44v-0.01c2.34,0,4.02,1.57,4.02,3.91
+		c0,2.34-1.69,3.91-4.02,3.91H306.45z"/>
+	<polygon class="st0" points="324.4,183.82 331.11,183.82 331.11,203.15 334.35,203.15 334.35,183.82 341.03,183.82 341.03,180.88 
+		324.4,180.88 	"/>
+	<polygon class="st0" points="347.29,203.15 361.81,203.15 361.81,200.21 350.53,200.21 350.53,193.27 361.58,193.27 361.58,190.33 
+		350.53,190.33 350.53,183.82 361.81,183.82 361.81,180.88 347.29,180.88 	"/>
+	<polygon class="st0" points="383.88,197.57 372.12,180.88 368.78,180.88 368.78,203.15 372.02,203.15 372.02,186.06 383.98,203.15 
+		387.12,203.15 387.12,180.88 383.88,180.88 	"/>
+</g>
+</svg>
+
+                                </a>
+                
+                            <a href="https://www.initiative-musik.de/" class="kn-footer-logo"  target="_blank" aria-label="Unterstützer Logo ( https://www.initiative-musik.de/ ) ">
+                
+                    <svg role="img" aria-label=Unterstützer Logo ( https://www.initiative-musik.de/ ) " width="143" height="48" viewBox="0 0 143 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_811_1332)">
+<path d="M103.172 35.5489H106.922L100.564 26.6273L106.602 20.3361H102.736L96.516 26.9249V20.3361H93.3354V35.5457H96.516V30.7201L98.3687 28.7073L103.172 35.5457V35.5489ZM87.1982 35.5489H90.3788V20.3393H87.1982V35.5489ZM71.9958 30.0353C72.1782 34.3361 75.426 35.7985 78.6962 35.8209C82.1488 35.8433 84.9871 34.0609 84.9871 31.1777C84.9871 28.6849 83.2272 27.3793 80.6193 26.8097L78.1043 26.2145C76.7315 25.9393 75.8164 25.3697 75.8164 24.2945C75.8164 23.0817 77.0963 22.4641 78.469 22.4641C80.1617 22.4641 81.4641 23.5617 81.5793 25.1617H84.9647C84.6671 21.9137 81.992 20.0609 78.469 20.0609C75.1284 20.0609 72.4982 21.5489 72.4982 24.4993C72.4982 26.6721 74.0981 28.0897 76.8211 28.7297L79.1538 29.3025C80.2737 29.5553 81.6465 29.8753 81.6465 31.3601C81.6465 32.6401 80.1362 33.3729 78.741 33.3729C76.9331 33.3729 75.4484 32.2529 75.426 30.0321H71.9958V30.0353ZM63.6379 35.8241C67.756 35.8241 70.0407 33.4913 70.0407 29.5809V20.3393H66.8601V29.5809C66.8601 31.9137 65.7178 33.3089 63.7499 33.3089H63.5675C61.5772 33.3089 60.3869 31.9137 60.3869 29.5809V20.3393H57.2062V29.5809C57.2062 33.4913 59.4941 35.8241 63.6347 35.8241M37.3481 20.3361V35.5457H40.4584V26.9441C40.4584 25.8465 40.3656 24.7489 40.2056 23.3057L40.5704 23.2609C40.8679 24.7233 41.0727 25.4785 41.4407 26.5761L44.3238 35.5425H47.2516L50.157 26.5761C50.4098 25.7761 50.7298 24.6305 50.9794 23.2609L51.3698 23.3057C51.2098 24.7233 51.1426 25.7537 51.1426 27.0337V35.5425H54.2528V20.3329H49.5875L46.9572 28.2945C46.522 29.5521 46.1797 30.7873 45.9269 32.0225H45.6517C45.4245 30.7873 45.1013 29.6673 44.6437 28.2945L41.9911 20.3329H37.3481V20.3361Z" fill="#E66D2D"/>
+<path d="M135.016 12.7169V8.75846H142.129V6.33286H135.016V2.62726H142.885V0.0672607H131.836V15.2769H142.997V12.7137H135.013L135.016 12.7169ZM115.376 0.0672607L120.956 15.2769H124.754L130.313 0.0672607H126.972L124.204 7.91366C123.769 9.14886 123.289 10.7489 123.036 12.1217H122.694C122.396 10.7265 121.939 9.17126 121.526 7.93606L118.739 0.0672607H115.376ZM110.71 15.2801H113.891V0.0672607H110.71V15.2769V15.2801ZM109.267 0.0672607H96.4136V2.63046H101.261V15.2801H104.442V2.63046H109.267V0.0672607ZM88.3693 9.28646L89.8316 4.98566C90.0588 4.23046 90.222 3.70566 90.3116 2.95046H90.6764C90.814 3.70566 90.9739 4.23046 91.2267 4.98566L92.7818 9.28646H88.3661H88.3693ZM94.8425 15.2801H98.1351L92.4651 0.0672607H88.5325L83.1344 15.2769H86.4046L87.7325 11.5489H93.473L94.8457 15.2769L94.8425 15.2801ZM78.5074 15.2801H81.6881V0.0672607H78.5074V15.2769V15.2801ZM77.0643 0.0672607H64.2106V2.63046H69.0584V15.2801H72.239V2.63046H77.0643V0.0672607ZM59.6157 15.2801H62.7963V0.0672607H59.6157V15.2769V15.2801ZM43.4662 0.0672607V15.2769H46.5316V7.08806C46.5316 6.01286 46.4164 4.91526 46.2788 4.13766L46.5988 4.07046C46.9892 5.07846 47.3764 5.87846 48.1315 7.04326L53.4368 15.2769H56.6399V0.0672607H53.5744L53.5968 8.39366C53.5968 9.23846 53.712 10.2241 53.872 11.0689L53.5296 11.1617C52.9793 9.85926 52.5697 9.10406 51.7921 7.86886L46.762 0.0672607H43.4694H43.4662ZM37.3481 15.2801H40.5288V0.0672607H37.3481V15.2769V15.2801Z" fill="#E66D2D"/>
+<path d="M16.8536 24.9023H12.4507V29.3087H16.8536V24.9023Z" fill="#E66D2D"/>
+<path d="M16.8536 18.6783H12.4507V23.0847H16.8536V18.6783Z" fill="#E66D2D"/>
+<path d="M16.8536 12.4512H12.4507V16.8576H16.8536V12.4512Z" fill="#E66D2D"/>
+<path d="M16.8536 6.22717H12.4507V10.6336H16.8536V6.22717Z" fill="#E66D2D"/>
+<path d="M16.8536 0H12.4507V4.4064H16.8536V0Z" fill="#E66D2D"/>
+<path d="M29.3038 24.9023H24.9009V29.3087H29.3038V24.9023Z" fill="#E66D2D"/>
+<path d="M29.3038 18.6783H24.9009V23.0847H29.3038V18.6783Z" fill="#E66D2D"/>
+<path d="M29.3038 12.4512H24.9009V16.8576H29.3038V12.4512Z" fill="#E66D2D"/>
+<path d="M29.3038 6.22717H24.9009V10.6336H29.3038V6.22717Z" fill="#E66D2D"/>
+<path d="M29.3038 31.1425H24.9009V35.5489H29.3038V31.1425Z" fill="#E66D2D"/>
+<path d="M4.40295 24.9023H0V29.3087H4.40295V24.9023Z" fill="#E66D2D"/>
+<path d="M4.40295 18.6783H0V23.0815H4.40295V18.6783Z" fill="#E66D2D"/>
+<path d="M4.40295 12.4512H0V16.8576H4.40295V12.4512Z" fill="#E66D2D"/>
+<path d="M4.40295 6.22717H0V10.6336H4.40295V6.22717Z" fill="#E66D2D"/>
+<path d="M4.40295 31.1425H0V35.5489H4.40295V31.1425Z" fill="#E66D2D"/>
+<path d="M23.0802 37.3696H18.6772V41.776H23.0802V37.3696Z" fill="#E66D2D"/>
+<path d="M23.0802 31.1425H18.6772V35.5489H23.0802V31.1425Z" fill="#E66D2D"/>
+<path d="M23.0802 24.9185H18.6772V29.3249H23.0802V24.9185Z" fill="#E66D2D"/>
+<path d="M23.0802 18.6912H18.6772V23.0976H23.0802V18.6912Z" fill="#E66D2D"/>
+<path d="M23.0802 12.4672H18.6772V16.8736H23.0802V12.4672Z" fill="#E66D2D"/>
+<path d="M23.0802 43.5936H18.6772V48H23.0802V43.5936Z" fill="#E66D2D"/>
+</g>
+<defs>
+<clipPath id="clip0_811_1332">
+<rect width="143" height="48" fill="white"/>
+</clipPath>
+</defs>
+</svg>
+
+                                </a>
+                
+                            <div class="kn-footer-logo">
+                
+                    <svg role="img" aria-label=Unterstützer Logo" width="193" height="59" viewBox="0 0 193 59" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_811_1532)">
+<path d="M13.6356 8.0182C13.6646 7.80541 13.6743 7.58295 13.6743 7.35082C13.6743 7.22508 13.6743 7.08 13.655 6.91557C15.5891 6.88656 17.2717 5.50344 17.2717 3.89787C17.2717 3.08541 16.7398 2.47607 16.4401 2.10852C16.5078 2.08918 16.5754 2.07951 16.6431 2.06016C16.9236 2.30197 17.7262 3.17246 17.7262 4.27508C17.7262 6.19016 15.8115 7.96984 13.6259 8.00852M11.6918 1.34443C11.6532 1.13164 11.5758 0.938197 11.4501 0.77377C11.4501 0.580328 11.5371 0.386885 11.8562 0.541639C11.6918 0.715738 11.8176 1.02525 11.8176 1.02525C11.8176 1.02525 12.1657 0.86082 12.098 0.628688C12.6202 0.754426 12.2431 1.44115 11.7015 1.34443M11.247 2.33098C11.1793 2.04082 11.0342 1.75066 10.8408 1.5282C10.6668 1.32508 10.396 1.09295 10.0092 1.09295C9.8351 1.09295 9.54499 1.17033 9.36125 1.2477C9.29355 1.12197 9.15817 0.822131 9.15817 0.686721C9.15817 0.551311 9.39993 0.406229 9.84477 0.406229C10.8408 0.406229 11.4404 0.851147 11.4404 1.61525C11.4404 1.88607 11.334 2.12787 11.2373 2.34066M13.8097 15.1949C13.9257 15.1949 13.9838 15.2143 14.0514 15.2433C14.3416 16.0267 15.444 17.4969 15.4924 17.5646H15.502H15.5117C15.7825 17.5259 16.4787 17.4195 17.059 17.4195H17.0783C17.1363 17.4195 17.2137 17.4195 17.2524 17.4679C17.2911 17.5066 17.3104 17.5743 17.3104 17.6613C17.3104 17.8064 17.2524 18.0579 17.175 18.1546C16.9719 17.9321 16.6431 17.8354 16.1209 17.8354C15.9565 17.8354 15.7728 17.8838 15.6761 17.9128H15.6374L15.5891 17.9321L15.8888 18.2416C16.3627 18.7059 16.7689 19.1121 16.7689 19.383C16.7689 19.5474 16.6141 19.7602 16.4691 19.8472C16.4304 19.3539 15.9372 18.6866 15.444 18.319L15.4053 18.2803V18.4544C15.3956 18.5705 15.386 18.7446 15.386 18.938C15.386 19.8762 15.2893 20.0213 14.9605 20.0213C14.9121 20.0213 14.8348 20.002 14.7864 19.9826C14.9701 19.7602 15.0378 19.4603 15.0378 18.9284V18.6866V18.4931C15.0378 18.2707 15.0572 18.1159 15.0765 17.9902V17.9225H15.0378C14.8831 17.9031 14.6027 17.8644 14.3802 17.8644C13.9161 17.8644 13.5969 17.9128 13.3745 18.1256C13.2198 17.9998 13.0651 17.7967 13.0651 17.6613C13.0651 17.4679 13.1908 17.4485 13.3455 17.4485C13.4229 17.4485 13.5002 17.4679 13.6066 17.4775C13.8097 17.5066 14.1095 17.5549 14.7284 17.5549H14.7671V17.5162C14.593 17.0713 14.1675 16.4136 13.4712 15.5721C13.5292 15.34 13.5873 15.1949 13.8097 15.1949ZM7.84298 17.5162L7.82363 17.5549H7.86232C8.48123 17.5549 8.78102 17.5066 8.9841 17.4775C9.09047 17.4679 9.16784 17.4485 9.2452 17.4485C9.39993 17.4485 9.52565 17.4679 9.52565 17.6613C9.52565 17.7967 9.37092 17.9998 9.21619 18.1256C8.99377 17.9128 8.67464 17.8644 8.21045 17.8644C7.9977 17.8644 7.70759 17.9031 7.55286 17.9225H7.53352H7.50451V17.9902C7.53352 18.1159 7.55286 18.2803 7.55286 18.4931V18.6866V18.9284C7.55286 19.4507 7.62055 19.7505 7.81396 19.9826C7.76561 20.002 7.68825 20.0213 7.6399 20.0213C7.3111 20.0213 7.21439 19.8762 7.21439 18.938C7.21439 18.7446 7.21439 18.5705 7.19505 18.4544V18.2803L7.1467 18.319C6.66317 18.6866 6.16031 19.3539 6.1313 19.8472C5.98624 19.7505 5.82184 19.5377 5.82184 19.383C5.82184 19.1121 6.228 18.7059 6.70186 18.2416L6.97263 17.9708L7.01131 17.9321L6.92428 17.9128C6.8179 17.8838 6.63416 17.8354 6.47943 17.8354C5.95723 17.8354 5.62843 17.9321 5.42535 18.1546C5.34798 18.0482 5.28996 17.7967 5.28996 17.6613C5.28996 17.5646 5.3093 17.5066 5.34798 17.4679C5.39634 17.4195 5.46403 17.4195 5.53172 17.4195H5.54139C6.12162 17.4195 6.8179 17.5259 7.08868 17.5646H7.10802C7.15637 17.4969 8.26848 16.0267 8.54892 15.2433C8.61662 15.2143 8.66497 15.1949 8.79069 15.1949C9.01311 15.1949 9.07113 15.34 9.12915 15.5721C8.44255 16.4136 8.00737 17.0713 7.85265 17.5162M4.84512 4.28475C4.84512 3.18213 5.64777 2.31164 5.92821 2.06984C5.99591 2.08918 6.0636 2.09885 6.1313 2.1182C5.83151 2.48574 5.29963 3.09508 5.29963 3.90754C5.29963 5.52279 7.02098 6.92525 8.97443 6.92525C8.96475 7.06066 8.95508 7.20574 8.95508 7.36049C8.95508 7.6023 8.96476 7.81508 8.99377 8.02787C6.78889 8.0182 4.84512 6.22885 4.84512 4.29443M19.6507 7.67967C20.6371 9.24656 21.4107 9.21754 22.5905 9.21754C21.6235 8.47279 20.9852 7.52492 20.6757 7.04131L18.8674 4.14934C18.6933 3.25951 18.2291 2.41803 17.5328 1.79902C17.7649 1.71197 17.9583 1.61525 18.0744 1.5282C16.8946 1.5282 15.7244 0.928525 15.0765 0.928525C14.6607 0.928525 14.3996 1.18 14.3996 1.49918C14.4286 1.86672 14.8057 2.23426 15.4924 2.23426C15.6471 2.23426 15.8502 2.21492 16.0726 2.17623C16.4497 2.69852 16.7495 3.17246 16.7495 3.84951C16.7495 5.11656 15.2312 6.10311 13.7033 6.10311C13.6163 6.10311 13.5292 6.10311 13.4519 6.09344C13.3068 5.78393 12.8523 5.25197 12.8523 4.65229C12.8523 3.64639 13.5099 2.82426 13.5099 1.82803C13.5099 1.20902 13.2101 0.822131 13.0941 0.667377C13.2875 0.493279 13.4906 0.280492 13.5389 0.13541C13.4325 0.18377 13.2971 0.18377 13.1134 0.18377C12.3784 0.18377 11.7789 0 11.1986 0C10.8698 0 10.7828 0.106393 10.7828 0.203115C10.7828 0.241803 10.7828 0.27082 10.8022 0.290164C10.6764 0.241803 10.5604 0.212787 10.4153 0.18377C10.2509 0.145082 10.0575 0.13541 9.86411 0.13541C9.15817 0.13541 8.90673 0.425574 8.90673 0.686721C8.90673 0.899508 9.0808 1.29607 9.27421 1.5959C9.55466 1.46049 9.87378 1.36377 10.0285 1.36377C10.4057 1.36377 10.7345 1.72164 10.9182 2.14721C10.6668 2.17623 10.6184 2.1859 10.367 2.1859C9.68037 2.1859 9.20652 1.9441 9.10981 1.9441C9.10014 1.9441 9.0808 1.9441 9.0808 1.96344C9.0808 2.06016 9.27421 2.31164 9.66103 2.45672C10.1639 2.65016 10.9279 2.71787 11.0536 2.74689C11.0536 2.76623 10.9279 3.00803 10.7828 3.05639C10.7538 3.06607 10.7345 3.06607 10.6958 3.05639C10.1639 2.95 10.0188 2.91131 9.35158 2.65016C9.33223 2.65016 9.32256 2.65016 9.32256 2.67918C9.32256 2.94033 10.0092 3.53033 10.6281 3.75279C10.1155 4.41049 9.46762 5.08754 9.16784 6.11279C9.0808 6.11279 8.99377 6.12246 8.90673 6.12246C7.37879 6.12246 5.86052 5.1359 5.86052 3.86885C5.86052 3.1918 6.16031 2.71787 6.53746 2.19557C6.75988 2.23426 6.95329 2.25361 7.11769 2.25361C7.80429 2.25361 8.19111 1.88607 8.21045 1.51852C8.21045 1.18967 7.94935 0.947869 7.53352 0.947869C6.8856 0.947869 5.71546 1.54754 4.53566 1.54754C4.65171 1.63459 4.84512 1.73131 5.07721 1.81836C4.3906 2.43738 3.92642 3.27885 3.74268 4.16869L1.93429 7.06066C1.62484 7.54426 0.986583 8.5018 0.0195312 9.23689C1.18966 9.23689 1.9633 9.2659 2.95937 7.69902L3.88774 6.21918C3.95543 6.41262 4.04246 6.59639 4.13917 6.78016L2.2921 9.73016C1.98265 10.2234 1.34439 11.1616 0.37734 11.9064C1.54747 11.9064 2.32111 11.9354 3.31718 10.3685L4.90314 7.83443C5.01919 7.96016 5.1449 8.0859 5.28029 8.20197L3.03673 11.7903C2.72727 12.2836 2.09869 13.2218 1.12197 13.9666C2.2921 13.9666 3.06574 13.9956 4.05214 12.4287L6.23767 8.93705C6.38273 9.0241 6.52779 9.11115 6.68251 9.1982L4.01345 13.4636C3.704 13.9472 3.07541 14.8854 2.09869 15.6398C3.26882 15.6398 4.04246 15.6689 5.03853 14.102L7.78495 9.71082C7.94935 9.76885 8.11375 9.83656 8.27815 9.88492L5.17391 14.8467C4.87413 15.3303 4.2262 16.2879 3.25915 17.023C4.42928 17.023 5.20293 17.052 6.18932 15.4851L9.49663 10.1944C9.49663 10.1944 9.56433 10.1944 9.60301 10.2138C9.69004 10.5039 9.75774 10.7748 9.75774 11.0359C9.75774 12.6995 8.67464 14.1697 7.35945 15.3013C7.44649 15.34 7.59154 15.3497 7.72693 15.3497C7.9977 15.3497 8.17177 15.3303 8.29749 15.311C7.98803 15.9977 7.34011 16.8972 7.01131 17.3518C6.58581 17.2744 5.95723 17.2164 5.55106 17.2164C5.1449 17.2164 5.07721 17.4679 5.07721 17.6903C5.07721 18.0772 5.26095 18.3867 5.4737 18.5608C5.55106 18.3674 5.71546 18.0966 6.49877 18.0966C6.51812 18.0966 6.54713 18.0966 6.57614 18.0966C6.34405 18.3577 5.62843 18.938 5.62843 19.412C5.62843 19.7215 5.9669 20.1857 6.42141 20.1857C6.3924 20.0793 6.3924 19.9923 6.3924 19.9246C6.3924 19.5474 6.73087 19.1025 7.01131 18.793C7.01131 18.8897 7.01131 18.88 7.01131 18.9864C7.01131 19.8859 7.09835 20.3018 7.66891 20.3018C7.94935 20.3018 8.14276 20.147 8.21045 20.0987C7.84298 19.7602 7.82363 19.4893 7.82363 18.9864C7.82363 18.851 7.82363 18.7252 7.82363 18.5511C7.82363 18.4351 7.82363 18.2803 7.80429 18.1739C8.00737 18.1449 8.09441 18.1449 8.24914 18.1449C8.24914 18.1449 9.06146 18.0772 9.25487 18.5028C9.47729 18.2997 9.79642 18.0192 9.79642 17.7C9.79642 17.4969 9.69971 17.2551 9.27421 17.2551C9.11948 17.2551 8.61662 17.3518 8.20078 17.3518C8.31683 17.1003 8.81003 16.3749 9.2452 15.8429C9.31289 16.0461 9.4096 16.2685 9.64169 16.4523C9.68037 16.1138 9.87378 15.0402 10.4057 14.4018C10.4734 14.8274 10.5507 15.2626 10.5507 16.1815C10.5507 18.4157 10.0092 20.0697 8.86805 20.3889C9.01311 20.65 9.33223 20.8821 9.66103 20.8821C10.0769 20.8821 10.309 20.4082 10.541 19.9633C10.6571 20.2921 10.9956 21.0949 11.334 21.0949C11.6725 21.0949 12.0013 20.2825 12.127 19.9633C12.3591 20.4082 12.5912 20.8821 13.007 20.8821C13.3358 20.8821 13.6453 20.65 13.8 20.3889C12.6589 20.0793 12.1173 18.4157 12.1173 16.1815C12.1173 15.2626 12.2044 14.8274 12.2624 14.4018C12.7943 15.0305 12.9974 16.1041 13.0264 16.4523C13.2488 16.2685 13.3552 16.0461 13.4229 15.8429C13.858 16.3749 14.3512 17.1003 14.4673 17.3518C14.0514 17.3518 13.5486 17.2551 13.3939 17.2551C12.978 17.2551 12.8813 17.4969 12.8813 17.7C12.8813 18.0095 13.2004 18.2997 13.4229 18.5028C13.6163 18.0772 14.4286 18.1449 14.4286 18.1449C14.5833 18.1449 14.6704 18.1449 14.8734 18.1739C14.8541 18.29 14.8541 18.4351 14.8541 18.5511V18.9864C14.8541 19.4893 14.8348 19.7602 14.4673 20.0987C14.535 20.147 14.7284 20.3018 15.0088 20.3018C15.5794 20.3018 15.6664 19.8859 15.6664 18.9864C15.6664 18.88 15.6664 18.8897 15.6664 18.793C15.9469 19.1025 16.2853 19.557 16.2853 19.9246C16.2853 20.002 16.2853 20.089 16.2563 20.1857C16.7108 20.1857 17.0493 19.7215 17.0493 19.412C17.0493 18.938 16.324 18.3577 16.1016 18.0966C16.1403 18.0966 16.1693 18.0966 16.179 18.0966C16.9719 18.0966 17.1267 18.3577 17.204 18.5608C17.4168 18.3964 17.6005 18.0772 17.6005 17.6903C17.6005 17.4679 17.5522 17.2164 17.1267 17.2164C16.7012 17.2164 16.0919 17.2744 15.6664 17.3518C15.3376 16.8972 14.6897 16.0074 14.3802 15.311C14.506 15.3303 14.68 15.3497 14.9508 15.3497C15.0862 15.3497 15.2312 15.3303 15.3183 15.3013C14.0128 14.1697 12.92 12.6995 12.92 11.0359C12.92 10.7748 12.978 10.5039 13.0747 10.2138C13.1134 10.2138 13.1424 10.2041 13.1811 10.1944L16.4884 15.4851C17.4748 17.052 18.2581 17.023 19.4282 17.023C18.4612 16.2879 17.8133 15.3303 17.5135 14.8467L14.4093 9.88492C14.5833 9.83656 14.7381 9.76885 14.9024 9.71082L17.6489 14.102C18.6353 15.6689 19.4089 15.6398 20.5887 15.6398C19.612 14.8854 18.9834 13.9472 18.6739 13.4636L16.0146 9.1982C16.1693 9.11115 16.3143 9.0241 16.4594 8.93705L18.6449 12.4287C19.6313 13.9956 20.405 13.9666 21.5848 13.9666C20.6081 13.2218 19.9795 12.2836 19.67 11.7903L17.4265 8.20197C17.5618 8.0859 17.6876 7.96016 17.8036 7.83443L19.3896 10.3685C20.376 11.9354 21.1496 11.9064 22.3294 11.9064C21.3624 11.1616 20.7241 10.2138 20.4146 9.73016L18.5676 6.78016C18.6643 6.59639 18.7513 6.41262 18.819 6.21918L19.7474 7.69902L19.6507 7.67967Z" fill="#E66D2C"/>
+<path d="M31.8451 0.967163H28.4604V20.3114H31.8451V0.967163Z" fill="#E66D2C"/>
+<path d="M31.8451 21.5205H28.4604V22.7295H31.8451V21.5205Z" fill="#E66D2C"/>
+<path d="M31.8451 23.9385H28.4604V25.1475H31.8451V23.9385Z" fill="#E66D2C"/>
+<path d="M31.8451 26.3566H28.4604V27.5656H31.8451V26.3566Z" fill="#E66D2C"/>
+<path d="M31.8451 28.7745H28.4604V29.9836H31.8451V28.7745Z" fill="#E66D2C"/>
+<path d="M31.8451 31.1926H28.4604V32.4016H31.8451V31.1926Z" fill="#E66D2C"/>
+<path d="M31.8451 33.6107H28.4604V34.8197H31.8451V33.6107Z" fill="#E66D2C"/>
+<path d="M31.8451 36.0287H28.4604V37.2377H31.8451V36.0287Z" fill="#E66D2C"/>
+<path d="M31.8451 38.4468H28.4604V39.6558H31.8451V38.4468Z" fill="#E66D2C"/>
+<path d="M31.8451 58.6324H28.4604V59H31.8451V58.6324Z" fill="#E66D2C"/>
+<path d="M31.8451 56.698H28.4604V57.0655H31.8451V56.698Z" fill="#E66D2C"/>
+<path d="M31.8451 54.7635H28.4604V55.1311H31.8451V54.7635Z" fill="#E66D2C"/>
+<path d="M31.8451 52.8292H28.4604V53.1968H31.8451V52.8292Z" fill="#E66D2C"/>
+<path d="M31.8451 50.8948H28.4604V51.2623H31.8451V50.8948Z" fill="#E66D2C"/>
+<path d="M31.8451 48.9603H28.4604V49.3279H31.8451V48.9603Z" fill="#E66D2C"/>
+<path d="M31.8451 47.0259H28.4604V47.3934H31.8451V47.0259Z" fill="#E66D2C"/>
+<path d="M31.8451 45.0914H28.4604V45.459H31.8451V45.0914Z" fill="#E66D2C"/>
+<path d="M31.8451 43.1571H28.4604V43.5246H31.8451V43.1571Z" fill="#E66D2C"/>
+<path d="M31.8451 41.2227H28.4604V41.5902H31.8451V41.2227Z" fill="#E66D2C"/>
+<path d="M40.9161 8.69528C43.3627 8.69528 44.8907 7.42823 44.8907 4.49757C44.8907 1.75069 43.6432 0.686755 41.0418 0.686755H39.5332V8.69528H40.9258H40.9161ZM41.0321 1.47987C42.8115 1.47987 43.8076 2.22462 43.8076 4.4879C43.8076 6.93495 42.7632 7.8538 40.9161 7.8538H40.5389V1.47987H41.0418H41.0321ZM47.9659 3.74315C48.5558 3.74315 48.8749 4.19774 48.8749 4.96184C48.8749 5.13593 48.8652 5.29069 48.8459 5.36807H46.8248C46.8731 4.32348 47.2986 3.74315 47.9659 3.74315ZM49.842 8.17298L49.4938 7.51528C49.3681 7.64102 48.9813 7.99889 48.3237 7.99889C47.3857 7.99889 46.8731 7.37987 46.8151 6.0838H49.6582C49.6969 5.81298 49.7259 5.48413 49.7259 5.00053C49.7259 3.66577 49.078 2.97905 48.0239 2.97905C46.8635 2.97905 45.8964 3.85921 45.8964 5.83233C45.8964 7.93118 46.7764 8.83069 48.1786 8.83069C49.2327 8.83069 49.6872 8.32774 49.842 8.17298ZM53.5458 3.10479C53.4491 3.07577 53.304 3.01774 53.0332 3.01774C52.3273 3.01774 52.0275 3.43364 51.8631 3.87856H51.8438V3.12413H50.9831V8.69528H51.9211V4.61364C52.0565 4.23643 52.366 3.85921 52.9655 3.85921C53.2266 3.85921 53.3814 3.92692 53.4297 3.94626L53.5458 3.11446V3.10479ZM60.9534 2.72757C60.9534 1.47987 60.1991 0.686755 58.294 0.686755H56.7467V8.69528H58.3907C60.3055 8.69528 61.1661 7.77643 61.1661 6.51905C61.1661 5.45511 60.4795 4.75872 59.6575 4.5943V4.57495C60.3538 4.39118 60.9631 3.84954 60.9631 2.72757H60.9534ZM59.9283 2.76626C59.9283 3.68512 59.3578 4.25577 58.2843 4.25577H57.7621V1.47987H58.294C59.4158 1.47987 59.9283 2.03118 59.9283 2.75659V2.76626ZM60.0734 6.45134C60.0734 7.3702 59.5608 7.8538 58.381 7.8538H57.7524V5.03921H58.4391C59.4835 5.03921 60.0734 5.59052 60.0734 6.44167V6.45134ZM64.2124 3.74315C64.8023 3.74315 65.1117 4.19774 65.1117 4.96184C65.1117 5.13593 65.102 5.29069 65.0924 5.36807H63.0712C63.1196 4.32348 63.5451 3.74315 64.2124 3.74315ZM66.0884 8.17298L65.7403 7.51528C65.6146 7.64102 65.2278 7.99889 64.5702 7.99889C63.6321 7.99889 63.1196 7.37987 63.0616 6.0838H65.9047C65.9434 5.81298 65.9724 5.48413 65.9724 5.00053C65.9724 3.66577 65.3245 2.97905 64.2607 2.97905C63.1002 2.97905 62.1332 3.85921 62.1332 5.83233C62.1332 7.93118 63.0132 8.83069 64.4154 8.83069C65.4695 8.83069 65.924 8.32774 66.0788 8.17298H66.0884ZM69.5118 5.56151H69.2217C67.9548 5.56151 66.9008 5.99675 66.9008 7.28315C66.9008 8.19233 67.539 8.84036 68.39 8.84036C69.096 8.84036 69.4344 8.36643 69.5601 8.08593H69.5795C69.5892 8.36643 69.5988 8.54052 69.6182 8.70495H70.5175C70.4982 8.5502 70.4498 8.01823 70.4498 7.5443V5.00053C70.4498 3.59807 69.8503 2.98872 68.7091 2.98872C67.8195 2.98872 67.2779 3.4143 67.0361 3.66577L67.4326 4.29446C67.6357 4.10102 68.0129 3.79151 68.5738 3.79151C69.1733 3.79151 69.5215 4.09134 69.5215 5.03921V5.57118L69.5118 5.56151ZM69.5118 6.2579V7.48626C69.3957 7.66036 69.125 8.03757 68.5834 8.03757C68.1192 8.03757 67.8388 7.74741 67.8388 7.17675C67.8388 6.56741 68.3126 6.30626 69.212 6.27725H69.5118V6.2579ZM74.8789 8.06659H74.8983V8.69528H75.7589V3.12413H74.8209V7.38954C74.6275 7.62167 74.26 8.00856 73.6991 8.00856C73.0705 8.00856 72.7708 7.63134 72.7708 6.72216V3.1338H71.8327V6.78987C71.8327 8.29872 72.4516 8.84036 73.438 8.84036C74.289 8.84036 74.7822 8.26971 74.8886 8.07626L74.8789 8.06659ZM79.5401 3.88823L79.6562 3.12413H78.399V2.1279C78.399 1.40249 78.6408 1.15102 79.0856 1.15102C79.3274 1.15102 79.5014 1.24774 79.5981 1.30577L79.7915 0.522329C79.7045 0.464296 79.3951 0.319214 79.0082 0.319214C78.1766 0.319214 77.461 0.80282 77.461 2.02151V3.1338L76.7937 3.25954V3.88823H77.461V8.69528H78.399V3.88823H79.5401ZM82.9925 8.58889L82.8668 7.83446C82.7701 7.89249 82.567 7.99889 82.2865 7.99889C81.8127 7.99889 81.6289 7.76675 81.6289 6.97364V3.88823H82.8474L82.9635 3.12413H81.6289V1.56692H80.7973L80.6909 3.12413L80.014 3.25954V3.88823H80.6909V7.09938C80.6909 8.32774 81.1744 8.83069 82.1318 8.83069C82.6347 8.83069 82.9248 8.64692 83.0022 8.58889H82.9925ZM86.4835 3.10479C86.3868 3.07577 86.2418 3.01774 85.971 3.01774C85.2651 3.01774 84.9556 3.43364 84.8009 3.87856H84.7815V3.12413H83.9209V8.69528H84.8589V4.61364C84.9943 4.23643 85.3134 3.85921 85.9033 3.85921C86.1644 3.85921 86.3191 3.92692 86.3675 3.94626L86.4835 3.11446V3.10479ZM89.5201 5.56151H89.23C87.9631 5.56151 86.909 5.99675 86.909 7.28315C86.909 8.19233 87.5473 8.84036 88.3983 8.84036C89.1043 8.84036 89.4427 8.36643 89.5684 8.08593H89.5878C89.5974 8.36643 89.6071 8.54052 89.6265 8.70495H90.5258C90.5065 8.5502 90.4581 8.01823 90.4581 7.5443V5.00053C90.4581 3.59807 89.8585 2.98872 88.7174 2.98872C87.8181 2.98872 87.2862 3.4143 87.0444 3.66577L87.4409 4.29446C87.644 4.10102 88.0212 3.79151 88.582 3.79151C89.1816 3.79151 89.5394 4.09134 89.5394 5.03921V5.57118L89.5201 5.56151ZM89.5201 6.2579V7.48626C89.404 7.66036 89.1333 8.03757 88.5917 8.03757C88.1275 8.03757 87.8471 7.74741 87.8471 7.17675C87.8471 6.56741 88.3209 6.30626 89.2203 6.27725H89.5201V6.2579ZM94.5101 4.85544C94.5101 5.65823 94.0652 5.96774 93.5333 5.96774C93.0015 5.96774 92.5663 5.65823 92.5663 4.85544C92.5663 4.05266 93.0111 3.74315 93.5527 3.74315C94.0942 3.74315 94.5004 4.06233 94.5004 4.85544H94.5101ZM95.8833 9.12085C95.8833 8.06659 95.0903 7.64102 94.0362 7.64102H93.3206C92.9144 7.64102 92.75 7.47659 92.75 7.24446C92.75 6.9543 93.0111 6.79954 93.2045 6.72216C93.2916 6.73184 93.3883 6.73184 93.4947 6.73184C94.5874 6.73184 95.4191 6.02577 95.4191 4.8361C95.4191 4.46856 95.3321 4.12036 95.158 3.83987H95.8543L95.98 3.10479H94.2876C94.0556 3.01774 93.8138 2.96938 93.5527 2.96938C92.5083 2.96938 91.6573 3.58839 91.6573 4.8361C91.6573 5.71626 92.0344 6.27725 92.605 6.54807V6.56741C92.4696 6.63512 91.928 6.86725 91.928 7.46692C91.928 7.81511 92.0538 8.06659 92.2858 8.25036V8.26971C92.0247 8.40512 91.3575 8.80167 91.3575 9.63348C91.3575 10.6007 91.9957 11.1423 93.1852 11.1423C94.8292 11.1423 95.8736 10.3105 95.8736 9.11118L95.8833 9.12085ZM93.2529 10.3492C92.5953 10.3492 92.2665 10.0494 92.2665 9.45938C92.2665 8.89839 92.5663 8.63725 92.8371 8.48249C92.9628 8.50184 93.1175 8.52118 93.2722 8.52118H93.9782C94.5487 8.52118 94.9162 8.73397 94.9162 9.26593C94.9162 9.83659 94.394 10.3589 93.2626 10.3589L93.2529 10.3492ZM99.4517 8.58889L99.326 7.83446C99.2293 7.89249 99.0262 7.99889 98.7458 7.99889C98.2719 7.99889 98.0882 7.76675 98.0882 6.97364V3.88823H99.3066L99.4227 3.12413H98.0882V1.56692H97.2565L97.1501 3.12413L96.4732 3.25954V3.88823H97.1501V7.09938C97.1501 8.32774 97.6336 8.83069 98.591 8.83069C99.0842 8.83069 99.384 8.64692 99.4614 8.58889H99.4517ZM102.101 3.74315C102.691 3.74315 103.001 4.19774 103.001 4.96184C103.001 5.13593 102.991 5.29069 102.981 5.36807H100.96C101.009 4.32348 101.434 3.74315 102.101 3.74315ZM103.977 8.17298L103.629 7.51528C103.504 7.64102 103.117 7.99889 102.459 7.99889C101.521 7.99889 101.009 7.37987 100.951 6.0838H103.794C103.832 5.81298 103.861 5.48413 103.861 5.00053C103.861 3.66577 103.214 2.97905 102.15 2.97905C100.989 2.97905 100.022 3.85921 100.022 5.83233C100.022 7.93118 100.902 8.83069 102.305 8.83069C103.359 8.83069 103.813 8.32774 103.958 8.17298H103.977ZM109.528 7.99889C108.88 7.99889 108.3 7.48626 108.3 5.95807C108.3 4.42987 108.987 3.82053 109.857 3.82053C110.196 3.82053 110.408 3.90757 110.573 4.01397V7.44757C110.447 7.63134 110.128 7.99889 109.528 7.99889ZM110.631 8.09561H110.65V8.68561H111.511V0.377247L110.573 0.48364V3.15315C110.399 3.08544 110.147 3.01774 109.78 3.01774C108.6 3.01774 107.324 3.73348 107.324 5.98708C107.324 8.01823 108.223 8.83069 109.277 8.83069C110.157 8.83069 110.534 8.2697 110.64 8.09561H110.631ZM114.76 3.74315C115.35 3.74315 115.669 4.19774 115.669 4.96184C115.669 5.13593 115.659 5.29069 115.65 5.36807H113.629C113.677 4.32348 114.103 3.74315 114.76 3.74315ZM116.636 8.17298L116.288 7.51528C116.162 7.64102 115.776 7.99889 115.118 7.99889C114.18 7.99889 113.667 7.37987 113.609 6.0838H116.452C116.481 5.81298 116.52 5.48413 116.52 5.00053C116.52 3.66577 115.872 2.97905 114.818 2.97905C113.658 2.97905 112.7 3.85921 112.7 5.83233C112.7 7.93118 113.58 8.83069 114.983 8.83069C116.037 8.83069 116.491 8.32774 116.636 8.17298ZM120.34 3.10479C120.243 3.07577 120.098 3.01774 119.827 3.01774C119.112 3.01774 118.822 3.43364 118.657 3.87856H118.628V3.12413H117.768V8.69528H118.706V4.61364C118.841 4.23643 119.16 3.85921 119.75 3.85921C120.011 3.85921 120.166 3.92692 120.214 3.94626L120.33 3.11446L120.34 3.10479ZM127.748 2.72757C127.748 1.47987 126.993 0.686755 125.088 0.686755H123.551V8.69528H125.185C127.1 8.69528 127.96 7.77643 127.96 6.51905C127.96 5.45511 127.274 4.75872 126.452 4.5943V4.57495C127.148 4.39118 127.748 3.84954 127.748 2.72757ZM126.723 2.76626C126.723 3.68512 126.152 4.25577 125.069 4.25577H124.547V1.47987H125.079C126.2 1.47987 126.713 2.03118 126.713 2.75659L126.723 2.76626ZM126.877 6.45134C126.877 7.3702 126.365 7.8538 125.185 7.8538H124.556V5.03921H125.243C126.287 5.03921 126.877 5.59052 126.877 6.44167V6.45134ZM132.215 8.06659H132.235V8.69528H133.095V3.12413H132.157V7.38954C131.974 7.62167 131.606 8.00856 131.036 8.00856C130.407 8.00856 130.107 7.63134 130.107 6.72216V3.1338H129.169V6.78987C129.169 8.29872 129.778 8.84036 130.774 8.84036C131.625 8.84036 132.119 8.26971 132.225 8.07626L132.215 8.06659ZM136.615 3.78184C137.263 3.78184 137.583 4.16872 137.583 5.10692V8.69528H138.521V5.03921C138.521 3.53036 137.892 2.98872 136.896 2.98872C136.026 2.98872 135.523 3.55938 135.416 3.75282H135.397V3.12413H134.536V8.69528H135.474V4.40085C135.658 4.16872 136.045 3.78184 136.615 3.78184ZM141.867 7.99889C141.209 7.99889 140.638 7.48626 140.638 5.95807C140.638 4.42987 141.325 3.82053 142.195 3.82053C142.534 3.82053 142.747 3.90757 142.911 4.01397V7.44757C142.785 7.63134 142.456 7.99889 141.867 7.99889ZM142.969 8.09561H142.988V8.68561H143.849V0.377247L142.911 0.48364V3.15315C142.737 3.08544 142.476 3.01774 142.118 3.01774C140.938 3.01774 139.662 3.73348 139.662 5.98708C139.662 8.01823 140.551 8.83069 141.615 8.83069C142.495 8.83069 142.872 8.2697 142.969 8.09561ZM147.098 3.74315C147.688 3.74315 148.007 4.19774 148.007 4.96184C148.007 5.13593 147.998 5.29069 147.978 5.36807H145.957C146.006 4.32348 146.431 3.74315 147.098 3.74315ZM148.984 8.17298L148.636 7.51528C148.51 7.64102 148.123 7.99889 147.466 7.99889C146.528 7.99889 146.015 7.37987 145.957 6.0838H148.8C148.839 5.81298 148.868 5.48413 148.868 5.00053C148.868 3.66577 148.22 2.97905 147.156 2.97905C145.996 2.97905 145.038 3.85921 145.038 5.83233C145.038 7.93118 145.919 8.83069 147.321 8.83069C148.375 8.83069 148.829 8.32774 148.984 8.17298ZM152.93 3.56905C152.746 3.38528 152.378 2.97905 151.508 2.97905C150.638 2.97905 149.893 3.59807 149.893 4.4202C149.893 5.1843 150.309 5.63889 151.005 6.0838L151.353 6.30626C151.895 6.64479 152.166 6.82856 152.166 7.36052C152.166 7.71839 151.866 7.99889 151.305 7.99889C150.696 7.99889 150.357 7.63134 150.183 7.44757L149.729 8.19233C149.951 8.42446 150.406 8.83069 151.295 8.83069C152.436 8.83069 153.075 8.14397 153.075 7.2638C153.075 6.44167 152.611 5.98708 151.856 5.53249L151.508 5.31971C151.015 5.01987 150.783 4.78774 150.783 4.37184C150.783 4.04298 151.044 3.78184 151.547 3.78184C152.05 3.78184 152.398 4.11069 152.523 4.2461L152.93 3.56905ZM156.749 3.10479C156.653 3.07577 156.508 3.01774 156.237 3.01774C155.531 3.01774 155.222 3.43364 155.067 3.87856H155.047V3.12413H154.187V8.69528H155.125V4.61364C155.26 4.23643 155.579 3.85921 156.169 3.85921C156.421 3.85921 156.585 3.92692 156.633 3.94626L156.749 3.11446V3.10479ZM159.225 3.74315C159.815 3.74315 160.134 4.19774 160.134 4.96184C160.134 5.13593 160.124 5.29069 160.115 5.36807H158.094C158.142 4.32348 158.568 3.74315 159.235 3.74315H159.225ZM161.111 8.17298L160.763 7.51528C160.637 7.64102 160.25 7.99889 159.593 7.99889C158.655 7.99889 158.142 7.37987 158.084 6.0838H160.927C160.966 5.81298 160.995 5.48413 160.995 5.00053C160.995 3.66577 160.347 2.97905 159.293 
+<!-- TRIMMED BY recon.mjs -->

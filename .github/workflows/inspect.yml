@@ -1,0 +1,37 @@
+name: Inspect
+
+on:
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths:
+      - '.github/inspect-urls'
+      - 'pipeline/inspect.mjs'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: inspect-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  inspect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node pipeline/inspect.mjs
+      - name: Commit
+        run: |
+          git config user.name  "concert-finder-inspect"
+          git config user.email "noreply@github.com"
+          git add -A recon/inspect/
+          git diff --staged --quiet || {
+            git commit -m "inspect: page surfaces $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase -q origin ${{ github.ref_name }} || true
+            git push origin HEAD:${{ github.ref_name }}
+          }

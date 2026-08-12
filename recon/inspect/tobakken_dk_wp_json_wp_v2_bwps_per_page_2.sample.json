@@ -1,0 +1,503 @@
+[
+ {
+  "id": 4221,
+  "date": "2026-07-02T10:01:40",
+  "date_gmt": "2026-07-02T08:01:40",
+  "guid": {
+   "rendered": "https://tobakken.dk/?post_type=bwps&#038;p=4221"
+  },
+  "modified": "2026-07-03T08:30:07",
+  "modified_gmt": "2026-07-03T06:30:07",
+  "slug": "oelsmagning",
+  "status": "publish",
+  "type": "bwps",
+  "link": "https://tobakken.dk/program/oelsmagning/",
+  "title": {
+   "rendered": "Ølsmagning"
+  },
+  "content": {
+   "rendered": "\n<h5 class=\"wp-block-heading\">Forkæl dine smagsløg med lækre øl fra Royal Unibrews specialøl</h5>\n\n\n\n<p class=\"wp-block-paragraph\">Royal Unibrew er værter ved to ølsmagninger under<strong> <a href=\"https://tobakken.dk/program/sommer-tobakken/\" type=\"link\" id=\"https://tobakken.dk/program/sommer-tobakken/\">Sommer på Tobakken</a>:</strong></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li><strong>Fredag den 14. august klokken 17.30</strong></li>\n\n\n\n<li><strong>Lørdag den 15. august klokken 16.30 </strong></li>\n</ul>\n\n\n\n<p class=\"wp-block-paragraph\">Det koster kun 50 kroner at deltage, og du får serveret 4 forskellige øl (smagsglas), fortællinger og sjove anekdoter.  Der er begrænset pladser. Så fang din billet nu. </p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+   "protected": false
+  },
+  "author": 8,
+  "featured_media": 4226,
+  "template": "",
+  "categories": [
+   37
+  ],
+  "tags": [],
+  "location": [
+   6
+  ],
+  "priority": [],
+  "ticketstatus": [],
+  "organizer": [
+   15
+  ],
+  "venue": [],
+  "class_list": [
+   "post-4221",
+   "bwps",
+   "type-bwps",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "category-andet",
+   "location-tobakken",
+   "organizer-tobakken"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Ølsmagning - Tobakken</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://tobakken.dk/program/oelsmagning/\" />\n<meta property=\"og:locale\" content=\"da_DK\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Ølsmagning - Tobakken\" />\n<meta property=\"og:description\" content=\"Forkæl dine smagsløg med lækre øl fra Royal Unibrews specialøl Royal Unibrew er værter ved to ølsmagninger under Sommer på Tobakken: Det koster kun 50 kroner at deltage, og du får serveret 4 forskellige øl (smagsglas), fortællinger og sjove anekdoter. Der er begrænset pladser. Så fang din billet nu.\" />\n<meta property=\"og:url\" content=\"https://tobakken.dk/program/oelsmagning/\" />\n<meta property=\"og:site_name\" content=\"Tobakken\" />\n<meta property=\"article:modified_time\" content=\"2026-07-03T06:30:07+00:00\" />\n<meta property=\"og:image\" content=\"https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png\" />\n\t<meta property=\"og:image:width\" content=\"1080\" />\n\t<meta property=\"og:image:height\" content=\"1350\" />\n\t<meta property=\"og:image:type\" content=\"image/png\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Estimeret læsetid\" />\n\t<meta name=\"twitter:data1\" content=\"1 minut\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/\",\"url\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/\",\"name\":\"Ølsmagning - Tobakken\",\"isPartOf\":{\"@id\":\"https:\\/\\/tobakken.dk\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/07\\/Oelsmagning-1.png\",\"datePublished\":\"2026-07-02T08:01:40+00:00\",\"dateModified\":\"2026-07-03T06:30:07+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/#breadcrumb\"},\"inLanguage\":\"da-DK\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"da-DK\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/#primaryimage\",\"url\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/07\\/Oelsmagning-1.png\",\"contentUrl\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/07\\/Oelsmagning-1.png\",\"width\":1080,\"height\":1350},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/oelsmagning\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hjem\",\"item\":\"https:\\/\\/tobakken.dk\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Billetten Events\",\"item\":\"https:\\/\\/tobakken.dk\\/program\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Ølsmagning\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/tobakken.dk\\/#website\",\"url\":\"https:\\/\\/tobakken.dk\\/\",\"name\":\"Tobakken\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/tobakken.dk\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"da-DK\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+   "title": "Ølsmagning - Tobakken",
+   "robots": {
+    "index": "index",
+    "follow": "follow",
+    "max-snippet": "max-snippet:-1",
+    "max-image-preview": "max-image-preview:large",
+    "max-video-preview": "max-video-preview:-1"
+   },
+   "canonical": "https://tobakken.dk/program/oelsmagning/",
+   "og_locale": "da_DK",
+   "og_type": "article",
+   "og_title": "Ølsmagning - Tobakken",
+   "og_description": "Forkæl dine smagsløg med lækre øl fra Royal Unibrews specialøl Royal Unibrew er værter ved to ølsmagninger under Sommer på Tobakken: Det koster kun 50 kroner at deltage, og du får serveret 4 forskellige øl (smagsglas), fortællinger og sjove anekdoter. Der er begrænset pladser. Så fang din billet nu.",
+   "og_url": "https://tobakken.dk/program/oelsmagning/",
+   "og_site_name": "Tobakken",
+   "article_modified_time": "2026-07-03T06:30:07+00:00",
+   "og_image": [
+    {
+     "width": 1080,
+     "height": 1350,
+     "url": "https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png",
+     "type": "image/png"
+    }
+   ],
+   "twitter_card": "summary_large_image",
+   "twitter_misc": {
+    "Estimeret læsetid": "1 minut"
+   },
+   "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://tobakken.dk/program/oelsmagning/",
+      "url": "https://tobakken.dk/program/oelsmagning/",
+      "name": "Ølsmagning - Tobakken",
+      "isPartOf": {
+       "@id": "https://tobakken.dk/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://tobakken.dk/program/oelsmagning/#primaryimage"
+      },
+      "image": {
+       "@id": "https://tobakken.dk/program/oelsmagning/#primaryimage"
+      },
+      "thumbnailUrl": "https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png",
+      "datePublished": "2026-07-02T08:01:40+00:00",
+      "dateModified": "2026-07-03T06:30:07+00:00",
+      "breadcrumb": {
+       "@id": "https://tobakken.dk/program/oelsmagning/#breadcrumb"
+      },
+      "inLanguage": "da-DK",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://tobakken.dk/program/oelsmagning/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "da-DK",
+      "@id": "https://tobakken.dk/program/oelsmagning/#primaryimage",
+      "url": "https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png",
+      "contentUrl": "https://tobakken.dk/wp-content/uploads/2026/07/Oelsmagning-1.png",
+      "width": 1080,
+      "height": 1350
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://tobakken.dk/program/oelsmagning/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Hjem",
+        "item": "https://tobakken.dk/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Billetten Events",
+        "item": "https://tobakken.dk/program/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Ølsmagning"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://tobakken.dk/#website",
+      "url": "https://tobakken.dk/",
+      "name": "Tobakken",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://tobakken.dk/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "da-DK"
+     }
+    ]
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/bwps/4221",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/bwps"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/types/bwps"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/users/8"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/media/4226"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/media?parent=4221"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/categories?post=4221"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/tags?post=4221"
+    },
+    {
+     "taxonomy": "location",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/location?post=4221"
+    },
+    {
+     "taxonomy": "priority",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/priority?post=4221"
+    },
+    {
+     "taxonomy": "ticketstatus",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/ticketstatus?post=4221"
+    },
+    {
+     "taxonomy": "organizer",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/organizer?post=4221"
+    },
+    {
+     "taxonomy": "venue",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/venue?post=4221"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 4271,
+  "date": "2026-08-03T10:48:00",
+  "date_gmt": "2026-08-03T08:48:00",
+  "guid": {
+   "rendered": "https://tobakken.dk/?post_type=bwps&#038;p=4271"
+  },
+  "modified": "2026-08-03T11:09:55",
+  "modified_gmt": "2026-08-03T09:09:55",
+  "slug": "portvinsfestival",
+  "status": "publish",
+  "type": "bwps",
+  "link": "https://tobakken.dk/program/portvinsfestival/",
+  "title": {
+   "rendered": "Portvinsfestival"
+  },
+  "content": {
+   "rendered": "\n<h4 class=\"wp-block-heading\">Danmarks største portvinsfestival kommer tilbage til Esbjerg</h4>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\">Lørdag den 15. august 2026 åbner vi igen dørene til Tobakken. Fem timer, hvor du kan tage dig tid til at smage, spørge og mærke efter — og finde den flaske, du ikke vidste, du ledte efter.</p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\">Efter debuten sidste år ved vi, at der er et publikum i Esbjerg, som gerne fordyber sig. Derfor kommer vi tilbage med endnu flere vine og mere at gå på opdagelse i.</p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h5 class=\"wp-block-heading\">Sådan er dagen</h5>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><br></p>\n\n\n\n<ul class=\"wp-block-list\">\n<li>Ingen tidsopdelte runder og ingen skemaer. Du kommer, når det passer dig, og bliver, så længe du vil.</li>\n\n\n\n<li>Fem timers fri adgang mellem kl. 13.00 og 18.00</li>\n\n\n\n<li>Rigtige glas med 4 cl, så vinen har plads til at åbne sig</li>\n\n\n\n<li>Passionerede eksperter, importører og vinhandlere ved hver stand, klar til at fortælle om netop de vine, de brænder mest for</li>\n\n\n\n<li>Mulighed for at købe dine favoritter med hjem til særlig festivalpris</li>\n</ul>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h5 class=\"wp-block-heading\"><strong>Vælg din billet</strong></h5>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><strong><br>Basis — 315 kr</strong>.<br>Entré, dit eget glas, smagekatalog og 10 poletter, som du frit bruger, hvor du har lyst. Til dig, der gerne vil styre smagningen selv.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://portvinsfestival.billetexpressen.dk/program/portvinsfestival-2026-esbjerg/303194a8-a7e3-4588-a250-afd8c27c7017\" target=\"_blank\" rel=\"noreferrer noopener\"><span style=\"text-decoration: underline;\"><strong>Køb billet her >></strong></span></a></p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Standard — 365 kr.<br></strong>Entré, dit eget glas, smagekatalog og 10 glas portvin — ét ved hver af de ti stande. Du kommer hele vejen rundt og smager bredt på dagen.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://portvinsfestival.billetexpressen.dk/program/portvinsfestival-2026-esbjerg/303194a8-a7e3-4588-a250-afd8c27c7017\" target=\"_blank\" rel=\"noreferrer noopener\"><strong><span style=\"text-decoration: underline;\">Køb billet her >></span></strong></a></p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><strong>Premium — 565 kr.<br></strong>Entré, dit eget glas, smagekatalog og 10 glas særligt udvalgte portvine — ét ved hver af de ti stande. Her smager du niveauet over: vintages og ældre tawnies, som sjældent bliver skænket i glas.</p>\n\n\n\n<p class=\"wp-block-paragraph\"><a href=\"https://portvinsfestival.billetexpressen.dk/program/portvinsfestival-2026-esbjerg/303194a8-a7e3-4588-a250-afd8c27c7017\"><strong><span style=\"text-decoration: underline;\">Køb billet her >></span></strong></a></p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h5 class=\"wp-block-heading\">Flere smagninger</h5>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\"><br>Uanset hvilken billet du vælger, kan du købe poletter på dagen eller på forhånd. Én polet har en værdi af 10 kr. og bruges som betaling ved standene. Hvor mange poletter et glas koster, afhænger af vinens kvalitet og alder.</p>\n\n\n\n<div style=\"height:19px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p class=\"wp-block-paragraph\">Du kan også forudbestille vores anretning med ost og charcuteri, så har du noget godt at spise til, når du sætter dig ned mellem smagningerne.</p>\n\n\n\n<p class=\"wp-block-paragraph\"></p>\n",
+   "protected": false
+  },
+  "author": 8,
+  "featured_media": 4273,
+  "template": "",
+  "categories": [
+   37
+  ],
+  "tags": [],
+  "location": [
+   6
+  ],
+  "priority": [],
+  "ticketstatus": [],
+  "organizer": [],
+  "venue": [],
+  "class_list": [
+   "post-4271",
+   "bwps",
+   "type-bwps",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "category-andet",
+   "location-tobakken"
+  ],
+  "acf": [],
+  "yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->\n<title>Portvinsfestival - Tobakken</title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" />\n<link rel=\"canonical\" href=\"https://tobakken.dk/program/portvinsfestival/\" />\n<meta property=\"og:locale\" content=\"da_DK\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"og:title\" content=\"Portvinsfestival - Tobakken\" />\n<meta property=\"og:description\" content=\"Danmarks største portvinsfestival kommer tilbage til Esbjerg Lørdag den 15. august 2026 åbner vi igen dørene til Tobakken. Fem timer, hvor du kan tage dig tid til at smage, spørge og mærke efter — og finde den flaske, du ikke vidste, du ledte efter. Efter debuten sidste år ved vi, at der er et publikum i Esbjerg, som gerne fordyber sig. Derfor kommer vi tilbage med endnu flere vine og mere at gå på opdagelse\" />\n<meta property=\"og:url\" content=\"https://tobakken.dk/program/portvinsfestival/\" />\n<meta property=\"og:site_name\" content=\"Tobakken\" />\n<meta property=\"article:modified_time\" content=\"2026-08-03T09:09:55+00:00\" />\n<meta property=\"og:image\" content=\"https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg\" />\n\t<meta property=\"og:image:width\" content=\"2048\" />\n\t<meta property=\"og:image:height\" content=\"1365\" />\n\t<meta property=\"og:image:type\" content=\"image/jpeg\" />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:label1\" content=\"Estimeret læsetid\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutter\" />\n<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\\/\\/schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/\",\"url\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/\",\"name\":\"Portvinsfestival - Tobakken\",\"isPartOf\":{\"@id\":\"https:\\/\\/tobakken.dk\\/#website\"},\"primaryImageOfPage\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/#primaryimage\"},\"image\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/#primaryimage\"},\"thumbnailUrl\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/08\\/portvinsfestival.jpg\",\"datePublished\":\"2026-08-03T08:48:00+00:00\",\"dateModified\":\"2026-08-03T09:09:55+00:00\",\"breadcrumb\":{\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/#breadcrumb\"},\"inLanguage\":\"da-DK\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/\"]}]},{\"@type\":\"ImageObject\",\"inLanguage\":\"da-DK\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/#primaryimage\",\"url\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/08\\/portvinsfestival.jpg\",\"contentUrl\":\"https:\\/\\/tobakken.dk\\/wp-content\\/uploads\\/2026\\/08\\/portvinsfestival.jpg\",\"width\":2048,\"height\":1365},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\\/\\/tobakken.dk\\/program\\/portvinsfestival\\/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Hjem\",\"item\":\"https:\\/\\/tobakken.dk\\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Billetten Events\",\"item\":\"https:\\/\\/tobakken.dk\\/program\\/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Portvinsfestival\"}]},{\"@type\":\"WebSite\",\"@id\":\"https:\\/\\/tobakken.dk\\/#website\",\"url\":\"https:\\/\\/tobakken.dk\\/\",\"name\":\"Tobakken\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\/\\/tobakken.dk\\/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"da-DK\"}]}</script>\n<!-- / Yoast SEO plugin. -->",
+  "yoast_head_json": {
+   "title": "Portvinsfestival - Tobakken",
+   "robots": {
+    "index": "index",
+    "follow": "follow",
+    "max-snippet": "max-snippet:-1",
+    "max-image-preview": "max-image-preview:large",
+    "max-video-preview": "max-video-preview:-1"
+   },
+   "canonical": "https://tobakken.dk/program/portvinsfestival/",
+   "og_locale": "da_DK",
+   "og_type": "article",
+   "og_title": "Portvinsfestival - Tobakken",
+   "og_description": "Danmarks største portvinsfestival kommer tilbage til Esbjerg Lørdag den 15. august 2026 åbner vi igen dørene til Tobakken. Fem timer, hvor du kan tage dig tid til at smage, spørge og mærke efter — og finde den flaske, du ikke vidste, du ledte efter. Efter debuten sidste år ved vi, at der er et publikum i Esbjerg, som gerne fordyber sig. Derfor kommer vi tilbage med endnu flere vine og mere at gå på opdagelse",
+   "og_url": "https://tobakken.dk/program/portvinsfestival/",
+   "og_site_name": "Tobakken",
+   "article_modified_time": "2026-08-03T09:09:55+00:00",
+   "og_image": [
+    {
+     "width": 2048,
+     "height": 1365,
+     "url": "https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg",
+     "type": "image/jpeg"
+    }
+   ],
+   "twitter_card": "summary_large_image",
+   "twitter_misc": {
+    "Estimeret læsetid": "2 minutter"
+   },
+   "schema": {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "WebPage",
+      "@id": "https://tobakken.dk/program/portvinsfestival/",
+      "url": "https://tobakken.dk/program/portvinsfestival/",
+      "name": "Portvinsfestival - Tobakken",
+      "isPartOf": {
+       "@id": "https://tobakken.dk/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://tobakken.dk/program/portvinsfestival/#primaryimage"
+      },
+      "image": {
+       "@id": "https://tobakken.dk/program/portvinsfestival/#primaryimage"
+      },
+      "thumbnailUrl": "https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg",
+      "datePublished": "2026-08-03T08:48:00+00:00",
+      "dateModified": "2026-08-03T09:09:55+00:00",
+      "breadcrumb": {
+       "@id": "https://tobakken.dk/program/portvinsfestival/#breadcrumb"
+      },
+      "inLanguage": "da-DK",
+      "potentialAction": [
+       {
+        "@type": "ReadAction",
+        "target": [
+         "https://tobakken.dk/program/portvinsfestival/"
+        ]
+       }
+      ]
+     },
+     {
+      "@type": "ImageObject",
+      "inLanguage": "da-DK",
+      "@id": "https://tobakken.dk/program/portvinsfestival/#primaryimage",
+      "url": "https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg",
+      "contentUrl": "https://tobakken.dk/wp-content/uploads/2026/08/portvinsfestival.jpg",
+      "width": 2048,
+      "height": 1365
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://tobakken.dk/program/portvinsfestival/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Hjem",
+        "item": "https://tobakken.dk/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Billetten Events",
+        "item": "https://tobakken.dk/program/"
+       },
+       {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "Portvinsfestival"
+       }
+      ]
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://tobakken.dk/#website",
+      "url": "https://tobakken.dk/",
+      "name": "Tobakken",
+      "description": "",
+      "potentialAction": [
+       {
+        "@type": "SearchAction",
+        "target": {
+         "@type": "EntryPoint",
+         "urlTemplate": "https://tobakken.dk/?s={search_term_string}"
+        },
+        "query-input": {
+         "@type": "PropertyValueSpecification",
+         "valueRequired": true,
+         "valueName": "search_term_string"
+        }
+       }
+      ],
+      "inLanguage": "da-DK"
+     }
+    ]
+   }
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/bwps/4271",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/bwps"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/types/bwps"
+    }
+   ],
+   "author": [
+    {
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/users/8"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/media/4273"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://tobakken.dk/wp-json/wp/v2/media?parent=4271"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "category",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/categories?post=4271"
+    },
+    {
+     "taxonomy": "post_tag",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/tags?post=4271"
+    },
+    {
+     "taxonomy": "location",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/location?post=4271"
+    },
+    {
+     "taxonomy": "priority",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/priority?post=4271"
+    },
+    {
+     "taxonomy": "ticketstatus",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/ticketstatus?post=4271"
+    },
+    {
+     "taxonomy": "organizer",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/organizer?post=4271"
+    },
+    {
+     "taxonomy": "venue",
+     "embeddable": true,
+     "href": "https://tobakken.dk/wp-json/wp/v2/venue?post=4271"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

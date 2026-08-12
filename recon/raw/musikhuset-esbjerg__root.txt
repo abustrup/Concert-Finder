@@ -1,0 +1,1519 @@
+
+<!DOCTYPE html>
+<html lang="da-DK">
+  <head>
+    <style>
+      :root {       
+        /* Header colors*/
+        --header-background-color:;--header-background-color-scroll:#606bff;--header-dropdown-background-color:#606bff;--header-mobile-background-color:#606bff;--header-border-color:#ededed;--header-burger-color:#ffffff;--header-burger-color-scroll:#ffffff;--header-burger-color-open:#ffffff;--header-icon-color:#ffffff;--header-icon-color-scroll:#ffffff;--header-icon-color-open:#ffffff;--header-basket-bg-circle:#ffffff;--header-basket-bg-circle-scroll:#ffffff;--header-basket-bg-circle-open:#ffffff;--header-basket-tx-circle:#000000;--header-basket-tx-circle-scroll:#000000;--header-basket-tx-circle-open:#000000;        /* Footer colors*/
+        --footer-text-color: #fff;
+        --footer-header-color: #fff;
+        --footer-link-color: #fff;
+        --footer-hover-link-color: #ffffff;
+        --footer-background-color: #815634;
+        /* Breakpoints*/
+        --breakpoints-padding: 100px;
+        /* Bwps style variables*/
+        --bwps-image-height: 250px;
+        --bwps-image-overlay: rgba(21,40,75,0.7);
+        --bwps-bg-color: rgba(0, 0, 0, 0);
+        --bwps-overlay-text-color: #fff;
+        --bwps-grid-gap: 30px;
+        /* Colors */
+        --load-color: #fff;
+        --primary-color:#606bff;--secondary-color:#233262;--third-color:#ff4a27;--fourth-color:#815634;--black:#000000;--dark:#231f20;--dark-grey:#505050;--light-grey:#afb4bb;--lighter-grey:rgba(255, 255, 255, 0.3);--white:#fff;--background-color:#ffffff;--ticketstatus-few-color:#ff4a27;--ticketstatus-soldout-color:#ffffff;--ticketstatus-custom-color:#815634;        /* Category colors */
+         --ballet-color:rgba(0, 0, 0, 0); --boern-og-familie-color:rgba(0, 0, 0, 0); --comedy-color:rgba(0, 0, 0, 0); --dans-color:rgba(0, 0, 0, 0); --event-categories-color:rgba(0, 0, 0, 0); --foredrag-color:rgba(0, 0, 0, 0); --gratis-color:rgba(0, 0, 0, 0); --jazz-color:rgba(0, 0, 0, 0); --klassisk-color:rgba(0, 0, 0, 0); --koncert-color:rgba(0, 0, 0, 0); --musical-color:rgba(0, 0, 0, 0); --opera-operette-color:rgba(0, 0, 0, 0); --revy-color:rgba(0, 0, 0, 0); --show-color:rgba(0, 0, 0, 0); --talkshow-color:rgba(0, 0, 0, 0); --teater-color:rgba(0, 0, 0, 0); --uncategorized-color:rgba(0, 0, 0, 0);
+        /* Message colors */
+        --message-primary-text-color: #fff;
+        --message-primary-background-color: rgba(21,40,75,1);
+
+        /* Texts */
+        --h1-color:#000000;--h1-size:150px;--h1-max-width:100%;--h1-margin-top:10px;--h1-margin-bottom:5px;--h1-align:left;--h1-transform:none;--h1-weight:500;--h2-color:#000000;--h2-size:90px;--h2-max-width:100%;--h2-margin-top:10px;--h2-margin-bottom:0px;--h2-align:left;--h2-transform:none;--h2-weight:500;--h3-color:#000000;--h3-size:64px;--h3-max-width:100%;--h3-margin-top:10px;--h3-margin-bottom:5px;--h3-align:left;--h3-transform:none;--h3-weight:500;--h4-color:#000000;--h4-size:50px;--h4-max-width:100%;--h4-margin-top:10px;--h4-margin-bottom:5px;--h4-align:left;--h4-transform:none;--h4-weight:500;--h5-color:#000000;--h5-size:28px;--h5-max-width:100%;--h5-margin-top:10px;--h5-margin-bottom:5px;--h5-align:left;--h5-transform:none;--h5-weight:500;--h6-color:#000000;--h6-size:24px;--h6-max-width:100%;--h6-margin-top:10px;--h6-margin-bottom:5px;--h6-align:left;--h6-transform:none;--h6-weight:500;--p-color:#000000;--p-size:18px;--p-max-width:100%;--p-margin-top:10px;--p-margin-bottom:10px;--p-align:left;--p-transform:initial;--p-weight:500;--li-color:#000000;--li-size:16px;--li-max-width:100%;--li-margin-top:10px;--li-margin-bottom:10px;--li-align:left;--li-transform:initial;--li-weight:500;--label-color:#000000;--label-size:16px;--label-max-width:100%;--label-margin-top:10px;--label-margin-bottom:10px;--label-align:left;--label-transform:initial;--label-weight:500;--a-color:#000000;--a-size:18px;--a-max-width:100%;--a-margin-top:5px;--a-margin-bottom:5px;--a-align:left;--a-transform:initial;--a-weight:500;--a-color-hover:#111;--a-weight-hover:500;--a-translate-y-hover:px;--nav-pri-color:#ffffff;--nav-pri-size:22px;--nav-pri-max-width:100%;--nav-pri-margin-top:px;--nav-pri-margin-bottom:px;--nav-pri-align:left;--nav-pri-transform:initial;--nav-pri-weight:300;--nav-pri-color-hover:#ffffff;--nav-pri-weight-hover:300;--nav-pri-translate-y-hover:0px;--nav-pri-color-scroll:#ffffff;--nav-pri-color-hover-scroll:#ffffff;--nav-pri-drop-color:#ffffff;--nav-pri-drop-size:80px;--nav-pri-drop-max-width:100%;--nav-pri-drop-margin-top:px;--nav-pri-drop-margin-bottom:px;--nav-pri-drop-align:left;--nav-pri-drop-transform:capitalize;--nav-pri-drop-weight:400;--nav-pri-drop-color-hover:#ffffff;--nav-pri-drop-weight-hover:400;--nav-pri-drop-translate-y-hover:px;--nav-pri-drop-color-bg:;--nav-pri-drop-color-bg-hover:;--nav-sec-color:#484848;--nav-sec-size:11px;--nav-sec-max-width:100%;--nav-sec-margin-top:px;--nav-sec-margin-bottom:px;--nav-sec-align:left;--nav-sec-transform:capitalize;--nav-sec-weight:300;--nav-sec-color-hover:#111;--nav-sec-weight-hover:300;--nav-sec-translate-y-hover:-3px;--nav-sec-color-scroll:#484848;--nav-sec-color-hover-scroll:#111;--nav-sec-drop-color:#484848;--nav-sec-drop-size:11px;--nav-sec-drop-max-width:100%;--nav-sec-drop-margin-top:px;--nav-sec-drop-margin-bottom:px;--nav-sec-drop-align:left;--nav-sec-drop-transform:capitalize;--nav-sec-drop-weight:300;--nav-sec-drop-color-hover:#111;--nav-sec-drop-weight-hover:300;--nav-sec-drop-translate-y-hover:px;--nav-sec-drop-color-bg:;--nav-sec-drop-color-bg-hover:;--title-color:#000000;--title-size:34px;--title-max-width:100%;--title-margin-top:0px;--title-margin-bottom:0px;--title-align:left;--title-transform:initial;--title-weight:500;--location-color:#000000;--location-size:13px;--location-max-width:100%;--location-margin-top:10px;--location-margin-bottom:5px;--location-align:left;--location-transform:uppercase;--location-weight:400;--date-color:#000000;--date-size:14px;--date-max-width:100%;--date-margin-top:30px;--date-margin-bottom:30px;--date-align:left;--date-transform:uppercase;--date-weight:700;
+        /* Buttons */
+        --primary-bg-color:#606bff;--primary-text-color:#ffffff;--primary-text-size:19px;--primary-text-weight:400;--primary-line-height:22px;--primary-border-color:#606bff;--primary-border-width:0px;--primary-border-radius:30px;--primary-padding-left:24px;--primary-padding-right:24px;--primary-padding-top:12px;--primary-padding-bottom:12px;--primary-hover-bg-color:#606bff;--primary-hover-border-color:#606bff;--primary-hover-text-color:#ffffff;--secondary-bg-color:#233262;--secondary-text-color:#ffffff;--secondary-text-size:19px;--secondary-text-weight:400;--secondary-line-height:22px;--secondary-border-color:#233262;--secondary-border-width:0px;--secondary-border-radius:30px;--secondary-padding-left:24px;--secondary-padding-right:24px;--secondary-padding-top:12px;--secondary-padding-bottom:12px;--secondary-hover-bg-color:#233262;--secondary-hover-border-color:#233262;--secondary-hover-text-color:#ffffff;--tertiary-bg-color:#ff4a27;--tertiary-text-color:#ffffff;--tertiary-text-size:19px;--tertiary-text-weight:400;--tertiary-line-height:22px;--tertiary-border-color:#ff4a27;--tertiary-border-width:0px;--tertiary-border-radius:30px;--tertiary-padding-left:24px;--tertiary-padding-right:24px;--tertiary-padding-top:12px;--tertiary-padding-bottom:12px;--tertiary-hover-bg-color:#ffffff;--tertiary-hover-border-color:#ff4a27;--tertiary-hover-text-color:#ff4a27;--quaternary-bg-color:#815634;--quaternary-text-color:#ffffff;--quaternary-text-size:19px;--quaternary-text-weight:400;--quaternary-line-height:22px;--quaternary-border-color:#815634;--quaternary-border-width:0px;--quaternary-border-radius:30px;--quaternary-padding-left:24px;--quaternary-padding-right:24px;--quaternary-padding-top:12px;--quaternary-padding-bottom:12px;--quaternary-hover-bg-color:#815634;--quaternary-hover-border-color:#815634;--quaternary-hover-text-color:#ffffff;--quinary-bg-color:rgba(21,40,75,0);--quinary-text-color:#484848;--quinary-text-size:25px;--quinary-text-weight:400;--quinary-line-height:25px;--quinary-border-color:rgba(21,40,75,0);--quinary-border-width:1px;--quinary-border-radius:4px;--quinary-padding-left:5px;--quinary-padding-right:5px;--quinary-padding-top:3px;--quinary-padding-bottom:5px;--quinary-hover-bg-color:#f1f1f1;--quinary-hover-border-color:rgba(21,40,75,0);--quinary-hover-text-color:#484848;--pag-btn-bg-color:rgba(21,40,75,0);--pag-btn-text-color:#484848;--pag-btn-text-size:25px;--pag-btn-text-weight:300;--pag-btn-line-height:20px;--pag-btn-border-color:rgba(21,40,75,0);--pag-btn-border-width:1px;--pag-btn-border-radius:4px;--pag-btn-padding-left:px;--pag-btn-padding-right:px;--pag-btn-padding-top:3px;--pag-btn-padding-bottom:8px;--pag-btn-hover-bg-color:#f1f1f1;--pag-btn-hover-border-color:rgba(21,40,75,0);--pag-btn-hover-text-color:#484848;--pag-number-bg-color:rgba(21,40,75,0);--pag-number-text-color:#484848;--pag-number-text-size:15px;--pag-number-text-weight:300;--pag-number-line-height:13px;--pag-number-border-color:rgba(21,40,75,0);--pag-number-border-width:1px;--pag-number-border-radius:4px;--pag-number-padding-left:5px;--pag-number-padding-right:5px;--pag-number-padding-top:5px;--pag-number-padding-bottom:5px;--pag-number-hover-bg-color:#f1f1f1;--pag-number-hover-border-color:rgba(21,40,75,0);--pag-number-hover-text-color:#484848;--add-to-calender-bg-color:rgba(21,40,75,0);--add-to-calender-text-color:rgba(21,40,75,1);--add-to-calender-text-size:15px;--add-to-calender-text-weight:300;--add-to-calender-line-height:15px;--add-to-calender-border-color:rgba(21,40,75,1);--add-to-calender-border-width:1px;--add-to-calender-border-radius:2px;--add-to-calender-padding-left:30px;--add-to-calender-padding-right:30px;--add-to-calender-padding-top:10px;--add-to-calender-padding-bottom:10px;--add-to-calender-hover-bg-color:rgba(21,40,75,1);--add-to-calender-hover-border-color:rgba(21,40,75,1);--add-to-calender-hover-text-color:#fff;--filter-btn-bg-color:#ffffff;--filter-btn-text-color:#000000;--filter-btn-text-size:19px;--filter-btn-text-weight:400;--filter-btn-line-height:22px;--filter-btn-border-color:#ffffff;--filter-btn-border-width:0px;--filter-btn-border-radius:30px;--filter-btn-padding-left:24px;--filter-btn-padding-right:24px;--filter-btn-padding-top:12px;--filter-btn-padding-bottom:12px;--filter-btn-hover-bg-color:#ffffff;--filter-btn-hover-border-color:#ffffff;--filter-btn-hover-text-color:#000000;      }
+      /* Category colors */
+       .ballet{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .boern-og-familie{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .comedy{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .dans{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .event-categories{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .foredrag{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .gratis{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .jazz{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .klassisk{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .koncert{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .musical{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .opera-operette{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .revy{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .show{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .talkshow{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .teater{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;} .uncategorized{background-color:rgba(0, 0, 0, 0)!important; border-color:rgba(0, 0, 0, 0)!important;}    </style>
+    <!-- Add head links here -->
+<script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js" data-culture="DA" data-gcm-version="2.0" type="text/javascript"></script>
+          <!-- Google Tag Manager -->
+      <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })
+        (window,document,'script','dataLayer','GTM-PSTG73');
+      </script>
+      <!-- End Google Tag Manager -->
+    
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Musikhuset Esbjerg - Musikhuset Esbjerg</title>
+	<link rel="canonical" href="https://mhe.dk/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Musikhuset Esbjerg - Musikhuset Esbjerg" />
+	<meta property="og:url" content="https://mhe.dk/" />
+	<meta property="og:site_name" content="Musikhuset Esbjerg" />
+	<meta property="article:modified_time" content="2026-07-03T11:01:17+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/mhe.dk\/","url":"https:\/\/mhe.dk\/","name":"Musikhuset Esbjerg - Musikhuset Esbjerg","isPartOf":{"@id":"https:\/\/mhe.dk\/#website"},"datePublished":"2025-11-14T13:47:23+00:00","dateModified":"2026-07-03T11:01:17+00:00","breadcrumb":{"@id":"https:\/\/mhe.dk\/#breadcrumb"},"inLanguage":"da-DK","potentialAction":[{"@type":"ReadAction","target":["https:\/\/mhe.dk\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/mhe.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/mhe.dk\/#website","url":"https:\/\/mhe.dk\/","name":"Musikhuset Esbjerg","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/mhe.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//mhe.billetten.dk' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://mhe.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmhe.dk%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://mhe.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmhe.dk%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://mhe.dk/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://mhe.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-quote-inline-css">
+.wp-block-quote{box-sizing:border-box;overflow-wrap:break-word}.wp-block-quote.is-large:where(:not(.is-style-plain)),.wp-block-quote.is-style-large:where(:not(.is-style-plain)){margin-bottom:1em;padding:0 1em}.wp-block-quote.is-large:where(:not(.is-style-plain)) p,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) p{font-size:1.5em;font-style:italic;line-height:1.6}.wp-block-quote.is-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-large:where(:not(.is-style-plain)) footer,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) cite,.wp-block-quote.is-style-large:where(:not(.is-style-plain)) footer{font-size:1.125em;text-align:right}.wp-block-quote>cite{display:block}
+/*# sourceURL=https://mhe.dk/wp-includes/blocks/quote/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://mhe.dk/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='xooom_parent_theme/main.css-css' href='https://mhe.dk/wp-content/themes/wordpress_parent-template/dist/styles/main.css?id=bd4d5624c426ee8b47746fc98c708014' media='all' />
+<link rel='stylesheet' id='xooom_child_theme/app.css-css' href='https://mhe.dk/wp-content/themes/wordpress_mhe/dist/styles/app.css?id=73e6be80d4f2fb4df1ad1d9498f7fd90' media='all' />
+<link rel='stylesheet' id='bwps-basm-style-css' href='https://mhe.billetten.dk/basm/css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://mhe.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://mhe.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="bwps-basm-script-js" src="https://mhe.billetten.dk/basm/sbasm-script?ver=7.0.4"></script>
+<script id="bwps-basm-addon-script-js" src="https://mhe.dk/wp-content/plugins/bwps/BWPS/../assets/js/basm/addon.js?ver=7.0.4"></script>
+<link rel="https://api.w.org/" href="https://mhe.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://mhe.dk/wp-json/wp/v2/pages/5266" /><link rel='shortlink' href='https://mhe.dk/' />
+<link rel="icon" href="https://mhe.dk/wp-content/uploads/2026/03/cropped-Ikon-MHE-hvid-1-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://mhe.dk/wp-content/uploads/2026/03/cropped-Ikon-MHE-hvid-1-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://mhe.dk/wp-content/uploads/2026/03/cropped-Ikon-MHE-hvid-1-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://mhe.dk/wp-content/uploads/2026/03/cropped-Ikon-MHE-hvid-1-270x270.jpg" />
+<style id="wp-custom-css">
+@media (max-width: 1024px) {
+	.frontpage-hero-slider {
+		overflow: hidden;
+	}
+}
+</style>
+  </head>
+
+  <body class="home wp-singular page-template page-template-templates page-template-frontpage page-template-templatesfrontpage page page-id-5266 wp-embed-responsive wp-theme-wordpress_parent-template wp-child-theme-wordpress_mhe background-color--default no-thumbnail" data-loader="wrapper">
+    
+          <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSTG73" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <!-- End Google Tag Manager (noscript) -->
+    
+            
+    <header id="navigation" class="banner fixed zero top four background-color--default">
+    <div class="container-md four" type="header" role="document">
+    <div class="row justify-content-between g-0" style="min-width: 100%; padding: 15px 0;">
+            <div class="col-sm-4 justify-content-start d-flex">
+                                    <div class="nav_container"><ul id="menu-primaer-menu" class="nav_four"><li id="menu-item-5226" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5226"><a href="#">Program</a>
+<ul class="sub-menu">
+	<li id="menu-item-5300" class="menu-item menu-item-type-custom menu-item-object-custom hover-color--black menu-item-5300"><a href="/program">Se det fulde program</a></li>
+	<li id="menu-item-5787" class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5787"><a href="https://mhe.dk/category/event-categories/koncert/">Intense koncerter</a></li>
+	<li id="menu-item-5783" class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5783"><a href="https://mhe.dk/category/event-categories/comedy/">Grin så tårerne triller</a></li>
+	<li id="menu-item-5784" class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5784"><a href="https://mhe.dk/category/event-categories/boern-og-familie/">Børnenes musikhus</a></li>
+	<li id="menu-item-5785" class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5785"><a href="https://mhe.dk/category/event-categories/klassisk/">Klassiske mesterværker</a></li>
+	<li id="menu-item-5786" class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5786"><a href="https://mhe.dk/category/event-categories/teater/">Magi i teatermørket</a></li>
+</ul>
+</li>
+<li id="menu-item-5308" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5308"><a href="#">Dit besøg</a>
+<ul class="sub-menu">
+	<li id="menu-item-5301" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5301"><a href="https://mhe.dk/dit-besoeg/">Planlæg dit besøg</a></li>
+	<li id="menu-item-5305" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5305"><a href="https://mhe.dk/dit-besoeg/spisning/">Spisning &#038; pausedrinks</a></li>
+	<li id="menu-item-7717" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-7717"><a href="https://mhe.dk/billetter/">Billetter</a></li>
+	<li id="menu-item-6455" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6455"><a href="https://mhe.dk/tilgaengelighed-2/">Tilgængelighed</a></li>
+	<li id="menu-item-5304" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5304"><a href="https://mhe.dk/dit-besoeg/cafe/">Caféen i Musikhuset</a></li>
+	<li id="menu-item-6060" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6060"><a href="https://mhe.dk/tmv/">Teaterforening &#8211; TMV</a></li>
+	<li id="menu-item-5307" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5307"><a href="https://mhe.dk/om-musikhuset/">Om Musikhuset</a></li>
+	<li id="menu-item-7619" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-7619"><a href="https://mhe.dk/gavekort/">Gavekort til Musikhuset</a></li>
+</ul>
+</li>
+<li id="menu-item-5728" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5728"><a href="#">Møder og konference</a>
+<ul class="sub-menu">
+	<li id="menu-item-5302" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5302"><a href="https://mhe.dk/dit-besoeg/konference/">Møder og konferencer</a></li>
+	<li id="menu-item-5303" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5303"><a href="https://mhe.dk/dit-besoeg/firmafester/">Firmafester og events</a></li>
+	<li id="menu-item-5868" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5868"><a href="https://mhe.dk/dit-besoeg/julefrokost/">Julefrokost</a></li>
+	<li id="menu-item-5872" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5872"><a href="https://mhe.dk/sale/">Sale og lokaler</a></li>
+</ul>
+</li>
+<li id="menu-item-5747" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5747"><a href="#">Partnere</a>
+<ul class="sub-menu">
+	<li id="menu-item-5295" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5295"><a href="https://mhe.dk/samarbejdspartnere/">Se vores partnere</a></li>
+	<li id="menu-item-5297" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5297"><a href="https://mhe.dk/partnerevents/">Partnerevents</a></li>
+	<li id="menu-item-6075" class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6075"><a href="https://mhe.dk/bliv-partner/">Bliv partner</a></li>
+</ul>
+</li>
+</ul></div>
+                                <div class="mobile">
+                    <ul class="nav_icon_menu">
+    <li>
+        <a class="search_trigger search-modal-btn" href="#">
+            <svg width="20" height="37" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.751 17.1954C11.9434 20.2309 6.36993 19.992 2.84034 16.4787C-0.94678 12.7089 -0.94678 6.59701 2.84034 2.82729C6.62746 -0.942431 12.7676 -0.94243 16.5547 2.82729C20.0843 6.34066 20.3243 11.8885 17.2748 15.6786L24.5 22.8943L22.9762 24.4112L15.751 17.1954ZM4.36345 4.34413C1.41791 7.27614 1.41791 12.0299 4.36345 14.9619C7.30683 17.8917 12.0776 17.8939 15.0237 14.9683L15.0302 14.9618L15.0367 14.9554C17.9757 12.0229 17.9736 7.27399 15.0302 4.34413C12.0846 1.41213 7.30899 1.41213 4.36345 4.34413Z" fill="#fff"/>
+            </svg>
+        </a>
+    </li>
+    <li>
+        <a class="user_link basm basm_profile_btn" href="#">
+            <svg width="20" height="37" viewBox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="18" cy="11" r="8" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M32 33C31.1126 15.6667 4.88737 15.6667 4 33" stroke="#fff" stroke-width="3" stroke-linecap="square" stroke-linejoin="round"/>
+            </svg>
+
+        </a>
+    </li>
+    <li class="basket_link basm basm_basket_btn" href="#">
+        <svg width="20" height="38" viewBox="0 0 34 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="3" y="13" width="28" height="22" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+            <path d="M9 11C9 6.58172 12.3579 3 16.5 3C20.6421 3 24 6.58172 24 11" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="basm basm_basket_indicator">
+            <span class="basm basm_basket_count">0</span>
+        </span>
+    </li>
+</ul>                </div>
+            </div>
+            <div class="col-sm-4 logo">
+                <a class="brand" href="https://mhe.dk/">
+                        <img src="https://mhe.dk/wp-content/uploads/2025/11/logo-neg.svg" class="one-logo"/>
+            </a>
+            </div>
+            <div class="col-sm-4 justify-content-end">
+                <nav class="nav-primary_four right">
+                    <ul class="nav_icon_menu">
+    <li>
+        <a class="search_trigger search-modal-btn" href="#">
+            <svg width="20" height="37" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15.751 17.1954C11.9434 20.2309 6.36993 19.992 2.84034 16.4787C-0.94678 12.7089 -0.94678 6.59701 2.84034 2.82729C6.62746 -0.942431 12.7676 -0.94243 16.5547 2.82729C20.0843 6.34066 20.3243 11.8885 17.2748 15.6786L24.5 22.8943L22.9762 24.4112L15.751 17.1954ZM4.36345 4.34413C1.41791 7.27614 1.41791 12.0299 4.36345 14.9619C7.30683 17.8917 12.0776 17.8939 15.0237 14.9683L15.0302 14.9618L15.0367 14.9554C17.9757 12.0229 17.9736 7.27399 15.0302 4.34413C12.0846 1.41213 7.30899 1.41213 4.36345 4.34413Z" fill="#fff"/>
+            </svg>
+        </a>
+    </li>
+    <li>
+        <a class="user_link basm basm_profile_btn" href="#">
+            <svg width="20" height="37" viewBox="0 0 36 37" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="18" cy="11" r="8" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M32 33C31.1126 15.6667 4.88737 15.6667 4 33" stroke="#fff" stroke-width="3" stroke-linecap="square" stroke-linejoin="round"/>
+            </svg>
+
+        </a>
+    </li>
+    <li class="basket_link basm basm_basket_btn" href="#">
+        <svg width="20" height="38" viewBox="0 0 34 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <rect x="3" y="13" width="28" height="22" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+            <path d="M9 11C9 6.58172 12.3579 3 16.5 3C20.6421 3 24 6.58172 24 11" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+        </svg>
+        <span class="basm basm_basket_indicator">
+            <span class="basm basm_basket_count">0</span>
+        </span>
+    </li>
+</ul>                    <div class="nav-primary burger-cn">
+                        <div class="burger-four">
+                            <span></span>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+            <div class="mobile">
+                                    <div class="nav_container"><ul id="menu-primaer-menu-1" class="nav_four"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5226"><a href="#">Program</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom hover-color--black menu-item-5300"><a href="/program">Se det fulde program</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5787"><a href="https://mhe.dk/category/event-categories/koncert/">Intense koncerter</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5783"><a href="https://mhe.dk/category/event-categories/comedy/">Grin så tårerne triller</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5784"><a href="https://mhe.dk/category/event-categories/boern-og-familie/">Børnenes musikhus</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5785"><a href="https://mhe.dk/category/event-categories/klassisk/">Klassiske mesterværker</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-category hover-color--black menu-item-5786"><a href="https://mhe.dk/category/event-categories/teater/">Magi i teatermørket</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5308"><a href="#">Dit besøg</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5301"><a href="https://mhe.dk/dit-besoeg/">Planlæg dit besøg</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5305"><a href="https://mhe.dk/dit-besoeg/spisning/">Spisning &#038; pausedrinks</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-7717"><a href="https://mhe.dk/billetter/">Billetter</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6455"><a href="https://mhe.dk/tilgaengelighed-2/">Tilgængelighed</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5304"><a href="https://mhe.dk/dit-besoeg/cafe/">Caféen i Musikhuset</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6060"><a href="https://mhe.dk/tmv/">Teaterforening &#8211; TMV</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5307"><a href="https://mhe.dk/om-musikhuset/">Om Musikhuset</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-7619"><a href="https://mhe.dk/gavekort/">Gavekort til Musikhuset</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5728"><a href="#">Møder og konference</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5302"><a href="https://mhe.dk/dit-besoeg/konference/">Møder og konferencer</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5303"><a href="https://mhe.dk/dit-besoeg/firmafester/">Firmafester og events</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5868"><a href="https://mhe.dk/dit-besoeg/julefrokost/">Julefrokost</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5872"><a href="https://mhe.dk/sale/">Sale og lokaler</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children hover-color--black menu-item-5747"><a href="#">Partnere</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5295"><a href="https://mhe.dk/samarbejdspartnere/">Se vores partnere</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-5297"><a href="https://mhe.dk/partnerevents/">Partnerevents</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page hover-color--black menu-item-6075"><a href="https://mhe.dk/bliv-partner/">Bliv partner</a></li>
+</ul>
+</li>
+</ul></div>
+                            </div>
+            <div class="header-cta">
+            <div class="special-links">
+            
+                            
+                                    <a href="https://mhe.dk/nyhedsbrev/" class="special-links__item" target="">
+                        Nyhedsbrev
+                    </a>
+                                            
+                                    <a href="https://mhe.dk/gavekort/" class="special-links__item" target="">
+                        Gavekort
+                    </a>
+                                    </div>
+        
+    <ul class="some-icons list-inline borderless">
+                                                    <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.facebook.com/MusikhusetEsbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-facebook" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M38 19.6183C38 8.7828 29.4943 0 19 0C8.50567 0 0 8.7828 0 19.6183C0 29.4125 6.9464 37.5284 16.0309 39V25.2902H11.2075V19.617H16.0309V15.2958C16.0309 10.3792 18.867 7.6622 23.2079 7.6622C25.2852 7.6622 27.4613 8.0457 27.4613 8.0457V12.8739H25.0635C22.7037 12.8739 21.9691 14.3871 21.9691 15.9393V19.6183H27.2384L26.3961 25.2889H21.9691V39C31.0536 37.5284 38 29.4125 38 19.6183Z" fill="#F2F0EB"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                        <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.instagram.com/musikhusetesbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-instagram" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 36.8 36.8">
+                                <path d="M18.4,0c-5,0-5.6,0-7.6.1-2,0-3.3.4-4.5.9-1.2.5-2.3,1.2-3.3,2.1-.9.9-1.7,2-2.1,3.3-.5,1.2-.8,2.5-.9,4.5,0,2-.1,2.6-.1,7.6s0,5.6.1,7.6c0,2,.4,3.3.9,4.5.5,1.2,1.2,2.3,2.1,3.3.9.9,2,1.7,3.3,2.1,1.2.5,2.5.8,4.5.9,2,0,2.6.1,7.6.1s5.6,0,7.6-.1c2,0,3.3-.4,4.5-.9,1.2-.5,2.3-1.2,3.3-2.1.9-.9,1.7-2,2.1-3.3.5-1.2.8-2.5.9-4.5,0-2,.1-2.6.1-7.6s0-5.6-.1-7.6c0-2-.4-3.3-.9-4.5-.5-1.2-1.2-2.3-2.1-3.3-.9-.9-2-1.7-3.3-2.1-1.2-.5-2.5-.8-4.5-.9-2,0-2.6-.1-7.6-.1ZM18.4,3.3c4.9,0,5.5,0,7.4.1,1.8,0,2.8.4,3.4.6.9.3,1.5.7,2.1,1.4.6.6,1,1.3,1.4,2.1.3.6.6,1.6.6,3.4,0,1.9.1,2.5.1,7.4s0,5.5-.1,7.4c0,1.8-.4,2.8-.6,3.4-.3.8-.8,1.5-1.4,2.1-.6.6-1.3,1.1-2.1,1.4-.6.3-1.6.6-3.4.6-1.9,0-2.5.1-7.4.1s-5.5,0-7.4-.1c-1.8,0-2.8-.4-3.4-.6-.8-.3-1.5-.8-2.1-1.4-.6-.6-1.1-1.3-1.4-2.1-.3-.6-.6-1.6-.6-3.4,0-1.9-.1-2.5-.1-7.4s0-5.5.1-7.4c0-1.8.4-2.8.6-3.4.3-.9.7-1.5,1.4-2.1.6-.6,1.3-1.1,2.1-1.4.6-.3,1.6-.6,3.4-.6,1.9,0,2.5-.1,7.4-.1Z" fill="#fff" fill-rule="evenodd"/>
+                                <path d="M18.4,24.5c-.8,0-1.6-.2-2.3-.5-.7-.3-1.4-.8-2-1.3-.6-.6-1-1.2-1.3-2-.3-.7-.5-1.5-.5-2.3s.2-1.6.5-2.3.8-1.4,1.3-2c.6-.6,1.2-1,2-1.3.7-.3,1.5-.5,2.3-.5,1.6,0,3.2.6,4.3,1.8,1.1,1.1,1.8,2.7,1.8,4.3s-.6,3.2-1.8,4.3c-1.1,1.1-2.7,1.8-4.3,1.8ZM18.4,8.9c-2.5,0-4.9,1-6.7,2.8-1.8,1.8-2.8,4.2-2.8,6.7s1,4.9,2.8,6.7c1.8,1.8,4.2,2.8,6.7,2.8s4.9-1,6.7-2.8c1.8-1.8,2.8-4.2,2.8-6.7s-1-4.9-2.8-6.7c-1.8-1.8-4.2-2.8-6.7-2.8ZM30.6,8.8c0,.6-.2,1.2-.7,1.6-.4.4-1,.7-1.6.7s-1.2-.2-1.6-.7c-.4-.4-.7-1-.7-1.6s.2-1.2.7-1.6,1-.7,1.6-.7,1.2.2,1.6.7c.4.4.7,1,.7,1.6Z" fill="#fff" fill-rule="evenodd"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                        <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.linkedin.com/company/musikhuset-esbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-linkedin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 382 382" xml:space="preserve" fill="#000000">
+                                <g stroke-width="0"></g>
+                                <g stroke-linecap="round" stroke-linejoin="round"></g>
+                                <g>
+                                    <path style="fill:#ffffff;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"></path>
+                                </g>
+                            </svg>
+                                            </a>
+                </li>
+                                    </ul></div>        </div>
+</div></header>
+<div class="row search-row search-modal search">
+    <div class="col-12 p-0">
+        <button class="btn search-modal-btn search">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+                <polygon fill="#fff" points="9.84 .51 9.39 .07 5 4.52 .55 .13 .11 .58 4.56 4.97 .17 9.42 .62 9.86 5.01 5.41 9.46 9.8 9.9 9.35 5.45 4.96 9.84 .51"/>
+            </svg>
+        </button>
+        <div class="container-md">
+            <form class="search-form form-inline" action="https://mhe.dk/" method="get" role="search">
+                <input class="searchInput" type="search" required="" placeholder="Indtast søgeord her" name="s" value="" />
+                <button class="btn type--read-more sen" type="submit">Søg</button>
+            </form>
+        </div>
+    </div>
+    <div class="header-cta">
+            <div class="special-links">
+            
+                            
+                                    <a href="https://mhe.dk/nyhedsbrev/" class="special-links__item" target="">
+                        Nyhedsbrev
+                    </a>
+                                            
+                                    <a href="https://mhe.dk/gavekort/" class="special-links__item" target="">
+                        Gavekort
+                    </a>
+                                    </div>
+        
+    <ul class="some-icons list-inline borderless">
+                                                    <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.facebook.com/MusikhusetEsbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-facebook" viewBox="0 0 38 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M38 19.6183C38 8.7828 29.4943 0 19 0C8.50567 0 0 8.7828 0 19.6183C0 29.4125 6.9464 37.5284 16.0309 39V25.2902H11.2075V19.617H16.0309V15.2958C16.0309 10.3792 18.867 7.6622 23.2079 7.6622C25.2852 7.6622 27.4613 8.0457 27.4613 8.0457V12.8739H25.0635C22.7037 12.8739 21.9691 14.3871 21.9691 15.9393V19.6183H27.2384L26.3961 25.2889H21.9691V39C31.0536 37.5284 38 29.4125 38 19.6183Z" fill="#F2F0EB"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                        <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.instagram.com/musikhusetesbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-instagram" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 36.8 36.8">
+                                <path d="M18.4,0c-5,0-5.6,0-7.6.1-2,0-3.3.4-4.5.9-1.2.5-2.3,1.2-3.3,2.1-.9.9-1.7,2-2.1,3.3-.5,1.2-.8,2.5-.9,4.5,0,2-.1,2.6-.1,7.6s0,5.6.1,7.6c0,2,.4,3.3.9,4.5.5,1.2,1.2,2.3,2.1,3.3.9.9,2,1.7,3.3,2.1,1.2.5,2.5.8,4.5.9,2,0,2.6.1,7.6.1s5.6,0,7.6-.1c2,0,3.3-.4,4.5-.9,1.2-.5,2.3-1.2,3.3-2.1.9-.9,1.7-2,2.1-3.3.5-1.2.8-2.5.9-4.5,0-2,.1-2.6.1-7.6s0-5.6-.1-7.6c0-2-.4-3.3-.9-4.5-.5-1.2-1.2-2.3-2.1-3.3-.9-.9-2-1.7-3.3-2.1-1.2-.5-2.5-.8-4.5-.9-2,0-2.6-.1-7.6-.1ZM18.4,3.3c4.9,0,5.5,0,7.4.1,1.8,0,2.8.4,3.4.6.9.3,1.5.7,2.1,1.4.6.6,1,1.3,1.4,2.1.3.6.6,1.6.6,3.4,0,1.9.1,2.5.1,7.4s0,5.5-.1,7.4c0,1.8-.4,2.8-.6,3.4-.3.8-.8,1.5-1.4,2.1-.6.6-1.3,1.1-2.1,1.4-.6.3-1.6.6-3.4.6-1.9,0-2.5.1-7.4.1s-5.5,0-7.4-.1c-1.8,0-2.8-.4-3.4-.6-.8-.3-1.5-.8-2.1-1.4-.6-.6-1.1-1.3-1.4-2.1-.3-.6-.6-1.6-.6-3.4,0-1.9-.1-2.5-.1-7.4s0-5.5.1-7.4c0-1.8.4-2.8.6-3.4.3-.9.7-1.5,1.4-2.1.6-.6,1.3-1.1,2.1-1.4.6-.3,1.6-.6,3.4-.6,1.9,0,2.5-.1,7.4-.1Z" fill="#fff" fill-rule="evenodd"/>
+                                <path d="M18.4,24.5c-.8,0-1.6-.2-2.3-.5-.7-.3-1.4-.8-2-1.3-.6-.6-1-1.2-1.3-2-.3-.7-.5-1.5-.5-2.3s.2-1.6.5-2.3.8-1.4,1.3-2c.6-.6,1.2-1,2-1.3.7-.3,1.5-.5,2.3-.5,1.6,0,3.2.6,4.3,1.8,1.1,1.1,1.8,2.7,1.8,4.3s-.6,3.2-1.8,4.3c-1.1,1.1-2.7,1.8-4.3,1.8ZM18.4,8.9c-2.5,0-4.9,1-6.7,2.8-1.8,1.8-2.8,4.2-2.8,6.7s1,4.9,2.8,6.7c1.8,1.8,4.2,2.8,6.7,2.8s4.9-1,6.7-2.8c1.8-1.8,2.8-4.2,2.8-6.7s-1-4.9-2.8-6.7c-1.8-1.8-4.2-2.8-6.7-2.8ZM30.6,8.8c0,.6-.2,1.2-.7,1.6-.4.4-1,.7-1.6.7s-1.2-.2-1.6-.7c-.4-.4-.7-1-.7-1.6s.2-1.2.7-1.6,1-.7,1.6-.7,1.2.2,1.6.7c.4.4.7,1,.7,1.6Z" fill="#fff" fill-rule="evenodd"/>
+                            </svg>
+                                            </a>
+                </li>
+                                                                        <li class="list-inline-item border-0 px-0 d-inline">
+                    <a href="https://www.linkedin.com/company/musikhuset-esbjerg/" target="_blank" rel="noopener">
+                                                    <svg class="icon-linkedin" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 382 382" xml:space="preserve" fill="#000000">
+                                <g stroke-width="0"></g>
+                                <g stroke-linecap="round" stroke-linejoin="round"></g>
+                                <g>
+                                    <path style="fill:#ffffff;" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889 C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056 H65.345c-5.554,0-10.056-4.502-10.056-10.056V150.403c0-5.554,4.502-10.056,10.056-10.056h42.806 c5.554,0,10.056,4.502,10.056,10.056V329.844z M86.748,123.432c-22.459,0-40.666-18.207-40.666-40.666S64.289,42.1,86.748,42.1 s40.666,18.207,40.666,40.666S109.208,123.432,86.748,123.432z M341.91,330.654c0,5.106-4.14,9.246-9.246,9.246H286.73 c-5.106,0-9.246-4.14-9.246-9.246v-84.168c0-12.556,3.683-55.021-32.813-55.021c-28.309,0-34.051,29.066-35.204,42.11v97.079 c0,5.106-4.139,9.246-9.246,9.246h-44.426c-5.106,0-9.246-4.14-9.246-9.246V149.593c0-5.106,4.14-9.246,9.246-9.246h44.426 c5.106,0,9.246,4.14,9.246,9.246v15.655c10.497-15.753,26.097-27.912,59.312-27.912c73.552,0,73.131,68.716,73.131,106.472 L341.91,330.654L341.91,330.654z"></path>
+                                </g>
+                            </svg>
+                                            </a>
+                </li>
+                                    </ul></div></div>
+        <main class="main">
+        <div class="container-md" type="default" role="document">
+    <div class="frontpage-content">
+    <div class="frontpage-hero-slider full-width">
+    <div class="frontpage-hero-slider__inner">
+        <div
+            class="owl-carousel owl-loaded simple-slider owl-drag qua"
+            data-slider-nav="1"
+            data-slider-dots=""
+            data-slider-loop="1"
+            data-slider-autoplay="1"
+            data-slider-autoplay-timeout="5000"
+            data-slider-speed="500"
+            data-slider-items="1"
+            data-slider-responsive="1"
+        >
+                                                
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/tv-2/">
+    <img width="1080" height="1350" src="https://mhe.dk/wp-content/uploads/2026/03/Tv-2.png" class="frontpage-slider-item__image" alt="" style="object-position: 50% 28%;" decoding="async" fetchpriority="high" srcset="https://mhe.dk/wp-content/uploads/2026/03/Tv-2.png 1080w, https://mhe.dk/wp-content/uploads/2026/03/Tv-2-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/Tv-2-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/Tv-2-768x960.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+    <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+    <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">TV-2</h2>
+        
+                    <p class="event-date">
+                                    Fredag — 16.10.2026
+                    <br><span>Kl. 20.00</span>
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/folkeklubben-danmarks-underholdningsorkester/">
+    <img width="1080" height="1350" src="https://mhe.dk/wp-content/uploads/2025/11/Folkeklubben.png" class="frontpage-slider-item__image" alt="" style="object-position: 50% 65%;" decoding="async" srcset="https://mhe.dk/wp-content/uploads/2025/11/Folkeklubben.png 1080w, https://mhe.dk/wp-content/uploads/2025/11/Folkeklubben-240x300.png 240w, https://mhe.dk/wp-content/uploads/2025/11/Folkeklubben-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2025/11/Folkeklubben-768x960.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+    <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+    <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Folkeklubben &amp; Danmarks Underholdningsorkester</h2>
+        
+                    <p class="event-date">
+                                    Torsdag — 22.10.2026
+                    <br><span>Kl. 20.00</span>
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/nena/">
+    <img width="1080" height="1350" src="https://mhe.dk/wp-content/uploads/2025/11/Nena.png" class="frontpage-slider-item__image" alt="" style="object-position: 50% 31%;" decoding="async" srcset="https://mhe.dk/wp-content/uploads/2025/11/Nena.png 1080w, https://mhe.dk/wp-content/uploads/2025/11/Nena-240x300.png 240w, https://mhe.dk/wp-content/uploads/2025/11/Nena-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2025/11/Nena-768x960.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" />
+    <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+    <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Nena</h2>
+        
+                    <p class="event-date">
+                                    Lørdag — 24.10.2026
+                    <br><span>Kl. 20.00</span>
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/specialklassen/">
+    <img width="1080" height="1350" src="https://mhe.dk/wp-content/uploads/2025/11/Specialklassen.png" class="frontpage-slider-item__image" alt="" style="object-position: 50% 15%;" decoding="async" loading="lazy" srcset="https://mhe.dk/wp-content/uploads/2025/11/Specialklassen.png 1080w, https://mhe.dk/wp-content/uploads/2025/11/Specialklassen-240x300.png 240w, https://mhe.dk/wp-content/uploads/2025/11/Specialklassen-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2025/11/Specialklassen-768x960.png 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px" />
+        <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Specialklassen</h2>
+        
+                    <p class="event-date">
+                                    <span>Fra</span>
+                    torsdag — 29.10.2026
+                    <br><span>Til og med</span>
+                    torsdag — 29.10.2026
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/nikolaj-stokholm-feat-stokkefar/">
+    <img width="1080" height="1080" src="https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1.jpg" class="frontpage-slider-item__image" alt="" style="object-position: 50% 50%;" decoding="async" loading="lazy" srcset="https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1.jpg 1080w, https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1-300x300.jpg 300w, https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1-1024x1024.jpg 1024w, https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1-150x150.jpg 150w, https://mhe.dk/wp-content/uploads/2025/03/Stokholm_w1-768x768.jpg 768w" sizes="auto, (max-width: 1080px) 100vw, 1080px" />
+    <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+    <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Nikolaj Stokholm feat. Stokkefar</h2>
+        
+                    <p class="event-date">
+                                    <span>Fra</span>
+                    fredag — 06.11.2026
+                    <br><span>Til og med</span>
+                    lørdag — 07.11.2026
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/program/pil/">
+    <img width="1440" height="1800" src="https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350.jpg" class="frontpage-slider-item__image" alt="" style="object-position: 50% 5%;" decoding="async" loading="lazy" srcset="https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350.jpg 1440w, https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350-240x300.jpg 240w, https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350-819x1024.jpg 819w, https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350-768x960.jpg 768w, https://mhe.dk/wp-content/uploads/2026/03/Pil_2026_1080-x-1350-1229x1536.jpg 1229w" sizes="auto, (max-width: 1440px) 100vw, 1440px" />
+        <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Pil</h2>
+        
+                    <p class="event-date">
+                                    Lørdag — 14.11.2026
+                    <br><span>Kl. 20.00</span>
+                            </p>
+            </div>
+</a>                                    
+                    <a class="frontpage-slider-item" href="https://mhe.dk/tmv/">
+    <img width="2560" height="1707" src="https://mhe.dk/wp-content/uploads/2026/05/TMV.png" class="frontpage-slider-item__image" alt="" style="object-position: 50% 36%;" decoding="async" loading="lazy" srcset="https://mhe.dk/wp-content/uploads/2026/05/TMV.png 2560w, https://mhe.dk/wp-content/uploads/2026/05/TMV-300x200.png 300w, https://mhe.dk/wp-content/uploads/2026/05/TMV-1024x683.png 1024w, https://mhe.dk/wp-content/uploads/2026/05/TMV-768x512.png 768w, https://mhe.dk/wp-content/uploads/2026/05/TMV-1536x1024.png 1536w, https://mhe.dk/wp-content/uploads/2026/05/TMV-2048x1366.png 2048w" sizes="auto, (max-width: 2560px) 100vw, 2560px" />
+        <div class="frontpage-slider-item__content">
+        <h2 class="frontpage-slider-item__content__title">Teaterforeningen TMV</h2>
+        
+            </div>
+</a>                                                    </div>
+    </div>
+</div>    <div class="block search-field full-width   background-color--primary text-color--white ">
+    <div class="search-field__inner container-md">
+      
+      <form class="search-form" action="https://mhe.dk/" method="get" role="search">
+        <input class="search-input" type="search" required="" placeholder="Søg efter arrangementer" name="s" value="" />
+        <button class="btn type--read-more pri" type="submit">Søg</button>
+      </form>
+    </div>
+  </div>
+
+<div class="block chosen-events full-width   background-color--primary text-color--white ">
+    <div class="chosen-events__inner container-md">
+              <h2 class="heading">Kommende arrangementer</h2>
+            <a class="archive-link" href="https://mhe.dk/program/">
+        Se alle
+        <svg class="archive-link__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+          <polygon fill="#000" points="5.57 .58 5.13 1.03 8.73 4.52 .07 4.52 .07 5.15 8.76 5.15 5.11 8.79 5.56 9.24 9.96 4.83 5.57 .58"/>
+        </svg>
+      </a>
+      <div
+        class="owl-carousel owl-loaded simple-slider owl-drag qua"
+        data-slider-nav="1"
+        data-slider-dots=""
+        data-slider-loop="1"
+        data-slider-autoplay="1"
+        data-slider-autoplay-timeout="8000"
+        data-slider-speed="500"
+        data-slider-items="4"
+        data-slider-margin="30"
+        data-slider-responsive='{"0": {"items": 1.1}, "820": {"items": 2.1}, "1440": {"items": 3}, "1920": {"items": 4}}'
+      >
+        <a href="https://mhe.dk/program/sommer-tobakken/" class="event-tile one august2026 post-8557 bwps type-bwps status-publish has-post-thumbnail hentry category-gratis">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/07/Sommer-paa-Tobakken-1-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/07/Sommer-paa-Tobakken-1-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/07/Sommer-paa-Tobakken-1-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/07/Sommer-paa-Tobakken-1-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/07/Sommer-paa-Tobakken-1.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+                    <span class="ticketstatus tobakken">Oplev på Tobakken</span>
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">&nbsp;</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Gratis</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Sommer på Tobakken</h2>
+                </div>
+    <p class="event-date">
+              <span>Fra</span>
+        torsdag — 13.08.2026
+        <br><span>Til og med</span>
+        lørdag — 15.08.2026
+          </p>
+
+    <p class="event-date list-view">
+              Tor 13 aug —<br>Lør 15 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Gratis</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/sommeropera/" class="event-tile one august2026 post-8429 bwps type-bwps status-publish has-post-thumbnail hentry category-opera-operette location-endrupholm">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/05/Endrupholm-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/Endrupholm-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/05/Endrupholm-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/05/Endrupholm-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/05/Endrupholm.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Opera/Operette</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">SommerOpera på Endrupholm</h2>
+                </div>
+    <p class="event-date">
+              søndag — 16.08.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Søn 16 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Opera/Operette</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/barselscafe/" class="event-tile one august2026 post-8583 bwps type-bwps status-publish has-post-thumbnail hentry category-gratis location-musikhuset-esbjerg organizer-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/07/Barselscafe-5-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/07/Barselscafe-5-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/07/Barselscafe-5-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/07/Barselscafe-5-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/07/Barselscafe-5.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">&nbsp;</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Gratis</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Barselscafé</h2>
+                </div>
+    <p class="event-date">
+              <span>Fra</span>
+        onsdag — 19.08.2026
+        <br><span>Til og med</span>
+        onsdag — 19.08.2026
+          </p>
+
+    <p class="event-date list-view">
+              Ons 19 aug —<br>Ons 19 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Gratis</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/peter-werner-2/" class="event-tile one august2026 post-5170 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-musikhuset-esbjerg organizer-bentertained">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2025/11/Peter-Werner-819x1024.png" class="event-image" alt="" style="object-position: 50% 15%;" srcset="https://mhe.dk/wp-content/uploads/2025/11/Peter-Werner-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2025/11/Peter-Werner-240x300.png 240w, https://mhe.dk/wp-content/uploads/2025/11/Peter-Werner-768x960.png 768w, https://mhe.dk/wp-content/uploads/2025/11/Peter-Werner.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">19.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Comedy</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Peter Werner</h2>
+                </div>
+    <p class="event-date">
+              torsdag — 20.08.2026
+        <br><span>Kl. 19.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tor 20 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Comedy</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/en-skaersommernatsdroem/" class="event-tile one august2026 post-7267 bwps type-bwps status-publish has-post-thumbnail hentry category-klassisk category-opera-operette tag-tmv location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-819x1024.png" class="event-image" alt="" style="object-position: 50% 33%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">&nbsp;</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Klassisk</div>
+                  <div class="category-item">Opera/Operette</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">En Skærsommernatsdrøm</h2>
+                </div>
+    <p class="event-date">
+              <span>Fra</span>
+        søndag — 23.08.2026
+        <br><span>Til og med</span>
+        fredag — 28.08.2026
+          </p>
+
+    <p class="event-date list-view">
+              Søn 23 aug —<br>Fre 28 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Klassisk</div>
+                  <div class="category-item">Opera/Operette</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/morgensang-2/" class="event-tile one august2026 post-7309 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-hovedfoyer organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">10.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Morgensang</h2>
+                </div>
+    <p class="event-date">
+              mandag — 24.08.2026
+        <br><span>Kl. 10.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 24 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/dreamerscircus/" class="event-tile one august2026 post-7258 bwps type-bwps status-publish has-post-thumbnail hentry location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/Dreamers-circus-819x1024.png" class="event-image" alt="" style="object-position: 50% 34%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/Dreamers-circus-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/Dreamers-circus-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/Dreamers-circus-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/Dreamers-circus.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">19.30</p>
+          
+    <div class="categories list-view">
+          </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Dreamers’ Circus</h2>
+                </div>
+    <p class="event-date">
+              mandag — 24.08.2026
+        <br><span>Kl. 19.30</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 24 aug
+          </p>
+
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/morgensang/" class="event-tile one august2026 post-7298 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-hovedfoyer organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">10.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Morgensang</h2>
+                </div>
+    <p class="event-date">
+              tirsdag — 25.08.2026
+        <br><span>Kl. 10.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tir 25 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/romeo-julie/" class="event-tile one august2026 post-7388 bwps type-bwps status-publish has-post-thumbnail hentry category-dans category-klassisk location-lokation-meddeles organizer-den-ny-opera organizer-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/Tobakken-45-opslag-FB-og-IG-819x1024.png" class="event-image" alt="" style="object-position: 50% 34%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/Tobakken-45-opslag-FB-og-IG-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/Tobakken-45-opslag-FB-og-IG-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/Tobakken-45-opslag-FB-og-IG-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/Tobakken-45-opslag-FB-og-IG.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Dans</div>
+                  <div class="category-item">Klassisk</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Romeo &#038; Julie!</h2>
+                </div>
+    <p class="event-date">
+              tirsdag — 25.08.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tir 25 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Dans</div>
+                  <div class="category-item">Klassisk</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/morgensang-3/" class="event-tile one august2026 post-7311 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-hovedfoyer organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-1.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">10.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Morgensang</h2>
+                </div>
+    <p class="event-date">
+              onsdag — 26.08.2026
+        <br><span>Kl. 10.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Ons 26 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/shakespeare-foredrag/" class="event-tile one august2026 post-7272 bwps type-bwps status-publish has-post-thumbnail hentry category-foredrag location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/Hvad-skete-der-lige-for-shakespeare-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/Hvad-skete-der-lige-for-shakespeare-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/Hvad-skete-der-lige-for-shakespeare-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/Hvad-skete-der-lige-for-shakespeare-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/Hvad-skete-der-lige-for-shakespeare.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Foredrag</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Shakespeare foredrag v/Niels Brunse</h2>
+                </div>
+    <p class="event-date">
+              onsdag — 26.08.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Ons 26 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Foredrag</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/stemmer-klange-i-natten-dno-festival-2026/" class="event-tile one august2026 post-7273 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/stemmer-og-klange-i-natten-819x1024.png" class="event-image" alt="" style="object-position: 50% 25%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/stemmer-og-klange-i-natten-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/stemmer-og-klange-i-natten-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/stemmer-og-klange-i-natten-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/stemmer-og-klange-i-natten.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Koncert</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Stemmer &#038; Klange i natten – DNO Festival 2026</h2>
+                </div>
+    <p class="event-date">
+              onsdag — 26.08.2026
+        <br><span>Kl. 20.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Ons 26 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Koncert</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/morgensang-4/" class="event-tile one august2026 post-7312 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-hovedfoyer organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">09.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Morgensang</h2>
+                </div>
+    <p class="event-date">
+              torsdag — 27.08.2026
+        <br><span>Kl. 09.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tor 27 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/musica-ficta/" class="event-tile one august2026 post-7299 bwps type-bwps status-publish has-post-thumbnail hentry category-klassisk category-koncert location-treenighedskirken organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-5-819x1024.png" class="event-image" alt="" style="object-position: 50% 35%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-5-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-5-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-5-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-5.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Klassisk</div>
+                  <div class="category-item">Koncert</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Koncert med Vokalensemblet Musica Ficta</h2>
+                </div>
+    <p class="event-date">
+              torsdag — 27.08.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tor 27 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Klassisk</div>
+                  <div class="category-item">Koncert</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/bella-notte/" class="event-tile one august2026 post-7263 bwps type-bwps status-publish has-post-thumbnail hentry category-opera-operette location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/Bella-notte-mhe-819x1024.png" class="event-image" alt="" style="object-position: 50% 22%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/Bella-notte-mhe-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/Bella-notte-mhe-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/Bella-notte-mhe-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/Bella-notte-mhe.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus soldout">Udsolgt</span>
+        
+        
+        
+            </div>
+  <div class="event-content">
+          <p class="event-status">Udsolgt</p>
+    
+    <div class="categories list-view">
+                        <div class="category-item">Opera/Operette</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Bella Notte</h2>
+                </div>
+    <p class="event-date">
+              torsdag — 27.08.2026
+        <br><span>Kl. 19.30</span>
+          </p>
+
+    <p class="event-date list-view">
+              Tor 27 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Opera/Operette</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/morgensang-5/" class="event-tile one august2026 post-7313 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-hovedfoyer organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/GRATIS-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/GRATIS.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">10.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Morgensang</h2>
+                </div>
+    <p class="event-date">
+              fredag — 28.08.2026
+        <br><span>Kl. 10.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Fre 28 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/shakespeares-samlede-vaerker/" class="event-tile one august2026 post-7389 bwps type-bwps status-publish has-post-thumbnail hentry location-endrupholm">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/shakespears-samlede-vaerker-819x1024.png" class="event-image" alt="" style="object-position: 50% 19%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/shakespears-samlede-vaerker-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/shakespears-samlede-vaerker-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/shakespears-samlede-vaerker-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/shakespears-samlede-vaerker.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+          </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Shakespeares Samlede Værker</h2>
+                </div>
+    <p class="event-date">
+              fredag — 28.08.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Fre 28 aug
+          </p>
+
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/familiekor/" class="event-tile one august2026 post-8594 bwps type-bwps status-publish has-post-thumbnail hentry category-boern-og-familie location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="800" height="500" src="https://mhe.dk/wp-content/uploads/2026/08/Familiekor.jpeg" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/08/Familiekor.jpeg 800w, https://mhe.dk/wp-content/uploads/2026/08/Familiekor-300x188.jpeg 300w, https://mhe.dk/wp-content/uploads/2026/08/Familiekor-768x480.jpeg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">10.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Børn og familie</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Familiekor</h2>
+                </div>
+    <p class="event-date">
+              lørdag — 29.08.2026
+        <br><span>Kl. 10.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Lør 29 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Børn og familie</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/hamlet-i-en-poelsevogn/" class="event-tile one august2026 post-8595 bwps type-bwps status-publish has-post-thumbnail hentry category-boern-og-familie location-esbjerg-bypark organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/08/Hamlet-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/08/Hamlet-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/08/Hamlet-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/08/Hamlet-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/08/Hamlet.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+        
+                    <span class="ticketstatus free">Gratis</span>
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">12.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Børn og familie</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">HAMLET I EN PØLSEVOGN</h2>
+                </div>
+    <p class="event-date">
+              lørdag — 29.08.2026
+        <br><span>Kl. 12.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Lør 29 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Børn og familie</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/the-english-alehouse/" class="event-tile one august2026 post-7265 bwps type-bwps status-publish has-post-thumbnail hentry category-klassisk category-koncert location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/english-alehouse-819x1024.png" class="event-image" alt="" style="object-position: 50% 32%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/english-alehouse-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/english-alehouse-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/english-alehouse-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/english-alehouse.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">19.30</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Klassisk</div>
+                  <div class="category-item">Koncert</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">The English Alehouse</h2>
+                </div>
+    <p class="event-date">
+              lørdag — 29.08.2026
+        <br><span>Kl. 19.30</span>
+          </p>
+
+    <p class="event-date list-view">
+              Lør 29 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Klassisk</div>
+                  <div class="category-item">Koncert</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/k-pop-superstars/" class="event-tile one september2026 post-7878 bwps type-bwps status-publish has-post-thumbnail hentry category-uncategorized location-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/04/K-pop-superstars--819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/04/K-pop-superstars--819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/04/K-pop-superstars--240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/04/K-pop-superstars--768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/04/K-pop-superstars-.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">17.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Uncategorized</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">K-Pop Superstars</h2>
+                </div>
+    <p class="event-date">
+              lørdag — 05.09.2026
+        <br><span>Kl. 17.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Lør 05 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Uncategorized</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/cv-over-danmark/" class="event-tile one september2026 post-7754 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv location-tobakken organizer-musikhuset-esbjerg organizer-teater-og-musikhusvennerne">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+                    <span class="ticketstatus tobakken">Oplev på Tobakken</span>
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Et CV over Danmark</h2>
+                </div>
+    <p class="event-date">
+              søndag — 06.09.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Søn 06 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/teaterpakke-2/" class="event-tile one september2026 post-8077 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv tag-tmv-pakke-2 location-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">00.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Teaterpakke 2</h2>
+                </div>
+    <p class="event-date">
+              mandag — 07.09.2026
+        <br><span>Kl. 00.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 07 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/truckervask/" class="event-tile one september2026 post-7652 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv tag-tmv-pakke-2 location-musikhuset-esbjerg organizer-musikhuset-esbjerg organizer-teater-og-musikhusvennerne">
+  <img loading="lazy" decoding="async" width="1024" height="683" src="https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1024x683.jpg" class="event-image" alt="" style="object-position: 50% 36%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1024x683.jpg 1024w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-300x200.jpg 300w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-768x512.jpg 768w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1536x1025.jpg 1536w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
+    <div class="event-content">
+                  <p class="event-timestamp">19.30</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Truckervask til ældrebyrden</h2>
+                </div>
+    <p class="event-date">
+              mandag — 07.09.2026
+        <br><span>Kl. 19.30</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 07 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/kaya-bruel-synger-jomfru-ane-band/" class="event-tile one september2026 post-5171 bwps type-bwps status-publish has-post-thumbnail hentry category-koncert location-musikhuset-esbjerg organizer-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2025/11/Kaya-Bruel-819x1024.png" class="event-image" alt="" style="object-position: 50% 12%;" srcset="https://mhe.dk/wp-content/uploads/2025/11/Kaya-Bruel-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2025/11/Kaya-Bruel-240x300.png 240w, https://mhe.dk/wp-content/uploads/2025/11/Kaya-Bruel-768x960.png 768w, https://mhe.dk/wp-content/uploads/2025/11/Kaya-Bruel.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">20.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Koncert</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Kaya Brüel synger Jomfru Ane Band</h2>
+                </div>
+    <p class="event-date">
+              fredag — 11.09.2026
+        <br><span>Kl. 20.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Fre 11 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Koncert</div>
+              </div>
+      </div>
+</a>
+
+              </div>
+    </div>
+  </div>
+
+<div class="block chosen-events full-width padding--top  background-color--light-grey text-color--default ">
+    <div class="chosen-events__inner container-md">
+              <h2 class="heading">23 nye magiske oplevelser i teatermørket</h2>
+            <a class="archive-link" href="https://mhe.dk/tag/tmv/">
+        Se alle
+        <svg class="archive-link__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 10">
+          <polygon fill="#000" points="5.57 .58 5.13 1.03 8.73 4.52 .07 4.52 .07 5.15 8.76 5.15 5.11 8.79 5.56 9.24 9.96 4.83 5.57 .58"/>
+        </svg>
+      </a>
+      <div
+        class="owl-carousel owl-loaded simple-slider owl-drag qua"
+        data-slider-nav="1"
+        data-slider-dots=""
+        data-slider-loop="1"
+        data-slider-autoplay="1"
+        data-slider-autoplay-timeout="8000"
+        data-slider-speed="500"
+        data-slider-items="4"
+        data-slider-margin="30"
+        data-slider-responsive='{"0": {"items": 1.1}, "820": {"items": 2.1}, "1440": {"items": 3}, "1920": {"items": 4}}'
+      >
+        <a href="https://mhe.dk/program/en-skaersommernatsdroem/" class="event-tile one august2026 post-7267 bwps type-bwps status-publish has-post-thumbnail hentry category-klassisk category-opera-operette tag-tmv location-musikhuset-esbjerg organizer-den-ny-opera">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-819x1024.png" class="event-image" alt="" style="object-position: 50% 33%;" srcset="https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/03/En-skaersommernatsdroem.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+                    <span class="ticketstatus few">Få tilbage</span>
+        
+        
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">&nbsp;</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Klassisk</div>
+                  <div class="category-item">Opera/Operette</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">En Skærsommernatsdrøm</h2>
+                </div>
+    <p class="event-date">
+              <span>Fra</span>
+        søndag — 23.08.2026
+        <br><span>Til og med</span>
+        fredag — 28.08.2026
+          </p>
+
+    <p class="event-date list-view">
+              Søn 23 aug —<br>Fre 28 aug
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Klassisk</div>
+                  <div class="category-item">Opera/Operette</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/cv-over-danmark/" class="event-tile one september2026 post-7754 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv location-tobakken organizer-musikhuset-esbjerg organizer-teater-og-musikhusvennerne">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/04/Et-cv-over-Danmark-web.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+  <div class="ticketstatuses">
+        
+        
+                    <span class="ticketstatus tobakken">Oplev på Tobakken</span>
+        
+            </div>
+  <div class="event-content">
+                  <p class="event-timestamp">16.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Et CV over Danmark</h2>
+                </div>
+    <p class="event-date">
+              søndag — 06.09.2026
+        <br><span>Kl. 16.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Søn 06 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/teaterpakke-2/" class="event-tile one september2026 post-8077 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv tag-tmv-pakke-2 location-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/05/Teaterpakke-2.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">00.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Teaterpakke 2</h2>
+                </div>
+    <p class="event-date">
+              mandag — 07.09.2026
+        <br><span>Kl. 00.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 07 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/truckervask/" class="event-tile one september2026 post-7652 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv tag-tmv-pakke-2 location-musikhuset-esbjerg organizer-musikhuset-esbjerg organizer-teater-og-musikhusvennerne">
+  <img loading="lazy" decoding="async" width="1024" height="683" src="https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1024x683.jpg" class="event-image" alt="" style="object-position: 50% 36%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1024x683.jpg 1024w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-300x200.jpg 300w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-768x512.jpg 768w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6-1536x1025.jpg 1536w, https://mhe.dk/wp-content/uploads/2026/05/Forestillingsfoto-6.jpg 1920w" sizes="auto, (max-width: 1024px) 100vw, 1024px" />
+    <div class="event-content">
+                  <p class="event-timestamp">19.30</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Truckervask til ældrebyrden</h2>
+                </div>
+    <p class="event-date">
+              mandag — 07.09.2026
+        <br><span>Kl. 19.30</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 07 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/teaterpakke-1/" class="event-tile one september2026 post-8078 bwps type-bwps status-publish has-post-thumbnail hentry category-teater tag-tmv tag-tmv-pakke-1 location-musikhuset-esbjerg">
+  <img loading="lazy" decoding="async" width="819" height="1024" src="https://mhe.dk/wp-content/uploads/2026/05/teaterpakke-1-web-819x1024.png" class="event-image" alt="" style="object-position: 50% 50%;" srcset="https://mhe.dk/wp-content/uploads/2026/05/teaterpakke-1-web-819x1024.png 819w, https://mhe.dk/wp-content/uploads/2026/05/teaterpakke-1-web-240x300.png 240w, https://mhe.dk/wp-content/uploads/2026/05/teaterpakke-1-web-768x960.png 768w, https://mhe.dk/wp-content/uploads/2026/05/teaterpakke-1-web.png 1080w" sizes="auto, (max-width: 819px) 100vw, 819px" />
+    <div class="event-content">
+                  <p class="event-timestamp">00.00</p>
+          
+    <div class="categories list-view">
+                        <div class="category-item">Teater</div>
+                  </div>
+
+    <div class="title-container">
+      <h2 class="show_name search_name">Teaterpakke 1</h2>
+                </div>
+    <p class="event-date">
+              mandag — 14.09.2026
+        <br><span>Kl. 00.00</span>
+          </p>
+
+    <p class="event-date list-view">
+              Man 14 sep
+          </p>
+
+          <div class="categories">
+                  <div class="category-item">Teater</div>
+              </div>
+      </div>
+</a>
+
+            
+        <a href="https://mhe.dk/program/alt-er-ferpekt/" class="event-tile one september2026 post-7659 bwps type-bwps status-publish has-post-thumbnail h
+<!-- TRIMMED BY recon.mjs -->

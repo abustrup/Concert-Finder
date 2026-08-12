@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: * 
+Disallow: /6b8bcb2cbf4254598982ea416db8b355/
+
+Sitemap: https://villageunderground.co.uk/sitemap.xml

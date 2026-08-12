@@ -1,0 +1,6 @@
+# CLI arguments for pipeline/harvest.mjs, one per line, # for comments.
+# run 6: 19 sources including the big rooms (DR Koncerthuset, ALICE, Train,
+# Pumpehuset), and the first run where enrichment can actually reach
+# MusicBrainz — the previous four resolved nothing because politeFetch applied
+# a website's crawl rules to a documented API, and continue-on-error reported
+# it as green.

@@ -1,0 +1,400 @@
+{
+  "generatedAt": "2026-08-12T21:10:54.504Z",
+  "pages": [
+    {
+      "url": "https://www.royalarena.dk/events",
+      "status": 200,
+      "finalUrl": "https://www.royalarena.dk/shows",
+      "bytes": 303055,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Kommende shows i Royal Arena",
+          "og:title": "Kommende shows | Royal Arena",
+          "og:description": "Kommende shows i Royal Arena",
+          "og:site_name": "www.royalarena.dk",
+          "og:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
+          "og:image:width": "600",
+          "og:image:height": "338",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Kommende shows | Royal Arena",
+          "twitter:description": "Kommende shows i Royal Arena",
+          "twitter:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
+          "twitter:image:width": "600",
+          "twitter:image:height": "338"
+        },
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://parken.dk/",
+      "status": 200,
+      "finalUrl": "https://parken.dk/",
+      "bytes": 18749,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {},
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://parken.dk/events",
+      "status": 404,
+      "finalUrl": "https://parken.dk/events",
+      "bytes": 3330
+    },
+    {
+      "url": "https://www.parken.dk/arrangementer",
+      "status": 404,
+      "finalUrl": "https://www.parken.dk/arrangementer",
+      "bytes": 3334
+    },
+    {
+      "url": "https://www.drkoncerthuset.dk/kalender/",
+      "status": 200,
+      "finalUrl": "https://www.drkoncerthuset.dk/kalender/",
+      "bytes": 1158536,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Find koncerter og arrangementer i DR Koncerthuset. Tjek kalenderen og k&#xF8;b billetter til store musikoplevelser i K&#xF8;benhavn.",
+          "og:description": "Find koncerter og arrangementer i DR Koncerthuset. Tjek kalenderen og k&#xF8;b billetter til store musikoplevelser i K&#xF8;benhavn.",
+          "og:title": "Kalender | DR Koncerthuset | Koncerter &amp; oplevelser",
+          "og:url": "https://www.drkoncerthuset.dk/kalender/",
+          "og:image": "https://www.drkoncerthuset.dk/media/y00pyc5b/koncerthuset2_carsten-machholdt.jpg?mode=crop&width=1200&height=630&quality=80"
+        },
+        "isoDatesOnPage": [
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-19",
+          "2026-08-21",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-29"
+        ]
+      }
+    },
+    {
+      "url": "https://www.drkoncerthuset.dk/kalender/2026/black-voices/",
+      "status": 200,
+      "finalUrl": "https://www.drkoncerthuset.dk/kalender/2026/black-voices/",
+      "bytes": 124294,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Black Voices &#x2013; A Tribute vender st&#xE6;rkt tilbage. Caroline Henderson, Karen Mukupa, Nabiha, Iris Gold og Betty Bass hylder sort kvindelig musikhistorie i Koncertsalen. ",
+          "og:description": "Black Voices &#x2013; A Tribute vender st&#xE6;rkt tilbage. Caroline Henderson, Karen Mukupa, Nabiha, Iris Gold og Betty Bass hylder sort kvindelig musikhistorie i Koncertsalen. ",
+          "og:title": "Black Voices &#x2013; A Tribute | DR Koncerthuset | K&#xF8;b billet nu",
+          "og:url": "https://www.drkoncerthuset.dk/kalender/2026/black-voices/",
+          "og:image": "https://www.drkoncerthuset.dk/media/odfnccxw/event_26074.jpg?mode=crop&width=1200&height=630&quality=80"
+        },
+        "isoDatesOnPage": [
+          "2026-08-29",
+          "2026-08-31",
+          "2026-09-01",
+          "2026-09-05",
+          "2026-09-06",
+          "2026-09-10",
+          "2026-09-11",
+          "2026-09-12"
+        ]
+      }
+    },
+    {
+      "url": "https://www.amagerbio.dk/program",
+      "status": 200,
+      "finalUrl": "https://ab-b.dk/program",
+      "bytes": 38741,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "og:locale": "da_DK",
+          "og:type": "article",
+          "og:title": "program &#8211; AB&amp;B // Amager Bio &amp; Beta",
+          "og:url": "https://ab-b.dk/program/",
+          "og:site_name": "AB&amp;B // Amager Bio &amp; Beta",
+          "og:image": "https://ab-b.dk/program",
+          "og:image:width": "1891",
+          "og:image:height": "991",
+          "og:image:type": "image/jpeg",
+          "twitter:card": "summary_large_image",
+          "twitter:site": "@amagerbio"
+        },
+        "isoDatesOnPage": [
+          "2023-08-23"
+        ]
+      }
+    },
+    {
+      "url": "https://pumpehuset.dk/program",
+      "status": 200,
+      "finalUrl": "https://pumpehuset.dk/program/",
+      "bytes": 197480,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik.",
+          "og:locale": "da_DK",
+          "og:type": "article",
+          "og:title": "Se hele Pumpehusets koncertprogram",
+          "og:description": "Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik.",
+          "og:url": "https://pumpehuset.dk/program/",
+          "og:site_name": "Pumpehuset",
+          "og:image": "https://pumpehuset.dk/wp-content/uploads/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg",
+          "og:image:width": "2000",
+          "og:image:height": "1331",
+          "og:image:type": "image/jpeg",
+          "twitter:card": "summary_large_image",
+          "twitter:label1": "Estimeret læsetid",
+          "twitter:data1": "1 minut"
+        },
+        "isoDatesOnPage": [
+          "2026-07-22",
+          "2023-05-02"
+        ]
+      }
+    },
+    {
+      "url": "https://pumpehuset.dk/koncerter",
+      "status": 200,
+      "finalUrl": "https://pumpehuset.dk/koncerter/",
+      "bytes": 133086,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "og:locale": "da_DK",
+          "og:type": "website",
+          "og:title": "Koncerter Archive - Pumpehuset",
+          "og:url": "https://pumpehuset.dk/koncerter/",
+          "og:site_name": "Pumpehuset",
+          "twitter:card": "summary_large_image"
+        },
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://www.forumcopenhagen.dk/",
+      "status": 200,
+      "finalUrl": "https://www.google.com/",
+      "bytes": 83434,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {},
+        "microdata": [
+          "image"
+        ],
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://train.dk/",
+      "status": 200,
+      "finalUrl": "https://train.dk/",
+      "bytes": 69964,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
+          "og:description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
+          "og:image": "/media/18349319814a3cd3488aa1789ab0b23569354f77-2000x1297.jpg?w=1200&amp;h=630&amp;fm=jpg&amp;q=80&amp;fit=crop&amp;crop=focalpoint"
+        },
+        "isoDatesOnPage": [
+          "2026-07-31",
+          "2026-08-05"
+        ]
+      }
+    },
+    {
+      "url": "https://alicecph.com/",
+      "status": 200,
+      "finalUrl": "https://alicecph.com/",
+      "bytes": 100041,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "ALICE er Københavns spillested for den eventyrlystne musiklytter. Et mødested med nysgerrighed og åbne horisonter og et musikalsk eksperimentarium, der både undersøger nye og grænsesøgende hybrider og",
+          "og:locale": "da_DK",
+          "og:type": "website",
+          "og:title": "ALICE",
+          "og:description": "ALICE er Københavns spillested for den eventyrlystne musiklytter. Et mødested med nysgerrighed og åbne horisonter og et musikalsk eksperimentarium, der både undersøger nye og grænsesøgende hybrider og",
+          "og:url": "https://alicecph.com/",
+          "og:site_name": "ALICE",
+          "og:image": "http://alicecph.com/content/uploads/2021/01/Baba-Zula.jpg",
+          "twitter:card": "summary_large_image"
+        },
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://www.musikhusetaarhus.dk/program",
+      "status": 200,
+      "finalUrl": "https://www.musikhuset.dk/",
+      "bytes": 159466,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "og:title": "Musikhuset Aarhus - Køb billetter til +1500 oplevelser for alle",
+          "twitter:title": "Musikhuset Aarhus - Køb billetter til +1500 oplevelser for alle",
+          "description": "Se alle aktuelle arrangementer i Musikhuset Aarhus og køb billet til din næste kulturoplevelse. Få overblik over program og kunstnere her.",
+          "og:description": "Se alle aktuelle arrangementer i Musikhuset Aarhus og køb billet til din næste kulturoplevelse. Få overblik over program og kunstnere her.",
+          "twitter:description": "Se alle aktuelle arrangementer i Musikhuset Aarhus og køb billet til din næste kulturoplevelse. Få overblik over program og kunstnere her.",
+          "og:locale": "da",
+          "og:type": "website",
+          "og:site_name": "Musikhuset Aarhus",
+          "twitter:card": "summary",
+          "twitter:site": "@Musikhuset"
+        },
+        "isoDatesOnPage": [
+          "2026-08-03",
+          "2005-09-20",
+          "2026-08-23",
+          "2027-02-04",
+          "2027-02-05",
+          "2027-02-06",
+          "2027-02-07",
+          "2026-08-13",
+          "2026-08-20",
+          "2026-08-27"
+        ]
+      }
+    },
+    {
+      "url": "https://www.tivoli.dk/da/musik",
+      "status": 200,
+      "finalUrl": "https://www.tivoli.dk/program/musik",
+      "bytes": 599649,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "og:title": "Tivolis musik program",
+          "og:description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "og:image": "https://cdn.tivoli.dk/media/u4qn4cpm/fredagsrock-stemning-tivoli-2024-15160573.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Tivolis musik program",
+          "twitter:description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "twitter:image": "https://cdn.tivoli.dk/media/u4qn4cpm/fredagsrock-stemning-tivoli-2024-15160573.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
+          "twitter:image:width": "1200",
+          "twitter:image:height": "675"
+        },
+        "isoDatesOnPage": [
+          "2024-02-14",
+          "2026-08-06",
+          "2024-05-01",
+          "2026-01-06",
+          "2024-05-17",
+          "2024-09-04",
+          "2025-04-26",
+          "2024-06-06",
+          "2025-01-04",
+          "2024-05-02"
+        ]
+      }
+    },
+    {
+      "url": "https://vega.dk/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://vega.dk/sitemap.xml",
+      "bytes": 1399217,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {},
+        "isoDatesOnPage": [
+          "2026-08-12",
+          "2026-08-11",
+          "2026-08-17",
+          "2026-07-15",
+          "2026-05-29",
+          "2026-08-18",
+          "2026-07-09",
+          "2026-08-27",
+          "2026-07-30",
+          "2026-09-02"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1647 @@
+    <!doctype html>
+    <html lang="da-DK">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+                    <link rel='stylesheet' href='https://postenlive.dk/wp-content/plugins/breakdance/plugin/themeless/normalize.min.css'>
+                <title>Posten Live | Musikhuset Posten</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//postenlive.billetten.dk' />
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://postenlive.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpostenlive.dk%2Fevent%2Fkenio-the-event%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://postenlive.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fpostenlive.dk%2Fevent%2Fkenio-the-event%2F&#038;format=xml" />
+<style id='wp-img-auto-sizes-contain-inline-css' type='text/css'>
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id='wp-block-paragraph-inline-css' type='text/css'>
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://postenlive.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<link rel='stylesheet' id='gob-events-style-css' href='https://postenlive.dk/wp-content/plugins/gob-events/css/gob-events.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='gu-menu-css-css' href='https://postenlive.dk/wp-content/plugins/gu-menu/css/gu-style.css?ver=6.9.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='gu-slicknav-css-css' href='https://postenlive.dk/wp-content/plugins/gu-menu/css/slicknav.css?ver=6.9.7' type='text/css' media='screen' />
+<link rel='stylesheet' id='ani-menu-style-css' href='https://postenlive.dk/wp-content/plugins/posten/css/ani-menu.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='posten-css-css' href='https://postenlive.dk/wp-content/plugins/posten/css/posten.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='splide-css-css' href='https://cdn.jsdelivr.net/npm/@splidejs/splide@3/dist/css/splide.min.css?ver=6.9.7' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-splide-style-css' href='https://postenlive.dk/wp-content/plugins/wp-splide-slider/css/wp-splide-style.css?ver=6.9.7' type='text/css' media='all' />
+<script type="text/javascript" id="webtoffee-cookie-consent-js-extra">
+/* <![CDATA[ */
+var _wccConfig = {"_ipData":[],"_assetsURL":"https://postenlive.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/","_publicURL":"https://postenlive.dk","_categories":[{"name":"N\u00f8dvendige","slug":"necessary","isNecessary":true,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":true,"ccpa":true},"foundNoCookieScript":false},{"name":"Funktionelle","slug":"functional","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Statistiske","slug":"analytics","isNecessary":false,"ccpaDoNotSell":true,"cookies":[{"cookieID":"_ga","domain":".postenlive.dk","provider":""},{"cookieID":"_ga_*","domain":".postenlive.dk","provider":""},{"cookieID":"_fbp","domain":"postenlive.dk","provider":""},{"cookieID":"last_pys_landing_page","domain":".postenlive.dk","provider":""},{"cookieID":"last_pysTrafficSource","domain":".postenlive.dk","provider":""},{"cookieID":"pys_landing_page","domain":".postenlive.dk","provider":""},{"cookieID":"pysTrafficSource","domain":".postenlive.dk","provider":""},{"cookieID":"pys_first_visit","domain":".postenlive.dk","provider":""},{"cookieID":"pys_start_session","domain":".postenlive.dk","provider":""},{"cookieID":"pys_session_limit","domain":".postenlive.dk","provider":""},{"cookieID":"_gcl_au","domain":".postenlive.dk","provider":""}],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Ydelse","slug":"performance","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"Markedsf\u00f8ring","slug":"advertisement","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false},{"name":"\u00d8vrige","slug":"others","isNecessary":false,"ccpaDoNotSell":true,"cookies":[],"active":true,"defaultConsent":{"gdpr":false,"ccpa":false},"foundNoCookieScript":false}],"_activeLaw":"gdpr","_rootDomain":"","_block":"1","_showBanner":"1","_bannerConfig":{"GDPR":{"settings":{"type":"box","position":"bottom-left","applicableLaw":"gdpr","preferenceCenter":"center","selectedRegion":"ALL","consentExpiry":365,"shortcodes":[{"key":"wcc_readmore","content":"\u003Ca href=\"#\" class=\"wcc-policy\" aria-label=\"Cookiepolitik\" target=\"_blank\" rel=\"noopener\" data-tag=\"readmore-button\"\u003ECookiepolitik\u003C/a\u003E","tag":"readmore-button","status":false,"attributes":{"rel":"nofollow","target":"_blank"}},{"key":"wcc_show_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"show-desc-button\" aria-label=\"Vis mere\"\u003EVis mere\u003C/button\u003E","tag":"show-desc-button","status":true,"attributes":[]},{"key":"wcc_hide_desc","content":"\u003Cbutton class=\"wcc-show-desc-btn\" data-tag=\"hide-desc-button\" aria-label=\"Vis mindre\"\u003EVis mindre\u003C/button\u003E","tag":"hide-desc-button","status":true,"attributes":[]},{"key":"wcc_category_toggle_label","content":"[wcc_{{status}}_category_label] [wcc_preference_{{category_slug}}_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_category_label","content":"Aktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_category_label","content":"Deaktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_video_placeholder","content":"\u003Cdiv class=\"video-placeholder-normal\" data-tag=\"video-placeholder\" id=\"[UNIQUEID]\"\u003E\u003Cp class=\"video-placeholder-text-normal\" data-tag=\"placeholder-title\"\u003EAccepter venligst {category} cookies for at f\u00e5 adgang til dette indhold\u003C/p\u003E\u003C/div\u003E","tag":"","status":true,"attributes":[]},{"key":"wcc_enable_optout_label","content":"Aktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_disable_optout_label","content":"Deaktiver","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_toggle_label","content":"[wcc_{{status}}_optout_label] [wcc_optout_option_title]","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_option_title","content":"M\u00e5 ikke s\u00e6lge eller dele mine personlige oplysninger","tag":"","status":true,"attributes":[]},{"key":"wcc_optout_close_label","content":"Luk","tag":"","status":true,"attributes":[]}],"bannerEnabled":true,"consentDetails":{"dateFormat":"d/m/Y H:i:s"},"closeButtonAction":"reject"},"behaviours":{"reloadBannerOnAccept":false,"loadAnalyticsByDefault":false,"animations":{"onLoad":"animate","onHide":"sticky"}},"config":{"revisitConsent":{"status":false,"tag":"revisit-consent","position":"bottom-left","meta":{"url":"#"},"styles":[],"elements":{"title":{"type":"text","tag":"revisit-consent-title","status":true,"styles":{"color":"#0056a7"}}}},"preferenceCenter":{"toggle":{"status":true,"tag":"detail-category-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}},"poweredBy":{"status":false,"tag":"detail-powered-by","styles":{"background-color":"#EDEDED","color":"#293C5B"}}},"categoryPreview":{"status":false,"toggle":{"status":true,"tag":"detail-category-preview-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#D0D5D2"}}}}},"videoPlaceholder":{"status":true,"styles":{"background-color":"#000000","border-color":"#000000","color":"#ffffff"}},"readMore":{"status":false,"tag":"readmore-button","type":"link","meta":{"noFollow":true,"newTab":true},"styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},"auditTable":{"status":true},"optOption":{"status":true,"toggle":{"status":true,"tag":"optout-option-toggle","type":"toggle","states":{"active":{"styles":{"background-color":"#000000"}},"inactive":{"styles":{"background-color":"#FFFFFF"}}}},"gpcOption":false}}}},"_version":"3.5.2","_logConsent":"1","_tags":[{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#000000","border-color":"#000000"}},{"tag":"reject-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"settings-button","styles":{"color":"#000000","background-color":"transparent","border-color":"#000000"}},{"tag":"readmore-button","styles":{"color":"#000000","background-color":"transparent","border-color":"transparent"}},{"tag":"donotsell-button","styles":{"color":"#1863dc","background-color":"transparent","border-color":"transparent"}},{"tag":"accept-button","styles":{"color":"#FFFFFF","background-color":"#000000","border-color":"#000000"}},{"tag":"revisit-consent","styles":[]},{"tag":"detail-category-always-enabled","styles":{"color":"#008000"}}],"_rtl":"","_lawSelected":["GDPR"],"_restApiUrl":"https://directory.cookieyes.com/api/v1/ip","_renewConsent":"1747901714277","_restrictToCA":"","_customEvents":"","_ccpaAllowedRegions":[],"_gdprAllowedRegions":[],"_ssl":"1","_enableConsentSharing":"","_providersToBlock":[]};
+var _wccStyles = {"css":{"GDPR":".wcc-overlay{background: #000000; opacity: 0.4; position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: 99999999;}.wcc-hide{display: none;}.wcc-btn-revisit-wrapper{display: flex; padding: 6px; border-radius: 8px; opacity: 0px; background-color:#ffffff; box-shadow: 0px 3px 10px 0px #798da04d;  align-items: center; justify-content: center;   position: fixed; z-index: 999999; cursor: pointer;}.wcc-revisit-bottom-left{bottom: 15px; left: 15px;}.wcc-revisit-bottom-right{bottom: 15px; right: 15px;}.wcc-btn-revisit-wrapper .wcc-btn-revisit{display: flex; align-items: center; justify-content: center; background: none; border: none; cursor: pointer; position: relative; margin: 0; padding: 0;}.wcc-btn-revisit-wrapper .wcc-btn-revisit img{max-width: fit-content; margin: 0; } .wcc-btn-revisit-wrapper .wcc-revisit-help-text{font-size:14px; margin-left:4px; display:none;}.wcc-btn-revisit-wrapper:hover .wcc-revisit-help-text, .wcc-btn-revisit-wrapper:focus-within .wcc-revisit-help-text { display: block;}.wcc-revisit-hide{display: none;}.wcc-preference-btn:hover{cursor:pointer; text-decoration:underline;}.wcc-cookie-audit-table { font-family: inherit; border-collapse: collapse; width: 100%;} .wcc-cookie-audit-table th, .wcc-cookie-audit-table td {text-align: left; padding: 10px; font-size: 12px; color: #000000; word-break: normal; background-color: #d9dfe7; border: 1px solid #cbced6;} .wcc-cookie-audit-table tr:nth-child(2n + 1) td { background: #f1f5fa; }.wcc-consent-container{position: fixed; width: 440px; box-sizing: border-box; z-index: 9999999; border-radius: 6px;}.wcc-consent-container .wcc-consent-bar{background: #ffffff; border: 1px solid; padding: 20px 26px; box-shadow: 0 -1px 10px 0 #acabab4d; border-radius: 6px;}.wcc-box-bottom-left{bottom: 40px; left: 40px;}.wcc-box-bottom-right{bottom: 40px; right: 40px;}.wcc-box-top-left{top: 40px; left: 40px;}.wcc-box-top-right{top: 40px; right: 40px;}.wcc-custom-brand-logo-wrapper .wcc-custom-brand-logo{width: 100px; height: auto; margin: 0 0 12px 0;}.wcc-notice .wcc-title{color: #212121; font-weight: 700; font-size: 18px; line-height: 24px; margin: 0 0 12px 0;}.wcc-notice-des *,.wcc-preference-content-wrapper *,.wcc-accordion-header-des *,.wcc-gpc-wrapper .wcc-gpc-desc *{font-size: 14px;}.wcc-notice-des{color: #212121; font-size: 14px; line-height: 24px; font-weight: 400;}.wcc-notice-des img{height: 25px; width: 25px;}.wcc-consent-bar .wcc-notice-des p,.wcc-gpc-wrapper .wcc-gpc-desc p,.wcc-preference-body-wrapper .wcc-preference-content-wrapper p,.wcc-accordion-header-wrapper .wcc-accordion-header-des p,.wcc-cookie-des-table li div:last-child p{color: inherit; margin-top: 0;}.wcc-notice-des P:last-child,.wcc-preference-content-wrapper p:last-child,.wcc-cookie-des-table li div:last-child p:last-child,.wcc-gpc-wrapper .wcc-gpc-desc p:last-child{margin-bottom: 0;}.wcc-notice-des a.wcc-policy,.wcc-notice-des button.wcc-policy{font-size: 14px; color: #1863dc; white-space: nowrap; cursor: pointer; background: transparent; border: 1px solid; text-decoration: underline;}.wcc-notice-des button.wcc-policy{padding: 0;}.wcc-notice-des a.wcc-policy:focus-visible,.wcc-notice-des button.wcc-policy:focus-visible,.wcc-preference-content-wrapper .wcc-show-desc-btn:focus-visible,.wcc-accordion-header .wcc-accordion-btn:focus-visible,.wcc-preference-header .wcc-btn-close:focus-visible,.wcc-switch input[type=\"checkbox\"]:focus-visible,.wcc-footer-wrapper a:focus-visible,.wcc-btn:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}.wcc-btn:focus:not(:focus-visible),.wcc-accordion-header .wcc-accordion-btn:focus:not(:focus-visible),.wcc-preference-content-wrapper .wcc-show-desc-btn:focus:not(:focus-visible),.wcc-btn-revisit-wrapper .wcc-btn-revisit:focus:not(:focus-visible),.wcc-preference-header .wcc-btn-close:focus:not(:focus-visible),.wcc-consent-bar .wcc-banner-btn-close:focus:not(:focus-visible){outline: 0;}button.wcc-show-desc-btn:not(:hover):not(:active){color: #1863dc; background: transparent;}button.wcc-accordion-btn:not(:hover):not(:active),button.wcc-banner-btn-close:not(:hover):not(:active),button.wcc-btn-revisit:not(:hover):not(:active),button.wcc-btn-close:not(:hover):not(:active){background: transparent;}.wcc-consent-bar button:hover,.wcc-modal.wcc-modal-open button:hover,.wcc-consent-bar button:focus,.wcc-modal.wcc-modal-open button:focus{text-decoration: none;}.wcc-notice-btn-wrapper{display: flex; justify-content: flex-start; align-items: center; flex-wrap: wrap; margin-top: 16px;}.wcc-notice-btn-wrapper .wcc-btn{text-shadow: none; box-shadow: none;}.wcc-consent-details-wrapper .wcc-consent-detail-item .wcc-consent-detail-label,.wcc-consent-details-wrapper .wcc-consent-detail-item .wcc-consent-detail-value{font-size:12px;}.wcc-consent-details-wrapper .wcc-accordion.wcc-accordion-active .wcc-accordion-body { padding :0px;}.wcc-consent-details-wrapper .wcc-accordion-wrapper {margin-bottom:0px;}.wcc-consent-details-wrapper .wcc-accordion-wrapper .wcc-accordion .wcc-accordion-item{margin-top:0px;}.wcc-consent-details-wrapper .wcc-accordion .wcc-accordion-item .wcc-accordion-header { justify-content: flex-start; align-items: flex-start;}.wcc-consent-details-wrapper .wcc-accordion .wcc-accordion-item .wcc-accordion-header .wcc-accordion-chevron {margin-left:24px;}.wcc-btn{flex: auto; max-width: 100%; font-size: 14px; font-family: inherit; line-height: 24px; padding: 8px; font-weight: 500; margin: 0 8px 0 0; border-radius: 2px; cursor: pointer; text-align: center; text-transform: none; min-height: 0;}.wcc-btn:hover{opacity: 0.8;}.wcc-btn-customize{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-btn-reject{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-btn-accept{background: #1863dc; color: #ffffff; border: 2px solid #1863dc;}.wcc-btn:last-child{margin-right: 0;}@media (max-width: 576px){.wcc-box-bottom-left{bottom: 0; left: 0;}.wcc-box-bottom-right{bottom: 0; right: 0;}.wcc-box-top-left{top: 0; left: 0;}.wcc-box-top-right{top: 0; right: 0;}}@media (max-width: 440px){.wcc-box-bottom-left, .wcc-box-bottom-right, .wcc-box-top-left, .wcc-box-top-right{width: 100%; max-width: 100%;}.wcc-consent-container .wcc-consent-bar{padding: 20px 0;}.wcc-custom-brand-logo-wrapper, .wcc-notice .wcc-title, .wcc-notice-des, .wcc-notice-btn-wrapper{padding: 0 24px;}.wcc-notice-des{max-height: 40vh; overflow-y: scroll;}.wcc-notice-btn-wrapper{flex-direction: column; margin-top: 0;}.wcc-btn{width: 100%; margin: 10px 0 0 0;}.wcc-notice-btn-wrapper .wcc-btn-customize{order: 2;}.wcc-notice-btn-wrapper .wcc-btn-reject{order: 3;}.wcc-notice-btn-wrapper .wcc-btn-accept{order: 1; margin-top: 16px;}}@media (max-width: 352px){.wcc-notice .wcc-title{font-size: 16px;}.wcc-notice-des *{font-size: 12px;}.wcc-notice-des, .wcc-btn{font-size: 12px;}}.wcc-modal.wcc-modal-open{display: flex; visibility: visible; -webkit-transform: translate(-50%, -50%); -moz-transform: translate(-50%, -50%); -ms-transform: translate(-50%, -50%); -o-transform: translate(-50%, -50%); transform: translate(-50%, -50%); top: 50%; left: 50%; transition: all 1s ease;}.wcc-modal{box-shadow: 0 32px 68px rgba(0, 0, 0, 0.3); margin: 0 auto; position: fixed; max-width: 100%; background: #ffffff; top: 50%; box-sizing: border-box; border-radius: 6px; z-index: 999999999; color: #212121; -webkit-transform: translate(-50%, 100%); -moz-transform: translate(-50%, 100%); -ms-transform: translate(-50%, 100%); -o-transform: translate(-50%, 100%); transform: translate(-50%, 100%); visibility: hidden; transition: all 0s ease;}.wcc-preference-center{max-height: 79vh; overflow: hidden; width: 845px; overflow: hidden; flex: 1 1 0; display: flex; flex-direction: column; border-radius: 6px;}.wcc-preference-header{display: flex; align-items: center; justify-content: space-between; padding: 22px 24px; border-bottom: 1px solid;}.wcc-preference-header .wcc-preference-title{font-size: 18px; font-weight: 700; line-height: 24px;}.wcc-google-privacy-url a {text-decoration:none;color: #1863dc;cursor:pointer;} .wcc-preference-header .wcc-btn-close{margin: 0; cursor: pointer; vertical-align: middle; padding: 0; background: none; border: none; width: auto; height: auto; min-height: 0; line-height: 0; text-shadow: none; box-shadow: none;}.wcc-preference-header .wcc-btn-close img{margin: 0; height: 10px; width: 10px;}.wcc-preference-body-wrapper{padding: 0 24px; flex: 1; overflow: auto; box-sizing: border-box;}.wcc-preference-content-wrapper,.wcc-gpc-wrapper .wcc-gpc-desc,.wcc-google-privacy-policy{font-size: 14px; line-height: 24px; font-weight: 400; padding: 12px 0;}.wcc-preference-content-wrapper{border-bottom: 1px solid;}.wcc-preference-content-wrapper img{height: 25px; width: 25px;}.wcc-preference-content-wrapper .wcc-show-desc-btn{font-size: 14px; font-family: inherit; color: #1863dc; text-decoration: none; line-height: 24px; padding: 0; margin: 0; white-space: nowrap; cursor: pointer; background: transparent; border-color: transparent; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-accordion-wrapper{margin-bottom: 10px;}.wcc-accordion{border-bottom: 1px solid;}.wcc-accordion:last-child{border-bottom: none;}.wcc-accordion .wcc-accordion-item{display: flex; margin-top: 10px;}.wcc-accordion .wcc-accordion-body{display: none;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{display: block; padding: 0 22px; margin-bottom: 16px;}.wcc-accordion-header-wrapper{cursor: pointer; width: 100%;}.wcc-accordion-item .wcc-accordion-header{display: flex; justify-content: space-between; align-items: center;}.wcc-accordion-header .wcc-accordion-btn{font-size: 16px; font-family: inherit; color: #212121; line-height: 24px; background: none; border: none; font-weight: 700; padding: 0; margin: 0; cursor: pointer; text-transform: none; min-height: 0; text-shadow: none; box-shadow: none;}.wcc-consent-details-wrapper .wcc-accordion-header .wcc-accordion-btn{font-size:12px; font-weight:normal;}.wcc-accordion-header .wcc-always-active{color: #008000; font-weight: 600; line-height: 24px; font-size: 14px;}.wcc-accordion-header-des{font-size: 14px; line-height: 24px; margin: 10px 0 16px 0;}.wcc-accordion-chevron{margin-right: 22px; position: relative; cursor: pointer;}.wcc-accordion-chevron-hide{display: none;}.wcc-accordion .wcc-accordion-chevron i::before{content: \"\"; position: absolute; border-right: 1.4px solid; border-bottom: 1.4px solid; border-color: inherit; height: 6px; width: 6px; -webkit-transform: rotate(-45deg); -moz-transform: rotate(-45deg); -ms-transform: rotate(-45deg); -o-transform: rotate(-45deg); transform: rotate(-45deg); transition: all 0.2s ease-in-out; top: 8px;}.wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); -ms-transform: rotate(45deg); -o-transform: rotate(45deg); transform: rotate(45deg);}.wcc-audit-table{background: #f4f4f4; border-radius: 6px;}.wcc-audit-table .wcc-empty-cookies-text{color: inherit; font-size: 12px; line-height: 24px; margin: 0; padding: 10px;}.wcc-audit-table .wcc-cookie-des-table{font-size: 12px; line-height: 24px; font-weight: normal; padding: 15px 10px; border-bottom: 1px solid; border-bottom-color: inherit; margin: 0;}.wcc-audit-table .wcc-cookie-des-table:last-child{border-bottom: none;}.wcc-audit-table .wcc-cookie-des-table li{list-style-type: none; display: flex; padding: 3px 0;}.wcc-audit-table .wcc-cookie-des-table li:first-child{padding-top: 0;}.wcc-cookie-des-table li div:first-child{width: 100px; font-weight: 600; word-break: break-word; word-wrap: break-word;}.wcc-cookie-des-table li div:last-child{flex: 1; word-break: break-word; word-wrap: break-word; margin-left: 8px;}.wcc-footer-shadow{display: block; width: 100%; height: 40px; background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #ffffff 100%); position: absolute; bottom: calc(100% - 1px);}.wcc-footer-wrapper{position: relative;}.wcc-prefrence-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px; border-top: 1px solid;}.wcc-prefrence-btn-wrapper .wcc-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.wcc-btn-preferences{color: #1863dc; background: transparent; border: 2px solid #1863dc;}.wcc-preference-header,.wcc-preference-body-wrapper,.wcc-preference-content-wrapper,.wcc-accordion-wrapper,.wcc-accordion,.wcc-accordion-wrapper,.wcc-footer-wrapper,.wcc-prefrence-btn-wrapper{border-color: inherit;}@media (max-width: 845px){.wcc-modal{max-width: calc(100% - 16px);}}@media (max-width: 576px){.wcc-modal{max-width: 100%;}.wcc-preference-center{max-height: 100vh;}.wcc-prefrence-btn-wrapper{flex-direction: column;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding-right: 0;}.wcc-prefrence-btn-wrapper .wcc-btn{width: 100%; margin: 10px 0 0 0;}.wcc-prefrence-btn-wrapper .wcc-btn-reject{order: 3;}.wcc-prefrence-btn-wrapper .wcc-btn-accept{order: 1; margin-top: 0;}.wcc-prefrence-btn-wrapper .wcc-btn-preferences{order: 2;}}@media (max-width: 425px){.wcc-accordion-chevron{margin-right: 15px;}.wcc-notice-btn-wrapper{margin-top: 0;}.wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px;}}@media (max-width: 352px){.wcc-preference-header .wcc-preference-title{font-size: 16px;}.wcc-preference-header{padding: 16px 24px;}.wcc-preference-content-wrapper *, .wcc-accordion-header-des *{font-size: 12px;}.wcc-preference-content-wrapper, .wcc-preference-content-wrapper .wcc-show-more, .wcc-accordion-header .wcc-always-active, .wcc-accordion-header-des, .wcc-preference-content-wrapper .wcc-show-desc-btn, .wcc-notice-des a.wcc-policy{font-size: 12px;}.wcc-accordion-header .wcc-accordion-btn{font-size: 14px;}}.wcc-switch{display: flex;}.wcc-switch input[type=\"checkbox\"]{position: relative; width: 44px; height: 24px; margin: 0; background: #d0d5d2; -webkit-appearance: none; border-radius: 50px; cursor: pointer; outline: 0; border: none; top: 0;}.wcc-switch input[type=\"checkbox\"]:checked{background: #1863dc;}.wcc-switch input[type=\"checkbox\"]:before{position: absolute; content: \"\"; height: 20px; width: 20px; left: 2px; bottom: 2px; border-radius: 50%; background-color: white; -webkit-transition: 0.4s; transition: 0.4s; margin: 0;}.wcc-switch input[type=\"checkbox\"]:after{display: none;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(20px); -ms-transform: translateX(20px); transform: translateX(20px);}@media (max-width: 425px){.wcc-switch input[type=\"checkbox\"]{width: 38px; height: 21px;}.wcc-switch input[type=\"checkbox\"]:before{height: 17px; width: 17px;}.wcc-switch input[type=\"checkbox\"]:checked:before{-webkit-transform: translateX(17px); -ms-transform: translateX(17px); transform: translateX(17px);}}.wcc-consent-bar .wcc-banner-btn-close{position: absolute; right: 14px; top: 14px; background: none; border: none; cursor: pointer; padding: 0; margin: 0; min-height: 0; line-height: 0; height: auto; width: auto; text-shadow: none; box-shadow: none;}.wcc-consent-bar .wcc-banner-btn-close img{height: 10px; width: 10px; margin: 0;}.wcc-notice-group{font-size: 14px; line-height: 24px; font-weight: 400; color: #212121;}.wcc-notice-btn-wrapper .wcc-btn-do-not-sell{font-size: 14px; line-height: 24px; padding: 6px 0; margin: 0; font-weight: 500; background: none; border-radius: 2px; border: none; white-space: nowrap; cursor: pointer; text-align: left; color: #1863dc; background: transparent; border-color: transparent; box-shadow: none; text-shadow: none;}.wcc-consent-bar .wcc-banner-btn-close:focus-visible,.wcc-notice-btn-wrapper .wcc-btn-do-not-sell:focus-visible,.wcc-opt-out-btn-wrapper .wcc-btn:focus-visible,.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:focus-visible{outline: 2px solid #1863dc; outline-offset: 2px;}@media (max-width: 440px){.wcc-consent-container{width: 100%;}}@media (max-width: 352px){.wcc-notice-des a.wcc-policy, .wcc-notice-btn-wrapper .wcc-btn-do-not-sell{font-size: 12px;}}.wcc-opt-out-wrapper{padding: 12px 0;}.wcc-opt-out-wrapper .wcc-opt-out-checkbox-wrapper{display: flex; align-items: center;}.wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{font-size: 16px; font-weight: 700; line-height: 24px; margin: 0 0 0 12px; cursor: pointer;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox{background-color: #ffffff; border: 1px solid black; width: 20px; height: 18.5px; margin: 0; -webkit-appearance: none; position: relative; display: flex; align-items: center; justify-content: center; border-radius: 2px; cursor: pointer;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked{background-color: #1863dc; border: none;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked::after{left: 6px; bottom: 4px; width: 7px; height: 13px; border: solid #ffffff; border-width: 0 3px 3px 0; border-radius: 2px; -webkit-transform: rotate(45deg); -ms-transform: rotate(45deg); transform: rotate(45deg); content: \"\"; position: absolute; box-sizing: border-box;}.wcc-opt-out-checkbox-wrapper.wcc-disabled .wcc-opt-out-checkbox-label,.wcc-opt-out-checkbox-wrapper.wcc-disabled input[type=\"checkbox\"].wcc-opt-out-checkbox{cursor: no-drop;}.wcc-gpc-wrapper{margin: 0 0 0 32px;}.wcc-footer-wrapper .wcc-opt-out-btn-wrapper{display: flex; flex-wrap: wrap; align-items: center; justify-content: center; padding: 22px 24px;}.wcc-opt-out-btn-wrapper .wcc-btn{flex: auto; max-width: 100%; text-shadow: none; box-shadow: none;}.wcc-opt-out-btn-wrapper .wcc-btn-cancel{border: 1px solid #dedfe0; background: transparent; color: #858585;}.wcc-opt-out-btn-wrapper .wcc-btn-confirm{background: #1863dc; color: #ffffff; border: 1px solid #1863dc;}@media (max-width: 352px){.wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{font-size: 14px;}.wcc-gpc-wrapper .wcc-gpc-desc, .wcc-gpc-wrapper .wcc-gpc-desc *{font-size: 12px;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox{width: 16px; height: 16px;}.wcc-opt-out-checkbox-wrapper input[type=\"checkbox\"].wcc-opt-out-checkbox:checked::after{left: 5px; bottom: 4px; width: 3px; height: 9px;}.wcc-gpc-wrapper{margin: 0 0 0 28px;}}.video-placeholder-youtube{background-size: 100% 100%; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: center; justify-content: center; max-width: 100%;}.video-placeholder-text-youtube{text-align: center; align-items: center; padding: 10px 16px; background-color: #000000cc; color: #ffffff; border: 1px solid; border-radius: 2px; cursor: pointer;}.video-placeholder-text-youtube:hover{text-decoration:underline;}.video-placeholder-normal{background-image: url(\"/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/images/placeholder.svg\"); background-size: 80px; background-position: center; background-repeat: no-repeat; background-color: #b2b0b059; position: relative; display: flex; align-items: flex-end; justify-content: center; max-width: 100%;}.video-placeholder-text-normal{align-items: center; padding: 10px 16px; text-align: center; border: 1px solid; border-radius: 2px; cursor: pointer;}.wcc-rtl{direction: rtl; text-align: right;}.wcc-rtl .wcc-banner-btn-close{left: 9px; right: auto;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 8px;}.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-notice-btn-wrapper{margin-left: 0; margin-right: 15px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 8px;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-accordion .wcc-accordion-chevron i::before{border: none; border-left: 1.4px solid; border-top: 1.4px solid; left: 12px;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-chevron i::before{-webkit-transform: rotate(-135deg); -moz-transform: rotate(-135deg); -ms-transform: rotate(-135deg); -o-transform: rotate(-135deg); transform: rotate(-135deg);}@media (max-width: 768px){.wcc-rtl .wcc-notice-btn-wrapper{margin-right: 0;}}@media (max-width: 576px){.wcc-rtl .wcc-notice-btn-wrapper .wcc-btn:last-child{margin-right: 0;}.wcc-rtl .wcc-prefrence-btn-wrapper .wcc-btn{margin-right: 0;}.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 22px 0 0;}}@media (max-width: 425px){.wcc-rtl .wcc-accordion.wcc-accordion-active .wcc-accordion-body{padding: 0 15px 0 0;}}@media (max-width: 440px){.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}} @media (min-width: 768px) and (max-width: 1024px) {.wcc-consent-bar .wcc-banner-btn-close,.wcc-preference-header .wcc-btn-close{padding: 17px;}.wcc-consent-bar .wcc-banner-btn-close {right: 2px; top: 6px; } .wcc-preference-header{padding: 12px 0 12px 24px;}}.wcc-rtl .wcc-opt-out-btn-wrapper .wcc-btn{margin-right: 12px;}.wcc-rtl .wcc-opt-out-btn-wrapper .wcc-btn:first-child{margin-right: 0;}.wcc-rtl .wcc-opt-out-checkbox-wrapper .wcc-opt-out-checkbox-label{margin: 0 12px 0 0;}@media (max-height: 480px) {.wcc-consent-container {max-height: 100vh; overflow-y: scroll;} .wcc-notice-des { max-height: unset; overflow-y: unset; } .wcc-preference-center { height: 100vh; overflow: auto; } .wcc-preference-center .wcc-preference-body-wrapper { overflow: unset; } }"}};
+var _wccApi = {"base":"https://postenlive.dk/wp-json/wcc/v1/","nonce":"8e077ccbf5"};
+var _wccGCMConfig = {"_mode":"advanced","_urlPassthrough":"","_debugMode":"","_redactData":"","_regions":[],"_wccBypass":"","wait_for_update":"500","_isGTMTemplate":""};
+//# sourceURL=webtoffee-cookie-consent-js-extra
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://postenlive.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/js/script.min.js?ver=3.5.2" id="webtoffee-cookie-consent-js"></script>
+<script type="text/javascript" src="https://postenlive.dk/wp-content/plugins/webtoffee-cookie-consent/lite/frontend/js/gcm.min.js?ver=3.5.2" id="webtoffee-cookie-consent-gcm-js"></script>
+<script type="text/javascript" src="https://postenlive.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://postenlive.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://postenlive.billetten.dk/basm/sbasm-script?ver=6.9.7" id="basm2-js"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://postenlive.dk/xmlrpc.php?rsd" />
+<style id="wcc-style-inline">[data-tag]{visibility:hidden;}</style><!-- SEO meta tags powered by SmartCrawl https://wpmudev.com/project/smartcrawl-wordpress-seo/ -->
+<meta name="description" content="Musikhuset Posten, der ligger i hjertet af Odense, lægger altid vægt på at præsentere publikum for livemusik af høj kvalitet." />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/postenlive.dk\/#schema-publishing-organization","url":"https:\/\/postenlive.dk","name":"Musikhuset Posten","description":"Regionalt spillested i Odense"},{"@type":"WebSite","@id":"https:\/\/postenlive.dk\/#schema-website","url":"https:\/\/postenlive.dk","name":"Musikhuset Posten","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/postenlive.dk\/search\/{search_term_string}\/","query-input":"required name=search_term_string"}},{"@type":"BreadcrumbList","@id":"https:\/\/postenlive.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"Person","@id":"https:\/\/postenlive.dk\/author\/marginal\/#schema-author","name":"Marginal","url":"https:\/\/postenlive.dk\/author\/marginal\/"}]}</script>
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://postenlive.dk/" />
+<meta property="og:title" content="Posten Live | Musikhuset Posten" />
+<meta property="og:description" content="Musikhuset Posten, der ligger i hjertet af Odense, lægger altid vægt på at præsentere publikum for livemusik af høj kvalitet." />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Posten Live | Musikhuset Posten" />
+<meta name="twitter:description" content="Musikhuset Posten, der ligger i hjertet af Odense, lægger altid vægt på at præsentere publikum for livemusik af høj kvalitet." />
+<!-- /SEO -->
+<link rel="icon" href="https://postenlive.dk/wp-content/uploads/2021/10/posten_fav-03-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://postenlive.dk/wp-content/uploads/2021/10/posten_fav-03-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://postenlive.dk/wp-content/uploads/2021/10/posten_fav-03-300x300.png" />
+<meta name="msapplication-TileImage" content="https://postenlive.dk/wp-content/uploads/2021/10/posten_fav-03-300x300.png" />
+<!-- [HEADER ASSETS] -->
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/font_styles/custom_font_eve_clean.css?v=ed6080569bee3aa4a5404fc5bf0cbbbb&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/font_styles/custom_font_eveleth.css?v=8a1778eae655adcd13a24ef896d27840&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/font_styles/custom_font_eveleth_clean.css?v=5d605285b4f91a743ae06429ccc55c04&bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-fancy-background@1/fancy-background.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://dexter.dk/wp-content/uploads/sites/2/breakdance/font_styles/custom_font_eveleth.css?v=8041e48e2b91024c832770013304e797" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-form@1/css/form.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/breakdance-posts@1/posts.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/plugin/animations/entrance/css/entrance.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/swiper@8/swiper-bundle.min.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/swiper@8/breakdance-swiper-preset-defaults.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/awesome-menu@1/awesome-menu.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/popups@1/popups.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/plugins/breakdance/subplugins/breakdance-elements/dependencies-files/lightgallery@2/css/lightgallery-bundle.min.css?bd_ver=2.7.2" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11523-defaults.css?v=044026ff941965aa3f2583995bd797ee" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-50-defaults.css?v=72861d00b7cad575bf5c04e894b7400c" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11627-defaults.css?v=d32d627083391e849f4f7c1d31b9efa9" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/sites/2/breakdance/css/post-11444-defaults.css?v=b581d205e23bc96174210ebdfdb0ff0b" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12224-defaults.css?v=db9c32da4c9884e2c8494729e5d5e009" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12350-defaults.css?v=12688f878644fd626a298a5e4e660c1f" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11595-defaults.css?v=3ce284fb4053035cc23412805f683004" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12472-defaults.css?v=393b2f2d353e04d6b21077b41c83350d" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12292-defaults.css?v=3535d44e02db040b53970dfe08dbadec" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11961-defaults.css?v=df4fd53773e89ba974adb21b6365cae2" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/global-settings.css?v=6e434e897b723aa1d93b0d45ce7558de" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/selectors.css?v=4b3249477a2b9766692c6c7ef2c93cba" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11523.css?v=8c27d0be15049f1c9483ee60be4170d5" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-50.css?v=e36dd464d9977da429d749581fb8dc41" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11627.css?v=ad7e6f49b48371d3563789ba3f0ea58c" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/sites/2/breakdance/css/post-11444.css?v=beb4eab50e4ced696d463e7d0af08cc3" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12224.css?v=5d5895f0f7e5ffc8a7f38d05a9a38f7a" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12350.css?v=60bf8c53e9262f797a3b74e323d04286" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11595.css?v=2dcdb2a7c578b5514eca389130fe7f0a" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12472.css?v=54610d7155bca9859ef239f3d81016f3" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-12292.css?v=574a50214b80e1a7937cc574a5c74317" />
+
+<link rel="stylesheet" href="https://postenlive.dk/wp-content/uploads/breakdance/css/post-11961.css?v=5002ee837fdee813ab5c78109ccee704" />
+<!-- [/EOF HEADER ASSETS] -->
+<!-- Load Facebook SDK for JavaScript -->
+  <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/da_DK/sdk.js#xfbml=1&version=v2.5&appId=939537486107563";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- Facebook OG integration -->
+	
+<!-- Meta Pixel Code -->
+
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '6117829964910027');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=6117829964910027&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
+
+<!-- Global site tag (gtag.js) - Google Ads: 10965843982 -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-10965843982"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date()); 
+  gtag('config', 'AW-10965843982');
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QJ7E30R9BN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QJ7E30R9BN');
+</script>
+<!-- the default values -->
+<meta property="fb:app_id" content="382738311913277" />
+<meta property="fb:admins" content="544889094" />    </head>
+    
+    <body class="home wp-singular page-template-default page page-id-50 wp-theme-breakdance-zero breakdance site-id-1">
+        <svg class="breakdance-global-gradients-sprite" aria-hidden="true"><linearGradient x1="0.32783619335516734" y1="1" x2="0.6721638066448327" y2="0" id="bde-palette-red-feature-60516b9b-9526-4992-8b00-7bef0872ccc8-gradient-7"><stop stop-opacity="1" stop-color="#ff0000" offset="0"></stop><stop stop-opacity="0.48" stop-color="#ff0000" offset="0.33333333333333337"></stop><stop stop-opacity="0.72" stop-color="#ffffff" offset="0.5333333333333333"></stop><stop stop-opacity="0" stop-color="#ffffff" offset="1"></stop></linearGradient><linearGradient x1="0.32783619335516734" y1="1" x2="0.6721638066448327" y2="0" id="bde-palette-slide-bg-e97b330f-40ad-487d-ba26-52e383e9c042-gradient-7"><stop stop-opacity="1" stop-color="#ff0000" offset="0"></stop><stop stop-opacity="0.48" stop-color="#ff0000" offset="0.33333333333333337"></stop><stop stop-opacity="0.72" stop-color="#ffffff" offset="0.5846153846153846"></stop><stop stop-opacity="0" stop-color="#ffffff" offset="1"></stop></linearGradient></svg>            <section class="bde-section-11523-100 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-image-11523-118 bde-image">
+<figure class="breakdance-image breakdance-image--14612">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><a class="breakdance-image-link breakdance-image-link--url" href="/" target="_self" rel="noopener" data-sub-html="" data-lg-size="-"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID.png" width="2000" height="925" srcset="https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID.png 2000w, https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID-300x139.png 300w, https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID-1024x474.png 1024w, https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID-768x355.png 768w, https://postenlive.dk/wp-content/uploads/2024/03/POSTEN40-CLEAN-HVID-1536x710.png 1536w" sizes="(max-width: 2000px) 100vw, 2000px" loading="lazy"></a></div>
+	</div></figure>
+
+</div><a class="bde-container-link-11523-123 bde-container-link toggle-menu breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12472&quot;,&quot;popupAction&quot;:&quot;toggle&quot;}}">
+  
+  
+	
+
+
+
+<div class="bde-code-block-11523-122 bde-code-block">
+
+  <div class="main-menu-toggle">
+  <span></span>
+  <span></span>
+  <span></span>
+</div>
+
+
+</div>
+
+</a><a class="bde-container-link-11523-126 bde-container-link basm basm_profile_btn breakdance-link" href="#" target="_self">
+  
+  
+	
+
+
+
+<div class="bde-image-11523-128 bde-image">
+<figure class="breakdance-image breakdance-image--12325">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/Group-14041.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a><a class="bde-container-link-11523-129 bde-container-link basm basm_basket_btn breakdance-link" href="#" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11523-130 bde-image">
+<figure class="breakdance-image breakdance-image--12324">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2024/03/Group-14040.svg" width="" height=""></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11523-133 bde-div">
+  
+  
+	
+
+
+
+
+</div></div>
+</section><section class="bde-section-50-159 bde-section">
+              
+  
+  
+	    
+      <div class="section-background-video">
+              <video
+          autoplay
+          muted
+                      playsinline
+                                loop
+                          >
+        <source src="https://postenlive.dk/wp-content/uploads/2024/06/Posten-Intro-video-muted.mp4" type="video/mp4" />
+      </video>
+      </div>
+
+
+
+
+<div class="section-container"></div>
+</section><section id="theevents" class="bde-section-50-199 bde-section">
+  
+  
+	
+
+
+
+<div class="section-container"><div class="bde-div-50-266 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-div-50-304 bde-div">
+  
+  
+	
+
+
+
+<h1 class="bde-heading-50-246 bde-heading">
+Kalender
+</h1><div class="bde-div-50-305 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-code-block-50-324 bde-code-block t-list">
+
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+      <path id="Path_53" data-name="Path 53" d="M37.21.1H.608A.509.509,0,0,0,.1.606v36.6a.509.509,0,0,0,.51.508h36.6a.507.507,0,0,0,.508-.508V.606A.507.507,0,0,0,37.21.1M36.7,36.7H1.116V26.021l.012,0H36.7Zm0-23.217V25.007H1.128l-.012,0V13.486H36.678l.016,0a.505.505,0,0,0,0-1.011l-.016,0H1.116V1.114H36.7V12.472a.505.505,0,0,1,0,1.011" transform="translate(0.092 0.092)" />
+      <path id="Path_54" data-name="Path 54" d="M37.3,38H.7a.7.7,0,0,1-.7-.7V.7A.7.7,0,0,1,.7,0H37.3a.7.7,0,0,1,.7.7V37.3a.7.7,0,0,1-.7.7M.7.38A.318.318,0,0,0,.382.7V37.3a.316.316,0,0,0,.316.316H37.3a.318.318,0,0,0,.318-.316V.7A.32.32,0,0,0,37.3.38Zm36.1,36.6H1.207a.19.19,0,0,1-.19-.19V26.113a.19.19,0,0,1,.221-.188H36.793a.191.191,0,0,1,.19.192V36.793a.19.19,0,0,1-.19.19M1.4,36.6H36.6V26.307H1.4ZM36.793,25.291H1.218a.2.2,0,0,1-.2-.188V13.578a.191.191,0,0,1,.19-.192H36.753l.033,0a.315.315,0,0,0-.008-.63.19.19,0,0,1-.056-.01l-35.515.008a.191.191,0,0,1-.19-.192V1.207a.19.19,0,0,1,.19-.19H36.793a.19.19,0,0,1,.19.19V12.4a.687.687,0,0,1,.44.4.715.715,0,0,1,.052.268v0a.693.693,0,0,1-.493.665V25.1a.19.19,0,0,1-.19.19M1.4,13.768V24.91l35.2,0V13.765Zm0-1.4H36.6V1.4H1.4Z" transform="translate(0 0)"/>
+
+</svg>
+
+
+
+</div><div class="bde-code-block-50-325 bde-code-block t-box active">
+
+  <svg id="Group_76" data-name="Group 76" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+    <path id="Path_55" data-name="Path 55" d="M37.68.32A.689.689,0,0,0,37.106,0H.894A.689.689,0,0,0,.32.32.686.686,0,0,0,0,.894V37.106a.689.689,0,0,0,.32.574A.689.689,0,0,0,.894,38H37.106A1.2,1.2,0,0,0,38,37.106V.894A.691.691,0,0,0,37.68.32M36.4,18.186H19.814V1.6H36.4Zm-18,0H1.6V1.6H18.406ZM1.6,19.594H18.406V36.4H1.6Zm18.217,0H36.4V36.4H19.814Z" transform="translate(0 0)"/>
+
+</svg>
+
+
+
+</div>
+</div>
+</div><div class="bde-div-50-194 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-icon-list-50-298 bde-icon-list bde-icon-list--background">
+<ul>
+  
+              
+    <li>
+              <div class='bde-icon-list__item-wrapper'>
+      
+      <span class='bde-icon-list__icon' aria-hidden='true'>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.333" height="25.206" viewBox="0 0 22.333 25.206">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_95" data-name="Rectangle 95" width="22.333" height="25.206" fill="#232323"/>
+    </clipPath>
+  </defs>
+  <g id="Group_80" data-name="Group 80" transform="translate(0 0)">
+    <g id="Group_79" data-name="Group 79" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_60" data-name="Path 60" d="M3.434,20.571a3.335,3.335,0,1,1,3.336-3.335,3.339,3.339,0,0,1-3.336,3.335m0-5.977a2.642,2.642,0,1,0,2.642,2.642,2.645,2.645,0,0,0-2.642-2.642" transform="translate(0.032 4.506)" fill="#232323"/>
+      <path id="Path_61" data-name="Path 61" d="M3.465,20.733a3.466,3.466,0,1,1,3.465-3.467,3.47,3.47,0,0,1-3.465,3.467m0-6.671a3.205,3.205,0,1,0,3.206,3.2,3.209,3.209,0,0,0-3.206-3.2m0,5.976a2.771,2.771,0,1,1,2.771-2.771,2.775,2.775,0,0,1-2.771,2.771m0-5.282a2.511,2.511,0,1,0,2.511,2.511,2.513,2.513,0,0,0-2.511-2.511" transform="translate(0 4.474)" fill="#232323"/>
+      <path id="Path_62" data-name="Path 62" d="M15.065,18.314A3.335,3.335,0,1,1,18.4,14.978a3.339,3.339,0,0,1-3.335,3.336m0-5.977a2.641,2.641,0,1,0,2.642,2.642,2.645,2.645,0,0,0-2.642-2.642" transform="translate(3.802 3.774)" fill="#232323"/>
+      <path id="Path_63" data-name="Path 63" d="M15.1,18.476a3.466,3.466,0,1,1,3.465-3.465A3.469,3.469,0,0,1,15.1,18.476m0-6.671A3.205,3.205,0,1,0,18.3,15.011,3.209,3.209,0,0,0,15.1,11.8m0,5.977a2.771,2.771,0,1,1,2.771-2.771A2.775,2.775,0,0,1,15.1,17.782m0-5.283a2.511,2.511,0,1,0,2.511,2.512A2.515,2.515,0,0,0,15.1,12.5" transform="translate(3.77 3.742)" fill="#232323"/>
+      <path id="Path_64" data-name="Path 64" d="M4.959,22.056a.346.346,0,0,1-.347-.347V3.319A.347.347,0,0,1,4.9,2.978L20.3.1a.347.347,0,0,1,.41.342V18.72a.347.347,0,1,1-.694,0V.863L5.306,3.607v18.1a.346.346,0,0,1-.347.347" transform="translate(1.495 0.033)" fill="#232323"/>
+      <path id="Path_65" data-name="Path 65" d="M4.991,22.218a.478.478,0,0,1-.477-.477V3.351a.477.477,0,0,1,.389-.47L20.306.008a.481.481,0,0,1,.392.1.476.476,0,0,1,.172.368V18.752a.477.477,0,0,1-.955,0V1.051L5.469,3.747V21.741a.478.478,0,0,1-.478.477M20.392.261a.216.216,0,0,0-.041,0L4.951,3.137a.22.22,0,0,0-.177.215v18.39a.217.217,0,0,0,.434,0V3.639a.129.129,0,0,1,.106-.127L20.022.768A.124.124,0,0,1,20.128.8a.126.126,0,0,1,.048.1V18.752a.217.217,0,1,0,.434,0V.478a.215.215,0,0,0-.079-.167.211.211,0,0,0-.139-.05" transform="translate(1.463 0.001)" fill="#232323"/>
+      <path id="Path_66" data-name="Path 66" d="M4.959,6.278A.347.347,0,0,1,4.9,5.59L20.3,2.716a.347.347,0,0,1,.127.683L5.022,6.273a.514.514,0,0,1-.064.005" transform="translate(1.495 0.879)" fill="#232323"/>
+      <path id="Path_67" data-name="Path 67" d="M4.99,6.441A.477.477,0,0,1,4.9,5.494L20.3,2.621a.478.478,0,0,1,.176.939L5.078,6.433a.525.525,0,0,1-.089.008m15.4-3.567a.2.2,0,0,0-.04,0L4.951,5.75a.218.218,0,1,0,.081.428L20.433,3.3a.218.218,0,0,0,.172-.254.215.215,0,0,0-.215-.176" transform="translate(1.463 0.848)" fill="#232323"/>
+    </g>
+  </g>
+</svg>
+      </span>
+      <span class='bde-icon-list__text' >
+      Genre<br><div class="type-selector"><span class="selected-option">Alle</span></div>
+      </span>
+              </div>
+      
+    </li>
+
+  
+              
+    <li>
+              <div class='bde-icon-list__item-wrapper'>
+      
+      <span class='bde-icon-list__icon' aria-hidden='true'>
+        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16.787" height="27.674" viewBox="0 0 16.787 27.674">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_94" data-name="Rectangle 94" width="16.787" height="27.674" fill="#232323"/>
+    </clipPath>
+  </defs>
+  <g id="Group_78" data-name="Group 78" transform="translate(0 0)">
+    <g id="Group_77" data-name="Group 77" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Path_56" data-name="Path 56" d="M8.349,27.489a.382.382,0,0,1-.344-.218L.865,12.006a8.5,8.5,0,0,1,.476-7.955A8.054,8.054,0,0,1,7.9.11,8.65,8.65,0,0,1,8.8.11a8.056,8.056,0,0,1,6.554,3.942A8.5,8.5,0,0,1,15.835,12L8.694,27.27a.382.382,0,0,1-.344.218m0-26.633c-.14,0-.279,0-.417.01A7.311,7.311,0,0,0,1.989,4.445a7.741,7.741,0,0,0-.435,7.243l6.8,14.526,6.8-14.529a7.744,7.744,0,0,0-.437-7.24A7.315,7.315,0,0,0,8.766.866c-.137-.007-.278-.01-.417-.01" transform="translate(0.044 0.043)" fill="#232323"/>
+      <path id="Path_57" data-name="Path 57" d="M8.393,27.675a.527.527,0,0,1-.473-.3L.78,12.112a8.649,8.649,0,0,1,.483-8.089A8.2,8.2,0,0,1,7.932.011c.307-.014.616-.014.923,0a8.2,8.2,0,0,1,6.669,4.011,8.642,8.642,0,0,1,.486,8.083L8.866,27.374a.527.527,0,0,1-.473.3m0-27.391c-.149,0-.3,0-.448.012A7.916,7.916,0,0,0,1.506,4.17a8.365,8.365,0,0,0-.469,7.822L8.179,27.254a.247.247,0,0,0,.428,0L15.75,11.987a8.358,8.358,0,0,0-.47-7.817A7.918,7.918,0,0,0,8.84.3c-.148-.009-.3-.012-.447-.012m0,26.116a.143.143,0,0,1-.129-.081l-6.8-14.526a7.887,7.887,0,0,1,.443-7.377A7.447,7.447,0,0,1,7.969.769a8.284,8.284,0,0,1,.848,0,7.45,7.45,0,0,1,6.058,3.647,7.877,7.877,0,0,1,.444,7.372L8.522,26.32a.143.143,0,0,1-.129.081m0-25.358c-.137,0-.275,0-.409.01a7.169,7.169,0,0,0-5.83,3.511,7.6,7.6,0,0,0-.428,7.11l6.667,14.25,6.669-14.254a7.6,7.6,0,0,0-.43-7.105A7.173,7.173,0,0,0,8.8,1.053c-.135-.006-.272-.01-.409-.01" transform="translate(0 0)" fill="#232323"/>
+      <path id="Path_58" data-name="Path 58" d="M7.2,11.755a4.528,4.528,0,1,1,4.528-4.528A4.533,4.533,0,0,1,7.2,11.755m0-8.3a3.77,3.77,0,1,0,3.77,3.77A3.774,3.774,0,0,0,7.2,3.458" transform="translate(1.193 1.205)" fill="#232323"/>
+      <path id="Path_59" data-name="Path 59" d="M7.244,11.941a4.67,4.67,0,1,1,4.669-4.669,4.676,4.676,0,0,1-4.669,4.669m0-9.055A4.386,4.386,0,1,0,11.63,7.272,4.391,4.391,0,0,0,7.244,2.886m0,8.3a3.912,3.912,0,1,1,3.911-3.911,3.916,3.916,0,0,1-3.911,3.911m0-7.539a3.628,3.628,0,1,0,3.628,3.628A3.632,3.632,0,0,0,7.244,3.644" transform="translate(1.149 1.161)" fill="#232323"/>
+    </g>
+  </g>
+</svg>
+      </span>
+      <span class='bde-icon-list__text' >
+      Lokation<br><div class="location-selector"><span>Posten</span></div>
+      </span>
+              </div>
+      
+    </li>
+
+  </ul>
+
+</div>
+</div><div id="showselect" class="bde-div-50-196 bde-div">
+  
+  
+	
+
+
+
+<div class="bde-code-block-50-322 bde-code-block t-list">
+
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+      <path id="Path_53" data-name="Path 53" d="M37.21.1H.608A.509.509,0,0,0,.1.606v36.6a.509.509,0,0,0,.51.508h36.6a.507.507,0,0,0,.508-.508V.606A.507.507,0,0,0,37.21.1M36.7,36.7H1.116V26.021l.012,0H36.7Zm0-23.217V25.007H1.128l-.012,0V13.486H36.678l.016,0a.505.505,0,0,0,0-1.011l-.016,0H1.116V1.114H36.7V12.472a.505.505,0,0,1,0,1.011" transform="translate(0.092 0.092)" />
+      <path id="Path_54" data-name="Path 54" d="M37.3,38H.7a.7.7,0,0,1-.7-.7V.7A.7.7,0,0,1,.7,0H37.3a.7.7,0,0,1,.7.7V37.3a.7.7,0,0,1-.7.7M.7.38A.318.318,0,0,0,.382.7V37.3a.316.316,0,0,0,.316.316H37.3a.318.318,0,0,0,.318-.316V.7A.32.32,0,0,0,37.3.38Zm36.1,36.6H1.207a.19.19,0,0,1-.19-.19V26.113a.19.19,0,0,1,.221-.188H36.793a.191.191,0,0,1,.19.192V36.793a.19.19,0,0,1-.19.19M1.4,36.6H36.6V26.307H1.4ZM36.793,25.291H1.218a.2.2,0,0,1-.2-.188V13.578a.191.191,0,0,1,.19-.192H36.753l.033,0a.315.315,0,0,0-.008-.63.19.19,0,0,1-.056-.01l-35.515.008a.191.191,0,0,1-.19-.192V1.207a.19.19,0,0,1,.19-.19H36.793a.19.19,0,0,1,.19.19V12.4a.687.687,0,0,1,.44.4.715.715,0,0,1,.052.268v0a.693.693,0,0,1-.493.665V25.1a.19.19,0,0,1-.19.19M1.4,13.768V24.91l35.2,0V13.765Zm0-1.4H36.6V1.4H1.4Z" transform="translate(0 0)"/>
+
+</svg>
+
+
+
+</div><div class="bde-code-block-50-323 bde-code-block t-box active">
+
+  <svg id="Group_76" data-name="Group 76" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="38" viewBox="0 0 38 38">
+    <path id="Path_55" data-name="Path 55" d="M37.68.32A.689.689,0,0,0,37.106,0H.894A.689.689,0,0,0,.32.32.686.686,0,0,0,0,.894V37.106a.689.689,0,0,0,.32.574A.689.689,0,0,0,.894,38H37.106A1.2,1.2,0,0,0,38,37.106V.894A.691.691,0,0,0,37.68.32M36.4,18.186H19.814V1.6H36.4Zm-18,0H1.6V1.6H18.406ZM1.6,19.594H18.406V36.4H1.6Zm18.217,0H36.4V36.4H19.814Z" transform="translate(0 0)"/>
+
+</svg>
+
+
+
+</div>
+</div>
+</div><div id="calbox" class="bde-shortcode-50-200 bde-shortcode"><div id="nkt-event-container">
+    <div class="background-2 test">
+
+        <!-- relocated by js -->
+        <div class="container" id="typeselection">
+            <ul class="nav nav-pills select" id="typemenu">
+                <li role="presentation" class="typechoice active">Alle</li>
+                <li role="presentation" class="typechoice " data-key="soul">Soul</li><li role="presentation" class="typechoice " data-key="rock">Rock</li><li role="presentation" class="typechoice " data-key="pop">Pop</li><li role="presentation" class="typechoice " data-key="metalhard-rock">Metal/Hard Rock/Punk</li><li role="presentation" class="typechoice " data-key="blues">Blues</li><li role="presentation" class="typechoice " data-key="urban">HipHop</li><li role="presentation" class="typechoice " data-key="alternative">Alternative/Elektronisk</li><li role="presentation" class="typechoice " data-key="folk">Folk/Country/Americana</li><li role="presentation" class="typechoice " data-key="jazz">Jazz/Funk/Global Roots</li><li role="presentation" class="typechoice " data-key="special">Specials</li>            </ul>
+        </div>
+
+        <!-- relocated by js -->
+        <div class="container" id="venueselection">
+            <ul class="nav nav-pills select" id="venuemenu">
+                <li role="presentation" class="venuechoice " data-key="posten">Posten</li><li role="presentation" class="venuechoice " data-key="posten-dexter">Posten & Dexter</li>            </ul>
+        </div>
+
+        <div class="background-1">
+            <div class="container box" id="eventlist">
+                <div class="event-wrapper-list">
+                    <div class="g-event event-box site-1" data-event="16835">
+    <div class="bde-div-11627-115-11627-1 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-1 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/the-white-buffalo/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-1 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--16836">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026.jpg" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026.jpg 1920w, https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026-300x169.jpg 300w, https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026-1024x576.jpg 1024w, https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026-768x432.jpg 768w, https://postenlive.dk/wp-content/uploads/2026/03/the-white-buffalo-2026-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-1 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-1 bde-shortcode t-speaker bde-shortcode-11627-130">
+		<div class="t-wrapper">
+        <a class="bde-container-link-11627-122-11627-3 bde-container-link t-pop bde-container-link-11627-122 breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12292&quot;,&quot;popupAction&quot;:&quot;open&quot;}}" ref="16835">
+            <div class="bde-image-11627-121-11627-3 bde-image bde-image-11627-121">
+                <figure class="breakdance-image breakdance-image--12290">
+                    <div class="breakdance-image-container">
+                        <div class="breakdance-image-clip">
+						
+							<svg id="Group_62" data-name="Group 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.377" height="21.912" viewBox="0 0 27.377 21.912">
+							  <defs>
+								<clipPath id="clip-path">
+								  <rect id="Rectangle_89" data-name="Rectangle 89" width="27.377" height="21.912" fill="#9c091d"/>
+								</clipPath>
+							  </defs>
+							  <g id="Group_61" data-name="Group 61" transform="translate(0 0)" clip-path="url(#clip-path)">
+								<path id="Path_35" data-name="Path 35" d="M4.742,12.826H.485A.386.386,0,0,1,.1,12.44V4.571a.387.387,0,0,1,.387-.387H4.742a.387.387,0,0,1,.387.387V12.44a.386.386,0,0,1-.387.387m-3.87-.774H4.355V4.958H.872Z" transform="translate(0.047 1.994)" fill="#9c091d"/>
+								<path id="Path_36" data-name="Path 36" d="M4.789,13.019H.532A.533.533,0,0,1,0,12.486V4.619a.533.533,0,0,1,.532-.533H4.789a.534.534,0,0,1,.533.533v7.867a.534.534,0,0,1-.533.533M.532,4.377a.241.241,0,0,0-.241.242v7.867a.241.241,0,0,0,.241.242H4.789a.242.242,0,0,0,.242-.242V4.619a.242.242,0,0,0-.242-.242ZM4.4,12.244H.918A.145.145,0,0,1,.774,12.1V5.006A.145.145,0,0,1,.918,4.86H4.4a.145.145,0,0,1,.145.146V12.1a.145.145,0,0,1-.145.145m-3.337-.289H4.257v-6.8H1.065Z" transform="translate(0 1.948)" fill="#9c091d"/>
+								<path id="Path_37" data-name="Path 37" d="M15.688,21.719a.388.388,0,0,1-.189-.049L3.179,14.753a.387.387,0,0,1,.378-.675L15.3,20.671V1.106L3.539,6.895a.389.389,0,0,1-.518-.177A.385.385,0,0,1,3.2,6.2L15.517.138a.387.387,0,0,1,.558.347V21.333a.385.385,0,0,1-.192.334.379.379,0,0,1-.195.053" transform="translate(1.421 0.047)" fill="#9c091d"/>
+								<path id="Path_38" data-name="Path 38" d="M15.736,21.912a.539.539,0,0,1-.261-.068L3.154,14.927A.532.532,0,0,1,3.675,14L15.2,20.471V1.387L3.65,7.073a.533.533,0,0,1-.471-.955L15.5.055a.534.534,0,0,1,.769.477V21.379a.531.531,0,0,1-.266.459.513.513,0,0,1-.267.074M3.415,14.221a.241.241,0,0,0-.211.124.242.242,0,0,0,.093.329l12.321,6.916a.242.242,0,0,0,.239,0,.245.245,0,0,0,.12-.21V.532a.245.245,0,0,0-.112-.205.249.249,0,0,0-.236-.012L3.309,6.377A.242.242,0,0,0,3.2,6.7a.242.242,0,0,0,.323.109L15.284,1.023a.147.147,0,0,1,.211.13V20.719a.146.146,0,0,1-.219.126L3.533,14.252a.239.239,0,0,0-.118-.031" transform="translate(1.374 0)" fill="#9c091d"/>
+								<path id="Path_39" data-name="Path 39" d="M13.759,14.6a.387.387,0,0,1-.281-.653,7.288,7.288,0,0,0-.016-10.024.387.387,0,0,1,.561-.533,8.061,8.061,0,0,1,.016,11.089.379.379,0,0,1-.281.121" transform="translate(6.365 1.561)" fill="#9c091d"/>
+								<path id="Path_40" data-name="Path 40" d="M13.806,14.8a.533.533,0,0,1-.387-.9A7.14,7.14,0,0,0,13.4,4.074a.531.531,0,0,1,.019-.752.586.586,0,0,1,.379-.146.529.529,0,0,1,.372.164,8.207,8.207,0,0,1,.018,11.288.53.53,0,0,1-.387.167M13.79,3.465a.242.242,0,0,0-.242.236.238.238,0,0,0,.066.171A7.435,7.435,0,0,1,13.63,14.1a.231.231,0,0,0-.065.171.238.238,0,0,0,.075.17.246.246,0,0,0,.341-.01,7.915,7.915,0,0,0-.016-10.888.238.238,0,0,0-.17-.075Z" transform="translate(6.318 1.514)" fill="#9c091d"/>
+								<path id="Path_41" data-name="Path 41" d="M15.94,19.311a.387.387,0,0,1-.281-.653,12.466,12.466,0,0,0-.028-17.14.387.387,0,0,1,.561-.533,13.235,13.235,0,0,1,.028,18.2.379.379,0,0,1-.281.121" transform="translate(7.399 0.412)" fill="#9c091d"/>
+								<path id="Path_42" data-name="Path 42" d="M15.986,19.5a.532.532,0,0,1-.532-.517.523.523,0,0,1,.145-.379,12.319,12.319,0,0,0-.027-16.941.532.532,0,1,1,.771-.732,13.381,13.381,0,0,1,.03,18.4.537.537,0,0,1-.387.165M15.958,1.056a.242.242,0,0,0-.176.409A12.607,12.607,0,0,1,15.81,18.8a.24.24,0,0,0-.066.173.242.242,0,0,0,.418.158,13.092,13.092,0,0,0-.028-18,.238.238,0,0,0-.17-.075Z" transform="translate(7.352 0.366)" fill="#9c091d"/>
+							  </g>
+							</svg>
+						</div>
+                    </div>
+                </figure>
+            </div>
+        </a></div></div><h3 class="bde-heading-11627-109-11627-1 bde-heading bde-heading-11627-109">
+The White Buffalo (US)
+</h3><div class="bde-text-11627-119-11627-1 bde-text bde-text-11627-119">
+Special Guest: Daisy Duke
+</div><div class="bde-div-11627-125-11627-1 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-1 bde-shortcode bde-shortcode-11627-110">13. august 2026</div><div class="bde-shortcode-11627-123-11627-1 bde-shortcode bde-shortcode-11627-123"><a onclick="basm.showProfile();" style="cursor:pointer;">
+                <svg x="0px" y="0px" width="16px" height="16px" viewBox="0 0 438.529 438.529" style="enable-background:new 0 0 438.529 438.529;"
+                   xml:space="preserve">
+                <g>
+                  <g>
+                    <path d="M219.265,219.267c30.271,0,56.108-10.71,77.518-32.121c21.412-21.411,32.12-47.248,32.12-77.515
+                      c0-30.262-10.708-56.1-32.12-77.516C275.366,10.705,249.528,0,219.265,0S163.16,10.705,141.75,32.115
+                      c-21.414,21.416-32.121,47.253-32.121,77.516c0,30.267,10.707,56.104,32.121,77.515
+                      C163.166,208.557,189.001,219.267,219.265,219.267z"/>
+                    <path d="M419.258,335.036c-0.668-9.609-2.002-19.985-3.997-31.121c-1.999-11.136-4.524-21.457-7.57-30.978
+                      c-3.046-9.514-7.139-18.794-12.278-27.836c-5.137-9.041-11.037-16.748-17.703-23.127c-6.666-6.377-14.801-11.465-24.406-15.271
+                      c-9.617-3.805-20.229-5.711-31.84-5.711c-1.711,0-5.709,2.046-11.991,6.139c-6.276,4.093-13.367,8.662-21.266,13.708
+                      c-7.898,5.037-18.182,9.609-30.834,13.695c-12.658,4.093-25.361,6.14-38.118,6.14c-12.752,0-25.456-2.047-38.112-6.14
+                      c-12.655-4.086-22.936-8.658-30.835-13.695c-7.898-5.046-14.987-9.614-21.267-13.708c-6.283-4.093-10.278-6.139-11.991-6.139
+                      c-11.61,0-22.222,1.906-31.833,5.711c-9.613,3.806-17.749,8.898-24.412,15.271c-6.661,6.379-12.562,14.086-17.699,23.127
+                      c-5.137,9.042-9.229,18.326-12.275,27.836c-3.045,9.521-5.568,19.842-7.566,30.978c-2,11.136-3.332,21.505-3.999,31.121
+                      c-0.666,9.616-0.998,19.466-0.998,29.554c0,22.836,6.949,40.875,20.842,54.104c13.896,13.224,32.36,19.835,55.39,19.835h249.533
+                      c23.028,0,41.49-6.611,55.388-19.835c13.901-13.229,20.845-31.265,20.845-54.104C420.264,354.502,419.932,344.652,419.258,335.036
+                      z"/>
+                  </g>
+                </g>
+                </svg></a></div>
+</div><div class="bde-shortcode-11627-112-11627-1 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 475 kr.</span></div><div class="bde-div-11627-116-11627-1 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-1 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/the-white-buffalo/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-1 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall">
+					<div class="bde-button-11422-537 bde-button">
+						<a class=" basm basm_select"  data-event_no="146077">
+							<span class="button-atom__text">KØB BILLET</span>
+						</a>
+					</div>
+				</div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="16957">
+    <div class="bde-div-11627-115-11627-2 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-2 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/tukan-be/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-2 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--16958">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026.jpg" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026.jpg 1920w, https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026-300x169.jpg 300w, https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026-1024x576.jpg 1024w, https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026-768x432.jpg 768w, https://postenlive.dk/wp-content/uploads/2026/04/Tukan-2026-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-2 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-2 bde-shortcode t-speaker bde-shortcode-11627-130">
+		<div class="t-wrapper">
+        <a class="bde-container-link-11627-122-11627-3 bde-container-link t-pop bde-container-link-11627-122 breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12292&quot;,&quot;popupAction&quot;:&quot;open&quot;}}" ref="16957">
+            <div class="bde-image-11627-121-11627-3 bde-image bde-image-11627-121">
+                <figure class="breakdance-image breakdance-image--12290">
+                    <div class="breakdance-image-container">
+                        <div class="breakdance-image-clip">
+						
+							<svg id="Group_62" data-name="Group 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.377" height="21.912" viewBox="0 0 27.377 21.912">
+							  <defs>
+								<clipPath id="clip-path">
+								  <rect id="Rectangle_89" data-name="Rectangle 89" width="27.377" height="21.912" fill="#9c091d"/>
+								</clipPath>
+							  </defs>
+							  <g id="Group_61" data-name="Group 61" transform="translate(0 0)" clip-path="url(#clip-path)">
+								<path id="Path_35" data-name="Path 35" d="M4.742,12.826H.485A.386.386,0,0,1,.1,12.44V4.571a.387.387,0,0,1,.387-.387H4.742a.387.387,0,0,1,.387.387V12.44a.386.386,0,0,1-.387.387m-3.87-.774H4.355V4.958H.872Z" transform="translate(0.047 1.994)" fill="#9c091d"/>
+								<path id="Path_36" data-name="Path 36" d="M4.789,13.019H.532A.533.533,0,0,1,0,12.486V4.619a.533.533,0,0,1,.532-.533H4.789a.534.534,0,0,1,.533.533v7.867a.534.534,0,0,1-.533.533M.532,4.377a.241.241,0,0,0-.241.242v7.867a.241.241,0,0,0,.241.242H4.789a.242.242,0,0,0,.242-.242V4.619a.242.242,0,0,0-.242-.242ZM4.4,12.244H.918A.145.145,0,0,1,.774,12.1V5.006A.145.145,0,0,1,.918,4.86H4.4a.145.145,0,0,1,.145.146V12.1a.145.145,0,0,1-.145.145m-3.337-.289H4.257v-6.8H1.065Z" transform="translate(0 1.948)" fill="#9c091d"/>
+								<path id="Path_37" data-name="Path 37" d="M15.688,21.719a.388.388,0,0,1-.189-.049L3.179,14.753a.387.387,0,0,1,.378-.675L15.3,20.671V1.106L3.539,6.895a.389.389,0,0,1-.518-.177A.385.385,0,0,1,3.2,6.2L15.517.138a.387.387,0,0,1,.558.347V21.333a.385.385,0,0,1-.192.334.379.379,0,0,1-.195.053" transform="translate(1.421 0.047)" fill="#9c091d"/>
+								<path id="Path_38" data-name="Path 38" d="M15.736,21.912a.539.539,0,0,1-.261-.068L3.154,14.927A.532.532,0,0,1,3.675,14L15.2,20.471V1.387L3.65,7.073a.533.533,0,0,1-.471-.955L15.5.055a.534.534,0,0,1,.769.477V21.379a.531.531,0,0,1-.266.459.513.513,0,0,1-.267.074M3.415,14.221a.241.241,0,0,0-.211.124.242.242,0,0,0,.093.329l12.321,6.916a.242.242,0,0,0,.239,0,.245.245,0,0,0,.12-.21V.532a.245.245,0,0,0-.112-.205.249.249,0,0,0-.236-.012L3.309,6.377A.242.242,0,0,0,3.2,6.7a.242.242,0,0,0,.323.109L15.284,1.023a.147.147,0,0,1,.211.13V20.719a.146.146,0,0,1-.219.126L3.533,14.252a.239.239,0,0,0-.118-.031" transform="translate(1.374 0)" fill="#9c091d"/>
+								<path id="Path_39" data-name="Path 39" d="M13.759,14.6a.387.387,0,0,1-.281-.653,7.288,7.288,0,0,0-.016-10.024.387.387,0,0,1,.561-.533,8.061,8.061,0,0,1,.016,11.089.379.379,0,0,1-.281.121" transform="translate(6.365 1.561)" fill="#9c091d"/>
+								<path id="Path_40" data-name="Path 40" d="M13.806,14.8a.533.533,0,0,1-.387-.9A7.14,7.14,0,0,0,13.4,4.074a.531.531,0,0,1,.019-.752.586.586,0,0,1,.379-.146.529.529,0,0,1,.372.164,8.207,8.207,0,0,1,.018,11.288.53.53,0,0,1-.387.167M13.79,3.465a.242.242,0,0,0-.242.236.238.238,0,0,0,.066.171A7.435,7.435,0,0,1,13.63,14.1a.231.231,0,0,0-.065.171.238.238,0,0,0,.075.17.246.246,0,0,0,.341-.01,7.915,7.915,0,0,0-.016-10.888.238.238,0,0,0-.17-.075Z" transform="translate(6.318 1.514)" fill="#9c091d"/>
+								<path id="Path_41" data-name="Path 41" d="M15.94,19.311a.387.387,0,0,1-.281-.653,12.466,12.466,0,0,0-.028-17.14.387.387,0,0,1,.561-.533,13.235,13.235,0,0,1,.028,18.2.379.379,0,0,1-.281.121" transform="translate(7.399 0.412)" fill="#9c091d"/>
+								<path id="Path_42" data-name="Path 42" d="M15.986,19.5a.532.532,0,0,1-.532-.517.523.523,0,0,1,.145-.379,12.319,12.319,0,0,0-.027-16.941.532.532,0,1,1,.771-.732,13.381,13.381,0,0,1,.03,18.4.537.537,0,0,1-.387.165M15.958,1.056a.242.242,0,0,0-.176.409A12.607,12.607,0,0,1,15.81,18.8a.24.24,0,0,0-.066.173.242.242,0,0,0,.418.158,13.092,13.092,0,0,0-.028-18,.238.238,0,0,0-.17-.075Z" transform="translate(7.352 0.366)" fill="#9c091d"/>
+							  </g>
+							</svg>
+						</div>
+                    </div>
+                </figure>
+            </div>
+        </a></div></div><h3 class="bde-heading-11627-109-11627-2 bde-heading bde-heading-11627-109">
+TUKAN (BE)
+</h3><div class="bde-text-11627-119-11627-2 bde-text bde-text-11627-119">
+Koncerten udskydes!
+</div><div class="bde-div-11627-125-11627-2 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-2 bde-shortcode bde-shortcode-11627-110">14. august 2026</div><div class="bde-shortcode-11627-123-11627-2 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-2 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 180 kr.</span></div><div class="bde-div-11627-116-11627-2 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-2 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/tukan-be/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-2 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall">
+					<div class="bde-button-11422-537 bde-button">
+						<a class=" basm basm_select"  data-event_no="147630">
+							<span class="button-atom__text">KØB BILLET</span>
+						</a>
+					</div>
+				</div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17355">
+    <div class="bde-div-11627-115-11627-3 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-3 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/hvad-er-aegte-og-hvad-er-falsk/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-3 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--3132">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg" width="840" height="420" srcset="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg 840w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-300x150.jpg 300w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-768x384.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-3 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-3 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-3 bde-heading bde-heading-11627-109">
+Hvad er ægte &#8211; og hvad er falsk?
+</h3><div class="bde-text-11627-119-11627-3 bde-text bde-text-11627-119">
+H.C. Andersen Festivals
+</div><div class="bde-div-11627-125-11627-3 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-3 bde-shortcode bde-shortcode-11627-110">16. august 2026</div><div class="bde-shortcode-11627-123-11627-3 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-3 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-3 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-3 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/hvad-er-aegte-og-hvad-er-falsk/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-3 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall"><a data-payment='[[&quot;Gratis billet&quot;,&quot;https:\/\/www.hcafestivals.dk\/program\/hvad-er-aegte-og-hvad-er-falsk-5166\/&quot;]]' class="btn btn-theme3" onclick="paymentModal(this)" href="https://www.hcafestivals.dk/program/hvad-er-aegte-og-hvad-er-falsk-5166/" target="_blank"><span>Køb billet</span></a></div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17356">
+    <div class="bde-div-11627-115-11627-4 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-4 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/hvem-synger-nattergalen-for/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-4 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--3132">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg" width="840" height="420" srcset="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg 840w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-300x150.jpg 300w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-768x384.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-4 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-4 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-4 bde-heading bde-heading-11627-109">
+Hvem synger nattergalen for
+</h3><div class="bde-text-11627-119-11627-4 bde-text bde-text-11627-119">
+H.C. Andersen Festivals
+</div><div class="bde-div-11627-125-11627-4 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-4 bde-shortcode bde-shortcode-11627-110">18. august 2026</div><div class="bde-shortcode-11627-123-11627-4 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-4 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-4 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-4 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/hvem-synger-nattergalen-for/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-4 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall"><a data-payment='[[&quot;Gratis billet&quot;,&quot;https:\/\/www.hcafestivals.dk\/program\/hvem-synger-nattergalen-for-5169\/&quot;]]' class="btn btn-theme3" onclick="paymentModal(this)" href="https://www.hcafestivals.dk/program/hvem-synger-nattergalen-for-5169/" target="_blank"><span>Køb billet</span></a></div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17290">
+    <div class="bde-div-11627-115-11627-5 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-5 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/demo-nights-2/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-5 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--17091">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/05/fyn-live.png" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/05/fyn-live.png 1920w, https://postenlive.dk/wp-content/uploads/2026/05/fyn-live-300x169.png 300w, https://postenlive.dk/wp-content/uploads/2026/05/fyn-live-1024x576.png 1024w, https://postenlive.dk/wp-content/uploads/2026/05/fyn-live-768x432.png 768w, https://postenlive.dk/wp-content/uploads/2026/05/fyn-live-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-5 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-5 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-5 bde-heading bde-heading-11627-109">
+Demo Nights
+</h3><div class="bde-text-11627-119-11627-5 bde-text bde-text-11627-119">
+FYN LIVE Netværksmøde for musikere
+</div><div class="bde-div-11627-125-11627-5 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-5 bde-shortcode bde-shortcode-11627-110">18. august 2026</div><div class="bde-shortcode-11627-123-11627-5 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-5 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-5 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-5 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/demo-nights-2/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-5 bde-shortcode bde-shortcode-11627-124"></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17357">
+    <div class="bde-div-11627-115-11627-6 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-6 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/hvem-synger-nattergalen-for-2/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-6 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--3132">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg" width="840" height="420" srcset="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg 840w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-300x150.jpg 300w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-768x384.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-6 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-6 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-6 bde-heading bde-heading-11627-109">
+Hvem synger nattergalen for
+</h3><div class="bde-text-11627-119-11627-6 bde-text bde-text-11627-119">
+H.C. Andersen Festivals
+</div><div class="bde-div-11627-125-11627-6 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-6 bde-shortcode bde-shortcode-11627-110">19. august 2026</div><div class="bde-shortcode-11627-123-11627-6 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-6 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-6 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-6 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/hvem-synger-nattergalen-for-2/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-6 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall"><a data-payment='[[&quot;Gratis billet&quot;,&quot;https:\/\/www.hcafestivals.dk\/program\/hvem-synger-nattergalen-for-5170\/&quot;]]' class="btn btn-theme3" onclick="paymentModal(this)" href="https://www.hcafestivals.dk/program/hvem-synger-nattergalen-for-5170/" target="_blank"><span>Køb billet</span></a></div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17358">
+    <div class="bde-div-11627-115-11627-7 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-7 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/musikmageri-4/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-7 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--3132">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg" width="840" height="420" srcset="https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1.jpg 840w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-300x150.jpg 300w, https://postenlive.dk/wp-content/uploads/2016/06/hca-fest-cut-1-768x384.jpg 768w" sizes="(max-width: 840px) 100vw, 840px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-7 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-7 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-7 bde-heading bde-heading-11627-109">
+MusikMageri
+</h3><div class="bde-text-11627-119-11627-7 bde-text bde-text-11627-119">
+H.C. Andersen Festivals
+</div><div class="bde-div-11627-125-11627-7 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-7 bde-shortcode bde-shortcode-11627-110">20. august 2026</div><div class="bde-shortcode-11627-123-11627-7 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-7 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-7 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-7 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/musikmageri-4/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-7 bde-shortcode bde-shortcode-11627-124"></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17398">
+    <div class="bde-div-11627-115-11627-8 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-8 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/en-aften-med-kunst-samtaler-og-god-stemning/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-8 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--17400">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/07/MinoUngOdenseEvent_PRINT_final.jpg" width="466" height="583" srcset="https://postenlive.dk/wp-content/uploads/2026/07/MinoUngOdenseEvent_PRINT_final.jpg 466w, https://postenlive.dk/wp-content/uploads/2026/07/MinoUngOdenseEvent_PRINT_final-240x300.jpg 240w" sizes="(max-width: 466px) 100vw, 466px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-8 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-8 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-8 bde-heading bde-heading-11627-109">
+Mino Ung præsenterer: En aften med kunst &amp; samtaler
+</h3><div class="bde-text-11627-119-11627-8 bde-text bde-text-11627-119">
+Peimi, Rida Hussein, Adam Lyassimi, Alina, DJ Studz
+</div><div class="bde-div-11627-125-11627-8 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-8 bde-shortcode bde-shortcode-11627-110">21. august 2026</div><div class="bde-shortcode-11627-123-11627-8 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-8 bde-shortcode bde-shortcode-11627-112"><span class="price">Gratis</span></div><div class="bde-div-11627-116-11627-8 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-8 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/en-aften-med-kunst-samtaler-og-god-stemning/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-8 bde-shortcode bde-shortcode-11627-124"></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="16967">
+    <div class="bde-div-11627-115-11627-9 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-9 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/meejah-x-hiraki-demersal-og-puke-wolf/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-9 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--16968">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/04/meejah-hiraki.jpg" width="1149" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/04/meejah-hiraki.jpg 1149w, https://postenlive.dk/wp-content/uploads/2026/04/meejah-hiraki-300x282.jpg 300w, https://postenlive.dk/wp-content/uploads/2026/04/meejah-hiraki-1024x963.jpg 1024w, https://postenlive.dk/wp-content/uploads/2026/04/meejah-hiraki-768x722.jpg 768w" sizes="(max-width: 1149px) 100vw, 1149px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-9 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-9 bde-shortcode t-speaker bde-shortcode-11627-130">
+		<div class="t-wrapper">
+        <a class="bde-container-link-11627-122-11627-3 bde-container-link t-pop bde-container-link-11627-122 breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12292&quot;,&quot;popupAction&quot;:&quot;open&quot;}}" ref="16967">
+            <div class="bde-image-11627-121-11627-3 bde-image bde-image-11627-121">
+                <figure class="breakdance-image breakdance-image--12290">
+                    <div class="breakdance-image-container">
+                        <div class="breakdance-image-clip">
+						
+							<svg id="Group_62" data-name="Group 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.377" height="21.912" viewBox="0 0 27.377 21.912">
+							  <defs>
+								<clipPath id="clip-path">
+								  <rect id="Rectangle_89" data-name="Rectangle 89" width="27.377" height="21.912" fill="#9c091d"/>
+								</clipPath>
+							  </defs>
+							  <g id="Group_61" data-name="Group 61" transform="translate(0 0)" clip-path="url(#clip-path)">
+								<path id="Path_35" data-name="Path 35" d="M4.742,12.826H.485A.386.386,0,0,1,.1,12.44V4.571a.387.387,0,0,1,.387-.387H4.742a.387.387,0,0,1,.387.387V12.44a.386.386,0,0,1-.387.387m-3.87-.774H4.355V4.958H.872Z" transform="translate(0.047 1.994)" fill="#9c091d"/>
+								<path id="Path_36" data-name="Path 36" d="M4.789,13.019H.532A.533.533,0,0,1,0,12.486V4.619a.533.533,0,0,1,.532-.533H4.789a.534.534,0,0,1,.533.533v7.867a.534.534,0,0,1-.533.533M.532,4.377a.241.241,0,0,0-.241.242v7.867a.241.241,0,0,0,.241.242H4.789a.242.242,0,0,0,.242-.242V4.619a.242.242,0,0,0-.242-.242ZM4.4,12.244H.918A.145.145,0,0,1,.774,12.1V5.006A.145.145,0,0,1,.918,4.86H4.4a.145.145,0,0,1,.145.146V12.1a.145.145,0,0,1-.145.145m-3.337-.289H4.257v-6.8H1.065Z" transform="translate(0 1.948)" fill="#9c091d"/>
+								<path id="Path_37" data-name="Path 37" d="M15.688,21.719a.388.388,0,0,1-.189-.049L3.179,14.753a.387.387,0,0,1,.378-.675L15.3,20.671V1.106L3.539,6.895a.389.389,0,0,1-.518-.177A.385.385,0,0,1,3.2,6.2L15.517.138a.387.387,0,0,1,.558.347V21.333a.385.385,0,0,1-.192.334.379.379,0,0,1-.195.053" transform="translate(1.421 0.047)" fill="#9c091d"/>
+								<path id="Path_38" data-name="Path 38" d="M15.736,21.912a.539.539,0,0,1-.261-.068L3.154,14.927A.532.532,0,0,1,3.675,14L15.2,20.471V1.387L3.65,7.073a.533.533,0,0,1-.471-.955L15.5.055a.534.534,0,0,1,.769.477V21.379a.531.531,0,0,1-.266.459.513.513,0,0,1-.267.074M3.415,14.221a.241.241,0,0,0-.211.124.242.242,0,0,0,.093.329l12.321,6.916a.242.242,0,0,0,.239,0,.245.245,0,0,0,.12-.21V.532a.245.245,0,0,0-.112-.205.249.249,0,0,0-.236-.012L3.309,6.377A.242.242,0,0,0,3.2,6.7a.242.242,0,0,0,.323.109L15.284,1.023a.147.147,0,0,1,.211.13V20.719a.146.146,0,0,1-.219.126L3.533,14.252a.239.239,0,0,0-.118-.031" transform="translate(1.374 0)" fill="#9c091d"/>
+								<path id="Path_39" data-name="Path 39" d="M13.759,14.6a.387.387,0,0,1-.281-.653,7.288,7.288,0,0,0-.016-10.024.387.387,0,0,1,.561-.533,8.061,8.061,0,0,1,.016,11.089.379.379,0,0,1-.281.121" transform="translate(6.365 1.561)" fill="#9c091d"/>
+								<path id="Path_40" data-name="Path 40" d="M13.806,14.8a.533.533,0,0,1-.387-.9A7.14,7.14,0,0,0,13.4,4.074a.531.531,0,0,1,.019-.752.586.586,0,0,1,.379-.146.529.529,0,0,1,.372.164,8.207,8.207,0,0,1,.018,11.288.53.53,0,0,1-.387.167M13.79,3.465a.242.242,0,0,0-.242.236.238.238,0,0,0,.066.171A7.435,7.435,0,0,1,13.63,14.1a.231.231,0,0,0-.065.171.238.238,0,0,0,.075.17.246.246,0,0,0,.341-.01,7.915,7.915,0,0,0-.016-10.888.238.238,0,0,0-.17-.075Z" transform="translate(6.318 1.514)" fill="#9c091d"/>
+								<path id="Path_41" data-name="Path 41" d="M15.94,19.311a.387.387,0,0,1-.281-.653,12.466,12.466,0,0,0-.028-17.14.387.387,0,0,1,.561-.533,13.235,13.235,0,0,1,.028,18.2.379.379,0,0,1-.281.121" transform="translate(7.399 0.412)" fill="#9c091d"/>
+								<path id="Path_42" data-name="Path 42" d="M15.986,19.5a.532.532,0,0,1-.532-.517.523.523,0,0,1,.145-.379,12.319,12.319,0,0,0-.027-16.941.532.532,0,1,1,.771-.732,13.381,13.381,0,0,1,.03,18.4.537.537,0,0,1-.387.165M15.958,1.056a.242.242,0,0,0-.176.409A12.607,12.607,0,0,1,15.81,18.8a.24.24,0,0,0-.066.173.242.242,0,0,0,.418.158,13.092,13.092,0,0,0-.028-18,.238.238,0,0,0-.17-.075Z" transform="translate(7.352 0.366)" fill="#9c091d"/>
+							  </g>
+							</svg>
+						</div>
+                    </div>
+                </figure>
+            </div>
+        </a></div></div><h3 class="bde-heading-11627-109-11627-9 bde-heading bde-heading-11627-109">
+MEEJAH x HIRAKI &amp; Demersal x Puke Wolf
+</h3><div class="bde-text-11627-119-11627-9 bde-text bde-text-11627-119">
+Dobbeltkoncert
+</div><div class="bde-div-11627-125-11627-9 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-9 bde-shortcode bde-shortcode-11627-110">22. august 2026</div><div class="bde-shortcode-11627-123-11627-9 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-9 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 200 kr.</span></div><div class="bde-div-11627-116-11627-9 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-9 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/meejah-x-hiraki-demersal-og-puke-wolf/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-9 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall">
+					<div class="bde-button-11422-537 bde-button">
+						<a class=" basm basm_select"  data-event_no="147845">
+							<span class="button-atom__text">KØB BILLET</span>
+						</a>
+					</div>
+				</div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17453">
+    <div class="bde-div-11627-115-11627-10 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-10 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/konnekt-x-posten/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-10 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--17454">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/08/BANNER.png" width="1051" height="515" srcset="https://postenlive.dk/wp-content/uploads/2026/08/BANNER.png 1051w, https://postenlive.dk/wp-content/uploads/2026/08/BANNER-300x147.png 300w, https://postenlive.dk/wp-content/uploads/2026/08/BANNER-1024x502.png 1024w, https://postenlive.dk/wp-content/uploads/2026/08/BANNER-768x376.png 768w" sizes="(max-width: 1051px) 100vw, 1051px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-10 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-10 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-10 bde-heading bde-heading-11627-109">
+Konnekt X Posten
+</h3><div class="bde-text-11627-119-11627-10 bde-text bde-text-11627-119">
+
+</div><div class="bde-div-11627-125-11627-10 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-10 bde-shortcode bde-shortcode-11627-110">27. august 2026</div><div class="bde-shortcode-11627-123-11627-10 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-10 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 75 kr.</span></div><div class="bde-div-11627-116-11627-10 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-10 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/konnekt-x-posten/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-10 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall"><a data-payment='[[&quot;K\u00f8b billet&quot;,&quot;https:\/\/billetto.dk\/e\/konnekt-x-posten-rapaften-billetter-1977300&quot;]]' class="btn btn-theme3" onclick="paymentModal(this)" href="https://billetto.dk/e/konnekt-x-posten-rapaften-billetter-1977300" target="_blank"><span>Køb billet</span></a></div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17116">
+    <div class="bde-div-11627-115-11627-11 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-11 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/fundament-7-green-tea-bitches-tba/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-11 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--17382">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1.jpg" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1.jpg 1920w, https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1-300x169.jpg 300w, https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1-1024x576.jpg 1024w, https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1-768x432.jpg 768w, https://postenlive.dk/wp-content/uploads/2026/05/Fundament-7-1-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-11 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-11 bde-shortcode t-speaker bde-shortcode-11627-130">
+		<div class="t-wrapper">
+        <a class="bde-container-link-11627-122-11627-3 bde-container-link t-pop bde-container-link-11627-122 breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12292&quot;,&quot;popupAction&quot;:&quot;open&quot;}}" ref="17116">
+            <div class="bde-image-11627-121-11627-3 bde-image bde-image-11627-121">
+                <figure class="breakdance-image breakdance-image--12290">
+                    <div class="breakdance-image-container">
+                        <div class="breakdance-image-clip">
+						
+							<svg id="Group_62" data-name="Group 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.377" height="21.912" viewBox="0 0 27.377 21.912">
+							  <defs>
+								<clipPath id="clip-path">
+								  <rect id="Rectangle_89" data-name="Rectangle 89" width="27.377" height="21.912" fill="#9c091d"/>
+								</clipPath>
+							  </defs>
+							  <g id="Group_61" data-name="Group 61" transform="translate(0 0)" clip-path="url(#clip-path)">
+								<path id="Path_35" data-name="Path 35" d="M4.742,12.826H.485A.386.386,0,0,1,.1,12.44V4.571a.387.387,0,0,1,.387-.387H4.742a.387.387,0,0,1,.387.387V12.44a.386.386,0,0,1-.387.387m-3.87-.774H4.355V4.958H.872Z" transform="translate(0.047 1.994)" fill="#9c091d"/>
+								<path id="Path_36" data-name="Path 36" d="M4.789,13.019H.532A.533.533,0,0,1,0,12.486V4.619a.533.533,0,0,1,.532-.533H4.789a.534.534,0,0,1,.533.533v7.867a.534.534,0,0,1-.533.533M.532,4.377a.241.241,0,0,0-.241.242v7.867a.241.241,0,0,0,.241.242H4.789a.242.242,0,0,0,.242-.242V4.619a.242.242,0,0,0-.242-.242ZM4.4,12.244H.918A.145.145,0,0,1,.774,12.1V5.006A.145.145,0,0,1,.918,4.86H4.4a.145.145,0,0,1,.145.146V12.1a.145.145,0,0,1-.145.145m-3.337-.289H4.257v-6.8H1.065Z" transform="translate(0 1.948)" fill="#9c091d"/>
+								<path id="Path_37" data-name="Path 37" d="M15.688,21.719a.388.388,0,0,1-.189-.049L3.179,14.753a.387.387,0,0,1,.378-.675L15.3,20.671V1.106L3.539,6.895a.389.389,0,0,1-.518-.177A.385.385,0,0,1,3.2,6.2L15.517.138a.387.387,0,0,1,.558.347V21.333a.385.385,0,0,1-.192.334.379.379,0,0,1-.195.053" transform="translate(1.421 0.047)" fill="#9c091d"/>
+								<path id="Path_38" data-name="Path 38" d="M15.736,21.912a.539.539,0,0,1-.261-.068L3.154,14.927A.532.532,0,0,1,3.675,14L15.2,20.471V1.387L3.65,7.073a.533.533,0,0,1-.471-.955L15.5.055a.534.534,0,0,1,.769.477V21.379a.531.531,0,0,1-.266.459.513.513,0,0,1-.267.074M3.415,14.221a.241.241,0,0,0-.211.124.242.242,0,0,0,.093.329l12.321,6.916a.242.242,0,0,0,.239,0,.245.245,0,0,0,.12-.21V.532a.245.245,0,0,0-.112-.205.249.249,0,0,0-.236-.012L3.309,6.377A.242.242,0,0,0,3.2,6.7a.242.242,0,0,0,.323.109L15.284,1.023a.147.147,0,0,1,.211.13V20.719a.146.146,0,0,1-.219.126L3.533,14.252a.239.239,0,0,0-.118-.031" transform="translate(1.374 0)" fill="#9c091d"/>
+								<path id="Path_39" data-name="Path 39" d="M13.759,14.6a.387.387,0,0,1-.281-.653,7.288,7.288,0,0,0-.016-10.024.387.387,0,0,1,.561-.533,8.061,8.061,0,0,1,.016,11.089.379.379,0,0,1-.281.121" transform="translate(6.365 1.561)" fill="#9c091d"/>
+								<path id="Path_40" data-name="Path 40" d="M13.806,14.8a.533.533,0,0,1-.387-.9A7.14,7.14,0,0,0,13.4,4.074a.531.531,0,0,1,.019-.752.586.586,0,0,1,.379-.146.529.529,0,0,1,.372.164,8.207,8.207,0,0,1,.018,11.288.53.53,0,0,1-.387.167M13.79,3.465a.242.242,0,0,0-.242.236.238.238,0,0,0,.066.171A7.435,7.435,0,0,1,13.63,14.1a.231.231,0,0,0-.065.171.238.238,0,0,0,.075.17.246.246,0,0,0,.341-.01,7.915,7.915,0,0,0-.016-10.888.238.238,0,0,0-.17-.075Z" transform="translate(6.318 1.514)" fill="#9c091d"/>
+								<path id="Path_41" data-name="Path 41" d="M15.94,19.311a.387.387,0,0,1-.281-.653,12.466,12.466,0,0,0-.028-17.14.387.387,0,0,1,.561-.533,13.235,13.235,0,0,1,.028,18.2.379.379,0,0,1-.281.121" transform="translate(7.399 0.412)" fill="#9c091d"/>
+								<path id="Path_42" data-name="Path 42" d="M15.986,19.5a.532.532,0,0,1-.532-.517.523.523,0,0,1,.145-.379,12.319,12.319,0,0,0-.027-16.941.532.532,0,1,1,.771-.732,13.381,13.381,0,0,1,.03,18.4.537.537,0,0,1-.387.165M15.958,1.056a.242.242,0,0,0-.176.409A12.607,12.607,0,0,1,15.81,18.8a.24.24,0,0,0-.066.173.242.242,0,0,0,.418.158,13.092,13.092,0,0,0-.028-18,.238.238,0,0,0-.17-.075Z" transform="translate(7.352 0.366)" fill="#9c091d"/>
+							  </g>
+							</svg>
+						</div>
+                    </div>
+                </figure>
+            </div>
+        </a></div></div><h3 class="bde-heading-11627-109-11627-11 bde-heading bde-heading-11627-109">
+Green Tea Bitches + Sodakill + Tangerine Tower
+</h3><div class="bde-text-11627-119-11627-11 bde-text bde-text-11627-119">
+FUNDAMENT #7 - Gratis for Residents!
+</div><div class="bde-div-11627-125-11627-11 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-11 bde-shortcode bde-shortcode-11627-110">28. august 2026</div><div class="bde-shortcode-11627-123-11627-11 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-11 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 130 kr.</span></div><div class="bde-div-11627-116-11627-11 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-11 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/fundament-7-green-tea-bitches-tba/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-11 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall">
+					<div class="bde-button-11422-537 bde-button">
+						<a class=" basm basm_select"  data-event_no="148880">
+							<span class="button-atom__text">KØB BILLET</span>
+						</a>
+					</div>
+				</div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="16139">
+    <div class="bde-div-11627-115-11627-12 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-12 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/maiden-aalborg-2/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-12 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--16141">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026.jpg" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026.jpg 1920w, https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026-300x169.jpg 300w, https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026-1024x576.jpg 1024w, https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026-768x432.jpg 768w, https://postenlive.dk/wp-content/uploads/2025/10/Maiden-Aalborg-2026-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-12 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-12 bde-shortcode t-speaker bde-shortcode-11627-130"></div><h3 class="bde-heading-11627-109-11627-12 bde-heading bde-heading-11627-109">
+Maiden Aalborg
+</h3><div class="bde-text-11627-119-11627-12 bde-text bde-text-11627-119">
+
+</div><div class="bde-div-11627-125-11627-12 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-12 bde-shortcode bde-shortcode-11627-110">29. august 2026</div><div class="bde-shortcode-11627-123-11627-12 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-12 bde-shortcode bde-shortcode-11627-112"><span class="price">Forsalg 225 kr.</span></div><div class="bde-div-11627-116-11627-12 bde-div bde-div-11627-116">
+  
+  
+	
+
+
+
+<div class="bde-button-11627-117-11627-12 bde-button bde-button-11627-117">
+        
+    
+    
+    
+    
+            
+                    
+            
+            
+
+    
+    
+    
+    
+    
+    <a class="breakdance-link button-atom button-atom--custom bde-button__button" href="https://postenlive.dk/event/maiden-aalborg-2/" target="_self" data-type="url"  >
+
+    
+        <span class="button-atom__text">LÆS MERE</span>
+
+        
+        
+                </a>
+
+    
+
+
+</div><div class="bde-shortcode-11627-124-11627-12 bde-shortcode bde-shortcode-11627-124"><div class="buynow bnsmall">
+					<div class="bde-button-11422-537 bde-button">
+						<a class=" basm basm_select"  data-event_no="140760">
+							<span class="button-atom__text">KØB BILLET</span>
+						</a>
+					</div>
+				</div></div>
+</div>
+</div>
+</div></div>
+<div class="g-event event-box site-1" data-event="17260">
+    <div class="bde-div-11627-115-11627-13 bde-div bde-div-11627-115">
+  
+  
+	
+
+
+
+<a class="bde-container-link-11627-100-11627-13 bde-container-link bde-container-link-11627-100 breakdance-link" href="https://postenlive.dk/event/grusom/" target="_self" data-type="url">
+  
+  
+	
+
+
+
+<div class="bde-image-11627-106-11627-13 bde-image bde-image-11627-106">
+<figure class="breakdance-image breakdance-image--17261">
+	<div class="breakdance-image-container">
+		<div class="breakdance-image-clip"><img class="breakdance-image-object" src="https://postenlive.dk/wp-content/uploads/2026/06/Grusom.jpg" width="1920" height="1080" srcset="https://postenlive.dk/wp-content/uploads/2026/06/Grusom.jpg 1920w, https://postenlive.dk/wp-content/uploads/2026/06/Grusom-300x169.jpg 300w, https://postenlive.dk/wp-content/uploads/2026/06/Grusom-1024x576.jpg 1024w, https://postenlive.dk/wp-content/uploads/2026/06/Grusom-768x432.jpg 768w, https://postenlive.dk/wp-content/uploads/2026/06/Grusom-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" loading="lazy"></div>
+	</div></figure>
+
+</div>
+
+</a><div class="bde-div-11627-108-11627-13 bde-div bde-div-11627-108">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-130-11627-13 bde-shortcode t-speaker bde-shortcode-11627-130">
+		<div class="t-wrapper">
+        <a class="bde-container-link-11627-122-11627-3 bde-container-link t-pop bde-container-link-11627-122 breakdance-link" href="#" target="_self" data-type="action" data-action="{&quot;type&quot;:&quot;popup&quot;,&quot;popupOptions&quot;:{&quot;popupId&quot;:&quot;12292&quot;,&quot;popupAction&quot;:&quot;open&quot;}}" ref="17260">
+            <div class="bde-image-11627-121-11627-3 bde-image bde-image-11627-121">
+                <figure class="breakdance-image breakdance-image--12290">
+                    <div class="breakdance-image-container">
+                        <div class="breakdance-image-clip">
+						
+							<svg id="Group_62" data-name="Group 62" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.377" height="21.912" viewBox="0 0 27.377 21.912">
+							  <defs>
+								<clipPath id="clip-path">
+								  <rect id="Rectangle_89" data-name="Rectangle 89" width="27.377" height="21.912" fill="#9c091d"/>
+								</clipPath>
+							  </defs>
+							  <g id="Group_61" data-name="Group 61" transform="translate(0 0)" clip-path="url(#clip-path)">
+								<path id="Path_35" data-name="Path 35" d="M4.742,12.826H.485A.386.386,0,0,1,.1,12.44V4.571a.387.387,0,0,1,.387-.387H4.742a.387.387,0,0,1,.387.387V12.44a.386.386,0,0,1-.387.387m-3.87-.774H4.355V4.958H.872Z" transform="translate(0.047 1.994)" fill="#9c091d"/>
+								<path id="Path_36" data-name="Path 36" d="M4.789,13.019H.532A.533.533,0,0,1,0,12.486V4.619a.533.533,0,0,1,.532-.533H4.789a.534.534,0,0,1,.533.533v7.867a.534.534,0,0,1-.533.533M.532,4.377a.241.241,0,0,0-.241.242v7.867a.241.241,0,0,0,.241.242H4.789a.242.242,0,0,0,.242-.242V4.619a.242.242,0,0,0-.242-.242ZM4.4,12.244H.918A.145.145,0,0,1,.774,12.1V5.006A.145.145,0,0,1,.918,4.86H4.4a.145.145,0,0,1,.145.146V12.1a.145.145,0,0,1-.145.145m-3.337-.289H4.257v-6.8H1.065Z" transform="translate(0 1.948)" fill="#9c091d"/>
+								<path id="Path_37" data-name="Path 37" d="M15.688,21.719a.388.388,0,0,1-.189-.049L3.179,14.753a.387.387,0,0,1,.378-.675L15.3,20.671V1.106L3.539,6.895a.389.389,0,0,1-.518-.177A.385.385,0,0,1,3.2,6.2L15.517.138a.387.387,0,0,1,.558.347V21.333a.385.385,0,0,1-.192.334.379.379,0,0,1-.195.053" transform="translate(1.421 0.047)" fill="#9c091d"/>
+								<path id="Path_38" data-name="Path 38" d="M15.736,21.912a.539.539,0,0,1-.261-.068L3.154,14.927A.532.532,0,0,1,3.675,14L15.2,20.471V1.387L3.65,7.073a.533.533,0,0,1-.471-.955L15.5.055a.534.534,0,0,1,.769.477V21.379a.531.531,0,0,1-.266.459.513.513,0,0,1-.267.074M3.415,14.221a.241.241,0,0,0-.211.124.242.242,0,0,0,.093.329l12.321,6.916a.242.242,0,0,0,.239,0,.245.245,0,0,0,.12-.21V.532a.245.245,0,0,0-.112-.205.249.249,0,0,0-.236-.012L3.309,6.377A.242.242,0,0,0,3.2,6.7a.242.242,0,0,0,.323.109L15.284,1.023a.147.147,0,0,1,.211.13V20.719a.146.146,0,0,1-.219.126L3.533,14.252a.239.239,0,0,0-.118-.031" transform="translate(1.374 0)" fill="#9c091d"/>
+								<path id="Path_39" data-name="Path 39" d="M13.759,14.6a.387.387,0,0,1-.281-.653,7.288,7.288,0,0,0-.016-10.024.387.387,0,0,1,.561-.533,8.061,8.061,0,0,1,.016,11.089.379.379,0,0,1-.281.121" transform="translate(6.365 1.561)" fill="#9c091d"/>
+								<path id="Path_40" data-name="Path 40" d="M13.806,14.8a.533.533,0,0,1-.387-.9A7.14,7.14,0,0,0,13.4,4.074a.531.531,0,0,1,.019-.752.586.586,0,0,1,.379-.146.529.529,0,0,1,.372.164,8.207,8.207,0,0,1,.018,11.288.53.53,0,0,1-.387.167M13.79,3.465a.242.242,0,0,0-.242.236.238.238,0,0,0,.066.171A7.435,7.435,0,0,1,13.63,14.1a.231.231,0,0,0-.065.171.238.238,0,0,0,.075.17.246.246,0,0,0,.341-.01,7.915,7.915,0,0,0-.016-10.888.238.238,0,0,0-.17-.075Z" transform="translate(6.318 1.514)" fill="#9c091d"/>
+								<path id="Path_41" data-name="Path 41" d="M15.94,19.311a.387.387,0,0,1-.281-.653,12.466,12.466,0,0,0-.028-17.14.387.387,0,0,1,.561-.533,13.235,13.235,0,0,1,.028,18.2.379.379,0,0,1-.281.121" transform="translate(7.399 0.412)" fill="#9c091d"/>
+								<path id="Path_42" data-name="Path 42" d="M15.986,19.5a.532.532,0,0,1-.532-.517.523.523,0,0,1,.145-.379,12.319,12.319,0,0,0-.027-16.941.532.532,0,1,1,.771-.732,13.381,13.381,0,0,1,.03,18.4.537.537,0,0,1-.387.165M15.958,1.056a.242.242,0,0,0-.176.409A12.607,12.607,0,0,1,15.81,18.8a.24.24,0,0,0-.066.173.242.242,0,0,0,.418.158,13.092,13.092,0,0,0-.028-18,.238.238,0,0,0-.17-.075Z" transform="translate(7.352 0.366)" fill="#9c091d"/>
+							  </g>
+							</svg>
+						</div>
+                    </div>
+                </figure>
+            </div>
+        </a></div></div><h3 class="bde-heading-11627-109-11627-13 bde-heading bde-heading-11627-109">
+Grusom
+</h3><div class="bde-text-11627-119-11627-13 bde-text bde-text-11627-119">
+Special Guest: Sunsick Daydream
+</div><div class="bde-div-11627-125-11627-13 bde-div bde-div-11627-125">
+  
+  
+	
+
+
+
+<div class="bde-shortcode-11627-110-11627-13 bde-shortcode bde-shortcode-11627-110">03. september 2026</div><div class="bde-shortcode-11627-123-11627-13 bde-shortcode bde-shortcode-11627-123"></div>
+</div><div class="bde-shortcode-11627-112-11627-13 bde-shortcode bde-shortc
+<!-- TRIMMED BY recon.mjs -->

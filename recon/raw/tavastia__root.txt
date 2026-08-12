@@ -1,0 +1,1561 @@
+<!DOCTYPE html>
+<html lang="fi" class="no-js">
+
+<head>
+    <script type="text/javascript">
+        var h = document.getElementsByTagName("html");
+        if (h[0] && h[0].className) h[0].className = 'js';
+    </script>
+    <meta charset="utf-8" />
+    <title>Liveklubi Tavastia Helsinki | Keikat ja tapahtumat</title>
+    <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width" />
+
+    <!-- FAVICONS -->
+    <link rel="apple-touch-icon" sizes="180x180" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/apple-touch-icon.png?v2">
+    <link rel="icon" type="image/png" sizes="32x32?v2" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/favicon-32x32.png?v2">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/favicon-16x16.png?v2">
+    <link rel="manifest" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/site.webmanifest">
+    <link rel="mask-icon" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/safari-pinned-tab.svg?v2" color="#000000">
+    <link rel="shortcut icon" href="https://tavastiaklubi.fi/wp-content/themes/tavastia/favicons/favicon.ico?v2">
+    <meta name="theme-color" content="#000000">
+    <!-- END OF FAVICONS -->
+
+    
+
+    <title>Liveklubi Tavastia Helsinki | Keikat ja tapahtumat</title>
+<link rel="alternate" href="https://tavastiaklubi.fi/" hreflang="fi" />
+<link rel="alternate" href="https://tavastiaklubi.fi/en/" hreflang="en" />
+
+<!-- The SEO Framework tehnyt Sybre Waaijer -->
+<link rel="canonical" href="https://tavastiaklubi.fi/" />
+<meta name="description" content="Vuonna 1970 auennut Tavastia-klubi on yksi Euroopan vanhimmista rock-klubeista. Koe Helsingin parhaat keikat ja tapahtumat Tavastialla!" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="fi_FI" />
+<meta property="og:site_name" content="Tavastia" />
+<meta property="og:title" content="Liveklubi Tavastia Helsinki | Keikat ja tapahtumat" />
+<meta property="og:description" content="Vuonna 1970 auennut Tavastia-klubi on yksi Euroopan vanhimmista rock-klubeista. Koe Helsingin parhaat keikat ja tapahtumat Tavastialla!" />
+<meta property="og:url" content="https://tavastiaklubi.fi/" />
+<meta property="og:image" content="https://tavastiaklubi.fi/wp-content/uploads/2021/09/tavastia-facebook-cover-01.png" />
+<meta property="og:image:width" content="1920" />
+<meta property="og:image:height" content="1080" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Liveklubi Tavastia Helsinki | Keikat ja tapahtumat" />
+<meta name="twitter:description" content="Vuonna 1970 auennut Tavastia-klubi on yksi Euroopan vanhimmista rock-klubeista. Koe Helsingin parhaat keikat ja tapahtumat Tavastialla!" />
+<meta name="twitter:image" content="https://tavastiaklubi.fi/wp-content/uploads/2021/09/tavastia-facebook-cover-01.png" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://tavastiaklubi.fi/#/schema/WebSite","url":"https://tavastiaklubi.fi/","name":"Tavastia","inLanguage":"fi","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://tavastiaklubi.fi/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://tavastiaklubi.fi/#/schema/Organization"}},{"@type":"WebPage","@id":"https://tavastiaklubi.fi/","url":"https://tavastiaklubi.fi/","name":"Liveklubi Tavastia Helsinki | Keikat ja tapahtumat","description":"Vuonna 1970 auennut Tavastia-klubi on yksi Euroopan vanhimmista rock-klubeista. Koe Helsingin parhaat keikat ja tapahtumat Tavastialla!","inLanguage":"fi","isPartOf":{"@id":"https://tavastiaklubi.fi/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://tavastiaklubi.fi/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Tavastia"}},"potentialAction":{"@type":"ReadAction","target":"https://tavastiaklubi.fi/"},"about":{"@id":"https://tavastiaklubi.fi/#/schema/Organization"}},{"@type":"Organization","@id":"https://tavastiaklubi.fi/#/schema/Organization","name":"Tavastia","url":"https://tavastiaklubi.fi/"}]}</script>
+<!-- / The SEO Framework tehnyt Sybre Waaijer | 4.89ms meta | 0.84ms boot -->
+
+<link rel="alternate" type="application/rss+xml" title="Tavastia &raquo; syöte" href="https://tavastiaklubi.fi/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tavastia &raquo; kommenttien syöte" href="https://tavastiaklubi.fi/comments/feed/" />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tavastiaklubi.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftavastiaklubi.fi%2F&#038;lang=fi" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tavastiaklubi.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftavastiaklubi.fi%2F&#038;format=xml&#038;lang=fi" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='cookieconsent-css' href='https://tavastiaklubi.fi/wp-content/plugins/air-cookie/assets/cookieconsent.css?ver=2.9.1' media='all' />
+<link rel='stylesheet' id='style-css' href='https://tavastiaklubi.fi/wp-content/themes/tavastia/style.css?ver=2.56' media='all' />
+<link rel='stylesheet' id='print-css' href='https://tavastiaklubi.fi/wp-content/themes/tavastia/css/print.css?ver=0.2.2' media='print' />
+<link rel='stylesheet' id='style-custom-css' href='https://tavastiaklubi.fi/wp-content/themes/tavastia/style-custom.css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://tavastiaklubi.fi/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://tavastiaklubi.fi/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://tavastiaklubi.fi/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://tavastiaklubi.fi/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tavastiaklubi.fi/xmlrpc.php?rsd" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><style id="wp-custom-css">
+.content-wrapper div.wpforms-container-full .wpforms-field-label{color:#ffffff;}
+.content-wrapper .wpforms-container .wpforms-required-label{color:#ffffff}
+.content-wrapper div.wpforms-container-full .wpforms-confirmation-container-full{background:#ffffff;}
+#content .content-wrapper div.wpforms-container-full button[type=submit]{
+	background:#ffffff;
+	color:#000000;
+	padding-left: 2.15em;
+	padding-right: 2.15em;
+	padding-top: 0.9em;
+	padding-bottom: 0.75em;
+	text-transform:uppercase;
+	font-family: "Sweden Sans";
+	letter-spacing: 0.1em;
+	line-height: 1.3;
+	height:auto;
+	font-size:15px;
+	transition: background 0.25s;
+	border-radius:0;
+}
+#content .content-wrapper div.wpforms-container-full button[type=submit]:hover{
+	  background: #fb4c4a;
+    color: #fff;
+    border-color: #fb4c4a;
+}
+@media only screen and (min-width: 768px) {
+	#header-menu2 .navigation-top-left{
+		font-size:1.2vw;
+	}
+}
+@media only screen and (min-width: 1140px) {
+	#header-menu2 .navigation-top-left{
+		font-size:14px;
+	}
+}
+</style>
+<link rel='stylesheet' id='iframemanager-css' href='https://tavastiaklubi.fi/wp-content/plugins/air-cookie/assets/iframemanager.css?ver=7.0.4' media='all' />
+
+</head>
+
+<body class="home wp-singular page-template-default page page-id-7 wp-theme-tavastia front-page page-etusivu dark-theme">
+
+    <a href="#content" class="jump-to-content">
+        Siirry sisältöön    </a>
+    <div id="page">
+        <div id="main">
+  <div id="header-menu2">
+    <div class="page-wrapper header-wrapper">
+      <header class="main-menu">
+        <div class="navigations">
+          <div class="header-title">
+                          <a href="https://tavastiaklubi.fi/">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 542.34 209.26" class="tavastia-logo-svg"
+    aria-hidden="true">
+    <path fill="#fff" d="M2.44 4.67h537.47v165.61H2.44z" />
+    <path
+        d="M542.34 174.38H.33l-.17-.13a.39.39 0 0 1-.08-.14 4.11 4.11 0 0 1-.08-.6V1A3.17 3.17 0 0 1 .07.35C.08.25.16.17.25 0h542.09Zm-272-8.47H534c.32-2.44.2-155.33-.1-156.37H270.36ZM39.32 52.17v105.75h24.76V52.23c6.05-.14 12 .06 17.83-.11.34-3.29.19-29.7-.15-30.78-4-.32-60.6-.16-61.74.17v30.66Zm109.41 105.67L112.58 22.13s-.07-.07-.11-.08a1 1 0 0 0-.29 0L76.1 157.84Zm77.51-136h-.31q-18 67.95-36.13 136h72.59q-18.1-68.19-36.15-136.05Zm-93.57-.53q18.12 68.17 36.13 136h.31q18-67.92 36.12-135.93h-22q-7.08 29.63-14.15 59.13h-.29l-14.03-59.25Z" />
+    <path fill="var(--fg)"
+        d="M386.52 195a5 5 0 0 0 .53.36c3.07 1.41 3.55 4 3.21 7a6.08 6.08 0 0 1-4.66 5.54 12.72 12.72 0 0 1-3.34.58c-3.56.08-7.12 0-10.68 0a6.52 6.52 0 0 1-.71-.09v-25.34a6.12 6.12 0 0 1 .95-.13c3.61.05 7.23.06 10.83.21a11.2 11.2 0 0 1 3.31.71 5.49 5.49 0 0 1 3.87 4.93 5.71 5.71 0 0 1-2.57 5.75Zm-8.39 8.83a25 25 0 0 0 2.76 0c.83-.1 1.73-.38 1.9-1.33a9.58 9.58 0 0 0 .09-3 2.11 2.11 0 0 0-1.15-1.32 5.6 5.6 0 0 0-3.6-.34Zm0-10.75a25 25 0 0 0 3.08-.45c1-.26 1.47-1.34 1.36-2.8a1.94 1.94 0 0 0-1.7-2.06 20.74 20.74 0 0 0-2.74 0ZM260.44 183h7c0 .61.08 1.15.08 1.7V202.04c.05 1.8.73 2.5 2.41 2.5a2.26 2.26 0 0 0 2.5-2.5V183c2.4-.14 4.7 0 7.13-.06 0 .54.13 1 .13 1.43v16.72c0 .62-.06 1.24-.13 1.86a6 6 0 0 1-4 5.27 15.3 15.3 0 0 1-11.33 0 5.89 5.89 0 0 1-3.91-5.65c-.1-6.34 0-12.7 0-19a2.63 2.63 0 0 1 .12-.57ZM64.34 208.47h-7.56l-3.89-8.62c-1 1.31-1.77 2.43-1.63 4s0 3 0 4.55H44v-25.41h7.2v9.41l.28.1a9.23 9.23 0 0 0 .63-.91c1.32-2.51 2.65-5 3.91-7.56a1.78 1.78 0 0 1 1.98-1.14c1.6.07 3.2 0 4.8 0 .34 0 .69.07 1.2.12-.31.58-.53 1-.77 1.46-1.63 2.82-3.2 5.66-4.92 8.42a2.49 2.49 0 0 0-.06 2.82c1.88 3.73 3.68 7.5 5.5 11.26.17.46.35.93.59 1.5ZM154.28 208.53V183h7.15v20.34h8.76a42.49 42.49 0 0 1 0 5.17ZM488.67 208.45h-7.06V183h7.06Z" />
+    <path
+        d="M275.8 157.34c1.22-1.45 2.39-3 3.68-4.34 2.48-2.7 5-5.33 7.55-8a62.45 62.45 0 0 0 7.07-8.81 40.33 40.33 0 0 0 5.73-30.7C298.58 99.07 296.21 93 294 86.9S289.56 75 287.51 69a35.53 35.53 0 0 1-1.44-6.48c-.74-5.09.34-10 2.05-14.73a64 64 0 0 1 11.16-19c2.82-3.43 6-6.58 8.94-9.87a2.85 2.85 0 0 1 2.31-1h93.17c.5 0 1 .05 1.59.08v36h-16.91v103.59c-1.24.38-23.79.51-26.41.2a.58.58 0 0 1-.12-.1.33.33 0 0 1-.07-.13 4.22 4.22 0 0 1-.07-.61V54.48s0-.1-.1-.38H343.23V21.29c-.57.49-.84.69-1.08.92a132.71 132.71 0 0 0-16 17.67 55.59 55.59 0 0 0-5.53 9.31 24.77 24.77 0 0 0-1.56 17.21 151.71 151.71 0 0 0 5.27 15.53c2.43 6.36 5 12.68 6.78 19.26a49.2 49.2 0 0 1-2.93 34.88 58.69 58.69 0 0 1-7.76 11.74c-2.45 3.06-4.94 6.1-7.35 9.2a1.88 1.88 0 0 1-1.75.68H276ZM522.23 157.84h-74.75l-.14-.15a1.47 1.47 0 0 1-.06-.14.8.8 0 0 1 0-.31l37-139.24a1.64 1.64 0 0 1 .54-.88Zm-21.55-25.07a16 16 0 1 0-16.11 15.95 16 16 0 0 0 16.11-15.95ZM415.77 18h26.41v139.8h-26.41Z" />
+    <path fill="#fb4c4a"
+        d="M128.3 132.33a15.9 15.9 0 1 1-17-15.51 15.82 15.82 0 0 1 17 15.51ZM242 132.73a15.9 15.9 0 1 1-16-15.93 15.82 15.82 0 0 1 16 15.93Z" />
+
+</svg>                <span class="assistive-text">Tavastia - Etusivulle</span>
+              </a>
+                      </div>
+          <div class="navigation-top-left">
+            <ul class="menu site">
+              <li id="menu-item-1374" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-1374"><a href="https://tavastiaklubi.fi/" aria-current="page"><span>Tavastia</span></a></li>
+<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a href="https://tavastiaklubi.fi/semifinal/"><span>Semifinal</span></a></li>
+<li id="menu-item-1533" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1533"><a target="_blank" href="https://www.ravintolailves.fi/#"><span>Ilves</span></a></li>
+<li id="menu-item-3132" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3132"><a href="https://tavastiaklubi.fi/jarjesta-tapahtuma/"><span>Tilavuokraus</span></a></li>
+<li id="menu-item-3130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="https://tavastiaklubi.fi/jata-palautetta/"><span>Palaute</span></a></li>
+                            <li class="menu-item menu-item-object-page">
+                <a href="https://tavastiaklubi.fi/info">
+                  <span>Info</span>
+                </a>
+              </li>
+            </ul>
+
+                      </div>
+
+
+          <div class="navigation-top-right">
+            <div class="top-cart"></div>
+
+            <a href="#theme-switcher" class="theme-switcher" role="button" aria-pressed="false">
+              <span class="assistive-text">Vaalea teema</span>
+              <svg viewBox="0 0 25.28 25.28" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="12.64" cy="12.64" r="11.64" style="fill:none;stroke:var(--fg, #000);stroke-width:1.5"></circle>
+                <path d="M 13.214 1.115 C 19.091 1.67 23.706 6.622 23.706 12.64 C 23.706 18.658 19.091 23.621 13.214 24.165 L 13.214 1.115 Z" style="fill: var(--fg, #000);"></path>
+              </svg>
+            </a>
+
+                                      <div class="dropdown language-dropdown">
+                <a role="button" href="#" class="selected" aria-controls="langmob" aria-expanded="false">
+                  <span class="assistive-text">
+                    Kielivalinnat                  </span>
+                  <span class="assistive-text">
+                    Nykyinen kieli:                     Suomeksi                  </span>
+                  <span aria-hidden="true">FI</span>
+                  <svg viewBox="0 0 52.95 52.95" style="stroke: var(--fg);" xmlns="http://www.w3.org/2000/svg">
+                    <polyline points="0.705 13.59 26.475 39.36 52.245 13.59" fill="none" stroke-miterlimit="10" stroke-width="4"></polyline>
+                  </svg>
+                </a>
+                <div class="items" id="langmob">
+                                      <div>
+                      <a href="https://tavastiaklubi.fi/en/" class="en-GB ">
+                        <span class="assistive-text">
+                          In English                        </span>
+                        <span aria-hidden="true">EN</span>
+                      </a>
+                    </div>
+                                  </div>
+              </div>
+                        
+
+            
+          </div>
+          <a role="button" href="#" id="more-mobile-menu2" aria-expanded="false" aria-controls="navigation-mobile-menu2">
+            <div class="more-mobile-wrapper">
+              <span class="assistive-text" data-close="Sulje valikko" data-open="Avaa valikko">
+                Avaa valikko              </span>
+              <i class="a"></i>
+              <i class="c"></i>
+            </div>
+          </a>
+        </div>
+      </header>
+
+      
+        <div class="assistive-text">
+          Tapahtumafiltterit        </div>
+        <div class="filters-tavastia">
+          <div role="tablist" class="views">
+            <a role="tab" aria-selected="true" aria-controls="block-tiketti-list2" href="#" class="listing-view active"><span class="assistive-text">Näytä kuvalistaus</span>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+                <rect x="6.66" y="2.15" width="14.96" height="1.77" />
+                <rect x="6.66" y="10.11" width="14.96" height="1.77" />
+                <rect x="6.66" y="18.08" width="14.96" height="1.77" />
+                <circle cx="2.24" cy="3.03" r="1.86" />
+                <circle cx="2.24" cy="11" r="1.86" />
+                <circle cx="2.24" cy="18.97" r="1.86" />
+              </svg>
+            </a>
+            <a role="tab" aria-selected="false" aria-controls="block-tiketti-cal" href="#" class="calendar-view"><span class="assistive-text">Näytä kalenteri</span>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+                <path d="M4.68.16v.9H1.06V20.94H20.94V1.06H17.32V.16h-1.8v.9h-9V.16ZM2.87,2.87H4.68v.9h1.8v-.9h9v.9h1.8v-.9h1.81V4.68H2.87Zm0,3.61H19.13V19.13H2.87ZM8.29,8.29V10.1H10.1V8.29Zm3.61,0V10.1h1.81V8.29Zm3.62,0V10.1h1.8V8.29ZM4.68,11.9v1.81h1.8V11.9Zm3.61,0v1.81H10.1V11.9Zm3.61,0v1.81h1.81V11.9Zm3.62,0v1.81h1.8V11.9ZM4.68,15.52v1.8h1.8v-1.8Zm3.61,0v1.8H10.1v-1.8Zm3.61,0v1.8h1.81v-1.8Z" />
+              </svg>
+            </a>
+            <a role="tab" aria-selected="false" aria-controls="block-tiketti-daylist" href="#" class="daylist-view"><span class="assistive-text">Näytä päivälistaus</span>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22">
+                <rect x="0.87" y="2.15" width="20.26" height="1.77" />
+                <rect x="0.87" y="7.46" width="20.26" height="1.77" />
+                <rect x="0.87" y="12.77" width="20.26" height="1.77" />
+                <rect x="0.87" y="18.08" width="20.26" height="1.77" />
+              </svg>
+            </a>
+          </div>
+
+          <div class="search-form">
+            <label for="search" class="assistive-text">
+              Hae keikoista            </label>
+            <input type="text" id="search">
+            <svg viewBox="0 0 54.14 54.14" xmlns="http://www.w3.org/2000/svg">
+              <g style="fill: none; stroke: var(--fg, #000); stroke-width: 3;">
+                <circle cx="21.887" cy="21.887" r="16.787"></circle>
+                <path d="M 33.751 33.751 L 49.19 49.19"></path>
+              </g>
+            </svg>
+            <a href="#" id="close-search" class="close-search">
+              <span class="assistive-text">Sulje haku</span>
+              <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" clip-rule="evenodd">
+                <path d="M12 11.293l10.293-10.293.707.707-10.293 10.293 10.293 10.293-.707.707-10.293-10.293-10.293 10.293-.707-.707 10.293-10.293-10.293-10.293.707-.707 10.293 10.293z" />
+              </svg>
+            </a>
+          </div>
+        </div>
+          </div>
+  </div>
+  <div id="header-padder-menu2"></div>
+  <nav id="navigation-mobile-menu2">
+    <div class="navigation-top-wrapper page-wrapper">
+      <div class="padder"></div>
+      <h2 class="assistive-text"></h2>
+      <ul class="menu site">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1374"><a href="https://tavastiaklubi.fi/" aria-current="page">Tavastia</a>
+<ul class="sub-menu">
+	<li id="menu-item-1713" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-1713"><a href="https://tavastiaklubi.fi/" aria-current="page">Tapahtumat</a></li>
+	<li id="menu-item-1698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1698"><a href="https://tavastiaklubi.fi/info/">Info</a></li>
+	<li id="menu-item-1697" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1697"><a href="https://tavastiaklubi.fi/tilat-ja-tekniikka/">Tekniikka</a></li>
+	<li id="menu-item-1693" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1693"><a href="https://tavastiaklubi.fi/shop/">Tavastia Shop</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1370"><a href="https://tavastiaklubi.fi/semifinal/">Semifinal</a>
+<ul class="sub-menu">
+	<li id="menu-item-1712" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1712"><a href="https://tavastiaklubi.fi/semifinal/">Tapahtumat</a></li>
+	<li id="menu-item-1700" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1700"><a href="https://tavastiaklubi.fi/semifinal/info/">Info</a></li>
+	<li id="menu-item-1701" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1701"><a href="https://tavastiaklubi.fi/semifinal/tekniikka/">Tekniikka</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1533"><a target="_blank" href="https://www.ravintolailves.fi/#">Ilves</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3132"><a href="https://tavastiaklubi.fi/jarjesta-tapahtuma/">Tilavuokraus</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3130"><a href="https://tavastiaklubi.fi/jata-palautetta/">Palaute</a></li>
+      </ul>
+            <ul class="menu footer">
+        <li id="menu-item-1840" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1840"><a href="https://tavastiaklubi.fi/vastuullisuus/">Vastuullisuus</a></li>
+<li id="menu-item-1841" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1841"><a href="https://tavastiaklubi.fi/jarjesta-tapahtuma/">Tilavuokraus</a></li>
+<li id="menu-item-66" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-66"><a href="https://tavastiaklubi.fi/anniskelupalvelut/">Anniskelupalvelut</a></li>
+<li id="menu-item-1502" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1502"><a href="https://tavastiaklubi.fi/historia/">Historia</a></li>
+<li id="menu-item-1842" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1842"><a href="https://tavastiaklubi.fi/yhteystiedot/">Yhteystiedot</a></li>
+<li id="menu-item-3118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3118"><a href="https://tavastiaklubi.fi/jata-palautetta/">Jätä palautetta</a></li>
+                              <li class="active">
+              <a href="https://tavastiaklubi.fi/">
+
+                Suomeksi
+              </a>
+            </li>
+                      <li class="">
+              <a href="https://tavastiaklubi.fi/en/">
+
+                In English
+              </a>
+            </li>
+                        </ul>
+
+      <div class="bottom">        <ul class="socmed-follow">
+                            <li>
+                    <a class="facebook some-link" href="https://www.facebook.com/tavastia/" target="_blank">
+                        <span class="img"><?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="-2 -2 77 77"><path
+     style=""
+     d="M 4.0996094 0 C 1.7996094 0 0 1.8996094 0 4.0996094 L 0 70.800781 C 0 73.100781 1.8996094 74.900391 4.0996094 74.900391 L 40 74.900391 L 40 45.900391 L 30.199219 45.900391 L 30.199219 34.599609 L 40 34.599609 L 40 26.300781 C 40 16.600781 45.899609 11.300781 54.599609 11.300781 C 58.699609 11.300781 62.300781 11.599219 63.300781 11.699219 L 63.300781 21.800781 L 57.300781 21.800781 C 52.600781 21.800781 51.699219 24.000781 51.699219 27.300781 L 51.699219 34.5 L 62.900391 34.5 L 61.5 46 L 51.800781 46 L 51.800781 75 L 70.900391 75 C 73.200391 75 75 73.100391 75 70.900391 L 75 4.0996094 C 75 1.8996094 73.100391 0 70.900391 0 L 4.0996094 0 z "
+     id="path4" /></svg></span>
+                        <span class="txt">Facebook</span>
+                    </a>
+                </li>
+                            <li>
+                    <a class="instagram some-link" href="https://www.instagram.com/tavastiaklubi/" target="_blank">
+                        <span class="img"><?xml version="1.0" encoding="utf-8"?>
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   viewBox="0 0 80 80"><path
+     d="m 40,4.693824e-8 c -10.9,0 -12.2,-7.8119999824e-4 -16.5,0.19921900306176 -4.3,0.2 -7.199219,0.90038995 -9.699219,1.90038995 -2.6,1 -4.901562,2.39961 -7.101562,4.59961 -2.2,2.2 -3.59961,4.501562 -4.59961,7.101562 -1,2.5 -1.70038995,5.499219 -1.90038995,9.699219 C -7.8125304e-4,27.8 4.6956126e-8,29.1 4.6956126e-8,40 c 0,10.9 -7.81199996126e-4,12.2 0.199219003043874,16.5 0.2,4.3 0.90038995,7.199219 1.90038995,9.699219 1,2.6 2.39961,4.901562 4.59961,7.101562 2.2,2.2 4.501562,3.59961 7.101562,4.59961 2.5,1 5.499219,1.70039 9.699219,1.90039 C 27.8,80.000781 29.1,80 40,80 c 10.9,0 12.2,7.81e-4 16.5,-0.199219 4.3,-0.2 7.199219,-0.90039 9.699219,-1.90039 2.6,-1 4.901562,-2.39961 7.101562,-4.59961 2.2,-2.2 3.59961,-4.501562 4.59961,-7.101562 1,-2.5 1.70039,-5.499219 1.90039,-9.699219 C 80.000781,52.2 80,50.9 80,40 c 0,-10.9 7.81e-4,-12.2 -0.199219,-16.5 -0.2,-4.3 -0.90039,-7.199219 -1.90039,-9.699219 -1,-2.6 -2.39961,-4.901562 -4.59961,-7.101562 -2.2,-2.2 -4.501562,-3.59961 -7.101562,-4.59961 C 63.699219,1.099609 60.7,0.39921905 56.5,0.19921905 52.2,-7.8115306e-4 50.9,4.693824e-8 40,4.693824e-8 Z M 40,7.199219 c 10.7,0 11.899219,0.0012 16.199219,0.201172 3.9,0.2 6.00039,0.80039 7.40039,1.40039 1.9,0.7 3.19961,1.6 4.59961,3 1.4,1.4 2.3,2.69961 3,4.59961 0.5,1.4 1.20039,3.50039 1.40039,7.40039 0.2,4.2 0.201172,5.499219 0.201172,16.199219 0,10.7 -0.0012,11.899219 -0.201172,16.199219 -0.2,3.9 -0.80039,6.00039 -1.40039,7.40039 -0.7,1.9 -1.6,3.19961 -3,4.59961 -1.4,1.4 -2.69961,2.3 -4.59961,3 -1.4,0.5 -3.50039,1.20039 -7.40039,1.40039 -4.2,0.2 -5.499219,0.201172 -16.199219,0.201172 -10.7,0 -11.899219,-0.0012 -16.199219,-0.201172 -3.9,-0.2 -6.00039,-0.80039 -7.40039,-1.40039 -1.9,-0.7 -3.19961,-1.6 -4.59961,-3 -1.4,-1.4 -2.3,-2.69961 -3,-4.59961 -0.5,-1.4 -1.20039,-3.50039 -1.40039,-7.40039 C 7.200391,51.999219 7.199219,50.7 7.199219,40 c 0,-10.7 0.0012,-11.899219 0.201172,-16.199219 0.2,-3.9 0.80039,-6.00039 1.40039,-7.40039 0.7,-1.9 1.6,-3.19961 3,-4.59961 1.4,-1.4 2.69961,-2.3 4.59961,-3 1.4,-0.5 3.50039,-1.20039 7.40039,-1.40039 C 28.100781,7.200391 29.3,7.199219 40,7.199219 Z m 21.400391,6.601562 a 4.8000002,4.8000002 0 0 0 -4.800782,4.798828 4.8000002,4.8000002 0 0 0 4.800782,4.800782 4.8000002,4.8000002 0 0 0 4.798828,-4.800782 4.8000002,4.8000002 0 0 0 -4.798828,-4.798828 z M 40,19.5 C 28.7,19.5 19.5,28.7 19.5,40 19.5,51.3 28.7,60.5 40,60.5 51.3,60.5 60.5,51.3 60.5,40 60.5,28.7 51.3,19.5 40,19.5 Z m 0,7.199219 C 47.4,26.699219 53.300781,32.7 53.300781,40 53.300781,47.4 47.4,53.300781 40,53.300781 32.6,53.300781 26.699219,47.3 26.699219,40 26.699219,32.6 32.7,26.699219 40,26.699219 Z"
+ /></svg></span>
+                        <span class="txt">Instagram</span>
+                    </a>
+                </li>
+                            <li>
+                    <a class="tiktok some-link" href="https://www.tiktok.com/@tavastiaklubi" target="_blank">
+                        <span class="img"><svg viewBox="0 0 160 160" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 122.879 70.439 C 122.059 70.519 121.237 70.561 120.414 70.564 C 111.388 70.565 102.969 66.016 98.025 58.464 L 98.025 99.668 C 98.025 116.487 84.39 130.121 67.571 130.121 C 50.752 130.121 37.118 116.487 37.118 99.668 C 37.118 82.849 50.752 69.214 67.571 69.214 C 68.207 69.214 68.829 69.271 69.454 69.311 L 69.454 84.318 C 68.829 84.243 68.214 84.128 67.571 84.128 C 58.987 84.128 52.029 91.087 52.029 99.671 C 52.029 108.255 58.987 115.214 67.571 115.214 C 76.157 115.214 83.739 108.45 83.739 99.864 L 83.889 29.886 L 98.246 29.886 C 99.6 42.76 109.982 52.817 122.893 53.761 L 122.893 70.439 M 137.143 5 L 22.857 5 C 13.011 5 5 13.01 5 22.857 L 5 137.143 C 5 146.989 13.011 155 22.857 155 L 137.143 155 C 146.989 155 155 146.989 155 137.143 L 155 22.857 C 155 13.01 146.989 5 137.143 5"></path>
+</svg></span>
+                        <span class="txt">TikTok</span>
+                    </a>
+                </li>
+                    </ul>
+        
+      </div>
+    </div>
+  </nav>
+
+            <article id="content" class="page" role="main">
+                            <div  class="block block-hero01">
+        <div id="" class="anchor"></div>        <div class="txt page-wrapper">
+            <h1>Tavastia on liveklubi Helsingissä</h1>
+        </div>
+    </div>
+    <div  class="block block-newslike">
+        <div class="txt page-wrapper">
+            <div class="title-block">
+                <h2 class="text">Ajankohtaista</h2>
+                <div class="controls">
+                    <div class="numbers">
+                        <span class="now">1</span>
+                        <span class="sep">/</span>
+                        <span class="max">6</span>
+                    </div>
+                    <button type="button" class="prev">
+                        <span class="assistive-text">Edellinen</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.95 52.95" style="stroke: var(--bg);">
+                            <line x1="2.72" y1="26.48" x2="52.95" y2="26.48" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                            <polyline points="27.18 0.71 1.41 26.48 27.18 52.25" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                        </svg>
+                    </button>
+                    <button type="button" class="next">
+                        <span class="assistive-text">Seuraava</span>
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.95 52.95" style="stroke: var(--bg);">
+                            <line x1="50.23" y1="26.48" y2="26.48" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                            <polyline points="25.77 52.25 51.54 26.48 25.77 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                        </svg>
+                    </button>
+                </div>
+            </div>
+
+            <div class="list-items">
+                                            <a href="https://tavastiaklubi.fi/events/2026-08-28/ismo-alanko/119725/" class="pick-item item-event_item shown"  >
+            <div class="image-wrapper">
+                <div class="image" style="background-image: url(https://www.tiketti.fi/kuvat/EV119725_7_768x470.jpg);">
+                    <div class="empty"></div>
+                </div>
+            </div>
+            <div class="info">
+                <div class="text-above">LIPUT MYYNNISSÄ NYT!</div>
+                <h3>pe 28.8. Ismo Alanko</h3>
+            </div>
+        </a>
+                                            <a href="https://tavastiaklubi.fi/events/2026-12-05/blues-pills-graveyard-tour-2026/118975/" class="pick-item item-event_item " tabindex="-1" aria-hidden="true">
+            <div class="image-wrapper">
+                <div class="image" style="background-image: url(https://www.tiketti.fi/kuvat/EV118975_7_768x470.jpg);">
+                    <div class="empty"></div>
+                </div>
+            </div>
+            <div class="info">
+                <div class="text-above">LIPUT MYYNNISSÄ NYT!</div>
+                <h3>la 5.12. Blues Pills & Graveyard Tour 2026</h3>
+            </div>
+        </a>
+                                            <a href="https://tavastiaklubi.fi/events/2027-02-16/melrose-avenue-aus/118668/" class="pick-item item-event_item " tabindex="-1" aria-hidden="true">
+            <div class="image-wrapper">
+                <div class="image" style="background-image: url(https://www.tiketti.fi/kuvat/EV118668_7_768x470.jpg);">
+                    <div class="empty"></div>
+                </div>
+            </div>
+            <div class="info">
+                <div class="text-above">LIPUT MYYNNISSÄ NYT!</div>
+                <h3>ti 16.2. Melrose Avenue (AUS)</h3>
+            </div>
+        </a>
+                                            <a href="https://tavastiaklubi.fi/events/2026-10-11/ankea-presents-haken-uk/118788/" class="pick-item item-event_item " tabindex="-1" aria-hidden="true">
+            <div class="image-wrapper">
+                <div class="image" style="background-image: url(https://www.tiketti.fi/kuvat/EV118788_7_768x470.jpg);">
+                    <div class="empty"></div>
+                </div>
+            </div>
+            <div class="info">
+                <div class="text-above">LIPUT MYYNNISSÄ NYT!</div>
+                <h3>su 11.10. Ankea Presents: HAKEN (UK)</h3>
+            </div>
+        </a>
+                                            <a href="https://tavastiaklubi.fi/events/2027-02-02/young-gun-silver-fox-uk-miller-campbell-usa/118688/" class="pick-item item-event_item " tabindex="-1" aria-hidden="true">
+            <div class="image-wrapper">
+                <div class="image" style="background-image: url(https://www.tiketti.fi/kuvat/EV118688_7_768x470.jpg);">
+                    <div class="empty"></div>
+                </div>
+            </div>
+            <div class="info">
+                <div class="text-above">LIPUT MYYNNISSÄ NYT!</div>
+                <h3>ti 2.2. Young Gun Silver Fox (UK), Miller Campbell (USA)</h3>
+            </div>
+        </a>
+                                                        <a href="https://tavastiaklubi.fi/2021/09/14/tavastia-klubi-on-toistaseksi-kiinni/" class="pick-item item-post_item_next " tabindex="-1" aria-hidden="true">
+            
+                                <div class="info">
+
+                                            <div class="meta date">14.9.2021</div>
+                    
+                    
+                                            <h3>Osta Ympäristölippu ja tue Tavastia Hall of Nature -hanketta!</h3>
+                    
+                    <div class="excerpt">
+                        Tavastia Hall of Nature -hanke tähtää vastuullisempaan ja kestävämpään Tavastiaan. Yksi hankkeen tavoitteista on tulla hiilineutraaliksi livekentän toimijaksi. Tavastia&hellip;                    </div>
+
+                </div>
+
+                            </a>
+                                        </div>
+
+            <div class="clear"></div>
+        </div>
+    </div>
+    <script type="module">
+        let newslike = document.querySelector(".block-newslike");
+        let items = newslike.querySelector(".list-items");
+        let nowEl = newslike.querySelector(".numbers .now");
+        let count = items.children.length;
+        let current = 0;
+        const cycle = function(n, mod) {
+            const rest = n % mod;
+            return rest >= 0 ? rest : rest + mod;
+        };
+
+        const next = () => {
+            items.children[current].classList.toggle("shown", false);
+            items.children[current].setAttribute("tabindex", "-1")
+            items.children[current].setAttribute("aria-hidden", "true")
+            current = cycle(current + 1, count);
+            items.children[current].classList.toggle("shown", true);
+            items.children[current].removeAttribute("tabindex")
+            items.children[current].removeAttribute("aria-hidden")
+            nowEl.innerHTML = current + 1;
+
+        }
+
+        const prev = () => {
+            items.children[current].classList.toggle("shown", false);
+            items.children[current].setAttribute("tabindex", "-1")
+            items.children[current].setAttribute("aria-hidden", "true")
+            current = cycle(current - 1, count);
+            items.children[current].classList.toggle("shown", true);
+            items.children[current].removeAttribute("tabindex")
+            items.children[current].removeAttribute("aria-hidden")
+            nowEl.innerHTML = current + 1;
+        }
+
+        newslike.querySelector("button.next").addEventListener("click", e => {
+            next();
+        });
+        newslike.querySelector("button.prev").addEventListener("click", e => {
+            prev();
+        });
+
+        let lastX = 0;
+        let newX = 0;
+        let lastY = 0;
+        let newY = 0;
+        items.addEventListener("touchstart", (e) => {
+            if (e.touches.length === 1) {
+                lastX = e.touches[0].pageX;
+                lastY = e.touches[0].pageY;
+            } else {
+                lastX = 0;
+                newX = 0;
+                lastY = 0;
+                newY = 0;
+            }
+        });
+        items.addEventListener("touchmove", (e) => {
+            if (e.touches.length === 1) {
+                newX = e.touches[0].pageX;
+                newY = e.touches[0].pageY;
+            }
+        });
+        items.addEventListener("touchend", (e) => {
+            const distX = Math.abs(newX - lastX);
+            const distY = Math.abs(newY - lastY);
+            if (distX > distY && distX > 20) {
+                if (newX > lastX) {
+                    e.preventDefault();
+                    next();
+                } else if (newX < lastX) {
+                    e.preventDefault();
+                    prev();
+                }
+            }
+            lastX = 0;
+            newX = 0;
+            lastY = 0;
+            newY = 0;
+        });
+    </script>
+    <article role="tabpanel" id="block-tiketti-list2"  class="block block-tiketti-list2 not-all-shown not-filtered padding-layout-top_empty style-normal">
+        <div id="" class="anchor"></div>        <div class="txt page-wrapper">
+
+            <div class="infos" style="display: none">
+                                                                <div class="upcoming">
+                    <h2>Tulossa myyntiin</h2>
+                                            <p>Ei tulossa myyntiin olevia keikkoja tällä hetkellä.</p>
+                                    </div>
+
+                <div class="latest">
+                    <h2>Viimeksi myyntiin tulleet</h2>
+                                                                                        <ul>
+                            <li>
+                                <a href="https://tavastiaklubi.fi/events/2026-08-28/ismo-alanko/119725/">
+
+                                    <span class="onsaledate">3.8.</span>
+                                    <span class="name">Ismo Alanko <span class="event-date">pe 28.8.</span></span>
+
+                                </a>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="https://tavastiaklubi.fi/events/2026-11-14/battle-beast/119778/">
+
+                                    <span class="onsaledate">6.8.</span>
+                                    <span class="name">Battle Beast <span class="event-date">la 14.11.</span></span>
+
+                                </a>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="https://tavastiaklubi.fi/events/2027-03-08/despairsray-jpn/119573/">
+
+                                    <span class="onsaledate">4.8.</span>
+                                    <span class="name">D&#039;espairsRay (JPN) <span class="event-date">ma 8.3.</span></span>
+
+                                </a>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119664/">
+
+                                    <span class="onsaledate">12.8.</span>
+                                    <span class="name">REAPER FEST 2027 <span class="event-date">pe 17.9.</span></span>
+
+                                </a>
+                            </li>
+                        </ul>
+                                            <ul>
+                            <li>
+                                <a href="https://tavastiaklubi.fi/events/2027-09-17/reaper-fest-2027/119662/">
+
+                                    <span class="onsaledate">12.8.</span>
+                                    <span class="name">REAPER FEST 2027 <span class="event-date">pe 17.9.-<br></span></span>
+
+                                </a>
+                            </li>
+                        </ul>
+                                                                        </div>
+
+                <div class="content"><p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+            </div>
+
+                                                <div class="content">
+                <div class="clear"></div>
+
+                <h2 class="tiketti-list-header">Tulevat tapahtumat</h2>
+                <div class="tiketti-list">
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-13/sonia-ella-herold/119660/" class="tiketti-list-item location-tavastia-klubi status-fully_booked " data-search="sonia, ella herold" data-begin-date="2026-08-13">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV119660_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6               len-18">
+                                Sonia, Ella Herold                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    to 13.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+                                                                                                    Liput ovelta Vapaa pääsy<br>
+
+                                                                                            </div>
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>19.45</div>
+                                                    <div>Ella Herold</div>
+                                                </div>
+                                                                                            <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Sonia</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-14/kotiteollisuus/116367/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="kotiteollisuus" data-begin-date="2026-08-14">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116367_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11 len-over-12 len-over-13 len-over-14       len-14">
+                                Kotiteollisuus                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 14.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 35 € /                                                 37 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>21.30</div>
+                                                    <div>Kotiteollisuus</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-15/stoned-statues-atlas/118802/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="stoned statues, atlas" data-begin-date="2026-08-15">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV118802_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8             len-21">
+                                Stoned Statues, Atlas                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    la 15.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 28 € /                                                 30 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Atlas</div>
+                                                </div>
+                                                                                            <div class="secondary">
+                                                    <div>22.00</div>
+                                                    <div>Stoned Statues</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-16/northlane-aus/116717/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="northlane (aus)" data-begin-date="2026-08-16">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116717_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9            len-15">
+                                Northlane (AUS)                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    su 16.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 45 € /                                                 48 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">18.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>18.30</div>
+                                                    <div>Balance Breach</div>
+                                                </div>
+                                                                                            <div class="secondary">
+                                                    <div>19.30</div>
+                                                    <div>Northlane</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-17/geordie-greep-uk/118574/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="geordie greep (uk)" data-begin-date="2026-08-17">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV118574_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7              len-18">
+                                Geordie Greep (UK)                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    ma 17.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 33,90 € /                                                 36 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Geordie Greep </div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                        <a href="https://www.ravintolailves.fi/" target="_blank" class="add-item">
+                                <img width="1200" height="630" src="https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1.png" class="attachment-full size-full" alt="Tule syömään ennen keikkaa! Varaa pöytä Ravintola Ilveksestä." decoding="async" fetchpriority="high" srcset="https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1.png 1200w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-900x473.png 900w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-300x158.png 300w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-768x403.png 768w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-50x26.png 50w" sizes="(max-width: 1200px) 100vw, 1200px" />                                <img width="1200" height="630" src="https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1.png" class="attachment-full size-full" alt="Tule syömään ennen keikkaa! Varaa pöytä Ravintola Ilveksestä." decoding="async" srcset="https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1.png 1200w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-900x473.png 900w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-300x158.png 300w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-768x403.png 768w, https://tavastiaklubi.fi/wp-content/uploads/2026/07/Tavastia-klubin-oma-Bar-Kitchen-1-50x26.png 50w" sizes="(max-width: 1200px) 100vw, 1200px" />                            </a>
+                                                <a href="https://tavastiaklubi.fi/events/2026-08-21/an-evening-with-kiuas/117991/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="an evening with kiuas" data-begin-date="2026-08-21">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV117991_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7              len-21">
+                                An Evening With Kiuas                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 21.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 33 € /                                                 35 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-22/peer-gunt-50th-anniversary-tour/116384/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="peer günt 50th anniversary tour" data-begin-date="2026-08-22">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116384_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11         over-28  len-32">
+                                Peer Günt 50th Anniversary Tour                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    la 22.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 37 € /                                                 39 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Blindboünd</div>
+                                                </div>
+                                                                                            <div class="secondary">
+                                                    <div>21.30</div>
+                                                    <div>Peer Günt</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-26/the-kinky-thing/118321/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="the kinky thing" data-begin-date="2026-08-26">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV118321_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5                 len-15">
+                                The Kinky Thing                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    ke 26.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 31,50 € /                                                 35 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>The Kinky Thing</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-28/ismo-alanko/119725/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="ismo alanko" data-begin-date="2026-08-28">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV119725_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6               len-11">
+                                Ismo Alanko                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 28.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 45 € /                                                 50 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>21.30</div>
+                                                    <div>Ismo Alanko</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-08-29/alter-annala-git-gud-nenerchy/115847/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="alter annala: git gud, nenerchy" data-begin-date="2026-08-29">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV115847_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8            over-28  len-31">
+                                ALTER ANNALA: GIT GUD, Nenerchy                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    la 29.8.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 30 € /                                                 33 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Nenerchy</div>
+                                                </div>
+                                                                                            <div class="secondary">
+                                                    <div>21.45</div>
+                                                    <div>Alter Annala</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-03/brian-10v/116747/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="brian 10v." data-begin-date="2026-09-03">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116747_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5                 len-10">
+                                Brian 10v.                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    to 3.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 22 € /                                                 25 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                                                                                    <div class="secondary">
+                                                    <div>20.30</div>
+                                                    <div>Brian</div>
+                                                </div>
+                                                                                                                        </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-04/elakelaiset/117556/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="eläkeläiset" data-begin-date="2026-09-04">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV117556_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11 len-over-12 len-over-13        len-13">
+                                Eläkeläiset                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 4.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 33 € /                                                 35 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-05/the-69-eyes-daze-dolls-spiha/116195/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="the 69 eyes, daze dolls, spiha" data-begin-date="2026-09-05">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116195_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6              over-28  len-30">
+                                The 69 Eyes, Daze Dolls, Spiha                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    la 5.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 33 € /                                                 35 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-07/tumppi-varonen-70v/116167/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="tumppi varonen 70v" data-begin-date="2026-09-07">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116167_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7              len-18">
+                                Tumppi Varonen 70v                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    ma 7.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 33 € /                                                 35 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-09/aknestik-vien-sun-sydamen-pohjoiseen-40-vuotisjuhlakiertue/118256/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="aknestik - vien sun sydämen pohjoiseen 40-vuotisjuhlakiertue" data-begin-date="2026-09-09">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV118256_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11 len-over-12 len-over-13 len-over-14 len-over-15 len-over-16 len-over-17 len-over-18 len-over-19 over-28 over-40 over-50 over-60  len-61">
+                                Aknestik - Vien sun sydämen pohjoiseen 40-vuotisjuhlakiertue                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    ke 9.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 29,90 € /                                                 32 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-10/daniel-lanois-can-brian-blade-jim-wilson/116832/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="daniel lanois (can) + brian blade &amp; jim wilson" data-begin-date="2026-09-10">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV116832_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6              over-28 over-40  len-46">
+                                Daniel Lanois (CAN) + Brian Blade & Jim Wilson                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    to 10.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-yellow"></span><br>
+                                                 46,50 € /                                                 48 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-11/william-x-kerza/118516/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="william x kerza" data-begin-date="2026-09-11">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV118516_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7              len-15">
+                                william x Kerza                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 11.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-green"></span><br>
+                                                 27,50 € /                                                 30 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-12/lemonator-the-sugarrush/117492/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="lemonator, the sugarrush" data-begin-date="2026-09-12">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV117492_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10           len-24">
+                                Lemonator, The Sugarrush                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    la 12.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-yellow"></span><br>
+                                                 29 € /                                                 32 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">20.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-16/suho-superstar-in-memoriam-muistokonsertti/119145/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="suho superstar in memoriam – muistokonsertti" data-begin-date="2026-09-16">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV119145_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11 len-over-12 len-over-13 len-over-14 len-over-15     over-28 over-40  len-46">
+                                Suho Superstar in Memoriam – muistokonsertti                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    ke 16.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class="indicator indicator-yellow"></span><br>
+                                                 27 € /                                                 27 €                                            </div>
+
+                                        
+
+                                    <div class="timetable">
+                                                                                    <div>
+                                                <div class="time">19.00</div>
+                                                <div class="name">Ovet</div>
+                                            </div>
+                                        
+                                                                            </div>
+                                </div>
+
+                                                                        <div class="tickets">
+                                            <div class="buy">
+                                                <span class="text">Osta liput</span>
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.2 37.2" stroke="var(--fg)">
+                                                    <line x1="34.88" y1="18.6" y2="18.6" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                    <polyline points="17.89 36.49 35.78 18.6 17.89 0.71" fill="none" stroke-miterlimit="10" stroke-width="2" />
+                                                </svg>
+                                            </div>
+                                        </div>
+
+                                
+                                                            </div>
+
+
+                            <div class="clear"></div>
+                        </a>
+                                                                    <a href="https://tavastiaklubi.fi/events/2026-09-18/saimaa-levyjulkkarit/117710/" class="tiketti-list-item location-tavastia-klubi status-on_sale " data-search="saimaa (levyjulkkarit)" data-begin-date="2026-09-18">
+                            <div class="img ">
+                                                                    <div class="img-bg" style="background-image: url(https://www.tiketti.fi/kuvat/EV117710_7_768x470.jpg);"></div>
+                                                            </div>
+                            <h3 class="len-over-4 len-over-5 len-over-6 len-over-6 len-over-7 len-over-8 len-over-9 len-over-10 len-over-11 len-over-12 len-over-13 len-over-14 len-over-15      len-22">
+                                Saimaa (Levyjulkkarit)                            </h3>
+
+                            <div class="details">
+                                <div class="date">
+                                    pe 18.9.                                </div>
+
+                                <div class="info">
+                                    
+                                                                                <div class="tickets">
+
+                                                Liput <span class=
+<!-- TRIMMED BY recon.mjs -->

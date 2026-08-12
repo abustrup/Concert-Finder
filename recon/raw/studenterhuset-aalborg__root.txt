@@ -1,0 +1,1190 @@
+<!doctype html>
+<html lang="da" class="frontpage">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	
+		<title>Studenterhuset</title>
+	
+		<meta name="description" content="Studenterhuset, Gammeltorv 10, 9000 Aalborg">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="format-detection" content="telephone=no">
+		<meta name="author" content="Contentful">
+	
+		<!-- Preload kritisk CSS -->
+		<link rel="preload" href="/frontline/css/main.min.css" as="style">
+		<link rel="stylesheet" href="/frontline/css/main.min.css">
+	
+		<!-- Preconnect tidligt, så DNS + SSL handshake sker med det samme -->
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	
+		<!-- Preload selve CSS'en fra Google Fonts -->
+		<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed:wght@300;500&display=swap">
+	
+		<!-- Når preload er klar, læs den ind som stylesheet -->
+		<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed:wght@300;500&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+	
+		<!-- Fallback hvis JS er slået fra -->
+		<noscript>
+			<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed:wght@300;500&display=swap" rel="stylesheet">
+		</noscript>
+	
+	
+		<link rel="apple-touch-icon" sizes="57x57" href="/frontline/img/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="/frontline/img/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="/frontline/img/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="/frontline/img/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="/frontline/img/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="/frontline/img/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="/frontline/img/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="/frontline/img/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="/frontline/img/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="/frontline/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="/frontline/img/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="/frontline/img/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="/frontline/img/favicon/favicon-16x16.png">
+		<link rel="manifest" href="/frontline/img/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="/frontline/img/favicon/ms-icon-144x144.png">
+		<meta name="theme-color" content="#ffffff">
+	
+		<style>
+			.themecolor-background {
+				background-color: #5c75b0;
+			}
+			.themecolor-textcolor {
+				color: #ffffff;
+			}
+			.themecolor-imagetone {
+				background-color: #4d4e4f;
+			}
+		</style>
+	
+		<!-- Facebook Pixel Code -->
+		<script>
+	    !function(e,t,n,c,o,a,f){e.fbq||(o=e.fbq=function(){o.callMethod?o.callMethod.apply(o,arguments):o.queue.push(arguments)},e._fbq||(e._fbq=o),(o.push=o).loaded=!0,o.version="2.0",o.queue=[],(a=t.createElement(n)).async=!0,a.src="https://connect.facebook.net/en_US/fbevents.js",(f=t.getElementsByTagName(n)[0]).parentNode.insertBefore(a,f))}(window,document,"script"),fbq("init","2132667003694764"),fbq("track","PageView");
+		</script>
+		<noscript>
+			<img height="1" width="1" src="https://www.facebook.com/tr?id=2132667003694764&ev=PageView&noscript=1"/>
+		</noscript>
+		<!-- End Facebook Pixel Code -->
+	
+	</head>
+	
+
+	<body>
+
+			<div role="dialog" aria-live="polite" aria-label="cookieconsent" aria-describedby="cookieconsent:desc" class="cookie-policy" data-module="cookie-policy">
+				<!--googleoff: all-->
+				<div class="cookie-policy__inner">
+						<p class="cookie-policy__desc">Ved at fortsætte med at bruge dette websted accepterer du brugen af cookies</p>
+						<button class="cookie-policy__close-button">Luk</button>
+				</div>
+				<!--googleon: all-->
+			</div>
+
+		<main class="site-wrapper">
+
+			<header class="site-header">
+				<a href="/" class="site-header__logo" title="Studenterhuset">
+					<svg role="presentation" class="site-header__logo--symbol">
+						<use xlink:href="/frontline/svg/_bundle.svg#symbol"></use>
+					</svg>
+					<svg role="presentation" class="site-header__logo--name">
+						<title>Studenterhuset</title>
+						<use xlink:href="/frontline/svg/_bundle.svg#studenterhuset"></use>
+					</svg>
+				</a>
+				<div class="site-header__buttons">
+					<button type="button" class="site-header__button-volunteer themecolor-background" data-module="volunteer">Bliv frivillig</button>
+					<button type="button" class="site-header__button-newsletter themecolor-background" data-module="newsletter">Nyhedsbrev</button>
+				</div>
+			</header>
+			
+			<input type="checkbox" id="toggler" class="menu__toggler">
+			<label for="toggler" class="menu__label">
+				<span class="menu__bar"></span>
+				<span class="menu__labeltext">Menu</span>
+				<span class="menu__bar"></span>
+				<span class="menu__bar"></span>
+			</label>
+			
+			<nav class="site-navigation" data-module="follow-links" data-clickevent="mouseenter" aria-label="Main navigation">
+				<ul class="site-navigation__list">
+					<li class="site-navigation__listitem">
+						<a href="/om-studenterhuset" class="site-navigation__link">Om Studenterhuset</a>
+					</li>
+					<li class="site-navigation__listitem">
+						<a href="/frivillig-pa-studenterhuset" class="site-navigation__link">Frivillig på Studenterhuset</a>
+					</li>
+					<li class="site-navigation__listitem">
+						<a href="/booking-and-teknik" class="site-navigation__link">Booking &amp; Teknik</a>
+					</li>
+					<li class="site-navigation__listitem">
+						<a href="/lokaler" class="site-navigation__link">Lokaler</a>
+					</li>
+					<li class="site-navigation__listitem">
+						<a href="/cafeen" class="site-navigation__link">Caféen</a>
+					</li>
+					<li class="site-navigation__listitem">
+						<a href="/sponsorer" class="site-navigation__link">Sponsorer</a>
+					</li>
+			
+					<li class="site-navigation__listitem">
+						<a href="https://www.musicvault.dk" class="site-navigation__link" target="_blank">Musicvault</a>
+					</li>
+			
+					<li class="site-navigation__listitem site-navigation__listitem--language">
+						<a href="/en" class="site-navigation__link site-navigation__link--english">English</a>
+					</li>
+					<li class="site-navigation__listitem site-navigation__listitem--language">
+						<a href="/" class="site-navigation__link site-navigation__link--dansk">Dansk</a>
+					</li>
+					<li class="site-navigation__listitem site-navigation__listitem--facebook">
+						<a href="https://www.facebook.com/studenterhuset.aalborg" target="_blank" rel="noreferrer" class="site-navigation__link"><span>Facebook</span></a>
+					</li>
+					<li class="site-navigation__listitem site-navigation__listitem--instagram">
+						<a href="https://www.instagram.com/studenterhusetaalborg" target="_blank" rel="noreferrer" class="site-navigation__link"><span>Instagram</span></a>
+					</li>
+					<li class="site-navigation__listitem site-navigation__listitem--youtube">
+						<a href="https://www.youtube.com/channel/UC3Alei350FtEW7g_FtfsvvQ" target="_blank" rel="noreferrer" class="site-navigation__link"><span>Youtube</span></a>
+					</li>
+				</ul>
+			</nav>
+
+			<div class="featured-events mute--heading">
+			
+				<h2>Featured events</h2>
+			
+				<div class="featured-events__list" data-module="featured-events">
+			
+						<a href="/smag-pa-dig-selv" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/1eea6e91730899e5bc8b74c82a7de9a4.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Smag På Dig Selv</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/vilma-crow" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/951e02759245c42e41d69d85610d35b2.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Vilma Crow</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/red-warszawa" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/93683e9e7967da1ce5fb85c22a556e0d.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Red Warszawa</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/toldermania-xi" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/2b2449a64e39cebeee6e4ea690a7dc27.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Toldermania XI</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/karoline-mousing" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/1fb9a241d40107f461da497938330492.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Karoline Mousing</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/augusta-schackinger" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/023d75fa982444437c988d16f80b32df.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Augusta Schackinger</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/mikael-simpson" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/d15ad7a9753478612d4ad83b10c17ce9.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Mikael Simpson</span>
+							</h3>
+						</a>
+			
+			
+						<a href="/kindsight" class="featured-events__listitem themecolor-imagetone" data-flickity-bg-lazyload="/assets/contentful/70054557a8c7dd18cefa2d60448aad2a.webp">
+							<h3 class="featured-events__title">
+								<span class="featured-events__link">Kindsight</span>
+							</h3>
+						</a>
+			
+				</div>
+			</div>
+
+			<div class="events">
+                    <div class="eventlist mute--heading" data-module="eventlist">
+                    
+                    	<h2>Events</h2>
+                    
+                    	<ul class="eventlist__list">
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="Aug 26">
+                    
+                    					<a href="/bad-seed-beer-fest-2026" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/27cf937f06195b9592af6c4d9a21770b.webp" alt="Bad Seed Beer Fest 2026" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/bad-seed-beer-fest-2026" class="eventlist__link">Bad Seed Beer Fest 2026</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">14.08.26</span>
+                    								<span class="eventlist__date"> - 15.08.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 16:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://www.venueticket.dk/badseedbeerfest/beerfest2026" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/aalborg-symfoniorkester-x-studenterhuset" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/de554aaf457ca7ce63d783ddef98f1d3.webp" alt="Aalborg Symfoniorkester x Studenterhuset" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/aalborg-symfoniorkester-x-studenterhuset" class="eventlist__link">Aalborg Symfoniorkester x Studenterhuset</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">20.08.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__price">Gratis</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 19:30</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:00]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Rock">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/ukraine-rocks-skryabin-bandura" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/c8abf7488d58b9e7fc04b1d11f88cb86.webp" alt="Ukraine Rocks! Skryabin + Bandura" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/ukraine-rocks-skryabin-bandura" class="eventlist__link">Ukraine Rocks! Skryabin + Bandura</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">21.08.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Rock</span>
+                    							<span class="eventlist__meta--span eventlist__price">120,- inkl. gebyr (fri entre for herboende ukrainske flygtninge)</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 19:30</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 18:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/7c06e11bm1el59l" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/subhive-allstars-drum-and-bass-dubstep-rave" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/97b4a28718122731e29a95d2c1f2938a.webp" alt="SUBHIVE ☆ ALLSTARS - Drum &amp; Bass + Dubstep Rave" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/subhive-allstars-drum-and-bass-dubstep-rave" class="eventlist__link">SUBHIVE ☆ ALLSTARS - Drum &amp; Bass + Dubstep Rave</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">22.08.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">50 – 100 kr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://tikkio.com/events/65118" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/riddersalen-i" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/3cbe41de23e2b6a918ef4bac94f9c27b.webp" alt="Riddersalen I" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/riddersalen-i" class="eventlist__link">Riddersalen I</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">28.08.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">Gratis</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 16:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="Sep 26">
+                    
+                    					<a href="/queerish-monday-1" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/3ff68d7ea9d1b6e5bd22923b19499410.webp" alt="Queerish Monday #1" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/queerish-monday-1" class="eventlist__link">Queerish Monday #1</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">07.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">GRATIS</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 19:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Cafeen</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/boardgame-night-1" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/668c41fe4dcefd7284535b95e4387c11.webp" alt="BOARDGAME NIGHT #1" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/boardgame-night-1" class="eventlist__link">BOARDGAME NIGHT #1</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">08.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">GRATIS</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 17:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Cafeen</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/30-ars-jubilaeum" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/2bd8feedbec137eb907bec0be0df5a98.webp" alt="30 års jubilæum" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/30-ars-jubilaeum" class="eventlist__link">30 års jubilæum</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">11.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">Gratis</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 16:00</span>
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Rock,Indie">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/elias-ronnenfelt" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/4460f078e3ff83ad215ebd6fda49d952.webp" alt="Elias Rønnenfelt" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/elias-ronnenfelt" class="eventlist__link">Elias Rønnenfelt</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">17.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Rock,Indie</span>
+                    							<span class="eventlist__meta--span eventlist__price">180,- inkl. gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 20:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://tikkio.com/events/59682" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Metal">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/k-ya-and-persecutor" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/e24a9cdb1746351995eec2f3fded1cb7.webp" alt="Kōya &amp; Persecutor" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/k-ya-and-persecutor" class="eventlist__link">Kōya &amp; Persecutor</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">19.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Metal</span>
+                    							<span class="eventlist__meta--span eventlist__price">150,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 20:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/hfnpm6umtw7e7x5" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Jazz,Indie">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/kjartan-bue" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/0c3dbffe4b4c5752b5e61aa3a4cdc42c.webp" alt="Kjartan Bue" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/kjartan-bue" class="eventlist__link">Kjartan Bue</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">25.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Jazz,Indie</span>
+                    							<span class="eventlist__meta--span eventlist__price">120,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/2h494y3w3bvp6vu" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Rock,Metal">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/toldermania-xi" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/2b2449a64e39cebeee6e4ea690a7dc27.webp" alt="Toldermania XI" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/toldermania-xi" class="eventlist__link">Toldermania XI</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">26.09.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Rock,Metal</span>
+                    							<span class="eventlist__meta--span eventlist__price">220 + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 19:30</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:00]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/x0au2rh40ae4ctj" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Rock">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="Oct 26">
+                    
+                    					<a href="/en-aften-med-stig-d-a-d" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/821b4c7e53ab609c300ed48f26f3875c.webp" alt="En aften med Stig (D-A-D)" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/en-aften-med-stig-d-a-d" class="eventlist__link">En aften med Stig (D-A-D)</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">01.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Rock</span>
+                    							<span class="eventlist__meta--span eventlist__price">160,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 20:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/kdj881nk8fgnj96" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Indie">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/vilma-crow" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/951e02759245c42e41d69d85610d35b2.webp" alt="Vilma Crow" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/vilma-crow" class="eventlist__link">Vilma Crow</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">02.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Indie</span>
+                    							<span class="eventlist__meta--span eventlist__price">120,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/5la851aw2a24zh6" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Metal">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/red-warszawa" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/93683e9e7967da1ce5fb85c22a556e0d.webp" alt="Red Warszawa" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/red-warszawa" class="eventlist__link">Red Warszawa</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">03.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Metal</span>
+                    							<span class="eventlist__meta--span eventlist__price">150,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/ww075cgwjca6fap" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Jazz,Elektronisk">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/kalaha" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/8a2785beaf658234b7506cd6e8391de2.webp" alt="Kalaha" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/kalaha" class="eventlist__link">Kalaha</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">09.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Jazz,Elektronisk</span>
+                    							<span class="eventlist__meta--span eventlist__price">100,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/ygd80grl0lx5jpm" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Rock,Pop,Indie">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/sovnmonster" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/f123fb81a6b42cd667f4ccbb9c7b4ef3.webp" alt="Søvnmønster // Releasekoncert" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/sovnmonster" class="eventlist__link">Søvnmønster // Releasekoncert</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">10.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Rock,Pop,Indie</span>
+                    							<span class="eventlist__meta--span eventlist__price">120,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/jwbtt5cyl3734fz" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    							<button type="button" class="eventlist__plus-one" data-plus-one="+1-koncert, hvor du kan medbringe én gæst kvit og frit ved fremvisning af din billet og gyldigt studiekort. I tilfælde af udsolgte koncerter har folk med købte billetter altid fortrinsret.">+1</button>
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/way-up-north-2026" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/39ecc45f289f93cb9369a540b82ee036.webp" alt="Way Up North 2026" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/way-up-north-2026" class="eventlist__link">Way Up North 2026</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">16.10.26</span>
+                    								<span class="eventlist__date"> - 17.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 20:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal,Cafeen</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Indie">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/kindsight" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/70054557a8c7dd18cefa2d60448aad2a.webp" alt="Kindsight" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/kindsight" class="eventlist__link">Kindsight</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">22.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__support">Support: Ninna Lundberg</span>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Indie</span>
+                    							<span class="eventlist__meta--span eventlist__price">100,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 20:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 19:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/wj02lugr0fzprte" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    							<button type="button" class="eventlist__plus-one" data-plus-one="+1-koncert, hvor du kan medbringe én gæst kvit og frit ved fremvisning af din billet og gyldigt studiekort. I tilfælde af udsolgte koncerter har folk med købte billetter altid fortrinsret.">+1</button>
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Jazz">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/smag-pa-dig-selv" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/1eea6e91730899e5bc8b74c82a7de9a4.webp" alt="Smag På Dig Selv" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/smag-pa-dig-selv" class="eventlist__link">Smag På Dig Selv</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">30.10.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Jazz</span>
+                    							<span class="eventlist__meta--span eventlist__price">210,- inkl. gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://tikkio.com/events/61491" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Metal">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="Nov 26">
+                    
+                    					<a href="/aalborg-metal-festival-2026" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/debe29b685b7265ac15345e44a6103ac.webp" alt="Aalborg Metal Festival 2026" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/aalborg-metal-festival-2026" class="eventlist__link">Aalborg Metal Festival 2026</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">06.11.26</span>
+                    								<span class="eventlist__date"> - 07.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Metal</span>
+                    							<span class="eventlist__meta--span eventlist__price">PARTOUT 900,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 14:00</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/xz444dxt8kh57hy" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Pop">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/karoline-mousing" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/1fb9a241d40107f461da497938330492.webp" alt="Karoline Mousing" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/karoline-mousing" class="eventlist__link">Karoline Mousing</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">13.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Pop</span>
+                    							<span class="eventlist__meta--span eventlist__price">150,- inkl. gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://tikkio.com/events/61836" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Pop">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/augusta-schackinger" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/023d75fa982444437c988d16f80b32df.webp" alt="Augusta Schackinger" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/augusta-schackinger" class="eventlist__link">Augusta Schackinger</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">14.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__support">Support: Rebekka Ruby</span>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Pop</span>
+                    							<span class="eventlist__meta--span eventlist__price">110,- inkl. gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/da/n2cw3lrk3gjg8pw" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Indie,Pop,Elektronisk">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/mikael-simpson" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/d15ad7a9753478612d4ad83b10c17ce9.webp" alt="Mikael Simpson" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/mikael-simpson" class="eventlist__link">Mikael Simpson</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">21.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Indie,Pop,Elektronisk</span>
+                    							<span class="eventlist__meta--span eventlist__price">310,- inkl. gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 21:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 20:00]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://tikkio.com/events/61246" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Events">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-2 themecolor-background" id="">
+                    
+                    					<a href="/black-metal-som-mork-taenkning" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/f15d80e5ddc4df895e296df7b2580540.webp" alt="Black Metal som mørk tænkning" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/black-metal-som-mork-taenkning" class="eventlist__link">Black Metal som mørk tænkning</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">26.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Events</span>
+                    							<span class="eventlist__meta--span eventlist__price">100,- </span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 17:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 16:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://fuaalborg.dk/aalborg/program/musik-film-og-teater/black-metal-som-moerk-taenkning-2621-158" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    			<li class="eventlist__listitem" data-genre="Metal">
+                    
+                    				<div class="eventlist__item themecolor-textcolor eventlist__item--theme-1 themecolor-imagetone" id="">
+                    
+                    					<a href="/trold-magisk-juleborneshow" class="eventlist__imagelink">
+                    						<img src="/assets/contentful/23d567a70af0d5bde23db777ae607b9f.webp" alt="Trold – Magisk julebørneshow" class="eventlist__image" loading="lazy"/>
+                    					</a>
+                    
+                    					<div class="eventlist__wrapper">
+                    						<h3 class="eventlist__title">
+                    							<a href="/trold-magisk-juleborneshow" class="eventlist__link">Trold – Magisk julebørneshow</a>
+                    						</h3>
+                    
+                    						<div class="eventlist__meta">
+                    							<div class="eventlist__dates">
+                    								<span class="eventlist__date">28.11.26</span>
+                    							</div>
+                    							<span class="eventlist__meta--span eventlist__genre">Genre: Metal</span>
+                    							<span class="eventlist__meta--span eventlist__price">120,- + gebyr</span>
+                    							<span class="eventlist__meta--span eventlist__starttime">Start: 14:00</span>
+                    							<span class="eventlist__meta--span eventlist__doors">[Døre: 13:30]</span>
+                    							<!---->
+                    							<!--<span class="eventlist__location">Store sal</span>-->
+                    							<!---->
+                    						</div>
+                    
+                    						<!---->
+                    
+                    						<a href="https://secure.tickster.com/52ggrv7ppknnzj9" target="_blank" rel="noreferrer" class="btn btn--cta btn--small eventlist__ticketlink">Køb billet<span></span></a>
+                    
+                    
+                    					</div>
+                    				</div>
+                    
+                    			</li>
+                    	</ul>
+                    </div>
+
+				<p class="buttons">
+					<a href="/events_da" class="btn btn--large themecolor-background">Arkiv</a>
+				</p>
+			</div>
+
+		</main>
+
+		<footer class="site-footer">
+			<div class="site-footer__inner">
+				<div class="featured-sponsors mute--heading">
+					<h2>Sponsorer</h2>
+					<div class="grid-container">
+						<ul class="featured-sponsors__list">
+								<li class="featured-sponsors__listitem">
+									<img src="/assets/contentful/8224b9bc520fa253dfb397c9446e0255.webp?w=200" alt="Statens Kunstfond" class="featured-sponsors__image" loading="lazy"/>
+								</li>
+								<li class="featured-sponsors__listitem">
+									<img src="/assets/contentful/e0b805984a6c004c407770e6bd346230.webp?w=200" alt="Aalborg  Kommune" class="featured-sponsors__image" loading="lazy"/>
+								</li>
+								<li class="featured-sponsors__listitem">
+									<img src="/assets/contentful/50d73e904d26b66ff35d0db565feca39.webp?w=200" alt="Royal Unibrew" class="featured-sponsors__image" loading="lazy"/>
+								</li>
+								<li class="featured-sponsors__listitem">
+									<img src="/assets/contentful/16732c2e2bf5ed350c8c8ecedfb57691.webp?w=200" alt="AAU" class="featured-sponsors__image" loading="lazy"/>
+								</li>
+								<li class="featured-sponsors__listitem">
+									<img src="/assets/contentful/b14ac099b1dd7713da3b987a03a60b9d.webp?w=200" alt="UCN" class="featured-sponsors__image" loading="lazy"/>
+								</li>
+						</ul>
+					</div>
+				</div>
+					
+			</div>
+		</footer>
+
+		<span class="highlight"></span>
+		
+		<form action='/' hidden method='post' name='volunteer'>
+		    <input type="hidden" name="form-name" value="volunteer" />
+		    <input type="text" name="name" />
+		    <input type="email" name="email" />
+		    <input type="tel" name="phonenumber"/>
+		    <input type="text" name="city"/>
+		    <input type="text" name="studie" />
+		</form>
+		
+		<form action='/' hidden method='post' name='newsletter'>
+		  <input type="hidden" name="form-name" value="newsletter" />
+		  <input type="text" name="name" />
+		  <input type="email" name="email" />
+		</form>
+		
+		<script src="/frontline/js/common.min.js" defer></script>
+		<script src="/frontline/js/main.min.js" defer></script>
+		
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-M5715FJ63M"></script>
+		<script>
+		    window.dataLayer = window.dataLayer || [];
+		    function gtag(){dataLayer.push(arguments);}
+		    gtag("js", new Date());	gtag("js", new Date());				
+		    gtag("config", "G-M5715FJ63M");
+		</script>
+
+	</body>
+</html>

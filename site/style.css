@@ -1,0 +1,940 @@
+/* TOLV — twelve nights a year.
+ *
+ * The direction, committed once and applied everywhere:
+ *
+ *   ONE TYPE FAMILY.  Space Grotesk, variable 300-700. Hierarchy comes from
+ *   size, weight and tracking, never from a second typeface.
+ *
+ *   ONE ACCENT.  Scarlet #FF3D2E. It is the single ink of the Danish concert
+ *   poster, it is not Spotify green, and it is the only saturated colour in
+ *   the interface — so wherever it appears, it means something.
+ *
+ *   THE DEVICE.  A year spine. The results are not a list, they are twelve
+ *   nights placed along the next twelve months, so the shape of your year is
+ *   the thing you see first. That is the whole product argument, drawn.
+ *
+ *   TYPE OVER PHOTOGRAPHY.  Venue listings often have no usable image, so the
+ *   design is built to look deliberate with none, and merely better with one.
+ */
+
+/* ---------------------------------------------------------------- tokens --- */
+
+:root {
+  --accent: #ff3d2e;
+  /* Text ON the accent. White was 3.52:1 against this scarlet, which fails
+     WCAG AA for normal text; near-black is 5.38:1 and, on a poster-red button,
+     looks more deliberate anyway. */
+  --accent-ink: #12100f;
+  /* The accent used AS text. On the dark ground the scarlet itself is 5.47:1
+     and fine. On warm paper it is only 3.32:1, so light mode gets a darker
+     variant of the same hue at 4.69:1. Same colour, same meaning, legible in
+     both. */
+  --accent-text: #d62b1a;
+  --accent-dim: #c72a1e;
+
+  /* Light is the fallback definition; dark overrides below. Neither is an
+     afterthought — the light mode is warm paper, not a bleached dark mode. */
+  --bg: #faf8f5;
+  --bg-raised: #ffffff;
+  --bg-sunk: #f1eee9;
+  --ink: #16151a;
+  --ink-2: #4a4852;
+  --ink-3: #86838f;
+  --line: rgba(22, 21, 26, 0.14);
+  --line-strong: rgba(22, 21, 26, 0.28);
+  --shadow: 0 1px 2px rgba(22, 21, 26, 0.06), 0 8px 24px -12px rgba(22, 21, 26, 0.18);
+
+  --r-card: 18px;
+  --r-pill: 999px;
+  --r-input: 12px;
+
+  --s1: 4px;
+  --s2: 8px;
+  --s3: 12px;
+  --s4: 16px;
+  --s5: 24px;
+  --s6: 32px;
+  --s7: 48px;
+  --s8: 64px;
+  --s9: 96px;
+
+  --rail: 76px;
+  --maxw: 1120px;
+
+  --font: 'Space Grotesk', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    --bg: #0e0e11;
+    --bg-raised: #17171c;
+    --bg-sunk: #0a0a0c;
+    --ink: #f4f2ef;
+    --ink-2: #a9a6b0;
+    --ink-3: #6f6c78;
+    --line: rgba(244, 242, 239, 0.13);
+    --line-strong: rgba(244, 242, 239, 0.3);
+    --shadow: none;
+    --accent-text: #ff3d2e;
+  }
+}
+
+:root[data-theme='dark'] {
+  --bg: #0e0e11;
+  --bg-raised: #17171c;
+  --bg-sunk: #0a0a0c;
+  --ink: #f4f2ef;
+  --ink-2: #a9a6b0;
+  --ink-3: #6f6c78;
+  --line: rgba(244, 242, 239, 0.13);
+  --line-strong: rgba(244, 242, 239, 0.3);
+  --shadow: none;
+  --accent-text: #ff3d2e;
+}
+
+/* ------------------------------------------------------------------ base --- */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 16px;
+  line-height: 1.5;
+  font-variant-numeric: tabular-nums;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+p,
+figure,
+ul,
+ol {
+  margin: 0;
+}
+ul,
+ol {
+  padding: 0;
+  list-style: none;
+}
+a {
+  color: inherit;
+}
+button {
+  font: inherit;
+  color: inherit;
+  border: 0;
+  background: none;
+  cursor: pointer;
+}
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+.wrap {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 var(--s5);
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* ---------------------------------------------------------------- header --- */
+
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+.top-in {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: var(--s3) var(--s5);
+  display: flex;
+  align-items: center;
+  gap: var(--s4);
+}
+
+.mark {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  text-decoration: none;
+}
+
+.mark b {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  line-height: 1;
+}
+
+/* The dot is the only decorative mark in the interface. It is the accent, and
+   it reads as a stage light. */
+.mark i {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+  display: inline-block;
+  transform: translateY(-2px);
+}
+
+.mark span {
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.02em;
+}
+
+.top-spacer {
+  flex: 1;
+}
+
+.ghost {
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  padding: 7px 14px;
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink-2);
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  white-space: nowrap;
+}
+.ghost:hover {
+  border-color: var(--line-strong);
+  color: var(--ink);
+}
+.ghost[aria-pressed='true'] {
+  background: var(--ink);
+  color: var(--bg);
+  border-color: var(--ink);
+}
+
+/* ------------------------------------------------------------------ hero --- */
+
+.hero {
+  padding: clamp(48px, 9vw, 104px) 0 var(--s7);
+}
+
+.kicker {
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent-text);
+  font-weight: 600;
+  margin-bottom: var(--s4);
+}
+
+.hero h1 {
+  font-size: clamp(40px, 8.5vw, 84px);
+  line-height: 0.98;
+  letter-spacing: -0.035em;
+  font-weight: 700;
+  max-width: 15ch;
+  text-wrap: balance;
+}
+
+.hero h1 em {
+  font-style: normal;
+  color: var(--accent-text);
+}
+
+.lede {
+  margin-top: var(--s5);
+  font-size: clamp(16px, 2.1vw, 19px);
+  color: var(--ink-2);
+  max-width: 56ch;
+  line-height: 1.55;
+}
+
+/* ---------------------------------------------------------------- import --- */
+
+.ways {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(272px, 1fr));
+  gap: var(--s4);
+  margin-top: var(--s7);
+}
+
+.way {
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  padding: var(--s5);
+  display: flex;
+  flex-direction: column;
+  gap: var(--s3);
+  text-align: left;
+  width: 100%;
+  transition: border-color 0.15s, transform 0.15s;
+  box-shadow: var(--shadow);
+}
+.way:hover {
+  border-color: var(--line-strong);
+  transform: translateY(-2px);
+}
+.way[data-primary='true'] {
+  border-color: var(--accent);
+}
+
+.way-n {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  color: var(--ink-3);
+  text-transform: uppercase;
+}
+.way h3 {
+  font-size: 19px;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+}
+.way p {
+  font-size: 14px;
+  color: var(--ink-2);
+  line-height: 1.5;
+}
+.way .tag {
+  margin-top: auto;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.drop {
+  border: 1.5px dashed var(--line-strong);
+  border-radius: var(--r-card);
+  padding: var(--s6);
+  text-align: center;
+  transition: border-color 0.15s, background 0.15s;
+}
+.drop.over {
+  border-color: var(--accent);
+  background: color-mix(in srgb, var(--accent) 7%, transparent);
+}
+
+.btn {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border-radius: var(--r-pill);
+  padding: 12px 26px;
+  font-weight: 600;
+  font-size: 15px;
+  letter-spacing: 0.01em;
+  transition: transform 0.12s, background 0.15s;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+.btn:hover {
+  transform: scale(1.03);
+}
+.btn:active {
+  transform: scale(0.99);
+}
+.btn[disabled] {
+  opacity: 0.45;
+  pointer-events: none;
+}
+.btn.sec {
+  background: var(--ink);
+  color: var(--bg);
+}
+
+.field {
+  width: 100%;
+  background: var(--bg-sunk);
+  border: 1px solid var(--line);
+  border-radius: var(--r-input);
+  padding: 11px 14px;
+  color: var(--ink);
+  font: inherit;
+  font-size: 15px;
+}
+.field::placeholder {
+  color: var(--ink-3);
+}
+textarea.field {
+  min-height: 132px;
+  resize: vertical;
+  line-height: 1.6;
+}
+
+/* --------------------------------------------------------------- controls --- */
+
+.controls {
+  position: sticky;
+  top: 57px;
+  z-index: 30;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+  padding: var(--s3) 0;
+}
+
+.controls-in {
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding: 0 var(--s5);
+  display: flex;
+  align-items: center;
+  gap: var(--s4);
+  flex-wrap: wrap;
+}
+
+.ctl {
+  display: flex;
+  align-items: center;
+  gap: var(--s2);
+}
+.ctl label {
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+select.field {
+  padding: 7px 30px 7px 12px;
+  font-size: 14px;
+  border-radius: var(--r-pill);
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position: calc(100% - 16px) 52%, calc(100% - 11px) 52%;
+  background-size: 5px 5px, 5px 5px;
+  background-repeat: no-repeat;
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+input[type='range'] {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 116px;
+  height: 22px;
+  background: none;
+  cursor: pointer;
+}
+input[type='range']::-webkit-slider-runnable-track {
+  height: 3px;
+  background: var(--line-strong);
+  border-radius: 2px;
+}
+input[type='range']::-moz-range-track {
+  height: 3px;
+  background: var(--line-strong);
+  border-radius: 2px;
+}
+input[type='range']::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+  background: var(--accent);
+  margin-top: -6px;
+}
+input[type='range']::-moz-range-thumb {
+  width: 15px;
+  height: 15px;
+  border: 0;
+  border-radius: 50%;
+  background: var(--accent);
+}
+
+.count-badge {
+  font-weight: 700;
+  font-size: 17px;
+  min-width: 2ch;
+  text-align: center;
+}
+
+/* ------------------------------------------------------------ year spine --- */
+
+.results {
+  padding: var(--s7) 0 var(--s9);
+}
+
+.summary {
+  display: flex;
+  align-items: flex-end;
+  gap: var(--s5);
+  flex-wrap: wrap;
+  margin-bottom: var(--s7);
+}
+
+.summary .big {
+  font-size: clamp(56px, 13vw, 122px);
+  font-weight: 700;
+  line-height: 0.82;
+  letter-spacing: -0.05em;
+  color: var(--accent-text);
+}
+
+.summary .said {
+  font-size: 15px;
+  color: var(--ink-2);
+  max-width: 46ch;
+  line-height: 1.5;
+  padding-bottom: 6px;
+}
+
+.spine {
+  position: relative;
+  padding-left: var(--rail);
+}
+
+/* The rail itself. A single hairline running the length of the year. */
+.spine::before {
+  content: '';
+  position: absolute;
+  left: calc(var(--rail) - 25px);
+  top: 8px;
+  bottom: 8px;
+  width: 1px;
+  background: var(--line);
+}
+
+.month {
+  position: relative;
+  margin-bottom: var(--s5);
+  /* An empty month still needs room for its own label. Without this the label
+     is taller than the row and overlaps the next one, which turned five quiet
+     months into one illegible smear. */
+  min-height: 30px;
+}
+
+.month-label {
+  position: absolute;
+  left: calc(var(--rail) * -1);
+  top: 4px;
+  width: calc(var(--rail) - 30px);
+  text-align: right;
+  line-height: 1.15;
+}
+.month-label b {
+  display: block;
+  font-size: 13px;
+  color: var(--ink);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.month-label i {
+  display: block;
+  font-style: normal;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  color: var(--ink-3);
+  margin-top: 2px;
+}
+
+/* A month with nothing in it is information, not a gap to hide: it is where
+   the year is empty and something could go. */
+.month.empty .month-label b {
+  color: var(--ink-3);
+  font-weight: 500;
+}
+
+.pick {
+  position: relative;
+  display: grid;
+  grid-template-columns: 62px 1fr auto;
+  gap: var(--s4);
+  align-items: start;
+  background: var(--bg-raised);
+  border: 1px solid var(--line);
+  border-radius: var(--r-card);
+  padding: var(--s4) var(--s5);
+  margin-bottom: var(--s3);
+  text-decoration: none;
+  transition: border-color 0.15s, transform 0.15s;
+  box-shadow: var(--shadow);
+}
+.pick:hover {
+  border-color: var(--line-strong);
+  transform: translateX(3px);
+}
+
+/* The card is no longer one big link: it carries a ticket link AND a link to
+   the venue's own page, and a link cannot legally nest inside a link. */
+.pick-title {
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.15s;
+}
+.pick-title:hover {
+  border-bottom-color: var(--accent);
+}
+
+.prov {
+  margin-top: var(--s3);
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.01em;
+}
+.prov b {
+  font-weight: 500;
+  color: var(--ink-2);
+}
+
+.pick-links {
+  display: flex;
+  gap: var(--s3);
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+/* The node where this night meets the rail. */
+.pick::before {
+  content: '';
+  position: absolute;
+  left: -26px;
+  top: 30px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--accent);
+  box-shadow: 0 0 0 4px var(--bg);
+}
+.pick.disc::before {
+  background: var(--bg);
+  border: 2px solid var(--accent);
+  left: -27px;
+}
+
+.pick-date {
+  text-align: center;
+  line-height: 1;
+  padding-top: 2px;
+}
+.pick-date b {
+  display: block;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+.pick-date span {
+  display: block;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin-top: 5px;
+}
+
+.pick-main h3 {
+  font-size: clamp(19px, 2.4vw, 25px);
+  font-weight: 600;
+  letter-spacing: -0.025em;
+  line-height: 1.15;
+  text-wrap: balance;
+}
+
+.pick-meta {
+  font-size: 13.5px;
+  color: var(--ink-2);
+  margin-top: 5px;
+}
+.pick-meta .dot {
+  color: var(--ink-3);
+  margin: 0 7px;
+}
+
+.why {
+  margin-top: var(--s3);
+  font-size: 13.5px;
+  color: var(--ink);
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  line-height: 1.45;
+}
+.why::before {
+  content: '';
+  flex: none;
+  width: 14px;
+  height: 1px;
+  background: var(--accent);
+  transform: translateY(-4px);
+}
+
+.pick-side {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--s2);
+  text-align: right;
+}
+
+.chip {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: var(--r-pill);
+  border: 1px solid var(--line);
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+.chip.acc {
+  border-color: var(--accent-text);
+  color: var(--accent-text);
+}
+
+.price {
+  font-size: 13px;
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+
+.tick {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink);
+  border-bottom: 1.5px solid var(--accent);
+  padding-bottom: 1px;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.tick:hover {
+  color: var(--accent-text);
+}
+/* The venue's own page is the authority but not the call to action. */
+.tick.sec {
+  font-weight: 500;
+  color: var(--ink-3);
+  border-bottom-color: var(--line-strong);
+}
+.tick.sec:hover {
+  color: var(--ink);
+  border-bottom-color: var(--ink-3);
+}
+
+/* ----------------------------------------------------------------- notes --- */
+
+.note {
+  border: 1px solid var(--line);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 var(--r-input) var(--r-input) 0;
+  background: var(--bg-raised);
+  padding: var(--s4) var(--s5);
+  font-size: 14px;
+  color: var(--ink-2);
+  line-height: 1.55;
+  margin: var(--s5) 0;
+}
+.note b {
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.empty-state {
+  text-align: center;
+  padding: var(--s9) var(--s5);
+  color: var(--ink-2);
+}
+.empty-state b {
+  display: block;
+  font-size: 22px;
+  color: var(--ink);
+  margin-bottom: var(--s3);
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* ---------------------------------------------------------------- footer --- */
+
+.foot {
+  border-top: 1px solid var(--line);
+  padding: var(--s7) 0 var(--s8);
+  font-size: 13px;
+  color: var(--ink-3);
+  line-height: 1.6;
+}
+.foot h4 {
+  font-size: 12px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-2);
+  margin: 0 0 var(--s3);
+  font-weight: 600;
+}
+.foot-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: var(--s6);
+}
+.foot a {
+  color: var(--ink-2);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+}
+.foot a:hover {
+  color: var(--ink);
+  border-color: var(--accent);
+}
+
+.stat-row {
+  display: flex;
+  gap: var(--s6);
+  flex-wrap: wrap;
+  margin: var(--s5) 0;
+}
+.stat b {
+  display: block;
+  font-size: 27px;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  color: var(--ink);
+  line-height: 1.1;
+}
+.stat span {
+  font-size: 12px;
+  color: var(--ink-3);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+/* --------------------------------------------------------------- loading --- */
+
+.pulse {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--accent);
+  animation: pulse 1.1s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%,
+  100% {
+    opacity: 0.25;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.15);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+  .pick:hover,
+  .way:hover,
+  .btn:hover {
+    transform: none;
+  }
+}
+
+/* ---------------------------------------------------------------- mobile --- */
+
+@media (max-width: 720px) {
+  :root {
+    --rail: 52px;
+  }
+  /* The tagline wrapped to three lines beside the wordmark and pushed "Start
+     over" off the right edge. On a phone the wordmark is enough. */
+  .mark span {
+    display: none;
+  }
+  .top-in {
+    gap: var(--s2);
+  }
+  .ghost {
+    padding: 6px 11px;
+    font-size: 12px;
+  }
+  .mark b {
+    font-size: 19px;
+    letter-spacing: 0.13em;
+  }
+  .wrap,
+  .top-in,
+  .controls-in {
+    padding-left: var(--s4);
+    padding-right: var(--s4);
+  }
+  .pick {
+    grid-template-columns: 46px 1fr;
+    padding: var(--s4);
+    gap: var(--s3);
+  }
+  .pick-side {
+    grid-column: 1 / -1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: var(--s2);
+    flex-wrap: wrap;
+  }
+  .pick-date b {
+    font-size: 24px;
+  }
+  .spine::before {
+    left: calc(var(--rail) - 17px);
+  }
+  .pick::before {
+    left: -18px;
+    top: 24px;
+  }
+  .pick.disc::before {
+    left: -19px;
+  }
+  .month-label {
+    width: calc(var(--rail) - 26px);
+  }
+  .summary {
+    gap: var(--s4);
+  }
+  .controls {
+    top: 53px;
+  }
+  .controls-in {
+    gap: var(--s3);
+  }
+}
+
+@media print {
+  .top,
+  .controls,
+  .ways {
+    display: none;
+  }
+  .pick {
+    break-inside: avoid;
+  }
+}

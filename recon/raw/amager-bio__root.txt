@@ -1,0 +1,1987 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="https://ab-b.dk/wp-content/themes/ab2016/_/img/favicon.ico?abb">
+
+    <title>Amager Bio &amp; BETA - Koncerter og musik i København</title>
+
+    <script>
+        var AB16_THEMEDIR = "https:\/\/ab-b.dk\/wp-content\/themes\/ab2016";
+    </script>
+          <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-K7HTVJP3NF"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-K7HTVJP3NF');
+      </script>
+      <!-- End Google Tag Manager -->
+    
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<meta name="description" content="Spillestederne Amager Bio og BETA byder på koncerter inden for snart sagt alle rytmiske musikgenrer med fokus på Rock, Pop, Blues, Metal, Urban og Jazz." />
+	<link rel="canonical" href="https://ab-b.dk/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Amager Bio - BETA 2300 - Livemusik i København" />
+	<meta property="og:description" content="Gennem de sidste tyve år har Amager Bio præsenteret et væld af musik inden for snart sagt alle rytmiske genrer med hovedfokus på Rock, Pop, Blues, Metal, Urban og Jazz. Stedet har haft besøg af etablerede verdensstjerner, upcoming internationale kunstnere og dansk kvalitetsmusik, og det bestræber sig for at byde på store oplevelser for unge som gamle." />
+	<meta property="og:url" content="https://ab-b.dk/" />
+	<meta property="og:site_name" content="AB&amp;B // Amager Bio &amp; Beta" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@amagerbio" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://ab-b.dk/","url":"https://ab-b.dk/","name":"Amager Bio & BETA - Koncerter og musik i København","isPartOf":{"@id":"https://ab-b.dk/#website"},"about":{"@id":"https://ab-b.dk/#organization"},"description":"Spillestederne Amager Bio og BETA byder på koncerter inden for snart sagt alle rytmiske musikgenrer med fokus på Rock, Pop, Blues, Metal, Urban og Jazz.","breadcrumb":{"@id":"https://ab-b.dk/#breadcrumb"},"inLanguage":"da-DK"},{"@type":"BreadcrumbList","@id":"https://ab-b.dk/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Hjem"}]},{"@type":"WebSite","@id":"https://ab-b.dk/#website","url":"https://ab-b.dk/","name":"Amager Bio & Beta","description":"Store koncerter og live musik fra undergrunden","publisher":{"@id":"https://ab-b.dk/#organization"},"alternateName":"AB&B","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://ab-b.dk/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"},{"@type":"Organization","@id":"https://ab-b.dk/#organization","name":"Amager Bio","url":"https://ab-b.dk/","logo":{"@type":"ImageObject","inLanguage":"da-DK","@id":"https://ab-b.dk/#/schema/logo/image/","url":"https://ab-b.dk/wp-content/uploads/2021/10/ograph-fp.png","contentUrl":"https://ab-b.dk/wp-content/uploads/2021/10/ograph-fp.png","width":960,"height":960,"caption":"Amager Bio"},"image":{"@id":"https://ab-b.dk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/amagerbio","https://x.com/amagerbio","https://www.facebook.com/beta2300"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<script type='application/javascript'  id='pys-version-script'>console.log('PixelYourSite Free version 11.2.0.4');</script>
+
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='fancybox-css' href='https://ab-b.dk/wp-content/themes/ab2016/_/lib/fancyBox/dist/jquery.fancybox.css?ver=1537530188' media='all' />
+<link rel='stylesheet' id='perfect-scrollbar-css' href='https://ab-b.dk/wp-content/themes/ab2016/_/lib/perfect-scrollbar/css/perfect-scrollbar.min.css?ver=1588864548' media='all' />
+<link rel='stylesheet' id='jquery-cookiebar-css' href='https://ab-b.dk/wp-content/themes/ab2016/_/js/lib-custom/jquery.cookiebar.css?ver=1683661912' media='all' />
+<link rel='stylesheet' id='ab2016-css' href='https://ab-b.dk/wp-content/themes/ab2016/_/css/ab2016.css?ver=1758741558' media='all' />
+<script id="jquery-core-js" src="https://ab-b.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://ab-b.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://ab-b.dk/api/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://ab-b.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.3" />
+<link rel="icon" href="https://ab-b.dk/wp-content/uploads/2021/11/cropped-abbetalogo-32x32.jpg" sizes="32x32" />
+<link rel="icon" href="https://ab-b.dk/wp-content/uploads/2021/11/cropped-abbetalogo-192x192.jpg" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://ab-b.dk/wp-content/uploads/2021/11/cropped-abbetalogo-180x180.jpg" />
+<meta name="msapplication-TileImage" content="https://ab-b.dk/wp-content/uploads/2021/11/cropped-abbetalogo-270x270.jpg" />
+    <link rel='stylesheet' id='font-awesome-fa-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css?ver=6.8.2' type='text/css' media='all' />
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body class="home blog wp-theme-ab2016">
+
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MCR48K5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="header" data-spy="affix" data-offset-top="20">
+    <div class="container">
+
+        <a class="logo" href="https://ab-b.dk" title="Gå til forsiden"></a>
+
+        <div class="topmenu">
+            <a href="#player" title="Musikafspiller"></a>
+            <a href="#mainmenu" title="Hovedmenu"></a>
+        </div>
+
+    </div>
+</div>
+
+<div id="mainmenu" class="hidden">
+  <div class="overlay"></div>
+
+  <a class="closebtn" href="#close">
+    <span class="bar1"></span>
+    <span class="bar2"></span>
+  </a>
+
+  <div class="menu">
+    <div class="boxshadow-left"></div>
+    <div class="inner">
+
+      <div class="top">
+          <div class="menu-hovedmenu-container"><ul id="menu-hovedmenu" class="menu"><li id="menu-item-102694" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-102694"><a href="https://amager-bio-and-beta.mynewsdesk.com/">Nyt fra AB&#038;B</a></li>
+<li id="menu-item-101618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101618"><a href="https://ab-b.dk/bliv-frivillig-i-amager-bio-beta/">Bliv frivillig i AB&#038;B</a></li>
+<li id="menu-item-101278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101278"><a href="https://ab-b.dk/praktisk-information/">Praktisk info &#038; FAQ</a></li>
+<li id="menu-item-101280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101280"><a href="https://ab-b.dk/find-vej-til-amager-bio-og-beta/">Find vej</a></li>
+<li id="menu-item-101277" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101277"><a href="https://ab-b.dk/tilgaengelighed-i-amager-bio/">Tilgængelighed</a></li>
+<li id="menu-item-101279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101279"><a href="https://ab-b.dk/leje-amager-bio/">Leje af AB&#038;B</a></li>
+<li id="menu-item-101281" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101281"><a href="https://ab-b.dk/tech-specs/">Technical specifications</a></li>
+<li id="menu-item-101282" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101282"><a href="https://ab-b.dk/in-english/">Practical Info In English</a></li>
+<li id="menu-item-102289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102289"><a href="https://ab-b.dk/om-amagerbio-2/">Om Amager Bio &amp; BETA</a></li>
+<li id="menu-item-101285" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101285"><a href="https://ab-b.dk/kontakt/">Kontakt</a></li>
+</ul></div>      </div>
+      <div class="bottom newsletter-signup">
+        <h3>Nyhedsbrev</h3>
+        <p>Få koncerter, anmeldelser &amp; mere direkte i din indbakke.</p>
+        <form type="submit" id="menuNewsletterSignup">
+          <div class="g-recaptcha" data-sitekey="6LdjbUAUAAAAANJNTxPatjlvwOmhdWBi8iB9N86T"
+               data-callback="abSignupNewsletter" data-size="invisible" data-badge="bottomleft"></div>
+          <div class="input-group">
+            <input type="email" id="newsletter_email" class="form-control" placeholder="Indtast din e-mail">
+            <span class="input-group-btn">
+              <button class="btn btn-default" type="submit">Ok</button>
+            </span>
+          </div><!-- /input-group -->
+
+          <p>
+            Afmeldelse? Udfyld mail og
+            <button type="button" class="btn unsubscribe-btn"
+                    style="padding: 0; margin: 0; border: 0; color: white; background-color: transparent !important; font-size: 10px">
+              klik hér
+            </button>
+          </p>
+        </form>
+      </div>
+
+    </div>
+  </div>
+</div><div id="player" class="hidden">
+    <div class="overlay"></div>
+
+    <a class="closebtn" href="#close">
+        <span class="bar1"></span>
+        <span class="bar2"></span>
+    </a>
+    <div class="tuborg-musik-logo-left"></div>
+    <div class="main">
+        <div class="tuborg-musik-logo-anim">
+            <div class="logo"></div>
+            <div class="lightcone"></div>
+        </div>
+
+        <div class="boxshadow-left"></div>
+
+        <div class="loading"></div>
+        <div class="inner">
+
+        </div>
+    </div>
+
+    <audio></audio>
+</div><div id="favourites" class="hidden dark">
+    <div class="overlay"></div>
+
+    <a class="closebtn" href="#close">
+        <span class="bar1"></span>
+        <span class="bar2"></span>
+    </a>
+
+    <div class="main">
+        <div class="boxshadow-left"></div>
+
+        <div class="loading done"></div>
+        <div class="inner">
+
+            <div id="favouritesInner">
+                <div class="is-not-authed">
+                    <h4>Du er ikke forbundet</h4>
+                    <p>
+                        For at huske din liste på tværs af besøg og for at du kan modtage opdateringer (valgfrit)
+                        omkring en koncert, så skal du forbinde dig med din Facebook-konto.
+                    </p>
+                    <a href="#profile" class="btn btn-primary btn-lg"><i class="facebook-o-w inline"></i> Forbind</a>
+                </div>
+                <div class="is-empty-message">
+
+                    <h4>Ingen favoritkoncerter?</h4>
+                    <p>Tryk på hjerte-ikonet når du står på en koncert-side, for at gemme den som favorit.</p>
+                    <p>
+                        Ved at favorisere koncerter husker vi på disse koncerter for dig. Du kan desuden modtage en
+                        reminder dagen før en koncert, samt når der kun er få billetter tilbage.
+                    </p>
+                </div>
+                <div class="favourites">
+                    <div class="about">
+                        <h2>Favoritkoncerter</h2>
+                    </div>
+                    <ul class="nav nav-pills nav-stacked">
+                    </ul>
+                    <div class="about">
+                        <hr style="opacity: 0.2">
+                        <p>
+                            <strong>Notifikationer:</strong> Sendes pr. mail når kun få billetter er tilbage, samt
+                            aftenen før koncerten.
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+    <div id="pages-main">
+        <div class="page cur-page">
+
+
+<div id="featured-big" class="carousel" data-ride="carousel" data-interval="10000">
+
+    <!-- Wrapper for slides -->
+    <div class="carousel-indicators-custom">
+        <div class="container">
+            <div class="links">
+                <a href="#featured-big" data-slide="prev" class="btn-prev"></a>
+                                    <a href="#featured-big" data-slide-to="0"
+                       class="btn-dot active"></a>
+                                    <a href="#featured-big" data-slide-to="1"
+                       class="btn-dot "></a>
+                                    <a href="#featured-big" data-slide-to="2"
+                       class="btn-dot "></a>
+                                    <a href="#featured-big" data-slide-to="3"
+                       class="btn-dot "></a>
+                                    <a href="#featured-big" data-slide-to="4"
+                       class="btn-dot "></a>
+                                    <a href="#featured-big" data-slide-to="5"
+                       class="btn-dot "></a>
+                                    <a href="#featured-big" data-slide-to="6"
+                       class="btn-dot "></a>
+                                                <a href="#featured-big" data-slide="next" class="btn-next"></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="carousel-inner" role="listbox">
+
+                                                        <div class="item active">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgAUAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A9muLq1sfLF1cpC0rhI9zAbjXlvxl16WDxH4e0S0mupHPmXU9tbHngqI2f/Zzv4/+tXl15rmoaRp9zHDqF0YU34j3dGBJDAknBxxwK0dLvrzVfihYXV3ctPc3OmRIZpFBYny1bJ/AY/zmsG2k2XBrmPf/AAsZrnw/Ytc3i3NykKxzS42l3AwSQaK89ubSCO7uI38xmWQ5IbjkA/1orJVmU6auf//Z); background-position: top right"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/03/Holly-humberstone-credit_-Silken-Weinberg-1260x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/holly-humberstone/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Amager Bio</span>
+                                                                                <h2>Tirsdag 22. september</h2>
+                                        <h1>
+                                            Holly Humberstone                                                                                            <small>(UK)</small>
+                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            Bringer et eventyrligt pop-univers, hvor smerte og eufori eksisterer side om side                                        </p>
+                                    </div>
+                                                                        <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/1932008619?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 380 kr<br/>
+                                            Dørsalg: 400 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgAVAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A8C8HaPHrUOqNNcpD9lhWVQ8mzcdwHoeMZH1I69KuyLFdacUt9MmuZoQS7RxnBB/iPHQE/wCc5rJ0SOG5BeVC8nODnAPBx0rpZvFrRxS2It0TEStuRQMsucKR3Xnkd8CuKdaUZWR7OGy+FSk5yettPPqcZqFhcLeS+fbCNs4CM4QgDgd/aina5qf9oypcGMK75Lc5Hbge3BorojzWPNcqfVP7/wDgH//Z); background-position: top center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/SonOfAPixel-SLEM-festivalLygtenStation13.01.2024-18-1353x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/son-of-a-pixel/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Lørdag 26. september</h2>
+                                        <h1>
+                                            Son Of A Pixel                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            Genre-mashup med game- og EDM-metal i BETA                                        </p>
+                                    </div>
+                                    <div class="support-bands "><h4>Support:</h4><h5>Pink Plague</h5></div>                                    <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/son-of-a-pixel--support-pink-plague-billetter/453879466?language=da-dk&camefrom=amagerbio&brand=dk_beta" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 130 kr<br/>
+                                            Dørsalg: 150 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgATAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8An+KnhCw01dJu7W/ub8M88OHt0jjilAUYVj0YguoDZBJHpz554evTaapL4ct9LN/qsOrTW6RXc0aCVVJILSMNoYMD0x0wOa5bVPjD4kvPB+n+Fruf7Ro8Fv8ALGwUSGbLESGTG7gkcZ5AxWJbXPkaRD4i055ba+02aOIb8OC+Q4kBwOd+/rngrzxyAfXGgaHotlo9rHqUmnzXrJ50zrdSTLvc7yFbIyo3YHHAAHOM0V8eR+OfFccapD4i1OGMcLHFcMiqPQKCAPwooA//2Q==); background-position: top center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/Rotten_Presse-1194x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/the-rotten-leprechauns/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Lørdag 24. oktober</h2>
+                                        <h1>
+                                            The Rotten Leprechauns                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            En zombie-genkomst                                        </p>
+                                    </div>
+                                    <div class="support-bands "><h4>Support:</h4><h5>Pistol Pistol Pistol + Sarah And The Terror Dogs + DJ Gorilla Far</h5></div>                                    <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/254400587?language=da-dk&camefrom=amagerbio&brand=dk_beta" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 150 kr<br/>
+                                            Dørsalg: 170 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgAVAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+YvJ/wBH87ev39m3PPTOfpTmtwDCBICZFyePu8nita0vCLOH9zEwhkOAV4IBBOR36frVvW9WW8aOaCCKGVg8kjLGF3EsG5weec+nWp53e1jo9jHl5rnMUU+ZzI+4gA9OBgcUVoczP//Z); background-position: center center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/Strychnos-bandfoto-1350x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/strychnos-albumrelease/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Lørdag 21. november</h2>
+                                        <h1>
+                                            Strychnos &#8211; albumrelease                                                                                            <small>(DK)</small>
+                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                                                                    </p>
+                                    </div>
+                                    <div class="support-bands "><h4>Support:</h4><h5>GAM</h5></div>                                    <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 160 kr<br/>
+                                            Dørsalg: 180 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgAVAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8A+Y7WD7TcRw5I3sBkDJqdrEq0KMsis5bOR6YIwPoevvUmhXC2eoxXDAssbKSo78g/0rW1e4XUoknDM89xMW8yVfn5yDlge57Y7VMptSsdFOkpU+Y5lhhiAc4PX1op0gwx9+aK1OZn/9k=); background-position: center center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/Strychnos-bandfoto2-1349x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/strychnos-album-tour/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Fredag 27. november</h2>
+                                        <h1>
+                                            Strychnos &#8211; Album tour                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            Genkomst til BETA på albumturnéen med ny sætliste og ny support                                        </p>
+                                    </div>
+                                    <div class="support-bands "><h4>Support:</h4><h5>Sepulchral Curse</h5></div>                                    <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/1636727056?language=da-dk&camefrom=amagerbio&brand=dk_beta" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 160 kr<br/>
+                                            Dørsalg: 180 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgATAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AyE8a6Db6X9nktVnaVmDSC8lHlAkAALu5xhjj/a61gpa6HFqqzai929g13993KjyCDsJ69TtJ9q4G2mNnrkPlSFxGfNUsmMOD6ZORnP1HpVxtXfV2t9KVXS2tPMkYvJuaRV5HbGdoA9DjNedVi5LRnZCXRn0Lb33gmGIRjR9N+QkfNa7j19aK8GsdY1iS0iZrtWJHVhyaK8t0a9/jNfaU+x//2Q==); background-position: top center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/Drawn-and-Quatered-1200x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/drawn-and-quartered/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Fredag 13. november</h2>
+                                        <h1>
+                                            Drawn And Quartered                                                                                            <small>(US)</small>
+                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            Efter 3 årtier rammer et af de mest og kompromisløse navne fra den amerikanske death metal-undergrund Danmark                                        </p>
+                                    </div>
+                                    <div class="support-bands "><h4>Support:</h4><h5>Noroth</h5></div>                                    <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/1718246596?language=da-dk&camefrom=amagerbio&brand=dk_beta" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 150 kr<br/>
+                                            Dørsalg: 170 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                                                        <div class="item ">
+                <div class="img"
+                     style="background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODIK/9sAQwAGBAQFBAQGBQUFBgYGBwkOCQkICAkSDQ0KDhUSFhYVEhQUFxohHBcYHxkUFB0nHR8iIyUlJRYcKSwoJCshJCUk/9sAQwEGBgYJCAkRCQkRJBgUGCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQkJCQk/8AAEQgADgATAwEiAAIRAQMRAf/EAB8AAAEFAQEBAQEBAAAAAAAAAAABAgMEBQYHCAkKC//EALUQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+v/EAB8BAAMBAQEBAQEBAQEAAAAAAAABAgMEBQYHCAkKC//EALURAAIBAgQEAwQHBQQEAAECdwABAgMRBAUhMQYSQVEHYXETIjKBCBRCkaGxwQkjM1LwFWJy0QoWJDThJfEXGBkaJicoKSo1Njc4OTpDREVGR0hJSlNUVVZXWFlaY2RlZmdoaWpzdHV2d3h5eoKDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uLj5OXm5+jp6vLz9PX29/j5+v/aAAwDAQACEQMRAD8AwT4xj8E6E1nFO6XVxva3LxhywWfGSp9QgPvWxpM58UeJJbkSRzRXVvBJC4+XeFJDDBHXjH4VzXi/w/rHjF4ZZL+3UBw0isn38E7cEDIIBI7jviuo8J65rngvTYdNay0m/sVG1d8kiSKSSTyoAIyfQV5FbATafI9WezHFwildHb61bRjVLgNJb53c4m9h7UVHB4502SFGm0FzKVBfZfSgZ7456UV5ryurfSX9fedizCFvhP/Z); background-position: top center"
+                     data-lazy-fullres="https://ab-b.dk/wp-content/uploads/2026/08/0-Sturle-Dagsland-horizontal-1200x900.jpg"></div>
+                <svg width="1231px" height="961px" viewBox="210 -1 1231 961" version="1.1"
+                     xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+                     class="venue-color-overlay" preserveAspectRatio="none">
+                    <path
+                        d="M990.003894,-9.39152138e-15 L1440.13843,-9.39152138e-15 C1440.13843,-9.39152138e-15 1440,960 1440.13842,960 L210,960 C511.269532,345.136968 990.003891,-9.39152138e-15 990.003894,-9.39152138e-15 Z"
+                        id="base" stroke="none" fill="#29576f"
+                        fill-rule="evenodd" opacity="0.5"></path>
+                </svg>
+
+                <div class="infobox">
+                    <div class="container">
+                        <div class="row">
+                            <div class="col-md-4 col-md-offset-6 col-sm-6 col-sm-offset-4 caption">
+                                <div class="top-in">
+                                    <a href="https://ab-b.dk/k/sturle-dagsland/" class="big-link">
+                                                                                    <span class="venue-label"
+                                                  style="background-color: #29576f">Beta</span>
+                                                                                <h2>Torsdag 29. oktober</h2>
+                                        <h1>
+                                            Sturle Dagsland                                                                                            <small>(N)</small>
+                                                                                    </h1>
+                                    </a>
+                                </div>
+                                <div class="bottom-in">
+                                    <div class="intro-text">
+                                        <p>
+                                            Bevæger sig i krydsfeltet mellem eksperimenterende elektronisk musik, art pop, industrial, avantgarde og støjrock                                        </p>
+                                    </div>
+                                                                        <div class="row">
+                                        <div class="col-xs-4 ticket-link-outer">
+                                            <a href="https://www.ticketmaster.dk/event/1846936936?language=da-dk&camefrom=amagerbio&brand=dk_beta" target="_blank"
+                                               class="btn btn-rounded btn-white-transparent btn-block btn-lg">Billet</a>
+                                        </div>
+                                        <div class="col-xs-6 smallinfo-caps price-date-info-outer">
+                                            Forsalg: 170 kr<br/>
+                                            Dørsalg: 190 kr<br/>
+                                            Dørene åbner kl. 19:00<br/>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+</div>
+<div class="concert-filters">
+    <div class="inner">
+        <div class="container">
+            <!-- FILTERS -->
+            <div class="row">
+                <div class="col-xs-2 filter_genre_outer">
+                    <select name="filter_genre" id="" class="form-control">
+                        <option value="">Genre</option>
+                    </select>
+                </div>
+                <div class="col-xs-2 filter_scene_outer">
+                    <select name="filter_scene" id="" class="form-control">
+                        <option value="">Scene</option>
+                    </select>
+                </div>
+                <div class="col-xs-2 filter_status_outer">
+                    <select name="filter_status" id="" class="form-control">
+                        <option value="" selected disabled>Status</option>
+                                                    <option value="nyhed">Nyhed</option>
+                                                    <option value="faa-billetter">Få billetter</option>
+                                                    <option value="udsolgt">Udsolgt</option>
+                                                    <option value="venteliste">Venteliste</option>
+                                                    <option value="aflyst">Aflyst</option>
+                                            </select>
+                </div>
+                <div class="col-sm-4 filter_search">
+                    <div class="filter_search_inner">
+                        <div style="flex: 1">
+                            <input type="search" name="" id="" class="form-control" placeholder="Søg">
+                            <a class="clear-btn" href="#clear-search"></a>
+                        </div>
+                        <div style="display: flex; margin-top: 13px" class="layout-switcher hidden-xs">
+                            <button class="form-control active-layout" data-layout="grid">
+                                <i class="fa fa-th-large"></i>
+                            </button>
+                            <button class="form-control" style="margin-left: -2px" data-layout="list">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- FILTERS -->
+        </div>
+    </div>
+</div>
+
+<div class="container concert-calendar" data-layout="grid">
+    <!-- CONCERTS -->
+    <div class="row">
+                                        
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102962 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="party cannon guttural slug"
+        data-status="faa-billetter"
+        id="concertcalendar_party-cannon">
+    <a class="concert-like" href="#favourites" data-slug="party-cannon">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/party-cannon/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/06/PC-Promo-2025-300x200.jpg)"></div>
+				
+				                    <div class="concert-status ">
+						FÅ BILLETTER!                    </div>
+				            </div>
+
+            <div class="top">
+                <h4>Party Cannon</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Guttural Slug											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">14</div>
+                        <div
+                                class="month">aug</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/2067520988?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102793 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="dysgnostic + chaotian "
+        data-status=""
+        id="concertcalendar_dysgnostic-albumrelease">
+    <a class="concert-like" href="#favourites" data-slug="dysgnostic-albumrelease">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/dysgnostic-albumrelease/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/04/IMG_0111-300x231.jpeg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Dysgnostic + Chaotian</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">15</div>
+                        <div
+                                class="month">aug</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/340243269?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102856 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="hiraes carmen"
+        data-status=""
+        id="concertcalendar_hiraes">
+    <a class="concert-like" href="#favourites" data-slug="hiraes">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/hiraes/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/05/HIRAES_2023_01-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Hiraes</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Carmen											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">24</div>
+                        <div
+                                class="month">aug</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/198638412?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102571 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-ab"        data-genres="Metal"
+        data-scene="Amager Bio"
+        data-search="deafheaven show me the body"
+        data-status=""
+        id="concertcalendar_deafheaven">
+    <a class="concert-like" href="#favourites" data-slug="deafheaven">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/deafheaven/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/02/DEAFHEAVEN_NA19244_RT-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Deafheaven</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Show Me The Body											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">25</div>
+                        <div
+                                class="month">aug</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1995804860?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102787 concert type-concert status-publish has-post-thumbnail hentry genre-roots-folk-americana scene-beta"        data-genres="Roots/Folk/Americana"
+        data-scene="Beta"
+        data-search="ryan davis &#038; the roadhouse band anna valgreen"
+        data-status=""
+        id="concertcalendar_ryan-davis-the-roadhouse-band">
+    <a class="concert-like" href="#favourites" data-slug="ryan-davis-the-roadhouse-band">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/ryan-davis-the-roadhouse-band/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/04/ryan_davis__the_roadhouse_band_photo_2_credit_-_cooper_burton-2-scaled-1-300x216.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Ryan Davis &#038; The Roadhouse Band</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Anna Valgreen											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">27</div>
+                        <div
+                                class="month">aug</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1573358724?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102692 concert type-concert status-publish has-post-thumbnail hentry genre-hip-hop scene-ab"        data-genres="Hip Hop"
+        data-scene="Amager Bio"
+        data-search="gzuz "
+        data-status=""
+        id="concertcalendar_gzuz">
+    <a class="concert-like" href="#favourites" data-slug="gzuz">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/gzuz/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/03/Pressefoto-1-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Gzuz</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">4</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/gzuz-europe-2026-billetter/1217870588?language=da-dk&camefrom=amagerbio&brand=dk_atl" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102480 concert type-concert status-publish has-post-thumbnail hentry scene-ab"        data-genres=""
+        data-scene="Amager Bio"
+        data-search="nordic elite wrestling iv "
+        data-status=""
+        id="concertcalendar_nordic-elite-wrestling-iv">
+    <a class="concert-like" href="#favourites" data-slug="nordic-elite-wrestling-iv">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/nordic-elite-wrestling-iv/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/01/new-elite-wrestling-300x169.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Nordic Elite Wrestling IV</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">5</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://billetto.dk/e/amager-bio-4-billetter-1856120" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102940 concert type-concert status-publish has-post-thumbnail hentry genre-punk scene-beta"        data-genres="Punk"
+        data-scene="Beta"
+        data-search="béton armé "
+        data-status=""
+        id="concertcalendar_beton-arme">
+    <a class="concert-like" href="#favourites" data-slug="beton-arme">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/beton-arme/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/06/beton-arme-web-300x180.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Béton Armé</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">8</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/624677949?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102908 concert type-concert status-publish has-post-thumbnail hentry genre-pop genre-soul-funk scene-ab"        data-genres="Pop|Soul/Funk"
+        data-scene="Amager Bio"
+        data-search="syd "
+        data-status="aflyst"
+        id="concertcalendar_syd">
+    <a class="concert-like" href="#favourites" data-slug="syd">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/syd/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center left; background-image: url(https://ab-b.dk/wp-content/uploads/2026/05/Syd-web-300x169.jpg)"></div>
+				
+				                    <div class="concert-status sold-out">
+						AFLYST!                    </div>
+				            </div>
+
+            <div class="top">
+                <h4>Syd</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">9</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/syd-billetter/959767656?language=da-dk&camefrom=amagerbio&brand=dk_atl" class="ticket-btn-dark sold-out" target="_blank">AFLYST!</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102200 concert type-concert status-publish has-post-thumbnail hentry genre-roots-folk-americana scene-ab"        data-genres="Roots/Folk/Americana"
+        data-scene="Amager Bio"
+        data-search="kaya brüel synger jomfru ane band "
+        data-status=""
+        id="concertcalendar_kaya-bruel-synger-jomfru-ane-band">
+    <a class="concert-like" href="#favourites" data-slug="kaya-bruel-synger-jomfru-ane-band">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/kaya-bruel-synger-jomfru-ane-band/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/11/jomfruane_web-300x157.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Kaya Brüel synger Jomfru Ane Band</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">10</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1140473433?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102863 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="sigh devil master"
+        data-status=""
+        id="concertcalendar_sigh">
+    <a class="concert-like" href="#favourites" data-slug="sigh">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/sigh/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/05/Sigh1-300x200.jpeg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Sigh</h4>
+                <p>
+																		Special Guests:<br />
+						
+													                            - Devil Master											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">10</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/204653015?language=da-dk&brand=dk_amagerbio&camefrom=amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102083 concert type-concert status-publish has-post-thumbnail hentry genre-hip-hop scene-ab"        data-genres="Hip Hop"
+        data-scene="Amager Bio"
+        data-search="uso "
+        data-status=""
+        id="concertcalendar_uso">
+    <a class="concert-like" href="#favourites" data-slug="uso">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/uso/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/10/USO_2026_horisontalt-300x200.jpeg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>USO</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">11</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/335940700?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102298 concert type-concert status-publish has-post-thumbnail hentry genre-roots-folk-americana scene-ab"        data-genres="Roots/Folk/Americana"
+        data-scene="Amager Bio"
+        data-search="mega ball &#8211; mads hansens kapel 10 års jubilæumsbal "
+        data-status=""
+        id="concertcalendar_mega-ball-mads-hansens-kapel-10-aars-jubilaeumsbal">
+    <a class="concert-like" href="#favourites" data-slug="mega-ball-mads-hansens-kapel-10-aars-jubilaeumsbal">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/mega-ball-mads-hansens-kapel-10-aars-jubilaeumsbal/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/12/MHK-Ball-Event-FB-300x157.png)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Mega Ball &#8211; Mads Hansens Kapel 10 års jubilæumsbal</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">12</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">19:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/mega-ball-feat-mads-hansens-kapel-10-ars-jubilaeum-med-gaester-billetter/852049912" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102803 concert type-concert status-publish has-post-thumbnail hentry genre-spoken-word-comedy scene-ab"        data-genres="Spoken Word / Comedy"
+        data-scene="Amager Bio"
+        data-search="sam morril "
+        data-status=""
+        id="concertcalendar_sam-morril">
+    <a class="concert-like" href="#favourites" data-slug="sam-morril">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/sam-morril/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/04/sam-morril-web-300x218.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Sam Morril</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">13</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/sam-morril-billetter/781781754?language=da-dk&camefrom=amagerbio&brand=dk_atl" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102622 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="copenhagen metal fest &#8211; temadag "
+        data-status=""
+        id="concertcalendar_copenhagen-metal-fest-temadag">
+    <a class="concert-like" href="#favourites" data-slug="copenhagen-metal-fest-temadag">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/copenhagen-metal-fest-temadag/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/12/grundbillede-300x112.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Copenhagen Metal Fest &#8211; Temadag</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">17</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">18:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/artist/copenhagen-metal-fest-billetter/1012991" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102292 concert type-concert status-publish has-post-thumbnail hentry genre-metal"        data-genres="Metal"
+        data-scene=""
+        data-search="copenhagen metal fest &#8211; dag 1 "
+        data-status="faa-billetter"
+        id="concertcalendar_copenhagen-metal-fest-dag-1">
+    <a class="concert-like" href="#favourites" data-slug="copenhagen-metal-fest-dag-1">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/copenhagen-metal-fest-dag-1/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/12/grundbillede-300x112.jpg)"></div>
+				
+				                    <div class="concert-status ">
+						FÅ BILLETTER!                    </div>
+				            </div>
+
+            <div class="top">
+                <h4>Copenhagen Metal Fest &#8211; dag 1</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                                    <div class="info-col"></div>
+                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">18</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">17:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/artist/copenhagen-metal-fest-billetter/1012991" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102293 concert type-concert status-publish has-post-thumbnail hentry genre-metal"        data-genres="Metal"
+        data-scene=""
+        data-search="copenhagen metal fest &#8211; dag 2 "
+        data-status=""
+        id="concertcalendar_copenhagen-metal-fest-dag-2">
+    <a class="concert-like" href="#favourites" data-slug="copenhagen-metal-fest-dag-2">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/copenhagen-metal-fest-dag-2/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/12/grundbillede-300x112.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Copenhagen Metal Fest &#8211; dag 2</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                                    <div class="info-col"></div>
+                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">19</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">17:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/artist/copenhagen-metal-fest-billetter/1012991" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102733 concert type-concert status-publish has-post-thumbnail hentry genre-pop scene-ab"        data-genres="Pop"
+        data-scene="Amager Bio"
+        data-search="holly humberstone "
+        data-status=""
+        id="concertcalendar_holly-humberstone">
+    <a class="concert-like" href="#favourites" data-slug="holly-humberstone">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/holly-humberstone/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top right; background-image: url(https://ab-b.dk/wp-content/uploads/2026/03/Holly-humberstone-credit_-Silken-Weinberg-300x214.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Holly Humberstone</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">22</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1932008619?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-103015 concert type-concert status-publish has-post-thumbnail hentry genre-punk scene-beta"        data-genres="Punk"
+        data-scene="Beta"
+        data-search="dark thoughts "
+        data-status=""
+        id="concertcalendar_dark-thoughts">
+    <a class="concert-like" href="#favourites" data-slug="dark-thoughts">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/dark-thoughts/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/06/DTPRESSPHOTO4-Topaz-Gigapixel-2x-skala-300x201.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Dark Thoughts</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">24</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1912008394?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102897 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-ab"        data-genres="Metal"
+        data-scene="Amager Bio"
+        data-search="red warszawa "
+        data-status=""
+        id="concertcalendar_red-warszawa">
+    <a class="concert-like" href="#favourites" data-slug="red-warszawa">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/red-warszawa/">
+            <div class="cover">
+				                    <div class="img" style="background-position: bottom center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/05/rw-official2026-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Red Warszawa</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">25</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1672574862?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-103087 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="son of a pixel pink plague"
+        data-status="nyhed"
+        id="concertcalendar_son-of-a-pixel">
+    <a class="concert-like" href="#favourites" data-slug="son-of-a-pixel">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/son-of-a-pixel/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/08/SonOfAPixel-SLEM-festivalLygtenStation13.01.2024-18-300x200.jpg)"></div>
+				
+				                    <div class="concert-status ">
+						NYHED!                    </div>
+				            </div>
+
+            <div class="top">
+                <h4>Son Of A Pixel</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Pink Plague											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">26</div>
+                        <div
+                                class="month">sep</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/son-of-a-pixel--support-pink-plague-billetter/453879466?language=da-dk&camefrom=amagerbio&brand=dk_beta" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102785 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-beta"        data-genres="Metal"
+        data-scene="Beta"
+        data-search="tenside &#038; aurorawave sugar spine"
+        data-status=""
+        id="concertcalendar_tenside-aurorawave">
+    <a class="concert-like" href="#favourites" data-slug="tenside-aurorawave">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/tenside-aurorawave/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/04/TensideAurorawave_1920x1005-300x157.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Tenside &#038; aurorawave</h4>
+                <p>
+																		Special Guests:<br />
+						
+													                            - Sugar Spine											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">1</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1580402423?language=da-dk&brand=dk_livenation&camefrom=amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-103004 concert type-concert status-publish has-post-thumbnail hentry genre-soul-funk scene-ab"        data-genres="Soul/Funk"
+        data-scene="Amager Bio"
+        data-search="dale pututi &#038; nesty "
+        data-status=""
+        id="concertcalendar_dale-pututi-nesty">
+    <a class="concert-like" href="#favourites" data-slug="dale-pututi-nesty">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/dale-pututi-nesty/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/06/DN-Topaz-Gigapixel-2x-skala-300x169.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Dale Pututi &#038; Nesty</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">2</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">21:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/dale-pututi--nesty-billetter/1711679803?language=da-dk&camefrom=amagerbio&brand=dk_amagerbio" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102484 concert type-concert status-publish has-post-thumbnail hentry genre-hip-hop scene-ab"        data-genres="Hip Hop"
+        data-scene="Amager Bio"
+        data-search="dm i freestyle rap "
+        data-status=""
+        id="concertcalendar_dm-i-freestyle-rap">
+    <a class="concert-like" href="#favourites" data-slug="dm-i-freestyle-rap">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/dm-i-freestyle-rap/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/02/billede-300x169.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>DM i Freestyle Rap</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">3</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://billetto.dk/e/dm-i-freestyle-rap-2026-billetter-1748271?bref=eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiY2F0ZWdvcnkiLCJjbyI6InNjLTEyMy1kayIsInQiOjE3NjQyNTIwMDB9" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102135 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-ab"        data-genres="Metal"
+        data-scene="Amager Bio"
+        data-search="hxc kids &#8211; børnenes metalfestival 2026 "
+        data-status="udsolgt"
+        id="concertcalendar_hxc-kids-boernenes-metalfestival-2026">
+    <a class="concert-like" href="#favourites" data-slug="hxc-kids-boernenes-metalfestival-2026">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/hxc-kids-boernenes-metalfestival-2026/">
+            <div class="cover">
+				                    <div class="img" style="background-position: top center; background-image: url(https://ab-b.dk/wp-content/uploads/2025/11/KIDS-1-300x200.jpg)"></div>
+				
+				                    <div class="concert-status sold-out">
+						UDSOLGT!                    </div>
+				            </div>
+
+            <div class="top">
+                <h4>HXC KIDS &#8211; Børnenes Metalfestival 2026</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">4</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">12:00</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/1167980255" class="ticket-btn-dark sold-out" target="_blank">UDSOLGT!</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102705 concert type-concert status-publish has-post-thumbnail hentry genre-metal scene-ab"        data-genres="Metal"
+        data-scene="Amager Bio"
+        data-search="shadow of intent aborteddisembodied tyrantsoreption"
+        data-status=""
+        id="concertcalendar_shadow-of-intent">
+    <a class="concert-like" href="#favourites" data-slug="shadow-of-intent">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/shadow-of-intent/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/03/SOI_PROMOS_2025-4-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Shadow Of Intent</h4>
+                <p>
+																		Support:<br />
+						
+													                            - Aborted													<br />                            - Disembodied Tyrant													<br />                            - Soreption											                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Amager<br />Bio                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">6</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">18:30</div>
+                        </div>
+                    </div>
+                            </div>
+            <div class="clearfix"></div>
+            <div class="ticket-row">
+                <a href="https://www.ticketmaster.dk/event/shadow-of-intent-billetter/1409082828?language=da-dk&camefrom=amagerbio&brand=dk_livenation" class="ticket-btn-dark " target="_blank">Køb billet</a>
+            </div>
+        </div>
+    </div>
+</div>                                
+<div class="col-xs-5 col-lg-2 col-sm-3 mix post-102880 concert type-concert status-publish has-post-thumbnail hentry genre-alternative genre-punk scene-beta"        data-genres="Alternative|Punk"
+        data-scene="Beta"
+        data-search="kate clover "
+        data-status=""
+        id="concertcalendar_kate-clover">
+    <a class="concert-like" href="#favourites" data-slug="kate-clover">
+    </a>
+
+    <div class="inner">
+
+        <a href="https://ab-b.dk/k/kate-clover/">
+            <div class="cover">
+				                    <div class="img" style="background-position: center center; background-image: url(https://ab-b.dk/wp-content/uploads/2026/05/PROMO-PIC-300x200.jpg)"></div>
+				
+				            </div>
+
+            <div class="top">
+                <h4>Kate Clover</h4>
+                <p>
+					                </p>
+            </div>
+        </a>
+        <div class="bottom">
+            <div class="info-row">
+                                    <div class="info-col xx-1">
+                        Beta                    </div>
+                    <div class="sep"></div>
+                                
+                <div class="info-col ">
+                    <div class="date">
+                        <div class="day">6</div>
+                        <div
+                                class="month">okt</div>
+                    </div>
+                </div>
+                                    <div class="info-col">
+                        <div class="opens">
+                            <div class="opens-label">Show</div>
+                            <div class="time">20:00</div>
+                        
+<!-- TRIMMED BY recon.mjs -->

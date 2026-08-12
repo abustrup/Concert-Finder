@@ -1,0 +1,643 @@
+<!doctype html>
+<html lang="da-DK">
+  <head>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PL23LCQ');</script>
+  <!-- End Google Tag Manager -->
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@300;500;700;800&display=swap" rel="stylesheet">
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Gimle -</title>
+	<link rel="canonical" href="https://gimle.dk/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Gimle" />
+	<meta property="og:url" content="https://gimle.dk/" />
+	<meta property="og:site_name" content="Gimle" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/gimle.dk\/","url":"https:\/\/gimle.dk\/","name":"Gimle -","isPartOf":{"@id":"https:\/\/gimle.dk\/#website"},"breadcrumb":{"@id":"https:\/\/gimle.dk\/#breadcrumb"},"inLanguage":"da-DK"},{"@type":"BreadcrumbList","@id":"https:\/\/gimle.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/gimle.dk\/#website","url":"https:\/\/gimle.dk\/","name":"Gimle","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/gimle.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//gimle.billetten.dk' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<link rel='stylesheet' id='ub-extension-style-css-css' href='https://gimle.dk/wp-content/plugins/ultimate-blocks/src/extensions/style.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='msl-main-css' href='https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.11.2' media='all' />
+<link rel='stylesheet' id='msl-custom-css' href='https://gimle.dk/wp-content/uploads/master-slider/custom.css?ver=1.4' media='all' />
+<link rel='stylesheet' id='sage/main.css-css' href='https://gimle.dk/wp-content/themes/wordpress_gimle/dist/styles/main_bb40d6eb.css' media='all' />
+<link rel='stylesheet' id='bwps-basm-style-css' href='https://gimle.billetten.dk/basm/css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://gimle.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://gimle.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="bwps-basm-script-js" src="https://gimle.billetten.dk/basm/sbasm-script?ver=7.0.4"></script>
+<script id="bwps-basm-addon-script-js" src="https://gimle.dk/wp-content/plugins/bwps/BWPS/../assets/js/basm/addon.js?ver=7.0.4"></script>
+<link rel="https://api.w.org/" href="https://gimle.dk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://gimle.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.4" />
+<script>var ms_grabbing_curosr = 'https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/common/grabbing.cur', ms_grab_curosr = 'https://gimle.dk/wp-content/plugins/master-slider/public/assets/css/common/grab.cur';</script>
+<meta name="generator" content="MasterSlider 3.11.2 - Responsive Touch Image Slider | avt.li/msf" />
+<link rel="icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://gimle.dk/wp-content/uploads/2022/12/cropped-android-chrome-512x512-1-270x270.png" />
+  <meta name="facebook-domain-verification" content="k8flrdk4wqypp8iifiqo049ofrlfzi" />
+</head>
+  <body class="home blog wp-theme-wordpress_gimleresources _masterslider _ms_version_3.11.2 app-data index-data home-data front-page-data">
+    <!-- Google Tag Manager (noscript) -->
+      <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PL23LCQ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+        <div class="topmenu">
+  <span class="social-list">
+    <a href="https://www.facebook.com/GimleRoskilde/" target="_blank"><span class="icon-facebook-1"></span></a>
+    <a href="https://www.instagram.com/gimle_roskilde/" target="_blank"><span class="icon-instagram"></span></a>
+  </span>
+</div>
+<header class="banner">
+  <div class="container">
+    <a class="brand" href="https://gimle.dk/"><img src="https://gimle.dk/wp-content/themes/wordpress_gimle/dist/images/logo_e15c8bd7.svg" /></a>
+    <nav class="nav-primary">
+      <div class="close-menu d-xl-none"><i class="icon-plus"></i></div>
+              <div class="nav_container"><ul id="menu-menu-1" class="nav"><li id="menu-item-122" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-122"><a href="/program/">Program</a></li>
+<li id="menu-item-158" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-158"><a href="#">Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-575" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-575"><a href="https://gimle.dk/billetter/">Billetter</a></li>
+	<li id="menu-item-578" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-578"><a href="https://gimle.dk/gavekort/">Gavekort</a></li>
+	<li id="menu-item-589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-589"><a href="https://gimle.dk/gimle-for-boern/">Gimle for børn</a></li>
+	<li id="menu-item-588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-588"><a href="https://gimle.dk/tilgaengelighed/">Tilgængelighed</a></li>
+	<li id="menu-item-587" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-587"><a href="https://gimle.dk/faq/">FAQ</a></li>
+</ul>
+</li>
+<li id="menu-item-159" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-159"><a href="#">Om Gimle</a>
+<ul class="sub-menu">
+	<li id="menu-item-963" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-963"><a href="https://gimle.dk/nyheder/">Nyheder</a></li>
+	<li id="menu-item-614" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-614"><a href="https://gimle.dk/frivillighed/">Frivillighed</a></li>
+	<li id="menu-item-613" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-613"><a href="https://gimle.dk/booking/">Booking</a></li>
+	<li id="menu-item-612" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-612"><a href="https://gimle.dk/organisation/">Organisation</a></li>
+	<li id="menu-item-611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-611"><a href="https://gimle.dk/teknisk-info/">Teknisk info</a></li>
+	<li id="menu-item-610" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-610"><a href="https://gimle.dk/udlejning/">Udlejning</a></li>
+	<li id="menu-item-609" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-609"><a href="https://gimle.dk/ledige-stillinger/">Ledige stillinger</a></li>
+	<li id="menu-item-608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-608"><a href="https://gimle.dk/kontakt/">Kontakt</a></li>
+</ul>
+</li>
+<li id="menu-item-532" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-532"><a href="/galleri">Koncertfotos</a></li>
+<li id="menu-item-160" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-160"><a href="#">The Raven</a>
+<ul class="sub-menu">
+	<li id="menu-item-630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-630"><a href="https://gimle.dk/menu/">Menu</a></li>
+	<li id="menu-item-629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-629"><a href="https://gimle.dk/esc-og-international-volunteers/">ESC &#038; international volunteers</a></li>
+	<li id="menu-item-627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-627"><a href="https://gimle.dk/arrangementer/">Arrangementer</a></li>
+	<li id="menu-item-626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-626"><a href="https://gimle.dk/aabningstider-info/">Åbningstider &#038; info</a></li>
+</ul>
+</li>
+</ul></div>
+          </nav>
+    <ul class="nav_right_menu">
+      <li>
+        <a class="search_trigger" href="#"><i class="icon-search-1"></i></a>
+      </li>
+      <li>
+        <a class="user_link basm basm_profile_btn" href="#"><i class="icon-user-o"></i></a>
+      </li>
+      <li class="basket_link basm basm_basket_btn" href="#">
+          <i class="icon-shopping-basket"></i>
+          <span class="basm basm_basket_indicator">
+              <span class="basm basm_basket_count">0</span>
+          </span>
+      </li>
+      <li class="menu_trigger d-xl-none">
+        <i class="icon-menu"></i>
+      </li>
+    </ul>
+  </div>
+  <div class="container searchBar_fp searchBar_header">
+      <form class="search-form form-inline" action="https://gimle.dk/" method="get" role="search">
+          <label class="sr-only"></label>
+          <input class="searchInput" type="search" required="" placeholder="Søg" name="s" value=""></input>
+          <button class="searchButton solid" type="submit">
+            <span class="icon-search-1" aria-hidden="true"></span>
+          </button>
+      </form>
+  </div>
+</header>
+    <div class="wrap container" role="document">
+      <div class="content">
+        <main class="main">
+                <div class="container slider_fp">
+          </div>
+    <!--<div class="container searchBar_fp">
+        <form class="search-form form-inline" action="https://gimle.dk/" method="get" role="search">
+            <label class="sr-only"></label>
+            <input class="searchInput" type="search" required="" placeholder="Søg" name="s" value=""></input>
+            <button class="searchButton solid" type="submit">
+              <span class="icon-search" aria-hidden="true"></span>
+            </button>
+        </form>
+    </div> -->
+  
+  <div class="container frontpage_events">
+    <!-- Coming Events -->
+    <div class="event-tiles events-frontpage">
+                            <div class="event-tile animate__animated 20-aar-i-tanken post-15313 bwps type-bwps status-publish has-post-thumbnail hentry category-andet">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/06/20aariTanken_Event-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/20-aar-i-tanken/" class="event-tile-link">
+    <article class="post-15313 bwps type-bwps status-publish has-post-thumbnail hentry category-andet">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>14</p><p class='showmonth'>aug. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">20 år i Tanken</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated spurv post-15490 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/Untitled-August-11-2026-at-09.56.12-2-1-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/spurv/" class="event-tile-link">
+    <article class="post-15490 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>15</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">NEW!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">THE RAVEN</span>
+              <h2 class="entry-title">SPURV</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated ria-festival post-15416 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/07/Ria-Festival_kvadrat.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/ria-festival/" class="event-tile-link">
+    <article class="post-15416 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>22</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Ria Festival</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated the-raven-session post-15486 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/Senza-titolo-29-luglio-2026-alle-ore-15.10.37-3-1-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/the-raven-session/" class="event-tile-link">
+    <article class="post-15486 bwps type-bwps status-publish has-post-thumbnail hentry category-the-raven location-the-raven">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>28</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">New!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">THE RAVEN</span>
+              <h2 class="entry-title">THE RAVEN SESSION</h2>
+              <span class="undertitle">ODE, PHOTOGENIC AND NOOSE</span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated gfb-sebastian-klein-verdens-mest-beroemte-dyr post-15457 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/08/GFB_E26.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/gfb-sebastian-klein-verdens-mest-beroemte-dyr/" class="event-tile-link">
+    <article class="post-15457 bwps type-bwps status-publish has-post-thumbnail hentry category-born tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>30</p><p class='showmonth'>aug. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Nyhed!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">Gimle for børn</span>
+              <h2 class="entry-title">Sebastian Klein &#8211; Verdens mest berømte dyr!</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated klamedia-live post-13586 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-ung location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/12/Klamedia-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/klamedia-live/" class="event-tile-link">
+    <article class="post-13586 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-ung location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>02</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">KLAMEDIA LIVE</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated nikolaj-stokholm post-11306 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/03/NikolajStokholm.jpeg) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/nikolaj-stokholm/" class="event-tile-link">
+    <article class="post-11306 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy tag-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>03</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">FÅ BILLETTER!</p><br /><p class="status">Show kl. 18.00</p><br /><p class="status">Show kl. 20.30</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Nikolaj Stokholm feat. Stokkefar</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated nikolaj-stokholm-feat-stokkefar post-12820 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/10/NikolajStokholm.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/nikolaj-stokholm-feat-stokkefar/" class="event-tile-link">
+    <article class="post-12820 bwps type-bwps status-publish has-post-thumbnail hentry category-comedy location-roskilde-kongres-og-idraetscenter">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">Få billetter!</p><br /><p class="status">Show kl. 18.00</p><br /><p class="status">Show kl. 20.30</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Nikolaj Stokholm feat. Stokkefar</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated eight-days-a-week post-12087 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2025/06/EightDaysAWeek26-1.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/eight-days-a-week/" class="event-tile-link">
+    <article class="post-12087 bwps type-bwps status-publish has-post-thumbnail hentry category-pop category-rock location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>04</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Eight Days A Week</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated solipsy-stugg-silent-fracture post-15183 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/06/Untitled-June-01-2026-at-10.14.46.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/solipsy-stugg-silent-fracture/" class="event-tile-link">
+    <article class="post-15183 bwps type-bwps status-publish has-post-thumbnail hentry category-metal location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>05</p><p class='showmonth'>sep. 2026</p>              </span>
+                              <span class="statusses">
+                  <p class="status">NYHED!</p><br />                </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Solipsy + Stügg + Silent Fracture</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated generation-metal-baest post-14587 bwps type-bwps status-publish has-post-thumbnail hentry category-born category-metal tag-generationmetal tag-gimleforboern location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/03/generation-metal_baest_1080x1080px_v01-1024x1024.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/generation-metal-baest/" class="event-tile-link">
+    <article class="post-14587 bwps type-bwps status-publish has-post-thumbnail hentry category-born category-metal tag-generationmetal tag-gimleforboern location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>06</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle">GENERATION METAL</span>
+              <h2 class="entry-title">BAEST</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>                      <div class="event-tile animate__animated povls-sange-dissing-las post-14000 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+      <div class="event-image" style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(https://gimle.dk/wp-content/uploads/2026/01/Untitled-22.png) center center no-repeat; background-size: cover;">
+    </div>
+    <a href="https://gimle.dk/event/povls-sange-dissing-las/" class="event-tile-link">
+    <article class="post-14000 bwps type-bwps status-publish has-post-thumbnail hentry category-folk location-gimle">
+        <div class="entry-summary">
+            <div class="showdate_wrap">
+              <span class="showdate_top">
+                <p class='showdate'>10</p><p class='showmonth'>sep. 2026</p>              </span>
+                          </div>
+            <div class="title_wrap">
+              <span class="overtitle"></span>
+              <h2 class="entry-title">Povls Sange &#8211; Dissing &#038; Las</h2>
+              <span class="undertitle"></span>
+            </div>
+            <!--<div class="overlay">
+            </div>-->
+      </div>
+    </article>
+  </a>
+</div>              </div>
+
+    <div class="se_mere_wrap">
+      <a href="/program" class="btn solid">
+        Alle arrangementer
+      </a>
+    </div>
+  <!-- Coming Events end -->
+  </div>
+  <div class="the_raven container">
+    <section class="widget block-14 widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full"><img decoding="async" width="220" height="220" src="https://gimle.dk/wp-content/uploads/2022/02/TheRaven_web02.jpg" alt="" class="wp-image-103" srcset="https://gimle.dk/wp-content/uploads/2022/02/TheRaven_web02.jpg 220w, https://gimle.dk/wp-content/uploads/2022/02/TheRaven_web02-150x150.jpg 150w" sizes="(max-width: 220px) 100vw, 220px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-vertically-aligned-center is-layout-flow wp-block-column-is-layout-flow">
+<h3 class="has-text-align-left wp-block-heading" id="forlaeng-oplevelsen-med-et-besog-pa">Forlæng oplevelsen med et besøg på</h3>
+
+
+
+<h2 class="has-text-align-left wp-block-heading" id="the-raven-1"><a href="https://gimle.dk/aabningstider-info/">The Raven</a></h2>
+</div>
+</div>
+</section>    <div class='gradient_div'></div>  </div>
+  <div class="memberships container">
+    <section class="widget block-10 widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"></div>
+</div>
+</section>  </div>
+        </main>
+              </div>
+    </div>
+        <footer class="content-info">
+  <div class="container">
+    <section class="widget block-7 widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph"><strong>GIMLE</strong></p>
+
+
+
+<p class="wp-block-paragraph">Helligkorsvej 2<br>4000 Roskilde<br>+45 46371982<br><a href="https://gimle.dk/mailto@mail.gimle.dk">mail@gimle.dk</a></p>
+
+
+
+<div style="height:48px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"><strong>KONTORETS ÅBNINGSTIDER</strong></p>
+
+
+
+<p class="wp-block-paragraph">Tirsdag og torsdag 13.00 - 14.00<br>Telefon: +45 4637 1982</p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph"><strong>THE RAVEN - GIMLES CAFE</strong> </p>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td>Mandag</td><td>LUKKET</td></tr><tr><td>Tirsdag</td><td>13.30 - 23.00</td></tr><tr><td>Onsdag</td><td>13.30 - 23.00</td></tr><tr><td>Torsdag</td><td>13.30 - 23.00</td></tr><tr><td>Fredag</td><td>13.30 - 02.00</td></tr><tr><td>Lørdag</td><td>13.30 - 02.00</td></tr><tr><td>Søndag</td><td>LUKKET</td></tr></tbody></table></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image aligncenter size-full"><a href="https://gimle.dk/code-of-conduct-for-gimle/"><img loading="lazy" decoding="async" width="963" height="1062" src="https://gimle.dk/wp-content/uploads/2023/02/Codeofconduct_sticker.png" alt="" class="wp-image-2947" srcset="https://gimle.dk/wp-content/uploads/2023/02/Codeofconduct_sticker.png 963w, https://gimle.dk/wp-content/uploads/2023/02/Codeofconduct_sticker-272x300.png 272w, https://gimle.dk/wp-content/uploads/2023/02/Codeofconduct_sticker-929x1024.png 929w, https://gimle.dk/wp-content/uploads/2023/02/Codeofconduct_sticker-768x847.png 768w" sizes="auto, (max-width: 963px) 100vw, 963px" /></a></figure>
+
+
+
+<p class="wp-block-paragraph"><br></p>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<p class="wp-block-paragraph"><strong>TILMELD NYHEDSBREV</strong></p>
+
+
+<script>(function() {
+	window.mc4wp = window.mc4wp || {
+		listeners: [],
+		forms: {
+			on: function(evt, cb) {
+				window.mc4wp.listeners.push(
+					{
+						event   : evt,
+						callback: cb
+					}
+				);
+			}
+		}
+	}
+})();
+</script><!-- Mailchimp for WordPress v4.14.0 - https://wordpress.org/plugins/mailchimp-for-wp/ --><form id="mc4wp-form-1" class="mc4wp-form mc4wp-form-470" method="post" data-id="470" data-name="Nyhedsbrev" ><div class="mc4wp-form-fields"><input type="text" name="NAME" placeholder="Navn" required />
+<input type="email" name="EMAIL" placeholder="E-mail" required />
+<input type="submit" value="Tilmeld" /></div><label style="display: none !important;">Leave this field empty if you&#039;re human: <input type="text" name="_mc4wp_honeypot" value="" tabindex="-1" autocomplete="off" /></label><input type="hidden" name="_mc4wp_timestamp" value="1786568589" /><input type="hidden" name="_mc4wp_form_id" value="470" /><input type="hidden" name="_mc4wp_form_element_id" value="mc4wp-form-1" /><div class="mc4wp-response"></div></form><!-- / Mailchimp for WordPress Plugin --></div>
+</div>
+</section><section class="widget block-8 widget_block">
+<div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-8f761849 wp-block-columns-is-layout-flex">
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="371" src="https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-1024x371.png" alt="Roskilde Kommune logo" class="wp-image-1324" srcset="https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-1024x371.png 1024w, https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-300x109.png 300w, https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-768x278.png 768w, https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-1536x556.png 1536w, https://gimle.dk/wp-content/uploads/2022/12/RoskildeKommune-2048x742.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="301" src="https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-1024x301.png" alt="Tuborg logo" class="wp-image-1323" srcset="https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-1024x301.png 1024w, https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-300x88.png 300w, https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-768x226.png 768w, https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-1536x452.png 1536w, https://gimle.dk/wp-content/uploads/2022/12/TUBORG_MasterbrandLogo_hvid-2048x603.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="458" src="https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-1024x458.png" alt="Dansk Live logo" class="wp-image-1326" srcset="https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-1024x458.png 1024w, https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-300x134.png 300w, https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-768x344.png 768w, https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-1536x687.png 1536w, https://gimle.dk/wp-content/uploads/2022/12/DL_logo_CMYKneg-2048x917.png 2048w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
+</div>
+
+
+
+<div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" decoding="async" src="https://gimle.dk/wp-content/uploads/2024/04/SKF_logo_offwhite_web.png" alt="Statens Kunstfond" class="wp-image-8370" style="object-fit:contain;width:121px;height:146px" width="121" height="146"/></figure>
+</div>
+</div>
+</section>  </div>
+</footer>
+    <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/wordpress_gimle/resources/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script>(function() {function maybePrefixUrlField () {
+  const value = this.value.trim()
+  if (value !== '' && value.indexOf('http') !== 0) {
+    this.value = 'http://' + value
+  }
+}
+
+const urlFields = document.querySelectorAll('.mc4wp-form input[type="url"]')
+for (let j = 0; j < urlFields.length; j++) {
+  urlFields[j].addEventListener('blur', maybePrefixUrlField)
+}
+})();</script><style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-image-inline-css">
+.wp-block-image>a,.wp-block-image>figure>a{display:inline-block}.wp-block-image img{box-sizing:border-box;height:auto;max-width:100%;vertical-align:bottom}@media not (prefers-reduced-motion){.wp-block-image img.hide{visibility:hidden}.wp-block-image img.show{animation:show-content-image .4s}}.wp-block-image[style*=border-radius] img,.wp-block-image[style*=border-radius]>a{border-radius:inherit}.wp-block-image.has-custom-border img{box-sizing:border-box}.wp-block-image.aligncenter{text-align:center}.wp-block-image.alignfull>a,.wp-block-image.alignwide>a{width:100%}.wp-block-image.alignfull img,.wp-block-image.alignwide img{height:auto;width:100%}.wp-block-image .aligncenter,.wp-block-image .alignleft,.wp-block-image .alignright,.wp-block-image.aligncenter,.wp-block-image.alignleft,.wp-block-image.alignright{display:table}.wp-block-image .aligncenter>figcaption,.wp-block-image .alignleft>figcaption,.wp-block-image .alignright>figcaption,.wp-block-image.aligncenter>figcaption,.wp-block-image.alignleft>figcaption,.wp-block-image.alignright>figcaption{caption-side:bottom;display:table-caption}.wp-block-image .alignleft{float:left;margin:.5em 1em .5em 0}.wp-block-image .alignright{float:right;margin:.5em 0 .5em 1em}.wp-block-image .aligncenter{margin-left:auto;margin-right:auto}.wp-block-image :where(figcaption){margin-bottom:1em;margin-top:.5em}.wp-block-image.is-style-circle-mask img{border-radius:9999px}@supports ((-webkit-mask-image:none) or (mask-image:none)) or (-webkit-mask-image:none){.wp-block-image.is-style-circle-mask img{border-radius:0;-webkit-mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-image:url('data:image/svg+xml;utf8,<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><circle cx="50" cy="50" r="50"/></svg>');mask-mode:alpha;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain}}:root :where(.wp-block-image.is-style-rounded img,.wp-block-image .is-style-rounded img){border-radius:9999px}.wp-block-image figure{margin:0}.wp-lightbox-container{display:flex;flex-direction:column;position:relative}.wp-lightbox-container img{cursor:zoom-in}.wp-lightbox-container img:hover+button{opacity:1}.wp-lightbox-container button{align-items:center;backdrop-filter:blur(16px) saturate(180%);background-color:#5a5a5a40;border:none;border-radius:4px;cursor:zoom-in;display:flex;height:20px;justify-content:center;opacity:0;padding:0;position:absolute;right:16px;text-align:center;top:16px;width:20px;z-index:100}@media not (prefers-reduced-motion){.wp-lightbox-container button{transition:opacity .2s ease}}.wp-lightbox-container button:focus-visible{outline:3px auto #5a5a5a40;outline:3px auto -webkit-focus-ring-color;outline-offset:3px}.wp-lightbox-container button:hover{cursor:pointer;opacity:1}.wp-lightbox-container button:focus{opacity:1}.wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background){background-color:#5a5a5a40;border:none}.wp-lightbox-overlay{box-sizing:border-box;cursor:zoom-out;height:100vh;left:0;overflow:hidden;position:fixed;top:0;visibility:hidden;width:100%;z-index:100000}.wp-lightbox-overlay .wp-lightbox-close-button{align-items:center;cursor:pointer;display:flex;font-family:inherit;gap:8px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 4px;position:absolute;right:calc(env(safe-area-inset-right) + 16px);top:calc(env(safe-area-inset-top) + 16px);z-index:5000000}.wp-lightbox-overlay .wp-lightbox-close-button:focus,.wp-lightbox-overlay .wp-lightbox-close-button:hover,.wp-lightbox-overlay .wp-lightbox-close-button:not(:hover):not(:active):not(.has-background){background:none;border:none}.wp-lightbox-overlay .wp-lightbox-close-button:has(.wp-lightbox-close-text:not([hidden])) .wp-lightbox-close-icon svg{height:1em;width:1em}.wp-lightbox-overlay .wp-lightbox-close-icon svg{display:block}.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{align-items:center;bottom:16px;cursor:pointer;display:flex;font-family:inherit;gap:4px;justify-content:center;line-height:1;min-height:40px;min-width:40px;padding:0 8px;position:absolute;z-index:2000002}.wp-lightbox-overlay .wp-lightbox-navigation-button-next[hidden],.wp-lightbox-overlay .wp-lightbox-navigation-button-prev[hidden]{display:none}@media (min-width:960px){.wp-lightbox-overlay .wp-lightbox-navigation-button-next,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{bottom:50%;transform:translateY(-50%)}}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-next:not(:hover):not(:active):not(.has-background),.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:focus,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:hover,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:not(:hover):not(:active):not(.has-background){background:none;border:none;padding:0 8px}.wp-lightbox-overlay .wp-lightbox-navigation-button-next:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg,.wp-lightbox-overlay .wp-lightbox-navigation-button-prev:has(.wp-lightbox-navigation-text:not([hidden])) .wp-lightbox-navigation-icon svg{display:block;height:1.5em;width:1.5em}.wp-lightbox-overlay .wp-lightbox-navigation-button-prev{left:calc(env(safe-area-inset-left) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-button-next{right:calc(env(safe-area-inset-right) + 16px)}.wp-lightbox-overlay .wp-lightbox-navigation-icon svg{vertical-align:middle}.wp-lightbox-overlay .lightbox-image-container{height:var(--wp--lightbox-container-height);left:50%;overflow:hidden;position:absolute;top:50%;transform:translate(-50%,-50%);transform-origin:top left;width:var(--wp--lightbox-container-width);z-index:2000001}.wp-lightbox-overlay .wp-block-image{align-items:center;box-sizing:border-box;display:flex;height:100%;justify-content:center;margin:0;position:relative;transform-origin:0 0;width:100%;z-index:3000000}.wp-lightbox-overlay .wp-block-image img{height:var(--wp--lightbox-image-height);min-height:var(--wp--lightbox-image-height);min-width:var(--wp--lightbox-image-width);width:var(--wp--lightbox-image-width)}.wp-lightbox-overlay .wp-block-image figcaption{display:none}.wp-lightbox-overlay button{background:none;border:none}.wp-lightbox-overlay .scrim{background-color:#fff;height:100%;opacity:.9;position:absolute;width:100%;z-index:2000000}.wp-lightbox-overlay.active{visibility:visible}@media not (prefers-reduced-motion){.wp-lightbox-overlay.active{animation:turn-on-visibility .25s both}.wp-lightbox-overlay.active img{animation:turn-on-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active){animation:turn-off-visibility .35s both}.wp-lightbox-overlay.show-closing-animation:not(.active) img{animation:turn-off-visibility .25s both}.wp-lightbox-overlay.zoom.active{animation:none;opacity:1;visibility:visible}.wp-lightbox-overlay.zoom.active .lightbox-image-container{animation:lightbox-zoom-in .4s}.wp-lightbox-overlay.zoom.active .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.active .scrim{animation:turn-on-visibility .4s forwards}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active){animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container{animation:lightbox-zoom-out .4s}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .lightbox-image-container img{animation:none}.wp-lightbox-overlay.zoom.show-closing-animation:not(.active) .scrim{animation:turn-off-visibility .4s forwards}}@keyframes show-content-image{0%{visibility:hidden}99%{visibility:hidden}to{visibility:visible}}@keyframes turn-on-visibility{0%{opacity:0}to{opacity:1}}@keyframes turn-off-visibility{0%{opacity:1;visibility:visible}99%{opacity:0;visibility:visible}to{opacity:0;visibility:hidden}}@keyframes lightbox-zoom-in{0%{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale))}to{transform:translate(-50%,-50%) scale(1)}}@keyframes lightbox-zoom-out{0%{transform:translate(-50%,-50%) scale(1);visibility:visible}99%{visibility:visible}to{transform:translate(calc((-100vw + var(--wp--lightbox-scrollbar-width))/2 + var(--wp--lightbox-initial-left-position)),calc(-50vh + var(--wp--lightbox-initial-top-position))) scale(var(--wp--lightbox-scale));visibility:hidden}}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/image/style.min.css */
+</style>
+<style id="wp-block-columns-inline-css">
+.wp-block-columns{box-sizing:border-box;display:flex;flex-wrap:wrap!important}@media (min-width:782px){.wp-block-columns{flex-wrap:nowrap!important}}.wp-block-columns{align-items:normal!important}.wp-block-columns.are-vertically-aligned-top{align-items:flex-start}.wp-block-columns.are-vertically-aligned-center{align-items:center}.wp-block-columns.are-vertically-aligned-bottom{align-items:flex-end}@media (max-width:781px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:100%!important}}@media (min-width:782px){.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns:not(.is-not-stacked-on-mobile)>.wp-block-column[style*=flex-basis]{flex-grow:0}}.wp-block-columns.is-not-stacked-on-mobile{flex-wrap:nowrap!important}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column{flex-basis:0;flex-grow:1}.wp-block-columns.is-not-stacked-on-mobile>.wp-block-column[style*=flex-basis]{flex-grow:0}:where(.wp-block-columns){margin-bottom:1.75em}:where(.wp-block-columns.has-background){padding:1.25em 2.375em}.wp-block-column{flex-grow:1;min-width:0;overflow-wrap:break-word;word-break:break-word}.wp-block-column.is-vertically-aligned-top{align-self:flex-start}.wp-block-column.is-vertically-aligned-center{align-self:center}.wp-block-column.is-vertically-aligned-bottom{align-self:flex-end}.wp-block-column.is-vertically-aligned-stretch{align-self:stretch}.wp-block-column.is-vertically-aligned-bottom,.wp-block-column.is-vertically-aligned-center,.wp-block-column.is-vertically-aligned-top{width:100%}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/columns/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/spacer/style.min.css */
+</style>
+<style id="wp-block-table-inline-css">
+.wp-block-table{overflow-x:auto}.wp-block-table table{border-collapse:collapse;width:100%}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{border:1px solid;padding:.5em}.wp-block-table .has-fixed-layout{table-layout:fixed;width:100%}.wp-block-table .has-fixed-layout td,.wp-block-table .has-fixed-layout th{word-break:break-word}.wp-block-table.aligncenter,.wp-block-table.alignleft,.wp-block-table.alignright{display:table;width:auto}.wp-block-table.aligncenter td,.wp-block-table.aligncenter th,.wp-block-table.alignleft td,.wp-block-table.alignleft th,.wp-block-table.alignright td,.wp-block-table.alignright th{word-break:break-word}.wp-block-table .has-subtle-light-gray-background-color{background-color:#f3f4f5}.wp-block-table .has-subtle-pale-green-background-color{background-color:#e9fbe5}.wp-block-table .has-subtle-pale-blue-background-color{background-color:#e7f5fe}.wp-block-table .has-subtle-pale-pink-background-color{background-color:#fcf0ef}.wp-block-table.is-style-stripes{background-color:initial;border-collapse:inherit;border-spacing:0}.wp-block-table.is-style-stripes tbody tr:nth-child(odd){background-color:#f0f0f0}.wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd){background-color:#f3f4f5}.wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd){background-color:#e9fbe5}.wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd){background-color:#e7f5fe}.wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd){background-color:#fcf0ef}.wp-block-table.is-style-stripes td,.wp-block-table.is-style-stripes th{border-color:#0000}.wp-block-table.is-style-stripes{border-bottom:1px solid #f0f0f0}.wp-block-table .has-border-color td,.wp-block-table .has-border-color th,.wp-block-table .has-border-color tr,.wp-block-table .has-border-color>*{border-color:inherit}.wp-block-table table[style*=border-top-color] tr:first-child,.wp-block-table table[style*=border-top-color] tr:first-child td,.wp-block-table table[style*=border-top-color] tr:first-child th,.wp-block-table table[style*=border-top-color]>*,.wp-block-table table[style*=border-top-color]>* td,.wp-block-table table[style*=border-top-color]>* th{border-top-color:inherit}.wp-block-table table[style*=border-top-color] tr:not(:first-child){border-top-color:initial}.wp-block-table table[style*=border-right-color] td:last-child,.wp-block-table table[style*=border-right-color] th,.wp-block-table table[style*=border-right-color] tr,.wp-block-table table[style*=border-right-color]>*{border-right-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:last-child,.wp-block-table table[style*=border-bottom-color] tr:last-child td,.wp-block-table table[style*=border-bottom-color] tr:last-child th,.wp-block-table table[style*=border-bottom-color]>*,.wp-block-table table[style*=border-bottom-color]>* td,.wp-block-table table[style*=border-bottom-color]>* th{border-bottom-color:inherit}.wp-block-table table[style*=border-bottom-color] tr:not(:last-child){border-bottom-color:initial}.wp-block-table table[style*=border-left-color] td:first-child,.wp-block-table table[style*=border-left-color] th,.wp-block-table table[style*=border-left-color] tr,.wp-block-table table[style*=border-left-color]>*{border-left-color:inherit}.wp-block-table table[style*=border-style] td,.wp-block-table table[style*=border-style] th,.wp-block-table table[style*=border-style] tr,.wp-block-table table[style*=border-style]>*{border-style:inherit}.wp-block-table table[style*=border-width] td,.wp-block-table table[style*=border-width] th,.wp-block-table table[style*=border-width] tr,.wp-block-table table[style*=border-width]>*{border-style:inherit;border-width:inherit}
+/*# sourceURL=https://gimle.dk/wp-includes/blocks/table/style.min.css */
+</style>
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}.is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}.is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){margin-left: auto !important;margin-right: auto !important;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+<style id="core-block-supports-inline-css">
+.wp-container-core-columns-is-layout-8f761849{flex-wrap:nowrap;}
+/*# sourceURL=core-block-supports-inline-css */
+</style>
+<script id="sage/main.js-js" src="https://gimle.dk/wp-content/themes/wordpress_gimle/dist/scripts/main_bb40d6eb.js"></script>
+<script id="mc4wp-forms-api-js" defer src="https://gimle.dk/wp-content/plugins/mailchimp-for-wp/assets/js/forms.js?ver=4.14.0"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://gimle.dk/wp-includes/js/wp-emoji-release.min.js?ver=7.0.4"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://gimle.dk/wp-includes/js/wp-emoji-loader.min.js
+</script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Isotope/jquery.isotope.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/imagesLoaded/jquery.imagesLoaded.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Transit/jquery.transit.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/jQuery Easing/jquery.easing.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Waypoints/waypoints.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Modernizr/modernizr.custom.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/jQuery Visible/jquery.visible.min.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Magnific Popup/jquery.magnific-popup.min.js"></script> <!-- Only if you are going to use Magnific Popup -->
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/components/Fancybox/jquery.fancybox.min.js"></script> <!-- Only if you are going to use fancybox -->
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/js/jquery.mediaBoxes.dropdown.js"></script>
+    <script src="/wp-content/themes/wordpress_gimle/resources/assets/plugin/js/jquery.mediaBoxes.js"></script>
+  </body>
+</html>

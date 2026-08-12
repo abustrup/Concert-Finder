@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://www.stengade.dk/show</loc>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <lastmod>2026-07-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2027/3/6/rezn-us-special-guest-coltaine-de</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/aec75cb8-d8f8-4050-935f-c3654133e4eb/poster-rezncoltaine.jpg</image:loc>
+      <image:title>Kalender - REZN [US] + Special Guest: Coltaine [DE] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9e6f7a5b-baab-4a25-8f55-97a9ecab627b/poster-eb.jpg</image:loc>
+      <image:title>Kalender - Ecko Bazz [UG] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/29/old-sorcery-fi-special-guest-offermose</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-12</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/b63581af-8150-4fa3-bc58-63c72eac70eb/poster-osom1.jpg</image:loc>
+      <image:title>Kalender - Old Sorcery [FI] + Special Guest: Offermose + NATFEST: DJ Impaler - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/3/shining-no</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/cb6e33c0-380c-4d5c-a88e-e7c1d3c59c0e/poster-shining.jpg</image:loc>
+      <image:title>Kalender - Shining [NO] + Support: Tungsind - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/24/alice-ai</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/7e063444-a2d3-4052-ad06-815dd27a129b/Alice+AI+Headliner+poster+%28IG+%2B+FB+post%29.png</image:loc>
+      <image:title>Kalender - Alice Ai - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/26/urne-uk-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/6b0e1190-cafb-4108-97f5-e892f3ef5a0d/square-poster-urne-use.jpg</image:loc>
+      <image:title>Kalender - Urne [UK] + Support: TBA - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/5/adlyd-support-emil-wanscher</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/2e958b1d-028f-4ea5-8f46-3591c4f094a6/poster-adlyd.jpg</image:loc>
+      <image:title>Kalender - Adlyd + Support: Emil Wanscher - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/13/mondo-drag-us-early-moods-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/c523537a-c93a-4f26-85e3-6198448ecfa6/poster-mdem.jpg</image:loc>
+      <image:title>Kalender - Mondo Drag [US] + Early Moods [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/22/horror-vacui-it</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a58b0069-b815-44cf-9a3e-c6d3d1198c08/POST+INSTGRAM.jpg</image:loc>
+      <image:title>Kalender - Horror Vacui [IT] + Support: Lucid Grave + NATFEST: DJ TOTEM - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/30/natjager-beneath-the-silence-foon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/19/sex-mask-au</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/30fd5184-be4b-4dae-982f-1f9be2b97b09/poster-sm-atl.jpg</image:loc>
+      <image:title>Kalender - Sex Mask [AU] + Support: Humane [UK] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/23/lgrimas-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/45c33d91-6333-489f-b672-ae883f699b9c/square-flyer-lagrimas.jpg</image:loc>
+      <image:title>Kalender - Lágrimas [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/26/nothing-us-support-hammok-no</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8e623e7b-c2e1-4191-a400-edbff85b4ab0/instapost-nothing.jpg</image:loc>
+      <image:title>Kalender - Nothing [US] + Support: Hammok [NO] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/5/raunchy-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a14fcacf-09e1-4ba0-97bd-38f4b86732c4/poster-raunchy.jpg</image:loc>
+      <image:title>Kalender - Raunchy + Support: TBA - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/18/dopeman-amp-lapello-uden-venner</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e5e5cf62-3e82-4263-a48a-a58cb9f6ea6b/Untitled_Artwork+%282%29.jpeg</image:loc>
+      <image:title>Kalender - Dopeman &amp;amp; Lapello - "Uden Venner" - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/9/spiders-se-the-dahmers-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-03</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8ff5b396-46ed-4b6b-ab6a-cda3e6689eae/TheDahmersSpiders_STENGADE_4x5.jpg</image:loc>
+      <image:title>Kalender - Spiders [SE] + The Dahmers [SE] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/1/sasha-adrian-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/53a7559c-909b-412b-87a2-3359c07b534d/poster-sa.jpg</image:loc>
+      <image:title>Kalender - Sasha Adrian + Support: TBA - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/29/coffin-au</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/87452ff9-09e8-4135-8f2f-52f4825ace70/poster-coffin.jpg</image:loc>
+      <image:title>Kalender - C.O.F.F.I.N [AU] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/7/jaya-the-cat-nlus</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-28</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a780e2a2-16f7-49db-9a53-6a8e5d9423ce/poster-jtc.jpg</image:loc>
+      <image:title>Kalender - Jaya the Cat [NL/US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/25/grusom-spade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-27</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/cffede1e-e49d-4d7a-95f2-8ad84def1f92/poster-grusomspade.jpg</image:loc>
+      <image:title>Kalender - Grusom + Spade - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/28/twenty-one-children-za-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1fa4d982-adcd-4b4c-915d-2d894ba2ab5a/poster-toc.jpg</image:loc>
+      <image:title>Kalender - Twenty One Children [ZA] + Support: TBA - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/4/split-special-guest-torn-from-oblivion-nl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/968198fc-052a-4990-b426-f66fa246b919/Stengade+headliner++with+support.png</image:loc>
+      <image:title>Kalender - Split + Special Guest: Torn From Oblivion [NL] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/26/morgarten-ch-vtte-mythoria</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-13</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/4df2fd22-dfd3-4725-aee1-303a093e7dcf/poster-mgvm.jpg</image:loc>
+      <image:title>Kalender - Morgarten [CH] + Vætte + Mythoria - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/17/kindsight-support-ninna-lundberg</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-12</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a618901e-9688-4626-b881-22aaa17b1662/poster-ksnl1.jpg</image:loc>
+      <image:title>Kalender - Kindsight + Support: Ninna Lundberg - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/14/violent-magic-orchestra-jp</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/530ee34b-09fa-4d35-9ca7-aeecdc244153/poster-vmopp.jpg</image:loc>
+      <image:title>Kalender - Violent Magic Orchestra [JP] + Support: Pink Plague + NATFEST: DJ St. Digue // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/14/bullet-se-support-sorm-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/9/29/anciients-ca</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-01</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/3e441642-1b96-425b-93d4-b1f709f196f1/poster-anciientsipoadvo.jpg</image:loc>
+      <image:title>Kalender - Anciients [CA] + Support: Ipomonia + Advocacy - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/14/atomic-rooster-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-27</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/3c5f7289-1079-4f79-a4c4-fb779c2fd731/poster-ar.jpg</image:loc>
+      <image:title>Kalender - Atomic Rooster [UK] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/11/valley-of-the-sun-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/13/siri-neel</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1ca528fc-1de3-4703-97ec-f3e6d3eaec61/poster-sn.jpg</image:loc>
+      <image:title>Kalender - Siri Neel - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/11/my-new-band-believe-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-17</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e9ce5737-6335-4dfa-81be-b64f9e157389/poster-mnbb1.jpg</image:loc>
+      <image:title>Kalender - My New Band Believe [UK] // Sold out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/6/havok-us-special-guests-blood-red-throne-no-support-xonor-ch-eradikated-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/cb39a503-3648-4656-872e-609fc3e4cd11/poster-havok.jpg</image:loc>
+      <image:title>Kalender - Havok [US] + Special Guests: Blood Red Throne [NO] + Support: Xonor [CH] + Eradikated [SE] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/16/black-flower-be</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/28/binr-10-rs-jubilum-koncert-ekstra-koncert</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1c12134b-12a1-43e1-882a-4f2551cdad18/bin%C3%A6rekstra.jpg</image:loc>
+      <image:title>Kalender - Binær - 10 Års Jubilæum Koncert - Ekstra Koncert - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/4/monolord-se-special-guests-mars-red-sky-fr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-06-28</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/382681b6-2614-435e-a466-f7bbf2f61baf/poster-monolord1.jpg</image:loc>
+      <image:title>Kalender - Monolord [SE] + Special Guests: Mars Red Sky [FR] // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/5/brat-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-03</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/d4d6974f-265c-4953-9789-08f9b8d38298/poster-bratxtrds.jpg</image:loc>
+      <image:title>Kalender - Brat [US] + Support: X Teenage Rebels + Dead Sleep [SE] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/27/binr-10-rs-jubilum-koncert</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/c1279c28-0472-40a2-8d07-39163913c0c6/BIN%C3%86R+Jubil%C3%A6umsshow+Flyer.jpg</image:loc>
+      <image:title>Kalender - Binær - 10 Års Jubilæum Koncert // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/18/internal-bleeding-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-13</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/d57ba96e-74d6-4e82-bc13-f5a1ce936ba9/square-poster-ib-gs-ad.jpg</image:loc>
+      <image:title>Kalender - Internal Bleeding [US] + Support: Guttural Slug + Afdød - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/10/eleine-se-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/d4a61ad6-5213-4e3a-846f-0ece2c43ddc7/poster-eleinesupports.jpg</image:loc>
+      <image:title>Kalender - Eleine [SE] + Support: Rexoria [SE] + Serapis Project [ES/AR] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/6/mc-einar-j-dag-special</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/12/tailgunner-uk-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/54bb3260-3e14-42c9-9054-f2bf3981493d/poster-tailgunner.jpg</image:loc>
+      <image:title>Kalender - Tailgunner [UK] + Support: Shred // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/21/general-assembly-2026-foreningen-spillestedet-stengade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/7/30/crypt-sermon-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-07-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1e16d9e5-e637-4bd4-babc-1a5269e32126/poster-cryptsermonslyngel.jpg</image:loc>
+      <image:title>Kalender - Crypt Sermon [US] + Support: Slyngel + Rogue Trader - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/15/mawiza-cl-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5ef74f5a-4937-4e0b-bf57-76b2a9e65ede/poster-mawiza1.jpg</image:loc>
+      <image:title>Kalender - Mawiza [CL] + Support: Pretext - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/8/28/kazdoura-ca-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-07</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/56a0d60e-a309-45b9-a123-ca8cb7202a85/story-poster-kazdoura.jpg</image:loc>
+      <image:title>Kalender - Kazdoura [CA] + Support: TBA - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/21/dormant-ordeal-pl-special-guests-foetorem-support-braindead</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e24fbe0e-6c73-42d9-bd09-d94f06bf4982/poster-dofbd.jpg</image:loc>
+      <image:title>Kalender - Dormant Ordeal [PL] + Special Guests: Foetorem + Support: Braindead - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/24/whispered-fi-support-scar-of-the-sun-gr-torchia-fi-ceremony-nl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f0b9aa6e-9998-423a-a1ce-b3fb55cc886f/poster-stengade-whispered.jpg</image:loc>
+      <image:title>Kalender - Whispered [FI] + Support: Scar Of The Sun [GR] + Torchia [FI] + Ceremony [NL] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/8/hlxl7ec2ixzr2jtrb3krvffrn33clo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-23</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/56a29f50-fbc4-47c2-a408-64006bf2f0a8/poster-olybb.jpg</image:loc>
+      <image:title>Kalender - Odd Loop + Bending Backwards + Yvonnes - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/24/napoleon-solo-support-fall-back-down</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/15/knivmgmt-x-stengade-undermund-pylon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5aa66702-b666-4dd8-b624-e7168141c9b2/poster-upow.jpg</image:loc>
+      <image:title>Kalender - KNIVMGMT x Stengade: Undermund + Pylon + KNIVMGMT Afterparty: FKN ELINE + Oskar Witt - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/14/mulher-na-roda-brazilian-night</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/03acc4ff-af62-40bc-9c55-4b219472ef6f/image0+%281%29.png</image:loc>
+      <image:title>Kalender - Mulher na Roda - Brazilian Night - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/4/wu-lyf-uk-residency</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/81ff50c5-0876-42c2-9c2c-773953f1fd4a/WL_CPH_VENUE_4X5+copy.jpg</image:loc>
+      <image:title>Kalender - Wu Lyf [UK] - Residency - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/1/danny-kool-40-rs-fdselsdags-koncert</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/20/maluda-support-ferdinand</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5656c86a-9dd5-4a0e-8e94-b129e5e2bd9a/poster-maluda.jpg</image:loc>
+      <image:title>Kalender - Maluda + Support: Ferdinand + NATDISC: DJ Cheeky - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/11/filuka-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/860e9dd3-8670-472f-9177-91649c5c24fa/poster-filuka.jpg</image:loc>
+      <image:title>Kalender - Filuka + support: Valde På Mars + NATDISC: DJ MassF // sold out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/23/hunsagde-special-guests-standart</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-18</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/db9eff94-fe0e-466a-9591-ad1383157056/poster-hs.jpg</image:loc>
+      <image:title>Kalender - hun_sagde + Special Guests: Standart - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/30/earthside-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e49fbe50-626e-48d1-b4f6-9a2d5182d576/poster-esrwbfm-final.jpg</image:loc>
+      <image:title>Kalender - Earthside [US] + Special Guest: Raphael Weinroth-Browne [CA] + Support: Feather Mountain // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/25/nye-skud-generation26-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/c69c78a3-cd39-4929-ace6-c62448b695b8/sten+fin%281%29.png</image:loc>
+      <image:title>Kalender - Nye skud #Generation26 // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/2/axel-flvent-is</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1f71402a-f7fd-44d6-8fe1-6d0178fca93b/AF_Tour_Poster_Copenhagen.jpg</image:loc>
+      <image:title>Kalender - Axel Flóvent [IS] + Support: Wynd - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/22/de-hje-hle-support-pistol-pistol-pistol-afterparty-dj-circle-work</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/988b4a5e-dba7-42c5-9532-485312949386/poster-dhh.jpg</image:loc>
+      <image:title>Kalender - De Høje Hæle + Support: Pistol Pistol Pistol + NATFEST: DJ Circle-Work // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/10/ratboys-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f95cbad0-22b4-48c2-b077-850243b45ea9/poster-feed-stengaderatboys.jpg</image:loc>
+      <image:title>Kalender - Ratboys [US] + Support: Polite // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/15/xx-xx-fr-dh-be</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9e8ede92-53d0-4a8f-9a16-7834cde8ab49/poster-oxxo.jpg</image:loc>
+      <image:title>Kalender - Öxxö Xööx [FR] + Déhà [BE] + _Ether:Sequence_ - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/21/male-tears-us-support-bestial-mouths-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/10/16/marko-hietala-fi</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-12</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9044b34a-3d04-447d-8d3f-381998ab913d/storyposter-mh.jpg</image:loc>
+      <image:title>Kalender - Marko Hietala [FI] + NATFEST: DJ Weiss // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/13/ddsrit-senl-lamp-of-murmuur-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-12</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/0d2934a7-c337-4873-9aa2-63e2301c1ebd/poster-drlom.jpg</image:loc>
+      <image:title>Kalender - Dödsrit [SE/NL] + Lamp of Murmuur [US] + NATFEST: DJ Impaler // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/5/20/the-coffinshakers-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-17</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/6e0a99a6-8867-4fc2-bfa9-279a9de6be7f/poster-tcs.jpg</image:loc>
+      <image:title>Kalender - The Coffinshakers [SE] + Support: Fancy Lee // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/12/an-abstract-illusion-se-special-guest-disillusion-de-support-feather-mountain</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-05-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/24/2834xfucanbf7yp2n7o7dfo01qx1fu</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/54f58ca8-a598-42f5-9c38-3db6b4dbfee1/FACEBOOK+COVER+Full+Circle.jpg</image:loc>
+      <image:title>Kalender - FULL CIRCLE by Pana Radio &amp;amp; Maté Maté - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/16/byens-lyd-echo-of-copenhagen-grn-dreng-vester-qvist</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/11/20/frulein</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-08-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/4/gradience-support-unseen-faith</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/5/night-in-athens-uk-special-guest-she-cant-afford-mascara</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/16/funky-times-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-16</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/3/akchamel-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/27/vinterjazz-mio-support-stj-snak-blood-girl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/25/vinterjazz-nout-fr-psychobillyjazz-3</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/20/vinterjazz-sren-skov-orbit-jiyu-afterparty-dj-dingotracks-dj-den-stenede-rille</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/3/qqbmndi9hllzw1uj0cxvg3f00kxjt7</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/31/vinterjazz-anders-meinhardt-residency-saturday-meinhardt-solo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/3/vinterjazz-anders-meinhardt-residency-friday-meinhardt-vs-tuxen</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/748691ab-2214-4e74-a905-9449cd189187/poster-mvst.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Anders Meinhardt Residency // FRIDAY: Meinhardt vs Tuxen + DJ Kaya Packness &amp;amp; Boogie Rookie - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/24/christmas-flavor-with-mikkelkanel-amp-suntop-kru-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/21e465b9-f254-47a4-a839-74dfe98533b8/square-mksk.jpg</image:loc>
+      <image:title>Kalender - Christmas flavor with MikkelKanel &amp;amp; Suntop kru // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/6/vinterjazz-matching-outfits-de-support-bubbling-well-ondskyld-solo</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/3/deadnate-release-concert-special-guest-thus-support-livedevil</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/68424c19-a88c-4c55-9385-3345e775a819/STENGADE+RELEASE+SQUARE.jpg</image:loc>
+      <image:title>Kalender - Deadnate - Release Concert + Special Guest: Thus + Support: LiveDevil + NATDISC: DJ Rotlord - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/19/vinterjazz-alawari</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/796c974e-8d73-461b-8c13-ee56ebc94fec/poster-alawari.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Alawari + Special Guest: Leah [NO] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/9/lik-se-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/fda7aca6-c1ca-4c4e-8d62-62b55bfefd98/poster-lik.jpg</image:loc>
+      <image:title>Kalender - LIK [SE] + Support: Mite // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/28/vinterjazz-nausia-support-neanfari-isdk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/5/vinterjazz-univers</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/93b34d82-6f44-4f5a-a6b3-7c9a1587a364/poster-univers.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Univers "Greatest Hits" (afskedskoncert) + Support: Høk - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/19/triumpher-gr-special-guests-scavenger-be</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a6864fc2-abf5-427a-b1d9-4d7bccb15a15/poster-triumpher.png</image:loc>
+      <image:title>Kalender - Triumpher [GR] + Special Guests: Scavenger [BE] + Support: Steel Inferno - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/18/humleridderne-jeg-gir-en-omgang-hvis-du-gir-to-30-rs-jubilum</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/4/dews-pegahorn-de</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-28</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f650231d-a915-4ecf-baa2-56721b0eb033/poster-dp.jpg</image:loc>
+      <image:title>Kalender - Dews Pegahorn [DE] + Support: Absence of Purpose - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/4/jo-quail-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/182c5785-9006-4644-99bd-b63ff0de6703/poster-jqrr.jpg</image:loc>
+      <image:title>Kalender - Jo Quail [UK] + Support: Recorder Recorder - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/9/hexenbrett-at-karloff-de-vlva-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8fd8bd36-71cd-44cf-bedd-0a85389da4dc/hexenbrett+flyer1.jpg</image:loc>
+      <image:title>Kalender - Hexenbrett [AT] + Karloff [DE] + Völva [SE] + Afterparty: DJ Impaler // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/1/eihwar-fr-mira-ceti-fr-pagan-folk-nights</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/126e966b-ec88-42eb-ac07-dcfd5bfd7437/poster-eihwar.jpg</image:loc>
+      <image:title>Kalender - EIHWAR [FR] + MIRA CETI [FR] - Pagan Folk Nights + NATDISC: DJ Weiss // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/21/vinterjazz-xasthur-us-special-guest-lukas-hger-se-support-pafund</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5f717d0e-d430-4439-9607-39e836a4d15e/poster-xasthur.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Xasthur [US] + Special Guest: Lukas Häger [SE] + Support: Pafund + Afterparty: DJ Viron Vortex // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/10/psychonaut-be</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/28/alphawhores-pa-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/8/vinterjazz-mint-field-mx-avishag-cohen-rodrigues-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1d72822e-b105-4c2d-b608-8189aee24391/poster-vjmfacr.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Mint Field [MX] + Avishag Cohen Rodrigues [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/10/the-chains-support-the-bustups-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-12-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/27/track-abdullah-rock-extensions-release-party</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/fbdd11b7-bf6b-4d62-8502-0ca8ea73755f/Plakat_TAR_02.jpg</image:loc>
+      <image:title>Kalender - Track Abdullah Rock - Extensions Release Party + Support: WeAreTheRobots // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/8/klumben-amp-raske-penge</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/d955904a-880e-4875-9daa-35c355657e6d/poster-krp.jpg</image:loc>
+      <image:title>Kalender - Klumben &amp;amp; Raske Penge + Support: Digiklubben + Afterparty: MikkelKanil // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/27/ponte-del-diavolo-it-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5a56e5f1-d826-424e-a8cd-6fd4dd6f7335/pddposter.jpg</image:loc>
+      <image:title>Kalender - Ponte del Diavolo [IT] + Support: Dread Witch + K L P S [SE] + NATDISC: DJ CHICKEN SUSHI - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/17/blodmne-special-guest-crimson-burial-support-heksproces</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-15</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/b40d5585-66cb-4715-94dc-8ff384a493f9/Blodm%C3%A5ne+headliner+jan+26+feed.jpg</image:loc>
+      <image:title>Kalender - Blodmåne + Special Guest: Crimson Burial + Support: Heksproces + Afterparty: DJ Queen of the night! // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/7/redwood-hill</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/13/romes-ca-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-02-13</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5f403f5a-a24e-45ef-85eb-8d29cd9eaf88/ROMES_EUROPEtour_A4_DE.png</image:loc>
+      <image:title>Kalender - Romes [CA] + Special Guests: Farveblind + Afterparty: Dj Circle-Work // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/20/free-afterparty-with-dj-besgitte</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/5/ellende-at-special-guests-karg-at-firtan-de</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/d1dcf6e3-d863-4e02-8f9a-f5b6cbe21521/poster-story-final.jpg</image:loc>
+      <image:title>Kalender - Ellende [AT] + Special Guests: Karg [AT] + Firtan [DE] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/13/chrom-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a8248e48-08da-43be-804e-7424f71a2797/poster-chrom.jpg</image:loc>
+      <image:title>Kalender - Chrom [DE] + Support: Neonsol + NATDISC: DJ Brain // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/4/25/the-devil-and-the-almighty-blues-no-special-guests-bogwife</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-04-23</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/84f6b1bc-602d-4b5a-ab04-30854e3a0e14/poster-thedevilbogwife-use.jpg</image:loc>
+      <image:title>Kalender - The Devil And The Almighty Blues [NO] + Special Guests: Bogwife + NATFEST: DJ Circle-Work // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/11/brant-bjork-trio-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-17</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/893eca76-17de-48fe-9d16-fff537e6e28d/poster-bbt.jpg</image:loc>
+      <image:title>Kalender - Brant Bjork Trio [US] + Support: Human Growth // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/14/light-asylum-us-special-guests-she-cant-afford-mascara-god-tongue-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9adeb305-c7b6-4282-bd33-cdbf9bc16139/poster-allacts.jpg</image:loc>
+      <image:title>Kalender - Light Asylum [US] + Special Guests: She Can't Afford Mascara + God Tongue [US] + Aferparty: DJ Pablo Cassedey - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/1/23/del-fetich-frelser-svkling</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/3/6/analepsy-pt-support-anthropoid-idol-rdden-rektalvske</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-03-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f36eafe9-45c1-4b8e-88dd-cdd4f20cfe82/poster-analepsy1.jpg</image:loc>
+      <image:title>Kalender - Analepsy [PT] + Support: Anthropoid Idol + Rådden Rektalvæske + NATDISC: DJ Rotlord // Sold out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/14/onslaught-uk-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2026-01-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/60d7c3e3-c597-41de-ac19-9e2a821889a8/poster-insta-onslaught.jpg</image:loc>
+      <image:title>Kalender - Onslaught [UK] + Support: Persecutor // Cancelled - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/15/mary-annes-polar-rig-se-pre-banal</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/02413753-eb25-4bed-8370-940651c55c6d/poster-maprpb.jpg</image:loc>
+      <image:title>Kalender - Mary Anne's Polar Rig [SE] + Pære Banal - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/20/astrid-samuelsen-release-concert-k-bech-stanley-samuelsen-fo-afterparty-dj-besgitte</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-07</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/5/je-taime-fr-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8a425603-f38f-46e6-a396-46446725ce34/poster-jtp.jpg</image:loc>
+      <image:title>Kalender - Je T'aime [FR] + Support: Pharmacist [SE] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/17/spektr-w-nils-grndahl-special-guest-nattefrost</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-01</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/7/super-jet-kinoko-jp-support-battlestar-overdrive</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/1/kalaha-feat-hilal-kaya</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2026/2/11/ereb-altor-se-skyforger-lt-wolfchant-de-belore-fr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/9ebb163e-fb20-44fb-b378-a605bb50aee8/Blood_Moon_FB_Event+Copenhagen.jpg</image:loc>
+      <image:title>Kalender - Ereb Altor [SE] + Skyforger [LV] + Wolfchant [DE] + Belore [FR] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/24/daevar-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/6/panzerchrist-support-pustulant-flesh</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-07</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/2161cb32-614e-4432-9f2e-4d80fe836180/poster-panzerflesh.jpg</image:loc>
+      <image:title>Kalender - Panzerchrist + Support: Pustulant Flesh - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/3/north-sea-crossing-sam-grassie-uk-kristoffer-birkedal-no-emile</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/6372b5e1-eb12-4b0b-8260-8ae8dd636208/North+Sea+Crossing_Stengade_Story.jpg</image:loc>
+      <image:title>Kalender - North Sea Crossing: Sam Grassie [UK] + Kristoffer Birkedal [NO] + Emile + DJ Høje Jonas - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/7/3/gama-bomb-uk-support-anarchy-zone</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/7efee9b7-cda8-4f7e-a42e-a7c1a9a2b2c1/poster-gb.jpg</image:loc>
+      <image:title>Kalender - Gama Bomb [UK] + Support: Anarchy Zone + Afterparty: DJ Queen of the Night - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/31/sunken-release-concert-special-guests-ultima-necat-de-gennem-tgen</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/45084a53-9e4d-4f4c-bc2c-69d4eb6b44af/SUNKEN_RELEASEPOSTER_STENGADE2_small.jpg</image:loc>
+      <image:title>Kalender - Sunken - Release Concert + Special Guests: Ultima Necat [DE] + Gennem Tågen // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/6/nick-sander-a-night-with-friends</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-08</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/3/galge-release-concert-special-guests-afdd-rottefnger</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/773a35df-5190-4ff7-9df5-2105a1ad5ea4/3+oktober.jpg</image:loc>
+      <image:title>Kalender - Galge - Release Concert + Special Guests: Afdød + Rottefænger // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/20/dork-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e2af219e-5d81-4fde-8fab-534582d13327/poster-dork.jpg</image:loc>
+      <image:title>Kalender - Dork + Support: Cora Flux - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/13/niia-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-06</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5c614eb7-4de7-43ba-9556-fa573aee54e2/NIIA_TOUR_FLYER_1080x1080.jpg</image:loc>
+      <image:title>Kalender - NIIA [US] + Support: Brosie [DE] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/26/terrorpy-crimson-burial-elitist</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-06-11</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/30/author-amp-punisher-us-special-guest-bong-ra-nl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/fc6ad122-1f1b-4e1f-8cf3-0a54b5a3b1c3/poster-apbongra1.jpg</image:loc>
+      <image:title>Kalender - Author &amp;amp; Punisher [US] + Special Guest: Bong-Ra [NL] + Support: Spiracle // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/15/zanias-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/b0887992-ec07-4053-89d3-66d2c181b27c/2025+Tour+Poster+Zanias+-+square.jpg</image:loc>
+      <image:title>Kalender - Zanias [DE] + Support: UZR - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/5/skurvognen-x-stengade-distortion-afterparty-oskar-witt-slush-eyes-dj-allergy-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-06-02</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/979ea8ec-627a-43b4-a743-fa946c7acf2a/Distortion+Afterparty+plakat.PNG</image:loc>
+      <image:title>Kalender - Skurvognen X Stengade - Distortion Afterparty: Oskar Witt + Slush Eyes + Dj Allergy // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/25/fadi</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-17</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e21fe47e-2e4d-4f37-aafd-7cc96c4e2c54/Stengade.jpg</image:loc>
+      <image:title>Kalender - Fadi + Support: Luna Gudme + Afterparty: DJ Nick&amp;amp;Dré - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/31/free-afterparty-with-dj-f1bi-after-the-ni99ernislden-aka-johnson-concert</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-29</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/6/free-afterparty-with-dj-impaler</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/5/skurvognen-x-stengade-asphalt-groove-distortion-nrrebro</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-26</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/29/ball-park-music-au-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-29</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/7e4a9692-6ed6-4bc8-8cc9-1ea2156baa59/BPM_LIKE+LOVE+EU+Stengade_Portrait.png</image:loc>
+      <image:title>Kalender - Ball Park Music [AU] + Support: Vince Chinaski &amp;amp; The Unconditional Lovers + Afterparty: DJ The Gitzz // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/9/prog-weekend-fest-a-journey-beyond-sound-tryo-cl-agusa-se-onsgen-ensamble-fi</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/00f9b4cb-541b-44ca-be14-576fcf5b6bfd/Prog-weekend-1080x1350.png</image:loc>
+      <image:title>Kalender - PROG Weekend fest – A Journey Beyond Sound: Tryo [CL] + Agusa [SE] + Onségen Ensemble [FI] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/12/de-underjordiske-ind-i-flammerne-10-rs-jubilumskoncerter</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/22/skinny-lister-uk-special-guests-vandoliers-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-14</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a00226cc-f12b-4014-88c3-c8bafc8e38c7/poster-stengade-insta.jpg</image:loc>
+      <image:title>Kalender - Skinny Lister [UK] + Special Guests: Vandoliers [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/11/tsushimamire-jp-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-01</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/297462df-63c6-4bd9-a043-62306aec901f/oct11_copen.png</image:loc>
+      <image:title>Kalender - TsuShiMaMiRe [JP] + Support: Seasonal Depression + Farmand + Afterparty: DJ Circle-Work - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/12/modelactriz-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/de57b6ce-fb93-4cb9-9d43-7ff3af57ecd9/ModelActriz+-+Fall+2025+-+IG+copy.jpg</image:loc>
+      <image:title>Kalender - Model/Actriz [US] + Support: Brutus VIII [US] // Sold out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/25/sababa-5-fr-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/5a72c2ae-980e-43cf-8ba3-1a35af35f5c2/poster-sababa5.jpg</image:loc>
+      <image:title>Kalender - Sababa 5 [FR] + Support: Eastern Fire // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/31/ni99ernislden</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-29</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/bea1057f-d920-4932-bd95-e05cbe4c0da5/Poster%2C+samlet+-+post.png</image:loc>
+      <image:title>Kalender - Ni99ernislæden + Support: Skammerens Døtre + Afterparty: Dj F1bi - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/6/pyrexia-us-support-relics-of-humanity-int</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-07</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/720bbe58-f5ff-4e2b-b379-9ef6aa8c48b1/posteruse.jpg</image:loc>
+      <image:title>Kalender - Pyrexia [US] + Support: Relics of Humanity [INT] + Guttural Slug - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/2/homesickness</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/15fd3539-1f93-4a63-a346-b861aa7d42bf/5x20+-+PCC+Label+Night%2C+Instagram+Opslag.jpg</image:loc>
+      <image:title>Kalender - Pink Cotton Candy - Label Night: Homesickness + Quiet Sonia + Ignacio Cordoba - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/21/yawning-man-us-special-guest-softsun-nous</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-11-21</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/dadc0a65-07db-41af-9608-651a568576f6/poster-ym.jpg</image:loc>
+      <image:title>Kalender - Yawning Man [US] + Special Guest: SoftSun [NO/US] + Afterparty: DJ Circle-Work - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/17/free-afterparty-with-dj-impaler</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/23/the-setting-son</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/30/afterlove-debut-concert</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/bdb8dbbd-867e-4c6b-9acc-6c555785b7d1/PLAKATstengadeAFTERLOVE.png</image:loc>
+      <image:title>Kalender - Afterlove - Debut Concert + Support: Only Human + Deathkoan + Afterparty: DJ Sims // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/18/louis-jarto</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/4/bunker-cypher-live-vol-2</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/4/brujeria-mxus-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1266dc4b-5c48-4ada-90a3-ebee18363458/poster-brujeria-cs.jpg</image:loc>
+      <image:title>Kalender - Brujeria [MX/US] + Support: Casket Spray - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/10/vilma-crow</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-10-09</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1f8f49d4-8997-47d7-9c4e-5d29416e7fd1/vilma+crow+post-copenhagen.jpg</image:loc>
+      <image:title>Kalender - Vilma Crow + Support: ivy be kind // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/7/wucan-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-23</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/16a7a786-93d3-4732-9587-dc0d67a419eb/poster-web-wucan1.jpg</image:loc>
+      <image:title>Kalender - Wucan [DE] + Support: Gravedog + Spade - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/29/clapper-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/9/5/chopper</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8ce6c9de-a038-44d0-bfab-603709993420/poster-chopperrome.jpg</image:loc>
+      <image:title>Kalender - Chopper + Special Guest: Rome in Reverse - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/15/earthless-us-sonic-prayer-20th-anniversary-tour-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-11</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/6ac9a353-a276-4c11-b4b3-37ca7348a4f5/poster-earthless-monolake.jpg</image:loc>
+      <image:title>Kalender - Earthless [US] "SONIC PRAYER 20th Anniversary Tour" + Support: Mono Lake + Afterparty: DJ Høje Jonas // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/23/general-assembly-2025-foreningen-spillestedet-stengade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-24</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1742807564565-DOT8I2DP5FD35Q1LQX4M/Join+the+Board+of+Spillestedet+Stengade+-+2025.jpg</image:loc>
+      <image:title>Kalender - General Assembly 2025 // Foreningen Spillestedet Stengade</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1742807567713-84SU2GFCY5KLJ3AI63R9/Join+the+Board+of+Spillestedet+Stengade+-+2025-2.jpg</image:loc>
+      <image:title>Kalender - General Assembly 2025 // Foreningen Spillestedet Stengade</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1742807571356-FWSCSNAY26E14LVFS6JE/Join+the+Board+of+Spillestedet+Stengade+-+2025-3.jpg</image:loc>
+      <image:title>Kalender - General Assembly 2025 // Foreningen Spillestedet Stengade</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/14/the-browning-us-special-guests-polar-uk-the-defect-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/54e9a11e-4bca-468b-9e2e-99f30580ca0e/Copenhagen+Post.jpg</image:loc>
+      <image:title>Kalender - The Browning [US] + Special Guests: Polar [UK] + The Defect [US] // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/21/free-afterparty-with-cry-tough-sound</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/10/12/denuit-fr-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e1a275a6-4202-452b-ad78-3a1d6f29d488/poster-denuit-totvm-patriarche.jpg</image:loc>
+      <image:title>Kalender - Denuit [FR] + Support: Totvm + Patriarche - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/22/necrowretch-fr-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/22/full-circle-by-pana-radio-amp-mat-mat</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/02a5f429-9c35-41c6-9a8a-fdac6eb2f181/FULL+CIRCLE_POSTER_SAVE+THE+DATE.jpg</image:loc>
+      <image:title>Kalender - FULL CIRCLE by Pana Radio &amp;amp; Maté Maté - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/28/sarcator-se-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-07-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/ff2930bb-08d4-4ad0-8346-59bc5721802a/poster-sarcator.jpg</image:loc>
+      <image:title>Kalender - Sarcator [SE] + Support: Wolfhead - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/19/rezn-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/24e7c72e-f7c0-4aa9-9704-8ce8810e1680/poster-rezntidejord.jpg</image:loc>
+      <image:title>Kalender - Rezn [US] + Support: Tidejord // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/25/sylvaine-solo-no-support-osi-amp-the-jupiter-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/16a18a9d-e1d6-4909-87bc-f01b94a30a4d/poster-sylvaine.jpg</image:loc>
+      <image:title>Kalender - Sylvaine "Solo" [NO] + Support: Osi &amp;amp; The Jupiter [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/3/cold-culture-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-02</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/10/denisa-id-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/986b402a-471d-430f-973d-ce1eba48411f/poster-denisa.jpg</image:loc>
+      <image:title>Kalender - Denisa [ID] + Special Guest: Meejah // Canceled - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/8/stjernevask-chk-overstimulated</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/6/tragedy-us-all-metal-tribute-to-the-bee-gees-amp-beyond-discos-revenge-tour-2025</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-23</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/adbadc74-1e25-487b-ad9a-ec6b776210d6/poster-tragedy.jpg</image:loc>
+      <image:title>Kalender - Tragedy [US]: All Metal Tribute to the Bee Gees &amp;amp; Beyond - Disco's Revenge Tour 2025 + Music Quiz + Afterparty: DJ Impaler - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/8/free-afterparty-with-dj-shatter-hands</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/16/the-world-is-a-beautiful-place-amp-i-am-no-longer-afraid-to-die-us-special-guests-michael-cera-palin-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-16</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8d104651-3d88-43f8-93ca-4a25d48e27a6/TWIABP+Europe+2025+Poster.jpg</image:loc>
+      <image:title>Kalender - The World Is a Beautiful Place &amp;amp; I Am No Longer Afraid to Die [US] + Special Guests: Michael Cera Palin [US] // Few tickets left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/14/free-entry-valentines-lovetails-cocktail-afterparty-feat-dj-pladedamen</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/4085b338-04fb-4876-8d53-b7bf6e4ef5a6/Unavngivet.png</image:loc>
+      <image:title>Kalender - Free Entry: Valentine's Lovetails (cocktail afterparty) Feat. DJ Pladedamen - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/8/8/sleepytime-gorilla-museum-us-support-faun-fable-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-04</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/040e4a9a-f655-4578-bf29-1f1ada9acd25/poster-sgm1.jpg</image:loc>
+      <image:title>Kalender - Sleepytime Gorilla Museum [US] + Support: Faun Fables [US] + Afterparty: Dj Viron Vortex // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/5/bunker-cypher-live-stengade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-01</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/02041b38-ccb4-4383-84dc-b6fd00fd3053/received_640465748455489.jpeg</image:loc>
+      <image:title>Kalender - Bunker Cypher Live @ Stengade // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/17/coven-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-26</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a4bcd683-af88-4bb2-863e-1dc42d32a0fc/poster-square-coven.jpg</image:loc>
+      <image:title>Kalender - Coven [US] + Support: Trippelgänger + Afterparty: DJ Impaler - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/11/hippie-death-cult-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/68eebceb-1f66-40aa-b88b-2e9498c24775/poster-hdc-ld.jpg</image:loc>
+      <image:title>Kalender - Hippie Death Cult [US] + Support: Livedevil - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/11/19/jacob-aksglde</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-09-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/ce78557e-e2f3-4d04-a5e4-0dd65daa4ef4/poster-ja.jpg</image:loc>
+      <image:title>Kalender - Jacob Aksglæde // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/18/hardcore-easter-dethroned-de-hard-lessons-mite-sloevsind</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/12/1/nailed-to-obscurity-de-yoth-iria-gr-oak-ash-amp-thorn-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/940b739e-ab9b-432c-83f8-65d2c10c0f31/poster-nto-stengade.jpg</image:loc>
+      <image:title>Kalender - Nailed to Obscurity [DE] + Yoth Iria [GR] + Oak, Ash &amp;amp; Thorn [US] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/23/temperance-it-special-guests-ignea-ua</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/59426cd5-d810-4478-a187-376ac5cbfa58/Headline+Tour+2025+-+DENMARK.jpg</image:loc>
+      <image:title>Kalender - Temperance [IT] + Special Guests: Induction [CZ] + Secret Rule [IT] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/30/wormwitch-ca-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f4cff4a1-737f-4109-875a-3909336390c6/poster-newww.jpg</image:loc>
+      <image:title>Kalender - Wormwitch [CA] + Support: Frelser + Slyngel - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/15/dying-hydra-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-15</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/27/hatari-is</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-06-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/093cdb3f-6bdf-4363-a7f2-5768624e314b/poster-hatari1.jpg</image:loc>
+      <image:title>Kalender - Hatari [IS] + Support: Aux Animaux [SE] + Afterparty: DJ Totem // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/19/flight-attendant-us</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/6ebdcef4-c514-40a5-806f-4f55fbe6ac65/poster-faon.jpg</image:loc>
+      <image:title>Kalender - Flight Attendant [US] + Support: OhNothing - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/7/franks-white-canvas-cl</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-03</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/6/blvck-hippie-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-24</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/617d1025-1bd1-406e-a826-faf00a528ce5/poster-bh.jpg</image:loc>
+      <image:title>Kalender - Blvck Hippie [US] + Support: Full Cry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/1/defences-uk-support-archon</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-28</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/22/vvv-trippinyou-es-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f09c295a-fcb5-4350-a4f3-a5697384d368/VVV-Europe%5BPOST%5D.jpg</image:loc>
+      <image:title>Kalender - VVV [Trippin'you] (ES) + Support: TANDEM - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/29/heretoir-de-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/de6a05dd-e0e5-4f34-810f-cd673c3dd6fa/poster-heretoir.jpg</image:loc>
+      <image:title>Kalender - Heretoir [DE] + Support: Fractal Black - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/23/margaritas-podridas-mex-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-25</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/2/mothers-cake-at-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/6/4/south-of-sundays-support-sunraker-lady</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/14/vinterjazz-otooto-support-blly</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-12</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/21/fate-gear-jp</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/40a476c1-8d73-46c1-a6bd-c0e84af69d95/poster-fg.jpg</image:loc>
+      <image:title>Kalender - Fate Gear [JP] + Afterparty: Metal Bingo - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/12/24/kelele-lounge-x-mas-bash-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-12-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/cea645ce-6446-4bab-8f74-4e74c95bfbb8/square-djsule.jpg</image:loc>
+      <image:title>Kalender - Kelele Lounge: X-Mas Bash feat. DJ SULE + DJ SPITTING FIRE [SE] // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/8eb98bb1-36a3-46ec-bae3-ffa109bdddb5/square-sf.jpg</image:loc>
+      <image:title>Kalender - Kelele Lounge: X-Mas Bash feat. DJ SULE + DJ SPITTING FIRE [SE] // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/ea30323b-7c32-4f3e-bc7c-8496b03b5c78/keleleposterprint1.jpg</image:loc>
+      <image:title>Kalender - Kelele Lounge: X-Mas Bash feat. DJ SULE + DJ SPITTING FIRE [SE] // Free Entry - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/24/wacken-metal-battle-stengade</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-04-22</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/ab5ca91c-21aa-4005-89de-c8ff8b228c44/stengade-woa.jpg</image:loc>
+      <image:title>Kalender - Wacken Metal Battle - Stengade - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/4/20/tay-oskee-au</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/c1cc3220-03d6-48aa-b690-418487e0bedb/poster-to.jpg</image:loc>
+      <image:title>Kalender - Tay Oskee [AU] + Support: Brook St [AU] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/28/the-meffs-uk-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-24</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/94b39fe7-ee1d-4e32-9ffe-17d378f41659/walposter-tm.jpg</image:loc>
+      <image:title>Kalender - The Meffs [UK] + Support: Jakobe + Afterparty: DJ Circle-Work // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/15/bombus-se-support-hostilia-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-12-04</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/30/finom-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/a84ad404-dd78-4cf1-8b0d-c72ab5b91c72/poster-finomagneseavj.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Finom [US] + Support: Agnes Ea - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/27/psychonaut-4-ga-support-atra-vetosus-au-sedna-it-lichtblick-at</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-11-23</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/21/doctor-krpula-co-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/29/v9mq2gc539kqtkre6dh2no7idc35rw</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-24</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/31/vinterjazz-debre-damo-dining-orchestra-special-guest-et-tumason-afterparty-worldy</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/20/vinterjazz-a-night-in-the-nordic-desert-karambolage-lyzaar-nake</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-10-25</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/477a0b4d-57a9-4bb1-85fd-45389d25b592/poster-anitnd.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: A Night In The Nordic Desert: Karambolage + Lyzaar + Nake - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/1/vinterjazz-quest-master-au</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-01</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/977492db-ff40-4a54-8482-965c3bc8bf06/poster-final.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Quest Master [AU] + Special Guests: Offermose + Taagebue - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/12/6/portals-4ever-ublu-celebration</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/9/henge-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-08</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/f7acbcd0-5140-4304-9f4e-eb127e9eb3de/a2poster-stengade.jpg</image:loc>
+      <image:title>Kalender - HENGE [UK] + Support: Babylon Twist + Afterparty: DJ Circle-Work // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/10/15/dool-nl-hangmans-chair-fr-1</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-10-15</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/c4ac398b-c7e3-4f99-9d45-474deed880f0/poster-doolxhmc.jpg</image:loc>
+      <image:title>Kalender - DOOL [NL] + Hangman's Chair [FR] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/11/29/sidewalks-amp-skeleton-and-cashforgold-ukus</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-11-28</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/e5d08f71-0402-42b4-9441-2e34740178bb/poster-sands1.jpg</image:loc>
+      <image:title>Kalender - Sidewalks &amp;amp; Skeleton and CASHFORGOLD [UK/US] + Support: UZR // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/13/planet-of-zeus-gr-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/978a8a0e-f703-4a90-961b-114067395697/poster-pozsupports.jpg</image:loc>
+      <image:title>Kalender - Planet of Zeus [GR] + Support: Køter + Stars Annoy Me // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/3/15/gsta-berlings-saga-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-03-14</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/11/27/1000mods-gr</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-10-30</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/55390bd7-1211-43a7-87d9-5ca6f03f1094/COPENHAGEN.png</image:loc>
+      <image:title>Kalender - 1000Mods [GR] + Support: Sonic Moon // Sold Out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/7/vinterjazz-xiu-xiu-us-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-07</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/7f329ebc-0c3e-4b4c-ba19-80247e1e4606/poster-xiuxiu.jpg</image:loc>
+      <image:title>Kalender - Vinterjazz: Xiu Xiu [US] + Support: Kee Avil [CA] + Afterparty: DJ Algorythm // Sold out - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/6/vinterjazz-lpganggang-quartet-be</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-12-06</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/10/25/kelele-club-lineup-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-10-17</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1728542536167-RJT8XJMHNP1S0YZM74FM/square-mamzii.jpg</image:loc>
+      <image:title>Kalender - KELELE CLUB: DJ Mamzii + DJ Koko's + DJ KAMALI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1728542539547-HH5RQ0SYJEYT17QCKM8M/square-kokos.jpg</image:loc>
+      <image:title>Kalender - KELELE CLUB: DJ Mamzii + DJ Koko's + DJ KAMALI</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1729161627132-9LYI3D9H7ROR3XS6ET0J/square-kamali.jpg</image:loc>
+      <image:title>Kalender - KELELE CLUB: DJ Mamzii + DJ Koko's + DJ KAMALI</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/15/thronehammer-deuk-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-08-20</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/22b252f2-92d2-4b7b-a2c3-e23d8b96830e/poster-new-th.jpg</image:loc>
+      <image:title>Kalender - Thronehammer [DE/UK] + Support: Big Game Hunter - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/10/10/resonans-fringe-festival-the-tremolo-beer-gut-special-guests-mag-se-dj-christian-pallin-se</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-09-19</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/2d9e1429-8c5d-42d8-bd1e-3dd10cf6bce1/RESONANS+OCT+10+STENGADE.png</image:loc>
+      <image:title>Kalender - Resonans Fringe Festival: The Tremolo Beer Gut + Special Guests: MAG [SE] + DJ Christian Pallin [SE] - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/10/26/betty-bitschlap-gay-clubbing-release-party-support-amp-afterparty-free-entry</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2024-10-10</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1726657524501-ZK2ZL28NBV5AW534PRU8/square-caroussel1.jpg</image:loc>
+      <image:title>Kalender - Betty Bitschlap - 'Gay Clubbing' - Release Party + Support &amp;amp; Afterparty // Free Entry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1726657536720-T8JQZPXFT6F6QUWD1CBQ/square-caroussel2.jpg</image:loc>
+      <image:title>Kalender - Betty Bitschlap - 'Gay Clubbing' - Release Party + Support &amp;amp; Afterparty // Free Entry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1726657540240-QU73BU4BNP5SFLM6KM21/square-caroussel3.jpg</image:loc>
+      <image:title>Kalender - Betty Bitschlap - 'Gay Clubbing' - Release Party + Support &amp;amp; Afterparty // Free Entry</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/1726657543602-AW4Z3ZX6WEFSNB24T8UI/square-caroussel4.jpg</image:loc>
+      <image:title>Kalender - Betty Bitschlap - 'Gay Clubbing' - Release Party + Support &amp;amp; Afterparty // Free Entry</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/8/vinterjazz-clothing-club-support-sanyu-solo-no</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-05</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/2/21/vinterjazz-sunbrn</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-02-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/5/5/cassia-uk</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-05-05</lastmod>
+    <image:image>
+      <image:loc>https://images.squarespace-cdn.com/content/v1/5a967f653c3a538b735efaa4/0b933a66-f99c-4677-9227-eb6c1b230f55/newposter-cassia1.jpg</image:loc>
+      <image:title>Kalender - Cassia [UK] + Support: Zeck [AT] // Few Tickets Left - Make it stand out</image:title>
+      <image:caption>Whatever it is, the way you tell your story online can make all the difference.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2025/1/24/ultra-sunn-be-support-tba</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <lastmod>2025-01-13</lastmod>
+  </url>
+  <url>
+    <loc>https://www.stengade.dk/show/2024/9/18/misfitz-stengade-52-years-birthday-bash</loc>
+    <changefreq>mont
+<!-- TRIMMED BY recon.mjs -->

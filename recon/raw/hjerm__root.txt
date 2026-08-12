@@ -1,0 +1,2795 @@
+<!DOCTYPE html>
+<html class="no-js" lang="da-DK">
+	<head>
+		<meta charset="UTF-8">
+<script>
+var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function(){gform.scriptsLoaded=!0}),document.addEventListener("gform/theme/scripts_loaded",function(){gform.themeScriptsLoaded=!0}),window.addEventListener("DOMContentLoaded",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>"function"==typeof InitializeEditor,callIfLoaded:function(o){return!(!gform.domLoaded||!gform.scriptsLoaded||!gform.themeScriptsLoaded&&!gform.isFormEditor()||(gform.isFormEditor()&&console.warn("The use of gform.initializeOnLoaded() is deprecated in the form editor context and will be removed in Gravity Forms 3.1."),o(),0))},initializeOnLoaded:function(o){gform.callIfLoaded(o)||(document.addEventListener("gform_main_scripts_loaded",()=>{gform.scriptsLoaded=!0,gform.callIfLoaded(o)}),document.addEventListener("gform/theme/scripts_loaded",()=>{gform.themeScriptsLoaded=!0,gform.callIfLoaded(o)}),window.addEventListener("DOMContentLoaded",()=>{gform.domLoaded=!0,gform.callIfLoaded(o)}))},hooks:{action:{},filter:{}},addAction:function(o,r,e,t){gform.addHook("action",o,r,e,t)},addFilter:function(o,r,e,t){gform.addHook("filter",o,r,e,t)},doAction:function(o){gform.doHook("action",o,arguments)},applyFilters:function(o){return gform.doHook("filter",o,arguments)},removeAction:function(o,r){gform.removeHook("action",o,r)},removeFilter:function(o,r,e){gform.removeHook("filter",o,r,e)},addHook:function(o,r,e,t,n){null==gform.hooks[o][r]&&(gform.hooks[o][r]=[]);var d=gform.hooks[o][r];null==n&&(n=r+"_"+d.length),gform.hooks[o][r].push({tag:n,callable:e,priority:t=null==t?10:t})},doHook:function(r,o,e){var t;if(e=Array.prototype.slice.call(e,1),null!=gform.hooks[r][o]&&((o=gform.hooks[r][o]).sort(function(o,r){return o.priority-r.priority}),o.forEach(function(o){"function"!=typeof(t=o.callable)&&(t=window[t]),"action"==r?t.apply(null,e):e[0]=t.apply(null,e)})),"filter"==r)return e[0]},removeHook:function(o,r,t,n){var e;null!=gform.hooks[o][r]&&(e=(e=gform.hooks[o][r]).filter(function(o,r,e){return!!(null!=n&&n!=o.tag||null!=t&&t!=o.priority)}),gform.hooks[o][r]=e)}});
+</script>
+
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes">
+		<meta http-equiv="cleartype" content="on">
+		<title>Fermaten - Koncerter og events i Herning</title>
+
+		<link rel="shortcut icon" href="https://fermaten.dk/wp-content/themes/Fermaten/assets/img/favicon.ico" type="image/x-icon" />
+
+		<script id="CookieConsent" src="https://policy.app.cookieinformation.com/uc.js" data-culture="DA" type="text/javascript"></script>
+
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-T3RZW9T');</script>
+		<!-- End Google Tag Manager -->
+
+					<!-- Adform Tracking Code BEGIN -->
+			<script type="text/javascript">window._adftrack = Array.isArray(window._adftrack) ? window._adftrack : (window._adftrack ? [window._adftrack] : []);window._adftrack.push({pm: 689065,divider: encodeURIComponent('|'),pagename: encodeURIComponent('Fermaten forside')});(function () { var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = 'https://track.adform.net/serving/scripts/trackpoint/async/'; var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x); })();</script>
+			<!-- Adform Tracking Code END -->
+		
+		
+		<script>
+						window.baseUrl = "https://fermaten.dk/";
+			window.breakpoints = {
+				stickyHeightBreak: 500,
+				screenXs: 480,
+				screenSm: 768,
+				screenMd: 992,
+				screenLg: 1200,
+				images: 650
+			};
+
+					</script>
+
+		<link rel="stylesheet" type="text/css" href="//cloud.typography.com/6207092/655804/css/fonts.css" />
+
+		<!-- Start of Sleeknote signup and lead generation tool - www.sleeknote.com -->
+		<script id='sleeknoteScript' type='text/javascript'>(function () {var sleeknoteScriptTag = document.createElement('script');sleeknoteScriptTag.type = 'text/javascript';sleeknoteScriptTag.charset = 'utf-8';sleeknoteScriptTag.src = ('//sleeknotecustomerscripts.sleeknote.com/5194.js');var s = document.getElementById('sleeknoteScript');s.parentNode.insertBefore(sleeknoteScriptTag, s);})();</script>
+		<!-- End of Sleeknote signup and lead generation tool - www.sleeknote.com -->
+
+		<!-- Captcha -->
+		<script src='https://www.google.com/recaptcha/api.js'></script>
+
+		<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v28.0 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<meta name="description" content="Livemusik og events. Køb dine koncertbilletter online her. Store koncertoplevelser i intime rammer." />
+	<link rel="canonical" href="https://fermaten.dk/" />
+	<meta property="og:locale" content="da_DK" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Fermaten" />
+	<meta property="og:description" content="Livemusik og events. Køb dine koncertbilletter online her. Store koncertoplevelser i intime rammer." />
+	<meta property="og:url" content="https://fermaten.dk/" />
+	<meta property="og:site_name" content="Fermaten" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/fermaten.dk\/","url":"https:\/\/fermaten.dk\/","name":"Fermaten - Koncerter og events i Herning","isPartOf":{"@id":"https:\/\/fermaten.dk\/#website"},"description":"Livemusik og events. Køb dine koncertbilletter online her. Store koncertoplevelser i intime rammer.","breadcrumb":{"@id":"https:\/\/fermaten.dk\/#breadcrumb"},"inLanguage":"da-DK"},{"@type":"BreadcrumbList","@id":"https:\/\/fermaten.dk\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/fermaten.dk\/#website","url":"https:\/\/fermaten.dk\/","name":"Fermaten","description":"Det regionale spillested i Midtjylland","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/fermaten.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"da-DK"}]}</script>
+	<meta name="google-site-verification" content="tkQctEBjqoUI0eD1mntVOyUmkYNMfer9UHhjVakPDA4" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fermaten.billetten.dk' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel="alternate" type="application/rss+xml" title="Fermaten &raquo; Feed" href="https://fermaten.dk/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Fermaten &raquo;-kommentar-feed" href="https://fermaten.dk/comments/feed/" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='responsive-lightbox-swipebox-css' href='https://fermaten.dk/wp-content/plugins/responsive-lightbox/assets/swipebox/swipebox.min.css?ver=1.5.2' media='all' />
+<link rel='stylesheet' id='billetten-basm-css' href='https://fermaten.billetten.dk/basm/css?ver=3' media='all' />
+<link rel='stylesheet' id='fermaten-style-css' href='https://fermaten.dk/wp-content/themes/Fermaten/dist/css/style.css?ver=3' media='all' />
+<link rel='stylesheet' id='fermaten-style-reskin-css' href='https://fermaten.dk/wp-content/themes/Fermaten/dist/reskin/style.css?ver=7.0.4' media='all' />
+<link rel='stylesheet' id='gforms_reset_css-css' href='https://fermaten.dk/wp-content/plugins/gravityforms/legacy/css/formreset.min.css?ver=2.10.5' media='all' />
+<link rel='stylesheet' id='gforms_formsmain_css-css' href='https://fermaten.dk/wp-content/plugins/gravityforms/legacy/css/formsmain.min.css?ver=2.10.5' media='all' />
+<link rel='stylesheet' id='gforms_ready_class_css-css' href='https://fermaten.dk/wp-content/plugins/gravityforms/legacy/css/readyclass.min.css?ver=2.10.5' media='all' />
+<link rel='stylesheet' id='gforms_browsers_css-css' href='https://fermaten.dk/wp-content/plugins/gravityforms/legacy/css/browsers.min.css?ver=2.10.5' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-css' href='https://use.fontawesome.com/releases/v5.15.4/css/all.css?ver=2.0.3' media='all' />
+<link rel='stylesheet' id='bfa-font-awesome-v4-shim-css' href='https://use.fontawesome.com/releases/v5.15.4/css/v4-shims.css?ver=2.0.3' media='all' />
+<style id="bfa-font-awesome-v4-shim-inline-css">
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-brands-400.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-solid-900.svg#fontawesome') format('svg');
+			}
+
+			@font-face {
+				font-family: 'FontAwesome';
+				src: url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.eot?#iefix') format('embedded-opentype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff2') format('woff2'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.woff') format('woff'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.ttf') format('truetype'),
+				url('https://use.fontawesome.com/releases/v5.15.4/webfonts/fa-regular-400.svg#fontawesome') format('svg');
+				unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+			}
+		
+/*# sourceURL=bfa-font-awesome-v4-shim-inline-css */
+</style>
+<link rel='stylesheet' id='sib-front-css-css' href='https://fermaten.dk/wp-content/plugins/mailin/css/mailin-front.css?ver=7.0.4' media='all' />
+<script id="jquery-core-js" src="https://fermaten.dk/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://fermaten.dk/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<script id="dompurify-js" src="https://fermaten.dk/wp-content/plugins/responsive-lightbox/assets/dompurify/purify.min.js?ver=3.3.1"></script>
+<script id="responsive-lightbox-sanitizer-js-before">
+window.RLG = window.RLG || {}; window.RLG.sanitizeAllowedHosts = ["youtube.com","www.youtube.com","youtu.be","vimeo.com","player.vimeo.com"];
+//# sourceURL=responsive-lightbox-sanitizer-js-before
+</script>
+<script id="responsive-lightbox-sanitizer-js" src="https://fermaten.dk/wp-content/plugins/responsive-lightbox/js/sanitizer.js?ver=2.7.8"></script>
+<script id="responsive-lightbox-swipebox-js" src="https://fermaten.dk/wp-content/plugins/responsive-lightbox/assets/swipebox/jquery.swipebox.min.js?ver=1.5.2"></script>
+<script id="underscore-js" src="https://fermaten.dk/wp-includes/js/underscore.min.js?ver=1.13.8"></script>
+<script id="responsive-lightbox-infinite-scroll-js" src="https://fermaten.dk/wp-content/plugins/responsive-lightbox/assets/infinitescroll/infinite-scroll.pkgd.min.js?ver=4.0.1"></script>
+<script id="responsive-lightbox-js-before">
+var rlArgs = {"script":"swipebox","selector":"lightbox","customEvents":"","activeGalleries":true,"animation":true,"hideCloseButtonOnMobile":false,"removeBarsOnMobile":false,"hideBars":true,"hideBarsDelay":5000,"videoMaxWidth":1080,"useSVG":true,"loopAtEnd":false,"woocommerce_gallery":false,"ajaxurl":"https:\/\/fermaten.dk\/wp-admin\/admin-ajax.php","nonce":"acdaa0997a","preview":false,"postId":12809,"scriptExtension":false};
+
+//# sourceURL=responsive-lightbox-js-before
+</script>
+<script id="responsive-lightbox-js" src="https://fermaten.dk/wp-content/plugins/responsive-lightbox/js/front.js?ver=2.7.8"></script>
+<script id="modernizr-js" src="https://fermaten.dk/wp-content/themes/Fermaten/dist/bower_components/modernizr/modernizr.js?ver=7.0.4"></script>
+<script id="classie-js" src="https://fermaten.dk/wp-content/themes/Fermaten/assets/js/vendor/classie.js?ver=7.0.4"></script>
+<script id="gform_json-js" defer='defer' src="https://fermaten.dk/wp-content/plugins/gravityforms/js/jquery.json.min.js?ver=2.10.5"></script>
+<script id="gform_gravityforms-js-extra">
+var gf_global = {"gf_currency_config":{"name":"Danske kroner","symbol_left":"","symbol_right":"kr.","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"DKK"},"base_url":"https://fermaten.dk/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://fermaten.dk/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"7e5e40b31aed9851d4b614c1e2e2fda9","strings":{"newRowAdded":"Ny r\u00e6kke tilf\u00f8jet.","rowRemoved":"R\u00e6kke er fjernet","formSaved":"Formularen er blevet gemt.  Indholdet indeholder linket til at vende tilbage og udfylde formularen."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"Januar","february":"Februar","march":"Marts","april":"April","may":"Maj","june":"Juni","july":"Juli","august":"August","september":"September","october":"Oktober","november":"November","december":"December"},"firstDay":1,"iconText":"V\u00e6lg dato"}};
+var gf_legacy_multi = {"84":"1"};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"Denne filtype er ikke tilladt. Skal v\u00e6re en af f\u00f8lgende:","file_uploaded":"File uploaded","delete_file":"Slet denne fil","in_progress":"i gang","file_exceeds_limit":"Filen overskrider gr\u00e6nsen for st\u00f8rrelse","illegal_extension":"Denne filtype er ikke tilladt.","max_reached":"Maksimale antal filer n\u00e5et","unknown_error":"Der opstod et problem da filen blev gemt p\u00e5 serveren","currently_uploading":"Vent venligst til upload er fuldf\u00f8rt","cancel":"Annuller","cancel_upload":"Annuller denne upload","cancelled":"Annulleret","error":"Fejl","message":"Besked"},"vars":{"images_url":"https://fermaten.dk/wp-content/plugins/gravityforms/images"}};
+var gf_global = {"gf_currency_config":{"name":"Danske kroner","symbol_left":"","symbol_right":"kr.","symbol_padding":" ","thousand_separator":".","decimal_separator":",","decimals":2,"code":"DKK"},"base_url":"https://fermaten.dk/wp-content/plugins/gravityforms","number_formats":[],"spinnerUrl":"https://fermaten.dk/wp-content/plugins/gravityforms/images/spinner.svg","version_hash":"7e5e40b31aed9851d4b614c1e2e2fda9","strings":{"newRowAdded":"Ny r\u00e6kke tilf\u00f8jet.","rowRemoved":"R\u00e6kke er fjernet","formSaved":"Formularen er blevet gemt.  Indholdet indeholder linket til at vende tilbage og udfylde formularen."}};
+var gform_i18n = {"datepicker":{"days":{"monday":"Mo","tuesday":"Tu","wednesday":"We","thursday":"Th","friday":"Fr","saturday":"Sa","sunday":"Su"},"months":{"january":"Januar","february":"Februar","march":"Marts","april":"April","may":"Maj","june":"Juni","july":"Juli","august":"August","september":"September","october":"Oktober","november":"November","december":"December"},"firstDay":1,"iconText":"V\u00e6lg dato"}};
+var gf_legacy_multi = {"84":"1","83":"1"};
+var gform_gravityforms = {"strings":{"invalid_file_extension":"Denne filtype er ikke tilladt. Skal v\u00e6re en af f\u00f8lgende:","file_uploaded":"File uploaded","delete_file":"Slet denne fil","in_progress":"i gang","file_exceeds_limit":"Filen overskrider gr\u00e6nsen for st\u00f8rrelse","illegal_extension":"Denne filtype er ikke tilladt.","max_reached":"Maksimale antal filer n\u00e5et","unknown_error":"Der opstod et problem da filen blev gemt p\u00e5 serveren","currently_uploading":"Vent venligst til upload er fuldf\u00f8rt","cancel":"Annuller","cancel_upload":"Annuller denne upload","cancelled":"Annulleret","error":"Fejl","message":"Besked"},"vars":{"images_url":"https://fermaten.dk/wp-content/plugins/gravityforms/images"}};
+//# sourceURL=gform_gravityforms-js-extra
+</script>
+<script id="gform_gravityforms-js-before">
+
+//# sourceURL=gform_gravityforms-js-before
+</script>
+<script id="gform_gravityforms-js" defer='defer' src="https://fermaten.dk/wp-content/plugins/gravityforms/js/gravityforms.min.js?ver=2.10.5"></script>
+<script id="gform_gravityforms_utils-js" defer='defer' src="https://fermaten.dk/wp-content/plugins/gravityforms/assets/js/dist/utils.min.js?ver=3f278756f0a3032bed328ff6a9f6c01d"></script>
+<script id="sib-front-js-js-extra">
+var sibErrMsg = {"invalidMail":"Please fill out valid email address","requiredField":"Please fill out required fields","invalidDateFormat":"Please fill out valid date format","invalidSMSFormat":"Please fill out valid phone number"};
+var ajax_sib_front_object = {"ajax_url":"https://fermaten.dk/wp-admin/admin-ajax.php","ajax_nonce":"079c0fec65","flag_url":"https://fermaten.dk/wp-content/plugins/mailin/img/flags/"};
+//# sourceURL=sib-front-js-js-extra
+</script>
+<script id="sib-front-js-js" src="https://fermaten.dk/wp-content/plugins/mailin/js/mailin-front.js?ver=1782386921"></script>
+<link rel="https://api.w.org/" href="https://fermaten.dk/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fermaten.dk/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.0.4" />
+<link rel="shortcut icon" href="https://fermaten.dk/wp-content/themes/Fermaten/assets/img/favicon.ico" type="image/x-icon"><script type="text/javascript" src="https://cdn.brevo.com/js/sdk-loader.js" async></script>
+<script type="text/javascript">
+  window.Brevo = window.Brevo || [];
+  window.Brevo.push(['init', {"client_key":"69r0u22j1xebfaykgphlnbhq","email_id":null,"push":{"customDomain":"https:\/\/fermaten.dk\/wp-content\/plugins\/mailin\/"},"service_worker_url":"wonderpush-worker-loader.min.js?webKey=30ae3c76b70a276831a5c9983bd7208ec532f0819ca3636076c71b5aebe97343","frame_url":"brevo-frame.html"}]);
+</script><script type="text/javascript" src="https://cdn.by.wonderpush.com/sdk/1.1/wonderpush-loader.min.js" async></script>
+<script type="text/javascript">
+  window.WonderPush = window.WonderPush || [];
+  window.WonderPush.push(['init', {"customDomain":"https:\/\/fermaten.dk\/wp-content\/plugins\/mailin\/","serviceWorkerUrl":"wonderpush-worker-loader.min.js?webKey=30ae3c76b70a276831a5c9983bd7208ec532f0819ca3636076c71b5aebe97343","frameUrl":"wonderpush.min.html","webKey":"30ae3c76b70a276831a5c9983bd7208ec532f0819ca3636076c71b5aebe97343"}]);
+</script>
+	</head>
+<body class="home blog wp-theme-Fermaten archive veiled" itemscope itemtype="https://schema.org/WebPage">
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T3RZW9T" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<!--[if lt IE 10]>
+  <div class="browsehappy">
+    Du bruger en <strong>forældet</strong> browser. <a href="https://browsehappy.com/" title="Læs mere om de forskellige browsere her" target="_blank">Opdater venligst</a> for at få den fulde oplevelse af siden. <a href="https://browsehappy.com/" title="Læs mere om de forskellige browsere her" target="_blank">Klik her</a> for at læse mere.
+  </div>
+<![endif]-->
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1454972844736593&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '830007827018042');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=830007827018042&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<script type='text/javascript'>
+var axel = Math.random() + '';
+var a = axel * 10000000000000;
+document.write('<img style="display:none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/5706918/DFPAudiencePixel;ord=' + a + ';dc_seg=606238370?" width=1 height=1 border=0/>');
+</script>
+<noscript>
+<img style="display:none;" src="https://pubads.g.doubleclick.net/activity;dc_iu=/5706918/DFPAudiencePixel;ord=1;dc_seg=606238370?" width=1 height=1 border=0/>
+</noscript>
+
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=162501134102780&ev=PageView&noscript=1"
+/></noscript>
+
+<div id="site-container" class="site-container">
+
+	<div id="responsive-navigation-wrapper" class="responsive-navigation-wrapper">
+		<nav class="responsive-navigation reveal">
+			<div class="menu-responsive-navigation-container"><ul id="menu-responsive-navigation" class="nav"><li id="menu-item-231" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-231"><a href="https://fermaten.dk/koncerter-og-events/">Koncerter &#038; Events</a></li>
+<li id="menu-item-4417" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4417"><a href="http://fermaten.dk/drikkekort">Drikkekort</a></li>
+<li id="menu-item-652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-652"><a href="https://fermaten.dk/information/">Information</a>
+<ul class="sub-menu">
+	<li id="menu-item-234" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-234"><a href="https://fermaten.dk/information/faq/">FAQ</a></li>
+	<li id="menu-item-315" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-315"><a href="https://fermaten.dk/information/billetsalg-og-garderobe/">Billetsalg &#038; Garderobe</a></li>
+	<li id="menu-item-653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-653"><a href="https://fermaten.dk/information/bliv-medlem/">BLIV MEDLEM</a></li>
+	<li id="menu-item-237" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-237"><a href="https://fermaten.dk/information/teknisk-info/">Tech. info</a></li>
+	<li id="menu-item-238" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-238"><a href="https://fermaten.dk/information/booking/">Booking</a></li>
+	<li id="menu-item-236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-236"><a href="https://fermaten.dk/information/udlejning/">Udlejning</a></li>
+</ul>
+</li>
+<li id="menu-item-314" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-314"><a href="https://fermaten.dk/om-fermaten/">Om Fermaten</a>
+<ul class="sub-menu">
+	<li id="menu-item-316" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-316"><a href="https://fermaten.dk/kontakt/medarbejdere/">Medarbejdere</a></li>
+	<li id="menu-item-317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-317"><a href="https://fermaten.dk/om-fermaten/bestyrelsen/">Bestyrelsen</a></li>
+</ul>
+</li>
+<li id="menu-item-945" class="highlight menu-item menu-item-type-post_type menu-item-object-page menu-item-945"><a href="https://fermaten.dk/nyheder/">Nyheder</a></li>
+<li id="menu-item-235" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-235"><a href="https://fermaten.dk/kontakt/">Kontakt</a></li>
+<li id="menu-item-4924" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4924"><a href="https://fermaten.dk/information/koeb-gavekort/">Køb gavekort</a></li>
+<li id="menu-item-8493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8493"><a href="https://fermaten.dk/info-covid19/">Info ifbm. covid-19</a></li>
+<li id="menu-item-9504" class="basm basm_profile_btn menu-item menu-item-type-custom menu-item-object-custom menu-item-9504"><a href="#">Log ind</a></li>
+</ul></div>		</nav>
+	</div>
+
+	<div class="site">
+
+		
+		<header class="site-header" role="banner" itemscope itemtype="https://schema.org/WPHeader">
+
+			<div class="site-header-top">
+				<div class="navigation-wrapper row">
+
+					<div class="responsive-toggle-wrapper">
+					  <div id="responsive-toggle" class="responsive-toggle">
+				      <div class="toggle-button"></div>
+				    </div>
+				  </div>
+
+					<div class="logo-wrapper">
+						<h1 class="logo">
+							<a href="https://fermaten.dk" title="Gå til forsiden">Fermaten</a>
+						</h1>
+					</div>
+
+					<div class="utility-wrapper">
+						<nav class="nav-utility" role="navigation">
+					    <div class="menu-utility-navigation-container"><ul id="menu-utility-navigation" class="nav"><li id="menu-item-207" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-207"><a href="https://fermaten.dk/om-fermaten/">Om Fermaten</a></li>
+<li id="menu-item-204" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-204"><a href="https://fermaten.dk/information/faq/">FAQ</a></li>
+<li id="menu-item-206" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-206"><a href="https://fermaten.dk/kontakt/">Kontakt</a></li>
+<li id="menu-item-946" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-946"><a href="https://fermaten.dk/nyheder/">Nyheder</a></li>
+<li id="menu-item-9503" class="basm basm_profile_btn menu-item menu-item-type-custom menu-item-object-custom menu-item-9503"><a href="#">Log ind</a></li>
+</ul></div>					  </nav>
+
+					  <div class="social-wrapper">
+							<a class="facebook" title="Besøg Fermatens Facebook-side" href="https://www.facebook.com/Fermaten7400" target="_blank"><span class="icon"></span></a>
+							<a class="instagram" title="Besøg Fermatens Instagram-profil" href="https://www.instagram.com/fermatenherning/" target="_blank"><span class="icon"></span></a>
+						</div>
+
+					  <div class="tools-wrapper">
+							<a href="#" class="cart-btn cart">
+								<span class="icon"></span>
+								<span class="hidden cart-count">0</span>
+							</a>
+
+							<a href="https://fermaten.dk/?s=koncert" class="search-btn loupe">
+								<span class="icon"></span>
+							</a>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="site-header-bottom">
+				<div class="site-header-bottom-wrapper">
+					<div class="site-header-bottom-inner">
+						<div class="site-header-bottom-navigation">
+
+							<div class="navigation-wrapper">
+
+								<nav id="primary-navigation" class="nav-primary" role="navigation">
+							    <div class="menu-primary-navigation-container"><ul id="menu-primary-navigation" class="nav"><li id="menu-item-6066" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-6066"><a href="http://fermaten.dk/" aria-current="page">Koncerter &#038; Events</a></li>
+<li id="menu-item-218" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-218"><a href="#">Info</a>
+<ul class="sub-menu">
+	<li id="menu-item-654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-654"><a href="https://fermaten.dk/information/billetsalg-og-garderobe/">Billetsalg &#038; Garderobe</a></li>
+	<li id="menu-item-655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-655"><a href="https://fermaten.dk/information/faq/">FAQ</a></li>
+	<li id="menu-item-247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-247"><a href="https://fermaten.dk/information/udlejning/">Udlejning</a></li>
+	<li id="menu-item-248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-248"><a href="https://fermaten.dk/information/teknisk-info/">Tech. info</a></li>
+	<li id="menu-item-249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-249"><a href="https://fermaten.dk/information/booking/">Booking</a></li>
+</ul>
+</li>
+<li id="menu-item-9187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9187"><a href="https://fermaten.dk/projekter/">Projekter</a></li>
+<li id="menu-item-9211" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9211"><a href="https://fermaten.dk/information/koeb-gavekort/">Køb gavekort</a></li>
+<li id="menu-item-12011" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12011"><a href="https://fermaten.dk/information/bliv-medlem/">BLIV MEDLEM</a></li>
+</ul></div>						    </nav>
+
+						    <div class="tools-wrapper">
+									<a href="#" class="cart-btn cart">
+										<span class="icon"></span>
+										<span class="hidden cart-count">0</span>
+									</a>
+
+									<a href="https://fermaten.dk/?s=koncert" class="search-btn loupe">
+										<span class="icon"></span>
+									</a>
+
+									
+									
+								</div>
+
+							</div>
+
+							<div id="global-search-wrap">
+								<div id="global-search">
+									<form action="https://fermaten.dk/" method="get" role="search">
+	<label for="s" class="sr-only">Søg efter koncertere eller information</label>
+	<div class="input-wrap">
+		<input class="form-control" type="search" placeholder="Søg &hellip;" value="" id="s" name="s" title="Søg efter koncertere eller information" tabindex="1" autocomplete="off">
+		<div class="cancel"></div>
+	</div>
+</form>								</div>
+							</div>
+
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</header>
+
+		<div class="site-content">
+
+	<section class="content-area">
+
+		<main role="main">
+
+					
+	<div id="slider" class="slider-frontpage">
+		<div class="row">
+
+			<div class="flexslider slider col-xs-12 col-md-9">
+				<ul class="slides">
+
+					
+						
+							<li>
+								
+		<div class="concert-slide">
+
+							<a href="https://fermaten.dk/koncerter-og-events/zar-paulo-2/">
+			
+				<img src="https://fermaten.dk/wp-content/uploads/2026/02/Skaermbillede-2026-01-23-kl.-23.47.18-3_1000x500_acf_cropped-1.png">
+
+			</a>
+
+			<div class="slide-info-wrapper">
+				<div class="slide-info concert-info">
+
+											<a href="https://fermaten.dk/koncerter-og-events/zar-paulo-2/">
+					
+						<div class="concert-date"><time datetime='2026-11-13'>13. November 2026</time></div>
+
+						<h2 title="Zar Paulo">Zar Paulo</h2>
+
+													<h4>Kant, fællessang og fuld energi!</h4>
+						
+					</a>
+
+					
+											<div class="ticket-info basm basm_select" data-event_no="143928">
+							<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+
+								</li>
+
+						
+					
+						
+							<li>
+								
+		<div class="concert-slide">
+
+							<a href="https://fermaten.dk/koncerter-og-events/yor/">
+			
+				<img src="https://fermaten.dk/wp-content/uploads/2026/03/yor-web_1000x500_acf_cropped.png">
+
+			</a>
+
+			<div class="slide-info-wrapper">
+				<div class="slide-info concert-info">
+
+											<a href="https://fermaten.dk/koncerter-og-events/yor/">
+					
+						<div class="concert-date"><time datetime='2026-10-09'>9. Oktober 2026</time></div>
+
+						<h2 title="Yör">Yör</h2>
+
+													<h4>En drømmende blanding af organiske og elektroniske instrumenter, centreret om Marie Kildebæks fængslende vokal og lyriske talent</h4>
+						
+					</a>
+
+					
+											<div class="ticket-info basm basm_select" data-event_no="135093">
+							<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+
+								</li>
+
+						
+					
+						
+							<li>
+								
+		<div class="concert-slide">
+
+							<a href="https://fermaten.dk/koncerter-og-events/carpark-north-2/">
+			
+				<img src="https://fermaten.dk/wp-content/uploads/2025/12/Pressebillede-Tour-2026-taet-1-scaled_1000x500_acf_cropped.jpg">
+
+			</a>
+
+			<div class="slide-info-wrapper">
+				<div class="slide-info concert-info">
+
+											<a href="https://fermaten.dk/koncerter-og-events/carpark-north-2/">
+					
+						<div class="concert-date"><time datetime='2026-11-20'>20. November 2026</time></div>
+
+						<h2 title="Carpark North">Carpark North</h2>
+
+													<h4>Intens energi og fællesskabsfølelse.</h4>
+						
+					</a>
+
+					
+											<div class="ticket-info">
+							<div class="ticket-status sold_out">Udsolgt</div>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+
+								</li>
+
+						
+					
+						
+							<li>
+								
+		<div class="concert-slide">
+
+							<a href="https://fermaten.dk/koncerter-og-events/allan-olsen-og-det-sidste-slaeng/">
+			
+				<img src="https://fermaten.dk/wp-content/uploads/2026/02/AODSS_Eventpic_Herning_1000x500_acf_cropped-1.png">
+
+			</a>
+
+			<div class="slide-info-wrapper">
+				<div class="slide-info concert-info">
+
+											<a href="https://fermaten.dk/koncerter-og-events/allan-olsen-og-det-sidste-slaeng/">
+					
+						<div class="concert-date"><time datetime='2026-11-12'>12. November 2026</time></div>
+
+						<h2 title="Allan Olsen &#038; Det Sidste Slæng">Allan Olsen &#038; Det Sidste Sl&hellip;</h2>
+
+													<h4>Et musikalsk fællesskab med støv på støvlerne og styrke i sjælen</h4>
+						
+					</a>
+
+					
+											<div class="ticket-info basm basm_select" data-event_no="142683">
+							<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+						</div>
+					
+				</div>
+			</div>
+		</div>
+
+								</li>
+
+						
+									</ul>
+			</div>
+
+		</div>
+	</div>
+
+		
+		
+							<div id="notifications-holder"></div>
+				
+<div class="filter">
+
+	<span class="filter-header">Alle Koncerter / Events</span>
+
+	<span class="show-all btn-default btn">Vis alle</span>
+
+	 
+
+		
+		<select class="selectpicker show-menu-arrow monthpicker" name="monthpicker" data-width="200px" multiple title='Måneder'>
+			
+		  				<option value=".august">August</option>
+							<option value=".september">September</option>
+							<option value=".oktober">Oktober</option>
+							<option value=".november">November</option>
+							<option value=".december">December</option>
+							<option value=".januar">Januar</option>
+							<option value=".februar">Februar</option>
+							<option value=".marts">Marts</option>
+							<option value=".april">April</option>
+			
+				</select>
+
+	
+	<select class="selectpicker show-menu-arrow genrepicker" name="genrepicker" data-width="200px" multiple title='Genre'>
+	  			<option class="filter-btn" value=".blues" >Blues</option>
+					<option class="filter-btn" value=".comedy" >Comedy</option>
+					<option class="filter-btn" value=".country" >Country</option>
+					<option class="filter-btn" value=".elektronisk" >Elektronisk</option>
+					<option class="filter-btn" value=".folk" >Folk</option>
+					<option class="filter-btn" value=".hip-hop" >Hiphop</option>
+					<option class="filter-btn" value=".indie" >Indie</option>
+					<option class="filter-btn" value=".jazz" >Jazz</option>
+					<option class="filter-btn" value=".klassisk" >Klassisk</option>
+					<option class="filter-btn" value=".metal" >Metal</option>
+					<option class="filter-btn" value=".opera" >Opera</option>
+					<option class="filter-btn" value=".pop" >Pop</option>
+					<option class="filter-btn" value=".rap" >rap</option>
+					<option class="filter-btn" value=".rock" >Rock</option>
+					<option class="filter-btn" value=".show" >Show</option>
+					<option class="filter-btn" value=".soul" >Soul</option>
+					<option class="filter-btn" value=".upcoming" >Upcoming</option>
+					<option class="filter-btn" value=".world" >World</option>
+			</select>
+
+			<select class="selectpicker show-menu-arrow partnerpicker" name="partnerpicker" data-width="200px" multiple title='Samarbejdspartner'>
+		  				<option class="filter-btn" value=".aof-herning" >AOF Herning</option>
+							<option class="filter-btn" value=".brus-herning-rusmiddelcenter-herning" >BRUS Herning &amp; Rusmiddelcenter Herning</option>
+							<option class="filter-btn" value=".den-jyske-sangskole" >Den Jyske Sangskole</option>
+							<option class="filter-btn" value=".dmf" >DMF</option>
+							<option class="filter-btn" value=".dmf-herning" >DMF Herning</option>
+							<option class="filter-btn" value=".ensemble-midtvest" >Ensemble MidtVest</option>
+							<option class="filter-btn" value=".foreningen-lev" >Foreningen LEV</option>
+							<option class="filter-btn" value=".frekvens" >Frekvens</option>
+							<option class="filter-btn" value=".heart-museum-of-contemporary-art-herning" >HEART Museum of Contemporary Art Herning</option>
+							<option class="filter-btn" value=".herning-bibliotekerne" >Herning Bibliotekerne</option>
+							<option class="filter-btn" value=".herning-city" >Herning City</option>
+							<option class="filter-btn" value=".herning-kommune" >Herning Kommune</option>
+							<option class="filter-btn" value=".herning-opera-festival" >Herning Opera Festival</option>
+							<option class="filter-btn" value=".herning-teater" >Herning Teater</option>
+							<option class="filter-btn" value=".herningerkultur" >HerningErKultur</option>
+							<option class="filter-btn" value=".herningermusik" >HerningErMusik</option>
+							<option class="filter-btn" value=".historisk-forening" >Historisk Forening</option>
+							<option class="filter-btn" value=".holstebro-musikskole" >Holstebro Musikskole</option>
+							<option class="filter-btn" value=".horizon" >Horizon</option>
+							<option class="filter-btn" value=".huset-no7" >Huset No7</option>
+							<option class="filter-btn" value=".juserbart" >Jusérbar(t)</option>
+							<option class="filter-btn" value=".kmf-336" >KMF 336</option>
+							<option class="filter-btn" value=".kontrast" >Kontrast</option>
+							<option class="filter-btn" value=".kontrast-herning" >Kontrast Herning</option>
+							<option class="filter-btn" value=".kulturfest-herning" >Kulturfest Herning</option>
+							<option class="filter-btn" value=".mad-og-kultur" >Mad og Kultur</option>
+							<option class="filter-btn" value=".meyer-sound-space-map-go" >Meyer Sound - Space Map Go</option>
+							<option class="filter-btn" value=".mgk-midtvest" >MGK Midtvest</option>
+							<option class="filter-btn" value=".midtfolk" >Midtfolk</option>
+							<option class="filter-btn" value=".minihoejskolen-i-herning" >Minihøjskolen i Herning</option>
+							<option class="filter-btn" value=".moment" >MOMENT</option>
+							<option class="filter-btn" value=".moor-jazz" >Moor Jazz</option>
+							<option class="filter-btn" value=".moorjazz" >MoorJazz</option>
+							<option class="filter-btn" value=".moorjazz-festival" >MOORJAZZ Festival</option>
+							<option class="filter-btn" value=".nuancer" >Nuancer</option>
+							<option class="filter-btn" value=".phono-herning" >Phono Herning</option>
+							<option class="filter-btn" value=".phono-dk" >Phono.dk</option>
+							<option class="filter-btn" value=".phono-dk-dmf-herning" >phono.dk &amp; DMF Herning</option>
+							<option class="filter-btn" value=".queer-music-agency" >Queer Music Agency</option>
+							<option class="filter-btn" value=".sagens-hus" >Sagens hus</option>
+							<option class="filter-btn" value=".spil-nyt" >SPIL NYT</option>
+							<option class="filter-btn" value=".student-cup" >Student Cup</option>
+							<option class="filter-btn" value=".student-cup-herning" >Student Cup Herning</option>
+							<option class="filter-btn" value=".swinging-europe" >Swinging Europe</option>
+							<option class="filter-btn" value=".turn-it-over-records" >Turn It Over Records</option>
+							<option class="filter-btn" value=".uddannelsesby-herning" >Uddannelsesby Herning</option>
+					</select>
+	
+</div>
+			
+			<section id="concert-grid" class="archive-content concert-grid all">
+				
+					
+<article
+	class="concert-module horizon august"
+	data-id="12809"
+	data-link="https://fermaten.dk/koncerter-og-events/horizon-festival-summer-edition/"
+	data-title="Horizon Festival // Summer Edition"
+	data-title-truncated="Horizon Festival // Summer Editi&hellip;"
+	data-date="&lt;time datetime=&#039;2026-08-15&#039;&gt;15. August 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/fb-event-cover-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="144905">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/horizon-festival-summer-edition/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/fb-event-cover-650x380.png' alt='Horizon Festival // Summer Edition' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>200,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/horizon-festival-summer-edition/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-08-15'>15. August 2026</time></div>
+
+			<h3 title="Horizon Festival // Summer Edition">Horizon Festival // Summer Editi&hellip;</h3>
+
+							<h4>Electronic music festival</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module indie pop august"
+	data-id="12994"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1220/"
+	data-title="Smallegade Sessions (12:20)"
+	data-title-truncated="Smallegade Sessions (12:20)"
+	data-date="&lt;time datetime=&#039;2026-08-25&#039;&gt;25. August 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/35-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150937">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1220/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/35-650x380.png' alt='Smallegade Sessions (12:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1220/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-08-25'>25. August 2026</time></div>
+
+			<h3 title="Smallegade Sessions (12:20)">Smallegade Sessions (12:20)</h3>
+
+							<h4>m. Etva </h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module august"
+	data-id="13048"
+	data-link="https://fermaten.dk/koncerter-og-events/connect-comedy-camp/"
+	data-title="Connect: Comedy Camp"
+	data-title-truncated="Connect: Comedy Camp"
+	data-date="&lt;time datetime=&#039;2026-08-28&#039;&gt;28. August 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/08/1cae1257-1336-40a3-8624-cd36ed0e1d89-200x200.jpeg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="151454">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/connect-comedy-camp/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/08/1cae1257-1336-40a3-8624-cd36ed0e1d89-650x380.jpeg' alt='Connect: Comedy Camp' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>60,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/connect-comedy-camp/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-08-28'>28. August 2026</time></div>
+
+			<h3 title="Connect: Comedy Camp">Connect: Comedy Camp</h3>
+
+							<h4>Comedy Camp er for dig, der elsker stand-up på den ene eller den anden måde</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12812"
+	data-link="https://fermaten.dk/koncerter-og-events/moorjazz-festival-2026/"
+	data-title="MOORJAZZ FESTIVAL 2026"
+	data-title-truncated="MOORJAZZ FESTIVAL 2026"
+	data-date="&lt;time datetime=&#039;2026-09-05&#039;&gt;5. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/02/MOORJAZZ-FESTIVAL-2-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="144897">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/moorjazz-festival-2026/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/02/MOORJAZZ-FESTIVAL-2-650x380.png' alt='MOORJAZZ FESTIVAL 2026' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>325,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/moorjazz-festival-2026/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-05'>5. September 2026</time></div>
+
+			<h3 title="MOORJAZZ FESTIVAL 2026">MOORJAZZ FESTIVAL 2026</h3>
+
+							<h4>Jazz-elskere! Det er tid – jazz i verdensklasse på én dag.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12996"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1320/"
+	data-title="Smallegade Sessions (13:20)"
+	data-title-truncated="Smallegade Sessions (13:20)"
+	data-date="&lt;time datetime=&#039;2026-09-08&#039;&gt;8. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/36-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150940">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1320/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/36-650x380.png' alt='Smallegade Sessions (13:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1320/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-08'>8. September 2026</time></div>
+
+			<h3 title="Smallegade Sessions (13:20)">Smallegade Sessions (13:20)</h3>
+
+							<h4>m. Kjartan Bue</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12850"
+	data-link="https://fermaten.dk/koncerter-og-events/ti-jeg-ka-li-med-momme-mailund/"
+	data-title="Ti jeg ka&#8217; li&#8217; med Momme Mailund"
+	data-title-truncated="Ti jeg ka&#8217; li&#8217; med M&hellip;"
+	data-date="&lt;time datetime=&#039;2026-09-09&#039;&gt;9. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Ti-jeg-ka-li-web-10-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="145406">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/ti-jeg-ka-li-med-momme-mailund/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Ti-jeg-ka-li-web-10-650x380.png' alt='Ti jeg ka&#8217; li&#8217; med Momme Mailund' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>100,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/ti-jeg-ka-li-med-momme-mailund/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-09'>9. September 2026</time></div>
+
+			<h3 title="Ti jeg ka&#8217; li&#8217; med Momme Mailund">Ti jeg ka&#8217; li&#8217; med M&hellip;</h3>
+
+							<h4>Ti jeg ka’ li’ med rektor Momme Mailund</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module blues midtfolk september"
+	data-id="12701"
+	data-link="https://fermaten.dk/koncerter-og-events/hp-lange-big-gumbo/"
+	data-title="HP Lange Big Gumbo"
+	data-title-truncated="HP Lange Big Gumbo"
+	data-date="&lt;time datetime=&#039;2026-09-12&#039;&gt;12. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/12/HP-lange--200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="143161">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/hp-lange-big-gumbo/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/12/HP-lange--650x380.png' alt='HP Lange Big Gumbo' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>220,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/hp-lange-big-gumbo/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-12'>12. September 2026</time></div>
+
+			<h3 title="HP Lange Big Gumbo">HP Lange Big Gumbo</h3>
+
+							<h4>Et karakteristisk sound, der emmer af erfaring, spilleglæde og overskud</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12989"
+	data-link="https://fermaten.dk/koncerter-og-events/student-cup-2/"
+	data-title="STUDENT CUP"
+	data-title-truncated="STUDENT CUP"
+	data-date="&lt;time datetime=&#039;2026-09-18&#039;&gt;18. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/eventbillede-med-artister-Fermaten-1-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info">
+					<div class="ticket-status free">Gratis</div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/student-cup-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/eventbillede-med-artister-Fermaten-1-650x380.png' alt='STUDENT CUP' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>Gratis</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/student-cup-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-18'>18. September 2026</time></div>
+
+			<h3 title="STUDENT CUP">STUDENT CUP</h3>
+
+							<h4>Gratis koncert m. Berg &amp; Patina på torvet</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12998"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1420/"
+	data-title="Smallegade Sessions (14:20)"
+	data-title-truncated="Smallegade Sessions (14:20)"
+	data-date="&lt;time datetime=&#039;2026-09-22&#039;&gt;22. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/Smallegade-Sessions-9-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150943">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1420/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/Smallegade-Sessions-9-650x380.png' alt='Smallegade Sessions (14:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1420/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-22'>22. September 2026</time></div>
+
+			<h3 title="Smallegade Sessions (14:20)">Smallegade Sessions (14:20)</h3>
+
+							<h4>m. Oskar Krusell</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12517"
+	data-link="https://fermaten.dk/koncerter-og-events/elias-roennenfelt/"
+	data-title="Elias Rønnenfelt"
+	data-title-truncated="Elias Rønnenfelt"
+	data-date="&lt;time datetime=&#039;2026-09-24&#039;&gt;24. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/10/Billetten-format-22-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="140798">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/elias-roennenfelt/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/10/Billetten-format-22.png' alt='Elias Rønnenfelt' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>230,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/elias-roennenfelt/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-24'>24. September 2026</time></div>
+
+			<h3 title="Elias Rønnenfelt">Elias Rønnenfelt</h3>
+
+							<h4>Elias Rønnefelt indtager scenen med intensitet og nerve </h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module september"
+	data-id="12871"
+	data-link="https://fermaten.dk/koncerter-og-events/salsa-med-jorge-cordero/"
+	data-title="Salsa med Jorge Cordero"
+	data-title-truncated="Salsa med Jorge Cordero"
+	data-date="&lt;time datetime=&#039;2026-09-25&#039;&gt;25. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Jorge-Cordero-1-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="146521">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/salsa-med-jorge-cordero/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Jorge-Cordero-1-650x380.jpg' alt='Salsa med Jorge Cordero' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>195,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/salsa-med-jorge-cordero/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-25'>25. September 2026</time></div>
+
+			<h3 title="Salsa med Jorge Cordero">Salsa med Jorge Cordero</h3>
+
+							<h4>Fermaten holder salsa-fest!</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module comedy september"
+	data-id="12384"
+	data-link="https://fermaten.dk/koncerter-og-events/ane-hoegsberg/"
+	data-title="Ane Høgsberg"
+	data-title-truncated="Ane Høgsberg"
+	data-date="&lt;time datetime=&#039;2026-09-30&#039;&gt;30. September 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/08/ANE_HØGSBERG__IG-Square_1080_108039-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="138768">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/ane-hoegsberg/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/08/ANE_HØGSBERG__IG-Square_1080_108039-650x380.jpg' alt='Ane Høgsberg' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>280,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/ane-hoegsberg/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-09-30'>30. September 2026</time></div>
+
+			<h3 title="Ane Høgsberg">Ane Høgsberg</h3>
+
+							<h4>Med Showet 'Ved du ikke hvem jeg er?'</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="12810"
+	data-link="https://fermaten.dk/koncerter-og-events/frekvens-praesenterer-absurd/"
+	data-title="Frekvens præsenterer: ABSURD"
+	data-title-truncated="Frekvens præsenterer: ABSURD"
+	data-date="&lt;time datetime=&#039;2026-10-01&#039;&gt;1. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Absurd_A3_PR_Hori-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="145235">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/frekvens-praesenterer-absurd/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Absurd_A3_PR_Hori-650x380.jpg' alt='Frekvens præsenterer: ABSURD' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>195,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/frekvens-praesenterer-absurd/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-01'>1. Oktober 2026</time></div>
+
+			<h3 title="Frekvens præsenterer: ABSURD">Frekvens præsenterer: ABSURD</h3>
+
+							<h4>Et dansk popband med hits, nærvær og masser af liveenergi</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="12614"
+	data-link="https://fermaten.dk/koncerter-og-events/rasmus-walter-4/"
+	data-title="Rasmus Walter"
+	data-title-truncated="Rasmus Walter"
+	data-date="&lt;time datetime=&#039;2026-10-02&#039;&gt;2. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-6-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="142260">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/rasmus-walter-4/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-6-650x380.png' alt='Rasmus Walter' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>325,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/rasmus-walter-4/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-02'>2. Oktober 2026</time></div>
+
+			<h3 title="Rasmus Walter">Rasmus Walter</h3>
+
+							<h4>Med nye numre i bagagen vender Rasmus Walter tilbage til landets scener efter tre år.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module midtfolk oktober"
+	data-id="12899"
+	data-link="https://fermaten.dk/koncerter-og-events/moskitto-bar/"
+	data-title="Moskitto Bar"
+	data-title-truncated="Moskitto Bar"
+	data-date="&lt;time datetime=&#039;2026-10-03&#039;&gt;3. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/04/Press-photo-Moskitto-Bar-2025-horisontal-credits-Ali-Tirazheh-scaled-1-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="147338">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/moskitto-bar/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/04/Press-photo-Moskitto-Bar-2025-horisontal-credits-Ali-Tirazheh-scaled-1-650x380.jpg' alt='Moskitto Bar' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>180,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/moskitto-bar/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-03'>3. Oktober 2026</time></div>
+
+			<h3 title="Moskitto Bar">Moskitto Bar</h3>
+
+							<h4>Rå energi, varme rytmer og musikalsk fællesskab</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="13001"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1520/"
+	data-title="Smallegade Sessions (15:20)"
+	data-title-truncated="Smallegade Sessions (15:20)"
+	data-date="&lt;time datetime=&#039;2026-10-06&#039;&gt;6. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/37-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150944">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1520/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/37-650x380.png' alt='Smallegade Sessions (15:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1520/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-06'>6. Oktober 2026</time></div>
+
+			<h3 title="Smallegade Sessions (15:20)">Smallegade Sessions (15:20)</h3>
+
+							<h4>m. Tomas Høffding</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module folk midtfolk oktober"
+	data-id="12591"
+	data-link="https://fermaten.dk/koncerter-og-events/signe-svendsen-4/"
+	data-title="Signe Svendsen"
+	data-title-truncated="Signe Svendsen"
+	data-date="&lt;time datetime=&#039;2026-10-07&#039;&gt;7. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-3-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="141861">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/signe-svendsen-4/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-3-650x380.png' alt='Signe Svendsen' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>245,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/signe-svendsen-4/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-07'>7. Oktober 2026</time></div>
+
+			<h3 title="Signe Svendsen">Signe Svendsen</h3>
+
+							<h4>En stærk stemme og overraskende fortællinger</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module blues midtfolk oktober"
+	data-id="12885"
+	data-link="https://fermaten.dk/koncerter-og-events/big-creek-slim-feat-dawnette-fessey/"
+	data-title="Big Creek Slim Feat. Dawnette Fessey"
+	data-title-truncated="Big Creek Slim Feat. Dawnette Fe&hellip;"
+	data-date="&lt;time datetime=&#039;2026-10-08&#039;&gt;8. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/04/Creek-Daw1-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="146965">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/big-creek-slim-feat-dawnette-fessey/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/04/Creek-Daw1-650x380.jpg' alt='Big Creek Slim Feat. Dawnette Fessey' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>255,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/big-creek-slim-feat-dawnette-fessey/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-08'>8. Oktober 2026</time></div>
+
+			<h3 title="Big Creek Slim Feat. Dawnette Fessey">Big Creek Slim Feat. Dawnette Fe&hellip;</h3>
+
+							<h4>Big Creek Slim og Li’l Dawnette leverer rå, prisvindende blues i international topklasse.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop oktober"
+	data-id="12160"
+	data-link="https://fermaten.dk/koncerter-og-events/yor/"
+	data-title="Yör"
+	data-title-truncated="Yör"
+	data-date="&lt;time datetime=&#039;2026-10-09&#039;&gt;9. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/04/yor-web-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="135093">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/yor/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/04/yor-web-650x380.png' alt='Yör' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>200,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/yor/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-09'>9. Oktober 2026</time></div>
+
+			<h3 title="Yör">Yör</h3>
+
+							<h4>En drømmende blanding af organiske og elektroniske instrumenter, centreret om Marie Kildebæks fængslende vokal og lyriske talent</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="13005"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1620/"
+	data-title="Smallegade Sessions (16:20)"
+	data-title-truncated="Smallegade Sessions (16:20)"
+	data-date="&lt;time datetime=&#039;2026-10-20&#039;&gt;20. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/38-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150945">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1620/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/38-650x380.png' alt='Smallegade Sessions (16:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1620/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-20'>20. Oktober 2026</time></div>
+
+			<h3 title="Smallegade Sessions (16:20)">Smallegade Sessions (16:20)</h3>
+
+							<h4>m. Gustaf Ljunggren / Emil de Waal</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="12703"
+	data-link="https://fermaten.dk/koncerter-og-events/naja-rosa/"
+	data-title="Naja Rosa"
+	data-title-truncated="Naja Rosa"
+	data-date="&lt;time datetime=&#039;2026-10-22&#039;&gt;22. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/12/Kredit_-Rita-Blue-FB-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="143223">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/naja-rosa/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/12/Kredit_-Rita-Blue-FB-650x380.jpg' alt='Naja Rosa' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>185,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/naja-rosa/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-22'>22. Oktober 2026</time></div>
+
+			<h3 title="Naja Rosa">Naja Rosa</h3>
+
+							<h4>En koncertoplevelse, hvor nærhed, musikalitet og stærke sange går op i en højere enhed</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="12894"
+	data-link="https://fermaten.dk/koncerter-og-events/little-north-feat-reinier-baas-nl-hannes-bennich-se/"
+	data-title="Little North feat. Reinier Baas (NL) &#038; Hannes Bennich (SE)"
+	data-title-truncated="Little North feat. Reinier Baas&hellip;"
+	data-date="&lt;time datetime=&#039;2026-10-23&#039;&gt;23. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/04/Press-Little-North-square-foto-Soeren-Lynggaard-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="147195">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/little-north-feat-reinier-baas-nl-hannes-bennich-se/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/04/Press-Little-North-square-foto-Soeren-Lynggaard-650x380.jpg' alt='Little North feat. Reinier Baas (NL) &#038; Hannes Bennich (SE)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>235,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/little-north-feat-reinier-baas-nl-hannes-bennich-se/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-23'>23. Oktober 2026</time></div>
+
+			<h3 title="Little North feat. Reinier Baas (NL) &#038; Hannes Bennich (SE)">Little North feat. Reinier Baas&hellip;</h3>
+
+							<h4>Little North skaber nysgerrig og levende jazz, hvor nordisk poesi møder et åbent, moderne udtryk</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module oktober"
+	data-id="12832"
+	data-link="https://fermaten.dk/koncerter-og-events/the-boy-that-got-away-junkyard-drive/"
+	data-title="The Boy That Got Away + Junkyard Drive"
+	data-title-truncated="The Boy That Got Away + Junkyard&hellip;"
+	data-date="&lt;time datetime=&#039;2026-10-24&#039;&gt;24. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Wordpress-banner-8-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="145209">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/the-boy-that-got-away-junkyard-drive/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Wordpress-banner-8-650x380.png' alt='The Boy That Got Away + Junkyard Drive' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>195,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/the-boy-that-got-away-junkyard-drive/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-24'>24. Oktober 2026</time></div>
+
+			<h3 title="The Boy That Got Away + Junkyard Drive">The Boy That Got Away + Junkyard&hellip;</h3>
+
+							<h4>To hårdtslående og stærke livenavne</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module elektronisk pop oktober"
+	data-id="12867"
+	data-link="https://fermaten.dk/koncerter-og-events/kind-mod-kind/"
+	data-title="Kind mod Kind"
+	data-title-truncated="Kind mod Kind"
+	data-date="&lt;time datetime=&#039;2026-10-29&#039;&gt;29. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Skaermbillede-2026-03-30-kl.-08.59.08-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="146511">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/kind-mod-kind/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Skaermbillede-2026-03-30-kl.-08.59.08-650x380.png' alt='Kind mod Kind' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>295,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/kind-mod-kind/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-29'>29. Oktober 2026</time></div>
+
+			<h3 title="Kind mod Kind">Kind mod Kind</h3>
+
+							<h4>Organisk pop og elektronisk energi smelter sammen i et stærkt, følelsesladet lydunivers.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop rock oktober"
+	data-id="12921"
+	data-link="https://fermaten.dk/koncerter-og-events/eight-days-a-week-2/"
+	data-title="Eight Days A Week"
+	data-title-truncated="Eight Days A Week"
+	data-date="&lt;time datetime=&#039;2026-10-30&#039;&gt;30. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/05/EDAW_PressePhoto-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="148354">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/eight-days-a-week-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/05/EDAW_PressePhoto-650x380.jpg' alt='Eight Days A Week' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>275,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/eight-days-a-week-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-30'>30. Oktober 2026</time></div>
+
+			<h3 title="Eight Days A Week">Eight Days A Week</h3>
+
+							<h4>Fællessang, gåsehud og Beatles-magi – de største hits får nyt liv i medrivende og overraskende fortolkninger.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop rock oktober"
+	data-id="12334"
+	data-link="https://fermaten.dk/koncerter-og-events/everybodys-talking-3/"
+	data-title="Everybody&#8217;s Talking"
+	data-title-truncated="Everybody&#8217;s Talking"
+	data-date="&lt;time datetime=&#039;2026-10-31&#039;&gt;31. Oktober 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/06/EverybodysTalking_2026_PR_Hori-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="137987">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/everybodys-talking-3/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/06/EverybodysTalking_2026_PR_Hori-650x380.jpg' alt='Everybody&#8217;s Talking' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>275,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/everybodys-talking-3/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-10-31'>31. Oktober 2026</time></div>
+
+			<h3 title="Everybody&#8217;s Talking">Everybody&#8217;s Talking</h3>
+
+							<h4>En blanding af uovertruffet vokalarbejde og sublimt guitarspil</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="13012"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1720/"
+	data-title="Smallegade Sessions (17:20)"
+	data-title-truncated="Smallegade Sessions (17:20)"
+	data-date="&lt;time datetime=&#039;2026-11-03&#039;&gt;3. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/39-1-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150947">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1720/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/39-1-650x380.png' alt='Smallegade Sessions (17:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1720/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-03'>3. November 2026</time></div>
+
+			<h3 title="Smallegade Sessions (17:20)">Smallegade Sessions (17:20)</h3>
+
+							<h4>m. Schæfer</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module jazz november"
+	data-id="12698"
+	data-link="https://fermaten.dk/koncerter-og-events/tigeroak-2/"
+	data-title="Tigeroak"
+	data-title-truncated="Tigeroak"
+	data-date="&lt;time datetime=&#039;2026-11-05&#039;&gt;5. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/12/Ti-jeg-ka-li-web-7-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="143086">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/tigeroak-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/12/Ti-jeg-ka-li-web-7-650x380.png' alt='Tigeroak' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>195,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/tigeroak-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-05'>5. November 2026</time></div>
+
+			<h3 title="Tigeroak">Tigeroak</h3>
+
+							<h4>Et sanseligt lydbillede, hvor neo-soul, jazz og futuristisk ambience smelter sammen</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module metal november"
+	data-id="12876"
+	data-link="https://fermaten.dk/koncerter-og-events/baest-2/"
+	data-title="BAEST"
+	data-title-truncated="BAEST"
+	data-date="&lt;time datetime=&#039;2026-11-06&#039;&gt;6. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/04/Wordpress-banner-11-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="146775">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/baest-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/04/Wordpress-banner-11-650x380.png' alt='BAEST' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>250,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/baest-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-06'>6. November 2026</time></div>
+
+			<h3 title="BAEST">BAEST</h3>
+
+							<h4>Moderne death metal med rødder i klassisk dødsmetal og 80’er heavy – leveret med massiv intensitet</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12719"
+	data-link="https://fermaten.dk/koncerter-og-events/rikke-thomsen/"
+	data-title="Rikke Thomsen &#038; Æ Knajte"
+	data-title-truncated="Rikke Thomsen &#038; Æ Knajte"
+	data-date="&lt;time datetime=&#039;2026-11-07&#039;&gt;7. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/01/rikkethomsen_zeitgeist-tour26_grafikpakke_bred_ut-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="143516">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/rikke-thomsen/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/01/rikkethomsen_zeitgeist-tour26_grafikpakke_bred_ut-650x380.jpg' alt='Rikke Thomsen &#038; Æ Knajte' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>295,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/rikke-thomsen/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-07'>7. November 2026</time></div>
+
+			<h3 title="Rikke Thomsen &#038; Æ Knajte">Rikke Thomsen &#038; Æ Knajte</h3>
+
+							<h4>Ny musik, nære fortællinger og fællessang</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12656"
+	data-link="https://fermaten.dk/koncerter-og-events/allan-olsen-og-det-sidste-slaeng/"
+	data-title="Allan Olsen &#038; Det Sidste Slæng"
+	data-title-truncated="Allan Olsen &#038; Det Sidste Sl&hellip;"
+	data-date="&lt;time datetime=&#039;2026-11-12&#039;&gt;12. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/12/AODSS_Eventpic_Herning-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="142683">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/allan-olsen-og-det-sidste-slaeng/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/12/AODSS_Eventpic_Herning-650x380.png' alt='Allan Olsen &#038; Det Sidste Slæng' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>405,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/allan-olsen-og-det-sidste-slaeng/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-12'>12. November 2026</time></div>
+
+			<h3 title="Allan Olsen &#038; Det Sidste Slæng">Allan Olsen &#038; Det Sidste Sl&hellip;</h3>
+
+							<h4>Et musikalsk fællesskab med støv på støvlerne og styrke i sjælen</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop november"
+	data-id="12749"
+	data-link="https://fermaten.dk/koncerter-og-events/zar-paulo-2/"
+	data-title="Zar Paulo"
+	data-title-truncated="Zar Paulo"
+	data-date="&lt;time datetime=&#039;2026-11-13&#039;&gt;13. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/01/Skaermbillede-2026-01-23-kl.-23.47.18-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="143928">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/zar-paulo-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/01/Skaermbillede-2026-01-23-kl.-23.47.18.png' alt='Zar Paulo' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>355,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/zar-paulo-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-13'>13. November 2026</time></div>
+
+			<h3 title="Zar Paulo">Zar Paulo</h3>
+
+							<h4>Kant, fællessang og fuld energi!</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module folk midtfolk november"
+	data-id="12946"
+	data-link="https://fermaten.dk/koncerter-og-events/ceolas-scottish-music/"
+	data-title="Ceolas Scottish Music"
+	data-title-truncated="Ceolas Scottish Music"
+	data-date="&lt;time datetime=&#039;2026-11-14&#039;&gt;14. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/05/Wordpress-banner-15-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="148744">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/ceolas-scottish-music/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/05/Wordpress-banner-15-650x380.png' alt='Ceolas Scottish Music' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>255,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/ceolas-scottish-music/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-14'>14. November 2026</time></div>
+
+			<h3 title="Ceolas Scottish Music">Ceolas Scottish Music</h3>
+
+							<h4>m. Daimh + Rachel Hair &amp; Ron Jappy</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop november"
+	data-id="13014"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-1820/"
+	data-title="Smallegade Sessions(18:20)"
+	data-title-truncated="Smallegade Sessions(18:20)"
+	data-date="&lt;time datetime=&#039;2026-11-17&#039;&gt;17. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/42-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150949">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-1820/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/42-650x380.png' alt='Smallegade Sessions(18:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-1820/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-17'>17. November 2026</time></div>
+
+			<h3 title="Smallegade Sessions(18:20)">Smallegade Sessions(18:20)</h3>
+
+							<h4>m. Scout Powell</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12543"
+	data-link="https://fermaten.dk/koncerter-og-events/carpark-north-2/"
+	data-title="Carpark North"
+	data-title-truncated="Carpark North"
+	data-date="&lt;time datetime=&#039;2026-11-20&#039;&gt;20. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/10/Pressebillede-Tour-2026-taet-1-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info">
+					<div class="ticket-status sold_out">Udsolgt</div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/carpark-north-2/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/10/Pressebillede-Tour-2026-taet-1-650x380.jpg' alt='Carpark North' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>380,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/carpark-north-2/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-20'>20. November 2026</time></div>
+
+			<h3 title="Carpark North">Carpark North</h3>
+
+							<h4>Intens energi og fællesskabsfølelse.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop november"
+	data-id="12907"
+	data-link="https://fermaten.dk/koncerter-og-events/mekdes-akustisk/"
+	data-title="Mekdes (Akustisk)"
+	data-title-truncated="Mekdes (Akustisk)"
+	data-date="&lt;time datetime=&#039;2026-11-26&#039;&gt;26. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/04/MEKDES-PRESSEFOTO-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="147704">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/mekdes-akustisk/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/04/MEKDES-PRESSEFOTO-650x380.jpg' alt='Mekdes (Akustisk)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>235,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/mekdes-akustisk/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-26'>26. November 2026</time></div>
+
+			<h3 title="Mekdes (Akustisk)">Mekdes (Akustisk)</h3>
+
+							<h4>En rå og ærlig lydrejse om identitet, frihed og modet til at være sig selv</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12398"
+	data-link="https://fermaten.dk/koncerter-og-events/alex-vargas-4/"
+	data-title="Alex Vargas"
+	data-title-truncated="Alex Vargas"
+	data-date="&lt;time datetime=&#039;2026-11-27&#039;&gt;27. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/08/Skærmbillede-2025-08-15-kl.-12.38.44-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info">
+					<div class="ticket-status sold_out">Udsolgt</div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/alex-vargas-4/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/08/Skærmbillede-2025-08-15-kl.-12.38.44-650x380.png' alt='Alex Vargas' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>375,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/alex-vargas-4/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-27'>27. November 2026</time></div>
+
+			<h3 title="Alex Vargas">Alex Vargas</h3>
+
+							<h4>Dybe følelser møder elektrisk energi – Alex Vargas giver slip og vi følger med.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12811"
+	data-link="https://fermaten.dk/koncerter-og-events/frekvens-augusta-schackinger/"
+	data-title="Frekvens: Augusta Schackinger"
+	data-title-truncated="Frekvens: Augusta Schackinger"
+	data-date="&lt;time datetime=&#039;2026-11-27&#039;&gt;27. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/03/Anerkender-Mig-Credit_-Emil-Rheinlaender-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="144923">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/frekvens-augusta-schackinger/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/03/Anerkender-Mig-Credit_-Emil-Rheinlaender-650x380.jpg' alt='Frekvens: Augusta Schackinger' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>195,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/frekvens-augusta-schackinger/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-27'>27. November 2026</time></div>
+
+			<h3 title="Frekvens: Augusta Schackinger">Frekvens: Augusta Schackinger</h3>
+
+							<h4>20-årige Augusta Schackinger forener drømmende pop og lyrisk melankoli</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module november"
+	data-id="12594"
+	data-link="https://fermaten.dk/koncerter-og-events/halberg/"
+	data-title="Halberg"
+	data-title-truncated="Halberg"
+	data-date="&lt;time datetime=&#039;2026-11-28&#039;&gt;28. November 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-4-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="142041">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/halberg/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2025/11/Wordpress-banner-4-650x380.png' alt='Halberg' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>325,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/halberg/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-11-28'>28. November 2026</time></div>
+
+			<h3 title="Halberg">Halberg</h3>
+
+							<h4>50 år med dansk rockhistorie – Jubilæumsturné 2026</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module december"
+	data-id="13015"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1920/"
+	data-title="Smallegade Sessions (19:20)"
+	data-title-truncated="Smallegade Sessions (19:20)"
+	data-date="&lt;time datetime=&#039;2026-12-01&#039;&gt;1. December 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/40-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150951">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1920/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/40-650x380.png' alt='Smallegade Sessions (19:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-1920/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-12-01'>1. December 2026</time></div>
+
+			<h3 title="Smallegade Sessions (19:20)">Smallegade Sessions (19:20)</h3>
+
+							<h4>m. Ria Qvist</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module jazz december"
+	data-id="12950"
+	data-link="https://fermaten.dk/koncerter-og-events/bushbabies/"
+	data-title="Bushbabies"
+	data-title-truncated="Bushbabies"
+	data-date="&lt;time datetime=&#039;2026-12-04&#039;&gt;4. December 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/05/Bushbabies-Billede-1-200x200.jpeg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="148828">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/bushbabies/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/05/Bushbabies-Billede-1-650x380.jpeg' alt='Bushbabies' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>175,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/bushbabies/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-12-04'>4. December 2026</time></div>
+
+			<h3 title="Bushbabies">Bushbabies</h3>
+
+							<h4>Et energisk møde mellem improvisation, groove og verdensmusik</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module december"
+	data-id="12771"
+	data-link="https://fermaten.dk/koncerter-og-events/soeren-huss/"
+	data-title="Søren Huss"
+	data-title-truncated="Søren Huss"
+	data-date="&lt;time datetime=&#039;2026-12-11&#039;&gt;11. December 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/02/SoerenHuss_Efteraar2026_Herning_1920-x-1005-200x200.jpg"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="144200">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/soeren-huss/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/02/SoerenHuss_Efteraar2026_Herning_1920-x-1005-650x380.jpg' alt='Søren Huss' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>380,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/soeren-huss/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-12-11'>11. December 2026</time></div>
+
+			<h3 title="Søren Huss">Søren Huss</h3>
+
+							<h4>Ærlig dansk musik, leveret med fuld kraft</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module december"
+	data-id="13045"
+	data-link="https://fermaten.dk/koncerter-og-events/smukke-moeller-6/"
+	data-title="Smukke Møller"
+	data-title-truncated="Smukke Møller"
+	data-date="&lt;time datetime=&#039;2026-12-12&#039;&gt;12. December 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/07/Wordpress-banner-16-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="148620">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smukke-moeller-6/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/07/Wordpress-banner-16-650x380.png' alt='Smukke Møller' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>295,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smukke-moeller-6/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-12-12'>12. December 2026</time></div>
+
+			<h3 title="Smukke Møller">Smukke Møller</h3>
+
+							<h4>En aften fyldt med rabalder, rock og rendyrket nostalgi.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module december"
+	data-id="13016"
+	data-link="https://fermaten.dk/koncerter-og-events/smallegade-sessions-2020/"
+	data-title="Smallegade Sessions (20:20)"
+	data-title-truncated="Smallegade Sessions (20:20)"
+	data-date="&lt;time datetime=&#039;2026-12-15&#039;&gt;15. December 2026&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/06/41-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+							<div class="ticket-extra-status">Få billetter</div>
+			
+							<div class="ticket-info basm basm_select" data-event_no="150953">
+					<div class="ticket-status buy-btn 2"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-2020/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/06/41-650x380.png' alt='Smallegade Sessions (20:20)' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>125,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/smallegade-sessions-2020/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2026-12-15'>15. December 2026</time></div>
+
+			<h3 title="Smallegade Sessions (20:20)">Smallegade Sessions (20:20)</h3>
+
+							<h4>m. On Days Off</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module pop januar"
+	data-id="12932"
+	data-link="https://fermaten.dk/koncerter-og-events/roben-knud/"
+	data-title="Roben &#038; Knud"
+	data-title-truncated="Roben &#038; Knud"
+	data-date="&lt;time datetime=&#039;2027-01-23&#039;&gt;23. Januar 2027&lt;/time&gt;"
+		data-thumbnail="https://fermaten.dk/wp-content/uploads/2026/05/Wordpress-banner-13-200x200.png"
+>
+
+	<div class="concert-thumbnail">
+		
+			
+							<div class="ticket-info basm basm_select" data-event_no="148402">
+					<div class="ticket-status buy-btn 3"><span>Køb</span></div>
+				</div>
+			
+		
+		
+		<div class="concert-thumbnail-inner">
+
+			<a href="https://fermaten.dk/koncerter-og-events/roben-knud/" rel="bookmark">
+				<img src='https://fermaten.dk/wp-content/uploads/2026/05/Wordpress-banner-13-650x380.png' alt='Roben &#038; Knud' width='100%'>
+									<div class="concert-info-caption">
+						<div class="ticket-price">Pris: <span>280,-</span></div>
+					</div>
+							</a>
+
+		</div>
+	</div>
+
+	<section class="concert-info">
+		<a href="https://fermaten.dk/koncerter-og-events/roben-knud/" rel="bookmark">
+
+			<div class="concert-date"><time datetime='2027-01-23'>23. Januar 2027</time></div>
+
+			<h3 title="Roben &#038; Knud">Roben &#038; Knud</h3>
+
+							<h4>Roben &amp; Knud er tilbage med kærlighed og fællessang.</h4>
+			
+		</a>
+	</section>
+
+</article>
+
+				
+					
+<article
+	class="concert-module folk januar"
+	data-id="12961"
+	data-link="https://fermaten.dk/koncerter-og-events/simone-tang/"
+	data-title="Simone Tang"
+	data-title-truncated="Simone Tang"
+	data-date="&lt;time datetime=&#039;2027-01-30&#039;&gt;30. Januar 2027&lt;/time&gt
+<!-- TRIMMED BY recon.mjs -->

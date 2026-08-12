@@ -1,0 +1,879 @@
+{
+  "note": "Candidate hosts probed by pipeline/recon.mjs from a GitHub runner. Presence here is a HYPOTHESIS, not a claim that the site exists or is scrapable. recon/report.json records what actually answered.",
+  "venues_dk": [
+    {
+      "id": "vega",
+      "name": "VEGA",
+      "city": "København",
+      "host": "vega.dk",
+      "paths": [
+        "/",
+        "/koncerter",
+        "/program"
+      ]
+    },
+    {
+      "id": "pumpehuset",
+      "name": "Pumpehuset",
+      "city": "København",
+      "host": "pumpehuset.dk",
+      "paths": [
+        "/",
+        "/program",
+        "/koncerter"
+      ]
+    },
+    {
+      "id": "amager-bio",
+      "name": "Amager Bio",
+      "city": "København",
+      "host": "amagerbio.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "loppen",
+      "name": "Loppen",
+      "city": "København",
+      "host": "loppen.dk",
+      "paths": [
+        "/",
+        "/program",
+        "/events"
+      ]
+    },
+    {
+      "id": "stengade",
+      "name": "Stengade",
+      "city": "København",
+      "host": "stengade.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "city": "København",
+      "host": "rust.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "alice",
+      "name": "ALICE",
+      "city": "København",
+      "host": "alicecph.com",
+      "paths": [
+        "/",
+        "/program",
+        "/events"
+      ]
+    },
+    {
+      "id": "hotel-cecil",
+      "name": "Hotel Cecil",
+      "city": "København",
+      "host": "hotelcecil.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "jazzhus-montmartre",
+      "name": "Jazzhus Montmartre",
+      "city": "København",
+      "host": "jazzhusmontmartre.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "bremen",
+      "name": "Bremen Teater",
+      "city": "København",
+      "host": "brementeater.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "royal-arena",
+      "name": "Royal Arena",
+      "city": "København",
+      "host": "royalarena.dk",
+      "paths": [
+        "/",
+        "/kalender",
+        "/events"
+      ]
+    },
+    {
+      "id": "forum",
+      "name": "Forum Copenhagen",
+      "city": "København",
+      "host": "forumcopenhagen.dk",
+      "paths": [
+        "/",
+        "/kalender"
+      ]
+    },
+    {
+      "id": "koncerthuset",
+      "name": "DR Koncerthuset",
+      "city": "København",
+      "host": "drkoncerthuset.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "huset-kbh",
+      "name": "HUSET-KBH",
+      "city": "København",
+      "host": "huset-kbh.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "ideal-bar",
+      "name": "Ideal Bar",
+      "city": "København",
+      "host": "idealbar.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "global-cph",
+      "name": "Global",
+      "city": "København",
+      "host": "globalcph.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "tivoli",
+      "name": "Tivoli",
+      "city": "København",
+      "host": "tivoli.dk",
+      "paths": [
+        "/",
+        "/da/kalender"
+      ]
+    },
+    {
+      "id": "kb-hallen",
+      "name": "K.B. Hallen",
+      "city": "København",
+      "host": "kbhallen.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "city": "Aarhus",
+      "host": "train.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "voxhall",
+      "name": "VoxHall",
+      "city": "Aarhus",
+      "host": "voxhall.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "radar",
+      "name": "Radar",
+      "city": "Aarhus",
+      "host": "radar.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "atlas",
+      "name": "Atlas",
+      "city": "Aarhus",
+      "host": "atlasaarhus.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "musikhuset-aarhus",
+      "name": "Musikhuset Aarhus",
+      "city": "Aarhus",
+      "host": "musikhusetaarhus.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "godset",
+      "name": "Godset",
+      "city": "Kolding",
+      "host": "godset.net",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "posten",
+      "name": "Posten",
+      "city": "Odense",
+      "host": "postenlive.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "dexter",
+      "name": "Dexter",
+      "city": "Odense",
+      "host": "dexter.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "skraaen",
+      "name": "Skråen",
+      "city": "Aalborg",
+      "host": "skraaen.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "studenterhuset-aalborg",
+      "name": "Studenterhuset",
+      "city": "Aalborg",
+      "host": "studenterhuset.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "stars",
+      "name": "Stars",
+      "city": "Vordingborg",
+      "host": "stars.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "tobakken",
+      "name": "Tobakken",
+      "city": "Esbjerg",
+      "host": "tobakken.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "sonderborghus",
+      "name": "Sønderborghus",
+      "city": "Sønderborg",
+      "host": "sonderborghus.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "gimle",
+      "name": "Gimle",
+      "city": "Roskilde",
+      "host": "gimle.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "paradis",
+      "name": "Paradiset",
+      "city": "Silkeborg",
+      "host": "paradiset.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "tapperiet",
+      "name": "Tapperiet",
+      "city": "Køge",
+      "host": "tapperiet.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "musikhuset-esbjerg",
+      "name": "Musikhuset Esbjerg",
+      "city": "Esbjerg",
+      "host": "mhe.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "vejle-musikteater",
+      "name": "Vejle Musikteater",
+      "city": "Vejle",
+      "host": "vejlemusikteater.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "jyske-bank-boxen",
+      "name": "Jyske Bank Boxen",
+      "city": "Herning",
+      "host": "mch.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "hjerm",
+      "name": "Fermaten",
+      "city": "Herning",
+      "host": "fermaten.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "kulturvaerftet",
+      "name": "Kulturværftet",
+      "city": "Helsingør",
+      "host": "kuto.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "sydhavn",
+      "name": "Ungdomshuset",
+      "city": "København",
+      "host": "ungdomshuset.dk",
+      "paths": [
+        "/"
+      ]
+    }
+  ],
+  "festivals_dk": [
+    {
+      "id": "roskilde",
+      "name": "Roskilde Festival",
+      "host": "roskilde-festival.dk",
+      "paths": [
+        "/",
+        "/en/line-up",
+        "/line-up"
+      ]
+    },
+    {
+      "id": "northside",
+      "name": "NorthSide",
+      "host": "northside.dk",
+      "paths": [
+        "/",
+        "/lineup"
+      ]
+    },
+    {
+      "id": "tinderbox",
+      "name": "Tinderbox",
+      "host": "tinderbox.dk",
+      "paths": [
+        "/",
+        "/lineup"
+      ]
+    },
+    {
+      "id": "smukfest",
+      "name": "Smukfest",
+      "host": "smukfest.dk",
+      "paths": [
+        "/",
+        "/musik"
+      ]
+    },
+    {
+      "id": "heartland",
+      "name": "Heartland",
+      "host": "heartlandfestival.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "jelling",
+      "name": "Jelling Musikfestival",
+      "host": "jellingmusikfestival.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "groen",
+      "name": "Grøn",
+      "host": "groen.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "copenhell",
+      "name": "Copenhell",
+      "host": "copenhell.dk",
+      "paths": [
+        "/",
+        "/lineup"
+      ]
+    },
+    {
+      "id": "strom",
+      "name": "Strøm",
+      "host": "stromcph.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "syd-for-solen",
+      "name": "Syd for Solen",
+      "host": "sydforsolen.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "vanguard",
+      "name": "Vanguard",
+      "host": "vanguardfestival.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "trailerpark",
+      "name": "Trailerpark",
+      "host": "trailerparkfestival.com",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "distortion",
+      "name": "Distortion",
+      "host": "cphdistortion.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "jazzfestival",
+      "name": "Copenhagen Jazz Festival",
+      "host": "jazz.dk",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "spot",
+      "name": "SPOT Festival",
+      "host": "spotfestival.dk",
+      "paths": [
+        "/",
+        "/lineup"
+      ]
+    }
+  ],
+  "aggregators": [
+    {
+      "id": "kultunaut",
+      "name": "KultuNaut",
+      "host": "www.kultunaut.dk",
+      "paths": [
+        "/",
+        "/perl/arr/type-nynaut"
+      ]
+    },
+    {
+      "id": "billetlugen",
+      "name": "Billetlugen",
+      "host": "www.billetlugen.dk",
+      "paths": [
+        "/",
+        "/musik"
+      ]
+    },
+    {
+      "id": "ticketmaster-dk",
+      "name": "Ticketmaster DK",
+      "host": "www.ticketmaster.dk",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "billetto",
+      "name": "Billetto",
+      "host": "billetto.dk",
+      "paths": [
+        "/",
+        "/d/koncerter"
+      ]
+    },
+    {
+      "id": "songkick",
+      "name": "Songkick",
+      "host": "www.songkick.com",
+      "paths": [
+        "/metro-areas/28617-denmark-copenhagen"
+      ]
+    },
+    {
+      "id": "bandsintown",
+      "name": "Bandsintown",
+      "host": "www.bandsintown.com",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "jambase",
+      "name": "JamBase",
+      "host": "www.jambase.com",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "concerty",
+      "name": "Concerty",
+      "host": "concerty.com",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "allevents",
+      "name": "AllEvents",
+      "host": "allevents.in",
+      "paths": [
+        "/copenhagen/music"
+      ]
+    }
+  ],
+  "keyless_apis": [
+    {
+      "id": "musicbrainz-search",
+      "url": "https://musicbrainz.org/ws/2/artist?query=artist:Iceage&fmt=json&limit=3"
+    },
+    {
+      "id": "musicbrainz-tags",
+      "url": "https://musicbrainz.org/ws/2/artist/?query=arid:d700b3f5-45af-4d02-95ed-57d301bda93e&fmt=json"
+    },
+    {
+      "id": "listenbrainz-similar",
+      "url": "https://api.listenbrainz.org/1/similar-artists/json?artist_mbids=d700b3f5-45af-4d02-95ed-57d301bda93e&algorithm=session_based_days_7500_session_300_contribution_5_threshold_10_limit_100_filter_True_skip_30"
+    },
+    {
+      "id": "listenbrainz-user",
+      "url": "https://api.listenbrainz.org/1/stats/user/rob/artists?count=10"
+    },
+    {
+      "id": "wikidata-sparql",
+      "url": "https://query.wikidata.org/sparql?format=json&query=SELECT%20?s%20WHERE%20{?s%20wdt:P31%20wd:Q5}%20LIMIT%201"
+    },
+    {
+      "id": "mb-labels",
+      "url": "https://musicbrainz.org/ws/2/release-group?query=country:DK&fmt=json&limit=1"
+    }
+  ],
+  "keyed_apis_probe_only": [
+    {
+      "id": "ticketmaster-discovery",
+      "url": "https://app.ticketmaster.com/discovery/v2/events.json?countryCode=DK",
+      "note": "expect 401 without key; confirms endpoint is alive and that DK is addressable"
+    },
+    {
+      "id": "songkick-api",
+      "url": "https://api.songkick.com/api/3.0/events.json",
+      "note": "expect 401/403 without key"
+    },
+    {
+      "id": "setlistfm",
+      "url": "https://api.setlist.fm/rest/1.0/search/setlists?artistName=Iceage",
+      "note": "expect 401 without key"
+    },
+    {
+      "id": "lastfm",
+      "url": "https://ws.audioscrobbler.com/2.0/?method=user.gettopartists&user=rj&format=json",
+      "note": "expect error without key"
+    }
+  ],
+  "venues_eu": [
+    {
+      "id": "berghain",
+      "name": "Berghain",
+      "city": "Berlin",
+      "country": "DE",
+      "host": "www.berghain.berlin",
+      "paths": [
+        "/",
+        "/en/events/"
+      ]
+    },
+    {
+      "id": "lido-berlin",
+      "name": "Lido",
+      "city": "Berlin",
+      "country": "DE",
+      "host": "www.lido-berlin.de",
+      "paths": [
+        "/",
+        "/programm"
+      ]
+    },
+    {
+      "id": "astra-berlin",
+      "name": "Astra Kulturhaus",
+      "city": "Berlin",
+      "country": "DE",
+      "host": "www.astra-berlin.de",
+      "paths": [
+        "/",
+        "/programm"
+      ]
+    },
+    {
+      "id": "knust",
+      "name": "Knust",
+      "city": "Hamburg",
+      "country": "DE",
+      "host": "www.knusthamburg.de",
+      "paths": [
+        "/",
+        "/programm"
+      ]
+    },
+    {
+      "id": "molotow",
+      "name": "Molotow",
+      "city": "Hamburg",
+      "country": "DE",
+      "host": "www.molotowclub.com",
+      "paths": [
+        "/",
+        "/programm"
+      ]
+    },
+    {
+      "id": "debaser",
+      "name": "Debaser",
+      "city": "Stockholm",
+      "country": "SE",
+      "host": "www.debaser.se",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "pustervik",
+      "name": "Pustervik",
+      "city": "Göteborg",
+      "country": "SE",
+      "host": "pustervik.nu",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "slaktkyrkan",
+      "name": "Slaktkyrkan",
+      "city": "Stockholm",
+      "country": "SE",
+      "host": "slaktkyrkan.se",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "rockefeller",
+      "name": "Rockefeller",
+      "city": "Oslo",
+      "country": "NO",
+      "host": "rockefeller.no",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "blaa",
+      "name": "Blå",
+      "city": "Oslo",
+      "country": "NO",
+      "host": "www.blaaoslo.no",
+      "paths": [
+        "/",
+        "/program"
+      ]
+    },
+    {
+      "id": "john-dee",
+      "name": "John Dee",
+      "city": "Oslo",
+      "country": "NO",
+      "host": "johndee.no",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "tavastia",
+      "name": "Tavastia",
+      "city": "Helsinki",
+      "country": "FI",
+      "host": "www.tavastiaklubi.fi",
+      "paths": [
+        "/",
+        "/en"
+      ]
+    },
+    {
+      "id": "paradiso",
+      "name": "Paradiso",
+      "city": "Amsterdam",
+      "country": "NL",
+      "host": "www.paradiso.nl",
+      "paths": [
+        "/",
+        "/en/programme"
+      ]
+    },
+    {
+      "id": "melkweg",
+      "name": "Melkweg",
+      "city": "Amsterdam",
+      "country": "NL",
+      "host": "www.melkweg.nl",
+      "paths": [
+        "/",
+        "/en/agenda"
+      ]
+    },
+    {
+      "id": "ancienne-belgique",
+      "name": "Ancienne Belgique",
+      "city": "Brussels",
+      "country": "BE",
+      "host": "www.abconcerts.be",
+      "paths": [
+        "/",
+        "/en/concerts"
+      ]
+    },
+    {
+      "id": "village-underground",
+      "name": "Village Underground",
+      "city": "London",
+      "country": "GB",
+      "host": "villageunderground.co.uk",
+      "paths": [
+        "/",
+        "/events"
+      ]
+    },
+    {
+      "id": "electric-ballroom",
+      "name": "Electric Ballroom",
+      "city": "London",
+      "country": "GB",
+      "host": "electricballroom.co.uk",
+      "paths": [
+        "/",
+        "/events"
+      ]
+    },
+    {
+      "id": "la-maroquinerie",
+      "name": "La Maroquinerie",
+      "city": "Paris",
+      "country": "FR",
+      "host": "www.lamaroquinerie.fr",
+      "paths": [
+        "/",
+        "/concerts"
+      ]
+    },
+    {
+      "id": "trabendo",
+      "name": "Le Trabendo",
+      "city": "Paris",
+      "country": "FR",
+      "host": "www.letrabendo.net",
+      "paths": [
+        "/"
+      ]
+    },
+    {
+      "id": "razzmatazz",
+      "name": "Razzmatazz",
+      "city": "Barcelona",
+      "country": "ES",
+      "host": "www.salarazzmatazz.com",
+      "paths": [
+        "/",
+        "/en"
+      ]
+    }
+  ]
+}

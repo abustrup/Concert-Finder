@@ -1,0 +1,126 @@
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
+
+
+# Added 2022-03-10
+Disallow: /user/register?destination=*
+Disallow: /user/login?destination=*
+Disallow: /comments/*
+Disallow: /comment/*
+
+Disallow: /yikes/pixel.gif*
+Disallow: /login?*
+
+# MI-5493
+Disallow: /login*
+Disallow: /register*
+Disallow: /user/login*
+Disallow: /user/register*
+Disallow: /bruger/*
+Disallow: /cookiedeklaration*
+Disallow: /kontakt*
+
+# disallow bots
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Disallow AI Crawlers - From the list https://github.com/ai-robots-txt/ai.robots.txt/blob/main/robots.txt
+User-agent: AdsBot-Google
+User-agent: Amazonbot
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: DataForSeoBot
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GPTBot
+User-agent: img2dataset
+User-agent: ImagesiftBot
+User-agent: magpie-crawler
+User-agent: Meltwater
+User-agent: omgili
+User-agent: omgilibot
+User-agent: peer39_crawler
+User-agent: peer39_crawler/1.0
+User-agent: PerplexityBot
+User-agent: PiplBot
+User-agent: scoop.it
+User-agent: Seekr
+User-agent: YouBot
+User-agent: SentiBot
+User-agent: Dotbot
+User-agent: barkrowler
+Disallow: /
+
+# Added 2025-08-08: AI-specific controls
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: OAI-SearchBot
+User-agent: Perplexity-User
+User-agent: Applebot-Extended
+Disallow: /
+
+# Ensure social previews still work
+User-agent: facebookexternalhit
+Allow: /

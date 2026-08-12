@@ -1,0 +1,1067 @@
+<!doctype html>
+<html lang="en-GB" prefix="og: https://ogp.me/ns#" class="no-js">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Lineup - Tinderbox - June 25 - 27 2026</title>
+<link data-rocket-prefetch href="https://analytics.tiktok.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://tr.snapchat.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://sc-static.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://connect.facebook.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://www.googletagmanager.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://policy.app.cookieinformation.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://chimpstatic.com" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://use.typekit.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://members-sdk.superstruct.services" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://rum-static.pingdom.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://13920837.fls.doubleclick.net" rel="dns-prefetch">
+<link data-rocket-prefetch href="https://14944844.fls.doubleclick.net" rel="dns-prefetch"><link rel="preload" data-rocket-preload as="image" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/tb27/l-top.svg" fetchpriority="high">
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge,chrome=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+  <meta name="application-name" content="Tinderbox &#8211; June 25 &#8211; 27 2026" />
+
+  <link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-57x57.png" />
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-114x114.png" />
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-72x72.png" />
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-144x144.png" />
+<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-60x60.png" />
+<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-120x120.png" />
+<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-76x76.png" />
+<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/apple-touch-icon-152x152.png" />
+<meta name="msapplication-TileColor" content="#FFFFFF" />
+<meta name="msapplication-TileImage" content="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/mstile-144x144.png" />
+<meta name="msapplication-square70x70logo" content="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/mstile-70x70.png" />
+<meta name="msapplication-square150x150logo" content="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/mstile-150x150.png" />
+<meta name="msapplication-wide310x150logo" content="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/mstile-310x150.png" />
+<meta name="msapplication-square310x310logo" content="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/images/favicon/mstile-310x310.png" />
+    <link rel="preload" fetchpriority="high" as="image" href="https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg" imagesrcset="https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg 2048w, https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-810x540.jpg 810w, https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-1620x1080.jpg 1620w, https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-768x512.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-1536x1024.jpg 1536w" imagesizes="(max-width: 2048px) 100vw, 2048px">
+
+        <!-- Google Tag Manager -->
+      <script nowprocket>
+        (function(w, d, s, l, i) {
+          w[l] = w[l] || [];
+          w[l].push({
+            'gtm.start': new Date().getTime(),
+            event: 'gtm.js'
+          });
+          var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s),
+            dl = l != 'dataLayer' ? '&l=' + l : '';
+          j.async = true;
+          j.src =
+            'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+          f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W3BRC2X');
+      </script>
+      <!-- End Google Tag Manager -->
+    
+  <link rel="stylesheet" href="https://use.typekit.net/qjg6vjb.css">
+
+  <script>
+    var templateUrl = 'https://tinderbox.dk/wp-content/themes/Tinderbox';
+  </script>
+
+  <link rel="alternate" href="https://tinderbox.dk/en/lineup/" hreflang="en" />
+<link rel="alternate" href="https://tinderbox.dk/artister/" hreflang="da-DK" />
+<link rel="alternate" href="https://tinderbox.dk/en/lineup/" hreflang="x-default" />
+
+<!-- Search Engine Optimization by Rank Math - https://rankmath.com/ -->
+<meta name="description" content="Here you can get an overview of the artists performing at Tinderbox."/>
+<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
+<link rel="canonical" href="https://tinderbox.dk/en/lineup/" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:type" content="article" />
+<meta property="og:locale:alternate" content="da_DK" />
+<meta property="og:title" content="Lineup - Tinderbox - June 25 - 27 2026" />
+<meta property="og:description" content="Here you can get an overview of the artists performing at Tinderbox." />
+<meta property="og:url" content="https://tinderbox.dk/en/lineup/" />
+<meta property="og:site_name" content="Tinderbox - June 25 - 27 2026" />
+<meta property="og:updated_time" content="2026-04-07T14:11:06+02:00" />
+<meta property="og:image" content="https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-1620x1080.jpg" />
+<meta property="og:image:secure_url" content="https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-1620x1080.jpg" />
+<meta property="og:image:width" content="1620" />
+<meta property="og:image:height" content="1080" />
+<meta property="og:image:alt" content="Lineup" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="article:published_time" content="2022-11-30T14:29:57+02:00" />
+<meta property="article:modified_time" content="2026-04-07T14:11:06+02:00" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Lineup - Tinderbox - June 25 - 27 2026" />
+<meta name="twitter:description" content="Here you can get an overview of the artists performing at Tinderbox." />
+<meta name="twitter:image" content="https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-1620x1080.jpg" />
+<meta name="twitter:label1" content="Time to read" />
+<meta name="twitter:data1" content="Less than a minute" />
+<script type="application/ld+json" class="rank-math-schema">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"https://tinderbox.dk/#person","name":"Tinderbox"},{"@type":"WebSite","@id":"https://tinderbox.dk/#website","url":"https://tinderbox.dk/en","name":"Tinderbox","publisher":{"@id":"https://tinderbox.dk/#person"},"inLanguage":"en-GB"},{"@type":"ImageObject","@id":"https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg","url":"https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg","width":"2048","height":"1365","inLanguage":"en-GB"},{"@type":"WebPage","@id":"https://tinderbox.dk/en/lineup/#webpage","url":"https://tinderbox.dk/en/lineup/","name":"Lineup - Tinderbox - June 25 - 27 2026","datePublished":"2022-11-30T14:29:57+02:00","dateModified":"2026-04-07T14:11:06+02:00","isPartOf":{"@id":"https://tinderbox.dk/#website"},"primaryImageOfPage":{"@id":"https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg"},"inLanguage":"en-GB"},{"@type":"Person","@id":"https://tinderbox.dk/en/author/dtdda/","name":"dtdda","url":"https://tinderbox.dk/en/author/dtdda/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/221ae40d60d2c385b3203bbd9ee56d7e86e5a6aa8968004bbc8426971505b718?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/221ae40d60d2c385b3203bbd9ee56d7e86e5a6aa8968004bbc8426971505b718?s=96&amp;d=mm&amp;r=g","caption":"dtdda","inLanguage":"en-GB"}},{"@type":"Article","headline":"Lineup - Tinderbox - June 25 - 27 2026","datePublished":"2022-11-30T14:29:57+02:00","dateModified":"2026-04-07T14:11:06+02:00","author":{"@id":"https://tinderbox.dk/en/author/dtdda/","name":"dtdda"},"publisher":{"@id":"https://tinderbox.dk/#person"},"description":"Here you can get an overview of the artists performing at Tinderbox.","name":"Lineup - Tinderbox - June 25 - 27 2026","@id":"https://tinderbox.dk/en/lineup/#richSnippet","isPartOf":{"@id":"https://tinderbox.dk/en/lineup/#webpage"},"image":{"@id":"https://tinderbox.dk/wp-content/uploads/sites/2/2024/07/ReneDyhr_TinderBox24_Publikum_1-scaled.jpg"},"inLanguage":"en-GB","mainEntityOfPage":{"@id":"https://tinderbox.dk/en/lineup/#webpage"}}]}</script>
+<!-- /Rank Math WordPress SEO plugin -->
+
+<link rel='dns-prefetch' href='//members-sdk.superstruct.services' />
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://tinderbox.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftinderbox.dk%2Fen%2Flineup%2F&#038;lang=en" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://tinderbox.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftinderbox.dk%2Fen%2Flineup%2F&#038;format=xml&#038;lang=en" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style*=border-color]){border-style:solid}html :where([style*=border-top-color]){border-top-style:solid}html :where([style*=border-right-color]){border-right-style:solid}html :where([style*=border-bottom-color]){border-bottom-style:solid}html :where([style*=border-left-color]){border-left-style:solid}html :where([style*=border-width]){border-style:solid}html :where([style*=border-top-width]){border-top-style:solid}html :where([style*=border-right-width]){border-right-style:solid}html :where([style*=border-bottom-width]){border-bottom-style:solid}html :where([style*=border-left-width]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="wp-block-heading-inline-css">
+h1:where(.wp-block-heading).has-background,h2:where(.wp-block-heading).has-background,h3:where(.wp-block-heading).has-background,h4:where(.wp-block-heading).has-background,h5:where(.wp-block-heading).has-background,h6:where(.wp-block-heading).has-background{padding:1.25em 2.375em}h1.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h1.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h2.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h2.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h3.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h3.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h4.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h4.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h5.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h5.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]),h6.has-text-align-left[style*=writing-mode]:where([style*=vertical-lr]),h6.has-text-align-right[style*=writing-mode]:where([style*=vertical-rl]){rotate:180deg}
+/*# sourceURL=https://tinderbox.dk/wp-includes/blocks/heading/style.min.css */
+</style>
+<style id="wp-block-paragraph-inline-css">
+.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color)) a{color:inherit}p.has-text-align-left[style*="writing-mode:vertical-lr"],p.has-text-align-right[style*="writing-mode:vertical-rl"]{rotate:180deg}
+/*# sourceURL=https://tinderbox.dk/wp-includes/blocks/paragraph/style.min.css */
+</style>
+<style id="wp-block-spacer-inline-css">
+.wp-block-spacer{clear:both}
+/*# sourceURL=https://tinderbox.dk/wp-includes/blocks/spacer/style.min.css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #FFFFFF;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--midnight-blue: #1A005A;--wp--preset--color--neon-green: #c3ff00;--wp--preset--color--orchid-pink: #fc9eff;--wp--preset--color--ice-blue: #35ffee;--wp--preset--color--green: #1a8073;--wp--preset--color--blue: #285569;--wp--preset--color--purple: #861c5c;--wp--preset--color--twentyfive-blue: #0078EE;--wp--preset--color--twentyfive-dark-blue: #0046FA;--wp--preset--color--twentyfive-yellow: #FFFF00;--wp--preset--color--twentysix-blue: #004EFF;--wp--preset--color--twentysix-baby-blue: #B3DDEF;--wp--preset--color--twentysix-pink: #FC4CFF;--wp--preset--color--dark-blue: #10054e;--wp--preset--color--orange: #f0671f;--wp--preset--color--yellow: #f8c600;--wp--preset--color--twentyseven-purple: #7454ff;--wp--preset--color--twentyseven-green: #33a457;--wp--preset--color--twentyseven-pink: #f491de;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-midnight-blue-color{color: var(--wp--preset--color--midnight-blue) !important;}.has-neon-green-color{color: var(--wp--preset--color--neon-green) !important;}.has-orchid-pink-color{color: var(--wp--preset--color--orchid-pink) !important;}.has-ice-blue-color{color: var(--wp--preset--color--ice-blue) !important;}.has-green-color{color: var(--wp--preset--color--green) !important;}.has-blue-color{color: var(--wp--preset--color--blue) !important;}.has-purple-color{color: var(--wp--preset--color--purple) !important;}.has-twentyfive-blue-color{color: var(--wp--preset--color--twentyfive-blue) !important;}.has-twentyfive-dark-blue-color{color: var(--wp--preset--color--twentyfive-dark-blue) !important;}.has-twentyfive-yellow-color{color: var(--wp--preset--color--twentyfive-yellow) !important;}.has-twentysix-blue-color{color: var(--wp--preset--color--twentysix-blue) !important;}.has-twentysix-baby-blue-color{color: var(--wp--preset--color--twentysix-baby-blue) !important;}.has-twentysix-pink-color{color: var(--wp--preset--color--twentysix-pink) !important;}.has-dark-blue-color{color: var(--wp--preset--color--dark-blue) !important;}.has-orange-color{color: var(--wp--preset--color--orange) !important;}.has-yellow-color{color: var(--wp--preset--color--yellow) !important;}.has-twentyseven-purple-color{color: var(--wp--preset--color--twentyseven-purple) !important;}.has-twentyseven-green-color{color: var(--wp--preset--color--twentyseven-green) !important;}.has-twentyseven-pink-color{color: var(--wp--preset--color--twentyseven-pink) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-midnight-blue-background-color{background-color: var(--wp--preset--color--midnight-blue) !important;}.has-neon-green-background-color{background-color: var(--wp--preset--color--neon-green) !important;}.has-orchid-pink-background-color{background-color: var(--wp--preset--color--orchid-pink) !important;}.has-ice-blue-background-color{background-color: var(--wp--preset--color--ice-blue) !important;}.has-green-background-color{background-color: var(--wp--preset--color--green) !important;}.has-blue-background-color{background-color: var(--wp--preset--color--blue) !important;}.has-purple-background-color{background-color: var(--wp--preset--color--purple) !important;}.has-twentyfive-blue-background-color{background-color: var(--wp--preset--color--twentyfive-blue) !important;}.has-twentyfive-dark-blue-background-color{background-color: var(--wp--preset--color--twentyfive-dark-blue) !important;}.has-twentyfive-yellow-background-color{background-color: var(--wp--preset--color--twentyfive-yellow) !important;}.has-twentysix-blue-background-color{background-color: var(--wp--preset--color--twentysix-blue) !important;}.has-twentysix-baby-blue-background-color{background-color: var(--wp--preset--color--twentysix-baby-blue) !important;}.has-twentysix-pink-background-color{background-color: var(--wp--preset--color--twentysix-pink) !important;}.has-dark-blue-background-color{background-color: var(--wp--preset--color--dark-blue) !important;}.has-orange-background-color{background-color: var(--wp--preset--color--orange) !important;}.has-yellow-background-color{background-color: var(--wp--preset--color--yellow) !important;}.has-twentyseven-purple-background-color{background-color: var(--wp--preset--color--twentyseven-purple) !important;}.has-twentyseven-green-background-color{background-color: var(--wp--preset--color--twentyseven-green) !important;}.has-twentyseven-pink-background-color{background-color: var(--wp--preset--color--twentyseven-pink) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-midnight-blue-border-color{border-color: var(--wp--preset--color--midnight-blue) !important;}.has-neon-green-border-color{border-color: var(--wp--preset--color--neon-green) !important;}.has-orchid-pink-border-color{border-color: var(--wp--preset--color--orchid-pink) !important;}.has-ice-blue-border-color{border-color: var(--wp--preset--color--ice-blue) !important;}.has-green-border-color{border-color: var(--wp--preset--color--green) !important;}.has-blue-border-color{border-color: var(--wp--preset--color--blue) !important;}.has-purple-border-color{border-color: var(--wp--preset--color--purple) !important;}.has-twentyfive-blue-border-color{border-color: var(--wp--preset--color--twentyfive-blue) !important;}.has-twentyfive-dark-blue-border-color{border-color: var(--wp--preset--color--twentyfive-dark-blue) !important;}.has-twentyfive-yellow-border-color{border-color: var(--wp--preset--color--twentyfive-yellow) !important;}.has-twentysix-blue-border-color{border-color: var(--wp--preset--color--twentysix-blue) !important;}.has-twentysix-baby-blue-border-color{border-color: var(--wp--preset--color--twentysix-baby-blue) !important;}.has-twentysix-pink-border-color{border-color: var(--wp--preset--color--twentysix-pink) !important;}.has-dark-blue-border-color{border-color: var(--wp--preset--color--dark-blue) !important;}.has-orange-border-color{border-color: var(--wp--preset--color--orange) !important;}.has-yellow-border-color{border-color: var(--wp--preset--color--yellow) !important;}.has-twentyseven-purple-border-color{border-color: var(--wp--preset--color--twentyseven-purple) !important;}.has-twentyseven-green-border-color{border-color: var(--wp--preset--color--twentyseven-green) !important;}.has-twentyseven-pink-border-color{border-color: var(--wp--preset--color--twentyseven-pink) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='twentyninetimes_custom_form_css-css' href='https://tinderbox.dk/wp-content/plugins/29xstudio-formular/__dist/css/twentyninetimes_custom_form.min.css?ver=1.0.6' media='all' />
+<link rel='stylesheet' id='master-css' href='https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/css/master.min.css?ver=2026.08.04' media='all' />
+<link rel='stylesheet' id='grids-frontend-css' href='https://tinderbox.dk/wp-content/plugins/grids/assets/css/frontend.css?ver=1.3.12' media='all' />
+<link rel="https://api.w.org/" href="https://tinderbox.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://tinderbox.dk/wp-json/wp/v2/pages/851" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://tinderbox.dk/xmlrpc.php?rsd" />
+<link rel='shortlink' href='https://tinderbox.dk/?p=851' />
+<link rel="icon" href="https://tinderbox.dk/wp-content/uploads/sites/2/2025/06/cropped-FAV_512x512-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://tinderbox.dk/wp-content/uploads/sites/2/2025/06/cropped-FAV_512x512-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://tinderbox.dk/wp-content/uploads/sites/2/2025/06/cropped-FAV_512x512-180x180.png" />
+<meta name="msapplication-TileImage" content="https://tinderbox.dk/wp-content/uploads/sites/2/2025/06/cropped-FAV_512x512-270x270.png" />
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+  
+  <script>!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/d31ef2aac433a1edec0fd64b1/4404de1334e94f046c7beaabf.js");</script>
+
+  <meta name="generator" content="WP Rocket 3.23.1.1" data-wpr-features="wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_cdn wpr_preload_links wpr_desktop" /></head>
+
+<body class="wp-singular page-template-default page page-id-851 wp-embed-responsive wp-theme-DTDGroup wp-child-theme-Tinderbox  layout-2027 layout-template-2026 has-superstruct">
+      <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W3BRC2X"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+  
+  <div  id="superstruct-root"></div>
+  <div class="site" >
+
+    
+<nav class="site-nav site-nav-2026" role="navigation">
+    <div id="js-site-nav" class="site-nav-2026__inner">
+        <button class="site-nav-2026__close js-site-nav-close" aria-label="Close menu" aria-expanded="true" aria-controls="menu">
+            <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 6.59 6.59">
+                <path class="cls-1" d="M.96.65s.02.02.03.03l5.44,5.44c.07.07.07.18,0,.25s-.18.07-.25,0L.74.93s-.02-.02-.03-.03c-.15.05-.32.02-.43-.1-.16-.16-.16-.42,0-.58s.42-.16.58,0c.11.11.15.28.1.43Z" />
+                <path class="cls-1" d="M.65,5.69s.02-.02.03-.03L6.12.22c.07-.07.18-.07.25,0s.07.18,0,.25L.93,5.91s-.02.02-.03.03c.05.15.02.32-.1.43-.16.16-.42.16-.58,0s-.16-.42,0-.58c.11-.11.28-.15.43-.1Z" />
+            </svg>
+        </button>
+        <div class="site-nav-2026__shortcuts">
+
+            <nav class="site-nav-2026__smallnav" role="navigation">
+                <h4 class="site-nav-2026__shorttitle">Shortcuts</h4>
+                <ul class="menu"><li id="menu-item-348" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-348 "><a href="https://tinderbox.dk/en/about-tinderbox/" class="link-border">About Tinderbox</a></li>
+<li id="menu-item-350" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-350 "><a href="https://tinderbox.dk/en/press/" class="link-border">Press</a></li>
+<li id="menu-item-3554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3554 "><a href="https://tinderbox.dk/en/privacy-policy/" class="link-border">Privacy Policy</a></li>
+<li id="menu-item-347" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-347 "><a href="https://tinderbox.dk/en/job-2/" class="link-border">Job</a></li>
+</ul>            </nav>
+        </div>
+        <div class="site-nav-2026__links">
+            <ul class="menu"><li id="menu-item-14968" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14968 "><a href="https://queue.tinderbox.dk/KN6nIAx1TUyUYZgrpupQnQ?utm_source=web&#038;utm_medium=knap&#038;utm_campaign=Early+Bird+2027" class="link-border">Tickets</a></li>
+<li id="menu-item-334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-334 "><a href="https://tinderbox.dk/en/news/" class="link-border">News</a></li>
+<li id="menu-item-338" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-338 "><a href="https://tinderbox.dk/en/faq/" class="link-border">FAQ</a></li>
+<li id="menu-item-2387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2387 "><a href="https://tinderbox.dk/en/partnerships/" class="link-border">Partnerships</a></li>
+<li id="menu-item-878" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-878 "><a href="https://tinderbox.dk/en/volunteers/" class="link-border">Volunteers</a>
+<button type='button' class='sub-menu-toggle js-sub-menu-toggle'></button><div class='sub-menu'><ul class='sub-menu__inner'>
+	<li id="menu-item-1289" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1289 "><a href="https://tinderbox.dk/en/terms-and-conditions/" class="link-border">Terms and Conditions</a></li>
+	<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359 "><a href="https://tinderbox.dk/en/good-to-know-as-a-volunteer/" class="link-border">Good to know as a volunteer (FAQ)</a></li>
+	<li id="menu-item-6574" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6574 "><a href="https://tinderbox.dk/en/volunteer-tasks/" class="link-border">Tasks</a></li>
+</ul></div>
+</li>
+<li id="menu-item-1990" class="pll-parent-menu-item menu-item menu-item-type-custom menu-item-object-custom current-menu-parent menu-item-has-children menu-item-1990 "><a href="#pll_switcher" class="link-border">English</a>
+<button type='button' class='sub-menu-toggle js-sub-menu-toggle'></button><div class='sub-menu'><ul class='sub-menu__inner'>
+	<li id="menu-item-1990-da" class="lang-item lang-item-5 lang-item-da lang-item-first menu-item menu-item-type-custom menu-item-object-custom menu-item-1990-da "><a href="https://tinderbox.dk/artister/" lang="da-DK" hreflang="da-DK" class="link-border">Dansk</a></li>
+	<li id="menu-item-1990-en" class="lang-item lang-item-8 lang-item-en current-lang menu-item menu-item-type-custom menu-item-object-custom menu-item-1990-en "><a href="https://tinderbox.dk/en/lineup/" lang="en-GB" hreflang="en-GB" class="link-border">English</a></li>
+</ul></div>
+</li>
+</ul>        </div>
+    </div>
+</nav>
+<div id="js-site-header" class="site-header site-header-2026 js-site-header">
+    <div class="site-header-2026__wrapper">
+        <div class="site-header-2026__inner">
+            <div class="site-header-2026__left">
+                <div class="site-header-2026__btns">
+                    
+                                            <a href="https://shop.tinderbox.dk/?utm_source=web&utm_medium=organic&utm_campaign=alm+salg" class="btn btn-buy" target="">Buy your ticket</a>
+                                    </div>
+                
+    <div class="site-header-2026__some">
+        <ul>
+                            <li>
+                    <a href="https://www.facebook.com/tinderboxdenmark" target="_blank" title="Gå til vores facebook">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#facebook"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.instagram.com/tinderbox_official/" target="_blank" title="Gå til vores instagram">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#instagram"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://open.spotify.com/user/tinderbox_dk" target="_blank" title="Gå til vores spotify">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#spotify"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.tiktok.com/@tinderbox_official?lang=en" target="_blank" title="Gå til vores tiktok">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#tiktok"></use>
+                        </svg>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+            </div>
+            <div class="site-header-2026__center">
+                <div class="site-header-2026__partner">
+                    <svg version="1.1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 230.1 214.2" style="enable-background:new 0 0 230.1 214.2;" xml:space="preserve">
+                        <g id="LOGOER">
+                            <path d="M138.4,98.2c16.3,0,17.6,7.2,17.6,23.9s-1.4,24.3-17.8,24.3s-17.6-7.3-17.6-24S122,98.2,138.4,98.2
+						M138.4,139.8c6.5,0,6.5-4.4,6.5-17.2s-0.1-17.6-6.6-17.6s-6.5,4.3-6.5,17.1S131.8,139.8,138.4,139.8 M8.2,140.6v5.1h20.1v-5.1
+						l-5.1-1.7v-33.5h4.4l3.6,9.4h5.2v-16H0v16h5.2l3.6-9.4h4.4V139L8.2,140.6L8.2,140.6z M52.9,133.2c0,4.6,2.1,6.5,6.2,6.5
+						s6.2-1.8,6.2-6.6v-27.4l-4.1-1.7v-5.1h18v5.1l-4.1,1.7v27.4c0,9-5,13.4-16.1,13.4s-16.3-3.5-16.3-12.6v-28.1l-4.1-1.7v-5.1H57v5.1
+						l-4.1,1.7L52.9,133.2L52.9,133.2z M115.8,111.1c0,9.4-8.6,10.4-8.6,10.4s10.2,0.5,10.2,10.8c0,9.5-4.9,13.4-18.5,13.4H81.3v-5.1
+						l4.4-1.7v-33.2l-4.1-1.7v-5.1h18.7C109.7,98.9,115.8,101.3,115.8,111.1 M95.7,118.8h3.1c4.2,0,6.6-1.3,6.6-6.6c0-5.7-2.4-6.9-6-6.9
+						h-3.7L95.7,118.8L95.7,118.8z M98.1,139.3c5.2,0,8.5-0.9,8.5-6.6s-2.5-7.4-7.7-7.4h-3.2v14.1L98.1,139.3L98.1,139.3z M175.1,120.9
+						c5.1,0,7.1-1.9,7.1-7.8s-1.8-7.8-6.4-7.8h-3.5v15.6L175.1,120.9L175.1,120.9z M221.8,100.4c0,0-2.9-2.2-8-2.2
+						c-13.4,0-16,6.8-16,24.3s1.4,24,17.6,24c9.4,0,14.6-3,14.6-3v-22.2h-14.4v5.1l4.6,1.7v10.8c0,0-1.2,0.8-4.4,0.8
+						c-6.4,0-6.9-4.6-6.9-17.8c0-12.2,0-16.7,6.4-16.7c3.4,0,4.3,0.8,4.3,0.8l3.2,8.8h6.2V98.5h-6.3L221.8,100.4L221.8,100.4z
+						M157.8,145.7v-5.1l4.4-1.7v-33.2l-4.1-1.7v-5.1h19.9c8,0,15,2.6,15,13.4s-7.1,13-7.1,13l7,13.4l4.3,2.1v5h-12.1l-8.7-18.4h-4.2
+						v11.6l4.1,1.7v5.1L157.8,145.7L157.8,145.7z M185,157.9c-1.7,4.4-3.8,8.6-6.2,12.7c-8.2,14-19.9,24.8-33.8,31.2
+						c-9.2,4.3-19.1,6.5-29.3,6.5c-0.2,0-0.4,0-0.6,0c-12-0.1-24.1-3.4-35-9.4C69.3,192.8,59.9,184,53,173.4c-3.2-4.9-5.8-10.1-7.9-15.6
+						h-6.3c2.4,6.6,5.5,12.9,9.3,18.8c15.1,23.2,40.6,37.3,67.1,37.6c0.2,0,0.4,0,0.7,0c10.7,0,21.5-2.2,31.8-7.1
+						c20.9-9.8,36.1-28.1,43.8-49.3L185,157.9L185,157.9z M40.8,87.4c1.6-3.8,3.5-7.4,5.7-10.9c8.5-13.9,20.6-25,35.1-32.1
+						c2.3-1.1,3.9-3.3,4.4-6.1c0.5-2.7-0.3-5.5-2.1-7.3c-2.7-2.7-4.2-6.4-4.2-10.3c0-3.9,1.5-7.6,4.2-10.3C90.6,3.7,101.6,0,115.1,0
+						s24.5,3.7,31.1,10.4c2.7,2.7,4.2,6.4,4.2,10.3c0,3.9-1.5,7.6-4.1,10.3c-1.8,1.8-2.6,4.6-2.1,7.3c0.4,2.7,2.1,4.9,4.4,6.1
+						c14.5,7.1,26.6,18.2,35.1,32.1c2.1,3.5,4,7.2,5.7,10.9h-6.5c-1.3-2.7-2.7-5.3-4.2-7.8c-7.9-12.9-19.2-23.3-32.7-29.8
+						c-4.1-2-6.8-5.8-7.6-10.4c-0.8-4.7,0.6-9.3,3.7-12.5c1.6-1.6,2.4-3.8,2.4-6.1c0-2.4-0.9-4.6-2.5-6.2c-5.5-5.6-15.1-8.6-26.9-8.6
+						S93.6,9,88.1,14.5c-1.6,1.6-2.5,3.8-2.5,6.2c0,2.4,0.8,4.5,2.4,6.1c3.1,3.1,4.5,7.8,3.7,12.5c-0.8,4.6-3.6,8.4-7.6,10.4
+						c-13.5,6.6-24.8,16.9-32.7,29.8c-1.5,2.5-3,5.2-4.2,7.8L40.8,87.4L40.8,87.4z" />
+                        </g>
+                    </svg>
+                </div>
+                <div class="site-header-2026__logo">
+                    
+<div class="site-header-2026__logocontent">
+    <a href="/">
+        <svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.74 6.39">
+            <path d="M31.65,4.55c-.05-.07-.03-.17.05-.21.73-.4,1.07-1.16,1.07-1.97,0-1.22-.73-2.25-2.3-2.25h-2.82c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h1.19c.1,0,.19-.09.19-.19v-1.3c0-.09.07-.16.16-.16h.49c.09,0,.2.05.25.13l.96,1.37c.07.09.18.16.3.16h1.51c.08,0,.13-.09.08-.16l-1.13-1.57ZM28.35,1.09v4.46c0,.06-.05.1-.1.1s-.1-.05-.1-.1V1.09c-.08-.04-.13-.12-.13-.21,0-.13.11-.24.24-.24s.24.11.24.24c0,.09-.05.17-.13.21ZM28.96.87c0-.06.05-.1.1-.1h1.5c.39,0,.75.13,1.02.36.32.27.49.67.49,1.15,0,1.1-.86,1.59-.9,1.61-.02,0-.03.01-.05.01-.04,0-.07-.02-.09-.05-.01-.02-.02-.05,0-.08,0-.03.02-.05.05-.06.03-.02.79-.46.79-1.43,0-.9-.65-1.3-1.3-1.3h-1.5c-.06,0-.1-.05-.1-.1ZM29.03,3.04v-1.33c0-.09.07-.16.16-.16h1.19c.63,0,.87.36.87.83,0,.43-.24.81-.87.81h-1.19c-.09,0-.16-.07-.16-.16ZM31.52,5.55s-.02.05-.04.07c-.02.01-.04.02-.06.02-.03,0-.06-.02-.08-.04l-1.23-1.69h-.92c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h.97s.06.02.08.04l1.26,1.73s.02.05.02.08Z" />
+            <path d="M14.14.12h-1.19c-.1,0-.19.09-.19.19v3.09c0,.06-.06.08-.09.03L10.13.27c-.07-.09-.19-.15-.31-.15h-.96c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h1.2c.1,0,.19-.09.19-.19v-3.09c0-.06.06-.08.09-.03l2.53,3.16c.07.09.19.15.31.15h.96c.1,0,.19-.09.19-.19V.31c0-.1-.09-.19-.19-.19ZM9.39,5.77c-.13,0-.24-.11-.24-.24,0-.1.06-.18.14-.22V.88c0-.06.05-.1.1-.1s.1.05.1.1v4.46c.07.04.12.12.12.21,0,.13-.11.24-.24.24ZM12.81,4.75h0s-.04.02-.07.02c-.03,0-.06-.01-.08-.04l-2.54-3.06s-.03-.05-.02-.08c0-.03.02-.05.04-.07.04-.04.11-.03.14.01l2.54,3.06s.03.11-.01.14ZM13.59,5.54c0,.06-.05.1-.1.1s-.1-.05-.1-.1V.88c0-.06.05-.1.1-.1s.1.05.1.1v4.66Z" />
+            <path d="M42.65,0c-1.78,0-3.27,1.44-3.27,3.2s1.49,3.2,3.27,3.2,3.27-1.44,3.27-3.2-1.47-3.2-3.27-3.2ZM40.98,3.2c0-.93.75-1.67,1.67-1.67s1.67.74,1.67,1.67-.73,1.67-1.67,1.67-1.67-.74-1.67-1.67ZM43.02,5.76s0,0-.01,0c-.05,0-.09-.04-.1-.09,0-.03,0-.05.02-.08.02-.02.04-.04.07-.04,1.17-.16,2.06-1.18,2.06-2.37,0-.6-.22-1.18-.63-1.62-.4-.44-.95-.71-1.54-.76-.03.09-.12.16-.22.16s-.19-.06-.22-.16c-.59.05-1.14.33-1.54.76-.41.44-.63,1.02-.63,1.62,0,1.17.83,2.16,1.98,2.36.06,0,.09.06.08.12,0,.06-.06.09-.12.08-1.25-.21-2.16-1.29-2.16-2.56,0-.66.25-1.29.7-1.77.45-.48,1.05-.77,1.7-.82.04-.07.12-.11.2-.11s.15.04.2.11c.65.05,1.25.34,1.7.82.45.48.7,1.11.7,1.77,0,1.29-.96,2.4-2.24,2.57Z" />
+            <path d="M26.43.12h-4.35c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h4.35c.1,0,.19-.09.19-.19v-1.14c0-.1-.09-.19-.19-.19h-2.8c-.09,0-.16-.07-.16-.16v-.47c0-.09.07-.16.16-.16h2.24c.1,0,.19-.09.19-.19v-1.05c0-.1-.09-.19-.19-.19h-2.24c-.09,0-.16-.07-.16-.16v-.57c0-.09.07-.16.16-.16h2.8c.1,0,.19-.09.19-.19V.31c0-.1-.09-.19-.19-.19ZM23.59,5.43h2.38c.06,0,.1.05.1.1s-.05.1-.1.1h-2.38c-.06,0-.1-.05-.1-.1s.05-.1.1-.1ZM22.79,5.55c0,.06-.05.1-.1.1s-.1-.05-.1-.1V.87c0-.06.05-.1.1-.1s.1.05.1.1v4.67ZM23.59,3.07h1.65c.04-.09.12-.15.22-.15.13,0,.24.11.24.24s-.11.24-.24.24c-.08,0-.16-.05-.2-.12h-1.66c-.06,0-.1-.05-.1-.1s.05-.1.1-.1ZM25.98.99h-2.38c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h2.38c.06,0,.1.05.1.1s-.05.1-.1.1Z" />
+            <path d="M51.72,6.12l-1.92-2.8c-.05-.08-.05-.19,0-.27l1.88-2.77c.04-.07,0-.16-.09-.16h-1.48c-.12,0-.23.06-.3.16l-.96,1.4c-.04.06-.13.06-.17,0l-.95-1.39c-.07-.09-.18-.16-.3-.16h-1.48c-.08,0-.13.09-.09.16l1.88,2.77c.05.08.05.19,0,.27l-1.92,2.8c-.05.07,0,.16.08.16h1.54c.12,0,.23-.06.29-.16l.95-1.4c.04-.06.13-.06.17,0l.96,1.4c.06.09.17.16.29.16h1.54c.08,0,.13-.09.08-.16ZM49.15,2.47h0s1.17-1.65,1.17-1.65c.02-.02.04-.04.07-.04.03,0,.05,0,.08.02.02.02.04.04.04.07,0,.03,0,.05-.02.08l-1.17,1.65s-.05.04-.08.04c-.02,0-.04,0-.06-.02-.05-.03-.06-.1-.02-.14ZM48.32,4.04s0,0,0,0l-1.07,1.56s-.05.04-.08.04c-.02,0-.04,0-.06-.02-.05-.03-.06-.1-.03-.14l1.05-1.53s-.05-.09-.05-.14c0-.13.11-.24.24-.24s.24.11.24.24-.11.24-.24.24ZM50.53,5.56s-.02.05-.04.07c-.02.01-.04.02-.06.02-.03,0-.07-.02-.08-.04l-3.22-4.67s-.02-.05-.02-.08c0-.03.02-.05.04-.07.02-.02.05-.02.08-.02s.05.02.07.04l3.22,4.67s.02.05.02.08Z" />
+            <path d="M18.21.12h-2.67c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h2.67c1.93,0,2.91-1.4,2.91-3.08S20.14.12,18.21.12ZM16.23,1.09s0,.02,0,.03v4.42c0,.06-.05.1-.1.1s-.1-.05-.1-.1V1.12s0-.02,0-.03c-.08-.04-.14-.12-.14-.21,0-.13.11-.24.24-.24s.24.11.24.24c0,.09-.05.18-.14.21ZM18.41,5.63h-1.45c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h1.45c1.01,0,1.79-1.23,1.79-2.29,0-1.21-.84-2.15-1.91-2.15h-1.33c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h1.33c1.19,0,2.12,1.03,2.12,2.35,0,1.43-1.05,2.49-1.99,2.49ZM16.93,4.59V1.81c0-.09.07-.16.16-.16h1c.94,0,1.44.62,1.44,1.55s-.5,1.56-1.44,1.56h-1c-.09,0-.16-.07-.16-.16Z" />
+            <path d="M38.04,3.17c-.06-.03-.06-.1,0-.14.38-.26.62-.66.62-1.22,0-.98-.67-1.7-2-1.7h-2.87c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h3.14c1.25,0,2-.72,2-1.74,0-.66-.34-1.11-.88-1.37ZM35.18.78h1.52c.73,0,1.18.42,1.18,1.09,0,.56-.37.88-.38.9-.02.02-.04.02-.07.02-.03,0-.06-.01-.08-.04-.02-.02-.03-.05-.02-.07,0-.03.01-.05.04-.07.01-.01.31-.29.31-.74,0-.56-.37-.89-.98-.89h-1.52c-.06,0-.1-.05-.1-.1s.05-.1.1-.1ZM37.05,2.04c0,.29-.16.49-.58.49h-1.14c-.09,0-.16-.07-.16-.16v-.66c0-.09.07-.16.16-.16h1.23c.33,0,.5.2.5.49ZM34.48,5.54c0,.06-.05.1-.1.1s-.1-.05-.1-.1V.88c0-.06.05-.1.1-.1s.1.05.1.1v4.66ZM37.84,5.36c-.21.18-.49.28-.78.28h-1.61c-.04.08-.12.13-.21.13-.13,0-.24-.11-.24-.24s.11-.24.24-.24c.09,0,.17.05.21.13h1.61c.46,0,.96-.31.96-.99,0-.78-.74-1.2-1.25-1.2h-1.53c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h1.53c.33,0,.68.14.96.36.32.27.5.64.5,1.05,0,.48-.21.76-.39.92ZM35.16,4.69v-.77c0-.09.07-.16.16-.16h1.42c.43,0,.58.21.58.53s-.16.55-.58.55h-1.42c-.09,0-.16-.07-.16-.16Z" />
+            <path d="M7.45.12h-1.2c-.1,0-.19.09-.19.19v5.78c0,.1.09.19.19.19h1.2c.1,0,.19-.09.19-.19V.31c0-.1-.09-.19-.19-.19ZM6.95,1.09s0,.02,0,.02v4.42c0,.06-.05.1-.1.1s-.1-.05-.1-.1V1.12s0-.02,0-.02c-.08-.04-.14-.12-.14-.21,0-.13.11-.24.24-.24s.24.11.24.24c0,.09-.05.17-.14.21Z" />
+            <path d="M5.23.12H.19c-.1,0-.19.09-.19.19v1.15c0,.1.09.19.19.19h1.57c.09,0,.16.07.16.16v4.28c0,.1.09.19.19.19h1.2c.1,0,.19-.09.19-.19V1.81c0-.09.07-.16.16-.16h1.57c.1,0,.19-.09.19-.19V.31c0-.1-.09-.19-.19-.19ZM4.74.99h-1.94v4.33c.08.04.13.12.13.21,0,.13-.11.24-.24.24s-.24-.11-.24-.24c0-.09.05-.17.13-.21V.99H.52c-.06,0-.1-.05-.1-.1s.05-.1.1-.1h4.22c.06,0,.1.05.1.1s-.05.1-.1.1Z" />
+        </svg>
+    </a>
+            <div class="date-destination">
+            June 24 – 26 2027                            <div class="date-destination__dest">Odense</div>
+                    </div>
+    </div>                </div>
+            </div>
+            <div class="site-header-2026__right">
+                <div class="header-actions">
+
+	<div class="header-actions__btns">
+		  <div class="lang-select" id="c-pll-js">
+    <select name="" id="" aria-label="Vælg sprog" autocomplete="off" onchange="location = this.value;">
+              <option value="https://tinderbox.dk/artister/">da</option>
+              <option value="https://tinderbox.dk/en/lineup/" selected>en</option>
+          </select>
+  </div>
+	</div>
+
+	<div class="header-actions__mainpartner">
+		<svg version="1.1" id="" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 230.1 214.2" style="enable-background:new 0 0 230.1 214.2;" xml:space="preserve">
+			<g id="LOGOER">
+				<path class="st0" d="M138.4,98.2c16.3,0,17.6,7.2,17.6,23.9s-1.4,24.3-17.8,24.3s-17.6-7.3-17.6-24S122,98.2,138.4,98.2
+						M138.4,139.8c6.5,0,6.5-4.4,6.5-17.2s-0.1-17.6-6.6-17.6s-6.5,4.3-6.5,17.1S131.8,139.8,138.4,139.8 M8.2,140.6v5.1h20.1v-5.1
+						l-5.1-1.7v-33.5h4.4l3.6,9.4h5.2v-16H0v16h5.2l3.6-9.4h4.4V139L8.2,140.6L8.2,140.6z M52.9,133.2c0,4.6,2.1,6.5,6.2,6.5
+						s6.2-1.8,6.2-6.6v-27.4l-4.1-1.7v-5.1h18v5.1l-4.1,1.7v27.4c0,9-5,13.4-16.1,13.4s-16.3-3.5-16.3-12.6v-28.1l-4.1-1.7v-5.1H57v5.1
+						l-4.1,1.7L52.9,133.2L52.9,133.2z M115.8,111.1c0,9.4-8.6,10.4-8.6,10.4s10.2,0.5,10.2,10.8c0,9.5-4.9,13.4-18.5,13.4H81.3v-5.1
+						l4.4-1.7v-33.2l-4.1-1.7v-5.1h18.7C109.7,98.9,115.8,101.3,115.8,111.1 M95.7,118.8h3.1c4.2,0,6.6-1.3,6.6-6.6c0-5.7-2.4-6.9-6-6.9
+						h-3.7L95.7,118.8L95.7,118.8z M98.1,139.3c5.2,0,8.5-0.9,8.5-6.6s-2.5-7.4-7.7-7.4h-3.2v14.1L98.1,139.3L98.1,139.3z M175.1,120.9
+						c5.1,0,7.1-1.9,7.1-7.8s-1.8-7.8-6.4-7.8h-3.5v15.6L175.1,120.9L175.1,120.9z M221.8,100.4c0,0-2.9-2.2-8-2.2
+						c-13.4,0-16,6.8-16,24.3s1.4,24,17.6,24c9.4,0,14.6-3,14.6-3v-22.2h-14.4v5.1l4.6,1.7v10.8c0,0-1.2,0.8-4.4,0.8
+						c-6.4,0-6.9-4.6-6.9-17.8c0-12.2,0-16.7,6.4-16.7c3.4,0,4.3,0.8,4.3,0.8l3.2,8.8h6.2V98.5h-6.3L221.8,100.4L221.8,100.4z
+						M157.8,145.7v-5.1l4.4-1.7v-33.2l-4.1-1.7v-5.1h19.9c8,0,15,2.6,15,13.4s-7.1,13-7.1,13l7,13.4l4.3,2.1v5h-12.1l-8.7-18.4h-4.2
+						v11.6l4.1,1.7v5.1L157.8,145.7L157.8,145.7z M185,157.9c-1.7,4.4-3.8,8.6-6.2,12.7c-8.2,14-19.9,24.8-33.8,31.2
+						c-9.2,4.3-19.1,6.5-29.3,6.5c-0.2,0-0.4,0-0.6,0c-12-0.1-24.1-3.4-35-9.4C69.3,192.8,59.9,184,53,173.4c-3.2-4.9-5.8-10.1-7.9-15.6
+						h-6.3c2.4,6.6,5.5,12.9,9.3,18.8c15.1,23.2,40.6,37.3,67.1,37.6c0.2,0,0.4,0,0.7,0c10.7,0,21.5-2.2,31.8-7.1
+						c20.9-9.8,36.1-28.1,43.8-49.3L185,157.9L185,157.9z M40.8,87.4c1.6-3.8,3.5-7.4,5.7-10.9c8.5-13.9,20.6-25,35.1-32.1
+						c2.3-1.1,3.9-3.3,4.4-6.1c0.5-2.7-0.3-5.5-2.1-7.3c-2.7-2.7-4.2-6.4-4.2-10.3c0-3.9,1.5-7.6,4.2-10.3C90.6,3.7,101.6,0,115.1,0
+						s24.5,3.7,31.1,10.4c2.7,2.7,4.2,6.4,4.2,10.3c0,3.9-1.5,7.6-4.1,10.3c-1.8,1.8-2.6,4.6-2.1,7.3c0.4,2.7,2.1,4.9,4.4,6.1
+						c14.5,7.1,26.6,18.2,35.1,32.1c2.1,3.5,4,7.2,5.7,10.9h-6.5c-1.3-2.7-2.7-5.3-4.2-7.8c-7.9-12.9-19.2-23.3-32.7-29.8
+						c-4.1-2-6.8-5.8-7.6-10.4c-0.8-4.7,0.6-9.3,3.7-12.5c1.6-1.6,2.4-3.8,2.4-6.1c0-2.4-0.9-4.6-2.5-6.2c-5.5-5.6-15.1-8.6-26.9-8.6
+						S93.6,9,88.1,14.5c-1.6,1.6-2.5,3.8-2.5,6.2c0,2.4,0.8,4.5,2.4,6.1c3.1,3.1,4.5,7.8,3.7,12.5c-0.8,4.6-3.6,8.4-7.6,10.4
+						c-13.5,6.6-24.8,16.9-32.7,29.8c-1.5,2.5-3,5.2-4.2,7.8L40.8,87.4L40.8,87.4z" />
+			</g>
+		</svg>
+	</div>
+
+	<button aria-expanded="false" aria-controls="site-nav" class="header-actions__menubtn js-site-nav-toggle" id="js-mobile-nav-toggle">
+		<svg id="" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 8.89 5.09">
+			<g>
+				<path d="M.51.82c-.17,0-.31-.14-.31-.31s.14-.31.31-.31c.12,0,.23.07.28.18l.04.08.08-.02h7.71s.08.03.08.08-.04.08-.08.08H.92l-.08-.02-.05.07c-.05.11-.16.18-.28.18Z" />
+				<path d="M.51.3c.08,0,.16.05.19.12l.04.09-.04.08c-.03.07-.11.12-.19.12-.12,0-.21-.09-.21-.21s.09-.21.21-.21M.51.1C.28.1.1.28.1.51s.18.41.41.41c.16,0,.3-.09.37-.24.02,0,.03,0,.04,0h7.69c.1,0,.18-.08.18-.18s-.08-.18-.18-.18H.92s-.03,0-.04,0c-.07-.14-.21-.24-.37-.24h0Z" />
+			</g>
+			<g>
+				<path d="M8.38,2.86c-.12,0-.23-.07-.28-.18l-.04-.08-.08.02H.28s-.08-.03-.08-.08.04-.08.08-.08h7.69l.08.02.05-.07c.05-.11.16-.18.28-.18.17,0,.31.14.31.31s-.14.31-.31.31Z" />
+				<path d="M8.38,2.34c.12,0,.21.09.21.21s-.09.21-.21.21c-.08,0-.16-.05-.19-.12l-.04-.09.04-.08c.03-.07.11-.12.19-.12M8.38,2.14c-.16,0-.3.09-.37.24-.02,0-.03,0-.04,0H.28c-.1,0-.18.08-.18.18s.08.18.18.18h7.69s.03,0,.04,0c.07.14.21.24.37.24.23,0,.41-.18.41-.41s-.18-.41-.41-.41h0Z" />
+			</g>
+			<g>
+				<path d="M.51,4.89c-.17,0-.31-.14-.31-.31s.14-.31.31-.31c.12,0,.23.07.28.18l.04.08.08-.02h7.71s.08.03.08.08-.04.08-.08.08H.92l-.08-.02-.05.07c-.05.11-.16.18-.28.18Z" />
+				<path d="M.51,4.38c.08,0,.16.05.19.12l.04.09-.04.08c-.03.07-.11.12-.19.12-.12,0-.21-.09-.21-.21s.09-.21.21-.21M.51,4.18c-.23,0-.41.18-.41.41s.18.41.41.41c.16,0,.3-.09.37-.24.02,0,.03,0,.04,0h7.69c.1,0,.18-.08.18-.18s-.08-.18-.18-.18H.92s-.03,0-.04,0c-.07-.14-.21-.24-.37-.24h0Z" />
+			</g>
+		</svg>
+		</>
+</div>            </div>
+
+
+        </div>
+    </div>
+</div>
+
+<div class="site-header-2026__mobile">
+            <a href="https://shop.tinderbox.dk/?utm_source=web&utm_medium=organic&utm_campaign=alm+salg" class="mobile-sticky-action mobile-sticky-action--tickets mobile-sticky-action--left" target="">Buy your ticket</a>
+    
+    <div class="mobile-sticky-action mobile-sticky-action--some mobile-sticky-action--center">
+        
+    <div class="site-header-2026__some">
+        <ul>
+                            <li>
+                    <a href="https://www.facebook.com/tinderboxdenmark" target="_blank" title="Gå til vores facebook">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#facebook"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.instagram.com/tinderbox_official/" target="_blank" title="Gå til vores instagram">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#instagram"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://open.spotify.com/user/tinderbox_dk" target="_blank" title="Gå til vores spotify">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#spotify"></use>
+                        </svg>
+                    </a>
+                </li>
+                            <li>
+                    <a href="https://www.tiktok.com/@tinderbox_official?lang=en" target="_blank" title="Gå til vores tiktok">
+                        <svg>
+                            <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://tinderbox.dk/wp-content/themes/Tinderbox/__dist/icons/icons.svg?ver=1779882970#tiktok"></use>
+                        </svg>
+                    </a>
+                </li>
+                    </ul>
+    </div>
+    </div>
+
+    <button class="mobile-sticky-action mobile-sticky-action--nav mobile-sticky-action--right" type="button" aria-label="Toggle menu" aria-expanded="false" aria-controls="menu">
+        Menu
+        <span class="site-nav-toggle__icon">
+            <i></i>
+        </span>
+    </button>
+</div>
+          <div class="tb27-flora tb27-flora--back" aria-hidden="true">
+        <span class="tb27-flora__asset tb27-flora__asset--l-bot"></span>
+        <span class="tb27-flora__asset tb27-flora__asset--r-bot"></span>
+      </div>
+      <div class="tb27-flora tb27-flora--front" aria-hidden="true">
+        <span class="tb27-flora__asset tb27-flora__asset--l-top"></span>
+        <span class="tb27-flora__asset tb27-flora__asset--r-top"></span>
+      </div>
+    
+    <main id="site-content" class="site-content" role="main">
+
+	<div class="blocks-container">
+		<div class="container-fluid">
+			<div class="container-inside">
+
+				
+<h1 class="wp-block-heading has-text-align-center">Lineup 2026</h1>
+
+
+
+<div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="has-text-align-left wp-block-paragraph">Here you can get an overview of the artists performing at Tinderbox in 2026. The list of artists is continuously updated as more names are announced.</p>
+
+
+
+<div id="artist-block_42c869b031bfe344280a712fe19102d3" class="block-artist alignwide">
+            <div class="loop loop--artist">
+            <div class="loop__inner">
+                            </div>
+        </div>
+    </div>
+
+
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+
+<p class="wp-block-paragraph"></p>
+
+
+
+<div id="artist-block_ca68e6668571b495e093f0261853cb8c" class="block-artist alignwide">
+            <div class="loop loop--artist">
+            <div class="loop__inner">
+                
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/aphaca-2/" class="item-artist__inner" title="APHACA ">
+
+		<figure class="item-artist__image media-cover">
+			<img fetchpriority="high" decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Aphaca.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Aphaca.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Aphaca-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Aphaca-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Aphaca-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">APHACA </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/charlie-puth-2/" class="item-artist__inner" title="Charlie Puth">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1440" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-1440x1080.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-1440x1080.jpg 1440w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-720x540.jpg 720w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-768x576.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-1536x1152.jpg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/charliiie-scaled.jpg 2048w" sizes="(max-width: 1440px) 100vw, 1440px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Charlie Puth</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/jamiroquai-2/" class="item-artist__inner" title="Jamiroquai">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jamiroquai-1.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jamiroquai-1.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jamiroquai-1-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jamiroquai-1-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jamiroquai-1-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Jamiroquai</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/moby-2/" class="item-artist__inner" title="Moby ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1282" height="854" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.27.00.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.27.00.png 1282w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.27.00-811x540.png 811w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.27.00-768x512.png 768w" sizes="(max-width: 1282px) 100vw, 1282px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Moby </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/pitbull-2/" class="item-artist__inner" title="Pitbull">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Pitbull.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Pitbull.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Pitbull-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Pitbull-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Pitbull-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Pitbull</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/rasmus-seebach-en/" class="item-artist__inner" title="Rasmus Seebach">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Rasmus-Seebach.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Rasmus-Seebach.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Rasmus-Seebach-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Rasmus-Seebach-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Rasmus-Seebach-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Rasmus Seebach</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/the-offspring-2/" class="item-artist__inner" title="The Offspring">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-1536x864.jpg 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/The-Offspring-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">The Offspring</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/thomas-helmig-2/" class="item-artist__inner" title="Thomas Helmig">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-1536x864.jpg 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Thomas-Helmig-1-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Thomas Helmig</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/tobias-rahim-2/" class="item-artist__inner" title="Tobias Rahim ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1080" height="716" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%20716'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51-815x540.png 815w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51-768x509.png 768w" data-lazy-sizes="(max-width: 1080px) 100vw, 1080px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51.png" /><noscript><img decoding="async" width="1080" height="716" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51-815x540.png 815w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.53.51-768x509.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Tobias Rahim </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/alex-vargas-2/" class="item-artist__inner" title="Alex Vargas">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="710" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20710'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47-768x506.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47.png" /><noscript><img decoding="async" width="1078" height="710" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.34.47-768x506.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Alex Vargas</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/artigeardit-2/" class="item-artist__inner" title="Artigeardit">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1272" height="842" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201272%20842'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27.png 1272w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27-768x508.png 768w" data-lazy-sizes="(max-width: 1272px) 100vw, 1272px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27.png" /><noscript><img decoding="async" width="1272" height="842" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27.png 1272w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.47.27-768x508.png 768w" sizes="(max-width: 1272px) 100vw, 1272px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Artigeardit</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/blaue-blume-2/" class="item-artist__inner" title="Blaue Blume">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-1536x864.png 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume.png" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Blaue-Blume-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Blaue Blume</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/dogstar-2/" class="item-artist__inner" title="Dogstar">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-1536x864.jpg 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Dogstar-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Dogstar</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/jess-glynne-2/" class="item-artist__inner" title="Jess Glynne ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1498" height="842" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201498%20842'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS.png 1498w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS-768x432.png 768w" data-lazy-sizes="(max-width: 1498px) 100vw, 1498px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS.png" /><noscript><img decoding="async" width="1498" height="842" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS.png 1498w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/JESSSS-768x432.png 768w" sizes="(max-width: 1498px) 100vw, 1498px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Jess Glynne </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/joey-moe/" class="item-artist__inner" title="Joey Moe">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1619" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201619%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1619x1080.jpeg 1619w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-810x540.jpeg 810w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-768x512.jpeg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1536x1024.jpeg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-scaled.jpeg 2048w" data-lazy-sizes="(max-width: 1619px) 100vw, 1619px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1619x1080.jpeg" /><noscript><img decoding="async" width="1619" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1619x1080.jpeg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1619x1080.jpeg 1619w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-810x540.jpeg 810w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-768x512.jpeg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-1536x1024.jpeg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/3G1A3847_2.jpg-scaled.jpeg 2048w" sizes="(max-width: 1619px) 100vw, 1619px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Joey Moe</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/jonah-blacksmith-2/" class="item-artist__inner" title="Jonah Blacksmith">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-1536x864.png 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith.png" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Jonah-Blacksmith-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Jonah Blacksmith</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/kalaset-2/" class="item-artist__inner" title="Kalaset ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1080" height="714" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%20714'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58-817x540.png 817w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58-768x508.png 768w" data-lazy-sizes="(max-width: 1080px) 100vw, 1080px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58.png" /><noscript><img decoding="async" width="1080" height="714" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58-817x540.png 817w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.01.58-768x508.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Kalaset </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/mas/" class="item-artist__inner" title="MAS">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="827" height="465" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20827%20465'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1.png 827w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1-768x432.png 768w" data-lazy-sizes="(max-width: 827px) 100vw, 827px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1.png" /><noscript><img decoding="async" width="827" height="465" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1.png 827w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-1-768x432.png 768w" sizes="(max-width: 827px) 100vw, 827px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">MAS</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/orville-peck-2/" class="item-artist__inner" title="Orville Peck ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="714" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20714'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19-815x540.png 815w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19-768x509.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19.png" /><noscript><img decoding="async" width="1078" height="714" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19-815x540.png 815w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.15.19-768x509.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Orville Peck </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/white-lies-2/" class="item-artist__inner" title="White Lies">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-1536x864.jpg 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1.jpg" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1.jpg 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-960x540.jpg 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-768x432.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/White-Lies-1-1536x864.jpg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">White Lies</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/the-brand-new-heavies-2/" class="item-artist__inner" title="The Brand New Heavies ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1082" height="716" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201082%20716'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52-768x508.png 768w" data-lazy-sizes="(max-width: 1082px) 100vw, 1082px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52.png" /><noscript><img decoding="async" width="1082" height="716" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.20.52-768x508.png 768w" sizes="(max-width: 1082px) 100vw, 1082px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">The Brand New Heavies </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/snow-patrol/" class="item-artist__inner" title="Snow Patrol">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1325" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201325%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1325x1080.jpg 1325w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-663x540.jpg 663w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-768x626.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1536x1252.jpg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-scaled.jpg 2048w" data-lazy-sizes="(max-width: 1325px) 100vw, 1325px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1325x1080.jpg" /><noscript><img decoding="async" width="1325" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1325x1080.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1325x1080.jpg 1325w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-663x540.jpg 663w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-768x626.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-1536x1252.jpg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/TomB_150524_004_V2-scaled.jpg 2048w" sizes="(max-width: 1325px) 100vw, 1325px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Snow Patrol</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/svea-s/" class="item-artist__inner" title="Svea S">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="945" height="532" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20945%20532'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn.png 945w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-768x432.png 768w" data-lazy-sizes="(max-width: 945px) 100vw, 945px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn.png" /><noscript><img decoding="async" width="945" height="532" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn.png 945w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Design-uden-navn-768x432.png 768w" sizes="(max-width: 945px) 100vw, 945px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Svea S</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/turboweekend/" class="item-artist__inner" title="Turboweekend">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1284" height="848" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201284%20848'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27.png 1284w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27-818x540.png 818w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27-768x507.png 768w" data-lazy-sizes="(max-width: 1284px) 100vw, 1284px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27.png" /><noscript><img decoding="async" width="1284" height="848" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27.png 1284w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27-818x540.png 818w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.29.27-768x507.png 768w" sizes="(max-width: 1284px) 100vw, 1284px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Turboweekend</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/tv-2-2/" class="item-artist__inner" title="TV-2">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1276" height="840" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201276%20840'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36.png 1276w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36-768x506.png 768w" data-lazy-sizes="(max-width: 1276px) 100vw, 1276px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36.png" /><noscript><img decoding="async" width="1276" height="840" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36.png 1276w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-11.38.36-768x506.png 768w" sizes="(max-width: 1276px) 100vw, 1276px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">TV-2</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/uro-2/" class="item-artist__inner" title="URO ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="710" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20710'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15-768x506.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15.png" /><noscript><img decoding="async" width="1078" height="710" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.42.15-768x506.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Panorama</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">URO </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/alessi-rose-2/" class="item-artist__inner" title="Alessi Rose ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1629" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201629%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1629x1080.jpg 1629w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-814x540.jpg 814w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-768x509.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1536x1018.jpg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-scaled.jpg 2048w" data-lazy-sizes="(max-width: 1629px) 100vw, 1629px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1629x1080.jpg" /><noscript><img decoding="async" width="1629" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1629x1080.jpg" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1629x1080.jpg 1629w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-814x540.jpg 814w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-768x509.jpg 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-1536x1018.jpg 1536w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/02/Alessi-Rose-Lead-Press-1-scaled.jpg 2048w" sizes="(max-width: 1629px) 100vw, 1629px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Alessi Rose </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/ashes-of-billy-2/" class="item-artist__inner" title="Ashes of Billy ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="710" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20710'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50-768x506.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50.png" /><noscript><img decoding="async" width="1078" height="710" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50-820x540.png 820w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.53.50-768x506.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Saturday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Ashes of Billy </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/berg-2/" class="item-artist__inner" title="Berg">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-1536x864.png 1536w" data-lazy-sizes="(max-width: 1920px) 100vw, 1920px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny.png" /><noscript><img decoding="async" width="1920" height="1080" src="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny.png 1920w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-960x540.png 960w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-768x432.png 768w, https://tinderbox.dk/wp-content/uploads/sites/2/2025/10/Berg_ny-1536x864.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Berg</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/kayak/" class="item-artist__inner" title="Kayak ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1082" height="712" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201082%20712'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19-768x505.png 768w" data-lazy-sizes="(max-width: 1082px) 100vw, 1082px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19.png" /><noscript><img decoding="async" width="1082" height="712" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.40.19-768x505.png 768w" sizes="(max-width: 1082px) 100vw, 1082px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Kayak </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/ozzy/" class="item-artist__inner" title="Ozzy">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1080" height="710" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201080%20710'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54-768x505.png 768w" data-lazy-sizes="(max-width: 1080px) 100vw, 1080px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54.png" /><noscript><img decoding="async" width="1080" height="710" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54.png 1080w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-21-kl.-10.34.54-768x505.png 768w" sizes="(max-width: 1080px) 100vw, 1080px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Plaza</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Ozzy</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/rock-hard-power-spray-2/" class="item-artist__inner" title="Rock Hard Power Spray">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1076" height="712" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201076%20712'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51.png 1076w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51-768x508.png 768w" data-lazy-sizes="(max-width: 1076px) 100vw, 1076px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51.png" /><noscript><img decoding="async" width="1076" height="712" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51.png 1076w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51-816x540.png 816w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-12.48.51-768x508.png 768w" sizes="(max-width: 1076px) 100vw, 1076px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Friday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Rock Hard Power Spray</h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/wicky/" class="item-artist__inner" title="Wicky ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1082" height="712" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201082%20712'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46-768x505.png 768w" data-lazy-sizes="(max-width: 1082px) 100vw, 1082px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46.png" /><noscript><img decoding="async" width="1082" height="712" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46.png 1082w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46-821x540.png 821w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.34.46-768x505.png 768w" sizes="(max-width: 1082px) 100vw, 1082px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Wicky </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/oesten/" class="item-artist__inner" title="Østen ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="706" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20706'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06-825x540.png 825w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06-768x503.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06.png" /><noscript><img decoding="async" width="1078" height="706" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06-825x540.png 825w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.30.06-768x503.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Pavilion</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Østen </h4>
+		</div>
+
+	</a>
+</div>            </div>
+        </div>
+    </div>
+
+
+<div style="height:76px" aria-hidden="true" class="wp-block-spacer is-style-spacer-desktop"></div>
+
+
+
+<div style="height:47px" aria-hidden="true" class="wp-block-spacer is-style-spacer-mobile"></div>
+
+
+
+<h2 class="wp-block-heading has-text-align-center">Magicbox</h2>
+
+
+
+<div id="artist-block_df142840abae173c8161c99dca27577e" class="block-artist alignwide">
+            <div class="loop loop--artist">
+            <div class="loop__inner">
+                
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/alesso-2/" class="item-artist__inner" title="Alesso ">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1078" height="708" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201078%20708'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55-822x540.png 822w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55-768x504.png 768w" data-lazy-sizes="(max-width: 1078px) 100vw, 1078px" data-lazy-src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55.png" /><noscript><img decoding="async" width="1078" height="708" src="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55.png" class="attachment-large size-large" alt="" srcset="https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55.png 1078w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55-822x540.png 822w, https://tinderbox.dk/wp-content/uploads/sites/2/2026/01/Skaermbillede-2026-01-19-kl.-13.46.55-768x504.png 768w" sizes="(max-width: 1078px) 100vw, 1078px" /></noscript>		</figure>
+
+					<div class="item-artist__meta">
+									<span class="meta-day">Thursday</span>
+													<span class="meta-scene">Magicbox</span>
+							</div>
+		
+		<div class="item-artist__content">
+			<h4 class="item-artist__content-header">Alesso </h4>
+		</div>
+
+	</a>
+</div>
+<div class="item-artist in-view-item">
+	<a href="https://tinderbox.dk/en/artister/agents-of-time-2/" class="item-artist__inner" title="Agents of Time">
+
+		<figure class="item-artist__image media-cover">
+			<img decoding="async" width="1920" height="1080" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201920%201080'%3E%3C/svg%3E" class="attachment-large size-large" alt="" data-lazy-srcset="https://tinderbox.d
+<!-- TRIMMED BY recon.mjs -->

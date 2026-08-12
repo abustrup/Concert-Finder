@@ -1,0 +1,20 @@
+{
+  "generatedAt": "2026-08-12T21:15:22.521Z",
+  "shots": [
+    "docs/screenshots/desktop-dark-1-landing.png",
+    "docs/screenshots/desktop-dark-2-results.png",
+    "docs/screenshots/desktop-dark-3-method.png",
+    "docs/screenshots/desktop-dark-4-full.png",
+    "docs/screenshots/desktop-light-1-landing.png",
+    "docs/screenshots/desktop-light-2-results.png",
+    "docs/screenshots/desktop-light-3-method.png",
+    "docs/screenshots/desktop-light-4-full.png",
+    "docs/screenshots/mobile-dark-1-landing.png",
+    "docs/screenshots/mobile-dark-2-results.png",
+    "docs/screenshots/mobile-dark-4-full.png",
+    "docs/screenshots/mobile-light-1-landing.png",
+    "docs/screenshots/mobile-light-2-results.png",
+    "docs/screenshots/mobile-light-4-full.png"
+  ],
+  "problems": []
+}

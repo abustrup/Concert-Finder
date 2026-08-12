@@ -1,0 +1,904 @@
+ <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="ie6 ie" lang="da" dir="ltr"> <![endif]-->
+<!--[if IE 7]>    <html class="ie7 ie" lang="da" dir="ltr"> <![endif]-->
+<!--[if IE 8]>    <html class="ie8 ie" lang="da" dir="ltr"> <![endif]-->
+<!--[if gt IE 8]> <!--> <html class="" lang="da" dir="ltr"> <!--<![endif]-->
+	
+<head>
+  <meta name="description" content="Concert venue located in Freetown Christiania, Copenhagen. Welcoming rising stars and alternative arts in music Since 1973." >
+  <meta name="keywords" content="Koncert,Concerts,K&oslash;benhavn,Copenhagen,Christiania,Freetown,Rock,Metal,Hiphop,Electronic,Blues,Jazz" >
+  <meta charset="utf-8" />
+<link rel="alternate" type="application/rss+xml" title="LOPPEN RSS" href="https://loppen.dk/rss.xml" />
+<meta property="og:image" content="https://loppen.dk/sites/all/themes/framework/images/loppe-logo.png" />
+<meta property="og:description" content="MUSIC VENUE IN CHRISTIANIA SINCE 1973" />
+<meta property="og:title" content="LOPPEN" />
+<meta />
+<script type="application/ld+json">[{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "COFFINS + DEAD VOID",
+  "startDate" : "2026-08-13T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69cbb824c51e660a5297854c",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "CURRENT JOYS + FANTASY OF A BROKEN HEART",
+  "startDate" : "2026-08-17T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.billetlugen.dk/event/current-joys-vega-21537177/",
+     "price" : "265"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "AUTOMATIC + DREAMSTRUCK",
+  "startDate" : "2026-08-26T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e77333441f3876f8224707",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "RELEASE PARTY + OG DU LYSER + BBYBITES (DJ) + JOSIE AMADONNA",
+  "startDate" : "2026-08-27T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  }},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "KING PARROT",
+  "startDate" : "2026-08-29T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3cfc80b80ae58ad3c19b5a",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ORA COGAN + ELAINE MALONE",
+  "startDate" : "2026-09-03T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb39daa5c34c350bcd3b87",
+     "price" : "200"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DATE CAMP",
+  "startDate" : "2026-09-04T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a2a85f5e978a3c070075c52",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "THE DEPTHS WE EXPLORED + BLOOD ORANGE MOON",
+  "startDate" : "2026-09-12T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://buy.stripe.com/cNi6oJgAq1Kh2nSetY7bW00",
+     "price" : "140"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "MAUSTETYTÖT ",
+  "startDate" : "2026-09-13T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/698220d6eeb3f548489c385e",
+     "price" : "170"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "OBS. - NY DATO! + CORY HANSON + COLE BERLINER",
+  "startDate" : "2026-09-17T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/68b1649ca790da1ab7788bfd",
+     "price" : "170"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "SEBASTIAN WOLFF",
+  "startDate" : "2026-09-18T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/68ff704e52bc3b2faa795a2b",
+     "price" : "200"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "LORD FINESSE",
+  "startDate" : "2026-09-19T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a6383fbb4d95f9d96a9c36f",
+     "price" : "250"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DICE + THE VELVET CLUB",
+  "startDate" : "2026-09-22T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69d7973b81416a0d206536ea",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "'TURNING TORSO' - RELEASE + TENDER YOUTH",
+  "startDate" : "2026-09-26T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a576a7fb4d95f9d96a9c259",
+     "price" : "130"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "MELLEMBLOND",
+  "startDate" : "2026-10-02T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3a60eb57d07c7f74661525",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "THE MAGIC NUMBERS",
+  "startDate" : "2026-10-06T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69bbe976e5506d5dc98f604b",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DRINK THE SEA",
+  "startDate" : "2026-10-10T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a1ed3c24ece6d4e9ab8a6bf",
+     "price" : "205"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DONOVAN WOODS",
+  "startDate" : "2026-10-11T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69aad5da72d17d3797de4164",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ZAHN",
+  "startDate" : "2026-10-16T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  }},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ALBUM RELEASE - SECRET LANGUAGE + ST. DIGUE + SHE CAN'T AFFORD MASCARA + PHOENIX DOWN",
+  "startDate" : "2026-10-17T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a33bd9de978a3c07007732f",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "SAULTS",
+  "startDate" : "2026-10-18T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3e3ba3b80ae58ad3c19be7",
+     "price" : "190"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "SPAIN",
+  "startDate" : "2026-10-19T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fc9e7ba5c34c350bcd3c54",
+     "price" : "190"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DAVE EAST",
+  "startDate" : "2026-10-23T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69aee39c88bf4e6a1fe97880",
+     "price" : "185"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "BROR GUNNAR JANSSON & THE ESCAPISM",
+  "startDate" : "2026-10-24T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a4bce48a133b2adf5b64480",
+     "price" : "170"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ULRIKA SPACEK",
+  "startDate" : "2026-10-25T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/699f097272d17d3797de3574",
+     "price" : "150"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DEMERSAL + SALVER",
+  "startDate" : "2026-10-29T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb40cba5c34c350bcd3b99",
+     "price" : "150"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "MIAW",
+  "startDate" : "2026-10-30T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/697c8623a015c2340e0b0cc4",
+     "price" : "140"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "CEVIL",
+  "startDate" : "2026-10-31T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e0c4f8cb89903547d44ee6",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "HORSE LORDS",
+  "startDate" : "2026-11-04T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69b805ee88bf4e6a1fe97f5c",
+     "price" : "190"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "POLITE",
+  "startDate" : "2026-11-05T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e74df9441f3876f82246b6",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "VENTELISTE + FAT DOG",
+  "startDate" : "2026-11-07T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e76df73395a970e542dec3",
+     "price" : "190"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "BIG SLEEP",
+  "startDate" : "2026-11-08T19:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a07058bc9f7f530d26dfbfb",
+     "price" : "180"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "FEEBLE LITTLE HORSE",
+  "startDate" : "2026-11-11T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a0d9e60aadfc2b52b064c5e",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ADULT DVD + SAUNA SENERE",
+  "startDate" : "2026-11-14T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69df8b71cb89903547d44d24",
+     "price" : "185"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "ROOMER + YVONNES",
+  "startDate" : "2026-11-19T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a353d0057d07c7f746610c9",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "GLAIVE + KURTAIN",
+  "startDate" : "2026-11-20T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fdb64ba5c34c350bcd3cfc",
+     "price" : "185"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "CABAL + EMPLOYED TO SERVE + COLD CULTURE",
+  "startDate" : "2026-11-21T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a58d50855e79727e2718b1e",
+     "price" : "225"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DAVID EUGENE EDWARDS",
+  "startDate" : "2026-11-24T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb35c9c9f7f530d26de513",
+     "price" : "240"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "GURRIERS  + ENOLA GAY",
+  "startDate" : "2026-11-28T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a071115a5c34c350bcd53c2",
+     "price" : "160"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "JOE & THE SHITBOYS",
+  "startDate" : "2026-12-03T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a1850e7aadfc2b52b06623f",
+     "price" : "175"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "LES BIG BYRD",
+  "startDate" : "2026-12-05T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a26a6421664b1e9f8718c57",
+     "price" : "185"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "GILLA BAND",
+  "startDate" : "2027-01-27T20:30",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a0d5dafaadfc2b52b064c49",
+     "price" : "185"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "AFSKUM",
+  "startDate" : "2027-02-06T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69c654fd567d2f7be9013883",
+     "price" : "205"
+  	}},{
+  "@context" : "https://schema.org",
+  "@type" : "MusicEvent",
+  "name" : "DEA MATRONA",
+  "startDate" : "2027-02-26T21:00",
+  "location" : {
+    "@type" : "Place",
+    "name" : "Musik Loppen",
+    "address" : "Sydområdet 4B, 1. sal 1440 København K."
+  },"offers" : {
+     "@type" : "Offer",
+     "url" : "https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3d263857d07c7f74661650",
+     "price" : "225"
+  	}}]</script><link rel="shortcut icon" href="https://loppen.dk/sites/default/files/favicon_0.png" type="image/png" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=1032" />
+  <title>LOPPEN</title>
+  <style type="text/css" media="all">
+@import url("https://loppen.dk/modules/system/system.base.css?teinc1");
+@import url("https://loppen.dk/modules/system/system.menus.css?teinc1");
+@import url("https://loppen.dk/modules/system/system.messages.css?teinc1");
+@import url("https://loppen.dk/modules/system/system.theme.css?teinc1");
+</style>
+<style type="text/css" media="all">
+@import url("https://loppen.dk/sites/all/modules/date/date_api/date.css?teinc1");
+@import url("https://loppen.dk/modules/field/theme/field.css?teinc1");
+@import url("https://loppen.dk/modules/node/node.css?teinc1");
+@import url("https://loppen.dk/modules/search/search.css?teinc1");
+@import url("https://loppen.dk/modules/user/user.css?teinc1");
+@import url("https://loppen.dk/sites/all/modules/views/css/views.css?teinc1");
+</style>
+<style type="text/css" media="all">
+@import url("https://loppen.dk/sites/all/modules/ctools/css/ctools.css?teinc1");
+@import url("https://loppen.dk/sites/all/modules/lightbox2/css/lightbox.css?teinc1");
+@import url("https://loppen.dk/sites/all/modules/wysiwyg_linebreaks/wysiwyg_linebreaks.css?teinc1");
+</style>
+<style type="text/css" media="all">
+@import url("https://loppen.dk/sites/all/themes/framework/styles/style.css?teinc1");
+</style>
+<style type="text/css">.second-color, .row.odd, .view-id-related_nodes .views-row-odd, .view-id-previous_events .views-row-odd, img.logo-transparent { background-color: #f4f66b !important;} .second-color-font{color: #f4f66b !important;}.first-color, .row.even, .view-id-related_nodes .views-row-even, .view-id-previous_events .views-row-even  { background-color: #ffffff !important;} .second-color-font{color: #ffffff !important;}#main-menu a, .row.odd, .view-id-related_nodes .views-row-odd, .row.odd a, .view-id-related_nodes .views-row-odd a, .related.header-3{ color: #000000 !important;}.node-type-event .event.full .field-name-field-event-header, .node-type-event .event.full .info, .node-type-event .event.full .price{ color: #000000 !important;}.row.even, .view-id-related_nodes .views-row-even, .row.even a, .view-id-related_nodes .views-row-even a{ color: #000000 !important;}#content-frame{ background-color: #000000 !important;} .related.header-3, .event.teaser{ border-bottom: 3px solid #000000}#main-menu a{ color: #000000 !important;}#main-menu a.active{ color: #ffffff !important; background-color: #f4f66b !important;} #secondary-menu{ border-top: 1px solid #f4f66b !important;}#secondary-menu a{ color: #000000 !important;}#secondary-menu a.active{ color: #FFFFFF !important; background-color: #f4f66b !important;}</style>  <script type="text/javascript" src="https://loppen.dk/sites/all/modules/jquery_update/replace/jquery/1.8/jquery.min.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://loppen.dk/misc/jquery-extend-3.4.0.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://loppen.dk/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.8.3"></script>
+<script type="text/javascript" src="https://loppen.dk/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="https://loppen.dk/misc/drupal.js?teinc1"></script>
+<script type="text/javascript" src="https://loppen.dk/misc/form-single-submit.js?v=7.98"></script>
+<script type="text/javascript" src="https://loppen.dk/sites/default/files/languages/da_qcCFF7XyBV1db2zu6C3Cibyr3h5rDEgM2rkEewNc9OM.js?teinc1"></script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/modules/lightbox2/js/lightbox.js?teinc1"></script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/modules/google_analytics/googleanalytics.js?teinc1"></script>
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-RNLWFL7SX7"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-RNLWFL7SX7", {"groups":"default"});
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/modules/matomo/matomo.js?teinc1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://analytics.loppen.dk/" : "https://analytics.loppen.dk/");_paq.push(["setSiteId", "1"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);_paq.push(["setCookieDomain", ".loppen.dk"]);_paq.push(["trackPageView"]);_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var switchTo5x = true;
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://ws.sharethis.com/button/buttons.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+if (stLight !== undefined) { stLight.options({"publisher":"dr-25475111-f88-754-8cd9-a7027be4e8","version":"5x"}); }
+//--><!]]>
+</script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/themes/framework/scripts/script.js?teinc1"></script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/themes/framework/scripts/lazyload.js?teinc1"></script>
+<script type="text/javascript" src="https://loppen.dk/sites/all/themes/framework/scripts/bpopup.js?teinc1"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","setHasJsCookie":0,"ajaxPageState":{"theme":"framework","theme_token":"lLu0zLAvQ1QHTEay7csUx7EH2R_xDgKsN_54E0E0CfU","js":{"sites\/all\/modules\/jquery_update\/replace\/jquery\/1.8\/jquery.min.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/form-single-submit.js":1,"public:\/\/languages\/da_qcCFF7XyBV1db2zu6C3Cibyr3h5rDEgM2rkEewNc9OM.js":1,"sites\/all\/modules\/lightbox2\/js\/lightbox.js":1,"sites\/all\/modules\/google_analytics\/googleanalytics.js":1,"https:\/\/www.googletagmanager.com\/gtag\/js?id=G-RNLWFL7SX7":1,"0":1,"sites\/all\/modules\/matomo\/matomo.js":1,"1":1,"2":1,"https:\/\/ws.sharethis.com\/button\/buttons.js":1,"3":1,"sites\/all\/themes\/framework\/scripts\/script.js":1,"sites\/all\/themes\/framework\/scripts\/lazyload.js":1,"sites\/all\/themes\/framework\/scripts\/bpopup.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"sites\/all\/modules\/date\/date_api\/date.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/lightbox2\/css\/lightbox.css":1,"sites\/all\/modules\/wysiwyg_linebreaks\/wysiwyg_linebreaks.css":1,"sites\/all\/themes\/framework\/styles\/style.css":1}},"lightbox2":{"rtl":"0","file_path":"\/(\\w\\w\/)public:\/","default_image":"\/sites\/all\/modules\/lightbox2\/images\/brokenimage.jpg","border_size":10,"font_color":"000","box_color":"fff","top_position":"","overlay_opacity":"0.8","overlay_color":"000","disable_close_click":1,"resize_sequence":0,"resize_speed":400,"fade_in_speed":400,"slide_down_speed":600,"use_alt_layout":0,"disable_resize":0,"disable_zoom":1,"force_show_nav":0,"show_caption":1,"loop_items":0,"node_link_text":"View Image Details","node_link_target":0,"image_count":"Image !current of !total","video_count":"Video !current of !total","page_count":"Page !current of !total","lite_press_x_close":"press \u003Ca href=\u0022#\u0022 onclick=\u0022hideLightbox(); return FALSE;\u0022\u003E\u003Ckbd\u003Ex\u003C\/kbd\u003E\u003C\/a\u003E to close","download_link_text":"","enable_login":false,"enable_contact":false,"keys_close":"c x 27","keys_previous":"p 37","keys_next":"n 39","keys_zoom":"z","keys_play_pause":"32","display_image_size":"original","image_node_sizes":"()","trigger_lightbox_classes":"","trigger_lightbox_group_classes":"","trigger_slideshow_classes":"","trigger_lightframe_classes":"","trigger_lightframe_group_classes":"","custom_class_handler":0,"custom_trigger_classes":"","disable_for_gallery_lists":true,"disable_for_acidfree_gallery_lists":true,"enable_acidfree_videos":true,"slideshow_interval":5000,"slideshow_automatic_start":true,"slideshow_automatic_exit":true,"show_play_pause":true,"pause_on_next_click":false,"pause_on_previous_click":true,"loop_slides":false,"iframe_width":600,"iframe_height":400,"iframe_border":1,"enable_video":0,"useragent":"koncerter-personal-monitor\/1.0 (per.jacobsen@opvaekst.dk)"},"googleanalytics":{"account":["G-RNLWFL7SX7"],"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"matomo":{"trackMailto":1},"urlIsAjaxTrusted":{"\/":true}});
+//--><!]]>
+</script>
+  <!-- IE Fix for HTML5 Tags -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+  
+	
+</head>
+
+<body class="html front not-logged-in no-sidebars page-node" >
+  	
+    <div id="container" class="clearfix">
+		
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+      </div>
+
+  <header id="header" role="banner" class="clearfix">
+  	  <div id="social-links">
+	<a href="https://twitter.com/musikloppen" target="_blank">TWITTER</a> · 
+	<a href="https://www.facebook.com/musik.loppen" target="_blank">FACEBOOK</a> · 
+	<a href="http://instagram.com/musikloppen" target="_blank">INSTAGRAM</a>
+</div>  	  <div style="clear: both;"></div>	
+	  	<div id="logo-container">	
+	 <a href="/" title="Hjem" id="logo">
+	  	 		<img src="https://loppen.dk/Logo-transparent.png" class="logo-transparent"/>
+	 		</a>
+</div>
+    	<div class="region region-header">
+  <section id="block-search-form" class="block block-search">
+
+      
+  <div class="content">
+    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+      <h2 class="element-invisible">Søgefelt</h2>
+    <div class="form-item form-type-textfield form-item-search-block-form">
+  <label class="element-invisible" for="edit-search-block-form--2">Søg </label>
+ <input title="Indtast de ord du ønsker at søge efter." type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Søg" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-dLDCoCW3EB6VxKA-wo-KCcc3JU8xe9SW5kiypjbITBA" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>  </div>
+  
+</section> <!-- /.block -->
+</div>
+ <!-- /.region -->
+
+      <nav id="navigation" role="navigation" class="clearfix">
+       <p id="main-menu">
+ 	<a href="https://loppen.dk/kalender" id="calendar-link">KALENDER</a>
+		<!--<a href="http://jul.loppen.dk" target="_blank">JULEKALENDER</a>-->
+    <a href="https://loppen.dk/genre" id="genre-link">GENRE</a>
+    <!--<a href="https://loppen.dk/nyheder" id="news-link">NYHEDER</a>-->
+    <a href="https://loppen.dk/billeder" id="gallery-link">BILLEDER</a>
+    <a href="https://loppen.dk/info" id="info-link">INFO</a>
+    <a href="https://loppen.dk/kontakt" id="contact-link">KONTAKT</a>
+    <a id="search-link">SØG</a>
+</p>      </nav> <!-- /#navigation -->
+      </header> <!-- /#header -->
+
+  <section id="main" role="main" class="clearfix">
+  	<div id="content-top"></div>
+  	<div id="content-frame">
+  	<div id="content-area">
+        <a id="main-content"></a>
+                                <div class="row even">
+<div class="event teaser  Metal aug 2026"><div class="info"><div class="date">TORSDAG 13. AUG 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69cbb824c51e660a5297854c" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/coffins-dead-void" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">COFFINS</span><span class="country-code">(JP)</span></p><p><span class="header-1">DEAD VOID</span><span class="country-code">(DK/UK)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Folk Indie-rock Indie/Alternative aug 2026"><div class="info"><div class="date">MANDAG 17. AUG 2026 - KL 19.00</div><a href="https://www.billetlugen.dk/event/current-joys-vega-21537177/" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 265KR</div></a></div><a href="https://loppen.dk/kalender/current-joys" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">CURRENT JOYS</span><span class="country-code">(US)</span></p><p><span class="header-2">FANTASY OF A BROKEN HEART</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Elektronisk Indie-pop Indie-rock Indie/Alternative Pop aug 2026"><div class="info"><div class="date">ONSDAG 26. AUG 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e77333441f3876f8224707" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/automatic" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">AUTOMATIC</span><span class="country-code">(US)</span></p><p><span class="header-2">DREAMSTRUCK</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-pop Indie-rock Indie/Alternative aug 2026"><div class="info"><div class="date">TORSDAG 27. AUG 2026 - KL 20.30</div><div class="price">GRATIS</div></div><a href="https://loppen.dk/kalender/og-du-lyser" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-3">RELEASE PARTY</span></p><p><span class="header-1">OG DU LYSER</span></p><p><span class="header-2">BBYBITES (DJ)</span></p><p><span class="header-2">JOSIE AMADONNA</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Metal Rock aug 2026"><div class="info"><div class="date">LØRDAG 29. AUG 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3cfc80b80ae58ad3c19b5a" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/king-parrot" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">KING PARROT</span><span class="country-code">(AUS)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Americana Indie-rock Indie/Alternative Post-Punk sep 2026"><div class="info"><div class="date">TORSDAG 03. SEP 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb39daa5c34c350bcd3b87" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 200KR</div></a></div><a href="https://loppen.dk/kalender/ora-cogan" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">ORA COGAN</span><span class="country-code">(CA)</span></p><p><span class="header-2">ELAINE MALONE</span><span class="country-code">(IE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk sep 2026"><div class="info"><div class="date">FREDAG 04. SEP 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a2a85f5e978a3c070075c52" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/date-camp" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DATE CAMP</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk Psych Rock sep 2026"><div class="info"><div class="date">LØRDAG 12. SEP 2026 - KL 21.00</div><a href="https://buy.stripe.com/cNi6oJgAq1Kh2nSetY7bW00" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 140KR</div></a></div><a href="https://loppen.dk/kalender/depths-we-explored" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">THE DEPTHS WE EXPLORED</span></p><p><span class="header-2">BLOOD ORANGE MOON</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Elektronisk Indie-pop Indie/Alternative sep 2026"><div class="info"><div class="date">SØNDAG 13. SEP 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/698220d6eeb3f548489c385e" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 170KR</div></a></div><a href="https://loppen.dk/kalender/maustetytot-1" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">MAUSTETYTÖT </span><span class="country-code">(FI)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Americana Country Folk Indie-rock Indie/Alternative Jazz Psych Punk Rock sep 2026"><div class="info"><div class="date">TORSDAG 17. SEP 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/68b1649ca790da1ab7788bfd" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 170KR</div></a></div><a href="https://loppen.dk/kalender/cory-hanson" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-2">OBS. - NY DATO!</span></p><p><span class="header-1">CORY HANSON</span><span class="country-code">(US)</span></p><p><span class="header-2">COLE BERLINER</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Folk Indie-pop Indie-rock Indie/Alternative Rock sep 2026"><div class="info"><div class="date">FREDAG 18. SEP 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/68ff704e52bc3b2faa795a2b" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 200KR</div></a></div><a href="https://loppen.dk/kalender/sebastian-wolff" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">SEBASTIAN WOLFF</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Hip-hop sep 2026"><div class="info"><div class="date">LØRDAG 19. SEP 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a6383fbb4d95f9d96a9c36f" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 250KR</div></a></div><a href="https://loppen.dk/kalender/lord-finesse" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">LORD FINESSE</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-pop Indie-rock Indie/Alternative Post-Punk Rock sep 2026"><div class="info"><div class="date">TIRSDAG 22. SEP 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69d7973b81416a0d206536ea" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/dice" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DICE</span><span class="country-code">(AU)</span></p><p><span class="header-2">THE VELVET CLUB</span><span class="country-code">(AU)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk Rock sep 2026"><div class="info"><div class="date">LØRDAG 26. SEP 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a576a7fb4d95f9d96a9c259" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 130KR</div></a></div><a href="https://loppen.dk/kalender/tender-youth" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-3">'TURNING TORSO' - RELEASE</span></p><p><span class="header-1">TENDER YOUTH</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Folk Indie-pop Indie-rock okt 2026"><div class="info"><div class="date">FREDAG 02. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3a60eb57d07c7f74661525" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/mellemblond-2026" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">MELLEMBLOND</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Rock okt 2026"><div class="info"><div class="date">TIRSDAG 06. OKT 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69bbe976e5506d5dc98f604b" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/magic-numbers" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">THE MAGIC NUMBERS</span><span class="country-code">(UK)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Folk Indie-rock Indie/Alternative Rock okt 2026"><div class="info"><div class="date">LØRDAG 10. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a1ed3c24ece6d4e9ab8a6bf" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 205KR</div></a></div><a href="https://loppen.dk/kalender/drink-sea" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DRINK THE SEA</span><span class="country-code">(US/INT)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Americana Country Folk Indie-rock Indie/Alternative okt 2026"><div class="info"><div class="date">SØNDAG 11. OKT 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69aad5da72d17d3797de4164" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/donovan-woods" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DONOVAN WOODS</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-rock Indie/Alternative Jazz Post-Punk Rock okt 2026"><div class="info"><div class="date">FREDAG 16. OKT 2026 - KL 21.00</div><div class="price">ENTRÉ: 160KR</div></div><a href="https://loppen.dk/kalender/zahn" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">ZAHN</span><span class="country-code">(DE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk okt 2026"><div class="info"><div class="date">LØRDAG 17. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a33bd9de978a3c07007732f" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/st-digue-release" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-3">ALBUM RELEASE - SECRET LANGUAGE</span></p><p><span class="header-1">ST. DIGUE</span></p><p><span class="header-2">SHE CAN'T AFFORD MASCARA</span></p><p><span class="header-2">PHOENIX DOWN</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Funk Indie-pop Indie/Alternative Pop okt 2026"><div class="info"><div class="date">SØNDAG 18. OKT 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3e3ba3b80ae58ad3c19be7" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 190KR</div></a></div><a href="https://loppen.dk/kalender/saults" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">SAULTS</span><span class="country-code">(FR)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Folk Indie-rock Indie/Alternative okt 2026"><div class="info"><div class="date">MANDAG 19. OKT 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fc9e7ba5c34c350bcd3c54" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 190KR</div></a></div><a href="https://loppen.dk/kalender/spain-2" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">SPAIN</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Hip-hop okt 2026"><div class="info"><div class="date">FREDAG 23. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69aee39c88bf4e6a1fe97880" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 185KR</div></a></div><a href="https://loppen.dk/kalender/dave-east" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DAVE EAST</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Blues Folk Indie-rock Jazz Soul okt 2026"><div class="info"><div class="date">LØRDAG 24. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a4bce48a133b2adf5b64480" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 170KR</div></a></div><a href="https://loppen.dk/kalender/bror-gunnar" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">BROR GUNNAR JANSSON & THE ESCAPISM</span><span class="country-code">(SE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-rock Indie/Alternative okt 2026"><div class="info"><div class="date">SØNDAG 25. OKT 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/699f097272d17d3797de3574" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 150KR</div></a></div><a href="https://loppen.dk/kalender/ulrika-spacek-0" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">ULRIKA SPACEK</span><span class="country-code">(UK)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie/Alternative Metal Post-Punk Punk Rock okt 2026"><div class="info"><div class="date">TORSDAG 29. OKT 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb40cba5c34c350bcd3b99" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 150KR</div></a></div><a href="https://loppen.dk/kalender/demersal-salver" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DEMERSAL</span></p><p><span class="header-1">SALVER</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Elektronisk Pop okt 2026"><div class="info"><div class="date">FREDAG 30. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/697c8623a015c2340e0b0cc4" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 140KR</div></a></div><a href="https://loppen.dk/kalender/miaw" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">MIAW</span><span class="country-code">(DK/NL)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Elektronisk Indie-pop Indie/Alternative okt 2026"><div class="info"><div class="date">LØRDAG 31. OKT 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e0c4f8cb89903547d44ee6" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/cevil" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">CEVIL</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-rock Indie/Alternative Jazz Post-Punk Rock nov 2026"><div class="info"><div class="date">ONSDAG 04. NOV 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69b805ee88bf4e6a1fe97f5c" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 190KR</div></a></div><a href="https://loppen.dk/kalender/horse-lords" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">HORSE LORDS</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Folk Indie-pop Indie-rock Indie/Alternative nov 2026"><div class="info"><div class="date">TORSDAG 05. NOV 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69e74df9441f3876f82246b6" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/polite" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">POLITE</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Elektronisk Indie-rock Indie/Alternative Post-Punk Punk nov 2026"><div class="info"><div class="date">LØRDAG 07. NOV 2026 - KL 21.00</div><div class="price">UDSOLGT</div></div><a href="https://loppen.dk/kalender/fat-dog" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-3">VENTELISTE</span></p><p><span class="header-1">FAT DOG</span><span class="country-code">(UK)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Pop Rock nov 2026"><div class="info"><div class="date">SØNDAG 08. NOV 2026 - KL 19.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a07058bc9f7f530d26dfbfb" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 180KR</div></a></div><a href="https://loppen.dk/kalender/big-sleep" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">BIG SLEEP</span><span class="country-code">(IE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-pop Indie-rock Indie/Alternative nov 2026"><div class="info"><div class="date">ONSDAG 11. NOV 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a0d9e60aadfc2b52b064c5e" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/feeble-little-horse" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">FEEBLE LITTLE HORSE</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk Punk Rock nov 2026"><div class="info"><div class="date">LØRDAG 14. NOV 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69df8b71cb89903547d44d24" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 185KR</div></a></div><a href="https://loppen.dk/kalender/adult-dvd" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">ADULT DVD</span><span class="country-code">(UK)</span></p><p><span class="header-2">SAUNA SENERE</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-pop Indie-rock Indie/Alternative Psych nov 2026"><div class="info"><div class="date">TORSDAG 19. NOV 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a353d0057d07c7f746610c9" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/yvonnes-roomer" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">ROOMER</span></p><p><span class="header-1">YVONNES</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-pop nov 2026"><div class="info"><div class="date">FREDAG 20. NOV 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fdb64ba5c34c350bcd3cfc" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 185KR</div></a></div><a href="https://loppen.dk/kalender/glaive" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">GLAIVE</span><span class="country-code">(US)</span></p><p><span class="header-2">KURTAIN</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Metal Post-Punk Rock nov 2026"><div class="info"><div class="date">LØRDAG 21. NOV 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a58d50855e79727e2718b1e" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 225KR</div></a></div><a href="https://loppen.dk/kalender/cabal-employed-serve" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">CABAL</span></p><p><span class="header-1">EMPLOYED TO SERVE</span><span class="country-code">(UK)</span></p><p><span class="header-2">COLD CULTURE</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Americana Folk Indie-rock Indie/Alternative Post-Punk Rock nov 2026"><div class="info"><div class="date">TIRSDAG 24. NOV 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69fb35c9c9f7f530d26de513" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 240KR</div></a></div><a href="https://loppen.dk/kalender/david-eugene-edwards" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DAVID EUGENE EDWARDS</span><span class="country-code">(US)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk Punk nov 2026"><div class="info"><div class="date">LØRDAG 28. NOV 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a071115a5c34c350bcd53c2" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 160KR</div></a></div><a href="https://loppen.dk/kalender/gurriers" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">GURRIERS </span><span class="country-code">(IE)</span></p><p><span class="header-2">ENOLA GAY</span><span class="country-code">(IE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Post-Punk Punk dec 2026"><div class="info"><div class="date">TORSDAG 03. DEC 2026 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a1850e7aadfc2b52b06623f" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 175KR</div></a></div><a href="https://loppen.dk/kalender/joe-shitboys-0" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">JOE & THE SHITBOYS</span><span class="country-code">(FO)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Psych Rock dec 2026"><div class="info"><div class="date">LØRDAG 05. DEC 2026 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a26a6421664b1e9f8718c57" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 185KR</div></a></div><a href="https://loppen.dk/kalender/les-big-byrd" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">LES BIG BYRD</span><span class="country-code">(SE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative Post-Punk jan 2027"><div class="info"><div class="date">ONSDAG 27. JAN 2027 - KL 20.30</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a0d5dafaadfc2b52b064c49" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 185KR</div></a></div><a href="https://loppen.dk/kalender/gilla-band-0" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">GILLA BAND</span><span class="country-code">(IE)</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row even">
+<div class="event teaser  Elektronisk Hip-hop Indie-rock Psych Rock feb 2027"><div class="info"><div class="date">LØRDAG 06. FEB 2027 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/69c654fd567d2f7be9013883" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 205KR</div></a></div><a href="https://loppen.dk/kalender/afskum-0" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">AFSKUM</span></p></div>
+</div>
+</div>
+</a></div></div><div class="row odd">
+<div class="event teaser  Indie-rock Indie/Alternative feb 2027"><div class="info"><div class="date">FREDAG 26. FEB 2027 - KL 21.00</div><a href="https://www.eventim-light.com/dk/a/62a9b86d97f9043b34af80a7/e/6a3d263857d07c7f74661650" target="_blank"><div class="price buy ">KØB</div><div class="price">FORSALG: 225KR</div></a></div><a href="https://loppen.dk/kalender/dea-matrona" class="event-link"><div class="field field-name-field-event-header field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><span class="header-1">DEA MATRONA</span><span class="country-code">(IE)</span></p></div>
+</div>
+</div>
+</a></div></div>    </div>
+    </div>
+    <div id="content-bottom"></div>
+  </section> <!-- /#main -->
+  
+  
+
+  <footer id="footer" role="contentinfo" class="clearfix">
+        <p id="footer">
+		 		<img src="https://loppen.dk/Logo-transparent.png" class="logo-transparent" style="width: 167px;"/><br />
+	 	 	<a href="http://christiania.org" target="_blank">CHRISTIANIA</a><br /><a href="http://dansklive.dk/ " target="_blank">DANSK LIVE</a><br /><!--<a href="" target="_blank">KØBENHAVNS KOMMUNE</a>-->
+</p>
+  </footer> <!-- /#footer -->
+
+</div> <!-- /#container -->
+  </body>
+
+</html>

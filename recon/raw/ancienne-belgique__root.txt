@@ -1,0 +1,1137 @@
+<!doctype html>
+<html lang="en" data-scroll="0"
+       class="-fixed"       lang="nl">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns#" >
+    <meta charset="utf-8">
+
+    
+    <script nonce="ar1deNtrR4CLqXSprz6EFw==">
+        // Define dataLayer and the gtag function.
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+
+        gtag('consent', 'default', {
+            'analytics_storage': 'denied',
+            'ad_storage': 'denied',
+            'ad_user_data': 'denied',
+            'ad_personalization': 'denied',
+        });
+
+                (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            'https://www.googletagmanager.com/gtm.js?id='+i+dl;var n=d.querySelector('[nonce]');
+            n&&j.setAttribute('nonce',n.nonce||n.getAttribute('nonce'));f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WHBL3G');
+    </script>
+
+    <meta name="description" content="">
+    <meta name="keywords"    content="">
+
+        
+        <meta content="origin-when-cross-origin" name="referrer">
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+                        
+    <title>Welcome | Ancienne Belgique - AB</title>
+        <meta property="og:image" content="https://www.abconcerts.be/media/cache/ogimage/upload/media/default/cc/87b55fa9ca5724722adeeadcdaf5ccdb6d3421e7.jpg" />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="1080" />
+<meta property="og:image:height" content="720" />
+<meta property="og:image:alt" />
+<meta property="og:title" content="Welcome | Ancienne Belgique" />
+<meta property="og:description" content="AB presents today&rsquo;s music, by today&rsquo;s people, about the world we live in. AB still does what it has been doing for years: introducing interesting new and established artists to as broad an audience of music enthusiasts as possible. With a passion for musi" />
+<meta property="og:url" content="https://www.abconcerts.be/" />
+<meta property="og:type" content="article" />
+<meta property="article:modified_time" content="2023-06-07T11:21:37+02:00" />
+<meta name="description" content="AB presents today&rsquo;s music, by today&rsquo;s people, about the world we live in. AB still does what it has been doing for years: introducing interesting new and established artists to as broad an audience of music enthusiasts as possible. With a passion for musi" />
+
+        <link rel="canonical" href="https://www.abconcerts.be/"/>
+
+        <link rel="alternate" href="https://www.abconcerts.be/en/" hreflang="en"/>
+<link rel="alternate" href="https://www.abconcerts.be/fr/" hreflang="fr"/>
+<link rel="alternate" href="https://www.abconcerts.be/nl/" hreflang="nl"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/website/components/favicons/apple-touch-icon.568e9e97.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/website/components/favicons/favicon-32x32.70b17241.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/website/components/favicons/favicon-16x16.4d8aaf8d.png">
+    <link rel="manifest" href="/assets/website/components/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/assets/website/components/favicons/safari-pinned-tab.e900c275.svg" color="#300029">
+    <meta name="msapplication-TileColor" content="#300029">
+    <meta name="theme-color" content="#300029">
+
+        <meta name="theme-color" content="#300029">
+
+        <link href="/assets/website/main.2381dd4c.css" rel="stylesheet" media="all">
+    <link href="/assets/website/print.a7d840bd.css" rel="stylesheet" media="print">
+
+    </head>
+<body class="body ">
+        <noscript>
+        <div class="no-script"><strong>Activate JavaScript in order to make optimal use of this website.</strong></div>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHBL3G" height="0" width="0" class="h-hidden"></iframe>
+    </noscript>
+
+        <p class="browser-update">Your browser is <strong>outdated</strong>. <a href="http://browsehappy.com/">Upgrade your browser</a> for better user experience and security</p>
+
+                
+    
+            <div class="page-nav">
+    <div class="site-container">
+    <div class="page-nav__header">
+        <button type="button" class="page-nav__close icon -cross" data-page-nav-toggle>Close</button>
+
+        <div class="page-nav__language__container">
+            <ul class="page-nav__language">
+                <li class="-active"><a class="page-nav__language__item" href="#">en <em
+                                class="icon -arrow-down"></em></a></li>
+
+                                    <li ><a
+                                class="page-nav__language__item" href="https://www.abconcerts.be/nl/">NL <em
+                                    class="icon -arrow-down"></em></a></li>
+                                    <li ><a
+                                class="page-nav__language__item" href="https://www.abconcerts.be/fr/">FR <em
+                                    class="icon -arrow-down"></em></a></li>
+                                    <li class="-hidden"><a
+                                class="page-nav__language__item" href="https://www.abconcerts.be/en/">EN <em
+                                    class="icon -arrow-down"></em></a></li>
+                            </ul>
+        </div>
+
+        <a href="/en/search" class="page-nav__search icon -search">Search</a>
+    </div>
+
+    <div class="page-nav__center">
+        <ul class="page__nav-list">
+                            <li><a class="page__nav-item" href="/en/agenda">Events</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/our-projects">Projects</a></li>
+                            <li><a class="page__nav-item" href="/en/news">News</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/visitor-info">Visitor info</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/ab-loves-you">AB ❤ you</a></li>
+                    </ul>
+
+        <ul class="page__nav-list -sub">
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/your-event-at-ab">Venue hire</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/brdcst">BRDCST</a></li>
+                            <li><a class="page__nav-item" href="/en/abtv">ABtv</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/surprise-someone-with-an-ab-concert-voucher">Concert voucher</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/about-ab">About AB</a></li>
+                            <li><a class="page__nav-item" href="https://www.abconcerts.be/en/contact">Contact</a></li>
+                    </ul>
+    </div>
+
+    <div class="page-nav__footer">
+        <div class="page-nav__socials">
+                            <a class="page-nav__social-item icon -instagram" href="https://instagram.com/abconcerts">instagram</a>
+                            <a class="page-nav__social-item icon -facebook" href="https://www.facebook.com/AncienneBelgiqueAB/">facebook</a>
+                            <a class="page-nav__social-item icon -youtube" href="https://www.youtube.com/anciennebelgique?sub_confirmation=1">youtube</a>
+                            <a class="page-nav__social-item icon -spotify" href="https://open.spotify.com/user/1127309941">spotify</a>
+                            <a class="page-nav__social-item icon -tiktok" href="https://www.tiktok.com/@abconcerts">tiktok</a>
+                    </div>
+
+        <a href="https://www.abconcerts.be/en/project/liveurope/a1I5J000000VT9UUAW" class="liveurope">
+            <img src="/assets/website/components/partners/liveurope.3591794e.png" alt="liveurope" height="30" />
+        </a>
+    </div>
+    </div>
+</div>
+    
+            <form action="/en/search" method="get"
+      class="page-search"
+      data-component="pageSearch/page-search" autocomplete="off">
+    <div class="site-container">
+        <div class="site-container page-search__container" data-page-search-container>
+            <span class="page-search__title">What are you looking for?</span>
+            <input type="search" name="q" class="form__field -page-search" placeholder="Search term"
+                   data-page-search-input data-autocomplete-uri="/en/search/autocomplete" autocomplete="off"
+                   >
+            <button type="submit" class="page-search__button icon -arrow-right">Search</button>
+        </div>
+        <button type="button" class="page-search__close icon -cross" data-page-search-toggle>Close</button>
+    </div>
+</form>
+    
+                <header class="page-header -fun">
+    <div class="site-container">
+        <a href="/en/" class="logo page-header__logo -bg -general -fun">
+    <span class="logo__ab">Ancienne Belgique</span>
+</a>
+
+        <div class="page-header__left">
+            <button class="menu-button" type="button" data-component="menuButton/menu-button" data-page-nav-toggle>
+                <span class="menu-button__hamburger">
+                    <span class="menu-button__hamburger-inner"></span>
+                </span>
+            </button>
+
+            <a href="/en/agenda" class="page-header__link -program">Agenda</a>
+
+            <a href="https://www.abconcerts.be/en/project/liveurope/a1I5J000000VT9UUAW" class="page-header__liveurope">
+                <img src="/assets/website/components/partners/liveurope-purple.ac3b0681.png" alt="liveurope" height="30" />
+            </a>
+        </div>
+
+        <div class="page-header__right">
+                            <a href="/en/my-ab/login" class="page-header__link"
+                   data-component="myAB/login">My AB</a>
+            
+            <ul class="dropdown -language">
+                <li class="dropdown__trigger">
+                    <span class="page-header__link">en <em class="icon -arrow-down"></em></span>
+
+                    <ul class="dropdown__panel">
+                                                    <li ><a
+                                        class="dropdown__link" href="https://www.abconcerts.be/nl/">NL</a></li>
+                                                    <li ><a
+                                        class="dropdown__link" href="https://www.abconcerts.be/fr/">FR</a></li>
+                                                    <li class="-hidden"><a
+                                        class="dropdown__link" href="https://www.abconcerts.be/en/">EN</a></li>
+                                            </ul>
+                </li>
+            </ul>
+
+            <a href="/en/search" class="page-header__link icon -search"
+               data-page-search-toggle>Search</a>
+        </div>
+    </div>
+</header>
+    
+    <main class="main ">
+        
+    <section class="jumbotron__container -fun">
+    <div class="site-container">
+        <div class="jumbotron">
+            <div class="jumbotron__events splide -jumbotron" data-component="jumbotron/jumbotron">
+                                    <div class="splide__track">
+                        <ul class="jumbotron__events__list splide__list">
+                                                        <li class="splide__slide" data-type="-fun">
+                                    <a href="/en/agenda/75th-birthday-party-with-horace-andy-dub-asante-band-matic-horns-youth/a10Qw00000I9LCXIA3" class="jumbotron__event -fun" title="75th Birthday Party with Horace Andy &amp; Dub Asante Band, Matic Horns &amp; Youth">
+    <div class="jumbotron__event__img">
+                    <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000ObC7dMAF_1240x720.jpg" alt="75th Birthday Party with Horace Andy &amp; Dub Asante Band, Matic Horns &amp; Youth" />
+            </div>
+
+    <div class="jumbotron__event__info">
+        <strong class="jumbotron__event__title -small">
+            75th Birthday Party with Horace Andy &amp; Dub Asante Band, Matic Horns &amp; Youth
+                            <em>+ Roots Warriors, YOUTH</em>
+                    </strong>
+
+                    <span class="jumbotron__event__date">
+                                    Thu 17 Dec 26
+                            </span>
+        
+                    <span class="jumbotron__event__tickets">
+                <em class="icon -hand"></em> Buy tickets
+            </span>
+            </div>
+    </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                    <div class="splide__arrows jumbotron__arrows -hide">
+                        <button class="splide__arrow splide__arrow--prev jumbotron__arrow">
+                            <em class="icon -arrow-left"></em>
+                        </button>
+                        <button class="splide__arrow splide__arrow--next jumbotron__arrow">
+                            <em class="icon -arrow-right"></em>
+                        </button>
+                    </div>
+                            </div>
+            <aside class="jumbotron__aside">
+                                <a href="/en/news/become-abs-new-in-house-photographer/a1eQw000006JNK1IAO" class="jumbotron__aside__item" title="Become AB’s new in-house photographer">
+            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Q4RNdMAN_700x700.jpg" alt="Become AB’s new in-house photographer" />
+    
+    <div class="jumbotron__aside__item__info">
+                <strong class="jumbotron__aside__item__title ">Become AB’s new in-house photographer</strong>
+                    <small class="jumbotron__aside__item__extra">WED 22 JUL 26 | Stories</small>
+                    </div>
+</a>
+                                <a href="/en/project/john-coltrane-100/a1IQw000002n72PMAQ" class="jumbotron__aside__item" title="(John) Coltrane 100">
+            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000NmUEfMAN_700x700.jpg" alt="(John) Coltrane 100" />
+    
+    <div class="jumbotron__aside__item__info">
+                <strong class="jumbotron__aside__item__title ">(John) Coltrane 100</strong>
+                    </div>
+</a>
+                            </aside>
+        </div>
+    </div>
+    <div class="jumbotron__bg"></div>
+</section>
+
+            <section class="content-cards__container">
+            <div class="site-container">
+                <strong class="content-cards__title">Spotlight</strong>
+                <a href="/en/agenda?just_announced=on"
+                   class="content-cards__button button -just-announced">Just announced <em
+                            class="icon -arrow-right"></em></a>
+
+                <ul class="content-card__list -rows -events">
+                                            <li class="content-card__list__row">
+                            <a href="/en/project/de-kleine-boterhammen/a1IQw000002tL2fMAE" class="content-card -family" title="De Kleine Boterhammen">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PCgt7MAD_1240x720.jpg" alt="De Kleine Boterhammen" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                De Kleine Boterhammen
+                            </strong>
+                                    
+            
+                            <span class="content-card__info__ticketlink ">
+                    <em class="icon -hand"></em>Read more
+                </span>
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                        </li>
+                                            <li class="content-card__list__row">
+                            <a href="/en/agenda/kanonenfieber/a10Qw00000FITR7IAP" class="content-card -fun" title="Kanonenfieber">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Q9VQJMA3_1240x720.jpg" alt="Kanonenfieber" />
+            
+            
+                    </div>
+                            <div class="content-card__media__label ">Wed 1 Dec 27</div>
+            </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Kanonenfieber
+                            </strong>
+                                        <p class="content-card__info__summary">
+                    ‘Kriegstage 2027’
+                                    </p>
+                        
+            
+                            <span class="content-card__info__ticketlink ">
+                    <em class="icon -hand"></em>Buy tickets
+                </span>
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                        </li>
+                                            <li class="content-card__list__row">
+                            <a href="/en/agenda/poulycroc/a10Qw00000ELlv9IAD" class="content-card -fun" title="Poulycroc">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000OaiuMMAR_1240x720.jpg" alt="Poulycroc" />
+            
+            
+                    </div>
+                            <div class="content-card__media__label ">Sat 12 Jun 27</div>
+            </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Poulycroc
+                            </strong>
+                                        <p class="content-card__info__summary">
+                    Poulycroc celebrates its 30th anniversary: the concert!
+                                    </p>
+                        
+            
+                            <span class="content-card__info__ticketlink ">
+                    <em class="icon -hand"></em>Buy tickets
+                </span>
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                        </li>
+                                    </ul>
+
+                <div class="content-cards__action -all">
+                    <div class="-mobile">
+                        <a href="/en/agenda?just_announced=on"
+                           class="button -just-announced">Just announced <em
+                                    class="icon -arrow-right"></em></a>
+                    </div>
+                    <a href="/en/agenda" class="button -agenda">All concerts <em
+                                class="icon -arrow-right"></em></a>
+                </div>
+            </div>
+        </section>
+    
+    <section class="cta__container ">
+    <div class="site-container">
+        <a href="/en/my-ab/artists/import?update=1"
+           class="cta -family">
+                            <strong class="cta__title">Be the first to find out when your favourite artists will be visiting AB.</strong>
+            
+                            <ul class="cta__list">
+                    <li class="cta__list__item"><em class="icon -spotify"></em></li>
+                    <li class="cta__list__item"><em class="icon -playlist"></em></li>
+                    <li class="cta__list__item"><em class="icon -tidal"></em></li>
+                </ul>
+            
+            <div class="cta__button">
+                <span class="button">
+                                            Import your favourites
+                                    </span>
+            </div>
+        </a>
+    </div>
+</section>
+
+            <section class="content-cards__container -full -purple">
+            <div class="site-container splide -content-cards" data-component="contentCard/content-cards" data-autoplay="false">
+                <strong class="content-cards__title">News</strong>
+                <a href="/en/news"
+                   class="content-cards__button button -general -desktop -news">More news <em
+                            class="icon -arrow-right"></em></a>
+
+                <div class="splide__arrows content-cards__arrows ">
+                    <button class="splide__arrow splide__arrow--prev content-cards__arrow">
+                        <em class="icon -arrow-left"></em>
+                    </button>
+                    <button class="splide__arrow splide__arrow--next content-cards__arrow">
+                        <em class="icon -arrow-right"></em>
+                    </button>
+                </div>
+
+                <div class="splide__track">
+                    <ul class="content-card__list splide__list -overview">
+                                                    <li class="splide__slide">
+                                <a href="/en/news/enjoy-some-sunny-tunes-while-ab-is-closed-for-the-summer-break/a1eQw000006FuJNIA0" class="content-card" title="Enjoy some sunny tunes while AB is closed for the summer break">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PeJyPMAV_1240x720.jpg" alt="Enjoy some sunny tunes while AB is closed for the summer break" />
+            
+                            <span class="content-card__icon">
+                    <em class="icon -playlist"></em>
+                </span>
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Enjoy some sunny tunes while AB is closed for the summer break
+                            </strong>
+                            <p class="content-card__info__extra">
+                    THU 9 JUL 26 | Listen
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/jean-dl/a1eQw000006PNafIAG" class="content-card" title="Jean D.L.">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000QAPZFMA5_1240x720.jpg" alt="Jean D.L." />
+            
+                            <span class="content-card__icon">
+                    <em class="icon -brdcst"></em>
+                </span>
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Jean D.L.
+                            </strong>
+                            <p class="content-card__info__extra">
+                    FRI 24 JUL 26 | BRDCST
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/tashi-dorji/a1eQw000006MOY5IAO" class="content-card" title="Tashi Dorji">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000Q4mdNMAR_1240x720.jpg" alt="Tashi Dorji" />
+            
+                            <span class="content-card__icon">
+                    <em class="icon -brdcst"></em>
+                </span>
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Tashi Dorji
+                            </strong>
+                            <p class="content-card__info__extra">
+                    WED 22 JUL 26 | BRDCST
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/ab-is-looking-for-an-intern-to-support-ab-lab-fmx/a1eQw000006IpGjIAK" class="content-card" title="AB is looking for an intern to support AB Lab (f/m/x)">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PqLwPMAV_1240x720.jpg" alt="AB is looking for an intern to support AB Lab (f/m/x)" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                AB is looking for an intern to support AB Lab (f/m/x)
+                            </strong>
+                            <p class="content-card__info__extra">
+                    FRI 17 JUL 26 | Vacancies
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/rewatch-cabaret-voltaire-live-at-ab/a1eQw000006CFkbIAG" class="content-card" title="Rewatch  Cabaret Voltaire live at AB">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PSKIMMA5_1240x720.jpg" alt="Rewatch  Cabaret Voltaire live at AB" />
+            
+                            <span class="content-card__icon">
+                    <em class="icon -abtv"></em>
+                </span>
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Rewatch  Cabaret Voltaire live at AB
+                            </strong>
+                            <p class="content-card__info__extra">
+                    FRI 3 JUL 26 | ABtv
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/ab-session-with-kids-with-buns/a1eQw000006CRiXIAW" class="content-card" title="AB Session with Kids With Buns">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PSHnWMAX_1240x720.jpg" alt="AB Session with Kids With Buns" />
+            
+                            <span class="content-card__icon">
+                    <em class="icon -abtv"></em>
+                </span>
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                AB Session with Kids With Buns
+                            </strong>
+                            <p class="content-card__info__extra">
+                    FRI 3 JUL 26 | ABtv
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/album-of-the-week-doctrine-of-love-jalen-ngonda/a1eQw000006AcmvIAC" class="content-card" title="Album of the week: &#039;Doctrine Of Love&#039; - Jalen Ngonda">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PNC8XMAX_1240x720.jpg" alt="Album of the week: &#039;Doctrine Of Love&#039; - Jalen Ngonda" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Album of the week: &#039;Doctrine Of Love&#039; - Jalen Ngonda
+                            </strong>
+                            <p class="content-card__info__extra">
+                    WED 1 JUL 26 | Stories
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/building-your-own-world-through-music-all-turn-showcase/a1eQw0000068lfpIAA" class="content-card" title="Building your own world through music — All-Turn Showcase">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000PGAORMA5_1240x720.jpg" alt="Building your own world through music — All-Turn Showcase" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Building your own world through music — All-Turn Showcase
+                            </strong>
+                            <p class="content-card__info__extra">
+                    MON 29 JUN 26 | Stories
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/rewatch-the-streets-live-at-ab/a1eQw0000066x8PIAQ" class="content-card" title="Rewatch The Streets live at AB">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000P9vGuMAJ_1240x720.jpg" alt="Rewatch The Streets live at AB" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                Rewatch The Streets live at AB
+                            </strong>
+                            <p class="content-card__info__extra">
+                    THU 25 JUN 26 | Stories
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                                    <li class="splide__slide">
+                                <a href="/en/news/when-passion-drives-community/a1eQw0000066ol3IAA" class="content-card" title="When passion drives community">
+    <div class="content-card__media">
+        <div class="content-card__img">
+                            <img src="https://d12xfkzf9kx8ij.cloudfront.net/a0KQw00000P9ZUnMAN_1240x720.jpg" alt="When passion drives community" />
+            
+            
+                    </div>
+                    </div>
+    <div class="content-card__info">
+        <div>
+            <strong class="content-card__title">
+                When passion drives community
+                            </strong>
+                            <p class="content-card__info__extra">
+                    THU 25 JUN 26 | Stories
+                </p>
+                                    
+            
+            
+            
+            
+            
+                    </div>
+
+        
+    </div>
+</a>
+                            </li>
+                                            </ul>
+                </div>
+            </div>
+            <div class="container content-cards__action -mobile -button">
+                <a href="/en/news" class="button -general -news">More news <em
+                            class="icon -arrow-right"></em></a>
+            </div>
+        </section>
+    
+    <section class="newsletter__container  -rebellious" id="newsletter">
+    <div class="site-container">
+        <form action="/en/newsletter/subscribe" class="newsletter" method="post" data-component="form/form" data-lang="en" autocomplete="off">
+            More music in your inbox? Register for the newsletter:
+
+            <div class="newsletter__input form__entry">
+                <input type="email" name="email" class="form__field -newsletter" required placeholder="ab@loves.you" autocomplete="off" >
+                <button type="submit" class="newsletter__button icon -arrow-right">Subscribe</button>
+
+                <div class="form__entry -checkbox">
+                    <input
+                        class="form__checkbox"
+                        type="checkbox"
+                        id="newsletter_consent"
+                        name="consent"
+                        required
+                    >
+                    <label class="form__label -checkbox" for="newsletter_consent">I accept that AB processes my email address as described in their <a href="/en/privacy-policy" target="_blank">privacy policy</a>, in order to send me newsletters.</label>
+                </div>
+
+                            </div>
+        </form>
+    </div>
+</section>
+
+        <section class="info-cards__container">
+        <div class="site-container splide -info-cards" data-component="infoCards/info-cards">
+            <strong class="info-cards__title">Prepare for your visit</strong>
+
+            <div class="splide__track">
+                <ul class="info-cards__lists splide__list">
+                                            <li class="splide__slide">
+                            <div class="info-card">
+        <a href="/en/visitor-info/mobility" title="Mobility" >            <img src="/assets/website/components/infoCards/mobility.9637afaa.svg" title="Mobility" alt="Mobility" />
+                <strong class="info-card__title">Mobility</strong>
+        <p >Our concerts usually stop at 10:30 pm. That way you can still get home by public transport.</p>
+            <button class="button" data-trigger-fetch>
+                        Plan your route
+                            <em class="icon -arrow-right -small"></em>
+                                </button>
+            </a></div>
+                        </li>
+                                            <li class="splide__slide">
+                            <div class="info-card">
+        <a href="/en/faq" title="Questions &amp; Answers" >            <img src="/assets/website/components/infoCards/cafe-resto.8e1f723e.svg" title="Questions &amp; Answers" alt="Questions &amp; Answers" />
+                <strong class="info-card__title">Questions &amp; Answers</strong>
+        <p >Have a question? There&#039;s a good chance you&#039;ll find your answer here. </p>
+            <button class="button" data-trigger-fetch>
+                        Find your answer
+                            <em class="icon -arrow-right -small"></em>
+                                </button>
+            </a></div>
+                        </li>
+                                            <li class="splide__slide">
+                            <div class="info-card">
+        <a href="/en/my-ab/login?referer=https://apps.ticketmatic.com/widgets/ab/flow/drankjetons?event=226287871004&amp;l=en
+" title="Drink tokens" >            <img src="/assets/website/components/infoCards/drinks.b526dcb8.svg" title="Drink tokens" alt="Drink tokens" />
+                <strong class="info-card__title">Drink tokens</strong>
+        <p >Like to plan ahead? Buy your drink tokens online — 10 + 1 free!</p>
+            <button class="button" data-trigger-fetch>
+                        Order Drink tokens
+                            <em class="icon -arrow-right -small"></em>
+                                </button>
+            </a></div>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </section>
+    </main>
+
+                <footer class="page-footer">
+    <section class="page-footer__social ">
+        <div class="site-container">
+                            <a class="page-footer__social-item icon -instagram" href="https://instagram.com/abconcerts" target="_blank">instagram</a>
+                            <a class="page-footer__social-item icon -facebook" href="https://www.facebook.com/AncienneBelgiqueAB/" target="_blank">facebook</a>
+                            <a class="page-footer__social-item icon -youtube" href="https://www.youtube.com/anciennebelgique?sub_confirmation=1" target="_blank">youtube</a>
+                            <a class="page-footer__social-item icon -spotify" href="https://open.spotify.com/user/1127309941" target="_blank">spotify</a>
+                            <a class="page-footer__social-item icon -tiktok" href="https://www.tiktok.com/@abconcerts" target="_blank">tiktok</a>
+                    </div>
+    </section>
+
+    <section class="page-footer__top">
+        <div class="site-container">
+
+            <a href="/en/" class="logo -stroke -general ">
+    <span class="logo__ab">Ancienne Belgique</span>
+</a>
+
+            <div class="page-footer__nav">
+                <span class="page-footer__nav-title">Go to</span>
+                <ul class="page-footer__nav-list">
+                                            <li><a class="page-footer__nav-item" href="/en/agenda">Events</a></li>
+                                            <li><a class="page-footer__nav-item" href="/en/news">News</a></li>
+                                            <li><a class="page-footer__nav-item" href="https://www.abconcerts.be/en/visitor-info/ticketinfo">Ticket info</a></li>
+                                            <li><a class="page-footer__nav-item" href="/en/faq">Questions &amp; answers</a></li>
+                                            <li><a class="page-footer__nav-item" href="https://www.abconcerts.be/en/your-event-at-ab">Venue hire</a></li>
+                                            <li><a class="page-footer__nav-item" href="/en/press">Press</a></li>
+                                            <li><a class="page-footer__nav-item" href="https://www.abconcerts.be/en/technical-production">Technical production</a></li>
+                                            <li><a class="page-footer__nav-item" href="https://www.abconcerts.be/en/contact">Contact</a></li>
+                                    </ul>
+            </div>
+
+            <form action="/en/newsletter/subscribe" class="page-footer__newsletter" id="newsletter_footer" data-component="form/form" method="post" data-lang="en" autocomplete="off">
+                More music in your inbox? Register for the newsletter:
+
+                <div class="page-footer__newsletter__input form__entry">
+                    <input type="hidden" name="footer" value="1" />
+                    <input type="email" name="email" class="form__field -newsletter" required placeholder="ab@loves.you" autocomplete="off">
+
+                    <div class="form__entry -checkbox">
+                        <input
+                            class="form__checkbox"
+                            type="checkbox"
+                            id="footer_consent"
+                            name="consent"
+                            required
+                        >
+                        <label class="form__label -checkbox" for="footer_consent">I accept that AB processes my email address as described in their <a href="/en/privacy-policy" target="_blank">privacy policy</a>, in order to send me newsletters.</label>
+                    </div>
+
+                    <button type="submit" class="page-footer__newsletter__button icon -arrow-right">Subscribe</button>
+                </div>
+                            </form>
+
+        </div>
+    </section>
+
+    <section class="page-footer__partners">
+        <div class="site-container">
+            <ul class="partners-list">
+            <li>
+            <a class="partners-item" href="https://www.belgiantrain.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/nmbs.7fd5e478.svg" alt="NMBS"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.belfius.be/retail/nl/producten/sparen-beleggen/rebel/index.aspx" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/rebelbybelfius.032155fb.png" alt="Rebel by Belfius"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.nationale-loterij.be/nl" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/lotto.8071c630.svg" alt="Lotto"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://super8.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/super8.bf4809d5.svg" alt="Super 8"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://nl.coca-cola.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/coca-cola.2f087b5b.svg" alt="Coca-cola"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.proximus.be/nl" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/proximus.e8491a2c.svg" alt="Proximus"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.stib-mivb.be/article.html?l=nl&amp;_guid=30fa3e16-098e-3410-a38a-c8fdc3647d64" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/mivb.b896fdf6.svg" alt="MIVB/STIB"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.humo.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/humo.6cc94c19.svg" alt="Humo"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.brussel.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/bxl.624cf33e.svg" alt="Brussel"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.stubru.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/stubru.b419b9cf.svg" alt="StuBru"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.lesoir.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/lesoir.154b72c5.svg" alt="Le Soir"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.standaard.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/destandaard.a13759e7.svg" alt="De Standaard"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.bruzz.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/bruzz.dada120c.svg" alt="Bruzz" height="18" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.levif.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/levif.caa49dc8.svg" alt="Le Vif" height="18" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.vlaanderen.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/vlaanderen.51dc2dbc.svg" alt="Vlaanderen"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.radio1.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/radio1.031c3ed7.svg" alt="Radio 1"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.vgc.be/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/vgc.b7b4184d.svg" alt="Vlaamse gemeenschapscommissie"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://ec.europa.eu/info/index_nl" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/creative-europe.aff93d04.png" alt="Creative Europe"  />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://volta.brussels/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/volta.7c5dcb93.svg" alt="VOLTA" height="23" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.rtbf.be/tipik" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/tipik.50d233eb.svg" alt="TIP!K" height="23" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.rtbf.be/tarmac" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/tarmac.8a121329.svg" alt="Tarmac" height="23" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.rtbf.be/classic21" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/classic21.f5e950a1.svg" alt="Classic 21" height="23" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.visit.brussels/" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/visit-brussels.d7fe8fce.svg" alt="Visit Brussels" height="32" />
+            </a>
+        </li>
+            <li>
+            <a class="partners-item" href="https://www.boltenergie.be" target="_blank" rel="nofollow noopener">
+                <img src="/assets/website/components/partners/bolt.2d777861.svg" alt="Bolt" height="23" />
+            </a>
+        </li>
+    </ul>
+        </div>
+    </section>
+
+    <section class="page-footer__credits">
+        <div class="site-container">
+            <ul class="page-footer__credits__list">
+                                                            <li><a class="page-footer__credits-item" href="https://www.abconcerts.be/en/privacy-policy">Privacy policy</a></li>
+                                            <li><a class="page-footer__credits-item" href="https://www.abconcerts.be/en/cookie-policy">Cookie policy</a></li>
+                                            <li><a class="page-footer__credits-item" href="https://www.abconcerts.be/en/sales-conditions">Sales conditions</a></li>
+                                                    <li><a class="page-footer__credits-item" href="https://verveagency.com" target="_blank">Design by <img src="/assets/website/components/partners/verve.5e584450.svg" alt="Verve" height="15" /></a></li>
+                <li><a class="page-footer__credits-item -inventis" href="https://www.inventis.be" target="_blank">Website by <img src="/assets/website/components/partners/inventis.26988522.svg" alt="Inventis" height="15" /></a></li>
+            </ul>
+        </div>
+    </section>
+</footer>
+    
+
+                    <dialog class="cookie-consent" data-component="cookieConsent/cookie-consent">
+        <article class="cookie-consent__inner">
+            <header class="cookie-consent__header">
+                <h1 class="cookie-consent__title">Our website uses cookies to rock your online experience ??</h1>
+            </header>
+
+            <p>We make use of cookies to improve your surfing experience, to offer features such as displaying YouTube videos and to analyse website traffic. We also share information about your use of this site with our trusted social media and analytics partners. <a href="/en/cookie-policy">More info</a></p>
+
+            <form method="dialog" class="cookie-consent__form" id="cookie-constent-dialog">
+                <section class="cookie-consent__options" id="cookie-consent-options" hidden>
+                    <div class="form__entry -checkbox">
+                        <input
+                            class="form__checkbox"
+                            type="checkbox"
+                            id="categories_functional"
+                            name="categories_default"
+                            value="functional"
+                            checked
+                            disabled
+                        >
+                        <label class="form__label -checkbox" for="categories_functional">Functional cookies</label>
+                        <span class="cookie-consent__option-description">These cookies are necessary for the correct functioning of the website. You can’t refuse them.</span>
+                    </div>
+
+                    <div class="form__entry -checkbox">
+                        <input
+                            class="form__checkbox"
+                            type="checkbox"
+                            id="categories_analytics"
+                            name="categories[]"
+                            value="analytics"
+                        >
+                        <label class="form__label -checkbox" for="categories_analytics">Analytical cookies</label>
+                        <span class="cookie-consent__option-description">This website analyzes its usage so that we can adjust and improve functionality accordingly. The data is completely anonymous.</span>
+                    </div>
+
+                    <div class="form__entry -checkbox">
+                        <input
+                            class="form__checkbox"
+                            type="checkbox"
+                            id="categories_marketing"
+                            name="categories[]"
+                            value="marketing"
+                        >
+                        <label class="form__label -checkbox" for="categories_marketing">Marketing cookies</label>
+                        <span class="cookie-consent__option-description">This website uses external functionality to tailor content and advertisements to your profile.</span>
+                    </div>
+
+                    <div class="cookie-consent__buttons -options">
+                        <button value="save_options" class="button">Save preferences</button>
+                    </div>
+                </section>
+
+                <div class="cookie-consent__buttons -general">
+                    <button value="yes" class="button">Accept</button>
+                    <button class="button -general cookie-consent__options-toggle" aria-expanded="false" aria-controls="cookie-consent-options">Manage preferences</button>
+                </div>
+            </form>
+        </article>
+    </dialog>
+    
+                            <div class="myab-popup">
+                <div class="myab__box">
+    <strong class="myab__box__title">Log in </strong>
+
+    <form action="/en/my-ab/login/controle" method="post" class="form" data-component="form/form" data-lang="en">
+
+        
+        <div class="form__entry">
+            <input
+                class="form__field -text"
+                type="email"
+                id="username"
+                name="_username"
+                required
+                autocomplete="email"
+                value=""
+                data-component="form/hasValue"
+            >
+            <label class="form__label -placeholder-label" for="username">Email</label>
+        </div>
+
+        <div class="form__entry">
+            <input
+                class="form__field -password"
+                type="password"
+                id="password"
+                name="_password"
+                required
+                data-component="form/hasValue"
+                data-validation="false"
+            >
+            <label class="form__label -placeholder-label" for="password">Password</label>
+        </div>
+
+        <div class="form__actions">
+            <button type="submit" class="button -full">Log in</button>
+            <a class="form__link"
+               href="/en/my-ab/password-forgotten">Forgot your password?</a>
+            <div class="form__actions__spacer">or</div>
+            <a href="/en/connect/facebook"
+               class="button -full -outline">Log in with Facebook</a>
+            <a href="/en/connect/google"
+               class="button -full -outline">Log in with Google</a>
+            <a href="/en/connect/apple"
+               class="button -full -outline">Inloggen met Apple</a>
+            <div class="form__actions__spacer -line">
+                <a class="form__link" href="/en/my-ab/register">No account yet?</a>
+            </div>
+        </div>
+    </form>
+</div>
+            </div>
+            
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://www.abconcerts.be/en/"
+        }
+    </script>
+
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "url": "https://www.abconcerts.be/en/",
+            "name": "Ancienne Belgique"
+        }
+    </script>
+
+    <script src="/assets/website/runtime.a3690627.js" nonce="ar1deNtrR4CLqXSprz6EFw=="></script>
+    <script src="/assets/website/components/componentLoader/document-component-loader.e70e2fa5.js" nonce="ar1deNtrR4CLqXSprz6EFw=="></script>
+
+    </body>
+</html>

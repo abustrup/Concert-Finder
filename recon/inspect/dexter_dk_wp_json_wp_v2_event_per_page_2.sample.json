@@ -1,0 +1,190 @@
+[
+ {
+  "id": 23110,
+  "date": "2026-08-12T11:45:50",
+  "date_gmt": "2026-08-12T09:45:50",
+  "guid": {
+   "rendered": "https://dexter.dk/?post_type=event&#038;p=23110"
+  },
+  "modified": "2026-08-12T11:45:51",
+  "modified_gmt": "2026-08-12T09:45:51",
+  "slug": "the-tremolo-beer-gut",
+  "status": "publish",
+  "type": "event",
+  "link": "https://dexter.dk/event/the-tremolo-beer-gut/",
+  "title": {
+   "rendered": "The Tremolo Beer Gut"
+  },
+  "content": {
+   "rendered": "\n<p><strong>Sommeren 2026 bød på udgivelsen af ​​The Tremolo Beer Guts niende album – Monkey Drums &amp; Tiki Drinks!</strong></p>\n\n\n\n<p>Albummet er optaget helt analogt i henholdsvis Viktoria Studios i København og Gula Studion i Malmø og vil endnu en gang præsentere en slagkraftig, erotisk, mørk og farlig samling af sange, der rummer bandets karakteristiske lyd og den stemningsfulde, filmiske sangskrivning, som har gjort dem til et førende navn på den internationale surfrock-scene.</p>\n\n\n\n<p>Det internationale surfrock-miljøs &#8220;sorte får&#8221; er stadig i fremgang. Efter tidligere at have udgivet otte album over en periode på 25 år er The Tremolo Beer Gut fortsat en magtfaktor på scener verden over. I de seneste par år har de turneret kloden rundt og leveret rock&#8217;n&#8217;roll-shows præget af røg og silhuetter.</p>\n",
+   "protected": false
+  },
+  "featured_media": 23111,
+  "template": "",
+  "event_type": [
+   8
+  ],
+  "class_list": [
+   "post-23110",
+   "event",
+   "type-event",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "type-rock"
+  ],
+  "acf": [],
+  "publishpress_future_action": {
+   "enabled": true,
+   "date": "2027-05-08 05:00:00",
+   "action": "change-status",
+   "newStatus": "draft",
+   "terms": [],
+   "taxonomy": "type"
+  },
+  "publishpress_future_workflow_manual_trigger": {
+   "enabledWorkflows": []
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/event/23110",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://dexter.dk/wp-json/wp/v2/media/23111"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/media?parent=23110"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "type",
+     "embeddable": true,
+     "href": "https://dexter.dk/wp-json/wp/v2/event_type?post=23110"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 23104,
+  "date": "2026-08-11T07:04:23",
+  "date_gmt": "2026-08-11T05:04:23",
+  "guid": {
+   "rendered": "https://dexter.dk/?post_type=event&#038;p=23104"
+  },
+  "modified": "2026-08-11T07:04:24",
+  "modified_gmt": "2026-08-11T05:04:24",
+  "slug": "bo-stiefs-musikorkester-den-evige-droem",
+  "status": "publish",
+  "type": "event",
+  "link": "https://dexter.dk/event/bo-stiefs-musikorkester-den-evige-droem/",
+  "title": {
+   "rendered": "Bo Stief`s Musikorkester ”Den evige drøm”"
+  },
+  "content": {
+   "rendered": "\n<p><strong>I oktober 2026 fylder den altid aktive og tændte musiker, Bo Stief, som gennem tiderne har sat sit store præg på musiklivet, 80 år</strong></p>\n\n\n\n<p>Bo er en højenergisk og passioneret bassist, der tilhører den store danske og internationalt kendte ”højeste plan” basgeneration, som opstod i miljøet omkring Montmartre for 60 år siden. Gennem tiden har han på verdensplan spillet med de bedste fra alle genrer, og han har sat sit dybe aftryk på mange planer i musiklivet blandt andet som bassistforbillede, bandleader, komponist, producer og mentor.</p>\n\n\n\n<p>Det runde hjørne fejres med dannelsen af drømmebandet. Et fremadskuende, virkningsfuldt, festligt og inkluderende nyt musikorkester, hvor den nye generation af ekstraordinære musikalske stjerner, der er i tyverne og trediverne, er med.</p>\n\n\n\n<p>Bo Stief omgiver sig med nøje udvalgte virtuose og originale favoritmusikere, som han på et tidspunkt har været mentor for. Musikerne kommer fra forskellige dele af musikkens verden, og de er alle gået fra at være specielt talentfulde til at blive store visionære, kreative personligheder med udstråling, og alle har en bred alsidig musikalsk kunnen og ”ka´ selv”.</p>\n\n\n\n<p>Musikken er livsbekræftende opturs-NU-musik med saft og kraft, som uden grænser krydser mange genrer og afspejler Stiefs alsidige og fantastiske internationale karriere. Der satses på musik, der virker og appelerer med lytteren i centrum.</p>\n\n\n\n<p>Den meget usædvanlige sammensætning af instrumenter og musikernes meget forskellige baggrunde resulterer i en hel original bandlyd. Her og nu, spontan, vild, udfordrende, poetisk, kaotisk, forunderlig, stemningsfuld, vital, dynamisk og udfarende musikoplevelse.</p>\n\n\n\n<p>Rasmus Mikkelsen, trompet, og Mads Nørgaard (Lucky Lo), guitar, er begge virtuose, åbne, alsidige og efterspurgte fornyere både på rock og på jazzscenen.</p>\n\n\n\n<p>De øvrige to udgør den specielle nytænkende duo ”Dybfølt” med Kirstine Elise Petersen, cello, og Mathæus Bech, kontrabas. En duo med stor sucess i det moderne klassiske musikliv (P2 prismodtagere). Deres virke involverer også folkemusik og mange nye pop og rock-sammenhænge (Guldimund).</p>\n\n\n\n<p>Båret af passion samles alle disse inspirationer i en fremadrettet optimistisk kollektiv.</p>\n\n\n\n<p>Kirstine Elise Petersen, cello</p>\n\n\n\n<p>Mathæus Bech, kontrabas</p>\n\n\n\n<p>Mads Nørgaard, guitar</p>\n\n\n\n<p>Rasmus Mikkelsen, trompet</p>\n\n\n\n<p>Bo Stief Kontrabas, elbas og koncertdesign</p>\n",
+   "protected": false
+  },
+  "featured_media": 23106,
+  "template": "",
+  "event_type": [
+   22
+  ],
+  "class_list": [
+   "post-23104",
+   "event",
+   "type-event",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "type-jazz"
+  ],
+  "acf": [],
+  "publishpress_future_action": {
+   "enabled": true,
+   "date": "2026-10-09 05:00:00",
+   "action": "change-status",
+   "newStatus": "draft",
+   "terms": [],
+   "taxonomy": "type"
+  },
+  "publishpress_future_workflow_manual_trigger": {
+   "enabledWorkflows": []
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/event/23104",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://dexter.dk/wp-json/wp/v2/media/23106"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://dexter.dk/wp-json/wp/v2/media?parent=23104"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "type",
+     "embeddable": true,
+     "href": "https://dexter.dk/wp-json/wp/v2/event_type?post=23104"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]

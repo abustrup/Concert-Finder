@@ -1,0 +1,1237 @@
+
+<!DOCTYPE html>
+<html lang="fr-FR">
+
+<head>
+  <meta charset="UTF-8">
+  
+  <meta name="theme-color" content="#161616" />
+  <meta name="color-scheme" content="dark light">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <link rel="preload" href="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/style.css?v=1727100892" as="style" />
+  <link rel="stylesheet" href="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/style.css?v=1727100892" type="text/css" />
+  <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v25.6 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Le Trabendo &#8211; Trabendo</title>
+	<meta name="description" content="Le Trabendo &#8211; Le Trabendo est une salle de spectacle et de concert parisienne, située dans le Parc de la Villette, Paris." />
+	<link rel="canonical" href="https://www.letrabendo.net/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Le Trabendo - Paris" />
+	<meta property="og:description" content="Le Trabendo est une salle de spectacle et de concert parisienne, située dans le Parc de la Villette, Paris." />
+	<meta property="og:url" content="https://www.letrabendo.net/" />
+	<meta property="og:site_name" content="Trabendo" />
+	<meta property="article:publisher" content="https://www.facebook.com/trabendo.paris/" />
+	<meta property="article:modified_time" content="2026-04-10T09:39:41+00:00" />
+	<meta property="og:image" content="https://www.letrabendo.net/wp-content/uploads/2022/01/latrabendo.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@trabendo_" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.letrabendo.net/","url":"https://www.letrabendo.net/","name":"Le Trabendo &#8211; Trabendo","isPartOf":{"@id":"https://www.letrabendo.net/#website"},"about":{"@id":"https://www.letrabendo.net/#organization"},"datePublished":"2021-09-08T14:52:37+00:00","dateModified":"2026-04-10T09:39:41+00:00","description":"Le Trabendo &#8211; Le Trabendo est une salle de spectacle et de concert parisienne, située dans le Parc de la Villette, Paris.","breadcrumb":{"@id":"https://www.letrabendo.net/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.letrabendo.net/"]}]},{"@type":"BreadcrumbList","@id":"https://www.letrabendo.net/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil"}]},{"@type":"WebSite","@id":"https://www.letrabendo.net/#website","url":"https://www.letrabendo.net/","name":"Trabendo","description":"","publisher":{"@id":"https://www.letrabendo.net/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.letrabendo.net/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.letrabendo.net/#organization","name":"Trabendo","url":"https://www.letrabendo.net/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.letrabendo.net/#/schema/logo/image/","url":"https://www.letrabendo.net/wp-content/uploads/2021/10/favicon2.png","contentUrl":"https://www.letrabendo.net/wp-content/uploads/2021/10/favicon2.png","width":806,"height":806,"caption":"Trabendo"},"image":{"@id":"https://www.letrabendo.net/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/trabendo.paris/","https://x.com/trabendo_","https://www.instagram.com/letrabendo/"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.letrabendo.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.letrabendo.net%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.letrabendo.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.letrabendo.net%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+<style id="wp-block-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer." }
+/*# sourceURL=wp-block-styles-placeholder-inline-css */
+</style>
+<style id="wp-global-styles-placeholder-inline-css">
+:root { --wp-internal-comment: "Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer." }
+/*# sourceURL=wp-global-styles-placeholder-inline-css */
+</style>
+<script id="wphb-1-js" src="https://www.letrabendo.net/wp-content/uploads/hummingbird-assets/122e28cfbcf97e65263be4ed6b287b43.js"></script>
+<link rel="https://api.w.org/" href="https://www.letrabendo.net/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.letrabendo.net/wp-json/wp/v2/pages/5" /><link rel='shortlink' href='https://www.letrabendo.net/' />
+  <!-- Google Tag Manager -->
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-W8W9G6H');
+  </script>
+  <!-- End Google Tag Manager -->
+<link rel="icon" href="https://www.letrabendo.net/wp-content/uploads/2021/10/cropped-favicon2-200x200.png" sizes="32x32" />
+<link rel="icon" href="https://www.letrabendo.net/wp-content/uploads/2021/10/cropped-favicon2-200x200.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.letrabendo.net/wp-content/uploads/2021/10/cropped-favicon2-200x200.png" />
+<meta name="msapplication-TileImage" content="https://www.letrabendo.net/wp-content/uploads/2021/10/cropped-favicon2.png" />
+
+</head>
+<style>
+  .left-menu-footer{
+    width: 25vw;
+  }
+</style>
+<body class="home wp-singular page-template page-template-home page-template-home-php page page-id-5 wp-theme-letrabendo_fr">
+
+  <!-- Google Tag Manager (noscript) -->
+  <!-- <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8W9G6H"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> -->
+  <!-- End Google Tag Manager (noscript) -->
+        <div id="spotify-iframe" class="desktop">
+      <div id="spotify-close" class="close-iframe || closepop"><img class="centerxy" src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/closepop.svg" alt=""></div>
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3QB46jkbzZtDIyvny4H03c?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
+  
+  <div class="logo-in-nav">
+    <a href="https://www.letrabendo.net/" class="link-act">
+      <h1>Trabendo</h1>
+      <img class="to-load" src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/logo.svg" alt="">
+    </a>
+  </div>
+
+  <div class="nav flex ">
+    <div class="right flex">
+      <ul>
+        <li class="linkmenu programme-menu" id="clickscroll">
+          <a class="link-act" href="https://www.letrabendo.net/programmation">Programmation</a>
+        </li>
+        <li class="linkmenu menu-menu call-menu" id="clickscroll">Menu</li>
+      </ul>
+      <div id="burger" class="call-menu">
+        <span class="animation"></span>
+        <span class="animation"></span>
+        <span class="animation"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="menu">
+  <div class="close-menu call-menu opacity">fermer</div>
+  <div class="left-menu">
+    <div class="left-menu-mask"></div>
+
+    <nav>
+      <ul>
+        <li class="menu-items">
+          <a class="link-act" href="https://www.letrabendo.net/programmation"><span>Programmation</span></a>
+        </li>
+        <li class="menu-items">
+          <a href="https://www.letrabendo.net/billetterie-concert" ><span>Billetterie concert</span></a>
+        </li>
+         <li class="menu-items">
+          <a href="https://www.letrabendo.net/billetterie-club" ><span>Billetterie club</span></a>
+        </li>
+       <!--  <li class="menu-items">
+          <a href="https://shotgun.live/fr/venues/letrabendo" target="_blank"><span>Billetterie</span></a>
+        </li> -->
+        <li class="menu-items">
+          <a class="link-act" href="https://www.letrabendo.net/a-propos"><span>À propos</span></a>
+        </li>
+        <li class="menu-items">
+          <a class="link-act" href="https://www.letrabendo.net/infos-pratiques"><span>Infos pratiques</span></a>
+        </li>
+        <li class="menu-items">
+          <a href="https://trabendo-privatisation.net/" target="_blank"><span>Privatisation</span></a>
+        </li>
+        <li class="menu-items">
+          <a class="link-act" href="https://www.letrabendo.net/contacts"><span>Contacts</span></a>
+        </li>
+      </ul>
+
+      <ul class="nav-otherlinks opacity">
+        <li class="other-links closemenu"><a href="https://www.letrabendo.net/landing_page/nos-valeurs/" class="link-act"><span>Nos valeurs</span></a></li>
+        <li class="other-links"><a href="#" class="inscription-newsletter2">Newsletter</a></li>
+        <li class="other-links closemenu"><a href="https://www.letrabendo.net/politique-de-confidentialites/" class="link-act">Politique de confidentialités</a></li>
+        <li class="other-links closemenu"><a href="https://www.letrabendo.net/mentions-legales/" class="link-act">Mentions légales</a></li>
+      </ul>
+
+      <ul class="nav-credits opacity">
+        <li class="other-links">© 2022 Le Trabendo</li>
+        <li class="other-links"><a href="https://ccccontemple.com" class="" target="_blank">Site web par Contemple Studio</a></li>
+      </ul>
+
+      <ul class="social opacity">
+        <li><a href="https://www.facebook.com/trabendo.paris/" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/fb.svg" alt=""></a></li>
+        <li><a href="" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/tw.svg" alt=""></a></li>
+        <li><a href="https://www.instagram.com/letrabendo/?utm_source=ig_embed" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/ig.svg" alt=""></a></li>
+      </ul>
+    </nav>
+  </div>
+
+            <div class="right-menu is-concert">
+        <div class="right-menu-mask is-concert"></div>
+
+        <a href="https://www.letrabendo.net/programmation/dance-gavin-dance/" class="link-act img-nextgig lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-10-1500x844.jpg">
+          <div class="lespastilles">
+            <div class="pastille concert">Concert</div>
+                      </div>
+        </a>
+
+        <a href="https://www.letrabendo.net/programmation/dance-gavin-dance/" class="link-act info-nextgig">
+                      <div class="flex">
+              <h2 class="date-event">31 <span>―</span> août 2026</h2>
+              <h5 class="style">Post-Hardcore</h5>
+            </div>
+                    <h3 class="name-event">Dance Gavin Dance</h3>
+        </a>
+      </div>
+          
+
+
+</div>
+
+  <div id="preload" class="screen">
+    <div class="pan pan1"></div>
+    <div class="pan pan2"></div>
+    <div class="pan pan3"></div>
+    <div class="pan pan4"></div>
+    <span class="txt-perc">2020000</span>
+  </div>
+  <div class="transition">
+    <div class="pan pan1"></div>
+    <div class="pan pan2"></div>
+    <div class="pan pan3"></div>
+    <div class="pan pan4"></div>
+  </div>
+
+  <!-- POPUP -->
+  
+
+
+  <div class="filtres">
+    <div class="inner_filtre  flex">
+      <div class="filtre-genre">
+        <div class="titre-filtre an-fil">Par genre</div>
+        <div class="filtre_items an-fil">
+          <a class="filtre_item genre" data-target="concert" href="#">Concert</a>
+          <a class="filtre_item genre" data-target="club" href="#">Club</a>
+          <a class="filtre_item genre" data-target="evenement" href="#">Événements</a>
+          <a class="filtre_item genre" data-target="festival" href="#">Festival</a>
+        </div>
+      </div>
+      <div class="filtre-mois">
+        <div class="titre-filtre an-fil">Par mois</div>
+        <div class="filtre_items an-fil">
+          <div class="filtre_item month" data-target="janvier" href="#">Janvier</div>
+          <div class="filtre_item month" data-target="février" href="#">Février</div>
+          <div class="filtre_item month" data-target="mars" href="#">Mars</div>
+          <div class="filtre_item month" data-target="avril" href="#">Avril</div>
+          <div class="filtre_item month" data-target="mai" href="#">Mai</div>
+          <div class="filtre_item month" data-target="juin" href="#">Juin</div>
+          <div class="filtre_item month" data-target="juillet" href="#">Juillet</div>
+          <div class="filtre_item month" data-target="aout" href="#">Août</div>
+          <div class="filtre_item month" data-target="septembre" href="#">Septembre</div>
+          <div class="filtre_item month" data-target="octobre" href="#">Octobre</div>
+          <div class="filtre_item month" data-target="novembre" href="#">Novembre</div>
+          <div class="filtre_item month" data-target="décembre" href="#">Décembre</div>
+        </div>
+      </div>
+      <div class="submits an-fil">
+        <div class="btn valider close-filtre">
+          <div class="btn-c"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow2.svg" alt=""></div>
+          <div class="btn-t"><span>Appliquer</span></div>
+        </div>
+        <div class="btn reset close-filtre">
+          <div class="btn-c"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow2.svg" alt=""></div>
+          <div class="btn-t"><span>Tout voir</span></div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+      <div class="newsletter-entier">
+
+
+            <div class="closenews"><img class="centerxy" src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/closepop.svg" alt=""></div>
+
+
+
+<!-- Begin Sendinblue Form -->
+<!-- START - We recommend to place the below code in head tag of your website html  -->
+<style>
+  @font-face {
+    font-display: swap;
+    font-family: Roboto;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/7529907e9eaf8ebb5220c5f9850e3811.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/normal/normal/25c678feafdc175a70922a116c9be3e7.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Roboto;
+    font-weight: 600;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/6e9caeeafb1f3491be3e32744bc30440.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/medium/normal/71501f0d8d5aa95960f6475d5487d4c2.woff) format("woff")
+  }
+
+  @font-face {
+    font-display: swap;
+    font-family: Roboto;
+    font-weight: 700;
+    src: url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/3ef7cf158f310cf752d5ad08cd0e7e60.woff2) format("woff2"), url(https://assets.sendinblue.com/font/Roboto/Latin/bold/normal/ece3a1d82f18b60bcce0211725c476aa.woff) format("woff")
+  }
+
+  #sib-container input:-ms-input-placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+
+  #sib-container input::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+
+  #sib-container textarea::placeholder {
+    text-align: left;
+    font-family: "Helvetica", sans-serif;
+    color: #c0ccda;
+  }
+</style>
+<link rel="stylesheet" href="https://sibforms.com/forms/end-form/build/sib-styles.css">
+<!--  END - We recommend to place the above code in head tag of your website html -->
+
+<!-- START - We recommend to place the below code where you want the form in your website html  -->
+<div class="sib-form" style="text-align: center;
+         background-color: #EFF2F7;                                 ">
+  <div id="sib-form-container" class="sib-form-container">
+    <div id="error-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 40c118.621 0 216 96.075 216 216 0 119.291-96.61 216-216 216-119.244 0-216-96.562-216-216 0-119.203 96.602-216 216-216m0-32C119.043 8 8 119.083 8 256c0 136.997 111.043 248 248 248s248-111.003 248-248C504 119.083 392.957 8 256 8zm-11.49 120h22.979c6.823 0 12.274 5.682 11.99 12.5l-7 168c-.268 6.428-5.556 11.5-11.99 11.5h-8.979c-6.433 0-11.722-5.073-11.99-11.5l-7-168c-.283-6.818 5.167-12.5 11.99-12.5zM256 340c-15.464 0-28 12.536-28 28s12.536 28 28 28 28-12.536 28-28-12.536-28-28-28z" />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Nous n&#039;avons pas pu confirmer votre inscription.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="success-message" class="sib-form-message-panel" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#085229; background-color:#e7faf0; border-radius:3px; border-color:#13ce66;max-width:540px;">
+      <div class="sib-form-message-panel__text sib-form-message-panel__text--center">
+        <svg viewBox="0 0 512 512" class="sib-icon sib-notification__icon">
+          <path d="M256 8C119.033 8 8 119.033 8 256s111.033 248 248 248 248-111.033 248-248S392.967 8 256 8zm0 464c-118.664 0-216-96.055-216-216 0-118.663 96.055-216 216-216 118.664 0 216 96.055 216 216 0 118.663-96.055 216-216 216zm141.63-274.961L217.15 376.071c-4.705 4.667-12.303 4.637-16.97-.068l-85.878-86.572c-4.667-4.705-4.637-12.303.068-16.97l8.52-8.451c4.705-4.667 12.303-4.637 16.97.068l68.976 69.533 163.441-162.13c4.705-4.667 12.303-4.637 16.97.068l8.451 8.52c4.668 4.705 4.637 12.303-.068 16.97z" />
+        </svg>
+        <span class="sib-form-message-panel__inner-text">
+                          Votre inscription est confirmée.
+                      </span>
+      </div>
+    </div>
+    <div></div>
+    <div id="sib-container" class="sib-container--large sib-container--vertical" style="text-align:center; background-color:rgba(255,255,255,1); max-width:540px; border-radius:3px; border-width:1px; border-color:#C0CCD9; border-style:solid;">
+      <form id="sib-form" method="POST" action="https://841b6c1b.sibforms.com/serve/MUIEAGi0EifroZgYNIj-gmMF3TTnaGcjfwun6pcu4TNjmPVVLIhfOLadLD_nqewSnUyEPX6c-lgyQWfkO184EcoFQlGm0vMjth9_MEwxk2KasWrhc-U8CNwwR12szpNi0mh6hYebY8XR0Ewc7zAiVjq8xnYcNF7iWdoeedAr8DwUYOmuhCTdDW8yRjHP9mwyqeTUwjdoqJ7y3Jh5" data-type="subscription">
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+
+                <div class="entry__field">
+                  <input class="input" maxlength="200" type="text" id="PRENOM" name="PRENOM" autocomplete="off" placeholder="PRENOM" data-required="true" required />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+
+                <div class="entry__field">
+                  <input class="input" maxlength="200" type="text" id="NOM" name="NOM" autocomplete="off" placeholder="NOM" data-required="true" required />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-input sib-form-block">
+            <div class="form__entry entry_block">
+              <div class="form__label-row ">
+
+                <div class="entry__field">
+                  <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
+                </div>
+              </div>
+
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block sib-divider-form-block">
+            <div style="border: 0; border-bottom: 1px solid #E5EDF6"></div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <div class="sib-text-form-block">
+              <p>Type d'événement</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="CONCERT" name="CONCERT" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Concert</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="CLUB" name="CLUB" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Club</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="FESTIVAL" name="FESTIVAL" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Festival</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="EVENEMENT" name="EVENEMENT" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Événement</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block sib-divider-form-block">
+            <div style="border: 0; border-bottom: 1px solid #E5EDF6"></div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;">
+            <div class="sib-text-form-block">
+              <p>Genre</p>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="ROCK_METAL_POSTROCK" name="ROCK_METAL_POSTROCK" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Rock / Metal / Post Rock</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="INDIEROCK_ALTERNATIVE" name="INDIEROCK_ALTERNATIVE" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Indie Rock / Alternative</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="RAP_HIPHOP" name="RAP_HIPHOP" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Rap / Hip Hop</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="ELECTRO" name="ELECTRO" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Electro</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="POP_FOLK" name="POP_FOLK" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Pop / Folk</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="FUNK_SOUL_GOSPEL_JAZZ_BLUES" name="FUNK_SOUL_GOSPEL_JAZZ_BLUES" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Funk / Soul / Gospel / Jazz / Blues</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="REGGAE_DUB" name="REGGAE_DUB" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>Reggae / Dub</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="WORLD" name="WORLD" />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>World</p></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block sib-divider-form-block">
+            <div style="border: 0; border-bottom: 1px solid #E5EDF6"></div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-optin sib-form-block" data-required="true">
+            <div class="form__entry entry_mcq">
+              <div class="form__label-row ">
+                <div class="entry__choice">
+                  <label>
+                    <input type="checkbox" class="input_replaced" value="1" id="OPT_IN" name="OPT_IN" required />
+                    <span class="checkbox checkbox_tick_positive"></span><span style="font-size:14px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#3C4858; background-color:transparent;"><p>J'accepte de recevoir vos e-mails et confirme avoir pris connaissance de votre politique de confidentialité et mentions légales.</p><span data-required="*" style="display: inline;" class="entry__label entry__label_optin"></span></span> </label>
+                </div>
+              </div>
+              <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
+              </label>
+              <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#8390A4;">
+                Vous pouvez vous désinscrire à tout moment en cliquant sur le lien présent dans nos emails.
+              </label>
+            </div>
+          </div>
+        </div>
+        <div style="padding: 8px 0;">
+          <div class="sib-form-block" style="text-align: left">
+            <button class="sib-form-block__button sib-form-block__button-with-loader" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Helvetica&quot;, sans-serif; color:#FFFFFF; background-color:#3E4857; border-radius:3px; border-width:0px;" form="sib-form" type="submit">
+              <svg class="icon clickable__icon progress-indicator__icon sib-hide-loader-icon" viewBox="0 0 512 512">
+                <path d="M460.116 373.846l-20.823-12.022c-5.541-3.199-7.54-10.159-4.663-15.874 30.137-59.886 28.343-131.652-5.386-189.946-33.641-58.394-94.896-95.833-161.827-99.676C261.028 55.961 256 50.751 256 44.352V20.309c0-6.904 5.808-12.337 12.703-11.982 83.556 4.306 160.163 50.864 202.11 123.677 42.063 72.696 44.079 162.316 6.031 236.832-3.14 6.148-10.75 8.461-16.728 5.01z" />
+              </svg>
+              S&#039;INSCRIRE
+            </button>
+          </div>
+        </div>
+
+        <input type="text" name="email_address_check" value="" class="input--hidden">
+        <input type="hidden" name="locale" value="fr">
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- END - We recommend to place the below code where you want the form in your website html  -->
+
+      </div>
+<div data-load-container>
+
+  <div class="o-scroll" id="js-scroll" data-module-scroll>
+    <section class="H-a screen">
+      <div class="slider screen">
+        <div class="imgslides" data-scroll data-scroll-speed="-3.5">
+                                                                                                                                                                                      </div>
+        <div class="nav-slider">
+          <div class="btn-c prev" id="prev-slider"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow.svg" alt=""></div>
+          <div class="btn-c next next-slider" id="next-slider"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow.svg" alt=""></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="inner-wrap p60">
+        <div class="gTitre">
+          <div class="line-flex">
+            <span class="gTitre split" data-scroll>Les</span> <span class="circle-bg anim-H" data-scroll>
+              <svg viewBox="0 0 30 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M15 2C15.5523 2 16 2.44772 16 3V21C16 21.5523 15.5523 22 15 22C14.4477 22 14 21.5523 14 21L14 3C14 2.44772 14.4477 2 15 2Z" fill="currentColor" />
+                <path fill-rule="evenodd" clip-rule="evenodd" d="M23.2808 14.3753C23.6258 14.8066 23.5559 15.4359 23.1247 15.7809L15 22.2807L6.87527 15.7809C6.44401 15.4359 6.37408 14.8066 6.7191 14.3753C7.0641 13.9441 7.6934 13.8742 8.12466 14.2192L15 19.7194L21.8753 14.2192C22.3065 13.8742 22.9358 13.9441 23.2808 14.3753Z" fill="currentColor" />
+              </svg>
+            </span>
+          </div>
+          <div class="line-flex">
+            <span class="gTitre split" data-scroll data-scroll-direction="horizontal" data-scroll-speed="-10">prochains</span>
+          </div>
+          <div class="line-flex">
+            <span class="gTitre split" data-scroll data-scroll-direction="horizontal" data-scroll-speed="3">concerts</span>
+          </div>
+          <div class="line-flex">
+            <span class="gTitre split au" data-scroll>au</span> <span class="gTitre split" data-scroll>trabendo</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+
+
+
+      <div class="inner-wrap flex p60">
+                              <a href="https://www.letrabendo.net/programmation/dance-gavin-dance/" class="link-act FourC bigone event">
+
+
+
+
+              <div class="FourC mea-ingrid cover">
+                <picture>
+                  <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-10-1500x844.jpg" data-sizes="100w" />
+                </picture>
+                <div class="lespastilles">
+                  <div class="pastille concert">Concert</div>
+                  
+                </div>
+              </div>
+              <div class="flex">
+                <h2 class="date-event">31 <span>―</span> août 2026</h2>
+                <h5 class="style">Post-Hardcore</h5>
+              </div>
+              <h3 class="name-event">Dance Gavin Dance</h3>
+            </a>
+                            
+        <div class="FourC flex desktop">
+                                    <a href="https://www.letrabendo.net/programmation/witchz/" class="link-act event">
+
+                <div class="TwoC cover">
+                  <picture>
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2025/10/Image-site-Trabendo-13-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">05 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Electro</h5>
+                </div>
+                <h3 class="name-event twoC-name-event">Witchz</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/spectrum-waves/" class="link-act event">
+
+                <div class="TwoC cover">
+                  <picture>
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-2-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille club">Club</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">05 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Techno</h5>
+                </div>
+                <h3 class="name-event twoC-name-event">Spectrum Waves</h3>
+              </a>
+
+                                            <div class="event TwoC-paysage"></div>
+                                    <a href="https://www.letrabendo.net/programmation/feng/" class="link-act event">
+                <div class="TwoC-paysage">
+                  <picture>
+                    <source type="image/webp" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-2-1500x844.jpg" data-sizes="100w" />
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-2-1500x844.jpg" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-2-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">08 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Rap</h5>
+                </div>
+                <h3 class="name-event">Feng</h3>
+              </a>
+
+                                          </div>
+      </div>
+    </section>
+
+
+
+    <section>
+      <div class="inner-wrap">
+        <div class="carousel-events desktop">
+                                    <a href="https://www.letrabendo.net/programmation/morgan/" class="link-act event">
+                <div class="TwoC-paysage">
+                  <picture>
+                    <source type="image/webp" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/04/Image-site-Trabendo-2-1500x844.png" data-sizes="100w" />
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/04/Image-site-Trabendo-2-1500x844.png" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/04/Image-site-Trabendo-2-1500x844.png" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">10 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Rap</h5>
+                </div>
+                <h3 class="name-event">Morgan</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/rachel-chinouriri/" class="link-act event">
+                <div class="TwoC-paysage">
+                  <picture>
+                    <source type="image/webp" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-3-1500x844.jpg" data-sizes="100w" />
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-3-1500x844.jpg" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-3-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">11 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">R&amp;B</h5>
+                </div>
+                <h3 class="name-event">Rachel Chinouriri</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/holly-humberstone/" class="link-act event">
+                <div class="TwoC-paysage">
+                  <picture>
+                    <source type="image/webp" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-9-1500x844.jpg" data-sizes="100w" />
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-9-1500x844.jpg" data-srcset="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-9-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">15 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Indie Pop</h5>
+                </div>
+                <h3 class="name-event">Holly Humberstone</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/anuv-jain/" class="link-act event">
+                <div class="TwoC-paysage">
+                  <picture>
+                    <source type="image/webp" data-srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Image-site-Trabendo-1-1500x844.jpg" data-sizes="100w" />
+                    <img alt="A lazy image" class="lazy" data-src="https://www.letrabendo.net/wp-content/uploads/2025/11/Image-site-Trabendo-1-1500x844.jpg" data-srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Image-site-Trabendo-1-1500x844.jpg" data-sizes="100w" />
+                  </picture>
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">16 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Indie Pop</h5>
+                </div>
+                <h3 class="name-event">Anuv Jain</h3>
+              </a>
+
+                                          </div>
+        <div class="carousel-events mobile">
+                                    <a href="https://www.letrabendo.net/programmation/spectrum-waves/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-2-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille club">Club</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">05 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Techno</h5>
+                </div>
+                <h3 class="name-event">Spectrum Waves</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/witchz/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2025/10/Image-site-Trabendo-13-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">05 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Electro</h5>
+                </div>
+                <h3 class="name-event">Witchz</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/feng/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-2-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">08 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Rap</h5>
+                </div>
+                <h3 class="name-event">Feng</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/morgan/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/04/Image-site-Trabendo-2-1500x844.png">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">10 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Rap</h5>
+                </div>
+                <h3 class="name-event">Morgan</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/rachel-chinouriri/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/07/Image-site-Trabendo-3-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">11 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">R&amp;B</h5>
+                </div>
+                <h3 class="name-event">Rachel Chinouriri</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/holly-humberstone/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2026/03/Image-site-Trabendo-9-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">15 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Indie Pop</h5>
+                </div>
+                <h3 class="name-event">Holly Humberstone</h3>
+              </a>
+
+                          <a href="https://www.letrabendo.net/programmation/anuv-jain/" class="link-act event">
+                <div class="TwoC-paysage  lazy cover" data-bg="https://www.letrabendo.net/wp-content/uploads/2025/11/Image-site-Trabendo-1-1500x844.jpg">
+                  <div class="lespastilles">
+                    <div class="pastille concert">Concert</div>
+                    
+                  </div>
+                </div>
+                <div class="flex">
+                  <h2 class="date-event">16 <span>―</span> septembre 2026</h2>
+                  <h5 class="style">Indie Pop</h5>
+                </div>
+                <h3 class="name-event">Anuv Jain</h3>
+              </a>
+
+                                          </div>
+      </div>
+    </section>
+
+    <section class="call-prog p60 b230">
+      <a class="btn link-act" href="https://www.letrabendo.net/programmation">
+        <div class="btn-c"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow2.svg" alt=""></div>
+        <div class="btn-t"><span>voir la programmation</span></div>
+      </a>
+    </section>
+
+
+
+    <section class="souvenirs">
+              <div class="inner-wrap">
+          <div class="line-1 line--" data-scroll data-scroll-direction="horizontal" data-scroll-speed="-10">
+            <div class="gTitre anim-H" data-scroll>13 ANS</div>
+          </div>
+          <div class="line-2 line--">
+            <div class="gTitre anim-H" data-scroll>d'existence</div>
+            <div class="little-pic desktop">
+              <picture>
+                <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" data-sizes="100w" />
+                <img alt="A lazy image" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" data-sizes="100w" />
+              </picture>
+            </div>
+          </div>
+          <div class="line-int">
+            <div class="little-pic desktop"></div>
+            <div class="little-pic">
+              <picture>
+                <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" data-sizes="100w" />
+                <img alt="A lazy image" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" data-sizes="100w" />
+              </picture>
+            </div>
+            <div class="little-pic desktop"></div>
+            <div class="little-pic">
+              <picture>
+                <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" data-sizes="100w" />
+                <img alt="A lazy image" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" data-sizes="100w" />
+              </picture>
+            </div>
+            <div class="little-pic">
+              <picture>
+                <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" data-sizes="100w" />
+                <img alt="A lazy image" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" data-sizes="100w" />
+              </picture>
+            </div>
+            <div class="little-pic desktop"></div>
+          </div>
+          <div class="line-3 line--" data-scroll data-scroll-direction="horizontal" data-scroll-speed="10">
+            <div class="lTitre"><span class="circle-bg anim-H" data-scroll>2648</span><span class="anim-H" data-scroll>&ensp;CONCERTS </span></div>
+          </div>
+          <div class="line-4 line--">
+            <div class="little-pic desktop">
+              <picture>
+                <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" data-sizes="100w" />
+                <img alt="A lazy image" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" data-sizes="100w" />
+              </picture>
+            </div>
+            <div class="lTitre anim-H" data-scroll>& CLUBS</div>
+          </div>
+        </div>
+          </section>
+          <section class="flex sliderhalf p60" data-scroll data-scroll-repeat>
+        <div class="slider50-100">
+          <div class="imgslides">
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" data-sizes="100w" />
+                    <img alt="RIMON" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/Rimon-@bjrclucas-21-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" data-sizes="100w" />
+                    <img alt="PETER DOHERTY" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/peterdoherty.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" data-sizes="100w" />
+                    <img alt="2MUCH" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/2MUCH-20JUIN-@BJRCLUCAS-39-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/07/YAR-SPRINTS-TITOUAN-MASSE-05333-scaled.jpg" data-sizes="100w" />
+                    <img alt="SPRINTS" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/07/YAR-SPRINTS-TITOUAN-MASSE-05333-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/07/YAR-SPRINTS-TITOUAN-MASSE-05333-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/YAR-SPRINTS-TITOUAN-MASSE-05510-scaled.jpg" data-sizes="100w" />
+                    <img alt="SPRINTS" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/YAR-SPRINTS-TITOUAN-MASSE-05510-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/YAR-SPRINTS-TITOUAN-MASSE-05510-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/arte-mix.jpg" data-sizes="100w" />
+                    <img alt="ARTE MIX Ø TRABENDO" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2024/01/arte-mix.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2024/01/arte-mix.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" data-sizes="100w" />
+                    <img alt="AMORE - DINAMARCA" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/AMORE-DINAMARCA-ANDREA-KARINA-TITOUAN-MASSE-06793-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                          <div class="img-slider-mask">
+                <div class="img-slider">
+                  <picture>
+                    <source type="image/webp" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" data-sizes="100w" />
+                    <img alt="TOTORRO" class="lazy" src="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" srcset="https://www.letrabendo.net/wp-content/uploads/2025/11/TOTORRO-TITOUAN-MASSE-09636-scaled.jpg" data-sizes="100w" />
+                  </picture>
+                </div>
+              </div>
+                      </div>
+        </div>
+        <div class="right-slider50-100">
+          <div class="line-slider"></div>
+                      <div class="info-slide2">
+              <h2 class="legende">RIMON</h2>
+            </div>
+                      <div class="info-slide2">
+              <h2 class="legende">PETER DOHERTY</h2>
+            </div>
+                    <div class="nav-slider">
+            <div class="btn-c prev" id="prev-slider2"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow.svg" alt=""></div>
+            <div class="btn-c next" id="next-slider2"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow.svg" alt=""></div>
+          </div>
+        </div>
+      </section>
+
+
+        <section class="inscription-newsletter">
+      <div class="c-fixed_wrapper is-inview" data-scroll="" data-scroll-repeat="">
+        <div class="c-fixed_target" id="fixed-target2"></div>
+        <div class="c-fixed is-inview" data-scroll="" data-scroll-sticky="" data-scroll-target="#fixed-target2">
+
+          <div class="inner-wrap">
+            <h2>Inscrivez-vous à la newsletter</h2>
+            <div class="newsletter-call">
+              <input type="email" autocomplete="off" placeholder="Email" value="" name="EMAIL" class="email" id="mce-EMAIL">
+              <div class="submit"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow-news.svg" alt=""></div>
+
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    <section class="aprop p60">
+      <div class="inner-wrap flex">
+        <div class="demi-page">
+          <div class="o-image" data-scroll="" data-scroll-speed="-1.7">
+
+                                      <picture>
+                <img alt="lazy" class="lazy demi-page_image" loading="lazy" src="https://www.letrabendo.net/wp-content/uploads/2024/01/trabendo-sun.jpg" data-sizes="100w" />
+              </picture>
+                      </div>
+        </div>
+
+        <div class="text-apro">
+          <p class="split" data-scroll>D’une capacité de 900 places, le Trabendo défend une programmation ambitieuse, proposant le meilleur de la musique d’aujourd’hui dans des conditions d’accueil, de confort et de convivialité aussi bien pour le public que pour les artistes.   Coiffé par une des célèbres « folies » écarlates de l’architecte suisse Bernard Tschumi, le Trabendo est aussi agrémentée de deux bars dont un sur une vaste terrasse extérieure.</p>
+
+                            </div>
+      </div>
+    </section>
+
+    <section class="menu-bottom p60">
+      <div class="inner-wrap">
+        <a href="https://www.letrabendo.net/a-propos" class="link-act flex">
+          <span>À propos</span>
+          <span><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow-nav.svg" alt=""></span>
+        </a>
+        <a href="https://www.letrabendo.net/programmation" class="link-act flex">
+          <span>Programmation</span>
+          <span><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow-nav.svg" alt=""></span>
+        </a>
+
+        <a href="https://www.letrabendo.net/infos-pratiques" class="link-act flex">
+          <span>Infos pratiques</span>
+          <span><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow-nav.svg" alt=""></span>
+        </a>
+
+        <a href="https://www.letrabendo.net/contacts" class="link-act flex">
+          <span>Contacts</span>
+          <span><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/arrow-nav.svg" alt=""></span>
+        </a>
+      </div>
+
+    </section>
+
+    <section class="footer">
+	<div class="c-fixed_wrapper is-inview" data-scroll="" data-scroll-repeat="">
+		<div class="c-fixed_target" id="fixed-target"></div>
+		<div class="c-fixed is-inview" data-scroll="" data-scroll-sticky="" data-scroll-target="#fixed-target">
+			<div class="inner-wrap">
+				<div class="menu-footer flex">
+					<div class="left-menu-footer">
+						<li class=""><a class="link-act" href="https://www.letrabendo.net/programmation">Programme</a></li>
+						<!-- <li><a href="https://www.letrabendo.net/billetterie-concert" ><span>Billetterie concert</span></a></li>
+        		<li><a href="https://www.letrabendo.net/billetterie-club" ><span>Billetterie club</span></a></li> -->
+        		<li class="menu-items">
+		          <a href="https://shotgun.live/fr/venues/letrabendo" target="_blank"><span>Billetterie</span></a>
+		        </li>
+						<li class=""><a class="link-act" href="https://www.letrabendo.net/a-propos">A propos</a></li>
+						<li class=""><a class="link-act" href="https://www.letrabendo.net/infos-pratiques">Infos pratiques</a></li>
+						<li class=""><a href="https://trabendo-privatisation.net/" target="_blank">Privatisation</a></li>
+						<li class=""><a href="#" class="inscription-newsletter2">Newsletter</a></li>
+						<li>
+							<a class="link-act" href="https://www.letrabendo.net/landing_page/nos-valeurs/" target="_blank"><span>Nos valeurs</span></a>
+						</li>
+						<ul class="social">
+							<li><a href="https://www.facebook.com/trabendo.paris/" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/fb-w.svg" alt=""></a></li>
+							<li><a href="" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/tw-w.svg" alt=""></a></li>
+							<li><a href="https://www.instagram.com/letrabendo/?utm_source=ig_embed" class="" target="_blank"><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/ig-w.svg" alt=""></a></li>
+						</ul>
+					</div>
+					<div class="right-menu-footer">
+						<span>Parc de la Villette<br />
+211 avenue Jean Jaurès<br />
+75019 Paris</span>
+						<span>Métro Porte de Pantin<br />
+Ligne 5</span>
+						<ul class="social">
+							<a href="top" class="totop color" data-scroll-to><img src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/img/totop.svg" alt=""></a>
+						</ul>
+					</div>
+				</div>
+				<div class="logo-footer">
+					<svg viewBox="0 0 1362 150" fill="none">
+						<path class="letter-logo" d="M117.6 3.6002H0.599609V30.2002H43.3996V146H74.7996V30.2002H117.6V3.6002Z" />
+						<path class="letter-logo" d="M170.265 3.6002V146H201.265V90.2002H229.065C249.465 90.2002 255.465 97.2002 257.465 116.8C258.265 124.6 258.265 138.8 261.865 146H294.265C288.665 140.8 288.265 121.2 287.465 112.2C286.265 98.2002 282.265 82.2002 266.465 79.0002C280.665 73.6002 289.065 60.6002 289.065 44.0002C289.065 15.4002 267.265 3.6002 241.065 3.6002H170.265ZM201.265 28.2002H232.265C245.465 28.2002 258.465 31.0002 258.465 47.4002C258.465 65.0002 245.465 67.6002 230.865 67.6002H201.265V28.2002Z" />
+						<path class="letter-logo" d="M419.201 3.40019H387.001L332.801 146H364.801L376.401 114.2H429.401L440.601 146H473.401L419.201 3.40019ZM421.801 91.4002H384.001L403.001 38.4002L421.801 91.4002Z" />
+						<path class="letter-logo" d="M520.115 3.6002V146H591.315C618.115 146 639.515 131.4 639.515 103.6C639.515 83.8002 628.315 73.0002 613.515 68.8002C625.115 63.6002 632.915 53.2002 632.915 39.4002C632.915 14.2002 612.515 3.6002 587.515 3.6002H520.115ZM550.515 27.8002H578.915C590.915 27.8002 602.515 30.2002 602.515 44.6002C602.515 59.0002 590.315 61.2002 578.915 61.2002H550.515V27.8002ZM550.515 82.4002H580.315C594.315 82.4002 608.315 84.6002 608.315 101.8C608.315 118.6 595.315 121.2 581.915 121.2H550.515V82.4002Z" />
+						<path class="letter-logo" d="M802.936 3.6002H696.136V146H804.336V119.8H727.136V84.8002H796.736V60.2002H727.136V29.2002H802.936V3.6002Z" />
+						<path class="letter-logo" d="M860.823 146H891.023V50.4002L950.023 146H981.223V3.6002H951.223V99.0002L892.623 3.6002H860.823V146Z" />
+						<path class="letter-logo" d="M1044.27 146H1101.87C1146.07 146 1170.87 120.6 1170.87 74.8002C1170.87 28.8002 1146.07 3.6002 1101.87 3.6002H1044.27V146ZM1075.27 120V29.6002H1098.07C1126.27 29.6002 1139.47 46.2002 1139.47 74.8002C1139.47 103.4 1126.67 120 1098.07 120H1075.27Z" />
+						<path class="letter-logo" d="M1291.71 0.200195C1249.11 0.200195 1221.11 29.8002 1221.11 75.0002C1221.11 119.6 1249.31 149.4 1291.51 149.4C1333.31 149.4 1361.51 119.4 1361.51 75.0002C1361.51 30.4002 1333.31 0.200195 1291.71 0.200195ZM1291.31 25.8002C1315.11 25.8002 1329.91 44.4002 1329.91 74.4002C1329.91 104.8 1315.31 123.6 1291.71 123.6C1267.51 123.4 1252.71 105 1252.71 74.4002C1252.71 44.8002 1267.71 25.8002 1291.31 25.8002Z" />
+					</svg>
+				</div>
+
+				<div class="credit flex">
+					<div class="left">
+						<span class="copy"> © 2022 Le Trabendo</span>
+						<a href="https://www.letrabendo.net/mentions-legales/" class="link-act">Mentions légales</a>
+						<a href="https://www.letrabendo.net/politique-de-confidentialites/" class="link-act">Politique de confidentialités</a>
+					</div>
+					<div class="right">
+						<a href="https://ccccontemple.com" class="" target="_blank">Site web par Contemple Studio</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+  </div>
+</div>
+
+
+<script src="https://www.letrabendo.net/wp-content/themes/letrabendo_fr/js/app.js" crossorigin="anonymous"></script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/letrabendo_fr/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="site-js-js" src="https://www.letrabendo.net/wp-content/uploads/hummingbird-assets/bfb24056c54383ce3c0e052a3fa5702d.js"></script>
+  
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Veuillez choisir un code pays';
+  window.LOCALE = 'fr';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "Les informations que vous avez fournies ne sont pas valides. Veuillez vérifier le format du champ et réessayer.";
+
+  window.REQUIRED_ERROR_MESSAGE = "Vous devez renseigner ce champ. ";
+
+  window.GENERIC_INVALID_MESSAGE = "Les informations que vous avez fournies ne sont pas valides. Veuillez vérifier le format du champ et réessayer.";
+
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} liste sélectionnée',
+      selectedLists: '{quantity} listes sélectionnées'
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+</script>
+
+
+</body>
+</html>

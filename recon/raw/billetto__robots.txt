@@ -1,0 +1,22 @@
+# Bots that have proven that they can't behave:
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 3
+Disallow: */following
+Disallow: */followers
+Disallow: /e/*/watermark_image
+Disallow: */contact
+Disallow: /e/*/share/new
+Disallow: /e/*/shares/new
+Allow: /html_sitemap
+
+Disallow: /es/
+Disallow: /nl/
+Disallow: /it/
+Disallow: /fr/
+Disallow: /pt/
+Disallow: /fi/
+
+Sitemap: https://billetto.dk/sitemap.xml.gz

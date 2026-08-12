@@ -1,0 +1,530 @@
+
+<!doctype html>
+<html lang="en-GB">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>Strøm</title>
+<link rel="alternate" href="https://strm.dk/" hreflang="en" />
+<link rel="alternate" href="https://strm.dk/da/forside/" hreflang="da" />
+<script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="fe65f4bb-24de-4a9b-8775-467976c5a1bc" data-blockingmode="auto" type="text/javascript"></script>
+	<link rel="preload" href="https://strm.dk/wp-content/themes/strm/fonts/Elza-Regular.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://strm.dk/wp-content/themes/strm/fonts/Elza-Semibold.woff2" as="font" type="font/woff2" crossorigin>
+
+<!-- The SEO Framework by Sybre Waaijer -->
+<meta name="robots" content="max-snippet:-1,max-image-preview:large,max-video-preview:-1" />
+<link rel="canonical" href="https://strm.dk/" />
+<meta name="description" content="STRØM…" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="en_GB" />
+<meta property="og:site_name" content="Strøm" />
+<meta property="og:title" content="Strøm" />
+<meta property="og:description" content="STRØM…" />
+<meta property="og:url" content="https://strm.dk/" />
+<meta property="og:image" content="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Strøm" />
+<meta name="twitter:description" content="STRØM…" />
+<meta name="twitter:image" content="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png" />
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://strm.dk/#/schema/WebSite","url":"https://strm.dk/","name":"Strøm","inLanguage":"en-GB","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://strm.dk/search/{search_term_string}/"},"query-input":"required name=search_term_string"},"publisher":{"@id":"https://strm.dk/#/schema/Organization"}},{"@type":"WebPage","@id":"https://strm.dk/","url":"https://strm.dk/","name":"Strøm","description":"STRØM…","inLanguage":"en-GB","isPartOf":{"@id":"https://strm.dk/#/schema/WebSite"},"breadcrumb":{"@type":"BreadcrumbList","@id":"https://strm.dk/#/schema/BreadcrumbList","itemListElement":{"@type":"ListItem","position":1,"name":"Strøm"}},"potentialAction":{"@type":"ReadAction","target":"https://strm.dk/"},"about":{"@id":"https://strm.dk/#/schema/Organization"}},{"@type":"Organization","@id":"https://strm.dk/#/schema/Organization","name":"Strøm","url":"https://strm.dk/","logo":{"@type":"ImageObject","url":"https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png","contentUrl":"https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png","width":512,"height":512,"contentSize":"20631"}}]}</script>
+<!-- / The SEO Framework by Sybre Waaijer | 11.37ms meta | 0.62ms boot -->
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://strm.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrm.dk%2F&#038;lang=en" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://strm.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fstrm.dk%2F&#038;format=xml&#038;lang=en" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+
+<link rel='stylesheet' id='strm-style-css' href='https://strm.dk/wp-content/themes/strm/style.css?ver=1783592556' media='all' />
+<script id="wireboard-tracker-js-after">
+;(function(w,i,r,e,b,oar,d){if(!w[b]){w.WireBoardNamespace=w.WireBoardNamespace||[];
+w.WireBoardNamespace.push(b);w[b]=function(){(w[b].q=w[b].q||[]).push(arguments)};
+w[b].q=w[b].q||[];oar=i.createElement(r);d=i.getElementsByTagName(r)[0];oar.async=1;
+oar.src=e;d.parentNode.insertBefore(oar,d)}}(window,document,"script","https://static.wireboard.io/wireboard.js","wireboard"));
+wireboard('newTracker', 'wb', "pipeline-0.collector.wireboard.io", {
+    appId: "ZWmsEgSX",
+    forceSecureTracker: true,
+    contexts: {
+      performanceTiming: true,
+    }
+});
+window.wireboard('enableActivityTracking', 5, 10);
+var customContext=[{schema:'wb:io.wireboard/publisher',data:{publisher:"32a8f920-29f2-4929-b0b8-c5167c1ea531"}}]
+window.wireboard('trackPageView', null, customContext);
+//# sourceURL=wireboard-tracker-js-after
+</script>
+<link rel="https://api.w.org/" href="https://strm.dk/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://strm.dk/wp-json/wp/v2/pages/219" /><link rel="icon" href="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://strm.dk/wp-content/uploads/cropped-Strom-Favicon-270x270.png" />
+</head>
+
+<body class="home wp-singular page-template-default page page-id-219 wp-embed-responsive wp-theme-strm bg-primary" data-theme="light">
+
+
+<div id="page">
+	<a href="#content" class="sr-only focus:not-sr-only focus:fixed focus:top-2 focus:left-2 focus:z-50 focus:bg-black focus:text-white focus:px-4 focus:py-2 focus:no-underline">Skip to content</a>
+
+	
+<header
+	id="masthead"
+	class="bg-primary"
+	>
+
+	<div class="strm-header__bar flex items-start justify-between px-margin py-margin">
+
+		<a href="https://strm.dk/" rel="home" class="flex items-center gap-3 shrink-0">
+			<svg class="strm-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 516 98" fill="currentColor" aria-hidden="true" focusable="false"><path d="M0 97.5801V78.3301H2.3V97.5801H0Z"/><path d="M7.9707 97.5801V78.3301H10.7907L20.8207 94.2201V78.3301H23.1007V97.5801H20.4707L10.2507 81.3701V97.5801H7.9707Z"/><path d="M27.7695 91.5898H30.0995C30.3695 94.7098 32.6195 95.8698 35.4695 95.8698C38.0195 95.8698 40.2195 94.7598 40.2195 92.5098V92.3198C40.2195 90.4798 38.9195 89.4698 34.8495 88.7698C30.0795 87.9598 28.4795 86.2798 28.4795 83.5398V83.2698C28.4795 80.3698 31.0595 78.0098 35.1195 78.0098C38.8895 78.0098 41.7095 79.8798 42.1395 83.7298H39.8095C39.4795 81.2298 37.6895 80.0198 35.1195 80.0198C32.5495 80.0198 30.7295 81.2398 30.7295 83.2498V83.4398C30.7295 85.2298 31.8395 86.1498 35.6395 86.7798C40.1695 87.5098 42.4995 89.0598 42.4995 92.1998V92.4698C42.4995 95.5298 39.8995 97.9198 35.3695 97.9198C30.8395 97.9198 27.9895 95.7498 27.7795 91.5998L27.7695 91.5898Z"/><path d="M50.8104 97.5793V80.3293H44.9004V78.3193H59.0504V80.3293H53.1104V97.5793H50.8004H50.8104Z"/><path d="M63.3906 97.5801V78.3301H65.6906V97.5801H63.3906Z"/><path d="M75.9803 97.5793V80.3293H70.0703V78.3193H84.2203V80.3293H78.2803V97.5793H75.9703H75.9803Z"/><path d="M88.3694 90.3401V78.3301H90.6694V90.2601C90.6694 93.9701 92.4894 95.8501 95.8794 95.8501C99.2694 95.8501 101.029 93.9501 101.029 90.2401V78.3401H103.329V90.3301C103.329 95.0501 100.809 97.9201 95.8694 97.9201C90.9294 97.9201 88.3594 95.1001 88.3594 90.3601L88.3694 90.3401Z"/><path d="M113.39 97.5793V80.3293H107.48V78.3193H121.63V80.3293H115.69V97.5793H113.38H113.39Z"/><path d="M125.98 97.5801V78.3301H128.28V97.5801H125.98Z"/><path d="M133.24 88.3398V87.5798C133.24 81.8598 136.74 78.0098 142.16 78.0098C147.58 78.0098 151.05 81.8598 151.05 87.5798V88.3398C151.05 94.0298 147.58 97.9098 142.16 97.9098C136.74 97.9098 133.24 94.0298 133.24 88.3398ZM148.7 88.3398V87.5798C148.7 83.0498 146.26 80.0698 142.16 80.0698C138.06 80.0698 135.63 83.0498 135.63 87.5798V88.3398C135.63 92.8698 138.07 95.8498 142.16 95.8498C146.25 95.8498 148.7 92.8698 148.7 88.3398Z"/><path d="M155.91 97.5801V78.3301H158.73L168.76 94.2201V78.3301H171.04V97.5801H168.41L158.19 81.3701V97.5801H155.91Z"/><path d="M183.189 97.5801V78.3301H195.199V80.3401H185.469V86.9601H194.339V88.9701H185.469V97.5901H183.189V97.5801Z"/><path d="M198.619 88.3398V87.5798C198.619 81.8598 202.119 78.0098 207.539 78.0098C212.959 78.0098 216.429 81.8598 216.429 87.5798V88.3398C216.429 94.0298 212.959 97.9098 207.539 97.9098C202.119 97.9098 198.619 94.0298 198.619 88.3398ZM214.069 88.3398V87.5798C214.069 83.0498 211.629 80.0698 207.529 80.0698C203.429 80.0698 200.999 83.0498 200.999 87.5798V88.3398C200.999 92.8698 203.439 95.8498 207.529 95.8498C211.619 95.8498 214.069 92.8698 214.069 88.3398Z"/><path d="M221.289 97.5801V78.3301H229.069C232.809 78.3301 235.249 80.2601 235.249 83.8101V84.3001C235.249 87.4701 233.319 89.3201 230.289 89.7001L235.309 97.5901H232.649L227.719 89.7801H223.599V97.5901H221.299L221.289 97.5801ZM223.589 87.7701H228.989C231.399 87.7701 232.919 86.6601 232.919 84.3001V83.8101C232.919 81.4501 231.399 80.3401 228.989 80.3401H223.589V87.7701Z"/><path d="M246.231 97.5801V78.3301H258.891V80.3401H248.531V86.7401H258.071V88.7501H248.531V95.5801H259.021V97.5901H246.221L246.231 97.5801Z"/><path d="M264.039 97.5801V78.3301H266.339V95.5801H274.829V97.5901H264.039V97.5801Z"/><path d="M279.01 97.5801V78.3301H291.67V80.3401H281.31V86.7401H290.85V88.7501H281.31V95.5801H291.8V97.5901H279L279.01 97.5801Z"/><path d="M295.551 88.3398V87.5798C295.551 81.9098 299.051 78.0098 304.341 78.0098C308.711 78.0098 311.741 80.7798 312.181 85.0898H309.851C309.391 81.8898 307.271 80.0698 304.321 80.0698C300.331 80.0698 297.951 83.1598 297.951 87.5798V88.3398C297.951 92.7598 300.361 95.8498 304.321 95.8498C307.571 95.8498 309.721 93.7098 309.851 90.5398H312.211C311.881 94.7998 308.881 97.9198 304.321 97.9198C299.091 97.9198 295.561 94.0998 295.561 88.3498L295.551 88.3398Z"/><path d="M320.17 97.5793V80.3293H314.26V78.3193H328.41V80.3293H322.47V97.5793H320.16H320.17Z"/><path d="M332.65 97.5801V78.3301H340.43C344.17 78.3301 346.61 80.2601 346.61 83.8101V84.3001C346.61 87.4701 344.68 89.3201 341.65 89.7001L346.67 97.5901H344.01L339.08 89.7801H334.96V97.5901H332.66L332.65 97.5801ZM334.95 87.7701H340.35C342.76 87.7701 344.28 86.6601 344.28 84.3001V83.8101C344.28 81.4501 342.76 80.3401 340.35 80.3401H334.95V87.7701Z"/><path d="M350.189 88.3398V87.5798C350.189 81.8598 353.689 78.0098 359.109 78.0098C364.529 78.0098 367.999 81.8598 367.999 87.5798V88.3398C367.999 94.0298 364.529 97.9098 359.109 97.9098C353.689 97.9098 350.189 94.0298 350.189 88.3398ZM365.649 88.3398V87.5798C365.649 83.0498 363.209 80.0698 359.109 80.0698C355.009 80.0698 352.579 83.0498 352.579 87.5798V88.3398C352.579 92.8698 355.019 95.8498 359.109 95.8498C363.199 95.8498 365.649 92.8698 365.649 88.3398Z"/><path d="M372.859 97.5801V78.3301H375.679L385.709 94.2201V78.3301H387.989V97.5801H385.359L375.139 81.3701V97.5801H372.859Z"/><path d="M393.631 97.5801V78.3301H395.931V97.5801H393.631Z"/><path d="M400.891 88.3398V87.5798C400.891 81.9098 404.391 78.0098 409.681 78.0098C414.051 78.0098 417.081 80.7798 417.521 85.0898H415.191C414.731 81.8898 412.611 80.0698 409.661 80.0698C405.671 80.0698 403.291 83.1598 403.291 87.5798V88.3398C403.291 92.7598 405.701 95.8498 409.661 95.8498C412.911 95.8498 415.061 93.7098 415.191 90.5398H417.551C417.221 94.7998 414.221 97.9198 409.661 97.9198C404.431 97.9198 400.901 94.0998 400.901 88.3498L400.891 88.3398Z"/><path d="M428.77 97.5801V78.3301H432.3L438.35 94.7401L444.4 78.3301H447.87V97.5801H445.57V81.1201L439.41 97.5801H437.27L431.09 81.1201V97.5801H428.79H428.77Z"/><path d="M453.311 90.3401V78.3301H455.611V90.2601C455.611 93.9701 457.431 95.8501 460.821 95.8501C464.211 95.8501 465.971 93.9501 465.971 90.2401V78.3401H468.271V90.3301C468.271 95.0501 465.751 97.9201 460.811 97.9201C455.871 97.9201 453.301 95.1001 453.301 90.3601L453.311 90.3401Z"/><path d="M472.59 91.5898H474.92C475.19 94.7098 477.44 95.8698 480.29 95.8698C482.84 95.8698 485.04 94.7598 485.04 92.5098V92.3198C485.04 90.4798 483.74 89.4698 479.67 88.7698C474.9 87.9598 473.3 86.2798 473.3 83.5398V83.2698C473.3 80.3698 475.88 78.0098 479.94 78.0098C483.71 78.0098 486.53 79.8798 486.96 83.7298H484.63C484.3 81.2298 482.51 80.0198 479.94 80.0198C477.37 80.0198 475.55 81.2398 475.55 83.2498V83.4398C475.55 85.2298 476.66 86.1498 480.46 86.7798C484.99 87.5098 487.32 89.0598 487.32 92.1998V92.4698C487.32 95.5298 484.72 97.9198 480.19 97.9198C475.66 97.9198 472.81 95.7498 472.6 91.5998L472.59 91.5898Z"/><path d="M492.08 97.5801V78.3301H494.38V97.5801H492.08Z"/><path d="M499.35 88.3398V87.5798C499.35 81.9098 502.85 78.0098 508.14 78.0098C512.51 78.0098 515.54 80.7798 515.98 85.0898H513.65C513.19 81.8898 511.07 80.0698 508.12 80.0698C504.13 80.0698 501.75 83.1598 501.75 87.5798V88.3398C501.75 92.7598 504.16 95.8498 508.12 95.8498C511.37 95.8498 513.52 93.7098 513.65 90.5398H516.01C515.68 94.7998 512.68 97.9198 508.12 97.9198C502.89 97.9198 499.36 94.0998 499.36 88.3498L499.35 88.3398Z"/><path d="M0 59.0305V44.2805C0 42.5005 1 41.5805 2.7 41.5805H23.48C24.64 41.5805 26.11 41.3505 26.11 39.9605C26.11 35.9405 1.31 29.5305 1.31 15.0105C1.31 6.27047 6.95 0.940469 15.68 0.940469H49.75C51.45 0.940469 52.45 1.94047 52.45 3.64047L52.37 17.3105C52.37 19.0905 51.37 20.0105 49.67 20.0105H31.67C30.51 20.0105 29.82 20.4005 29.82 21.2505C29.82 25.5805 55.93 30.7505 55.93 47.2805C55.93 55.4705 51.6 61.7205 41.72 61.7205H2.7C1 61.7205 0 60.7905 0 59.0205V59.0305ZM75.47 59.0305L75.16 20.0205H59.4C57.7 20.0205 56.7 19.0905 56.7 17.3205V3.65047C56.7 1.87047 57.7 0.950469 59.4 0.950469H117.72C119.42 0.950469 120.42 1.88047 120.42 3.65047V17.3205C120.42 19.1005 119.42 20.0205 117.72 20.0205H102.04L101.73 59.0305C101.73 60.7305 100.65 61.7305 98.95 61.7305H78.25C76.55 61.7305 75.47 60.7305 75.47 59.0305ZM188.94 51.1505L178.51 37.7905C183.99 36.2505 187.93 30.7605 187.93 23.7305V16.3905C187.93 6.81047 181.75 0.940469 171.63 0.940469H127.37C125.67 0.940469 124.67 1.87047 124.67 3.64047V59.0205C124.67 60.7205 125.75 61.7205 127.45 61.7205H148.15C149.85 61.7205 150.93 60.7205 150.93 59.0205V45.3505C150.93 43.5705 151.78 42.4205 153.4 42.4205C155.02 42.4205 155.95 43.4205 156.49 44.8105L162.67 60.3405C163.06 61.2705 163.83 61.7305 164.91 61.7305H187.23C188.93 61.7305 189.93 60.8005 189.93 59.0305V54.3205C189.93 52.7805 189.7 52.1605 188.93 51.1505H188.94ZM161.98 22.6505C161.98 26.2805 159.66 28.2905 156.03 28.2905H152.17C150.93 28.2905 150.24 27.5905 150.24 26.3605V18.0205C150.24 16.7805 150.94 16.0905 152.17 16.0905H156.03C159.66 16.0905 161.98 18.1005 161.98 21.7305V22.6605V22.6505ZM237.53 0.480469H214.51C200.61 0.480469 191.34 8.36047 191.34 22.2605V40.4105C191.34 54.3105 200.61 62.1905 214.51 62.1905H237.53C251.43 62.1905 260.7 54.3105 260.7 40.4105V22.2605C260.7 8.36047 251.43 0.480469 237.53 0.480469ZM217.52 22.1805C217.52 18.7805 219.53 16.7005 222.93 16.7005H229.11C230.27 16.7005 231.2 16.9305 232.04 17.4005L217.52 32.5405V22.1905V22.1805ZM234.52 40.4905C234.52 43.8905 232.51 45.9705 229.11 45.9705H222.93C221.77 45.9705 220.84 45.7405 219.99 45.2705L234.51 30.2805V40.4805L234.52 40.4905ZM275.15 0.940469H297.86C299.48 0.940469 300.56 1.71047 301.03 3.33047L308.99 29.6705C309.45 31.2105 310.69 31.2105 311.15 29.6705L318.49 3.33047C318.95 1.63047 320.03 0.940469 321.73 0.940469H341.5C343.2 0.940469 344.2 1.79047 344.59 3.49047L356.33 58.5705C356.72 60.5005 355.79 61.7405 353.78 61.7405H331.77C330.07 61.7405 329.07 60.8905 328.68 59.2705L324.89 42.9705C324.43 40.8805 324.12 40.3405 323.35 40.3405C322.58 40.3405 322.35 41.0405 321.81 42.8905L317.18 59.3405C316.72 61.0405 315.64 61.7305 313.94 61.7305H294.55C292.93 61.7305 291.85 60.9605 291.38 59.3405L286.59 43.0405C286.05 41.1905 285.82 40.4105 285.05 40.4105C284.35 40.4105 283.97 40.9505 283.5 43.1105L280.1 59.1805C279.71 60.8805 278.71 61.7305 277.01 61.7305H263.41C261.48 61.7305 260.47 60.6505 260.86 58.6405L271.98 3.49047C272.29 1.79047 273.45 0.940469 275.15 0.940469Z"/><path d="M515.439 1.16004L514.959 0.650039C514.159 -0.199961 512.809 -0.209961 511.989 0.620039L479.139 34.18C477.729 35.62 475.289 34.62 475.289 32.61V2.03004C475.289 1.77004 475.259 1.51004 475.159 1.27004C474.629 -0.0199608 472.859 -0.499961 471.769 0.630039L438.659 35.15C437.259 36.61 434.799 35.62 434.799 33.6V2.04004C434.799 1.78004 434.769 1.52004 434.669 1.28004C434.139 -0.00996077 432.369 -0.489961 431.279 0.640039L375.879 58.17C375.119 58.96 375.109 60.21 375.859 61.01L376.339 61.52C377.139 62.37 378.489 62.38 379.309 61.55L412.579 27.56C413.869 26.25 416.099 27.15 416.109 28.99L416.249 60.13C416.249 61.99 418.529 62.89 419.799 61.53L453.069 27.54C454.359 26.23 456.589 27.13 456.599 28.97L456.739 60.11C456.739 61.97 459.019 62.87 460.289 61.51L474.179 46.79L515.419 3.97004C516.179 3.18004 516.189 1.93004 515.439 1.13004V1.16004Z"/></svg>			<span class="sr-only">Strøm</span>
+		</a>
+
+		<div class="flex items-center gap-margin">
+
+			<button
+				type="button"
+				class="strm-menu-toggle hidden md:inline-block uppercase tracking-elza font-semibold"
+				aria-controls="site-menu"
+				aria-expanded="false"
+				data-strm-menu-toggle
+			>
+				<span class="strm-menu-toggle__track" aria-hidden="true">
+					<span class="strm-menu-toggle__open text-right pr-0.5">MENU</span>
+					<span class="strm-menu-toggle__close">CLOSE MENU</span>
+				</span>
+				<span class="sr-only" data-strm-menu-toggle-label>
+					MENU				</span>
+			</button>
+
+			
+			<form
+				role="search"
+				method="get"
+				action="https://strm.dk/"
+				class="hidden md:flex items-center strm-search"
+				data-strm-search
+				data-state="closed"
+			>
+				<label for="strm-search-input" class="sr-only">Search</label>
+				<input
+					id="strm-search-input"
+					type="search"
+					name="s"
+					placeholder="Søg…"
+					class="strm-search__input"
+					data-strm-search-input
+					tabindex="-1"
+				>
+				<button
+					type="submit"
+					class="strm-search__toggle"
+					aria-label="Search"
+					aria-expanded="false"
+					data-strm-search-toggle
+				>
+					<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+						<circle cx="11" cy="11" r="7"></circle>
+						<line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+					</svg>
+				</button>
+			</form>
+
+			<button
+				type="button"
+				class="md:hidden"
+				aria-controls="site-menu"
+				aria-expanded="false"
+				aria-label="Menu"
+				data-strm-menu-toggle
+				data-label-open="Menu"
+				data-label-close="Close menu"
+			>
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="butt" aria-hidden="true" focusable="false" class="strm-burger">
+					<line class="strm-burger__top"    x1="3" y1="7"  x2="21" y2="7"></line>
+					<line class="strm-burger__middle" x1="3" y1="13" x2="21" y2="13"></line>
+					<line class="strm-burger__bottom" x1="3" y1="19" x2="21" y2="19"></line>
+				</svg>
+			</button>
+
+		</div>
+
+	</div>
+
+			<div id="site-menu" class="strm-menu">
+
+			<nav class="strm-menu__primary px-margin pb-module-lg" aria-label="Primary">
+				<ul id="menu-menu-en" class="strm-menu__list"><li id="menu-item-1358" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1358"><a href="https://strm.dk/music/">Music</a>
+<ul class="sub-menu">
+	<li id="menu-item-1359" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1359"><a href="https://strm.dk/articles/">Articles</a></li>
+	<li id="menu-item-1360" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1360"><a href="https://strm.dk/music/current/">Current</a></li>
+	<li id="menu-item-1362" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1362"><a href="https://strm.dk/music/strom-mixx/">Strøm Mixx</a></li>
+	<li id="menu-item-1414" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1414"><a href="https://strm.dk/music/strom-sound-system/">STRØM SOUND SYSTEM</a></li>
+</ul>
+</li>
+<li id="menu-item-1364" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1364"><a href="https://strm.dk/events/">Events</a>
+<ul class="sub-menu">
+	<li id="menu-item-1395" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1395"><a href="https://strm.dk/events/">UPCOMING</a></li>
+	<li id="menu-item-1396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1396"><a href="https://strm.dk/events/?mode=past">PREVIOUS</a></li>
+</ul>
+</li>
+<li id="menu-item-2959" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2959"><a href="https://strm.dk/strom-for-kids/">Strøm for Kids</a>
+<ul class="sub-menu">
+	<li id="menu-item-3040" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3040"><a href="https://strm.dk/strom-for-kids/#who-are-we">Who are we?</a></li>
+</ul>
+</li>
+<li id="menu-item-2092" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-2092"><a href="https://strm.dk/lydskatten/">Lydskatten</a>
+<ul class="sub-menu">
+	<li id="menu-item-2238" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2238"><a href="https://strm.dk/about-lydskatten/">ABOUT</a></li>
+</ul>
+</li>
+<li id="menu-item-1367" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1367"><a href="https://strm.dk/studios/">Studios</a>
+<ul class="sub-menu">
+	<li id="menu-item-1369" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1369"><a href="https://strm.dk/studios/kapellet/">Kapellet</a></li>
+	<li id="menu-item-1370" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1370"><a href="https://strm.dk/studios/kodbyen/">Kødbyen</a></li>
+	<li id="menu-item-1368" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1368"><a href="https://strm.dk/studios/djs_all_access/">DJ STUDIO</a></li>
+</ul>
+</li>
+<li id="menu-item-1371" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1371"><a href="https://strm.dk/community/">Community</a>
+<ul class="sub-menu">
+	<li id="menu-item-2318" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2318"><a href="https://strm.dk/community/">Kommunal Dubplate Service</a></li>
+	<li id="menu-item-2319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2319"><a href="https://strm.dk/community/">COPENHAGEN MUSIC MAKER SPACE</a></li>
+	<li id="menu-item-2320" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2320"><a href="https://strm.dk/community/">ELEKTRONISK MUSIK DANMARK</a></li>
+	<li id="menu-item-2768" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2768"><a href="https://strm.dk/community/">Dansk Modular</a></li>
+	<li id="menu-item-2769" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2769"><a href="https://strm.dk/community/">Samling</a></li>
+</ul>
+</li>
+</ul>			</nav>
+
+			<div class="strm-menu__bottom md:hidden flex items-center justify-between gap-margin px-margin pb-module-lg">
+
+				
+				<form
+					role="search"
+					method="get"
+					action="https://strm.dk/"
+					class="flex items-center strm-search ml-auto"
+					data-strm-search
+					data-state="closed"
+				>
+					<label for="strm-search-input-mobile" class="sr-only">Search</label>
+					<input
+						id="strm-search-input-mobile"
+						type="search"
+						name="s"
+						placeholder="Søg…"
+						class="strm-search__input"
+						data-strm-search-input
+						tabindex="-1"
+					>
+					<button
+						type="submit"
+						class="strm-search__toggle"
+						aria-label="Search"
+						aria-expanded="false"
+						data-strm-search-toggle
+					>
+						<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false">
+							<circle cx="11" cy="11" r="7"></circle>
+							<line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+						</svg>
+					</button>
+				</form>
+
+			</div>
+
+		</div>
+	
+</header>
+
+	<div id="content">
+
+	<section id="primary">
+		<main id="main">
+
+			
+<article id="post-219" class="post-219 page type-page status-publish hentry">
+	
+<section
+	class="strm-hero pb-module-lg"
+	data-strm-gallery-scope
+>
+			<div class="strm-hero__media relative w-full">
+							<div class="h-[70dvh] w-full w-full">
+					<img width="1920" height="1280" src="https://strm.dk/wp-content/uploads/IG-skitse-1920x1280.webp" class="w-full h-full object-cover object-center" alt="" loading="eager" fetchpriority="high" decoding="async" srcset="https://strm.dk/wp-content/uploads/IG-skitse-1920x1280.webp 1920w, https://strm.dk/wp-content/uploads/IG-skitse-900x600.webp 900w, https://strm.dk/wp-content/uploads/IG-skitse-1600x1067.webp 1600w, https://strm.dk/wp-content/uploads/IG-skitse-768x512.webp 768w, https://strm.dk/wp-content/uploads/IG-skitse-1536x1024.webp 1536w, https://strm.dk/wp-content/uploads/IG-skitse-2048x1365.webp 2048w, https://strm.dk/wp-content/uploads/IG-skitse-600x400.webp 600w, https://strm.dk/wp-content/uploads/IG-skitse-1000x667.webp 1000w" sizes="(max-width: 1920px) 100vw, 1920px" />				</div>
+
+					</div>
+	
+	
+	<div class="strm-hero__title-row flex items-center justify-between gap-margin mx-margin py-4 border-b-2 border-current">
+					<h1 class="text-display tracking-elza leading-none m-0">
+				<strong>STRØM</strong>			</h1>
+		
+					<span class="strm-hero__logomark shrink-0 [&_svg]:h-[0.8em] [&_svg]:w-auto text-display leading-none" aria-hidden="true">
+				<svg class="strm-logomark" xmlns="http://www.w3.org/2000/svg" viewBox="38 175 490 215" fill="currentColor" aria-hidden="true" focusable="false"><path d="M526.06,179.5l-1.67-1.78c-2.79-2.96-7.47-3.01-10.32-.1l-114.21,116.58c-4.89,4.99-13.37,1.53-13.37-5.46l.04-106.27c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22l-115.13,119.92c-4.87,5.07-13.43,1.62-13.42-5.4l.04-109.67c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22L40.93,377.49c-2.65,2.75-2.67,7.09-.06,9.87l1.67,1.78c2.79,2.96,7.47,3.01,10.32.1l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88h0s0,0,0-.01l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88l48.3-51.14,143.38-148.78c2.65-2.75,2.67-7.09.06-9.87Z"/></svg>			</span>
+			</div>
+
+				<div class="strm-hero__content px-margin pt-module-sm grid grid-cols-1 md:grid-cols-3 gap-col">
+			<div class="strm-hero__content-left md:col-span-1 text-body-lg">
+
+									<div class="text-left">
+						<p><b>SUPPORTING AND DEVELOPING ELECTRONIC MUSIC CULTURE SINCE 2006</b></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+					</div>
+
+				
+			</div>
+			<div class="strm-hero__content-right md:col-span-2 columns-1 md:columns-2 text-body-lg text-left">
+				<p><strong>INSTITUTION FOR ELECTRONIC MUSIC</strong><p><span style="font-weight: 400;">Since 2006, Str&oslash;m has supported and developed electronic music culture through artistic programming, education, knowledge sharing and community building.</span></p><p><span style="font-weight: 400;">Our mission is to make electronic music accessible to everyone while strengthening the electronic music ecosystem. Originating as an annual festival in Copenhagen, we have evolved over two decades into a year-round national platform.</span></p><p><span style="font-weight: 400;">Today, we host concerts, workshops, talks, installations and residencies across Denmark, providing spaces for everyone from newcomers to seasoned artists to engage with the scene.</span></p><p><strong><a href="https://strm.dk/about/">READ MORE ABOUT STR&Oslash;M</a></strong></p><p style="text-align: left;">
+</p></p>
+			</div>
+		</div>
+	</section>
+
+<section
+	id=""
+	class="strm-posts pt-0 pb-module-lg bg-sand"
+>
+			<div class="strm-posts__title-row grid grid-cols-[2fr_auto] md:grid-cols-3 gap-col items-start mx-margin py-4 border-b-2 border-current">
+			<h2 class="md:col-span-2 text-display tracking-elza leading-none m-0">
+				<strong>LATEST</strong>			</h2>
+
+							<span class="strm-posts__logomark shrink-0 [&_svg]:h-[0.8em] [&_svg]:w-auto text-display leading-none justify-self-end self-center" aria-hidden="true">
+					<svg class="strm-logomark" xmlns="http://www.w3.org/2000/svg" viewBox="38 175 490 215" fill="currentColor" aria-hidden="true" focusable="false"><path d="M526.06,179.5l-1.67-1.78c-2.79-2.96-7.47-3.01-10.32-.1l-114.21,116.58c-4.89,4.99-13.37,1.53-13.37-5.46l.04-106.27c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22l-115.13,119.92c-4.87,5.07-13.43,1.62-13.42-5.4l.04-109.67c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22L40.93,377.49c-2.65,2.75-2.67,7.09-.06,9.87l1.67,1.78c2.79,2.96,7.47,3.01,10.32.1l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88h0s0,0,0-.01l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88l48.3-51.14,143.38-148.78c2.65-2.75,2.67-7.09.06-9.87Z"/></svg>				</span>
+					</div>
+	
+	
+			<div class="strm-posts__grid px-margin pt-module-sm grid grid-cols-1 md:grid-cols-3 gap-x-col gap-y-module-sm">
+			
+<article class="strm-archive__card flex flex-col" style="--i:0">
+
+	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
+					<a href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/"><span><strong>Strøm Current</strong> —  Sofus Forsberg Forever</span></a>
+			</h3>
+
+	<a href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/" class="strm-archive__card-image overflow-hidden block aspect-[4/3]" tabindex="-1" aria-hidden="true">
+					<img width="1000" height="750" src="https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-1000x750.webp" class="w-full h-full object-cover object-center" alt="Strøm Current: Sofus Forsberg Forever" loading="lazy" sizes="auto, (min-width: 768px) 33vw, 100vw" decoding="async" srcset="https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-1000x750.webp 1000w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-900x675.webp 900w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-768x576.webp 768w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large-600x450.webp 600w, https://strm.dk/wp-content/uploads/Sofus-Forsberg-DK-Hjemmeside_large.webp 1200w" />			</a>
+
+	<div class="strm-archive__card-labels flex justify-between gap-4 uppercase text-body-lg mt-2 md:mt-4">
+		<span>12.08.2026</span>
+		<span class="shrink-0 text-right">Strøm Current</span>
+	</div>
+
+	<div class="strm-archive__card-excerpt text-body-lg text-left mt-2">
+					A vital force in Danish experimental electronic music, Sofus Forsberg, has passed on to the next dimension. 			</div>
+
+	<a
+		href="https://strm.dk/articles/strom-current-sofus-forsberg-forever/"
+		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
+	>Read more</a>
+
+	<div class="strm-card__spacer" aria-hidden="true"></div>
+
+</article>
+
+<article class="strm-archive__card flex flex-col" style="--i:1">
+
+	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
+					<a href="https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/"><strong>Xuri &amp; John Cleworth:</strong> A Place of Transit</a>
+			</h3>
+
+	<a href="https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/" class="strm-archive__card-image overflow-hidden block aspect-[4/3]" tabindex="-1" aria-hidden="true">
+					<img width="1000" height="667" src="https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-1000x667.webp" class="w-full h-full object-cover object-center" alt="Xuri &#038; John Cleworth: A Place of Transit" loading="lazy" decoding="async" srcset="https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-1000x667.webp 1000w, https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-900x600.webp 900w, https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-1600x1067.webp 1600w, https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-768x512.webp 768w, https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-1536x1024.webp 1536w, https://strm.dk/wp-content/uploads/DSCF4696-cleworths-sofa-bred-strom-600x400.webp 600w" sizes="auto, (max-width: 1000px) 100vw, 1000px" />			</a>
+
+	<div class="strm-archive__card-labels flex justify-between gap-4 uppercase text-body-lg mt-2 md:mt-4">
+		<span>
+			10.08.2026-16.08.2026					</span>
+		<span class="shrink-0 text-right">EVENT</span>
+	</div>
+
+	<div class="strm-archive__card-excerpt text-body-lg text-left mt-2">
+					For hundreds of years, bells in city squares have called people into the city centre. This August, a modern interpretation of the city square bells&hellip;			</div>
+
+	<a
+		href="https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/"
+		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
+	>Read more</a>
+
+	<div class="strm-card__spacer" aria-hidden="true"></div>
+
+</article>
+
+<article class="strm-archive__card flex flex-col" style="--i:2">
+
+	<h3 class="text-menu uppercase tracking-elza leading-none mb-2 md:mb-4">
+					<a href="https://strm.dk/articles/strom-mixx-053-silva-snipa/">Strøm Mixx 053: <strong>Silva Snipa</strong></a>
+			</h3>
+
+	<a href="https://strm.dk/articles/strom-mixx-053-silva-snipa/" class="strm-archive__card-image overflow-hidden block aspect-[4/3]" tabindex="-1" aria-hidden="true">
+					<img width="1000" height="1083" src="https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618-1000x1083.webp" class="w-full h-full object-cover object-center" alt="Strøm Mixx 053: Silva Snipa" loading="lazy" sizes="auto, (min-width: 768px) 33vw, 100vw" decoding="async" srcset="https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618-1000x1083.webp 1000w, https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618-831x900.webp 831w, https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618-768x832.webp 768w, https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618-600x650.webp 600w, https://strm.dk/wp-content/uploads/IMG_2440-1-e1783426696618.webp 1365w" />			</a>
+
+	<div class="strm-archive__card-labels flex justify-between gap-4 uppercase text-body-lg mt-2 md:mt-4">
+		<span>25.06.2026</span>
+		<span class="shrink-0 text-right">Strøm Mixx</span>
+	</div>
+
+	<div class="strm-archive__card-excerpt text-body-lg text-left mt-2">
+					"Some of the intros are half-time, full of kung-fu dialogue or brilliant, kind-of comedic samples that sounds like it was taped off a battered VHS".			</div>
+
+	<a
+		href="https://strm.dk/articles/strom-mixx-053-silva-snipa/"
+		class="strm-archive__card-link text-body-lg underline mt-auto pt-3 uppercase block"
+	>Read more</a>
+
+	<div class="strm-card__spacer" aria-hidden="true"></div>
+
+</article>
+		</div>
+	
+	
+</section>
+
+<section
+	id=""
+	class="strm-columns pt-0 pb-module-lg bg-brown"
+>
+	<div class="strm-columns__title-row flex items-center justify-between gap-margin mx-margin py-4 border-b-2 border-current">
+					<h2 class="text-display tracking-elza leading-none m-0">
+				<a href="https://strm.dk/music/"><strong>MUSIC</strong></a>			</h2>
+		
+					<span class="strm-columns__logomark shrink-0 [&_svg]:h-[0.8em] [&_svg]:w-auto text-display leading-none" aria-hidden="true">
+				<svg class="strm-logomark" xmlns="http://www.w3.org/2000/svg" viewBox="38 175 490 215" fill="currentColor" aria-hidden="true" focusable="false"><path d="M526.06,179.5l-1.67-1.78c-2.79-2.96-7.47-3.01-10.32-.1l-114.21,116.58c-4.89,4.99-13.37,1.53-13.37-5.46l.04-106.27c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22l-115.13,119.92c-4.87,5.07-13.43,1.62-13.42-5.4l.04-109.67c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22L40.93,377.49c-2.65,2.75-2.67,7.09-.06,9.87l1.67,1.78c2.79,2.96,7.47,3.01,10.32.1l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88h0s0,0,0-.01l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88l48.3-51.14,143.38-148.78c2.65-2.75,2.67-7.09.06-9.87Z"/></svg>			</span>
+			</div>
+
+			<div class="strm-columns__content px-margin pt-module-sm grid grid-cols-1 md:grid-cols-3 gap-col">
+			<div class="strm-columns__content-left md:col-span-1 text-body-lg text-left">
+				<p><strong><a class="no-underline" href="https://strm.dk/music/strom-mixx/">STR&Oslash;M MIXX</a></strong><p><strong><a class="no-underline" href="https://strm.dk/music/current/">STR&Oslash;M CURRENT</a></strong></p><p><strong><a class="no-underline" href="https://strm.dk/articles/">ARTICLES</a></strong></p><p><strong><a class="no-underline" href="https://strm.dk/music/strom-sound-system/">STR&Oslash;M SOUND SYSTEM</a></strong></p></p>
+			</div>
+			<div class="strm-columns__content-right md:col-span-2 columns-1 md:columns-2 text-body-lg text-left">
+				<p><span style="font-weight: 400;">From bass pressure and club experimentation to ambient excursions and emerging sounds, this is where Str&oslash;m&rsquo;s musical universe unfolds.</span><p><span style="font-weight: 400;">Explore everything from our bi-monthly mixtape series and curated playlists to insights into the Str&oslash;m Sound System, alongside recommendations, reflections, and discoveries from the music, ideas, and people currently inspiring us.</span></p><p><span style="font-weight: 400;">Dive into the latest mixes, revisit gems from the archive, and find your way into our studios, events, and community.</span></p><p style="text-align: left;"><a class="btn" href="https://strm.dk/music/">READ MORE </a></p></p>
+			</div>
+		</div>
+	</section>
+
+<section
+	id=""
+	class="strm-media"
+	data-strm-gallery-scope
+>
+
+	
+					<div class="strm-media__media">
+				<img width="1920" height="1280" src="https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-1920x1280.webp" class="block w-full h-auto" alt="" loading="eager" decoding="async" srcset="https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-1920x1280.webp 1920w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-900x600.webp 900w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-1600x1066.webp 1600w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-768x512.webp 768w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-1536x1024.webp 1536w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-600x400.webp 600w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008-1000x667.webp 1000w, https://strm.dk/wp-content/uploads/20260420_STROM_PhotoMaltheIvarsson_0008.webp 2048w" sizes="(max-width: 1920px) 100vw, 1920px" />			</div>
+		
+	
+	
+</section>
+
+<section
+	id=""
+	class="strm-columns pt-0 pb-module-lg bg-salvie"
+>
+	<div class="strm-columns__title-row flex items-center justify-between gap-margin mx-margin py-4 border-b-2 border-current">
+					<h2 class="text-display tracking-elza leading-none m-0">
+				<a href="https://strm.dk/studios/"><strong>STUDIOS</strong></a>			</h2>
+		
+					<span class="strm-columns__logomark shrink-0 [&_svg]:h-[0.8em] [&_svg]:w-auto text-display leading-none" aria-hidden="true">
+				<svg class="strm-logomark" xmlns="http://www.w3.org/2000/svg" viewBox="38 175 490 215" fill="currentColor" aria-hidden="true" focusable="false"><path d="M526.06,179.5l-1.67-1.78c-2.79-2.96-7.47-3.01-10.32-.1l-114.21,116.58c-4.89,4.99-13.37,1.53-13.37-5.46l.04-106.27c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22l-115.13,119.92c-4.87,5.07-13.43,1.62-13.42-5.4l.04-109.67c0-.9-.12-1.8-.46-2.64-1.83-4.49-8-6.14-11.77-2.22L40.93,377.49c-2.65,2.75-2.67,7.09-.06,9.87l1.67,1.78c2.79,2.96,7.47,3.01,10.32.1l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88h0s0,0,0-.01l115.67-118.08c4.48-4.57,12.24-1.42,12.26,4.98l.44,108.24c.02,6.46,7.92,9.58,12.35,4.88l48.3-51.14,143.38-148.78c2.65-2.75,2.67-7.09.06-9.87Z"/></svg>			</span>
+			</div>
+
+			<div class="strm-columns__content px-margin pt-module-sm grid grid-cols-1 md:grid-cols-3 gap-col">
+			<div class="strm-columns__content-left md:col-span-1 text-body-lg text-left">
+				<p><a class="no-underline" href="https://strm.dk/studios/djs_all_access/"><strong>DJ STUDIO&nbsp;</strong></a><p><a class="no-underline" href="https://strm.dk/studios/kodbyen/"><strong>K&Oslash;DBYEN STUDIO</strong></a></p><p><a class="no-underline" href="https://strm.dk/studios/kapellet/"><strong>KAPELLET STUDIO&nbsp;</strong></a></p></p>
+			</div>
+			<div class="strm-columns__content-right md:col-span-2 columns-1 md:columns-2 text-body-lg text-left">
+				<p><span style="font-weight: 400;">Str&oslash;m Studios is a growing network of spaces dedicated to electronic music creation, exploration, and practice. </span><p><span style="font-weight: 400;">Across three unique studios in Copenhagen, artists and DJs can access professional equipment, rare instruments, focused working environments, and opportunities for experimentation, production, rehearsal, and recording.</span></p><p>&nbsp;</p><p style="text-align: left;"><a class="btn" href="https://strm.dk/studios/">READ MORE</a></p></p>
+			</div>
+		</div>
+	</section>
+
+<section
+	id=""
+	class="strm-columns pt-0 pb-module-lg bg-rosa"
+>
+	<div class="strm-columns__title-row flex items-center justify-between gap-margin mx-margin py-4 border-b-2 border-current">
+					<h2 class="text-display tracking-elza leading-none m-0">
+				<strong>STAY IN THE LOOP?</strong>			</h2>
+		
+			</div>
+
+			<div class="strm-columns__content px-margin pt-module-sm grid grid-cols-1 md:grid-cols-3 gap-col">
+			<div class="strm-columns__content-left md:col-span-1 text-body-lg text-left">
+				<p><strong>Sign up to our newsletter to know about future events, residencies, mixes, workshops and more.</strong></p>
+			</div>
+			<div class="strm-columns__content-right md:col-span-2 columns-1 md:columns-2 text-body-lg text-left">
+				<p>Afraid we will spam you? Don&rsquo;t worry, newsletters are rare, however thoughtfully crafted.<p class="column-break" style="text-align: left;">	</p><form action="https://strm.us10.list-manage.com/subscribe/post?u=cd558da660a1d9d3cfbb35fba&amp;id=17604d95f4&amp;f_id=003455e4f0" method="post" class="strm-newsletter flex flex-col gap-6">
+		<label class="strm-newsletter__field flex flex-col gap-2 relative after:content-[''] after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-1 after:origin-right after:scale-x-0 after:bg-current after:opacity-0 after:transition after:duration-300 focus-within:after:origin-left focus-within:after:scale-x-100 focus-within:after:opacity-100">
+			<span class="strm-newsletter__label uppercase">NAME <span aria-hidden="true">*</span></span>
+			<input type="text" name="FNAME" autocomplete="given-name" required class="focus-visible:outline-none">
+		</label>
+
+		<label class="strm-newsletter__field flex flex-col gap-2 relative after:content-[''] after:pointer-events-none after:absolute after:inset-x-0 after:bottom-0 after:h-1 after:origin-right after:scale-x-0 after:bg-current after:opacity-0 after:transition after:duration-300 focus-within:after:origin-left focus-within:after:scale-x-100 focus-within:after:opacity-100">
+			<span class="strm-newsletter__label uppercase">EMAIL <span aria-hidden="true">*</span></span>
+			<input type="email" name="EMAIL" autocomplete="email" required class="focus-visible:outline-none">
+		</label>
+
+					<div class="strm-newsletter__consent flex items-start gap-3">
+				<input type="checkbox" id="strm-newsletter-consent" required aria-labelledby="strm-newsletter-consent-text" class="mt-1">
+				<div id="strm-newsletter-consent-text" class="strm-newsletter__consent-text"><p>Yes, I&rsquo;d like to receive newsletters from Str&oslash;m by email. I can unsubscribe at any time via the link in the newsletter. Read how we handle your personal data in our <a href="/privacy-policy">privacy policy</a>.</p>
+ <span aria-hidden="true">*</span></div>
+			</div>
+		
+		
+		<button type="submit" class="btn btn-secondary block w-full text-center">SIGN UP</button>
+	</form></p>
+			</div>
+		</div>
+	</section>
+</article><!-- #post-219 -->
+
+		</main><!-- #main -->
+	</section><!-- #primary -->
+
+
+	</div><!-- #content -->
+
+	
+<footer id="colophon" class="pb-module-lg px-margin flex flex-col gap-10 bg-foreground text-background pt-20 lg:pt-40 xl:pt-60">
+
+			<div class="strm-footer__cols grid grid-cols-2 md:grid-cols-2 gap-col text-body-lg">
+							<div class="strm-footer__left">
+					<p><strong>STRØM S/I</strong><br />
+Kødboderne 30<br />
+1714 København V</p>
+				</div>
+										<div class="strm-footer__right text-right">
+					<p><a href="mailto:info@strm.dk">info@strm.dk</a><p><a href="/cookie-policy">Cookie plicy</a></p><p><a href="/privacy-policy">Privacy policy</a></p></p>
+				</div>
+					</div>
+	
+			<div class="strm-footer__partners flex flex-wrap items-center gap-6 md:gap-16 pt-module-sm">
+												<a href="https://www.kunst.dk/" target="_blank" rel="noopener noreferrer" class="strm-footer__partner block">
+						<img width="412" height="589" src="https://strm.dk/wp-content/uploads/statenskunstfond.webp" class="h-10 md:h-16 w-auto" alt="" loading="lazy" decoding="async" />					</a>
+																<a href="https://www.kk.dk/" target="_blank" rel="noopener noreferrer" class="strm-footer__partner block">
+						<img width="420" height="436" src="https://strm.dk/wp-content/uploads/kk.webp" class="h-10 md:h-16 w-auto" alt="" loading="lazy" decoding="async" />					</a>
+																<a href="https://www.frederiksberg.dk/" target="_blank" rel="noopener noreferrer" class="strm-footer__partner block">
+						<img width="516" height="115" src="https://strm.dk/wp-content/uploads/Frb_logo_sh_neg-2.webp" class="h-10 md:h-16 w-auto" alt="" loading="lazy" decoding="async" />					</a>
+									</div>
+	
+</footer><!-- #colophon -->
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/strm/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="pll_cookie_script-js-after">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=en; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+
+//# sourceURL=pll_cookie_script-js-after
+</script>
+<script id="strm-script-js" src="https://strm.dk/wp-content/themes/strm/js/script.min.js?ver=1783592555"></script>
+
+</body>
+</html>

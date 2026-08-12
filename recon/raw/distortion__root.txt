@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Copenhagen Distortion</title>
+        <meta name="description" content="Copenhagen Distortion is a citywide street festival held yearly in June, celebrating club culture, electronic music, street life and contemporary art.">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+
+        <!-- Open graph -->
+        <meta property="og:image" content="https://www.cphdistortion.dk/img/open-graph-img.png">
+        <meta property="og:title" content="Copenhagen Distortion">
+        <meta property="og:site_name" content="www.cphdistortion.dk">
+        <meta property="og:type" content="website">
+        <meta property="og:description" content="Copenhagen Distortion is a citywide street festival held yearly in June, celebrating club culture, electronic music, street life and contemporary art.">
+        <meta property="og:url" content="https://www.cphdistortion.dk/">
+
+        <link rel="icon" type="image/x-icon" href="/favicon.ico">
+        
+        <link id="canonical" rel="canonical" href="https://www.cphdistortion.dk/">
+
+        
+
+        <!-- Google Tag Manager -->
+        <script>!function(){"use strict";function l(e){for(var t=e,r=0,n=document.cookie.split(";");r<n.length;r++){var o=n[r].split("=");if(o[0].trim()===t)return o[1]}}function s(e){return localStorage.getItem(e)}function u(e){return window[e]}function A(e,t){e=document.querySelector(e);return t?null==e?void 0:e.getAttribute(t):null==e?void 0:e.textContent}var e=window,t=document,r="script",n="dataLayer",o="https://ss.cphdistortion.dk",a="",i="e764inczyfsbr",c="7jpgyfvk=GwZOIS03TiUjKDFfPjFFGE9QXVdfHg1TERIbAhAJFwEAFhoJF1QHBQ%3D%3D",g="stapeUserId",v="",E="",d=!1;try{var d=!!g&&(m=navigator.userAgent,!!(m=new RegExp("Version/([0-9._]+)(.*Mobile)?.*Safari.*").exec(m)))&&16.4<=parseFloat(m[1]),f="stapeUserId"===g,I=d&&!f?function(e,t,r){void 0===t&&(t="");var n={cookie:l,localStorage:s,jsVariable:u,cssSelector:A},t=Array.isArray(t)?t:[t];if(e&&n[e])for(var o=n[e],a=0,i=t;a<i.length;a++){var c=i[a],c=r?o(c,r):o(c);if(c)return c}else console.warn("invalid uid source",e)}(g,v,E):void 0;d=d&&(!!I||f)}catch(e){console.error(e)}var m=e,g=(m[n]=m[n]||[],m[n].push({"gtm.start":(new Date).getTime(),event:"gtm.js"}),t.getElementsByTagName(r)[0]),v=I?"&bi="+encodeURIComponent(I):"",E=t.createElement(r),f=(d&&(i=8<i.length?i.replace(/([a-z]{8}$)/,"kp$1"):"kp"+i),!d&&a?a:o);E.async=!0,E.src=f+"/"+i+".js?"+c+v,null!=(e=g.parentNode)&&e.insertBefore(E,g)}();</script>
+        <!-- End Google Tag Manager -->
+
+        <!-- Google tag (gtag.js) -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=AW-759771005"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'AW-759771005');
+        </script>
+
+        <script>
+        	window.$  = document.querySelector.bind(document);
+			window.$$ = document.querySelectorAll.bind(document);
+        </script>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+        <link href="/css/main.css?v=1779994511" rel="stylesheet">
+    </head>
+
+	<body id="bd">
+        <div class="page-wrapper">
+            <header id="hd" class="header">
+                                <nav id="nv" class="nav">
+                    <a class="logo" href="/">
+                        <img src="/img/copenhagen-distortion-festival-logo.svg" width="150" height="150" alt="Copenhagen Distortion Festival logo.">
+                    </a>
+                    <div>
+                        <a class="menu-ticket" href="/tickets">
+                            <span class="sr-only">Buy tickets</span>
+                            <svg aria-hidden="true" focusable="false">
+                                <use href="#ticketIcon"></use>
+                            </svg>
+                        </a>
+                        <button id="mnBtn" class="menu-btn" type="button" aria-label="Open menu" onclick="const open = $('#mn').classList.toggle('anim'); this.classList.toggle('anim', open); this.setAttribute('aria-expanded', open);">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </button>
+                    </div>
+                    <div id="mn" class="menu">
+                        <ul class="main-menu"><li><a href="/tickets">Tickets</a></li><li><details class="menu-accordion"><summary>Artists</summary><div class="content"><ul class="sub-menu"><li><a href="/lineup-distortion-oe">Distortion Ø</a></li><li><a href="/lineup-distortion-x">Distortion X</a></li></ul></div></details></li><li><details class="menu-accordion"><summary>Programme</summary><div class="content"><ul class="sub-menu"><li><a href="/schedule">Day-by-day Overview</a></li><li><a href="/event/oe">Distortion Ø</a></li><li><details class="menu-accordion"><summary>Distortion X</summary><div class="content"><ul class="sub-menu"><li><a href="/event/distortion-x-radhuspladsen-wednesday">3 June: X Rådhuspladsen</a></li><li><a href="/event/distortion-x-vesterbro">4 June: X Vesterbro</a></li><li><a href="/event/distortion-x-radhuspladsen-friday">5 June: X Rådhuspladsen</a></li></ul></div></details></li><li><a href="/event/distortion-club">Distortion Club</a></li><li><a href="/event/havnefest">Havnefest</a></li><li><a href="/event/streetparty">Vesterbro Street Party</a></li><li><a href="/event/openingceremony">Opening Ceremony</a></li><li><a href="/event/champagne-og-poelser">Champagne &amp; Pølser Reception</a></li></ul></div></details></li><li><details class="menu-accordion"><summary>FAQ</summary><div class="content"><ul class="sub-menu"><li><a href="/tickets-faq">Tickets</a></li><li><a href="/distortionoe-faq">Distortion Ø</a></li><li><a href="/faq-distortionxvesterbro">Distortion X Vesterbro</a></li><li><a href="/faq-rhp">Distortion X Rådhuspladsen</a></li></ul></div></details></li><li><a href="/nabo">Nabo</a></li><li><details class="menu-accordion"><summary>Info</summary><div class="content"><ul class="sub-menu"><li><a href="/art-atmosphere">Art &amp; Atmosphere</a></li><li><a href="/fb">Food &amp; Beverages</a></li><li><a href="/nabo">Nabo</a></li><li><a href="/lostandfound">Lost &amp; Found</a></li><li><a href="/volunteer">Volunteer</a></li><li><a href="/streethost">Streethost</a></li><li><a href="/app">App</a></li><li><a href="https://cphdistortion.bigcartel.com" target="_blank" rel="noopener">Merchandise</a></li><li><a href="/history">History</a></li><li><a href="/vaerdier-og-adfaerdskodeks">Values</a></li><li><a href="/jobs">Job Postings</a></li><li><a href="/about">About</a></li></ul></div></details></li></ul>                        <div class="menu-info">
+                            <div>
+                                <a href="https://www.instagram.com/cphdistortion/" target="_blank" rel="noopener">
+                                    <span class="sr-only">Visit our Instagram page</span>
+                                    <svg aria-hidden="true" focusable="false">
+                                        <use href="#instagram"></use>
+                                    </svg>
+                                </a>
+                                <a href="https://www.facebook.com/cphdistortion" target="_blank" rel="noopener">
+                                    <span class="sr-only">Visit our Facebook page</span>
+                                    <svg aria-hidden="true" focusable="false">
+                                        <use href="#facebook"></use>
+                                    </svg>
+                                </a>
+                                <a href="https://www.tiktok.com/@cphdistortion" target="_blank" rel="noopener">
+                                    <span class="sr-only">Visit our TikTok page</span>
+                                    <svg aria-hidden="true" focusable="false">
+                                        <use href="#tiktok"></use>
+                                    </svg>
+                                </a>
+                            </div>
+                            <div>
+                                <a href="https://play.google.com/store/apps/details?id=dk.cphdistortion.app" target="_blank" rel="noopener">
+                                    <img src="/img/google-play-logo.svg" width="120" height="40" alt="Google Play logo.">
+                                </a>
+                                <a href="https://apps.apple.com/us/app/distortion-festival/id1671396156" target="_blank" rel="noopener">
+                                    <img src="/img/apple-store-logo.svg" width="120" height="40" alt="Apple Store logo.">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </nav>
+            </header>
+            <main id="cntnt">
+<img src="/media/images/content/218/p_50c079a0/blind-bird-gen-2027.png?height=800&width=640&name=image&v=1781206905" width="640" height="800" alt="blind bird gen">			</main>
+			<footer>
+				<div class="newsletter-wrap">
+					<iframe width="540" height="305" src="https://36aac2b7.sibforms.com/serve/MUIFAJJq2loP-ibppWDDBbw5M_X8o1k7m2G1Gh85nxfaTvhe6j9ZINz5J3xVVH11dtiiETYccKR9k9DquDggjchtJSkMwuBwRiQv7a2pXkfJq66X0e8CTErojBFHqByPr0zO8FpTn8YvYKhkREJLjxTq5VL66kN2--S08x5M4P79C4YakVls3rB1Q4QCbllziqpCokwkUuG4IOjS" frameborder="0" scrolling="auto" allowfullscreen style="display: block;margin-left: auto;margin-right: auto;max-width: 350px;"></iframe>
+				</div>
+				<div class="menu-info">
+					<div style="margin: 0 auto;">
+						<a href="https://www.instagram.com/cphdistortion/" target="_blank" rel="noopener">
+							<span class="sr-only">Visit our Instagram page</span>
+							<svg aria-hidden="true" focusable="false">
+								<use href="#instagram"></use>
+							</svg>
+						</a>
+						<a href="https://www.facebook.com/cphdistortion" target="_blank" rel="noopener">
+							<span class="sr-only">Visit our Facebook page</span>
+							<svg aria-hidden="true" focusable="false">
+								<use href="#facebook"></use>
+							</svg>
+						</a>
+						<a href="https://www.tiktok.com/@cphdistortion" target="_blank" rel="noopener">
+							<span class="sr-only">Visit our TikTok page</span>
+							<svg aria-hidden="true" focusable="false">
+								<use href="#tiktok"></use>
+							</svg>
+						</a>
+					</div>
+					<div>
+						<a href="https://play.google.com/store/apps/details?id=dk.cphdistortion.app" target="_blank" rel="noopener">
+							<img src="/img/google-play-logo.svg" width="120" height="40" alt="Google Play logo.">
+						</a>
+						<a href="https://apps.apple.com/us/app/distortion-festival/id1671396156" target="_blank" rel="noopener">
+							<img src="/img/apple-store-logo.svg" width="120" height="40" alt="Apple Store logo.">
+						</a>
+					</div>
+				</div>
+				<a class="footer-logo" href="/">
+					<img src="/img/copenhagen-distortion-festival-logo.svg" width="150" height="150" alt="Copenhagen Distortion Festival logo.">
+				</a>
+								<p>Website developed and hosted by <a href="https://muld.digital" target="_blank" rel="noopener">MULD Digital</a></p>
+								<div class="footer-text">
+					<p><span>Distortion</span> <span>3-7 June 2026</span> <span>All over Copenhagen</span></p>
+				</div>
+			</footer>
+		</div>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://ss.cphdistortion.dk/ns.html?id=GTM-KQJB9GK"; height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->			
+		<script src="/js/app.js" async></script>
+		<svg class="svg-sprite" xmlns="http://www.w3.org/2000/svg">
+    <symbol id="ticketIcon" viewBox="0 0 24.38 44.12">
+        <path d="M24.38,1.16v41.8c0,.64-.52,1.16-1.16,1.16h-6.39c-.64,0-1.16-.52-1.16-1.16,0-1.92-1.56-3.48-3.48-3.48s-3.48,1.56-3.48,3.48c0,.64-.52,1.16-1.16,1.16H1.16c-.64,0-1.16-.52-1.16-1.16V1.16C0,.52.52,0,1.16,0h6.38c.64,0,1.16.52,1.16,1.16,0,1.92,1.56,3.48,3.48,3.48s3.48-1.56,3.48-3.48h0c0-.64.52-1.16,1.16-1.16h6.39c.64,0,1.16.52,1.16,1.16ZM22.06,41.8V2.32h-4.18c-.62,3.14-3.67,5.19-6.82,4.56-2.3-.46-4.11-2.26-4.56-4.56H2.32v39.48h4.18c.62-3.14,3.68-5.18,6.82-4.56,2.3.46,4.1,2.26,4.56,4.56h4.18ZM4.1,13.32c0-.91.74-1.65,1.65-1.65s1.65.74,1.65,1.65-.74,1.65-1.65,1.65-1.65-.74-1.65-1.65ZM9.95,13.32c0-.91.74-1.65,1.65-1.65s1.65.74,1.65,1.65-.74,1.65-1.65,1.65-1.65-.74-1.65-1.65ZM15.8,13.32c0-.91.74-1.65,1.65-1.65s1.65.74,1.65,1.65-.74,1.65-1.65,1.65-1.65-.74-1.65-1.65Z"/>
+    </symbol>
+    
+    <symbol id="arrow" viewBox="0 0 15 14" >
+        <path d="M6.91683 2.33301V9.43509L3.65016 6.16842L2.8335 6.99967L7.50016 11.6663L12.1668 6.99967L11.3502 6.16842L8.0835 9.43509V2.33301H6.91683Z"/>
+    </symbol>
+
+    <symbol id="remove" viewBox="0 0 14 2">
+        <path d="M14,2H0V0h14V2z"/>
+    </symbol>
+
+    <symbol id="add" viewBox="0 0 24 24">
+        <path d="M0 0h24v24H0V0z" fill="none"/>
+        <path d="M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"/>
+    </symbol>
+
+    <symbol id="phone" viewBox="0 0 14 22">
+        <path d="M11,0H3C1.3,0,0,1.3,0,3v16c0,1.7,1.3,3,3,3h8c1.7,0,3-1.3,3-3V3C14,1.3,12.7,0,11,0z M9,20H5v-1h4V20z M12.2,17H1.8V3h10.5V17z"/>
+    </symbol>
+
+    <symbol id="mail" viewBox="0 0 24 24">
+        <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
+        <path d="M0 0h24v24H0z" fill="none"/>
+    </symbol>
+
+    <symbol id="checkmark" viewBox="0 0 17.6 13.4">
+        <path d="M5.6,10.6L1.4,6.4L0,7.8l5.6,5.6l12-12L16.2,0L5.6,10.6z"/>
+    </symbol>
+
+    <symbol id="tiktok" viewBox="0 0 34.77 40">
+        <path d="M18.26.04c2.18-.04,4.35-.02,6.52-.04.06,2.6,1.11,5.09,2.92,6.95h0c1.94,1.75,4.42,2.8,7.03,2.98h.04v6.72c-2.46-.06-4.88-.62-7.11-1.66l.11.05c-.96-.46-1.89-1-2.77-1.6l.07.05c-.02,4.87.02,9.74-.03,14.58-.13,2.37-.91,4.66-2.28,6.61l.03-.04c-2.24,3.24-5.89,5.23-9.83,5.35h-.02c-.16,0-.36.01-.55.01-2.22,0-4.4-.61-6.3-1.76l.05.03C2.73,36.24.48,32.74.05,28.8v-.05c-.05-.83-.06-1.67-.03-2.48.65-6.42,6.04-11.3,12.49-11.31.72,0,1.43.06,2.14.18h-.08c.03,2.45-.07,4.92-.07,7.39-.61-.22-1.25-.32-1.89-.32-2.43,0-4.59,1.53-5.4,3.82v.04c-.2.62-.29,1.26-.29,1.9,0,.27.02.54.05.81v-.03c.44,2.75,2.81,4.78,5.6,4.79.08,0,.16,0,.24,0h-.01c1.88-.06,3.61-1.06,4.6-2.66v-.02c.38-.52.62-1.12.69-1.75v-.02c.17-2.98.1-5.95.12-8.94.02-6.72-.02-13.42.03-20.12h.02Z"/>
+    </symbol>
+
+    <symbol id="facebook" viewBox="0 0 20 40.01">
+        <path d="M13.64,40.01v-18h5.47l.89-8h-6.36v-3.9c0-2.06.05-4.1,2.93-4.1h2.92V.29C17.82.07,16.14-.03,14.45,0,9.16,0,5.85,3.33,5.85,9.41v4.6H0v8h5.85v18h7.8Z"/>
+    </symbol>
+
+    <symbol id="instagram" viewBox="0 0 40 40">
+        <path d="M20,7.84c-6.71,0-12.16,5.44-12.16,12.16,0,6.71,5.44,12.16,12.16,12.16h0c6.71,0,12.16-5.44,12.16-12.16s-5.44-12.16-12.16-12.16ZM20,28.11h0c-4.47,0-8.1-3.63-8.1-8.1,0-4.47,3.63-8.1,8.1-8.1s8.1,3.63,8.1,8.1-3.63,8.1-8.1,8.1Z"/>
+        <path d="M31.06,7.37c-.87,0-1.57.7-1.57,1.57s.7,1.57,1.57,1.57,1.57-.7,1.57-1.57-.7-1.57-1.57-1.57Z"/>
+        <path d="M38.81,5.96c-1.05-2.05-2.71-3.72-4.77-4.77-2.33-1.19-5.39-1.19-11.5-1.19h-5.09c-6.11,0-9.16,0-11.5,1.19C3.9,2.23,2.23,3.9,1.19,5.96c-1.19,2.33-1.19,5.39-1.19,11.5v5.09c0,6.11,0,9.16,1.19,11.5,1.05,2.05,2.71,3.72,4.77,4.77,2.33,1.19,5.39,1.19,11.5,1.19h5.09c6.11,0,9.16,0,11.5-1.19,2.05-1.05,3.72-2.71,4.77-4.77,1.19-2.33,1.19-5.39,1.19-11.5v-5.09c0-6.11,0-9.16-1.19-11.5ZM36.36,22.54c0,3.11,0,5.23-.14,6.87-.02,1.03-.24,2.04-.66,2.98-.7,1.37-1.81,2.48-3.18,3.18-.94.41-1.95.63-2.98.66-1.64.14-3.75.14-6.87.14h-5.09c-3.11,0-5.23,0-6.87-.14-1.03-.02-2.04-.24-2.98-.66-1.37-.7-2.48-1.81-3.18-3.18-.41-.94-.63-1.95-.66-2.98-.14-1.64-.14-3.75-.14-6.87v-5.09c0-3.11,0-5.23.14-6.87.02-1.03.24-2.04.66-2.98.7-1.37,1.81-2.48,3.18-3.18.94-.41,1.95-.63,2.98-.66,1.64-.14,3.75-.14,6.87-.14h5.09c3.11,0,5.23,0,6.87.14,1.03.02,2.04.24,2.98.66,1.37.7,2.48,1.81,3.18,3.18.41.94.63,1.95.66,2.98.14,1.64.14,3.75.14,6.87v5.09Z"/>
+    </symbol>
+</svg>
+    <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon='{"version":"2024.11.0","token":"9d432d1f038b4410a364ed392aa0da79","r":1}' crossorigin="anonymous"></script>
+</body>
+</html>

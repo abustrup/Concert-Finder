@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <meta name="view-transition" content="same-origin">
+    <meta name="color-scheme" content="light" data-default="light dark">
+    <meta name="apple-mobile-web-app-title" content="Heartland">
+    <style blocking="render">
+        @view-transition { navigation: auto; }
+        ::view-transition-old(root) { animation-duration: 0.6s; }
+        ::view-transition-new(root) { animation-duration: 0.6s; animation-delay: 0.3s; }
+    </style>
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-T4XT6KZ');</script>
+    <!-- End Google Tag Manager -->
+    <link rel="preload" href="https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/fonts/Telegraf-Variable.ttf" as="font" type="font/ttf" crossorigin>
+<link rel="preconnect" href="https://api.open-meteo.com" crossorigin>
+<link rel="dns-prefetch" href="https://api.open-meteo.com">
+<link rel="preconnect" href="https://embeds.appmiral.com" crossorigin>
+<link rel="dns-prefetch" href="https://embeds.appmiral.com">
+
+	<!-- This site is optimized with the Yoast SEO plugin v27.5 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Program &#8212; Heartland</title>
+	<link rel="canonical" href="https://new-2026.heartlandfestival.dk/program/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Program &#8212; Heartland" />
+	<meta property="og:url" content="https://new-2026.heartlandfestival.dk/program/" />
+	<meta property="og:site_name" content="Heartland" />
+	<meta property="article:publisher" content="https://www.facebook.com/heartlandfestivaldk" />
+	<meta property="article:modified_time" content="2026-03-11T10:44:19+00:00" />
+	<meta property="og:image" content="https://heartlandfestival.dk/wp-content/uploads/2026/02/Hero_img-scaled-1.jpg" />
+	<meta property="og:image:width" content="2560" />
+	<meta property="og:image:height" content="1440" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/new-2026.heartlandfestival.dk\/program\/","url":"https:\/\/new-2026.heartlandfestival.dk\/program\/","name":"Program &#8212; Heartland","isPartOf":{"@id":"https:\/\/heartlandfestival.dk\/#website"},"datePublished":"2026-01-13T01:04:59+00:00","dateModified":"2026-03-11T10:44:19+00:00","breadcrumb":{"@id":"https:\/\/new-2026.heartlandfestival.dk\/program\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/new-2026.heartlandfestival.dk\/program\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/new-2026.heartlandfestival.dk\/program\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/heartlandfestival.dk\/"},{"@type":"ListItem","position":2,"name":"Program"}]},{"@type":"WebSite","@id":"https:\/\/heartlandfestival.dk\/#website","url":"https:\/\/heartlandfestival.dk\/","name":"Heartland Festival","description":"10 – 12 JUNI 2027 @ Egeskov","publisher":{"@id":"https:\/\/heartlandfestival.dk\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/heartlandfestival.dk\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/heartlandfestival.dk\/#organization","name":"Heartland Festival","url":"https:\/\/heartlandfestival.dk\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/heartlandfestival.dk\/#\/schema\/logo\/image\/","url":"https:\/\/heartlandfestival.dk\/wp-content\/uploads\/2026\/02\/Heartland2021_Facebook_Ikon_Profilbillede_1024x1024-1024x1024-1.jpg","contentUrl":"https:\/\/heartlandfestival.dk\/wp-content\/uploads\/2026\/02\/Heartland2021_Facebook_Ikon_Profilbillede_1024x1024-1024x1024-1.jpg","width":1024,"height":1024,"caption":"Heartland Festival"},"image":{"@id":"https:\/\/heartlandfestival.dk\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.facebook.com\/heartlandfestivaldk","https:\/\/www.instagram.com\/heartlandfestivaldk\/?hl=da","https:\/\/www.linkedin.com\/company\/heartlandfestival\/","https:\/\/www.youtube.com\/channel\/UChHpfNbmi-3CfKElVMOpFCQ"]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://heartlandfestival.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fheartlandfestival.dk%2Fprogram%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://heartlandfestival.dk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fheartlandfestival.dk%2Fprogram%2F&#038;format=xml" />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link rel='stylesheet' fetchpriority='high' id='heartland-style-css' href='https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/style.css?ver=1.0.0' media='all' />
+<link rel='stylesheet' id='heartland-main-css' href='https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/main.css?ver=1.0.0' media='all' />
+<script type="text/javascript" src="//heartlandfestival.dk/?wordfence_syncAttackData=1786108169.9938" async></script><style>.wp-block-gallery.is-cropped .blocks-gallery-item picture{height:100%;width:100%;}</style><link rel="icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-180x180.png" />
+<meta name="msapplication-TileImage" content="https://heartlandfestival.dk/wp-content/uploads/2026/02/cropped-favicon-maker-270x270.png" />
+</head>
+
+<body class="wp-singular page-template-default page page-id-892 wp-embed-responsive wp-theme-heartland-festival bg-white text-base-dark antialiased page-program has-bg-video">
+        <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T4XT6KZ"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    
+        <div class="bg-video-container" style="opacity: 1;" aria-hidden="true" inert>
+        <heartland-video
+    video-title="background-video (1).webm"
+    data-src240="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_240p.mp4"
+    data-src360="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_360p.mp4"
+    data-src480="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_480p.mp4"
+    data-src720="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_720p.mp4"
+    data-src1080="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/play_1080p.mp4"
+    data-fallback-src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/original"
+    data-fallback-type="video/webm"
+    data-use-fallback="true"
+    data-autoplay="true"
+    data-loading="eager"
+    class="heartland-video block overflow-hidden group relative h-full bg-video"
+>
+    <div class="video-wrapper relative w-full h-full" style="height: 100%;">
+        <video
+                        autoplay loop muted            controlslist="nodownload"
+            playsinline
+            preload="auto"
+            class="video-element absolute inset-0 w-full h-full object-cover"
+            style="object-position: 50% 50%;"
+            aria-label="background-video (1).webm"
+        >
+            <source src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/original" class="source" type="video/webm">
+                                </video>
+                <img
+            src="https://vz-28e88a7a-7ca.b-cdn.net/f58c9cf8-cb4b-46b2-b9ff-4f8c5ec98248/thumbnail.jpg"
+            alt="background-video (1).webm poster"
+            class="poster absolute inset-0 w-full h-full object-cover pointer-events-none transition-opacity duration-300 z-10"
+            style="object-position: 50% 50%;"
+            loading="eager"
+            decoding="async"
+        >
+                        <button
+            type="button"
+            class="pause-toggle absolute bottom-4 right-4 z-20 w-10 h-10 bg-black/50 hover:bg-black/70 rounded-full flex items-center justify-center transition-all duration-300 cursor-pointer border-0"
+            aria-label="Sæt video på pause"
+            data-label-pause="Sæt video på pause"
+            data-label-play="Afspil video"
+        >
+            <svg class="pause-icon w-5 h-5 text-white" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M6 19h4V5H6v14zm8-14v14h4V5h-4z"/>
+            </svg>
+            <svg class="play-icon w-5 h-5 text-white ml-0.5 hidden" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+                <path d="M8 5v14l11-7z"/>
+            </svg>
+        </button>
+            </div>
+</heartland-video>
+    </div>
+    <script>
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+        const bgVideo = document.querySelector('.bg-video-container video');
+        if (bgVideo) bgVideo.removeAttribute('loop');
+    }
+    </script>
+    
+    <div id="page" class="site bg-transparent">
+        <a class="skip-link sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-rolig-green focus:text-white focus:px-4 focus:py-2 focus:rounded"
+            href="#main-content">
+            Spring til indhold        </a>
+
+        <header
+            x-data="{ ready: false }"
+            x-init="$nextTick(() => ready = true)"
+            class="site-header"
+            :class="ready ? 'transition-all duration-600 ease-in-out' : ''"
+            :style="$store.hero.videoPlaying ? 'opacity: 0; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : ($store.hero.headerHidden ? 'opacity: 1; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : 'opacity: 1; transform: translateY(0)')"
+        >
+            <div class="site-nav section-navigation">
+                <div class="nav-left">
+                    <div class="weather-badge" id="weather-badge" role="group" aria-label="Vejr">
+                        <div class="weather-icon" id="weather-icon">
+                            <!-- Default sun icon -->
+                            <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+                                <circle cx="12" cy="12" r="5" fill="#ffffff" />
+                                <path d="M12 2v2M12 20v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M2 12h2M20 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42" stroke="#ffffff" stroke-width="2" stroke-linecap="round" />
+                            </svg>
+                        </div>
+                        <div class="weather-text">
+                            <span class="weather-temp" id="weather-temp">--°C</span>
+                            <span class="weather-location" id="weather-location">Indlæser...</span>
+                        </div>
+                    </div>
+                    <div class="date-badge" aria-label="Festivaldatoer">
+                        <time datetime="2026-06-18/2026-06-20">
+                            10 – 12 JUNI                        </time>
+                    </div>
+                </div>
+
+                 
+
+                <nav class="nav-right" aria-label="Handlinger">
+                        <a href="https://communication.markethype.io/signup-forms/67cf00f507deb0177c1cf186/" class="btn btn-outline  bg-white" target="_blank" rel="noopener noreferrer">
+        Tilmeld nyhedsbrev                <span class="sr-only">(åbner i nyt faneblad)</span>    </a>
+                        <a href="https://heartlandfestival.dk/billetter/" class="btn btn-tickets">
+        Køb billetter                    </a>
+                    <button class="hamburger" id="hamburger-btn" aria-label="Menu" aria-expanded="false" aria-controls="menu-overlay">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                </nav>
+            </div>
+            <!-- Fullscreen Menu Overlay -->
+            <div class="menu-overlay" id="menu-overlay" aria-hidden="true" inert>
+                <div class="menu-content">
+                    <nav class="menu-nav" aria-label="Hovedmenu">
+                        <a href="https://heartlandfestival.dk/nyheder/">Nyheder</a><a href="https://heartlandfestival.dk/program/" class="active-link" aria-current="page">Program</a><a href="https://heartlandfestival.dk/tidsplan/">Tidsplan</a><a href="https://heartlandfestival.dk/billetter/">Billetter</a><a href="https://heartlandfestival.dk/overnatning/">Overnatning</a>                    </nav>
+                    <div class="menu-footer">
+                        <a href="https://heartlandfestival.dk/om-heartland/" class="menu-footer-link">Om Heartland</a><a href="https://heartlandfestival.dk/praktisk-information/" class="menu-footer-link">Praktisk Information</a><a href="https://heartlandfestival.dk/restauranter/" class="menu-footer-link">Restauranter</a><a href="https://heartlandfestival.dk/bliv-frivillig/" class="menu-footer-link">Bliv frivillig</a><a href="https://heartlandfestival.dk/transport-parkering/" class="menu-footer-link">Transport &amp; Parkering</a><a href="https://heartlandfestival.dk/vip/" class="menu-footer-link">VIP &amp; Virksomheder</a><a href="https://heartlandfestival.dk/partnere/" class="menu-footer-link">Partnere</a>                            <div class="w-full mt-3 lg:hidden">
+                                    <a href="https://communication.markethype.io/signup-forms/67cf00f507deb0177c1cf186/" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
+        Tilmeld nyhedsbrev                <span class="sr-only">(åbner i nyt faneblad)</span>    </a>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+            <div class="menu-backdrop" id="menu-backdrop"></div>
+        </header>
+        <div class="header-logo"  x-data="{ ready: false }"
+            x-init="$nextTick(() => ready = true)"
+            :class="ready ? 'transition-all duration-600 ease-in-out' : ''"
+            :style="$store.hero.videoPlaying ? 'opacity: 0; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : ($store.hero.headerHidden ? 'opacity: 1; transform: translateY(calc(-1 * (var(--nav-height) + var(--admin-bar-height, 0px))))' : 'opacity: 1; transform: translateY(0)')"
+        >
+            <a href="/" class="page-logo" aria-label="Heartland - Gå til forsiden">
+               <svg class="page-logo-svg" role="img" aria-label="Heartland" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 52"><path d="M63.032 5.759c3.22.192 10.212 2.644 12.453 10.949 2.242 8.306-3.669 14.743-6.897 16.918L41.344 51.99l-2.032-4.129 6.916-14.091-.006.024 5.505-11.213c1.246-2.538 2.577-7.712.9-12.684l.04-.153c2.97-3.535 8.152-4.129 10.365-3.985ZM23.352 9.907c-1.676 4.972-.335 10.145.901 12.683l12.348 25.262L34.637 52 7.393 33.636C4.164 31.46-1.747 25.024.495 16.718 2.727 8.403 9.73 5.95 12.95 5.768c2.213-.143 7.386.45 10.365 3.986l.038.153Z" fill="#fff"/><path d="M44.323 1.237c1.992.977 5.963 4.123 6.983 8.632.192.846 1.588 5.067 0 9.83-1.587 4.762-6.418 14.11-6.418 14.11l-6.897 14.053-6.898-14.053s-4.966-10.067-6.418-14.11c-1.453-4.044-.284-8.767 0-9.83 1.19-4.455 4.99-7.645 6.983-8.632C33 .567 35.298-.094 37.991.011c2.691-.105 4.99.556 6.332 1.226Z" fill="#fff"/></svg>
+            </a>
+        </div>
+        
+        
+
+<main id="main-content" tabindex="-1" class="pt-(--nav-height)">
+    <div class="clamp-[pt,2,10]">
+                    
+<div class="heartland-hero-zone">
+    
+
+    <!-- Headline + Text Layout -->
+    <section id="hero-default-block_e81a0b49f847b5e1639386cb4f36cded" class="max-w-page mx-auto section-wide pt-section-y pb-section-y">
+        <div class="grid grid-cols-4 gap-6">
+            <!-- Left Column (Headline) -->
+            <div class="col-span-4 md:col-span-2">
+                <h1 class="text-header-1 text-pretty md:pr-10">
+                    Program                </h1>
+            </div>
+
+            <!-- Right Column (Content) -->
+            <div class="col-span-4 md:col-span-2">
+                                    <div class="prose prose-lg max-w-none">
+                        <p>Heartland inviterer indenfor til Danmarks mest sanselige festivalprogram. Her kan du opleve kæmpekoncerter under åben himmel, inspirerende samtaler, gastronomiske overraskelser og en festivalplads, hvor du går rundt iblandt tronende kunstinstallationer med Egeskov Slot som majestætisk bagtæppe</p>
+                    </div>
+                
+                            </div>
+        </div>
+    </section>
+
+
+</div>
+
+
+<div id="eRgVyLp4cI" class="section-wide pt-0!" style="min-height:600px;contain:layout"></div>
+
+<style>
+#eRgVyLp4cI .appm-ly-timeline-container {
+    width: calc(100vw - 30px) !important;
+    margin-left: calc(-50vw + 50% + 15px) !important;
+}
+</style>
+<script defer src="https://embeds.appmiral.com/eRgVyLp4cI/launch-da.js"></script>
+            </div>
+</main>
+
+
+<footer class="site-footer text-base-dark">
+    <div class="section-wide">
+        <!-- Partners Section -->
+        <div class="flex flex-col lg:flex-row lg:items-center gap-12 lg:justify-between">
+
+            <!-- Main Partners -->
+            
+        </div>
+
+        <!-- Main Content Area -->
+    <div class="flex flex-col lg:flex-row justify-between gap-12 lg:gap-8 py-12 lg:py-20">
+
+            <!-- Address Columns -->
+            <div class="flex flex-col sm:flex-row gap-12 sm:gap-16 lg:gap-24">
+                <!-- Office Address -->
+                <div class="footer-address">
+                    <h2 class="text-small font-bold mb-2">Kontor</h2>
+                    <address class="not-italic text-small leading-[200%] text-base-dark/80">
+                        Heartland Festival<br />
+Frederiksberg Allé 3<br />
+1790 København V<br />
+Danmark                    </address>
+                </div>
+
+                <!-- Festival Address -->
+                <div class="footer-address">
+                    <h2 class="text-small font-bold mb-2">Festival</h2>
+                    <address class="not-italic text-small leading-[200%] text-base-dark/80">
+                        Egeskov slot<br />
+Egeskov Gade 22<br />
+5772 Kværndrup<br />
+Danmark                    </address>
+                </div>
+            </div>
+
+            <!-- Presenting Partner -->
+                            <div class="shrink-0 flex flex-col items-start gap-3">
+                    <span class="text-small font-bold whitespace-nowrap">Hovedpartner</span>
+                                                <img src="https://heartlandfestival.dk/wp-content/uploads/2026/01/logo-1664.svg" alt="Hovedpartner" class="h-12 lg:h-16 w-auto">
+                                        </div>
+                    </div>
+
+        <!-- Bottom Bar -->
+        <div class="pt-6">
+            <div class="flex flex-col lg:flex-row justify-between items-start lg:items-center gap-6">
+
+                <!-- Left Links -->
+                <nav class="footer-nav-left order-1 lg:order-0  -mx-section-x-wide px-section-x-wide border-y border-y-gray-300 w-[calc(100%+var(--spacing-section-x-wide)*2)] py-4 lg:p-0 lg:mx-0 lg:border-0 lg:w-auto" aria-label="Footerlinks">
+                    <ul class="flex flex-wrap gap-6 gap-y-1"><li id="menu-item-906" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-906"><a href="https://heartlandfestival.dk/presse/" class="footer-link">Presse</a></li>
+<li id="menu-item-907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-907"><a href="https://heartlandfestival.dk/kontakt/" class="footer-link">Kontakt</a></li>
+<li id="menu-item-908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-908"><a href="https://heartlandfestival.dk/karriere/" class="footer-link">Karriere</a></li>
+</ul>                </nav>
+
+                <!-- Social Links (Center) -->
+                <nav class="footer-social order-0 lg:order-0" aria-label="Sociale medier">
+                    <p class="text-small font-bold mb-2 lg:hidden">Sociale medier</p>
+                    <ul class="flex flex-wrap gap-x-6 gap-y-1"><li id="menu-item-299" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-299"><a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/heartlandfestivaldk/" class="footer-link">Instagram<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-300" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-300"><a target="_blank" rel="noopener noreferrer" href="https://www.facebook.com/heartlandfestivaldk" class="footer-link">Facebook<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-301" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-301"><a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/company/heartlandfestival/" class="footer-link">LinkedIn<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-302" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-302"><a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/heartlandfestivaldk?si=WQKrcEySTmiA3StsMvHtCw&#038;nd=1&#038;dlsi=ba23db69a6024a13" class="footer-link">Spotify<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+<li id="menu-item-303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-303"><a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UChHpfNbmi-3CfKElVMOpFCQ" class="footer-link">Youtube<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+</ul>                </nav>
+
+                <!-- Right Links (Legal) -->
+                <nav class="footer-nav-right lg:text-right order-2 lg:order-2" aria-label="Juridiske links">
+                    <ul class="flex flex-wrap lg:flex-row lg:items-center gap-y-1 gap-x-6"><li id="menu-item-903" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-903"><a rel="privacy-policy" href="https://heartlandfestival.dk/privatlivs-politik/" class="footer-link">Privatlivs politik</a></li>
+<li id="menu-item-904" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-904"><a href="https://heartlandfestival.dk/cookies/" class="footer-link">Cookies</a></li>
+<li id="menu-item-2262" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2262"><a target="_blank" rel="noopener noreferrer" href="https://info.livenationinternational.com/accessibility-statement" class="footer-link">Accessibility<span class="sr-only"> (åbner i nyt faneblad)</span></a></li>
+</ul>                </nav>
+            </div>
+        </div>
+    </div>
+    <!-- Large Decorative Logo -->
+    <div class="footer-wordmark relative overflow-hidden mt-8">
+                    <img width="1728" height="228" src="https://heartlandfestival.dk/wp-content/uploads/2026/01/footer-logo.svg" alt="" class="w-full h-auto">
+            </div>
+
+</footer>
+
+</div><!-- #page -->
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/heartland-festival/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="heartland-script-js-extra">
+var heartlandData = {"ajaxUrl":"https://heartlandfestival.dk/wp-admin/admin-ajax.php","nonce":"f174d651a9","themeUrl":"https://heartlandfestival.dk/wp-content/themes/heartland-festival","siteUrl":"https://heartlandfestival.dk"};
+//# sourceURL=heartland-script-js-extra
+</script>
+<script type="module" id="heartland-script-js" src="https://heartlandfestival.dk/wp-content/themes/heartland-festival/dist/main.js?ver=1.0.0"></script>
+</body>
+
+</html>
+<!--
+Object Caching 49/65 objects using Disk
+Page Caching using Disk: Enhanced 
+
+Served from: heartlandfestival.dk @ 2026-08-07 15:09:30 by W3 Total Cache
+-->

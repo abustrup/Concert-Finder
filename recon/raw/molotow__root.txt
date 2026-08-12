@@ -1,0 +1,1065 @@
+<!DOCTYPE html>
+<head>
+<title>Molotow</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="expires" content="-1">
+<meta name="viewport" content="initial-scale=0.4">
+<meta name=“viewport“ content=“width=device-width“ />
+<link rel="manifest" href="/manifest.json">
+<link rel="shortcut icon" href="../favicon.ico?v=3" />
+<script type="text/javascript" src="js/prototype.js"></script>
+<script type="text/javascript" src="js/scriptaculous.js"></script>
+<script type="application/javascript" src="https://molotowclub.com/cp_js/js/lightbox.php"></script>
+<link rel="stylesheet" href="https://molotowclub.com/cp_js/css/lightbox.css" type="text/css" media="screen" />
+<script type="text/javascript" src="https://molotowclub.com/cp_js/js/floating_menu.js"></script> 
+
+
+<script type="text/javascript" src="cookie-bar/cookiebar-latest.js?thirdparty=1&scrolling=1&always=1&noGeoIp"></script>
+
+<!---////<script type="text/javascript" src="/js/protoshow.js"></script>////-->
+<link rel="stylesheet" type="text/css" href="protoshow.css">
+	<script type="text/javascript" src="Protoshow/protoshow.js"></script>
+		<script type="text/javascript" src="Protoshow/js/site.js"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments)};
+  gtag('js', new Date());
+
+  gtag('config', 'UA-379334-1');
+</script>
+<link rel="stylesheet" href="mobile.css" type="text/css"  media="only screen and (max-device-width:  480px)" /> 
+<link rel="stylesheet" href="css_0.css" type="text/css" media="screen" />
+<style type="text/css">
+
+
+
+</style>
+
+</head>
+
+
+<body bgcolor="#FFFFFF" class='body_class'>
+
+<div id=menucon>
+
+
+	
+    
+	<link rel="stylesheet" href="../menu/lib.css" type="text/css" media="screen" charset="utf-8">
+	   <script>
+        function loadContent(a, b){
+            document.getElementById(a).innerHTML= b;
+		
+		}
+    </script>
+	<div style=
+position:fixed !important;
+  position:absolute;
+  top:0;
+  right:0;
+  bottom:0;
+  left:0; z-index:-100;"></div>
+	 <div class="center">
+      <div class="links">
+       <a href="https://www.molotowclub.com/programm"><img id="logo" src="https://www.molotowclub.com/menu/logo.png" alt="Home" border="0"></a>
+       </div>
+<div id="photo_container"></div>
+
+<div id="buttonscon"><div id="button">
+
+	<a href="programm.php" id="HOME"><h4>HOME</h4></a>
+	<a href="https://shop.molotowclub.com/" target="_self" id="SHOP"><h4>SHOP</h4></a>
+	 <a href="javascript:;" id="MUSTSTAY"><h4>MUST STAY</h4></a>
+	<a href="javascript:;" id="FAME"><h4>HALL OF FAME</h4></a>
+	<!---<a href ="#" onclick="loadContent('replaced', '<object id=\'replace\' type=\'text/html\' data=\'../../content/gallery/facebook/index.php\' ></object>')"id="GALLERY"><h4>GALLERY</h4> </a>--->
+	 <a href="javascript:;" id="GALLERY"><h4>GALLERY</h4></a>
+         <a href="javascript:;" id="FAQ"><h4>FAQ</h4></a>
+ 
+	<a href="javascript:;" id="KONTAKT"><h4>IMPRESSUM - DATENSCHUTZ</h4></a>
+	<a href="https://www.facebook.com/molotowstpauli" target="_self" id="FACEBOOK"><h4>FACEBOOK</h4></a>
+	<a href="https://instagram.com/molotowclub" target="_self"  id="FACEBOOK"><h4>INSTAGRAM</h4></a>
+	
+	
+
+
+	
+		</td>
+   
+  </tr>
+</table>
+	</div></div>
+
+
+
+
+
+</div>
+        
+
+
+ 
+
+
+</div>
+
+
+	<div id="buttonscon1" class="floating_menu hidden"><div id="buttons"><table>
+ 
+  <tr>
+    <td white-space: nowrap>
+
+	<a href="programm.php" id="alle"><h4>Alle</h4></a>
+		<a href="javascript:;" id="lesung"><h4>Lesung</h4></a>
+	<a href="javascript:;" id="konzert"><h4>Konzert</h4></a>
+	<a href="javascript:;" id="party"><h4>Party</h4></a>
+	<a href="javascript:;" id="slam"><h4>Slam</h4></a>
+	<a href="javascript:;" id="club"><h4>Club</h4></a>
+	<a href="javascript:;" id="skybar"><h4>SkyBar</h4></a>
+    <a href="javascript:;" id="karatekeller"><h4>Karatekeller</h4></a>
+	<a href="javascript:;" id="backyard"><h4>Backyard</h4></a>
+	
+	
+	<a href='programm.php?m=2026-08' class='month' id='thismonth'><h4>Aug</h4></a><a href='programm.php?m=2026-09' class='month' id='nextmonth'><h4>Sep</h4></a><a href='programm.php?m=2026-10' class='monthjan' id='afternextmonth'><h4>Okt</h4></a>
+	
+		</td>
+   
+  </tr>
+</table>
+	</div></div>
+	<div class="centered">
+	<form id="contactForm">
+    <span>        
+<input type="text" name="email" value="Hier E-Mail eintragen &amp; MOLOTOW NEWSLETTER erhalten!" 
+onfocus="if (this.value == 'Hier E-Mail eintragen &amp; MOLOTOW NEWSLETTER erhalten!')  {this.value = '';}"
+onblur="if (this.value =='') {this.value = 'Hier E-Mail eintragen &amp; MOLOTOW NEWSLETTER erhalten!';}">
+<input type="submit"  id="submitButton" name="Abschicken" value="Eintragen">
+<input type="submit"   id="submitButtondel" name="del" value="Austragen">
+    </span>
+    
+</form><div id="ajxresponse"> </div>
+</div>
+<div class='covid' id='covid' style='display: none;'>
+<div class="div_datecon" id="div_datecon"> <div class="div_date"></div>
+    <div id="covid" class="Covid" style="display: block; overflow: hidden; clear:both;">
+	<div class="div_date">Mi, 19.04.2020</div>
+	<div class="div_media">
+	<a href="https://molotowclub.com/cp_img/geist.jpg" target="media2" name="" title="19.3. - ... Geistershow" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/geist.jpg" title="Bild" border="0" id="test" loading="lazy"></a></div>
+
+<div class="div_info"><div class="horizontal_dotted_line"></div>
+
+<div class="div_title">Die Soli Molotow Geistershow </div>
+<div class="div_title1"></div>
+<div class="div_details">Einlass: nie |  Beginn: nie | <a target="_blank" style="color: red; text-decoration: none; font: inherit; vertical-align: -1;" href="https://www.tixforgigs.com/Event/34707" onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK: 10€/25€/50€/100€ | TICKET<img src="../cp_img/tixforgigs.jpg" alt="Smiley face"></a>
+</div><br>
+In dieser schweren Zeit präsentiert das Molotow die weltweit erste Geistershow!<br>
+Nachdem in den letzten Wochen das System „Geisterspiele“ die Runde machte und sich weder als ansehnlich noch als Corona-resistent beweisen konnte, kommen wir nun mit dieser bahnbrechenden Idee daher!<br> 
+Bei Geisterspielen findet die Veranstaltung bekanntlich ohne Publikum statt. Klingt erstmal nach einer guten Idee, doch das Problem ist leider, dass trotzdem noch immer echte Menschen vor Ort sind, die sich gegenseitig anstecken können… <br><br>
+Nicht so aber bei der Geistershow im Molotow! 
+Neben dem fehlenden Publikum, fehlt hier nun auch das Main-Event kom-plett! 
+<ul style="    padding: 10px;     list-style:circle">
+<li>Kein Konzert</li>
+<li>Kein Publikum </li>
+<li>Keine Mitarbeiter</li>
+<li>Keine Band</li>
+<li>Kein Körperkontakt</li>
+<li>Kein Corona!?</li>
+</ul>
+Sicherer geht’s nun wirklich nicht! <br><br>
+
+Jetzt aber Mal im Ernst: in den letzten Tagen fragen uns viele Menschen, wie sie uns helfen können; ob sie irgendwohin spenden können; was sie direkt tun können, dass das Molotow nicht an der Corona-Welle zu Grunde geht.<br>
+Nun, wir dachten, wir richten einen Vorverkauf für eine Veranstaltung ein, die nie stattfinden wird. <br><br>
+Ihr könnt ein Ticket kaufen.<br>
+Ihr könnt zwei Tickets kaufen.<br>
+Prinzipiell könnt ihr so viele Tickets kaufen, wie ihr mögt und euch leisten könnt. <br><br> 
+Hier soll aber auch gesagt sein: fühlt euch nicht genötigt! <br>
+Wir haben euch nicht weniger lieb, wenn ihr selbst nicht genug Geld habt, um uns welches ab zugeben. 
+Wir würden uns aber sehr freuen, wenn ihr euch an dieser Aktion beteiligen wollt und könnt und uns helft, das Molotow die nächsten Wochen (und vielleicht Monate) über Wasser zu halten! 
+<br><br>
+Natürlich gilt auch weiterhin: Bleibt sauber, seid lieb zueinander <b>und wascht euch gefälligst die Hände!</b> <br><br>
+Danke für euren Support! 
+<br><br>
+Dein Molotow <br><br>
+
+<b>
+<a href="https://www.tixforgigs.com/de-DE/Event/34707/die-soli-molotow-geistershow-molotow-hamburg" onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';" style="text-decoration: none;">TICKETS HIER</a><br>  
+<a href="https://www.facebook.com/events/568135860454515/" onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';" style="text-decoration: none;">FB EVENT HIER</a><br><br>
+</b>
+<div class="horizontal_dotted_line"></div><br>
+
+Within these difficult times Molotow presents the first ghost show worldwide!<br>
+After the past few weeks the idea of “ghost games” was a hot topic, however they did not really turn out to be enjoyable or Corona-resistant. Therefore, we came up with this great idea!<br>
+At ghost games, the event takes place without an audience.
+Sounds like a good idea for now however the problem is that there still are real people involved that could potentially infect each other…<br><br>
+
+But not at the Molotow ghost show! Not only the audience is missing, but also the main event is completely missing!<br>
+<ul style="    padding: 10px;     list-style:circle">
+<li>No concert</li>
+<li>No audience</li>
+<li>No employees</li>
+<li>No band</li>
+<li>No physical contact</li>
+<li>No Corona!?</li>
+</ul>
+It can’t be more safe than that!<br><br>
+
+But seriously: within the past few days many people reached out to us to ask how they can help.<br> 
+If there is a way to donate money, what they could do to help Molotow survive Corona.<br>
+Well, we thought we would create a pre-sale for an event that will never actually take place.<br><br>
+
+You can buy a ticket.<br>
+You can buy two tickets.<br>
+Actually, you can buy as many tickets as you like and are able to afford.<br><br>
+
+What we would like to mention is: do not feel like you are obligated to!<br>
+If you do not have enough money for yourself and are not able to support us with money, we still love you!<br>
+We are very happy about everyone who takes part in this ghost show to support Molotow and helps keeping our head above water within the next weeks – maybe even months!<br><br>
+
+Of course this is still important: stay clean, take care of each other <b>and wash your damn hands!</b><br><br>
+Thanks for your support!<br><br>
+Molotow<br><br>
+
+<b>
+<a href="https://www.tixforgigs.com/de-DE/Event/34707/die-soli-molotow-geistershow-molotow-hamburg" onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';" style="text-decoration: none;">TICKETS HERE</a><br>  
+<a href="https://www.facebook.com/events/568135860454515/" onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';" style="text-decoration: none;">FB EVENT HERE</a><br><br>
+</b>
+<br>
+
+
+<div class="div_vide">
+<video width="99%"  poster="../geist.jpg" controls="controls" preload="none">
+<source src="../Video_Soli_Geisterkonzert.mp4#t=0.5" type="video/mp4">
+</video>
+</div>
+<div class="div_video"></div></div> </div></div>
+
+</div><div class='donate' id='donate' style='display: block;'><div class="div_streamcon" style="width: 800px;  text-align: left;
+	width: 800px;
+	background-color: #ffffff;
+	padding-top: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	padding-right: 4px;
+	font-family:  Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bolder;
+	letter-spacing: 0.02em;
+	position:relative;
+	top: 5px;
+	margin:auto;
+	margin-bottom: 10px;">
+
+    <div class="div_date">Du willst helfen?</div>
+<div class="div_info row" style="box-sizing: border-box; width: 800px;"><div class="horizontal_dotted_line"></div>
+<style>
+  
+  .container {
+    position: relative;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .vinyl {
+    height: 250px;
+    background-color: #000;
+    border-radius: 10px;
+  }
+  
+  .label {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #fff;
+    text-align: center;
+    font-size: 16px;
+    white-space: nowrap;  
+  }
+  
+  .pulsate {
+    animation: pulsate 4s ease-in-out infinite alternate;
+  }
+
+  @keyframes pulsate {
+    from {
+      transform: scale(1);
+    }
+    to {
+      transform: scale(1.02);
+    }
+  }
+</style>
+
+<div class="container ">
+  <div class="vinyl">
+<a href=https://www.paypal.com/paypalme/molotowclub?v=1&utm_source=unp&utm_medium=email&utm_campaign=RT000481&utm_unptid=0d308bba-f807-11ee-b269-3cfdfef04ea0&ppid=RT000481&cnac=DE&rsta=de_DE%28de-DE%29&cust=NPFNGXWWQHSLE&unptid=0d308bba-f807-11ee-b269-3cfdfef04ea0&calc=0b04286744816&unp_tpcid=ppme-social-business-profile-created&page=main%3Aemail%3ART000481&pgrp=main%3Aemail&e=cl&mchn=em&s=ci&mail=sys&appVersion=1.245.0&tenant_name=PAYPAL&xt=145585%2C104038%2C127632&link_ref=paypalme_molotowclub><img src="../qr_spenden_sm.jpg" style="height: 250px;float: left;padding-left: 7px;"></a>
+    <div class=label >
+    <h3>Spenden für das Molotow </h3><p><br>Help us to keep the Molotow alive!<br><br></p>
+      <p>Bankverbindung</p>
+      <p>IBAN: DE88 2005 0550 1251 1275 34</p>  
+      <p>Paypal: molotow@molotowclub.com</p>
+    </div>
+    <img src="../Molotowmuststay.jpg" style="height: 190px;float: right;padding-right: 7px;padding-top: 8px;width: 240px;">
+    </div>
+</div>
+
+</div></div>
+
+</div><div class='halloffame' id='halloffame' style='display: none;'><div align="center" ><br><table bgcolor="#FF0000" border="0" bordercolor="#000000" width="805" style="BORDER-RIGHT: 0px ; BORDER-TOP: 0px ; BORDER-LEFT:0px ; BORDER-BOTTOM:  0px ">
+<tr> 
+            <td>
+<div align="center"><div align="center"><div style="background-image:url(../content/molotowlogomithalloffam.jpg); background-repeat:no-repeat;background-position:52% 0;background-color:#000000; margin:0px; padding:90px"></div>
+  <div class="Stil1" id="div">
+    <ul id="Navigation">
+  <li class="Stil1">Hier spielten:</li>
+  <p><a href="https://www.facebook.com/theAlabamaShakes/">Alabama Shakes</a> ●  <a href="https://www.facebook.com/AngusAndJulia/">Angus &amp; Julia Stone</a> ●  <a href="https://www.facebook.com/ATDImusic/">At The Drive-In</a> ●  <a href="https://www.facebook.com/balthazarband/">Balthazar</a> ●  <a href="https://www.facebook.com/biffyclyro/">Biffy Clyro</a> ●  <a href="https://www.facebook.com/billytalent/">Billy Talent</a> ●  <a href="https://www.facebook.com/TheBlackKeys/">The Black Keys</a> ●  <a href="https://www.facebook.com/theblacklips/">The Black Lips</a> ●  <a href="https://www.facebook.com/bloodredshoes/">Blood Red Shoes</a> ●  <a href="https://www.facebook.com/BrightEyes/">Bright Eyes</a> ●  <a href="https://www.facebook.com/broilers/">Broilers</a> ●  <a href="https://www.facebook.com/catfishandthebottlemen/">Catfish &amp; The Bottlemen</a> ●  <a href="https://www.facebook.com/thechatsband/">The Chats</a> ●  <a href="https://www.facebook.com/courtneybarnettmusic/">Courtney Barnett</a> ●  <a href="https://www.facebook.com/dankojones/">Danko Jones</a> ●  <a href="https://www.facebook.com/DeathFromAbove1979/">Death From Above 1979</a> ●  <a href="https://www.facebook.com/dietotenhosen/">Die Toten Hosen</a> ●  <a href="https://www.facebook.com/editorsmusic/">Editors</a> ●  <a href="https://www.facebook.com/Foals/">Foals</a> ●  <a href="https://www.facebook.com/fontainesband/">Fontaines D.C.</a> ●  <a href="https://www.facebook.com/friskaviljorofficial/">Friska Viljor</a> ●  <a href="https://www.facebook.com/frittenbubu/">Frittenbude</a> ●  <a href="https://www.facebook.com/bethditto/">Gossip</a> ●  <a href="https://www.facebook.com/dresdendolls/">The Dresden Dolls</a> ●  <a href="https://www.facebook.com/thehellacopters/">The Hellacopters</a> ●  <a href="https://www.facebook.com/hives/">The Hives</a> ●  <a href="https://www.facebook.com/HotSnakes/">Hot Snakes</a> ●  <a href="https://www.facebook.com/idlesband/">Idles</a> ●  <a href="https://www.facebook.com/ImagineDragons/">Imagine Dragons</a> ●  <a href="https://www.facebook.com/jamietmusic/">Jamie T</a> ●  <a href="https://www.facebook.com/johnossi/">Johnossi</a> ●  <a href="https://www.facebook.com/thejonspencerbluesexplosion/">The John Spencer Blues Explosion</a> ●  <a href="https://www.facebook.com/katetempest/">Kate Tempest</a> ●  <a href="https://www.facebook.com/kettcar/">Kettcar</a> ●  <a href="https://www.facebook.com/Thekillers/">The Killers</a> ●  <a href="https://www.facebook.com/TheKills/">The Kills</a> ●  <a href="https://www.facebook.com/L7theband/?__tn__=,d,P-R&amp;eid=ARA2ZIvfCMAgl4wDQwfWVtXCMLNq0RqGeULV0yFqx84o34_5kw3OLKS__rJV_7IE7hhdLMc-OC98S_LK">L7</a> ●  <a href="https://www.facebook.com/lcdsoundsystem/">LCD Soundsystem</a> ●  <a href="https://www.facebook.com/leonidenleoniden/">Leoniden</a> ●  <a href="https://www.facebook.com/LoyleCarner/">Loyle Carner</a> ●  <a href="https://www.facebook.com/mandodiaomusic/?__tn__=,d,P-R&amp;eid=ARCfsqRSy-aBVu7n3k6razdLQWgFv-WMZqlDZThWiRCwJVLhgulSGHxYv-fPTP4M5xtRUdxxTKMvpi2R">Mando Diao</a> ●  <a href="https://www.facebook.com/MantarBand/">Mantar</a> ●  <a href="https://www.facebook.com/maximopark/">Maximo Park</a> ●  <a href="https://www.facebook.com/mumfordandsons/">Mumford &amp; Sons</a> ●  <a href="https://www.facebook.com/officialpeaches/">Peaches</a> ●  <a href="https://www.facebook.com/portugaltheman/">Portugal The Man</a> ●  <a href="https://www.facebook.com/Radio-Birdman-143635267891/">Radio Birdman</a> ●  <a href="https://www.facebook.com/The-Rapture-133896639724/">The Rapture</a> ●  <a href="https://www.facebook.com/theraveonettes/">Raveonettes</a> ●  <a href="https://www.facebook.com/RoyalBloodUK/">Royal Blood</a> ●  <a href="https://www.facebook.com/samfender/">Sam Fender</a> ●  <a href="https://www.facebook.com/shamebanduk/">Shame</a> ●  <a href="https://www.facebook.com/The.Original.Sonics/">The Sonics</a> ●  <a href="https://www.facebook.com/SoulAsylum/">Soul Asylum</a> ●  <a href="https://www.facebook.com/sportfreundestiller/">Sportfreunde Stiller</a> ●  <a href="https://www.facebook.com/TheeOhSees/">Thee Oh Sees</a> ●  <a href="https://www.facebook.com/Tocotronic/">Tocotronic</a> ●  <a href="https://www.facebook.com/andyouwillknowusbythetrailofdead/">Trail Of Death</a> ●  <a href="https://www.facebook.com/TurbonegroHQ/">Turbonegro</a> ●  <a href="https://www.facebook.com/turbostaat/">Turbostaat</a> ●  <a href="https://www.facebook.com/twodoorcinemaclub/">Two Door Cinema Club</a> ●  <a href="https://www.facebook.com/VampireWeekend/">Vampire Weekend</a> ●  <a href="https://www.facebook.com/wheatus/">Wheatus</a> ●  <a href="https://www.facebook.com/thewhitestripes/">The White Stripes</a> ●  <a href="https://www.facebook.com/thewombatsuk/">The Wombats</a> ●  <a href="https://www.facebook.com/yungblud/">Yungblud</a></p>
+
+    
+	</ul>
+  
+  </div>
+</div></td></tr></table></div>
+</div><div class='faq' id='faq' style='display: none;'><div align="center" ><br><table bgcolor="#FF0000" border="0" bordercolor="#000000" width="805" style="BORDER-RIGHT: 0px ; BORDER-TOP: 0px ; BORDER-LEFT:0px ; BORDER-BOTTOM:  0px ">
+<tr> 
+            <td>
+<div align="center"><div align="center"></div>
+  <div class="Stil1" id="div">
+    <ul id="Navigation">
+<p><strong>F A Q</strong></p>
+<p><u>ANFAHRT</u><br />
+Achtung unsere neue Adresse ist Reeperbahn 136 (wird zum Teil in Kartenprogrammen noch
+falsch angezeigt). Bitte nutzt öffentliche Verkehrsmittel. Parken vor Ort ist kaum möglich.
+Wir sind direkt an der S-Bahn Station Reeperbahn (kein Fahrstuhl) - hier fahren auch diverse
+Busse. Die nächste U-Bahn Station mit Fahrstuhl (800m) ist St Pauli.</p>
+<p><u>ALTERSBESCHRÄNKUNG</u><br />
+  Eintritt zu Clubveranstaltungen ab 18 Jahren. Bei Konzerten ab 16 Jahren bis 24.00, danach nur in Begleitung eines Elternteils, volljährige Geschwister als Begleitung und  “Mutti Zettel” akzeptieren wir nicht.</p>
+<p><u>BARRIEREFREIHEIT</u><br />
+Das Molotow ist leider nicht barrierefrei - nur der Club und die Garderobe sind ebenerdig.Es gibt
+eine Stufe zum Club, dafür steht aber eine Rampe zur Verfügung. Die Top Ten Bar (unsere neue
+kleine Bühne und Bar) ist im Keller und ist nur über eine Treppe erreichbar. Im Club gibt es
+natürlich auch eine Bar. Die Toiletten sind ebenfalls nur über eine Treppe erreichbar und nicht
+barrierefrei. Die nächste barrierefreie Toilette befindet sich Reeperbahn 75 (180m).
+Bei unseren Veranstaltungen wird auch Stroboskoplicht eingesetzt.
+Mit einem B in Eurem Schwer-in-Ordnung Ausweis könnt Ihr eine Begleitperson gratis mitbringen.
+Eine vorherige Anmeldung ist nicht notwendig, die Vorlage des Ausweises reicht.
+Für Fragen und mehr Details kontaktiert uns einfach unter molotow@molotowclub.com
+<p><u>CODEX / POLICY</u><br />
+  Im Molotow sind alle willkommen, denen ein vorurteilsfreies und respektvolles Miteinander auf der Basis von gegenseitiger Akzeptanz und Achtung genauso wichtig ist wie uns. Solltest du dich, aufgrund des Verhaltens anderer Gäste unwohl fühlen sprich jederzeit unser Team an, auch wenn du nicht selbst betroffen bist.<br />
+  Auf gar keinen Fall tolerieren wir diskriminierende Handlungen, Gewalt, Sexismus, Rassismus, Antisemitismus und Homophobie.</p>
+<p><u>FUNDSACHEN</u><br />
+  Wenn ihr etwas im Molotow verloren habt oder an der Garderobe vergessen habt, schreibt bitte direkt eine Mail mit einer Beschreibung des verlorenen Gegenstands und dem Datum und Namen der Veranstaltung an molotow@molotowclub.com<br />
+  Alle vier Wochen geben wir nicht abgeholte ältere Fundsachen an gemeinnützige Einrichtungen</p>
+<p><u>GARDEROBE / EINLASSKONTROLLE</u><br />
+  Wir haben meistens, aber nicht immer eine Garderobe. Eher selten im Hochsommer und bei kleinen Konzerten. Wir kontrollieren alle Taschen an der Tür. Fremdgetränke, Edding-Stifte und Konfetti dürfen nicht hinein.</p>
+<p><u>JOBS</u><br />
+  Möchtest Du Teil unseres Teams werden? Wir sind immer wieder auf der Suche nach musikbegeisterten Leuten, die gerne nachts arbeiten, Musik hören und Bands sehen und denen es Freude macht, mit Menschen zu arbeiten. Zum Beispiel am Tresen, der Garderobe, der Tür, aber auch im Büro, etc. Schreib uns einfach eine Mail an molotow@molotowclub.com </p>
+<p><u>ÖFFNUNGSZEITEN</u><br />
+Unsere Top Ten Bar im Keller ist immer Donnerstag, Freitag und Samstag ab 19 Uhr geöffnet.<br>
+Freitags und Samstags finden zusätzlich ab 23 Uhr Parties statt. Außerdem haben wir an den
+anderen Wochentagen für Konzerte geöffnet, dazu findet ihr alle Infos und Termine in unserem
+Programm auf der Webseite oder Ihr meldet Euch für unseren wöchentlichen Newsletter an</p>
+
+
+<p><u>TICKETS</u><br />
+  Vorverkauftickets gibt es zum Beispiel bei TixForGigs, CTS Eventim oder Tickettoaster. Links dazu findet Ihr auf unserer Webseite bei den jeweiligen Veranstaltungen.<br />
+  Wenn es noch Tickets gibt, öffnet die Abendkasse zur angegebenen Einlasszeit.<br />
+  Bei Konzerten, die als ausverkauft gekennzeichnet sind, gibt es keine Tickets mehr und die Abendkasse bleibt geschlossen. Wenn ihr eine Band unbedingt sehen wollt, kauft lieber frühzeitig ein Ticket im Vorverkauf.</p>
+
+    
+	</ul>
+  
+  </div>
+</div></td></tr></table></div>
+</div><div class='kontakt' id='kontakt' style='display: none;'><div id="kontaktcon"><div id="kontaktnest"><font size="3" face="Arial, Helvetica, sans-serif"><strong>KONTAKT/IMPRESSUM</strong></font><br>
+ <font size="2" face="Arial, Helvetica, sans-serif"><u><strong>Allgemeine Postanschrift:</strong></u><br>
+        Molotow Musik Club GmbH<br>
+        Postfach 304212<br>
+        20359 Hamburg<br>
+  <br>
+  <strong><u>GESCH&Auml;FTSADRESSE<br>
+  </u></strong>Molotow Musik Club GmbH / B&uuml;ro<br>
+        Reeperbahn 136<br>
+        D - 20359 Hamburg<br>
+        FON: ++49 (0)40/310845 <br>
+        E-MAIL: <a href="mailto:molotow@molotowclub.com">molotow@molotowclub.com</a>&nbsp;</font><br>
+      <font size="2" face="Arial, Helvetica, sans-serif">Umsatzsteuer-Identifikationsnummer gem&auml;&szlig; &sect;27 a Umsatzsteuergesetz:<br>
+        DE323935528<br>
+        Gesch&auml;ftsf&uuml;hrer: Andreas Schmidt<br>
+        Inhaltlich Verantwortlicher gem&auml;&szlig; &sect; 10 Absatz 3 MDStV &amp; &sect; 55 Abs. 2 RStV<br>
+        (Anschrift s.o.)      </font><br>
+  <br>
+    <p id="first">
+ </p>
+       <font face="Arial, Helvetica, sans-serif" size="1"><strong>Urheberrecht<br>
+        </strong>
+      Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielf&auml;ltigung, Bearbeitung, Verbreitung und jede Art der Verwertung au&szlig;erhalb der Grenzen des Urheberrechtes bed&uuml;rfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur f&uuml;r den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+   
+  <br><br>
+   <h1>Datenschutzerkl&auml;rung</h1>  <br><h1>Datenschutz</h1> Die Betreiber dieser Seiten nehmen
+den Schutz Ihrer pers&ouml;nlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten
+vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser
+Datenschutzerkl&auml;rung.Die Nutzung unserer Website ist in der Regel ohne Angabe
+personenbezogener Daten m&ouml;glich. Soweit auf unseren Seiten personenbezogene Daten
+(beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit
+m&ouml;glich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdr&uuml;ckliche Zustimmung
+nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Daten&uuml;bertragung im Internet
+(z.B. bei der Kommunikation per E-Mail) Sicherheitsl&uuml;cken aufweisen kann. Ein l&uuml;ckenloser
+Schutz der Daten vor dem Zugriff durch Dritte ist nicht m&ouml;glich.&nbsp;
+<h1>Cookies</h1> Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf
+Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot
+nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem
+Rechner abgelegt werden und die Ihr Browser speichert. Die meisten der von uns verwendeten
+Cookies sind so genannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch
+gel&ouml;scht. Andere Cookies bleiben auf Ihrem Endger&auml;t gespeichert, bis Sie diese l&ouml;schen.
+Diese Cookies erm&ouml;glichen es uns, Ihren Browser beim n&auml;chsten Besuch
+wiederzuerkennen. Sie k&ouml;nnen Ihren Browser so einstellen, dass Sie &uuml;ber das Setzen
+von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies f&uuml;r
+bestimmte F&auml;lle oder generell ausschlie&szlig;en sowie das automatische L&ouml;schen der
+Cookies beim Schlie&szlig;en des Browser aktivieren. Bei der Deaktivierung von Cookies kann die
+Funktionalit&auml;t dieser Website eingeschr&auml;nkt sein.&nbsp; <h1>Server-Log-
+Files</h1> Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten
+Server-Log Files, die Ihr Browser automatisch an uns &uuml;bermittelt. Dies sind: <ul>
+<li>Browsertyp und Browserversion</li> <li>verwendetes Betriebssystem</li> <li>Referrer URL</li>
+<li>Hostname des zugreifenden Rechners</li> <li>Uhrzeit der Serveranfrage</li> </ul> Diese Daten
+sind nicht bestimmten Personen zuordenbar. Eine Zusammenf&uuml;hrung dieser Daten mit anderen
+Datenquellen wird nicht vorgenommen. Wir behalten uns vor, diese Daten nachtr&auml;glich zu
+pr&uuml;fen, wenn uns konkrete Anhaltspunkte f&uuml;r eine rechtswidrige Nutzung bekannt
+werden.&nbsp; <h1>Newsletterdaten</h1> Wenn Sie den auf der Website angebotenen
+Newsletter beziehen m&ouml;chten, ben&ouml;tigen wir von Ihnen eine E-Mail-Adresse sowie
+Informationen, welche uns die &Uuml;berpr&uuml;fung gestatten, dass Sie der Inhaber der angegebenen
+E-Mail-Adresse sind und mit dem Empfang des Newsletters einverstanden sind. Weitere Daten werden
+nicht erhoben. Diese Daten verwenden wir ausschlie&szlig;lich f&uuml;r den Versand der angeforderten
+Informationen und geben sie nicht an Dritte weiter. Die erteilte Einwilligung zur Speicherung der
+Daten, der E-Mail-Adresse sowie deren Nutzung zum Versand des Newsletters k&ouml;nnen Sie jederzeit
+widerrufen, etwa &uuml;ber den "Austragen"-Link im Newsletter.&nbsp; <h1>Google
+Analytics</h1> Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter
+ist die Google Inc., 1600 Amphitheatre Parkway Mountain View, CA 94043, USA. Google
+Analytics verwendet so genannte &quot;Cookies&quot;. Das sind Textdateien, die auf Ihrem Computer
+gespeichert werden und die eine Analyse der Benutzung der Website durch Sie erm&ouml;glichen. Die
+durch den Cookie erzeugten Informationen &uuml;ber Ihre Benutzung dieser Website werden in der Regel
+an einen Server von Google in den USA &uuml;bertragen und dort gespeichert. <h1>IPAnonymisierung</h1> Wir haben auf dieser Website die Funktion IP-Anonymisierung aktiviert.
+Dadurch wird Ihre IP-Adresse von Google innerhalb von Mitgliedstaaten der Europ&auml;ischen Union
+oder in anderen Vertragsstaaten des Abkommens &uuml;ber den Europ&auml;ischen Wirtschaftsraum vor
+der &Uuml;bermittlung in die USA gek&uuml;rzt. Nur in Ausnahmef&auml;llen wird die volle IP-Adresse an
+einen Server von Google in den USA &uuml;bertragen und dort gek&uuml;rzt. Im Auftrag des Betreibers
+dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten,
+um Reports &uuml;ber die Websiteaktivit&auml;ten zusammenzustellen und um weitere mit der
+Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegen&uuml;ber dem
+Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser
+&uuml;bermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengef&uuml;hrt.
+<h1>Browser Plugin</h1> Sie k&ouml;nnen die Speicherung der Cookies durch eine
+entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie
+in diesem Fall gegebenenfalls nicht s&auml;mtliche Funktionen dieser Website vollumf&auml;nglich
+werden nutzen k&ouml;nnen. Sie k&ouml;nnen dar&uuml;ber hinaus die Erfassung der durch den Cookie
+erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie
+die Verarbeitung dieser Daten durch Google verhindern, indem Sie das unter dem folgenden Link
+verf&uuml;gbare Browser-Plugin herunterladen und installieren: <a
+href="https://tools.google.com/dlpage/gaoptout?hl=de"
+target="_blank">https://tools.google.com/dlpage/gaoptout?hl=de</a> <h1>Widerspruch gegen
+Datenerfassung</h1> Sie k&ouml;nnen die Erfassung Ihrer Daten durch Google Analytics
+verhindern, indem Sie auf folgenden Link klicken. Es wird ein Opt-Out-Cookie gesetzt, der die Erfassung
+Ihrer Daten bei zuk&uuml;nftigen Besuchen dieser Website verhindert: <a
+href="javascript:gaOptout();">Google Analytics deaktivieren</a> Mehr Informationen zum
+Umgang mit Nutzerdaten bei Google Analytics finden Sie in der Datenschutzerkl&auml;rung von Google:
+<a href="https://support.google.com/analytics/answer/6004245?hl=de"
+target="_blank">https://support.google.com/analytics/answer/6004245?hl=de</a><strong>Demografische
+Merkmale bei Google Analytics</strong> Diese Website nutzt die Funktion &ldquo;demografische
+Merkmale&rdquo; von Google Analytics. Dadurch k&ouml;nnen Berichte erstellt werden, die Aussagen zu
+Alter, Geschlecht und Interessen der Seitenbesucher enthalten. Diese Daten stammen aus
+interessenbezogener Werbung von Google sowie aus Besucherdaten von Drittanbietern. Diese Daten
+k&ouml;nnen keiner bestimmten Person zugeordnet werden. Sie k&ouml;nnen diese Funktion jederzeit
+&uuml;ber die Anzeigeneinstellungen in Ihrem Google-Konto deaktivieren oder die Erfassung Ihrer Daten
+durch Google Analytics wie im Punkt &ldquo;Widerspruch gegen Datenerfassung&rdquo; dargestellt
+generell untersagen. &nbsp; <h1>Facebook</h1> Auf unseren
+Seiten sind Plugins des sozialen Netzwerks Facebook, Anbieter Facebook Inc., 1 Hacker Way, Menlo
+Park, California 94025, USA, integriert. Die Facebook-Plugins erkennen Sie an dem Facebook-Logo oder
+dem "Like-Button" ("Gef&auml;llt mir") auf unserer Seite. Eine &Uuml;bersicht &uuml;ber die Facebook-
+Plugins finden Sie hier: <a href="https://developers.facebook.com/docs/plugins/"
+target="_blank">https://developers.facebook.com/docs/plugins/</a>. Wenn Sie unsere Seiten
+besuchen, wird &uuml;ber das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem
+Facebook-Server hergestellt. Facebook erh&auml;lt dadurch die Information, dass Sie mit Ihrer IPAdresse
+unsere Seite besucht haben. Wenn Sie den Facebook "Like-Button" anklicken w&auml;hrend Sie
+in Ihrem Facebook-Account eingeloggt sind, k&ouml;nnen Sie die Inhalte unserer Seiten auf Ihrem
+Facebook-Profil verlinken. Dadurch kann Facebook den Besuch unserer Seiten Ihrem Benutzerkonto
+zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der
+&uuml;bermittelten Daten sowie deren Nutzung durch Facebook erhalten. Weitere Informationen hierzu
+finden Sie in der Datenschutzerkl&auml;rung von Facebook unter <a href="https://dede.
+facebook.com/policy.php" target="_blank">https://de-de.facebook.com/policy.php</a>. Wenn
+Sie nicht w&uuml;nschen, dass Facebook den Besuch unserer Seiten Ihrem Facebook-Nutzerkonto
+zuordnen kann, loggen Sie sich bitte aus Ihrem Facebook-Benutzerkonto aus.&nbsp;
+<h1>Google Maps</h1> Diese Webseite verwendet das Produkt Google Maps von Google Inc. Durch Nutzung dieser Webseite erklären Sie sich mit der Erfassung, Bearbeitung sowie Nutzung der automatisiert erhobenen Daten durch Google Inc, deren Vertreter sowie Dritter einverstanden. 
+Die Nutzungsbedingungen von Google Maps finden sie unter "Nutzungsbedingungen von Google Maps".
+<br />
+<h1>YouTube</h1>
+Diese Internetseite beinhaltet mindestens ein Plugin von YouTube, gehörig zur Google Inc., ansässig in San Bruno/Kalifornien, USA.﻿ Sobald Sie mit einem YouTube-Plugin ausgestattete Seiten unserer Internetpräsenz besuchen, wird eine Verbindung zu den Servern von YouTube aufgebaut. Dabei wird dem Youtube-Server mitgeteilt, welche spezielle Seite unserer Internetpräsenz von Ihnen besucht wurde. Sollten Sie obendrein in Ihrem YouTube-Account eingeloggt sein, würden Sie es YouTube ermöglichen, Ihr Surfverhalten direkt Ihrem persönlichen Profil zuzuordnen. Sie können diese Möglichkeit der Zuordnung zunichte machen, wenn Sie sich vorher aus Ihrem Account ausloggen. Weitere Informationen zur Erhebung und Nutzung Ihrer Daten durch YouTube erhalten Sie in den dortigen Hinweisen zum Datenschutz unter www.youtube.com.
+
+
+
+<h1>Spotify</h1> Auf unseren Seiten sind Funktionen des Musik-
+Dienstes Spotify eingebunden. Anbieter ist die Spotify AB, Birger Jarlsgatan 61, 113 56 Stockholm in
+Schweden. Die Spotify PlugIns erkennen Sie an dem gr&uuml;nen Logo auf unserer Seite. Eine
+&Uuml;bersicht &uuml;ber die Spotify-PlugIns finden Sie unter <a href="https://developer.spotify.com"
+target="_blank">https://developer.spotify.com</a> Dadurch kann beim Besuch unserer Seiten
+&uuml;ber das Plugin eine direkte Verbindung zwischen Ihrem Browser und dem Spotify-Server
+hergestellt werden. Spotify erh&auml;lt dadurch die Information, dass Sie mit Ihrer IP-Adresse unsere
+Seite besucht haben. Wenn Sie den Spotify Button anklicken w&auml;hrend Sie in Ihrem Spotify-Account
+eingeloggt sind, k&ouml;nnen Sie die Inhalte unserer Seiten auf Ihrem Spotify Profil verlinken. Dadurch
+kann Spotify den Besuch unserer Seiten Ihrem Benutzerkonto zuordnen. Weitere Informationen
+hierzu finden Sie in der Datenschutzerkl&auml;rung von Spotify: <a
+href="https://www.spotify.com/de/legal/privacy-policy/"
+target="_blank">https://www.spotify.com/de/legal/privacy-policy/</a> Wenn Sie nicht
+w&uuml;nschen, dass Spotify den Besuch unserer Seiten Ihrem Spotify-Nutzerkonto zuordnen kann,
+loggen Sie sich bitte aus Ihrem Spotify-Benutzerkonto aus.&nbsp; <h1>SSLVerschl&uuml;sselung</h1> Diese Seite nutzt aus Gr&uuml;nden der Sicherheit und zum Schutz der
+&Uuml;bertragung vertraulicher Inhalte, wie zum Beispiel der Anfragen, die Sie an uns als Seitenbetreiber
+senden, eine SSL-Verschl&uuml;sselung. Eine verschl&uuml;sselte Verbindung erkennen Sie daran, dass
+die Adresszeile des Browsers von &quot;http://&quot; auf &quot;https://&quot; wechselt und an dem
+Schloss-Symbol in Ihrer Browserzeile. Wenn die SSL Verschl&uuml;sselung aktiviert ist,
+k&ouml;nnen die Daten, die Sie an uns &uuml;bermitteln, nicht von Dritten mitgelesen
+werden.&nbsp; <h1>Widerspruch Werbe-Mails</h1> Der Nutzung von im Rahmen der
+Impressumspflicht ver&ouml;ffentlichten Kontaktdaten zur &Uuml;bersendung von nicht ausdr&uuml;cklich
+angeforderter Werbung und Informationsmaterialien wird hiermit widersprochen. Die Betreiber der Seiten
+behalten sich ausdr&uuml;cklich rechtliche Schritte im Falle der unverlangten Zusendung von
+Werbeinformationen, etwa durch Spam-E-Mails, vor.&nbsp; Quelle: <a
+href="https://www.e-recht24.de">eRecht24</a>
+         </font>    </div> </div> test
+</div><div class='muststay' id='muststay' style='display: none;'><div id="muststaycon"><div id="muststaynest"><font size="3" face="Arial, Helvetica, sans-serif"><strong>Molotow Must Stay!</strong></font><br><br>
+<img src="../content/muststay.jpg" style="max-width: 100%;height: auto;" alt="Molotow Must Stay!"><br><br> <br><font size="2" face="Arial, Helvetica, sans-serif">
+
+<br><u><strong>DEMO 30.12. 15 UHR vorm MOLOTOW</strong></u><br>
+organisiert von DEMORAVE mit TEAM SCHEISSE<br><br>
+
+Dem Molotow ist am 21.12.2022 zum 30.06.24 <b>gekündigt worden</b><br>
+Das Molotow wird also zum dritten mal abgerissen. (Esso Häuser Frühjahr 2014, Exil Holstenstr. Herbst 2014, Nobistor voraussichtlich Herbst 2024)<br>
+Irgendwann reicht es.<br>
+Das Molotow<br><br>
+
+Mehr Infos findet ihr auf der Seite unseres Vermieters René Marn - Marn Objektmanagement.<br>
+An unserem Standort soll ein Hotel @lindnerhotels die Teil der @hyatt Gruppe sind, entstehen.<br>
+Mit dem Neubau des Paloma Viertels an unserem alten Standort in den Essohäusern, <br>
+in den wir schon vor mehreren Jahren hätten zurück kehren sollen, wurde bisher noch nicht einmal begonnen.<br>
+Der Investor @bayerischehausbau Teil der Schörghuber Gruppe lässt das Grundstück seit 10 Jahren brach liegen.
+<br><br><br>
+<b>MEHR INFOS WIE IHR HELFEN KÖNNT IN KÜRZE HIER. KOMMT ALLE ZUR DEMO<b>
+  
+  
+  
+  
+  
+
+         </font>    </div> </div>
+</div><div class='gallery' id='gallery' style='display: none;'><div id="kontaktcon"><div id="kontaktnest"><font size="3" face="Arial, Helvetica, sans-serif">
+        
+
+ 
+<img src="../content/gallery/ClubByMalzkornopt.jpg" width="792">
+<img src="../content/gallery/ClubByMalzkornopt1.jpg" width="792">
+&copy; <a href="http://malzkornfoto.de">malzkornfoto.de</a>
+
+
+ </font>    </div> </div>
+
+
+
+
+</div><div id='replaced'><div class='gallery' id='gallery' style='display: none;'><div id="kontaktcon"><div id="kontaktnest"><font size="3" face="Arial, Helvetica, sans-serif">
+        
+
+ 
+<img src="../content/gallery/ClubByMalzkornopt.jpg" width="792">
+<img src="../content/gallery/ClubByMalzkornopt1.jpg" width="792">
+&copy; <a href="http://malzkornfoto.de">malzkornfoto.de</a>
+
+
+ </font>    </div> </div>
+
+
+
+
+</div>
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 14.08.2026</div>
+    <div id='i71330' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-04-24-hr_To_1_0.64982600_1772704796.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-04-24-hr_To_1_0.64982600_1772704796.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="14.08.2026:&nbsp;VINYL&nbsp;DANCE&nbsp;EXPLOSION&nbsp;-&nbsp;ALTERNATIVE&nbsp;INDIE&nbsp;DANCE" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-04-24-hr_To_1_0.64982600_1772704796.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>VINYL DANCE EXPLOSION - ALTERNATIVE INDIE DANCE  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJ B-Side Barbie + DJ Lesley Farfisa</div><div class='div_details'>Einlass: 23:00  |  AK: 6 EUR&nbsp;für alle Floors
+</div><div class='div_info'>Wenn B-Side Barbie und Lesley Farfisa ihre Vinylsammlung präsentieren, kommt es zur Explosion. Ein Feuerwerk aus Indie und Alternative. Also schonmal das Tanzbein trainieren....<br><a href="programm.php?nr=71330" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/jCxgUPFVFkA' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/pVssCPuEzbM' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 15.08.2026</div>
+    <div id='i68906' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-02-07_Cl_2_0.24728600_1742907995.jpeg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-02-07_Cl_2_0.24728600_1742907995.jpeg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="15.08.2026:&nbsp;ENTDECK&nbsp;THE&nbsp;DRECK" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-02-07_Cl_2_0.24728600_1742907995.jpeg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="15.08.2026:&nbsp;ENTDECK&nbsp;THE&nbsp;DRECK" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>ENTDECK THE DRECK  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 23:00  |  AK: 10 EUR&nbsp;für alle Floors
+</div><div class='div_info'>Komm mit Deinen Lieblingsmenschen zart dancen zu: Britney Spears, Backstreet Boys, Blink182, The Killers, Blümchen, Depeche Mode, *NSYNC, Gala, No Angels, Snap, Spice Girls, Vengaboys, Eminem, Wheatu...<br><a href="programm.php?nr=68906" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/Gs069dndIYk' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 19.08.2026</div>
+    <div id='i68936' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-08-19_17369_to_0_0.92732800_1781002564.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-08-19_17369_to_0_0.92732800_1781002564.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="19.08.2026:&nbsp;BORDERLINE" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-08-19_17369_to_0_0.92732800_1781002564.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-08-19_17372_to_0_0.09804100_1781002939.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-08-19_17372_to_0_0.09804100_1781002939.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="19.08.2026:&nbsp;BORDERLINE" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-08-19_17372_to_0_0.09804100_1781002939.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>BORDERLINE  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Germany Album Tour 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/artist/borderline/?affiliate=FKP' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:20EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Sie sind aktuell einer der beliebtesten Indie-Exporte Neuseelands: Borderline erobern mit ihrer spürbaren Lebensfreude und charismatischen Energie mühelos jedes Publikum und sorgen auch hierzulande ...<br><a href="programm.php?nr=68936" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/2VHeXzEg1gCfwYf3oADlUQ?si=em605HKZSMGpIyrnhJhwTQ' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/BkXPeowzHZ4' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 20.08.2026</div>
+    <div id='i68943' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2025-09-11-hr_To_0_0.52483500_1767798226.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2025-09-11-hr_To_0_0.52483500_1767798226.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="20.08.2026:&nbsp;PUB&nbsp;QUIZ&nbsp;-&nbsp;Kategorisch&nbsp;Fragwürdig" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2025-09-11-hr_To_0_0.52483500_1767798226.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>PUB QUIZ - Kategorisch Fragwürdig  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  AK: 5 EUR
+</div><div class='div_info'>Wer ein 0815-Quiz will, sollte nicht kommen. 
+
+“Kategorisch Fragwürdig” ist das etwas andere Kneipenquiz. Hier geht es nicht bloß um ABCD-Fragen. Viel mehr ist es jedes mal ein wilder Ritt dur...<br><a href="programm.php?nr=68943" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 21.08.2026</div>
+    <div id='i68948' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2024-06-22-hr_Cl_0_0.43990700_1780576040.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2024-06-22-hr_Cl_0_0.43990700_1780576040.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="21.08.2026:&nbsp;COMING&nbsp;OF&nbsp;AGE!&nbsp;(GEN-Z&nbsp;PARTY)" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2024-06-22-hr_Cl_0_0.43990700_1780576040.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>COMING OF AGE! (GEN-Z PARTY)  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJ Team: FRAGILES <3</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR
+</div><div class='div_info'>Viele sagen das die Subkultur mit der Gen-Z schlussendlich gestorben sei. Ob das stimmt oder nicht weiß nur die liebe Goth. Dass diese Emotionale Diskussion aber Punktuell auf unserer Tanzfläche zum...<br><a href="programm.php?nr=68948" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/0qj67KE5VXI' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 22.08.2026</div>
+    <div id='i68957' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-01-04_Cl_0_0.33503400_1773327429.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-01-04_Cl_0_0.33503400_1773327429.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="22.08.2026:&nbsp;MOTORBOOTY!
+The&nbsp;Indie&nbsp;Dancefloor!" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-01-04_Cl_0_0.33503400_1773327429.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MOTORBOOTY!<br />
+The Indie Dancefloor!  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJ Hermine Flanger + DJ Rave</div><div class='div_details'>Einlass: 23:00  |  AK: 6 EUR
+</div><div class='div_info'>LET‘S DANCE TO: Joy Division, Kraftklub, Amyl and The Sniffers, Arctic Monkeys, Foals, Bilderbuch, Bloc Party, The Beaches, Betterov, Editors, Fontaines D.C., La Femme, Edwin Rosen, The Cure, Circa ...<br><a href="programm.php?nr=68957" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/playlist/4rUr4rEHjRLqYxUlJcOAwM' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/7s6klayTSx0' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/Gm_PPNbgMjg' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 27.08.2026</div>
+    <div id='i68990' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-08-27_17008_cl_0_0.26628700_1777308391.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-08-27_17008_cl_0_0.26628700_1777308391.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="27.08.2026:&nbsp;AUTOMATIC
+Support:&nbsp;EatMe" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-08-27_17008_cl_0_0.26628700_1777308391.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>AUTOMATIC<br />
+Support: EatMe  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/73870' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:24EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 29 EUR </div><div class='div_info'>Automatic make deviant pop music that cuts through the brainrot. Balancing irreverence with sharp commentary, the L.A. band approached their third album with a dark sense of humor and a renewed sense ...<br><a href="programm.php?nr=68990" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/3uX1tstdmFJyxW9b5mSNlU?si=IYucxNlFT22a5As7H4AZKQ' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/Iso3pRYAH_c' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 28.08.2026</div>
+    <div id='i68999' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-08-28_16653_to_0_0.21031900_1773681064.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-08-28_16653_to_0_0.21031900_1773681064.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="28.08.2026:&nbsp;ANNIE&nbsp;TAYLOR" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-08-28_16653_to_0_0.21031900_1773681064.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>ANNIE TAYLOR  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Out Of Scale Tour</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/72761' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:20EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Für ihre Live-Shows ist die Band bekannt, die sich in einer Bar in den Schweizer Bergen nach dem Snowboarden kennenlernte und bereits auf dem SXSW, bei der ikonischen Radiostation KEXP in Seattle, au...<br><a href="programm.php?nr=68999" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/3oR0fg4OcsTKOjVY17u1e0?si=t-mHH14UQ3eRpdIhgGjSOw' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/69tAczU8ln0' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div><div id='i71334' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2025-09-18_To_0_0.86410300_1781782974.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2025-09-18_To_0_0.86410300_1781782974.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="28.08.2026:&nbsp;THIS&nbsp;CHARMING&nbsp;MAN&nbsp;
+Indie&nbsp;Classics&nbsp;1977-2017" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2025-09-18_To_0_0.86410300_1781782974.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2025-09-18-hr_To_0_0.07559700_1781782975.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2025-09-18-hr_To_0_0.07559700_1781782975.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="28.08.2026:&nbsp;THIS&nbsp;CHARMING&nbsp;MAN&nbsp;
+Indie&nbsp;Classics&nbsp;1977-2017" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2025-09-18-hr_To_0_0.07559700_1781782975.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>THIS CHARMING MAN <br />
+Indie Classics 1977-2017  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Mit DJ Spencer Karrera Klub / Berlin</div><div class='div_details'>Einlass: 23:00  |  AK: 6 EUR
+</div><div class='div_info'>This Charming Man - Indie Classics mit dem Karrera Klub aus Berlin
+
+Weiter geht die wilde Zeitreise durch die Geschichte der Independent Musik von damals bis heute! Die Musik also, als man auf der B...<br><a href="programm.php?nr=71334" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 29.08.2026</div>
+    <div id='i69004' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2022-10-14_Cl_0_0.18128600_1768573775.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2022-10-14_Cl_0_0.18128600_1768573775.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="29.08.2026:&nbsp;MR.&nbsp;BRIGHTSIDE" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2022-10-14_Cl_0_0.18128600_1768573775.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MR. BRIGHTSIDE  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Die 2000er Party<br />
+DJ Starry Eyes + DJ Mary Eleni</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR
+</div><div class='div_info'>Am 01.07.2004 spielten die Killers zum erstenmal in Hamburg im Molotow. Es waren ca. 40 Leute anwesend.
+Mr. Brightside wurde zu dieser Zeit nicht so abgefeiert. Niemand ahnte, dass dieser Song einer ...<br><a href="programm.php?nr=69004" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/gGdGFtwCNBE' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/aCyGvGEtOwc' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 02.09.2026</div>
+    <div id='i68367' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-02_17147_cl_0_0.79221600_1779112082.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-02_17147_cl_0_0.79221600_1779112082.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="02.09.2026:&nbsp;WINE&nbsp;LIPS
+Special&nbsp;Guests:&nbsp;THE&nbsp;BOOJUMS" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-02_17147_cl_0_0.79221600_1779112082.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-09-02_17161_cl_0_0.06998100_1779112181.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-02_17161_cl_0_0.06998100_1779112181.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="02.09.2026:&nbsp;WINE&nbsp;LIPS
+Special&nbsp;Guests:&nbsp;THE&nbsp;BOOJUMS" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-02_17161_cl_0_0.06998100_1779112181.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>WINE LIPS<br />
+Special Guests: THE BOOJUMS  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>UK & Europe 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/74401' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:22EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/wine-lips-the-boojums-uk-europe-2026-molotow-21698386/' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">| TICKET 2<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>It’s been one hell of a wild ride for Wine Lips.
+
+Originally formed in Toronto back in 2015 as a part-time project between Cam Hilborn (vox, songwriter, guitar) and drummer extraordinaire Aurora E...<br><a href="programm.php?nr=68367" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/4fPl9Aa0FMkATDiA7AnBNM?si=Y1GY6WvEQ2KIRM3rzkZR7Q' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/WdNMn7RyEkU' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/YDK6pBR2f1I' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 04.09.2026</div>
+    <div id='i68381' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2022-03-18-hr_Cl_1_0.35116300_1685637822.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2022-03-18-hr_Cl_1_0.35116300_1685637822.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="04.09.2026:&nbsp;DON'T&nbsp;YOU&nbsp;WANT&nbsp;ME&nbsp;-&nbsp;80s&nbsp;Party" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2022-03-18-hr_Cl_1_0.35116300_1685637822.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>DON'T YOU WANT ME - 80s Party  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJ: Starry Eyes</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR
+</div><div class='div_info'>Don*t You Want Me
+Die 80er, ein unglaubliches Jahrzehnt mit wahnsinnig toller Musik. Das muss richtig gefeiert werden. 
+Let's Dance
+Alphaville, A-Ha, Bonnie Tyler, Bronski Beat, David Bowie, Depech...<br><a href="programm.php?nr=68381" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/playlist/3FJchEXqqGXSHwnG7cRIHn' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/uPudE8nDog0' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/PIb6AZdTr-A' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div></div><div id='i68383' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-04_16770_to_0_0.82535500_1774527008.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-04_16770_to_0_0.82535500_1774527008.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="04.09.2026:&nbsp;COLLIGNON&nbsp;-&nbsp;Abgesagt" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-04_16770_to_0_0.82535500_1774527008.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>COLLIGNON - Abgesagt  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Tempo Tempo Tempo! Tour</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/73070' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:20EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>COLLIGNON Tempo Tempo Tempo! Tour Germany / September 2026
+
+Raw and excessive, known for their overwhelming and infectious energy, the blazing live band COLLIGNON returns to Germany in September, br...<br><a href="programm.php?nr=68383" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/48OTFVKJ0VEviIC2leEbXp?si=7UgisLaXQLKlxGBSootAcQ' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'><iframe width='298' height='168' src='https://www.youtube.com/embed/https://open.spotify.com/intl-de/artist/48OTFVKJ0VEviIC2leEbXp?si=7UgisLaXQLKlxGBSootAcQ' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 05.09.2026</div>
+    <div id='i68388' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-05_17189_cl_0_0.50040800_1779192739.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-05_17189_cl_0_0.50040800_1779192739.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="05.09.2026:&nbsp;BROCKHOFF" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-05_17189_cl_0_0.50040800_1779192739.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>BROCKHOFF  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Easy Peeler Tour 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/brockhoff-easy-peeler-debut-album-tour-molotow-21693460/' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:24EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 32 EUR </div><div class='div_info'>Mit ihrem Mix aus energiegeladene Indie-Rock-Brettern, ehrlichen Lyrics und einer Stimme, die gleichermaßen verwundbar wie kraftvoll klingt, kehrt BROCKHOFF endlich für drei eigene Headline Shows au...<br><a href="programm.php?nr=68388" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/5ZeRq1tqf4t8fcdFdjmlQZ?si=sIDYbPOVRCaFxg2GC3lJBg' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71553' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-01-17_Cl_1_0.68906100_1579268102.gif" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-01-17_Cl_1_0.68906100_1579268102.gif_title%3DBild_border%3D0_loading%3Dlazy%3E' title="05.09.2026:&nbsp;DEPRI&nbsp;DISKO&nbsp;-&nbsp;Melancholische&nbsp;Tanzmusik" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-01-17_Cl_1_0.68906100_1579268102.gif"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>DEPRI DISKO - Melancholische Tanzmusik  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Mit Wolfgang Depri & Sad Damon</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR
+</div><div class='div_info'>Kommt ins Molotow und tanzt und singt zu den schönsten, traurigsten Songs der Welt, liegt euch in den Armen. 
+
+Max & Marc a.k.a. Wolfgang Depri & Sad Damon legen im wunderschönsten Molotow auf und...<br><a href="programm.php?nr=71553" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/playlist/2SIID0jsTF3neFqRQw6jPL' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 09.09.2026</div>
+    <div id='i68418' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-09_16958_to_0_0.94123100_1776949790.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-09_16958_to_0_0.94123100_1776949790.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="09.09.2026:&nbsp;NOIR&nbsp;-&nbsp;HINNERK&nbsp;KÖHN" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-09_16958_to_0_0.94123100_1776949790.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>NOIR - HINNERK KÖHN  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/73776' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:16EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Ich hab alles durch: alberne Quatsch-Storys, politisches Kabarett, tausend Jahre Poetry Slam, Musik-Comedy, Impro, klassischer Stand Up. Und langsam weiß ich wer ich auf der Bühne bin. Scheiß auf t...<br><a href="programm.php?nr=68418" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 10.09.2026</div>
+    <div id='i68425' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2025-09-11-hr_To_0_0.52483500_1767798226.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2025-09-11-hr_To_0_0.52483500_1767798226.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="10.09.2026:&nbsp;PUB&nbsp;QUIZ&nbsp;-&nbsp;Kategorisch&nbsp;Fragwürdig" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2025-09-11-hr_To_0_0.52483500_1767798226.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>PUB QUIZ - Kategorisch Fragwürdig  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  AK: 5 EUR
+</div><div class='div_info'>Wer ein 0815-Quiz will, sollte nicht kommen. 
+
+“Kategorisch Fragwürdig” ist das etwas andere Kneipenquiz. Hier geht es nicht bloß um ABCD-Fragen. Viel mehr ist es jedes mal ein wilder Ritt dur...<br><a href="programm.php?nr=68425" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 11.09.2026</div>
+    <div id='i68432' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-04-23-hr_To_0_0.07332300_1780491055.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-04-23-hr_To_0_0.07332300_1780491055.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="11.09.2026:&nbsp;CRYING&nbsp;OUT&nbsp;LOUD&nbsp;-&nbsp;THE&nbsp;EMO&nbsp;PARTY" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-04-23-hr_To_0_0.07332300_1780491055.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>CRYING OUT LOUD - THE EMO PARTY  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJ Sad Damon</div><div class='div_details'>Einlass: 23:00  |  AK: 6 EUR
+</div><div class='div_info'>Früher wurde uns immer zugesagt, wir seien immer nur traurig, depressiv und allein. Auch wenn
+das stimmt, hier können wir endlich alles raus lassen. Ein Abend nur mit deinen Lieblings Emo
+Songs, a...<br><a href="programm.php?nr=68432" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 12.09.2026</div>
+    <div id='i68437' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-12_Cl_0_0.23540900_1786450370.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-12_Cl_0_0.23540900_1786450370.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="12.09.2026:&nbsp;MOLTOW&nbsp;DATING&nbsp;PARTY&nbsp;-&nbsp;FINDE&nbsp;DEINEN&nbsp;PASSENDES&nbsp;MATCH" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-12_Cl_0_0.23540900_1786450370.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-09-12-hr_Cl_0_0.71350900_1786450370.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-12-hr_Cl_0_0.71350900_1786450370.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="12.09.2026:&nbsp;MOLTOW&nbsp;DATING&nbsp;PARTY&nbsp;-&nbsp;FINDE&nbsp;DEINEN&nbsp;PASSENDES&nbsp;MATCH" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-12-hr_Cl_0_0.71350900_1786450370.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MOLTOW DATING PARTY - FINDE DEINEN PASSENDES MATCH  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJs Starry Eyes + Mary Eleni</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR&nbsp;für alle Floors
+</div><div class='div_info'>Molotow Dating Party - Finde Deinen passendes Match
+
+Keine Lust mehr auf Online Dating? Du willst wieder beim weggehen jemanden kennenlernen? 
+Auf der Dating Party - FINDE DEINEN PASSENDES MATCH- k...<br><a href="programm.php?nr=68437" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i68439' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-12_17610_to_0_0.78067400_1785851754.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-12_17610_to_0_0.78067400_1785851754.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="12.09.2026:&nbsp;THE&nbsp;FLOATING&nbsp;BEAR
+Special&nbsp;Guests:&nbsp;FORGOTTEN&nbsp;BIRDS" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-12_17610_to_0_0.78067400_1785851754.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-09-12_17611_to_0_0.69090400_1785852510.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-12_17611_to_0_0.69090400_1785852510.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="12.09.2026:&nbsp;THE&nbsp;FLOATING&nbsp;BEAR
+Special&nbsp;Guests:&nbsp;FORGOTTEN&nbsp;BIRDS" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-12_17611_to_0_0.69090400_1785852510.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>THE FLOATING BEAR<br />
+Special Guests: FORGOTTEN BIRDS  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Im Anschluss DJ Set in der Top Ten Bar!</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/76006' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:12EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 15 EUR </div><div class='div_info'>The Floating Bear – immer wieder die Versuche, die Musik der ebenso vier- wie dickköpfigen Rockband zu beschreiben; Vergleiche wie „späte Pink Floyd spielen frühe Strokes mit dem Sound von XTC�...<br><a href="programm.php?nr=68439" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 16.09.2026</div>
+    <div id='i68465' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class="horizontal_dotted_line"></div><div class='div_title'>REEPERBAHN FESTIVAL  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00
+</div><div class='div_info'>...<br><a href="programm.php?nr=68465" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71555' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-16-hr_Cl_1_0.80956400_1786451767.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-16-hr_Cl_1_0.80956400_1786451767.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="16.09.2026:&nbsp;DOWN&nbsp;IN&nbsp;THE&nbsp;PAST" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-16-hr_Cl_1_0.80956400_1786451767.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>DOWN IN THE PAST  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>INDIE ROCK HITS 2000 - 2015<br />
+DJ Paolo Polvo + DJ Axelmania</div><div class='div_details'>Einlass: 23:00  |  AK: &nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Do you remember?
+10 Schnaps 10€ and I Bet You Look Good On The Dancefloor.
+Gepflückt werden Indie Rock Hits überwiegend von 2000-2015.
+You and you and you and you A monkey needs to dance - so d...<br><a href="programm.php?nr=71555" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 17.09.2026</div>
+    <div id='i68472' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class="horizontal_dotted_line"></div><div class='div_title'>REEPERBAHN FESTIVAL  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00
+</div><div class='div_info'>...<br><a href="programm.php?nr=68472" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71556' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-17-hr_Cl_1_0.87848000_1786548336.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-17-hr_Cl_1_0.87848000_1786548336.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="17.09.2026:&nbsp;VINYL&nbsp;DANCE&nbsp;EXPLOSION&nbsp;-&nbsp;ALTERNATIVE&nbsp;INDIE&nbsp;DANCE" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-17-hr_Cl_1_0.87848000_1786548336.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>VINYL DANCE EXPLOSION - ALTERNATIVE INDIE DANCE  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJ B-Side Barbie + DJ Lesley Farfisa</div><div class='div_details'>Einlass: 23:45  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Wenn B-Side Barbie und Lesley Farfisa ihre Vinylsammlung präsentieren, kommt es zur Explosion. Ein Feuerwerk aus Indie und Alternative. Also schonmal das Tanzbein trainieren....<br><a href="programm.php?nr=71556" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i68474' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2024-05-03_Ka_0_0.86473100_1714569818.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2024-05-03_Ka_0_0.86473100_1714569818.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="17.09.2026:&nbsp;WIDE&nbsp;AWAKE" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2024-05-03_Ka_0_0.86473100_1714569818.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>WIDE AWAKE  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJ Rave + DJ Radieschen</div><div class='div_details'>Einlass: 23:45  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Ja wir wissen, die Besucher*innen einer Indie-Disko möchten immer wieder die alten Klassiker hören, wir sind ein nostalgisches Völkchen. Aber der große Hype ist halt noch nicht vorbei, die letzten...<br><a href="programm.php?nr=68474" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 18.09.2026</div>
+    <div id='i68479' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class="horizontal_dotted_line"></div><div class='div_title'>REEPERBAHN FESTIVAL  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00
+</div><div class='div_info'>...<br><a href="programm.php?nr=68479" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71558' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-18_Cl_1_0.01211200_1785515404.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-18_Cl_1_0.01211200_1785515404.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="18.09.2026:&nbsp;THE&nbsp;SOUND&nbsp;OF&nbsp;MOLOTOW" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-18_Cl_1_0.01211200_1785515404.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-09-18-hr_Cl_1_0.43145600_1785515415.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-18-hr_Cl_1_0.43145600_1785515415.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="18.09.2026:&nbsp;THE&nbsp;SOUND&nbsp;OF&nbsp;MOLOTOW" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-18-hr_Cl_1_0.43145600_1785515415.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>THE SOUND OF MOLOTOW  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJ Mary Eleni + DJ Starry Eyes</div><div class='div_details'>Einlass: 23:45  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Beim Reeperbahn Festival feiern wir die musikalische Vielfalt, für die DJ Mary Eleni und DJ Starry Eyes stehen. Stell dir vor, jemand würde alle guten Molotow-Partys in einen Mixer werfen - genau da...<br><a href="programm.php?nr=71558" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i68481' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-18_To_0_0.40769000_1785937026.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-18_To_0_0.40769000_1785937026.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="18.09.2026:&nbsp;SHAKIN'&nbsp;STREET&nbsp;-&nbsp;IT'S&nbsp;GOT&nbsp;THE&nbsp;BEAT&nbsp;!" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-18_To_0_0.40769000_1785937026.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-09-18-hr_To_0_0.09510600_1785937027.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-18-hr_To_0_0.09510600_1785937027.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="18.09.2026:&nbsp;SHAKIN'&nbsp;STREET&nbsp;-&nbsp;IT'S&nbsp;GOT&nbsp;THE&nbsp;BEAT&nbsp;!" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-18-hr_To_0_0.09510600_1785937027.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>SHAKIN' STREET - IT'S GOT THE BEAT !  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJs: DJetteClydeRock + Fuzzy Trips</div><div class='div_details'>Einlass: 23:45  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Shakin' Street - it's got that beat!
+
+DJette Clyderock (Komet) und DJ Fuzzy Trips (Garageville) kennen kein Erbarmen und zünden eine Hit-Rakete nach der Nächsten auf den Plattentellern!
+
+Egal ob...<br><a href="programm.php?nr=68481" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 19.09.2026</div>
+    <div id='i68486' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class="horizontal_dotted_line"></div><div class='div_title'>REEPERBAHN FESTIVAL  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00
+</div><div class='div_info'>...<br><a href="programm.php?nr=68486" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71557' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-01-04_Cl_0_0.33503400_1773327429.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-01-04_Cl_0_0.33503400_1773327429.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="19.09.2026:&nbsp;MOTORBOOTY!
+The&nbsp;Indie&nbsp;Dancefloor!" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-01-04_Cl_0_0.33503400_1773327429.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MOTORBOOTY!<br />
+The Indie Dancefloor!  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>DJ Hermine Flanger + DJ Herr November</div><div class='div_details'>Einlass: 23:45  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>LET‘S DANCE TO: Joy Division, Kraftklub, Amyl and The Sniffers, Arctic Monkeys, Foals, Bilderbuch, Bloc Party, The Beaches, Betterov, Editors, Fontaines D.C., La Femme, Edwin Rosen, The Cure, Circa ...<br><a href="programm.php?nr=71557" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/playlist/4rUr4rEHjRLqYxUlJcOAwM' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i68488' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2022-08-19_Cl_0_0.72493300_1713880187.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2022-08-19_Cl_0_0.72493300_1713880187.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="19.09.2026:&nbsp;WE&nbsp;WERE&nbsp;TEENAGE&nbsp;FLASHDANCERS" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2022-08-19_Cl_0_0.72493300_1713880187.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>WE WERE TEENAGE FLASHDANCERS  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>mit Cordula und Regina Peper</div><div class='div_details'>Einlass: 23:00  |  AK: 9 EUR&nbsp;Alle mit RBF Festivalbändchen haben freien Eintritt
+</div><div class='div_info'>Cordula und Regina Peper spielen Hit auf Hit, einen nach dem anderen, einer besser als der andere, von Anfang bis Ende und von gestern bis heute. Queer und straight friendly as fuck. If in doubt, over...<br><a href="programm.php?nr=68488" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 24.09.2026</div>
+    <div id='i68523' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-24_17504_to_0_0.28120700_1782299036.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-24_17504_to_0_0.28120700_1782299036.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="24.09.2026:&nbsp;URNE
+Support:&nbsp;DOORWAY&nbsp;EFFECT" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-24_17504_to_0_0.28120700_1782299036.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>URNE<br />
+Support: DOORWAY EFFECT  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Setting Fire To The Sky Tour 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/75282' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:25EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 30 EUR </div><div class='div_info'>London modern metal band, URNE, – Joe Nally (bass, vocals), Angus Neyra (guitar) and James Cook (drums) –have today announced details of their new studio album, Setting Fire To The Sky.
+
+Produce...<br><a href="programm.php?nr=68523" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/1daJkdlSgLE2kmnNUjmRpU?si=qQfSFwNrToCe2f1SSVyt1A' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 25.09.2026</div>
+    <div id='i68530' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-09-25_17571_to_0_0.15527400_1785923449.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-09-25_17571_to_0_0.15527400_1785923449.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="25.09.2026:&nbsp;FüR&nbsp;NICHTS&nbsp;NACH&nbsp;BONN" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-09-25_17571_to_0_0.15527400_1785923449.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>FüR NICHTS NACH BONN  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/75870' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:14EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Für Nichts Nach Bonn ist ein Indie-/Alternative-Projekt aus Stuttgart, das sich zwischen Alternativ Rock, Noise Pop und Indie bewegt. Verzerrte Gitarren treffen auf eine dynamische Stimme und eingän...<br><a href="programm.php?nr=68530" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/6Lhy61HrVnH7OKoX42QT9e?si=V-PmYeGIRGOkrghllKkcQg' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i71554' class = 'Top Ten Bar Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-01-04_Cl_0_0.33503400_1773327429.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-01-04_Cl_0_0.33503400_1773327429.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="25.09.2026:&nbsp;MOTORBOOTY!
+The&nbsp;Indie&nbsp;Dancefloor!" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-01-04_Cl_0_0.33503400_1773327429.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MOTORBOOTY!<br />
+The Indie Dancefloor!  <span class='typ' > (Party -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DJ Herr November + DJ Rave</div><div class='div_details'>Einlass: 23:00  |  AK: 6 EUR
+</div><div class='div_info'>LET‘S DANCE TO: Joy Division, Kraftklub, Amyl and The Sniffers, Arctic Monkeys, Foals, Bilderbuch, Bloc Party, The Beaches, Betterov, Editors, Fontaines D.C., La Femme, Edwin Rosen, The Cure, Circa ...<br><a href="programm.php?nr=71554" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/playlist/4rUr4rEHjRLqYxUlJcOAwM' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 26.09.2026</div>
+    <div id='i68535' class = 'Club Party' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2020-02-07_Cl_2_0.24728600_1742907995.jpeg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-02-07_Cl_2_0.24728600_1742907995.jpeg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="26.09.2026:&nbsp;ENTDECK&nbsp;THE&nbsp;DRECK" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-02-07_Cl_2_0.24728600_1742907995.jpeg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="26.09.2026:&nbsp;ENTDECK&nbsp;THE&nbsp;DRECK" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2020-02-07-hr_Cl_2_0.07635200_1742907996.jpeg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>ENTDECK THE DRECK  <span class='typ' > (Party -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 23:00  |  AK: 10 EUR
+</div><div class='div_info'>Komm mit Deinen Lieblingsmenschen zart dancen zu: Britney Spears, Backstreet Boys, Blink182, The Killers, Blümchen, Depeche Mode, *NSYNC, Gala, No Angels, Snap, Spice Girls, Vengaboys, Eminem, Wheatu...<br><a href="programm.php?nr=68535" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Do, 01.10.2026</div>
+    <div id='i65613' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-01_17040_cl_0_0.16733000_1777383344.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-01_17040_cl_0_0.16733000_1777383344.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="01.10.2026:&nbsp;BEN&nbsp;ELLIS" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-01_17040_cl_0_0.16733000_1777383344.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>BEN ELLIS  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Time Slows On Tour 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://kj.de/artist/7495/ben-ellis.html' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:29,45&nbsp;inkl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Das Talent von Ben Ellis hat sich nach einer Supporttour für Alfie Jukes und ersten ausverkauften Shows in Großbritannien längst auch auf dem europäischen Festland herumgesprochen. Während er Anf...<br><a href="programm.php?nr=65613" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/3u0GaOtYxsIbwldWs8dgE8?si=IRHU5XtiShqVTktsqXyY6w' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 03.10.2026</div>
+    <div id='i65627' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-03_15982_cl_0_0.55921900_1770303087.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-03_15982_cl_0_0.55921900_1770303087.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="03.10.2026:&nbsp;ALEX&nbsp;MOFA&nbsp;GANG&nbsp;-&nbsp;Verlegt&nbsp;auf&nbsp;den&nbsp;30.04.2027!" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-03_15982_cl_0_0.55921900_1770303087.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>ALEX MOFA GANG - Verlegt auf den 30.04.2027!  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>La Boum! 2026</div><div class='div_details'>Einlass: 18:30  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/alex-mofa-gang-la-boum-2026-molotow-21016602/' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:27EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>...<br><a href="programm.php?nr=65627" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/artist/66fzqbJlcSTBuIrMtaqVv0?si=F3llKde0TT6uK2jOK37Z-Q' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i65629' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-03_17613_to_0_0.35914400_1785923290.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-03_17613_to_0_0.35914400_1785923290.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="03.10.2026:&nbsp;POST&nbsp;PUNK&nbsp;NIGHT&nbsp;VOL.&nbsp;3" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-03_17613_to_0_0.35914400_1785923290.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-10-03_17583_to_0_0.97103700_1785923296.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-03_17583_to_0_0.97103700_1785923296.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="03.10.2026:&nbsp;POST&nbsp;PUNK&nbsp;NIGHT&nbsp;VOL.&nbsp;3" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-03_17583_to_0_0.97103700_1785923296.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>POST PUNK NIGHT VOL. 3  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>DENNIS KISS + THE FUNERAL CRANKIES + IИVDR</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/75988' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:18EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 22 EUR </div><div class='div_info'>Post-Punk trifft auf Hamburger Schule und beweist: „Post-Punk is the New Indie“. Zum dritten Mal lädt die Post-Punk Night ins Hamburger Molotow ein, und wieder heißt es: Drei Bands bringen den S...<br><a href="programm.php?nr=65629" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 07.10.2026</div>
+    <div id='i65657' class = 'Top Ten Bar Show' style='display: block; overflow: hidden; clear:both;'><div class="horizontal_dotted_line"></div><div class='div_title'>Hinnerk Köhn @ Molotow  <span class='typ' > (Show -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>"Hinnerk Köhn macht 60 Minuten Impro, wenn es gut läuft auch mehr"</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/75181' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:14EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 18 EUR </div><div class='div_info'>Hinnerk ist Stand Up Comedian mit Leib und Seele, gebt ihm ein Mikrofon und ein wenig Stagetime und er wird jede Sekunde auf der Bühne genießen. Er tourt durch Deutschland mit seinem mittlerweile dr...<br><a href="programm.php?nr=65657" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 09.10.2026</div>
+    <div id='i65669' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-09_16753_cl_0_0.37058300_1774451765.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-09_16753_cl_0_0.37058300_1774451765.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="09.10.2026:&nbsp;MIA&nbsp;MORGAN" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-09_16753_cl_0_0.37058300_1774451765.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MIA MORGAN  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Ein bisschen schlimmer - Tour 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='krasserstoff.com/miamorgan' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:34,75&nbsp;inkl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/mia-morgan-ein-bisschen-schlimmer-tour-2026-molotow-21473624/?affiliate=ET3' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">| TICKET 2<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Mia Morgan geht im Herbst mit neuer Musik auf Ein bisschen schlimmer - Tour 2026. Tickets für die fünf Tourstopps gibt es am Samstag, den 21.03.2026, ab 12:00 Uhr exklusiv bei Krasser Stoﬀ und ab ...<br><a href="programm.php?nr=65669" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/5Uw20NgiZnH2WMcpQ7FdRB?si=MKt8W3_mQhulRXafmUVTEg' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div><div id='i65671' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-09_17350_to_0_0.61888100_1780491684.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-09_17350_to_0_0.61888100_1780491684.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="09.10.2026:&nbsp;CAMILLE&nbsp;JANSEN" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-09_17350_to_0_0.61888100_1780491684.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-10-09_17349_to_0_0.66429400_1780491683.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-09_17349_to_0_0.66429400_1780491683.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="09.10.2026:&nbsp;CAMILLE&nbsp;JANSEN" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-09_17349_to_0_0.66429400_1780491683.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>CAMILLE JANSEN  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>A SLICE OF LIFE TOUR</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/74798' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:25EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Camille Jansen ist eine unabhängige französisch-britische Musikerin, die zwischen Los Angeles und Paris pendelt. Schon als Kind begleiteten sie Künstler wie Bob Dylan und Leonard Cohen auf Familien...<br><a href="programm.php?nr=65671" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/3fPap8kKuNMRn5PR06x0gN?si=kZN6fuzzQEeyZsB2CTbeZA' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 10.10.2026</div>
+    <div id='i65676' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-10_16861_cl_0_0.86719700_1775656593.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-10_16861_cl_0_0.86719700_1775656593.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="10.10.2026:&nbsp;DECLAN&nbsp;WELSH&nbsp;&amp;&nbsp;THE&nbsp;DECADENT&nbsp;WEST" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-10_16861_cl_0_0.86719700_1775656593.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>DECLAN WELSH & THE DECADENT WEST  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 18:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/declan-welsh-the-decadent-west-declan-welsh-and-the-decadent-west-molotow-21531929/?srsltid=AfmBOor-ihAf9q4Yxkz20lBFcdzCrecR1aN1ioeCf8a_ebVA6zM59nW2' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:27,50&nbsp;inkl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://tickets.kj.de/produkte/95187-tickets-declan-welsh-and-the-decadent-west-molotow-hamburg-am-10-10-2026' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">| TICKET 2<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Declan Welsh & the Decadent West „DWDW“ sind eine Band aus Glasgow, bei der intelligente, provokative Texte, eingängige Hooks, gesellschaftliches Engagement und mitreißende Live-Shows zu einem s...<br><a href="programm.php?nr=65676" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/6KNqvxgfYVRSzgAE1j2UT5' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>So, 11.10.2026</div>
+    <div id='i65683' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-11_17226_cl_0_0.91399700_1779371799.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-11_17226_cl_0_0.91399700_1779371799.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="11.10.2026:&nbsp;ROTOR
+Support:&nbsp;CONFUSION&nbsp;MASTER" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-11_17226_cl_0_0.91399700_1779371799.jpg"  title="Bild" border="0"    loading="lazy"></a><br/><a href="https://molotowclub.com/cp_img/2026-10-11_17235_cl_0_0.06127100_1779372115.jpg" target='media2' name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-11_17235_cl_0_0.06127100_1779372115.jpg_title%3DBild_border%3D0_id%3Dtest_loading%3Dlazy%3E' title="11.10.2026:&nbsp;ROTOR
+Support:&nbsp;CONFUSION&nbsp;MASTER" id="media2" rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-11_17235_cl_0_0.06127100_1779372115.jpg"  title="Bild" border="0" id="test"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>ROTOR<br />
+Support: CONFUSION MASTER  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>Join the Joyride 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/74600' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:24EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.eventim.de/event/rotor-confusion-master-join-the-joyride-2026-molotow-21726307/' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">| TICKET 2<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 28 EUR </div><div class='div_info'>ROTOR feilen seit 25 Jahren an ihrem knochentrockenen instrumentalen Sound zwischen Stoner, Progressive und 70s Space Rock. 1998 in Berlin als Trio gegründet, schlagen sie seit 2014 ihren Sound als Q...<br><a href="programm.php?nr=65683" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/5ufIgpulK6MoU3jk9RNOtB?si=36EFaYFFSp2Kekuy7fJLxg' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Mi, 14.10.2026</div>
+    <div id='i65706' class = 'Top Ten Bar Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-14_17462_to_0_0.00044000_1781779184.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-14_17462_to_0_0.00044000_1781779184.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="14.10.2026:&nbsp;MARIA&nbsp;TAYLOR" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-14_17462_to_0_0.00044000_1781779184.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>MARIA TAYLOR  <span class='typ' > (Konzert -</span>  <span class='typ' > Top Ten Bar)</span></div>
+<div class='div_title1'>Germany 2026</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/75142' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:25EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.ghvc-shop.de/maria-taylor-tour-2026_8374/' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">| TICKET 2<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 30 EUR </div><div class='div_info'>Maria Taylor is a singer-songwriter known for her hushed vocals, widescreen atmospheres, and emotionally resonant storytelling, both as a solo artist and as a founding member of Azure Ray. Her forthco...<br><a href="programm.php?nr=65706" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/6iKiDPed4LAQEcPZpvf00m?si=QjwUWaJ8Se649utcnQ72fQ' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Fr, 16.10.2026</div>
+    <div id='i65718' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-16_17110_cl_0_0.11565800_1778236052.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-16_17110_cl_0_0.11565800_1778236052.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="16.10.2026:&nbsp;DER&nbsp;FALL&nbsp;BÖSE" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-16_17110_cl_0_0.11565800_1778236052.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>DER FALL BÖSE  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'>30 Jahre!</div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://www.tixforgigs.com/Event/74047' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:20EUR&nbsp;zzgl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a> |  AK: 24 EUR </div><div class='div_info'>DER FALL BÖSE - 30 JAHRE! – Neun Jahre nach ihrem Abschiedskonzert holen die 7 Jungs nochmal tief Luft 
+und feiern ihren 30. Band-Geburtstag auf der Bühne im Molotow! Eine Reise durch Sound & Zei...<br><a href="programm.php?nr=65718" name='hl_Mehr_Infos' title="" >Mehr Infos</a></div><div class='spotify'> <a href='https://open.spotify.com/intl-de/artist/0vFT9Ve0nYIeXtpJLG50wR?si=nRVyAoXERka_LM_JtsMOIA' target='_blank'><img border='0' alt='Spotify! Molotow Musikclub' src='img/spotify.png' width='298px' height=''></a></div><div class='div_video'></div><div class='div_video'></div></div></div>
+	
+
+
+
+
+
+
+
+ <div class='div_datecon' id='div_datecon' > <div class='div_date'>Sa, 17.10.2026</div>
+    <div id='i65725' class = 'Club Konzert' style='display: block; overflow: hidden; clear:both;'><div class='div_media'><a href="https://molotowclub.com/cp_img/2026-10-17_17186_cl_0_0.72594000_1779191388.jpg" name='hl_%3Cimg_src%3Dhttps_molotowclub.com_cp_img_thumb_2026-10-17_17186_cl_0_0.72594000_1779191388.jpg_title%3DBild_border%3D0_loading%3Dlazy%3E' title="17.10.2026:&nbsp;SOFT&nbsp;LOFT" loading='lazy' rel="lightbox"><img src="https://molotowclub.com/cp_img_thumb/2026-10-17_17186_cl_0_0.72594000_1779191388.jpg"  title="Bild" border="0"    loading="lazy"></a></div>
+<div class="horizontal_dotted_line"></div><div class='div_title'>SOFT LOFT  <span class='typ' > (Konzert -</span>  <span class='typ' > Club)</span></div>
+<div class='div_title1'></div><div class='div_details'>Einlass: 19:00  |  <a target='_blank' style='color:black; text-decoration: none;     font: inherit;' href='https://konzertdirektion-palme.reservix.de/p/reservix/event/2565840' onmouseover="this.style.textDecoration='underline'; " onmouseout="this.style.textDecoration='none';">VVK:29,75&nbsp;inkl. Gebühren | TICKET<img src='../cp_img/tixforgigs.jpg' alt='Smiley face'></a></div><div class='div_info'>Soft Loft ist ein in der Schweiz ansässiges Kollektiv unter der Leitung der Sängerin und Songtexterin Jorina Stamm. Sie sind ein Geheimtipp, der in der Szene zu Hause ist, aber es würde auch nieman...<br><a href="programm.php?nr=6572
+<!-- TRIMMED BY recon.mjs -->

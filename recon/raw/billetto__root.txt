@@ -1,0 +1,1867 @@
+<!DOCTYPE html>
+<html class='js dark' lang='da'>
+<head>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  function _ur(referrer, tags){
+    try {
+      if (referrer) {
+        var url = new URL(referrer);
+        if (url.searchParams.has("bref")) {
+          var bref = JSON.parse(atob(url.searchParams.get("bref")));
+          url.searchParams.delete("bref");
+          if (bref.s) url.searchParams.set("utm_source", bref.s);
+          if (bref.m) url.searchParams.set("utm_medium", bref.m);
+          if (bref.c) url.searchParams.set("utm_campaign", bref.c);
+          if (bref.co) url.searchParams.set("utm_content", bref.co);
+        }
+        if (!url.searchParams.has("utm_source") && tags.utm_source) {
+          url.searchParams.set("utm_source", tags.utm_source);
+        }
+        if (!url.searchParams.has("utm_medium") && tags.utm_medium) {
+          url.searchParams.set("utm_medium", tags.utm_medium);
+        }
+        if (!url.searchParams.has("utm_campaign") && tags.utm_campaign) {
+          url.searchParams.set("utm_campaign", tags.utm_campaign);
+        }
+        if (!url.searchParams.has("utm_content") && tags.utm_content) {
+          url.searchParams.set("utm_content", tags.utm_content);
+        }
+        return url.toString();
+      }
+    } catch(_) { return referrer;}
+  }
+  gtag('consent', 'default', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'granted',
+    'social_media_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+  });
+  gtag('js', new Date());
+  gtag('consent', 'update', {
+    'ad_storage': 'denied',
+    'analytics_storage': 'denied',
+    'functionality_storage': 'denied',
+    'personalization_storage': 'denied',
+    'security_storage': 'denied',
+    'social_media_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+  });
+  gtag('config', 'G-SZQEE8FH6K', {
+    transport_url: 'https://st-b2c.billetto.dk',
+    
+    
+  
+    first_party_collection: true
+  });
+</script>
+<script async src="https://st-b2c.billetto.dk/gtag/js?id=G-SZQEE8FH6K"></script>
+
+<meta content='Europe/Copenhagen' name='timezone'>
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" charset="UTF-8" data-domain-script="28006624-d89e-4fdf-821b-479f8febdac9"></script>
+<script>
+  function OptanonWrapper() {
+    Optanon.OnConsentChanged(function() {
+      if (typeof URL === "function") {
+        var currentUrl = new URL(window.location);
+        if (document.referrer) currentUrl.searchParams.set("rr", btoa(document.referrer));
+        window.location.assign(currentUrl);
+      } else {
+        window.location.reload();
+      }
+    });
+  }
+</script>
+
+<script>
+  (function(w,d){
+    var e=d.createElement('script');e.type='text/javascript';e.async=true;
+    e.src='https://cdn.clerk.io/clerk.js';
+    var s=d.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);
+    w.__clerk_q=w.__clerk_q||[];w.Clerk=w.Clerk||function(){w.__clerk_q.push(arguments)};
+  })(window,document);
+  
+  Clerk('config', {
+    key: 'YFvbSDMjNoOfpOjC0EGucXVi5qBVd4rQ',
+    visitor: 'auto'
+  });
+</script>
+
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<script>
+  window.dataLayer || (window.dataLayer = []);
+</script>
+
+
+
+
+<meta content='da-DK' property='locale'>
+<meta content='da' property='default-locale'>
+<link href='https://billetto.dk/en' hreflang='x-default' rel='alternate'>
+<link href='https://billetto.dk/' hreflang='da-DK' rel='alternate'>
+<link href='https://billetto.dk/en' hreflang='en-DK' rel='alternate'>
+<link href='https://billetto.dk/sv' hreflang='sv-DK' rel='alternate'>
+<link href='https://billetto.dk/no' hreflang='no-DK' rel='alternate'>
+<link href='https://billetto.dk/de' hreflang='de-DK' rel='alternate'>
+<script>
+  window.organization = {
+    id: 1,
+    countryCode: "DK",
+    time_zone: 'Europe/Copenhagen'
+  }
+</script>
+
+<link href='https://fonts.googleapis.com' rel='preconnect'>
+<link href='https://connect.facebook.net' rel='preconnect'>
+<link href='https://fonts.googleapis.com' rel='dns-prefetch'>
+<link href='https://connect.facebook.net' rel='dns-prefetch'>
+<meta content='398940650171-kmo6slcvenj62g955ua3p7rk17dsvqid.apps.googleusercontent.com' name='google-signin-client_id'>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='6916DFC67C51CC29838D747376EA84CE' name='msvalidate.01'>
+<title>Find de bedste events | Billetto Denmark</title>
+<meta content="Billetto hjælper dig med at gå mere ud. Med tusindvis af gode sociale aktiviteter er du næsten garanteret det rette event til dig og dine venner. Eventarrangør? Begynd at sælge billetter på 5 minutter." name="description" />
+<link href="https://billetto.dk" rel="canonical" />
+
+
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="95LmSUIlwGIM1IilbSLznFkKxRRDmnf_LRMma2tGrpFC0q9LCjjIRPHExTs63UFfTOqFuRLSZ4nwjSrV15sAgA" />
+
+  
+  <meta content="https://billetto.dk/" property="og:url" />
+  <meta content="website" property="og:type" />
+  <meta content="Find de bedste events | Billetto Denmark" property="og:title" />
+  <meta content="Billetto Denmark" property="og:site_name" />
+  <meta content="Billetto hjælper dig med at gå mere ud. Med tusindvis af gode sociale aktiviteter er du næsten garanteret det rette event til dig og dine venner. Eventarrangør? Begynd at sælge billetter på 5 minutter." property="og:description" />
+  <meta content="https://bun2.billetto.com/assets/logos/billetto_glyph_dark.min-82b7025c13e2e4c09884b1643c5bb44314ac792327a64d1afd3a02ff883eca90.svg" property="og:image" />
+  <meta content="da" property="og:locale" />
+  <meta content="123654204315208" property="fb:app_id" />
+
+  <!-- Twitter Card Tags -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Find de bedste events | Billetto Denmark" />
+  <meta name="twitter:description" content="Billetto hjælper dig med at gå mere ud. Med tusindvis af gode sociale aktiviteter er du næsten garanteret det rette event til dig og dine venner. Eventarrangør? Begynd at sælge billetter på 5 minutter." />
+  <meta name="twitter:image" content="https://bun2.billetto.com/assets/logos/billetto_glyph_dark.min-82b7025c13e2e4c09884b1643c5bb44314ac792327a64d1afd3a02ff883eca90.svg" />
+    <meta name="twitter:site" content="@BillettoDenmark" />
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"Billetto","legalName":"Billetto ApS","description":"Billetto er en event- og billetplatform, der hjælper arrangører med at publicere events og sælge billetter online.","url":"https://billetto.dk/","logo":"https://bun2.billetto.com/assets/logos/billetto_glyph_dark.min-82b7025c13e2e4c09884b1643c5bb44314ac792327a64d1afd3a02ff883eca90.svg","foundingDate":"2009","vatID":"DK32569080","sameAs":["https://www.linkedin.com/company/billetto-aps/","https://www.facebook.com/billetto.dk/","https://play.google.com/store/apps/details?id=com.billetto.webviewapp","https://apps.apple.com/us/app/billetto-events-calendar/id722356903","https://www.tiktok.com/@billettodk","https://www.youtube.com/@Billetto-yw8fs"],"contactPoint":{"@type":"ContactPoint","telephone":"+45-71-99-38-82","contactType":"customer support","areaServed":"DK","availableLanguage":["Danish","English","Swedish","Norwegian"]},"address":{"@type":"PostalAddress","streetAddress":"Dronningens Tværgade 9, 2","addressLocality":"København K","postalCode":"1302","addressCountry":"DK"}}</script>
+<link rel="icon" type="image/x-icon" href="https://bun2.billetto.com/favicon.ico" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-167x167.png" sizes="167x167" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-180x180.png" sizes="180x180" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/57x57.png" sizes="57x57" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/76x76.png" sizes="76x76" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/228x228.png" sizes="228x228" />
+<link rel="shortcut icon" type="image/png" href="https://bun2.billetto.com/favicons/196x196.png" sizes="196x196" />
+
+<link rel="stylesheet" href="https://bun2.billetto.com/assets/application-8f97e4921920b4ef54b281abf70f3487f44e2e13e4664c58938f25c5913dbccd.css" />
+
+
+<meta content='55c119a3e7ed559dcb71b3c42145c2e6' property='p:domain_verify'>
+<meta name="apple-itunes-app" content="app-id=722356903">
+<link rel="icon" type="image/x-icon" href="https://bun2.billetto.com/favicon.ico" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon.png" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-120x120.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-152x152.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-167x167.png" sizes="167x167" />
+<link rel="apple-touch-icon" type="image/png" href="https://bun2.billetto.com/favicons/apple-touch-icon-180x180.png" sizes="180x180" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/32x32.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/57x57.png" sizes="57x57" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/76x76.png" sizes="76x76" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/96x96.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/128x128.png" sizes="128x128" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/192x192.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="https://bun2.billetto.com/favicons/228x228.png" sizes="228x228" />
+<link rel="shortcut icon" type="image/png" href="https://bun2.billetto.com/favicons/196x196.png" sizes="196x196" />
+<script src="https://bun2.billetto.com/assets/tailwind-bd2624c73633a14593c57adf93913a5220fd376d9520912f8460787ebdce5f66.js" type="module"></script>
+</head>
+<body class='controller-search action-index theme-dark' data-layout='application' data-organization='billetto.dk'>
+
+
+<a class='skip-to-content' href='#main-content'>
+Spring til hovedindhold
+</a>
+<nav id="navbar" class="sticky top-0 z-200 shadow bg-gray-900 px-2 sm:px-4 lg:px-8 flex items-center justify-between h-16" data-turbo="false">
+  <div class="grow flex items-center gap-4">
+    <a
+      href="/"
+      class="shrink-0 hidden lg:block text-gray-900 dark:text-white focus:ring focus:ring-white/50 focus:outline-none"
+    >
+      <span class="sr-only">Gå til Billettos hjemmeside</span>
+      <svg
+        class="block w-auto h-8"
+        viewBox="0 0 130.5 50"
+        xmlns="http://www.w3.org/2000/svg"
+        aria-hidden
+      >
+        <g fill="currentColor">
+          <path
+            d="m19.4 19.4c0-7.7-3.9-11-8.7-11-2.2 0-4.1.7-5.6 2.1v-9.6h-5.1v29.1h4.3l.3-2c1.6 1.7 3.7 2.5 6 2.5 4.9-.1 8.8-3.2 8.8-11.1zm-14.4 2.6c-.2-.7-.2-1.6-.2-2.6s.1-1.8.2-2.5c.6-2.9 2.4-4.2 4.5-4.2 2.6 0 4.7 2 4.7 6.7 0 4.8-2.1 6.7-4.7 6.7-2.1.1-3.8-1.1-4.5-4.1zm108.2-13.6c-5.4 0-9.7 3.3-9.7 11 0 7.8 4.4 11 9.7 11 5.4 0 9.7-3.2 9.7-11 .1-7.7-4.3-11-9.7-11zm.1 17.8c-2.6 0-4.7-2-4.7-6.7s2.1-6.7 4.7-6.7 4.7 2 4.7 6.7c0 4.8-2.1 6.7-4.7 6.7zm-72.3-.5c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm34.3-6.3c0-.7 0-1.4-.1-2-.7-6.2-4.7-9-9.5-9-5.3 0-9.6 3.3-9.6 11 0 7.8 4.3 11 9.6 11 4.1 0 7.6-1.9 8.9-6.4h-5.2c-.9 1.5-2.2 2.1-3.7 2.1-2.3 0-4.2-1.5-4.6-5.1h14.2zm-14.1-2c.5-3.2 2.4-4.7 4.6-4.7s4 1.4 4.6 4.7zm-37.5-8.4h5v25.4h-5zm28.7 16.7c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm49.3-13.6v-3.7h-4.7v-7.5h-5v7.5h-6.4v-7.5h-5v7.5h-4v3.7h4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8h6.4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8z"
+            />
+          <circle cx="26.2" cy="3.1" r="3.1" />
+          <circle cx="127.4" cy="27.3" r="3.1" />
+          <path d="m23.5 45c-5.9 0-10.6-4.8-10.6-10.6h-5c0 8.6 7 15.7 15.7 15.7s15.7-7 15.7-15.7h-5c-.2 5.8-5 10.6-10.8 10.6z" />
+        </g>
+      </svg>
+    </a>
+    <div class="grow">
+      <label for="search" class="sr-only">Søg efter events</label>
+      <div id="instant-search">
+        <div class="relative">
+          <div class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none ">
+            <svg class="h-5 w-5 text-gray-400 dark:text-gray-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"></path>
+</svg>
+          </div>
+          <form action="/search" method="get">
+            <input
+              id="nav-search-input"
+              name="text"
+              class="block w-full py-2 pl-10 pr-3 leading-5 text-gray-900 placeholder-gray-400 bg-white border rounded-full dark:bg-gray-800 dark:text-gray-50 focus:outline-none focus:border-gray-400 dark:focus:border-white focus:ring-gray-200 dark:focus:ring-gray-800 focus:text-gray-900 dark:focus:text-white sm:text-sm"
+              placeholder="Søg efter events"
+              type="search"
+            />
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="grow hidden lg:flex items-center justify-end gap-2">
+          <div
+      x-data="{ locationOpen: false }"
+      class="relative shrink-0"
+    >
+      <button
+        @click="locationOpen = !locationOpen"
+        class="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+        type="button"
+      >
+        <svg class="size-4 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"></path>
+</svg>
+        <span class="hidden lg:inline">Vælg din by</span>
+      </button>
+      <div
+        x-show="locationOpen"
+        @click.away="locationOpen = false"
+        x-transition:enter="transition ease-out duration-200"
+        x-transition:enter-start="opacity-0 -translate-y-1"
+        x-transition:enter-end="opacity-100 translate-y-0"
+        x-transition:leave="transition ease-in duration-150"
+        x-transition:leave-start="opacity-100 translate-y-0"
+        x-transition:leave-end="opacity-0 -translate-y-1"
+        class="absolute right-0 mt-2 w-48 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black ring-opacity-5 focus:outline-none max-h-64 overflow-y-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-transparent [&::-webkit-scrollbar-thumb]:bg-gray-400 dark:[&::-webkit-scrollbar-thumb]:bg-gray-600 [&::-webkit-scrollbar-thumb]:rounded-full"
+        style="display: none;"
+      >
+        <div class="py-1">
+            <a
+              href="https://billetto.dk/c/koebenhavn-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              København
+            </a>
+            <a
+              href="https://billetto.dk/c/aarhus-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Aarhus
+            </a>
+            <a
+              href="https://billetto.dk/c/roskilde-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Roskilde
+            </a>
+            <a
+              href="https://billetto.dk/c/odense-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Odense
+            </a>
+            <a
+              href="https://billetto.dk/c/aalborg-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Aalborg
+            </a>
+            <a
+              href="https://billetto.dk/c/hillerod-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Hillerød
+            </a>
+            <a
+              href="https://billetto.dk/c/koge-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Køge
+            </a>
+            <a
+              href="https://billetto.dk/c/naestved-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Næstved
+            </a>
+            <a
+              href="https://billetto.dk/c/helsingor-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Helsingør
+            </a>
+            <a
+              href="https://billetto.dk/c/kolding-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Kolding
+            </a>
+            <a
+              href="https://billetto.dk/c/esbjerg-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Esbjerg
+            </a>
+            <a
+              href="https://billetto.dk/c/horsens-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Horsens
+            </a>
+            <a
+              href="https://billetto.dk/c/randers-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Randers
+            </a>
+            <a
+              href="https://billetto.dk/c/vejle-l"
+              class="block px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+            >
+              Vejle
+            </a>
+        </div>
+      </div>
+    </div>
+
+          <div
+      x-data="{ categoryOpen: false }"
+      
+      class="relative shrink-0"
+    >
+      <button
+        @click="categoryOpen = !categoryOpen"
+        class="flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+        type="button"
+      >
+        <svg class="size-4 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z"></path>
+</svg>
+        <span class="hidden lg:inline">Kategorier</span>
+      </button>
+      <div
+        x-show="categoryOpen"
+        @click.away="categoryOpen = false"
+        x-transition:enter="transition ease-out duration-200"
+        x-transition:enter-start="opacity-0 -translate-y-1"
+        x-transition:enter-end="opacity-100 translate-y-0"
+        x-transition:leave="transition ease-in duration-150"
+        x-transition:leave-start="opacity-100 translate-y-0"
+        x-transition:leave-end="opacity-0 -translate-y-1"
+        class="absolute right-0 mt-2 w-48 rounded-md shadow-lg bg-white dark:bg-gray-800 ring-1 ring-black ring-opacity-5 focus:outline-none max-h-64 overflow-y-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-transparent [&::-webkit-scrollbar-thumb]:bg-gray-400 dark:[&::-webkit-scrollbar-thumb]:bg-gray-600 [&::-webkit-scrollbar-thumb]:rounded-full"
+        style="display: none;"
+      >
+        <div class="py-1">
+              <a href="/c/music-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkmusic1" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>🎸</span>
+                <span>Musik</span>
+              </a>
+              <a href="/c/performing_arts-c/comedy-sc?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkcomedy3" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>😂</span>
+                <span>Comedy</span>
+              </a>
+              <a href="/c/performing_arts-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkoptraedenogvisuelkunst2" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>🎭</span>
+                <span>Performance &amp; Visuel Kunst</span>
+              </a>
+              <a href="/c/concert-t?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkconcerts4" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>🎤</span>
+                <span>Koncerter</span>
+              </a>
+              <a href="/c/food_drink-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkfooddrink5" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>👨‍🍳</span>
+                <span>Mad &amp; Drikke</span>
+              </a>
+              <a href="/c/hobbies-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkhobbies6" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>🎨</span>
+                <span>Hobbyer &amp; Specielle Interesser</span>
+              </a>
+              <a href="/c/community-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkcommunity7" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>👨‍🎓</span>
+                <span>Samfund &amp; Kultur</span>
+              </a>
+              <a href="/c/sports-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=homepage&amp;utm_content=manualcategories1dksports8" class="flex items-center gap-2 px-4 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+                <span>🏋️</span>
+                <span>Sport &amp; Fitness</span>
+              </a>
+        </div>
+      </div>
+    </div>
+
+      <div
+        x-data="popover({ open: false, focus: false })"
+        @keydown.escape="onEscape"
+        @close-popover-group.window="onClosePopoverGroup"
+        class="relative shrink-0"
+      >
+        <button
+          class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+          type="button"
+          :class="{ 'text-gray-900': open, 'text-gray-500': !(open) }"
+          @click="toggle"
+          @mousedown="if (open) $event.preventDefault()"
+          aria-expanded="false"
+          :aria-expanded="open.toString()"
+        >
+          Opret event
+        </button>
+        <div
+          class="absolute right-0 w-48 p-1 mt-2 origin-top-right transform scale-100 bg-white rounded-md shadow-lg opacity-100 dark:bg-gray-800 ring-1 ring-black ring-opacity-5 focus:outline-none"
+          x-show="open"
+          x-transition:enter="transition ease-out duration-200"
+          x-transition:enter-start="opacity-0 -translate-y-1"
+          x-transition:enter-end="opacity-100 translate-y-0"
+          x-transition:leave="transition ease-in duration-150"
+          x-transition:leave-start="opacity-100 translate-y-0"
+          x-transition:leave-end="opacity-0 -translate-y-1"
+          x-ref="panel"
+          @click.away="open = false"
+          style="display: none;"
+        >
+          <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="https://go.billetto.com/">
+  Løsninger
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/pricing">
+  Priser
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/organiser/sign_up">
+  Start gratis test
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/meet">
+  Book et møde
+</a>
+        </div>
+      </div>
+      <div
+  x-data="popover({ open: false, focus: false })"
+  @keydown.escape="onEscape"
+  @close-popover-group.window="onClosePopoverGroup"
+  class="relative shrink-0"
+>
+  <button
+    class="inline-flex items-center gap-2 px-3 py-2 text-sm font-medium text-gray-700 border-b-2 border-white dark:border-gray-900 dark:hover:border-brand-200 hover:border-brand-500 dark:text-gray-300 hover:text-gray-900 dark:hover:text-white"
+    type="button"
+    :class="{ 'text-gray-900': open, 'text-gray-500': !(open) }"
+    @click="toggle"
+    @mousedown="if (open) $event.preventDefault()"
+    aria-expanded="false"
+    :aria-expanded="open.toString()"
+  >
+    <svg class="size-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z"></path>
+</svg>
+    Log ind
+  </button>
+  <div
+    class="fixed top-0 left-0 w-full h-full"
+    x-show="open"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="opacity-0 -translate-y-1"
+    x-transition:enter-end="opacity-100 translate-y-0"
+    x-transition:leave="transition ease-in duration-150"
+    x-transition:leave-start="opacity-100 translate-y-0"
+    x-transition:leave-end="opacity-0 -translate-y-1"
+    x-ref="panel"
+    @click.away="open = false"
+    style="display: none;"
+  >
+    <div class="absolute inset-0 w-full h-full bg-black/50" @click="toggle"></div>
+    <div class="bg-white dark:bg-gray-800 flex flex-col justify-between relative border-gray-200 dark:border-gray-700 sm:rounded-lg w-full divide-y divide-gray-200 dark:divide-gray-700 border shadow overflow-hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-w-sm rounded-lg">
+  <div class="px-4 py-5 sm:px-6">
+    <div class="flex items-center justify-between">
+      <div class="flex-1 min-w-0">
+        <h3 class="leading-6 font-medium text-gray-900 dark:text-gray-100">
+          Hvem er du på Billetto?
+        </h3>
+        
+      </div>
+      <div class="flex-shrink-0 flex md:mt-0 md:ml-4">
+        <button @click="toggle" type="button" class="">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+  <span class="leading-none"><span class="sr-only">Close</span></span>
+</button>
+      </div>
+    </div>
+  </div>
+  <div class="flex-grow card-content px-4 py-5 sm:px-6 space-y-4">
+      <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/ticket_buyer/sign_in">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-5.25h5.25M7.5 15h3M3.375 5.25c-.621 0-1.125.504-1.125 1.125v3.026a2.999 2.999 0 0 1 0 5.198v3.026c0 .621.504 1.125 1.125 1.125h17.25c.621 0 1.125-.504 1.125-1.125v-3.026a2.999 2.999 0 0 1 0-5.198V6.375c0-.621-.504-1.125-1.125-1.125H3.375Z"></path>
+</svg>
+  <span class="leading-none">
+        Billetkøber
+</span>
+</a>      <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/organiser/sign_in">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"></path>
+</svg>
+  <span class="leading-none">
+        Arrangør
+</span>
+</a>      <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/event_manager">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 0 1 3.75 9.375v-4.5ZM3.75 14.625c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5a1.125 1.125 0 0 1-1.125-1.125v-4.5ZM13.5 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 0 1 13.5 9.375v-4.5Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 6.75h.75v.75h-.75v-.75ZM6.75 16.5h.75v.75h-.75v-.75ZM16.5 6.75h.75v.75h-.75v-.75ZM13.5 13.5h.75v.75h-.75v-.75ZM13.5 19.5h.75v.75h-.75v-.75ZM19.5 13.5h.75v.75h-.75v-.75ZM19.5 19.5h.75v.75h-.75v-.75ZM16.5 16.5h.75v.75h-.75v-.75Z"></path>
+</svg>
+  <span class="leading-none">
+        Dørpersonale
+</span>
+</a>      <p class="text-center text-sm text-gray-600 dark:text-gray-400 pt-2">
+        Har du ikke en konto?
+        <button
+          type="button"
+          class="text-brand-500 hover:text-brand-600 font-medium"
+          @click="open = false; $dispatch('open-signup-modal')"
+        >
+          Opret ny konto
+        </button>
+      </p>
+</div>
+</div>  </div>
+</div>
+
+      <a href="/organiser/sign_up" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm">
+  <span class="leading-none">Opret et event</span>
+</a>
+      <div
+  x-data="popover({ open: false, focus: false })"
+  @keydown.escape="onEscape"
+  @close-popover-group.window="onClosePopoverGroup"
+  @open-signup-modal.window="open = true"
+  class="relative shrink-0"
+>
+  <div
+    class="fixed top-0 left-0 w-full h-full"
+    x-show="open"
+    x-transition:enter="transition ease-out duration-200"
+    x-transition:enter-start="opacity-0 -translate-y-1"
+    x-transition:enter-end="opacity-100 translate-y-0"
+    x-transition:leave="transition ease-in duration-150"
+    x-transition:leave-start="opacity-100 translate-y-0"
+    x-transition:leave-end="opacity-0 -translate-y-1"
+    x-ref="panel"
+    @click.away="open = false"
+    style="display: none;"
+  >
+    <div class="absolute inset-0 w-full h-full bg-black/50" @click="toggle"></div>
+    <div class="bg-white dark:bg-gray-800 flex flex-col justify-between relative border-gray-200 dark:border-gray-700 sm:rounded-lg w-full divide-y divide-gray-200 dark:divide-gray-700 border shadow overflow-hidden top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-w-sm rounded-lg">
+  <div class="px-4 py-5 sm:px-6">
+    <div class="flex items-center justify-between">
+      <div class="flex-1 min-w-0">
+        <h3 class="leading-6 font-medium text-gray-900 dark:text-gray-100">
+          Hvem er du på Billetto?
+        </h3>
+        
+      </div>
+      <div class="flex-shrink-0 flex md:mt-0 md:ml-4">
+        <button @click="toggle" type="button" class="">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+  <span class="leading-none"><span class="sr-only">Close</span></span>
+</button>
+      </div>
+    </div>
+  </div>
+  <div class="flex-grow card-content px-4 py-5 sm:px-6 space-y-4">
+
+      <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/ticket_buyer/sign_up">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-5.25h5.25M7.5 15h3M3.375 5.25c-.621 0-1.125.504-1.125 1.125v3.026a2.999 2.999 0 0 1 0 5.198v3.026c0 .621.504 1.125 1.125 1.125h17.25c.621 0 1.125-.504 1.125-1.125v-3.026a2.999 2.999 0 0 1 0-5.198V6.375c0-.621-.504-1.125-1.125-1.125H3.375Z"></path>
+</svg>
+  <span class="leading-none">
+        Billetkøber
+</span>
+</a>      <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/organiser/sign_up">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"></path>
+</svg>
+  <span class="leading-none">
+        Arrangør
+</span>
+</a></div>
+</div>  </div>
+</div>
+
+    </div>
+  </div>
+</nav>
+  <div
+    x-data="popover({ open: false, focus: false })"
+    @keydown.escape="onEscape"
+    @close-popover-group.window="onClosePopoverGroup"
+    class="lg:hidden fixed bottom-0 left-0 right-0 flex items-center justify-around h-20 py-4 bg-gray-900 border-t border-gray-800 shadow-inner z-200"
+  >
+
+    <a
+      href="/"
+      class="
+            w-16
+            shrink-0
+            leading-none
+            flex
+            flex-col
+            items-center
+            justify-between
+            h-full
+            text-brand-500 font-medium
+            active:font-medium
+            active:text-brand-500
+            text-sm
+            outline-none
+          "
+    >
+
+      <svg class="w-7 h-7 shrink-0" viewbox="0 0 50 50" xmlns="http://www.w3.org/2000/svg">
+        <path d="m50 50v-25h-8.1c0 9.3-7.6 16.9-16.9 16.9s-16.9-7.6-16.9-16.9h-8.1v25z" fill="none" />
+        <path d="m25 36.4c6.3 0 11.4-5.1 11.4-11.4h-22.8c0 6.3 5.1 11.4 11.4 11.4z" />
+        <path
+          d="m25 8.1c9.3 0 16.9 7.6 16.9 16.9h8.1v-25h-50v25h8.1c0-9.3 7.6-16.9 16.9-16.9zm0 5.5c-6.3 0-11.4 5.1-11.4 11.4h22.8c0-6.3-5.1-11.4-11.4-11.4zm0 22.8c-6.3 0-11.4-5.1-11.4-11.4h-5.5c0 9.3 7.6 16.9 16.9 16.9s16.9-7.6 16.9-16.9h-5.5c0 6.3-5.1 11.4-11.4 11.4z"
+          fill="currentColor"
+          />
+        <path
+          d="m25 8.1c-9.3 0-16.9 7.6-16.9 16.9h5.5c0-6.3 5.1-11.4 11.4-11.4s11.4 5.1 11.4 11.4h5.5c0-9.3-7.6-16.9-16.9-16.9z"
+          fill="none"
+          />
+      </svg>
+      Hjem
+    </a>
+
+    <a
+      href="/search"
+      class="
+            w-16
+            shrink-0
+            leading-none
+            flex
+            flex-col
+            items-center
+            justify-between
+            h-full
+            text-white
+            active:font-medium
+            active:text-brand-500
+            text-sm
+            outline-none
+          "
+    >
+
+      <svg class="w-7 h-7 text-current shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m21 21-5.197-5.197m0 0A7.5 7.5 0 1 0 5.196 5.196a7.5 7.5 0 0 0 10.607 10.607Z"></path>
+</svg>
+      Søg
+    </a>
+    <a
+      href="/ticket_buyer/tickets/liked"
+      class="
+          w-16
+          shrink-0
+          leading-none
+          flex
+          flex-col
+          items-center
+          justify-between
+          h-full
+          text-white
+          active:font-medium
+          active:text-brand-500
+          text-sm
+          outline-none
+        "
+    >
+      <svg class="w-7 h-7 text-current shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M21 8.25c0-2.485-2.099-4.5-4.688-4.5-1.935 0-3.597 1.126-4.312 2.733-.715-1.607-2.377-2.733-4.313-2.733C5.1 3.75 3 5.765 3 8.25c0 7.22 9 12 9 12s9-4.78 9-12Z"></path>
+</svg>
+      Synes godt om
+    </a>
+    <a
+      href="/ticket_buyer/tickets"
+      class="
+            w-16
+            shrink-0
+            leading-none
+            flex
+            flex-col
+            items-center
+            justify-between
+            h-full
+            text-white
+            active:font-medium
+            active:text-brand-500
+            text-sm
+            outline-none
+          "
+    >
+      <svg class="w-7 h-7 text-current shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-5.25h5.25M7.5 15h3M3.375 5.25c-.621 0-1.125.504-1.125 1.125v3.026a2.999 2.999 0 0 1 0 5.198v3.026c0 .621.504 1.125 1.125 1.125h17.25c.621 0 1.125-.504 1.125-1.125v-3.026a2.999 2.999 0 0 1 0-5.198V6.375c0-.621-.504-1.125-1.125-1.125H3.375Z"></path>
+</svg>
+      Wallet
+    </a>
+
+    <button
+      class="flex flex-col items-center justify-between w-16 h-full text-sm text-white shrink-0 leading-none"
+      type="button"
+      :class="{ 'text-gray-900': open, 'text-gray-500': !(open) }"
+      @click="toggle"
+      @mousedown="if (open) $event.preventDefault()"
+      aria-expanded="false"
+      :aria-expanded="open.toString()"
+    >
+      <svg class="w-7 h-7 shrink-0" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5"></path>
+</svg>
+      Menu
+    </button>
+
+    <div
+      class="fixed inset-0 p-4 bg-gray-800 overflow-y-auto z-200"
+      x-show="open"
+      x-transition:enter="transition ease-out duration-200"
+      x-transition:enter-start="opacity-50 translate-x-full"
+      x-transition:enter-end="opacity-100 translate-x-0"
+      x-transition:leave="transition ease-in duration-150"
+      x-transition:leave-start="opacity-100 translate-x-0"
+      x-transition:leave-end="opacity-50 translate-x-full"
+      x-ref="panel"
+      @click.away="open = false"
+      style="display: none;"
+    >
+      <div class="flex justify-between items-center">
+        <svg
+          class="w-auto h-8"
+          enable-background="new 0 0 130.5 50"
+          viewBox="0 0 130.5 50"
+          xmlns="http://www.w3.org/2000/svg"
+          aria-hidden
+        >
+          <g fill="currentColor">
+            <path
+              d="m19.4 19.4c0-7.7-3.9-11-8.7-11-2.2 0-4.1.7-5.6 2.1v-9.6h-5.1v29.1h4.3l.3-2c1.6 1.7 3.7 2.5 6 2.5 4.9-.1 8.8-3.2 8.8-11.1zm-14.4 2.6c-.2-.7-.2-1.6-.2-2.6s.1-1.8.2-2.5c.6-2.9 2.4-4.2 4.5-4.2 2.6 0 4.7 2 4.7 6.7 0 4.8-2.1 6.7-4.7 6.7-2.1.1-3.8-1.1-4.5-4.1zm108.2-13.6c-5.4 0-9.7 3.3-9.7 11 0 7.8 4.4 11 9.7 11 5.4 0 9.7-3.2 9.7-11 .1-7.7-4.3-11-9.7-11zm.1 17.8c-2.6 0-4.7-2-4.7-6.7s2.1-6.7 4.7-6.7 4.7 2 4.7 6.7c0 4.8-2.1 6.7-4.7 6.7zm-72.3-.5c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm34.3-6.3c0-.7 0-1.4-.1-2-.7-6.2-4.7-9-9.5-9-5.3 0-9.6 3.3-9.6 11 0 7.8 4.3 11 9.6 11 4.1 0 7.6-1.9 8.9-6.4h-5.2c-.9 1.5-2.2 2.1-3.7 2.1-2.3 0-4.2-1.5-4.6-5.1h14.2zm-14.1-2c.5-3.2 2.4-4.7 4.6-4.7s4 1.4 4.6 4.7zm-37.5-8.4h5v25.4h-5zm28.7 16.7c-1 0-1.8-.5-1.8-1.8v-23h-5v23.1c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.5.1-.8.1-1 .1zm49.3-13.6v-3.7h-4.7v-7.5h-5v7.5h-6.4v-7.5h-5v7.5h-4v3.7h4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8h6.4v11.9c0 .5 0 1 .1 1.5.5 3.3 2.7 4.7 5.3 4.7.8 0 1.6-.1 2.4-.4v-4.2c-.3.1-.6.1-.9.1-1 0-1.8-.5-1.8-1.8v-11.8z"
+              />
+            <circle cx="26.2" cy="3.1" r="3.1" />
+            <circle cx="127.4" cy="27.3" r="3.1" />
+            <path d="m23.5 45c-5.9 0-10.6-4.8-10.6-10.6h-5c0 8.6 7 15.7 15.7 15.7s15.7-7 15.7-15.7h-5c-.2 5.8-5 10.6-10.8 10.6z" />
+          </g>
+        </svg>
+        <button class=" shrink-0 p-4" @click="open = false" title="Luk">
+          <svg class="w-7 h-7 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+        </button>
+      </div>
+
+      <div class="space-y-1 bg-white dark:bg-gray-800 sm:p-4 " role="none">
+    <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-6 py-4 text-base my-4 w-full justify-center" href="/organiser/sign_up">
+  <span class="leading-none">Opret et event</span>
+</a>
+    <div
+      x-data="popover({ open: false, focus: false })"
+      @keydown.escape="onEscape"
+      @close-popover-group.window="onClosePopoverGroup"
+      class="relative shrink-0"
+    >
+      <button class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 rounded-md px-6 py-4 text-base text-gray-50 bg-gray-800 hover:bg-gray-700 w-full justify-center" @click="toggle" @mousedown="if (open) $event.preventDefault()" aria-expanded="false" :aria-expanded="open.toString()" type="button">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 6a3.75 3.75 0 1 1-7.5 0 3.75 3.75 0 0 1 7.5 0ZM4.501 20.118a7.5 7.5 0 0 1 14.998 0A17.933 17.933 0 0 1 12 21.75c-2.676 0-5.216-.584-7.499-1.632Z"></path>
+</svg>
+  <span class="leading-none">Log ind</span>
+</button>
+      <div
+        class="fixed top-0 left-0 w-full h-full z-[500]"
+        x-show="open"
+        x-transition:enter="transition ease-out duration-200"
+        x-transition:enter-start="opacity-0 -translate-y-1"
+        x-transition:enter-end="opacity-100 translate-y-0"
+        x-transition:leave="transition ease-in duration-150"
+        x-transition:leave-start="opacity-100 translate-y-0"
+        x-transition:leave-end="opacity-0 -translate-y-1"
+        x-ref="panel"
+        @click.away="open = false"
+        style="display: none;"
+      >
+        <div class="absolute inset-0 w-full h-full bg-black/50" @click="toggle"></div>
+        <div class="bg-white dark:bg-gray-800 flex flex-col justify-between relative border-gray-200 dark:border-gray-700 sm:rounded-lg w-full divide-y divide-gray-200 dark:divide-gray-700 border shadow overflow-hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-w-sm rounded-lg">
+  <div class="px-4 py-5 sm:px-6">
+    <div class="flex items-center justify-between">
+      <div class="flex-1 min-w-0">
+        <h3 class="leading-6 font-medium text-gray-900 dark:text-gray-100">
+          Hvem er du på Billetto?
+        </h3>
+        
+      </div>
+      <div class="flex-shrink-0 flex md:mt-0 md:ml-4">
+        <button @click="toggle" type="button" class="">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+  <span class="leading-none"><span class="sr-only">Close</span></span>
+</button>
+      </div>
+    </div>
+  </div>
+  <div class="flex-grow card-content px-4 py-5 sm:px-6 space-y-4">
+          <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/ticket_buyer/sign_in">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-5.25h5.25M7.5 15h3M3.375 5.25c-.621 0-1.125.504-1.125 1.125v3.026a2.999 2.999 0 0 1 0 5.198v3.026c0 .621.504 1.125 1.125 1.125h17.25c.621 0 1.125-.504 1.125-1.125v-3.026a2.999 2.999 0 0 1 0-5.198V6.375c0-.621-.504-1.125-1.125-1.125H3.375Z"></path>
+</svg>
+  <span class="leading-none">
+            Billetkøber
+</span>
+</a>          <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/organiser/sign_in">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"></path>
+</svg>
+  <span class="leading-none">
+            Arrangør
+</span>
+</a>          <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/event_manager">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 0 1 3.75 9.375v-4.5ZM3.75 14.625c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5a1.125 1.125 0 0 1-1.125-1.125v-4.5ZM13.5 4.875c0-.621.504-1.125 1.125-1.125h4.5c.621 0 1.125.504 1.125 1.125v4.5c0 .621-.504 1.125-1.125 1.125h-4.5A1.125 1.125 0 0 1 13.5 9.375v-4.5Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 6.75h.75v.75h-.75v-.75ZM6.75 16.5h.75v.75h-.75v-.75ZM16.5 6.75h.75v.75h-.75v-.75ZM13.5 13.5h.75v.75h-.75v-.75ZM13.5 19.5h.75v.75h-.75v-.75ZM19.5 13.5h.75v.75h-.75v-.75ZM19.5 19.5h.75v.75h-.75v-.75ZM16.5 16.5h.75v.75h-.75v-.75Z"></path>
+</svg>
+  <span class="leading-none">
+            Dørpersonale
+</span>
+</a>          <p class="text-center text-sm text-gray-600 dark:text-gray-400 pt-2">
+            Har du ikke en konto?
+            <button
+              type="button"
+              class="text-brand-500 hover:text-brand-600 font-medium"
+              @click="open = false; $dispatch('open-signup-modal')"
+            >
+              Opret ny konto
+            </button>
+          </p>
+</div>
+</div>      </div>
+    </div>
+    <div
+      x-data="{ open: false }"
+      @open-signup-modal.window="open = true"
+      @keydown.escape.window="if (open) open = false"
+    >
+      <div
+        class="fixed top-0 left-0 w-full h-full z-[500]"
+        x-show="open"
+        x-transition:enter="transition ease-out duration-200"
+        x-transition:enter-start="opacity-0"
+        x-transition:enter-end="opacity-100"
+        x-transition:leave="transition ease-in duration-150"
+        x-transition:leave-start="opacity-100"
+        x-transition:leave-end="opacity-0"
+        style="display: none;"
+      >
+        <div class="absolute inset-0 w-full h-full bg-black/50" @click="open = false"></div>
+        <div class="bg-white dark:bg-gray-800 flex flex-col justify-between relative border-gray-200 dark:border-gray-700 sm:rounded-lg w-full divide-y divide-gray-200 dark:divide-gray-700 border shadow overflow-hidden absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 max-w-sm rounded-lg">
+  <div class="px-4 py-5 sm:px-6">
+    <div class="flex items-center justify-between">
+      <div class="flex-1 min-w-0">
+        <h3 class="leading-6 font-medium text-gray-900 dark:text-gray-100">
+          Hvem er du på Billetto?
+        </h3>
+        
+      </div>
+      <div class="flex-shrink-0 flex md:mt-0 md:ml-4">
+        <button @click="open = false" type="button" class="">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+  <span class="leading-none"><span class="sr-only">Close</span></span>
+</button>
+      </div>
+    </div>
+  </div>
+  <div class="flex-grow card-content px-4 py-5 sm:px-6 space-y-4">
+          <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/ticket_buyer/sign_up">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M16.5 6v.75m0 3v.75m0 3v.75m0 3V18m-9-5.25h5.25M7.5 15h3M3.375 5.25c-.621 0-1.125.504-1.125 1.125v3.026a2.999 2.999 0 0 1 0 5.198v3.026c0 .621.504 1.125 1.125 1.125h17.25c.621 0 1.125-.504 1.125-1.125v-3.026a2.999 2.999 0 0 1 0-5.198V6.375c0-.621-.504-1.125-1.125-1.125H3.375Z"></path>
+</svg>
+  <span class="leading-none">
+            Billetkøber
+</span>
+</a>          <a class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 bg-brand-500 border-brand-500 hover:border-brand-600 hover:bg-brand-600 text-brand-secondary-0 rounded-md px-4 py-2 text-sm block w-full justify-center" href="/organiser/sign_up">
+    <svg class="shrink-0 h-4 w-4 text-current inline mr-2" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 0 1 2.25-2.25h13.5A2.25 2.25 0 0 1 21 7.5v11.25m-18 0A2.25 2.25 0 0 0 5.25 21h13.5A2.25 2.25 0 0 0 21 18.75m-18 0v-7.5A2.25 2.25 0 0 1 5.25 9h13.5A2.25 2.25 0 0 1 21 11.25v7.5"></path>
+</svg>
+  <span class="leading-none">
+            Arrangør
+</span>
+</a></div>
+</div>      </div>
+    </div>
+    <div class="pb-4"></div>
+      <div x-data="{ open: false }" class="pb-4 mb-4 border-b border-gray-200 dark:border-gray-700">
+      <button
+        @click="open = !open"
+        class="w-full flex items-center justify-between px-4 py-3 text-base font-medium text-gray-900 dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
+      >
+        <span class="flex items-center gap-2">
+          <svg class="size-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"></path>
+</svg>
+          Vælg din by
+        </span>
+        <svg :class="{ 'rotate-180': open }" class="w-5 h-5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </button>
+      <div x-show="open" x-collapse class="max-h-48 overflow-y-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-transparent [&::-webkit-scrollbar-thumb]:bg-gray-400 dark:[&::-webkit-scrollbar-thumb]:bg-gray-600 [&::-webkit-scrollbar-thumb]:rounded-full">
+          <a
+            href="https://billetto.dk/c/koebenhavn-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            København
+          </a>
+          <a
+            href="https://billetto.dk/c/aarhus-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Aarhus
+          </a>
+          <a
+            href="https://billetto.dk/c/roskilde-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Roskilde
+          </a>
+          <a
+            href="https://billetto.dk/c/odense-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Odense
+          </a>
+          <a
+            href="https://billetto.dk/c/aalborg-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Aalborg
+          </a>
+          <a
+            href="https://billetto.dk/c/hillerod-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Hillerød
+          </a>
+          <a
+            href="https://billetto.dk/c/koge-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Køge
+          </a>
+          <a
+            href="https://billetto.dk/c/naestved-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Næstved
+          </a>
+          <a
+            href="https://billetto.dk/c/helsingor-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Helsingør
+          </a>
+          <a
+            href="https://billetto.dk/c/kolding-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Kolding
+          </a>
+          <a
+            href="https://billetto.dk/c/esbjerg-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Esbjerg
+          </a>
+          <a
+            href="https://billetto.dk/c/horsens-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Horsens
+          </a>
+          <a
+            href="https://billetto.dk/c/randers-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Randers
+          </a>
+          <a
+            href="https://billetto.dk/c/vejle-l"
+            class="block px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700"
+          >
+            Vejle
+          </a>
+      </div>
+    </div>
+
+      <div
+      x-data="{ open: false }"
+      
+      class="pb-4 mb-4 border-b border-gray-200 dark:border-gray-700"
+    >
+      <button
+        @click="open = !open"
+        class="w-full flex items-center justify-between px-4 py-3 text-base font-medium text-gray-900 dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700"
+      >
+        <span class="flex items-center gap-2">
+          <svg class="size-5" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6A2.25 2.25 0 0 1 6 3.75h2.25A2.25 2.25 0 0 1 10.5 6v2.25a2.25 2.25 0 0 1-2.25 2.25H6a2.25 2.25 0 0 1-2.25-2.25V6ZM3.75 15.75A2.25 2.25 0 0 1 6 13.5h2.25a2.25 2.25 0 0 1 2.25 2.25V18a2.25 2.25 0 0 1-2.25 2.25H6A2.25 2.25 0 0 1 3.75 18v-2.25ZM13.5 6a2.25 2.25 0 0 1 2.25-2.25H18A2.25 2.25 0 0 1 20.25 6v2.25A2.25 2.25 0 0 1 18 10.5h-2.25a2.25 2.25 0 0 1-2.25-2.25V6ZM13.5 15.75a2.25 2.25 0 0 1 2.25-2.25H18a2.25 2.25 0 0 1 2.25 2.25V18A2.25 2.25 0 0 1 18 20.25h-2.25A2.25 2.25 0 0 1 13.5 18v-2.25Z"></path>
+</svg>
+          Kategorier
+        </span>
+        <svg :class="{ 'rotate-180': open }" class="w-5 h-5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+        </svg>
+      </button>
+      <div x-show="open" x-collapse class="max-h-48 overflow-y-auto [&::-webkit-scrollbar]:w-2 [&::-webkit-scrollbar-track]:bg-transparent [&::-webkit-scrollbar-thumb]:bg-gray-400 dark:[&::-webkit-scrollbar-thumb]:bg-gray-600 [&::-webkit-scrollbar-thumb]:rounded-full">
+            <a href="/c/music-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkmusic1" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>🎸</span>
+              <span>Musik</span>
+            </a>
+            <a href="/c/performing_arts-c/comedy-sc?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkcomedy3" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>😂</span>
+              <span>Comedy</span>
+            </a>
+            <a href="/c/performing_arts-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkoptraedenogvisuelkunst2" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>🎭</span>
+              <span>Performance &amp; Visuel Kunst</span>
+            </a>
+            <a href="/c/concert-t?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkconcerts4" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>🎤</span>
+              <span>Koncerter</span>
+            </a>
+            <a href="/c/food_drink-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkfooddrink5" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>👨‍🍳</span>
+              <span>Mad &amp; Drikke</span>
+            </a>
+            <a href="/c/hobbies-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkhobbies6" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>🎨</span>
+              <span>Hobbyer &amp; Specielle Interesser</span>
+            </a>
+            <a href="/c/community-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=menu&amp;utm_content=manualcategories1dkcommunity7" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>👨‍🎓</span>
+              <span>Samfund &amp; Kultur</span>
+            </a>
+            <a href="/c/sports-c?utm_source=billetto&amp;utm_medium=billetto&amp;utm_campaign=homepage&amp;utm_content=manualcategories1dksports8" class="flex items-center gap-2 px-8 py-2 text-sm text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-gray-700">
+              <span>🏋️</span>
+              <span>Sport &amp; Fitness</span>
+            </a>
+      </div>
+    </div>
+
+    <p class="text-lg pt-4">
+      Er du en ny arrangør?
+    </p>
+    <a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="https://go.billetto.com/">
+  Løsninger
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/pricing">
+  Priser
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/organiser/sign_up">
+  Start gratis test
+</a>
+<a class="flex gap-2 font-medium items-center p-2 rounded-lg text-sm text-gray-700 hover:bg-gray-50 dark:text-gray-300 dark:hover:bg-gray-700" href="/l/meet">
+  Book et møde
+</a>
+</div>
+
+    </div>
+  </div>
+
+
+<div id='main-content'>
+<main class='text-gray-900 dark:bg-gray-900 bg:gray-50 dark:text-white py-4'>
+  <section class="sm:mt-7 pb-7 px-2 border-b border-gray-700 dark:border-gray-300">
+    <div class="overflow-hidden mb-8">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <h2 class="text-2xl font-bold text-white mb-4">Find events i nærheden af dig</h2>
+          <div class="relative items-start flex-wrap lg:flex-nowrap flex sm:justify-between gap-8">
+            <div class="w-full lg:w-1/2">
+              <div
+  x-data="homepageMap({
+    fallbackCenter: [12.5683, 55.6761],
+    zoom: 12,
+    bref: 'eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6ImhlYXRtYXBkayIsInQiOjE3ODY1Njg2OTB9'
+  })"
+  class="relative w-full rounded-lg overflow-hidden"
+  style="height: 330px;"
+>
+  <div x-ref="mapContainer" class="absolute inset-0 w-full h-full bg-gray-900" style="min-height: 330px;"></div>
+
+  <div class="absolute top-4 left-4 z-30 flex flex-col sm:flex-row gap-2">
+    <button
+      @click="setTimeFilter('today')"
+      :class="timeFilter === 'today' ? 'bg-white text-gray-900' : 'bg-gray-900/90 text-white hover:bg-gray-800/90'"
+      class="w-fit px-4 py-1.5 rounded-full text-sm font-medium transition-colors backdrop-blur-sm"
+    >
+      I dag
+    </button>
+    <button
+      @click="setTimeFilter('this_weekend')"
+      :class="timeFilter === 'this_weekend' ? 'bg-white text-gray-900' : 'bg-gray-900/90 text-white hover:bg-gray-800/90'"
+      class="w-fit px-4 py-1.5 rounded-full text-sm font-medium transition-colors backdrop-blur-sm"
+    >
+      Denne weekend
+    </button>
+    <button
+      @click="setTimeFilter('next_week')"
+      :class="timeFilter === 'next_week' ? 'bg-white text-gray-900' : 'bg-gray-900/90 text-white hover:bg-gray-800/90'"
+      class="w-fit px-4 py-1.5 rounded-full text-sm font-medium transition-colors backdrop-blur-sm"
+    >
+      Næste uge
+    </button>
+    <button
+      @click="setTimeFilter('next_30_days')"
+      :class="timeFilter === 'next_30_days' ? 'bg-white text-gray-900' : 'bg-gray-900/90 text-white hover:bg-gray-800/90'"
+      class="w-fit px-4 py-1.5 rounded-full text-sm font-medium transition-colors backdrop-blur-sm"
+    >
+      Næste 30 dage
+    </button>
+  </div>
+
+  <div
+    :class="isLoading ? '' : 'hidden'"
+    class="absolute inset-0 bg-gray-900 flex items-center justify-center z-40"
+  >
+    <svg class="animate-spin h-8 w-8 text-brand-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+      <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+      <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+    </svg>
+  </div>
+
+  <div
+    style="display: none"
+    :style="showLocationModal ? 'display: flex' : 'display: none'"
+    @keydown.escape.window="skipLocation()"
+    @click.self="skipLocation()"
+    class="absolute inset-0 items-center justify-center z-50 bg-black/50"
+  >
+    <div class="bg-gray-800 rounded-xl p-5 max-w-xs mx-4 text-center shadow-2xl">
+      <div class="mb-3">
+        <div class="mx-auto w-12 h-12 bg-brand-500/20 rounded-full flex items-center justify-center">
+          <svg class="size-6 text-brand-500" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z"></path><path stroke-linecap="round" stroke-linejoin="round" d="M19.5 10.5c0 7.142-7.5 11.25-7.5 11.25S4.5 17.642 4.5 10.5a7.5 7.5 0 1 1 15 0Z"></path>
+</svg>
+        </div>
+      </div>
+      <h3 class="text-lg font-bold text-white mb-2">Aktiver lokation</h3>
+      <p class="text-sm text-gray-400 mb-4">Giv adgang til lokation for at finde begivenheder i nærheden af dig</p>
+      <div class="space-y-2">
+        <button
+          @click="enableLocation()"
+          class="w-full bg-brand-500 hover:bg-brand-600 text-white text-sm font-medium py-2 px-4 rounded-full transition-colors"
+        >
+          Aktiver lokation
+        </button>
+        <button
+          @click="skipLocation()"
+          class="w-full text-gray-400 hover:text-white text-sm font-medium py-2 transition-colors"
+        >
+          Spring over for nu
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div
+    x-show="popupEvent"
+    x-transition
+    @click.away="popupEvent = null"
+    @keydown.escape.window="popupEvent = null"
+    :style="{
+      left: `${Math.max(5, Math.min(popupPosition.x - 80, $el.parentElement.offsetWidth - 170))}px`,
+      top: `${popupPosition.y > $el.parentElement.offsetHeight - 220 ? Math.max(5, popupPosition.y - 200) : Math.min(popupPosition.y + 15, $el.parentElement.offsetHeight - 220)}px`,
+    }"
+    class="absolute bg-gray-900 rounded-xl shadow-2xl p-2 w-40 z-50"
+  >
+    <template x-if="popupEvent">
+      <div>
+        <button
+          @click="popupEvent = null"
+          class="absolute top-1 right-1 text-gray-400 hover:text-white z-10"
+        >
+          <svg class="size-3" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18 18 6M6 6l12 12"></path>
+</svg>
+        </button>
+        <template x-if="popupEvent?.events?.length === 1">
+          <div class="space-y-1">
+            <div class="rounded overflow-hidden">
+              <img :src="popupEvent?.events?.[0]?.image" :alt="popupEvent?.events?.[0]?.name" class="w-full h-16 object-cover" />
+            </div>
+            <h3 class="font-bold text-white text-xs leading-tight line-clamp-2" x-text="popupEvent?.events?.[0]?.name"></h3>
+            <p class="text-xs text-gray-400 truncate" x-text="popupEvent?.events?.[0]?.venue_name"></p>
+            <p class="text-xs text-brand-400" x-text="popupEvent?.events?.[0]?.formatted_time"></p>
+            <a
+              :href="popupEvent?.events?.[0]?.url"
+              class="block text-center bg-brand-500 hover:bg-brand-600 text-white text-xs font-medium py-1 px-2 rounded-full transition-colors"
+            >
+              Find billetter
+            </a>
+          </div>
+        </template>
+        <template x-if="popupEvent?.events?.length > 1">
+          <div class="space-y-1 max-h-40 overflow-y-auto">
+            <p class="text-xs font-medium text-gray-400">
+              <span x-text="popupEvent.events.length"></span> events
+            </p>
+            <template x-for="event in popupEvent.events" :key="event.id">
+              <a :href="event.url" data-turbo="false" class="block p-1 hover:bg-gray-800 rounded transition-colors">
+                <div class="flex gap-1">
+                  <img :src="event.image" :alt="event.name" class="w-8 h-8 object-cover rounded shrink-0" />
+                  <div class="min-w-0">
+                    <h4 class="font-semibold text-white text-xs truncate" x-text="event.name"></h4>
+                    <p class="text-xs text-brand-400" x-text="event.formatted_time"></p>
+                  </div>
+                </div>
+              </a>
+            </template>
+          </div>
+        </template>
+      </div>
+    </template>
+  </div>
+</div>
+
+            </div>
+            <div class="w-full lg:w-1/2">
+              <a class="block text-right space-y-2" href="https://billetto.dk/e/host-mon-festival-billetter-1856723?bref=eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjFESyIsInQiOjE3ODY1Njg2OTB9">
+  <div class="rounded-md overflow-hidden relative">
+    <img src="https://billetto.imgix.net/1uu110w7jri0kb8v2ghl4j0lcc04?w=1440&amp;h=810&amp;fit=crop&amp;auto=compress%2Cformat&amp;rect=0%2C56%2C1080%2C608&amp;s=fbcd8ce6bf8aeec44df55d545dabfb76" alt="Høst Møn Festival" />
+      <div class="absolute top-4 left-4 bg-gray-900/90 text-white px-3 py-1.5 rounded-full text-sm font-medium backdrop-blur-sm">
+        Populær begivenhed
+      </div>
+  </div>
+    <span class="font-semibold text-white">
+      Høst Møn Festival <span aria-hidden="true"> &rarr;</span>
+    </span>
+</a>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="mb-7">
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_8&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjNESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Events du har kigget på</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-template='@shortcuts-vol-ii' id='editorials_widget_8' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"></div>
+        <div class="my-3.5"><div class="px-4 mx-auto max-w-7xl sm:px-6 lg:px-8" x-data="search({userToken: '', tracking: false, aroundLatLng: undefined, aroundLatLngViaIP: true, aroundRadius: &quot;all&quot;, filters: &quot;organization_id:1&quot;})">
+  <div x-data="slider" x-ref="slider" @slider.window="init()" @resize.window="init()">
+    <div style="display: none;" x-show="!noResults">
+        <div class="flex items-center gap-2">
+          <section class="flex items-center justify-between gap-4 mb-2 mt-7 grow">
+            <h3 class="text-2xl dark:font-extrabold text-gray-900 font-normal mb-3.5 dark:text-gray-100">
+              Opdag i nærheden
+            </h3>
+          </section>
+          <div class="hidden space-x-4 shrink-0 sm:block">
+            <button :disabled="!hasPrevious" @click="prev" aria-label="Se tidligere begivenheder" type="button" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 dark:border-gray-700 text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-800 p-2 leading-4 text-sm rounded-full">
+    <svg class="shrink-0 h-4 w-4 text-current inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+  <span class="leading-none"></span>
+</button>
+            <button :disabled="!hasNext" @click="next" aria-label="Se næste begivenheder" type="button" class="inline-flex items-center border font-medium shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-brand-400 dark:border-gray-700 text-gray-700 dark:text-gray-300 bg-white dark:bg-gray-900 hover:bg-gray-50 dark:hover:bg-gray-800 p-2 leading-4 text-sm rounded-full">
+    <svg class="shrink-0 h-4 w-4 text-current inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+  <span class="leading-none"></span>
+</button>
+          </div>
+        </div>
+    </div>
+    <div class="flex items-stretch gap-4 overflow-x-auto md:overflow-x-hidden snap-x snap-mandatory" data-slider="true">
+      <template x-for="event in events">
+        <a
+          :href="event.organizer_id === null ? event.url : tagUrl(event.url, {utmSource: 'billetto advertising', utmMedium: 'billetto', utmCampaign: 'homepage', utmContent: '13DK'})"
+          class="w-2/3 sm:w-2/5 md:w-[calc(25%-0.75rem)] flex-shrink-0 snap-start"
+        >
+          <div class="w-full h-full p-2 space-y-2 bg-gray-800 rounded-md sm:p-4">
+            <div class="relative aspect-w-16 aspect-h-9">
+              <img
+                alt=""
+                :src="event.image"
+                class="absolute inset-0 object-cover object-center w-full h-full rounded-lg"
+                />
+            </div>
+            <h4 class="flex-1 m-0 font-medium text-white truncate text-md" x-text="event.name"></h4>
+            <template x-if="event.location">
+              <div class="text-sm text-gray-300" x-text="event.location"></div>
+            </template>
+            <template x-if="event.starts_at">
+              <div class="text-sm font-bold text-gray-300" x-text="event.starts_at"></div>
+            </template>
+          </div>
+        </a>
+      </template>
+    </div>
+  </div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_961&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdG9kYXkiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Hvad sker der i dag?</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260812]' data-template='@6-what-s-on-today' id='editorials_widget_961' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_962&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLURlbm1hcmstdGhpcy13ZWVrZW5kIiwidCI6MTc4NjU2ODY5MH0=&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Hvad sker der i weekenden?</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260814, 20260815, 20260816]' data-template='@denmark-this-weekend' id='editorials_widget_962' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_87&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjlESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Populære events</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-template='@2024-home-popular-v1' id='editorials_widget_87' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_963&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzTW9udGhESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>De bedste musikevents i denne måned</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@top-ba-music-events-this-month-dk' id='editorials_widget_963' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_756&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IjRESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Comedy events</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@comedy-events' id='editorials_widget_756' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_882&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcE11c2ljQkFFdmVudHNUaGlzV2VlazE5REsiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Top music events denne uge</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816]' data-template='@top-music-events-this-week' id='editorials_widget_882' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1328&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWJhc2tldGJhbGwiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Basketball</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-template='@basketball' id='editorials_widget_1328' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1222&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZlc3RpdmFscyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Festivaler</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-template='@festivals' id='editorials_widget_1222' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_1349&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLXNwb3RsaWdodCIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Spotlight</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-template='@spotlight-manual-push' id='editorials_widget_1349' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><section aria-labelledby='widget-907-aria-labelled-by'>
+<div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
+<div class='max-w-2xl mx-auto py-16 lg:max-w-none'>
+<div class='flex items-center justify-between gap-4'>
+<h2 class='text-2xl font-extrabold text-white' id='widget-907-aria-labelled-by'>Top temaer for events</h2>
+</div>
+<div class='mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-10'>
+<div class='group rounded-lg relative bg-orange-200'>
+<a class='flex flex-col h-full' href='/p/koncert-koebenhavn'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/rktv9z08156pjiz2et599gzknb2d?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=837f91fb67c5c4a9098d3b2bd3aa9b19'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-8 sm:pt-14'>
+<div class='w-full mb-6'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-2xl sm:text-4xl sm:mb-8'>Koncerter i København</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>At finde ud af hvilke af de mange forskellige koncertmuligheder der rent faktisk er et hit, kan være en svær opgave. Den endeløse søgen efter fede koncerter kan være en jungle og i sidste ende gå udover din tid til at lytte til musikken. Hver dag gennemgår Billettos redaktion fede musikarrangementer og samler dem alle på et sted. Start nedenfor og find uforglemmelige koncertoplevelser på Billetto.</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+<div class='group rounded-lg relative bg-brand-200'>
+<a class='flex flex-col h-full' href='/p/copenhagen-weekend'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/xh3seyqthmfef2yx735r7gw38dl0?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=ade3ca77b222711e0f8c5913494c80b4'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-8 sm:pt-14'>
+<div class='w-full mb-6'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-2xl sm:text-4xl sm:mb-8'>Weekend events i København</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Opdag de uforglemmelige events i weekenden i København. Fra musikfestivaler til gadekunst og meget mere, få en eksklusiv guide til de mest spændende events i den danske hovedstad. Lad os tage dig med på en rejse gennem Københavns kulturelle landskab og oplev den pulserende atmosfære i byen.</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+<div class='group rounded-lg relative bg-green-200'>
+<a class='flex flex-col h-full' href='/p/kulturpas'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/dkqsgtk9cnpn26y5ozzcpup3bfl4?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=0296682ba6a907452161965c51a12207'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-8 sm:pt-14'>
+<div class='w-full mb-6'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-2xl sm:text-4xl sm:mb-8'>Brug dit kulturpas her</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Hvis du har et kulturpas, kan du bruge det som betaling på alle de events, du ser på denne side.
+Kulturpas blev lanceret i 2025 for at give flere unge uden for job og uddannelse mulighed for at komme ud og få inspirerende kultur- og idrætsoplevelser. Hos Billetto vil vi gerne støtte dette initiativ, og gøre det endnu nemmere for dig at komme afsted. Derfor kan du bruge dit kulturpas direkte som betalingsmiddel hos os.</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+        <div class="my-3.5"></div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_876&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzQ1BIVGhpc01vbnRoMjFESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>København - Denne måned</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='subregion = &quot;Byen København&quot; and local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@ba-events-with-more-than-800-clicks-on-event' id='editorials_widget_876' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_879&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzRnluVGhpc01vbnRoMjJESyIsInQiOjE3ODY1Njg2OTB9&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Fyn - Denne måned</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='subregion = &quot;Fyn&quot; and local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@ba-events-with-more-than-800-clicks-on-event-odense' id='editorials_widget_879' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_881&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IlRvcEJBRXZlbnRzSnlsbGFuZFRoaXNNb250aDIzREsiLCJ0IjoxNzg2NTY4NjkwfQ==&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Jylland - Denne måned</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@ba-events-with-more-than-400-clicks-on-event-jylland-1' id='editorials_widget_881' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"><section aria-labelledby='widget-84-aria-labelled-by'>
+<div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
+<div class='max-w-2xl mx-auto py-16 lg:max-w-none'>
+<div class='flex items-center justify-between gap-4'>
+<h2 class='text-2xl font-extrabold text-white' id='widget-84-aria-labelled-by'>Oplev din by</h2>
+</div>
+<div class='mt-6 space-y-12 lg:space-y-0 lg:grid lg:grid-cols-4 gap-6'>
+<div class='group rounded-lg relative bg-orange-200'>
+<a class='flex flex-col h-full' href='/p/det-sker-i-koebenhavn'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/utbnlc0fgvk8qv2g348vlqqp0czx?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=82148e77dbf4e8099e0cfe2b2f60d363'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-6 sm:py-8'>
+<div class='w-full mb-4'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-lg sm:text-2xl sm:mb-4'>Det sker i København</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Booking af dine billetter til de bedste koncerter og festivaler har aldrig været så let som det er i dag. Med vores eventkalender kan du få et overblik over kommende events og finde billetter til tusindvis af events. Uanset om du vil se en festival, en koncert eller endda et teaterstykke, finder du sikkert det perfekte event til dig. For at komme igang skal du bare gå ind på vores kalender og se hvad der sker i København. Her kan du se datoer, steder, priser og andre detaljer om hvert event. Så hvis du er på udkig efter en unik oplevelse, så book dine billetter til de bedste koncerter og festivaler online med vores eventkalender!</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium text-sm'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+<div class='group rounded-lg relative bg-brand-200'>
+<a class='flex flex-col h-full' href='/p/det-sker-i-aarhus'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/yxbgmaowm9b1mnh0qnxr5teyy8sk?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=c90e8833e648cedda731fa6dc42bbadb'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-6 sm:py-8'>
+<div class='w-full mb-4'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-lg sm:text-2xl sm:mb-4'>Det sker i Aarhus</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Booking af dine billetter til de bedste koncerter og festivaler har aldrig været så let som det er i dag. Med vores eventkalender kan du få et overblik over kommende events og finde billetter til tusindvis af events. Uanset om du vil se en festival, en koncert eller endda et teaterstykke, finder du sikkert det perfekte event til dig. For at komme igang skal du bare gå ind på vores kalender og se hvad der sker i Aarhus. Her kan du se datoer, steder, priser og andre detaljer om hvert event. Så hvis du er på udkig efter en unik oplevelse, så book dine billetter til de bedste koncerter og festivaler online med vores eventkalender!</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium text-sm'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+<div class='group rounded-lg relative bg-green-200'>
+<a class='flex flex-col h-full' href='/p/det-sker-i-aalborg'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/w6g0akuomhreveg8b5jgzt9i8rlz?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=cfa99b8d33ae8f79acdb9aa67cbe5aaa'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-6 sm:py-8'>
+<div class='w-full mb-4'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-lg sm:text-2xl sm:mb-4'>Det sker i Aalborg</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Booking af dine billetter til de bedste koncerter og festivaler har aldrig været så let som det er i dag. Med vores eventkalender kan du få et overblik over kommende events og finde billetter til tusindvis af events. Uanset om du vil se en festival, en koncert eller endda et teaterstykke, finder du sikkert det perfekte event til dig. For at komme igang skal du bare gå ind på vores kalender og se hvad der sker i Aalborg. Her kan du se datoer, steder, priser og andre detaljer om hvert event. Så hvis du er på udkig efter en unik oplevelse, så book dine billetter til de bedste koncerter og festivaler online med vores eventkalender!</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium text-sm'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+<div class='group rounded-lg relative bg-pink-200'>
+<a class='flex flex-col h-full' href='/p/det-sker-i-odense'>
+<div class='relative w-full transition-opacity group-hover:opacity-90 duration-500'>
+<div class='overflow-hidden rounded-t-lg'>
+<img alt='' class='w-full h-auto object-center group-hover:scale-105 transition-transform duration-500' src='https://billetto.imgix.net/5smde4dx76f7t5tz7cc5isagx33x?w=576&amp;h=240&amp;fit=crop&amp;auto=compress%2Cformat&amp;q=65&amp;s=21a905bab1a82ea261d0f4d8571b3866'>
+</div>
+</div>
+<div class='h-full p-6 pb-8 flex flex-col justify-between sm:px-6 sm:py-8'>
+<div class='w-full mb-4'>
+<h3 class='mb-2 text-gray-900 leading-tight font-bold text-lg sm:text-2xl sm:mb-4'>Det sker i Odense</h3>
+<p class='text-gray-900 text-sm line-clamp-5'>Booking af dine billetter til de bedste koncerter og festivaler har aldrig været så let som det er i dag. Med vores eventkalender kan du få et overblik over kommende events og finde billetter til tusindvis af events. Uanset om du vil se en festival, en koncert eller endda et teaterstykke, finder du sikkert det perfekte event til dig. For at komme igang skal du bare gå ind på vores kalender og se hvad der sker i Odense. Her kan du se datoer, steder, priser og andre detaljer om hvert event. Så hvis du er på udkig efter en unik oplevelse, så book dine billetter til de bedste koncerter og festivaler online med vores eventkalender!</p>
+</div>
+<span class='text-gray-900 mt-auto ml-auto font-medium text-sm'>
+Vis mig events
+<span aria-hidden='true' class='group-hover:translate-x-1 transform inline-block transition-transform'>→</span>
+</span>
+</div>
+</a>
+</div>
+</div>
+</div>
+</div>
+</section>
+</div>
+        <div class="my-3.5"><div class='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8' x-data='legacyClerkWidget(&#39;#editorials_widget_965&#39;, {&quot;bref&quot;:&quot;eyJzIjoiYmlsbGV0dG8gYWR2ZXJ0aXNpbmciLCJtIjoiYmlsbGV0dG8iLCJjIjoiaG9tZXBhZ2UiLCJjbyI6IkRLLWZyZWUtZXZlbnRzIiwidCI6MTc4NjU2ODY5MH0=&quot;}, 4)'>
+<div @resize.window='init()' @slider.window='init()' class='' style='display: none;' x-data='slider()' x-show='rendered &amp;&amp; !noResults'>
+<div class='flex items-center'>
+<div class='flex-1'>
+<section class='mt-7 mb-3.5'>
+<h3 class='font-bold text-2xl text-white'>Gratis events (+ gebyr)</h3>
+</section>
+</div>
+<div class='shrink-0 space-x-4 hidden sm:block'>
+<button :disabled='!hasPrevious' @click='prev' aria-label='Se tidligere begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5 8.25 12l7.5-7.5"></path>
+</svg>
+</button>
+<button :disabled='!hasNext' @click='next' aria-label='Se næste begivenheder' class='rounded-full p-2 shadow bg-gray-50 disabled:bg-gray-100 dark:disabled:bg-gray-900 disabled:text-gray-300 dark:disabled:text-gray-600 hover:bg-gray-200 dark:bg-gray-800 dark:hover:bg-gray-700 text-gray-700 dark:text-gray-200' style='display: none;' x-show='visible'>
+<svg class="h-4 w-4" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+  <path stroke-linecap="round" stroke-linejoin="round" d="m8.25 4.5 7.5 7.5-7.5 7.5"></path>
+</svg>
+</button>
+</div>
+</div>
+<span :class='className' :data-exclude-from='excludeFrom' data-filter='local_dates in [20260801, 20260802, 20260803, 20260804, 20260805, 20260806, 20260807, 20260808, 20260809, 20260810, 20260811, 20260812, 20260813, 20260814, 20260815, 20260816, 20260817, 20260818, 20260819, 20260820, 20260821, 20260822, 20260823, 20260824, 20260825, 20260826, 20260827, 20260828, 20260829, 20260830, 20260831]' data-template='@free-events-denmark' id='editorials_widget_965' x-ref='slider'>
+
+</span>
+</div>
+</div>
+</div>
+        <div class="my-3.5"></div>
+        <div class="my-3.5">
+<!-- TRIMMED BY recon.mjs -->

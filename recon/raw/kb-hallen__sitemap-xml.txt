@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Last generated: 2026-08-12T23:02:51+02:00-->
+<?xml-stylesheet type="text/xsl" href="/site/modules/MarkupSitemap//assets/sitemap-stylesheet.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/siteindex.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+ <url>
+  <loc>https://kbhallen.dk/</loc>
+  <lastmod>2026-08-11T20:58:58+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/</loc>
+  <lastmod>2026-08-11T20:58:58+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/findvej/</loc>
+  <lastmod>2020-03-30T20:11:24+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/findvej/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/location/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/location/</loc>
+  <lastmod>2020-03-30T20:11:24+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/findvej/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/location/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/eventarkiv/</loc>
+  <lastmod>2023-11-14T13:13:53+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/eventarkiv/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/past-events/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/past-events/</loc>
+  <lastmod>2023-11-14T13:13:53+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/eventarkiv/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/past-events/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/job/</loc>
+  <lastmod>2026-07-17T11:42:27+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/job/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/job/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/job/</loc>
+  <lastmod>2026-07-17T11:42:27+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/job/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/job/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/</loc>
+  <lastmod>2026-05-29T11:29:07+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/</loc>
+  <lastmod>2026-05-29T11:29:07+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/billetsalg/</loc>
+  <lastmod>2019-10-21T09:18:50+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/billetsalg/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/ticketsale/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/ticketsale/</loc>
+  <lastmod>2019-10-21T09:18:50+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/billetsalg/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/ticketsale/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/pladsoversigt/</loc>
+  <lastmod>2025-04-02T13:34:23+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/pladsoversigt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/seating-overview/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/seating-overview/</loc>
+  <lastmod>2025-04-02T13:34:23+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/pladsoversigt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/seating-overview/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/garderobe-og-toiletter/</loc>
+  <lastmod>2025-11-06T21:21:59+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/garderobe-og-toiletter/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/cloakroom-and-toilets/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/cloakroom-and-toilets/</loc>
+  <lastmod>2025-11-06T21:21:59+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/garderobe-og-toiletter/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/cloakroom-and-toilets/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/mad-og-drikke/</loc>
+  <lastmod>2024-06-19T12:40:19+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/mad-og-drikke/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/food-and-drinks/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/food-and-drinks/</loc>
+  <lastmod>2024-06-19T12:40:19+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/mad-og-drikke/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/food-and-drinks/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/vi-stotter-solsikken/</loc>
+  <lastmod>2026-05-29T15:37:48+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/vi-stotter-solsikken/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/vi-stotter-solsikken/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/vi-stotter-solsikken/</loc>
+  <lastmod>2026-05-29T15:37:48+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/vi-stotter-solsikken/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/vi-stotter-solsikken/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/handicapforhold/</loc>
+  <lastmod>2026-06-17T13:47:14+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/handicapforhold/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/accessability/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/accessability/</loc>
+  <lastmod>2026-06-17T13:47:14+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/handicapforhold/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/accessability/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/glemte-sager/</loc>
+  <lastmod>2022-05-18T11:27:00+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/glemte-sager/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/lost-and-found/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/lost-and-found/</loc>
+  <lastmod>2022-05-18T11:27:00+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/glemte-sager/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/lost-and-found/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/praktisk-information/retningslinjer/</loc>
+  <lastmod>2026-05-29T11:20:52+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/retningslinjer/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/house-rules/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/faq/house-rules/</loc>
+  <lastmod>2026-05-29T11:20:52+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/praktisk-information/retningslinjer/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/faq/house-rules/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/</loc>
+  <lastmod>2019-12-10T20:52:49+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/</loc>
+  <lastmod>2019-12-10T20:52:49+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/</loc>
+  <lastmod>2019-09-26T10:31:46+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/</loc>
+  <lastmod>2019-09-26T10:31:46+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/hvorfor_kb_hallen/</loc>
+  <lastmod>2020-09-22T12:46:16+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/hvorfor_kb_hallen/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/why_kb_hallen/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/why_kb_hallen/</loc>
+  <lastmod>2020-09-22T12:46:16+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/hvorfor_kb_hallen/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/why_kb_hallen/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/full-service-venue/</loc>
+  <lastmod>2020-01-16T22:10:34+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/full-service-venue/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/full-service-venue/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/full-service-venue/</loc>
+  <lastmod>2020-01-16T22:10:34+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/full-service-venue/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/full-service-venue/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/billeder/</loc>
+  <lastmod>2020-02-11T15:05:54+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/billeder/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/photos/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/photos/</loc>
+  <lastmod>2020-02-11T15:05:54+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/billeder/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/photos/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/film/</loc>
+  <lastmod>2020-02-11T15:09:56+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/film/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/film/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/film/</loc>
+  <lastmod>2020-02-11T15:09:56+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/film/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/film/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/teknik/</loc>
+  <lastmod>2019-10-21T11:10:39+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/teknik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/specs/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/specs/</loc>
+  <lastmod>2019-10-21T11:10:39+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/teknik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/specs/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/ligestillingsfokus/</loc>
+  <lastmod>2019-10-21T11:11:05+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/ligestillingsfokus/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/equalrights/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/equalrights/</loc>
+  <lastmod>2019-10-21T11:11:05+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/ligestillingsfokus/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/equalrights/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/events/kontaktperson/</loc>
+  <lastmod>2026-03-11T14:45:47+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/kontaktperson/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/point_of_contact/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/events/point_of_contact/</loc>
+  <lastmod>2026-03-11T14:45:47+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/events/kontaktperson/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/events/point_of_contact/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/koncerter/</loc>
+  <lastmod>2019-10-09T11:36:26+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/koncerter/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/concerts/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/concerts/</loc>
+  <lastmod>2019-10-09T11:36:26+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/koncerter/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/concerts/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/lej/koncerter/generelt/</loc>
+  <lastmod>2026-02-24T09:34:19+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/koncerter/generelt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/concerts/general/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/book/concerts/general/</loc>
+  <lastmod>2026-02-24T09:34:19+01:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/lej/koncerter/generelt/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/book/concerts/general/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/om/</loc>
+  <lastmod>2019-05-08T12:53:40+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/about/</loc>
+  <lastmod>2019-05-08T12:53:40+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/om/organisation/</loc>
+  <lastmod>2026-08-12T13:41:31+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/organisation/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/organisation/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/about/organisation/</loc>
+  <lastmod>2026-08-12T13:41:31+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/organisation/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/organisation/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/om/historie/</loc>
+  <lastmod>2021-10-07T11:21:47+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/historie/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/history/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/about/history/</loc>
+  <lastmod>2021-10-07T11:21:47+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/historie/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/history/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/om/arkitektur/</loc>
+  <lastmod>2020-09-22T12:40:22+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/arkitektur/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/architecture/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/about/architecture/</loc>
+  <lastmod>2020-09-22T12:40:22+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/arkitektur/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/architecture/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/om/byggeriet/</loc>
+  <lastmod>2019-10-09T14:05:08+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/byggeriet/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/construction/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/about/construction/</loc>
+  <lastmod>2019-10-09T14:05:08+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/om/byggeriet/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/about/construction/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/cookie-og-persondatapolitik/</loc>
+  <lastmod>2021-10-06T18:28:38+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/cookie-and-privacy-policy/</loc>
+  <lastmod>2021-10-06T18:28:38+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/cookie-og-persondatapolitik/cookiepolitik/</loc>
+  <lastmod>2021-10-08T09:22:51+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/cookiepolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/cookie-policy/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/cookie-and-privacy-policy/cookie-policy/</loc>
+  <lastmod>2021-10-08T09:22:51+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/cookiepolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/cookie-policy/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/cookie-og-persondatapolitik/persondatapolitik/</loc>
+  <lastmod>2021-10-08T09:23:08+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/persondatapolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/privacy-policy/"/>
+ </url>
+ <url>
+  <loc>https://kbhallen.dk/en/cookie-and-privacy-policy/privacy-policy/</loc>
+  <lastmod>2021-10-08T09:23:08+02:00</lastmod>
+  <xhtml:link rel="alternate" hreflang="da" href="https://kbhallen.dk/cookie-og-persondatapolitik/persondatapolitik/"/>
+  <xhtml:link rel="alternate" hreflang="en" href="https://kbhallen.dk/en/cookie-and-privacy-policy/privacy-policy/"/>
+ </url>
+</urlset>

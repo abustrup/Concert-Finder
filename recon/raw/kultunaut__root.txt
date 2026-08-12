@@ -1,0 +1,2553 @@
+<!DOCTYPE html>
+
+
+
+<html lang="da">
+
+
+
+<head>
+
+<script>
+  if (top.location != self.location) {
+//    top.location = self.location
+  }
+</script>
+
+<meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"/>
+<meta name="robots" content="follow"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, minimum-scale=1.0, user-scalable=yes">
+
+<title>Samlet guide til kultur, musik, teater og udstillinger - Find det hele p� KultuNaut</title>
+<meta name="description" content="kultur musik teater udstillinger"/>
+<meta name="keywords" content="ibyen sker koncerter arrangementer kulturkalender koncert"/>
+
+<meta property="fb:app_id" content="52040647606"/>
+<script src="https://www.kultunaut.dk/perl/viewplain/type-nynaut/nautcookie.js"></script>
+<link rel="shortcut icon" href="https://www.kultunaut.dk/favicon.ico"/>
+
+<link rel="stylesheet" href="https://www.kultunaut.dk/perl/viewplain/type-nynaut/css/style.css"/>
+<style>
+	img {display:block}
+	.imgnormal img {display:inline}
+</style>
+<link rel="stylesheet" href="https://www.kultunaut.dk/perl/viewplain/type-nynaut/print.css" media="print"/>
+<link rel="alternate" title="Arrangementer  " href="https://www.kultunaut.dk/perl/mini/type-rss?Order=Rating&amp;periode=" type="application/rss+xml" />
+<link href="https://www.kultunaut.dk/lib/naut-awesome5/css/all.min.css" rel="stylesheet">
+<link href="https://www.kultunaut.dk/lib/nautfont/fonts/nautfont.css" rel="stylesheet">
+
+</head>
+
+<body class="notranslate">
+
+<div class="header_new" aria-labelledby="pagelogo">
+	<div class="wrap">
+		<div class="logo" onclick="window.open('https://www.kultunaut.dk/', '_top');">
+			<a href="https://www.kultunaut.dk/">
+				<img src="https://www.kultunaut.dk/perl/images/nautlogo.svg" width="75" height="67" alt="KultuNaut forside" />
+			</a>
+			<h1 class="text_kultunaut" aria-level="1" id="pagelogo">KultuNaut <span>- tag dig tid til at opleve</span></h1>
+			
+		</div>
+		<div class="mid-flag-search noprint">
+			 
+<div  role="navigation" aria-label="V�lg sprog" class="language"><a id="language" href="#" onclick="showflag();return false;"><img src="https://www.kultunaut.dk/perl/images/nynaut22/language-ic.png" alt="Language" width="20" height="20"> 
+
+	<span>Dansk</span>
+
+
+
+<img class="arrow_lang" src="https://www.kultunaut.dk/perl/images/nynaut22/arrow-down-wite.png" alt="Language" width="6" height="3"></a> 
+ <div id="flag">
+	
+	
+ 	<a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Order=Rating">Dansk</a>
+  
+  <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut/S?Order=Rating">Svensk</a>
+  
+  <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut/UK?Order=Rating">Engelsk</a>
+  
+  <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut/D?Order=Rating">Tysk</a>
+
+ </div></div>
+ <script>
+ 	var selectBox = document.getElementById("flag");
+	 function showflag(){
+	 	if (!selectBox.classList.contains("open")) {
+	  		selectBox.classList.toggle("open");
+	  	}
+	  	
+	 }
+	 window.addEventListener('mouseup', function(event){
+	 	if(event.target != selectBox && event.target.parentNode !=selectBox){
+	 		selectBox.classList.remove("open");
+	 	}
+	 });
+</script>
+
+			<div class="icon_mobile"  role="navigation" aria-label="Mobile Menu">
+    <a title="S�g i KultuNaut" id="search_icon_mb" href="" onclick="active_search();return false;"><i class="fas fa-search"></i></a>
+    <div class="mob-nav-icon" onclick="activemobile();return false;">
+        <a id="icon_bar_mobile" class="cmn-toggle-switch cmn-toggle-switch__htx">
+            <span>toggle menu</span>
+        </a>
+    </div>
+
+  </div>
+<div class="right-search" id="right-search"  role="navigation" aria-label="Search Menu">
+  <div id="backgroundOverlay" onclick="hidebg();return false;"></div>
+  <form action="https://www.kultunaut.dk/perl/search/type-nynaut" method="get" style="margin:0px" id="search_form_emre">
+<div>
+<input type="hidden" name="Area" value=""/>
+
+<table >
+<tr><td style="text-align:center;">
+<div><input aria-label="S�g" type="text" name="search" value="" size="13" id="findarrangementer" autocomplete="off" onfocus="showBox()" placeholder="S�g" />
+<input type="submit" value="S�g" class="soeg" style="width:49px;float: right;margin-left: 5px;" aria-label="submit S�g"/>
+<!--<a type="button" id="sogbutton" href>S�g</a>-->
+</div>
+</td></tr></table>
+</div>
+</form>
+
+<div id="suggest-box" class="suggest-box">
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=ukraine" class="kantdark">Ukraine</a>
+   </div>
+
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=litteratur" class="kantdark">Litteratur</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=spejder" class="kantdark">Spejder</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=rollespil" class="kantdark">Rollespil</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=sundhed" class="kantdark">Sundhed</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=skak" class="kantdark">Skak</a>
+   </div>
+
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/view/type-nynaut/gratiskalender" class="kantdark">Gratis</a>
+   </div>
+
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=fortaelle" class="kantdark">Historiefort�lling</a>
+   </div>
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=hunde" class="kantdark">Hunde</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=erhverv" class="kantdark">Iv�rks�tter</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/view/type-nynaut/aftenskole" class="kantdark">Aftenskolekurser</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=spillemand" class="kantdark">Folkedans/spillem.</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=rootszone" class="kantdark">Rootszone</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=djz" class="kantdark">Elektronisk/Club/DJ</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=viking" class="kantdark">Viking/middelalder</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=strik" class="kantdark">Strikning/v�vning</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=cykel" class="kantdark">Cykelture</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&Genre=Musik&StedType=Kirke" class="kantdark">Kirkemusik</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=cirkus" class="kantdark">Cirkus</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=have" class="kantdark">Have/planter</a>
+   </div>
+
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Area=&periode=&MarkType=kor" class="kantdark">Korsang</a>
+   </div>
+
+   
+   <div>
+   <i class="fas fa-circle" aria-hidden="true"></i>
+   <a href="https://www.kultunaut.dk/perl/view/type-nynaut/avanceret2" class="kantdark">Flere kategorier</a>
+   </div>
+
+
+
+</div>
+</div>
+<script>
+   function activemobile(){
+      var selectBox = document.getElementById("nautpagebig");
+      var list_ic = document.getElementById("icon_bar_mobile");
+      var overlay = document.getElementById("backgroundOverlay");
+      selectBox.classList.toggle("active_mobile");
+      list_ic.classList.toggle("active");
+      overlay.classList.toggle("block");
+   }
+   function active_search(){
+      var selects = document.getElementById("search_form_emre");findarrangementer
+      var selects_input = document.getElementById("findarrangementer");
+      selects.classList.toggle("active_search");
+       window.addEventListener('mouseup', function(event){
+    if(event.target != selects_input && event.target.parentNode !=selects){
+      selects.classList.remove("active_search");
+    }
+   });
+   }
+    function hidebg(){
+       var selectBox = document.getElementById("nautpagebig");
+      var list_ic = document.getElementById("icon_bar_mobile");
+      var overlay = document.getElementById("backgroundOverlay");
+      selectBox.classList.toggle("active_mobile");
+      list_ic.classList.toggle("active");
+      overlay.classList.toggle("block");
+    }
+</script>
+
+<style>
+  #backgroundOverlay{
+    background-color:transparent;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    display:none;
+    z-index: 1;
+}
+#backgroundOverlay.block{
+  display: block;
+}
+</style>
+
+		</div>
+	</div>
+</div><!-- end header_new-->
+<div class="ads-top noprint">
+		<div id="topbanner" class="noprint" style="display:none;height:180px"></div>
+	</div>
+<div id="nautpagebig" class="xxgoog-trans-section">
+	<!-- *****Start left side -->
+	<div class="notranslate left-side noprint">
+		
+		<!-- **left side search -->
+		<div class="left-side-nav">
+			
+			<div class="nautbox nautbox159">
+<div class="boxtop"></div>
+<div class="boxcontent">
+
+<div class="nautnavi" role="navigation" aria-label="Main Menu">
+<div id="menu_search" class="nautnavi1">
+ 	<a href="https://www.kultunaut.dk/perl/arrlist/type-nynaut?Order=Rating" title="S�g lige nu"><span>S�g i kalenderen</span></a>
+	<div id="menu_avanced" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/view/type-nynaut/avanceret2" title="S�g i kalenderen, v�lg dato og kategorier">S�g avanceret</a></div>
+	<div id="menu_places" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/view/type-nynaut/stedtyper" title="Lister med museer og andre kultursteder">S�g steder</a></div>
+	<div id="menu_organizers" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/view/type-nynaut/foreningstyper" title="Lister med foreninger og arrang�rer">S�g foreninger</a></div>
+	<div id="menu_film" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/searchlist/type-nynaut?periode=1&Genre=Film&Area=" title="Lister med foreninger og arrang�rer">S�g biograffilm</a></div>
+	<div id="menu_likes" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/profile/type-nynaut/myratings" title="Se eller print personlig liste over arrangementer">Din huskeliste</a></div>
+</div>
+<div id="menu_addevent" class="nautnavi1">
+	<a href="https://www.kultunaut.dk/perl/quickadd/type-nynaut" title="Indtast event"><span>Indtast event</span></a>
+	<div id="menu_editevent" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/openloginpref/type-nynaut/myevents" title="Mine arrangementer">Redig�r event</a></div>
+<div id="menu_editevent" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/tipevent/type-nynaut" title="Send tip">Send tip</a></div>
+	
+
+	<div id="menu_login" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/openlogin/type-nynaut" title="Login">Login</a></div>
+</div>
+<div id="menu_getdata" class="nautnavi1">
+	<a href="https://www.kultunaut.dk/perl/view/type-nynaut/om" title="Hent data"><span>Hent data</span></a>
+  <div id="menu_widget" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/widget/type-nynaut" title="Widget">Widget</a></div>
+	<div id="menu_examples" class="nautnavi2"><a href="https://www.kultunaut.dk/perl/view/type-nynaut/specialkalendere" title="Se oversigt over kulturformidlere som samarbejder med KultuNaut">Specialkalendere</a></div>
+</div>
+</div>
+<script>
+function menuNavi() {
+		nautsetTempCookie('NAUT_MENU',this.id,1);
+}
+function addMenuNavi(addclass) {
+	for (const myclass of addclass){
+		for (const el of document.getElementsByClassName(myclass)) {
+			el.addEventListener("click", menuNavi,true);
+		}
+	}
+}
+function showMenu(elem) {
+	if (!(elem && elem.classList)) {
+		elem=document.getElementById('menu_search');
+	}
+	elem.classList.add('active');
+	elem.parentNode.classList.add('active');
+}
+showMenu(document.getElementById(nautgetCookie('NAUT_MENU')));
+addMenuNavi(['nautnavi1','nautnavi2']);
+</script>
+
+
+
+<div id="google_translate_element" class="google_sectional_element"></div>
+
+</div><div class="boxbottom"></div>
+</div>
+
+
+			<div>
+				<div class="nautbox nautbox159 nautbox_black hidden-box-mobile">
+<div class="boxcontent">
+<div class="boxinnercontent">
+<div>
+<p class="dato_left">
+Onsdag d. 12. august
+</p>
+<span class="nautmstor">139104
+</span><br/>
+<span class="arrangementer">arrangementer</span>
+</div>
+</div>
+</div>
+</div>
+
+			</div>
+			<div style="clear: both;"></div>
+
+			<!-- newsbox -->
+			<div class="fosider_left hidden-box-mobile">
+				<div class="forside-list">
+					<div class="nyhedbox">
+				     
+				      <div style="overflow:hidden"><div style="margin-right:-20px"></div></div>
+				      
+				      <div class="nohandheld"></div>
+				  </div>
+				</div>
+			</div><!-- end newsbox -->
+
+      <div class="fosider_left hidden-box-mobile" style="overflow:hidden">
+				<div class="an-display-498-320x320-desktop-in-article an-unit"></div>
+      </div>
+		</div>
+
+
+		<div type="button" class="navbar-toggle" onclick="toggleFunction()"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </div>
+	</div>
+	
+	<!-- **End left side search -->
+	<!-- ***** Start middle list -->
+	<div class="nautpage">
+		<div class="container-fluid" id="navbarToggle">
+			<div class="mid-side">
+				
+				<div class="mid-content translate printbredde" style="text-align: left; max-width: 100%;">
+					
+					<div>
+						<div id="nautcontent" role="main" class="nautcontent arrlist ">
+<!-- content start --><div class="noprint">
+	
+
+<div style="background-color:#fff;padding:20px" class="notranslate">
+	<h2 class="title_form">S�g i kalenderen</h2>
+	<form class="topmenu" name="nauttopmenu" role="search" action="https://www.kultunaut.dk/perl/arrlist/type-nynaut" method="get">
+	<input type="hidden" name="showmap" value="">	
+		<div id="sort-row">
+			<div class="sort-left">
+				
+						<input type="hidden" name="Order" value="Rating">
+				
+				<div class="sort-area">
+						<select name="Area" id="area" size="1" style="width:100%;cursor:pointer;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px" onchangei="nauttopmenu.submit()" aria-label="area">
+						<option value="">V�lg geografi</option>
+
+
+<option value="nearme">I n�rheden af min position</option>
+
+<option value="Hele Danmark" >Hele Danmark</option>
+<option value="Region Hovedstaden"  style="font-weight:bold;">Region Hovedstaden</option>
+<option value="Bornholm-storkommune" >&nbsp;&nbsp;&nbsp;Bornholm kommune</option>
+<option value="Stork�benhavn" >&nbsp;&nbsp;&nbsp;Stork�benhavn</option>
+<option value="Kbh. og Frederiksberg" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. og Frederiksberg</option>
+<option value="K�benhavn K-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. K</option>
+<option value="K�benhavn �-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. �</option>
+<option value="K�benhavn N-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. N</option>
+<option value="K�benhavn V-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. V</option>
+<option value="K�benhavn S-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. S</option>
+<option value="K�benhavn NV-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. NV</option>
+<option value="K�benhavn SV-postby" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kbh. SV</option>
+<option value="Frederiksberg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederiksberg</option>
+<option value="Albertslund-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Albertslund kommune</option>
+<option value="Ballerup-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ballerup kommune</option>
+<option value="Br�ndby-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Br�ndby kommune</option>
+<option value="Drag�r-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Drag�r kommune</option>
+<option value="Gentofte-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gentofte kommune</option>
+<option value="Gladsaxe-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gladsaxe kommune</option>
+<option value="Glostrup-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glostrup kommune</option>
+<option value="Herlev-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herlev kommune</option>
+<option value="Hvidovre-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hvidovre kommune</option>
+<option value="H�je-Taastrup-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H�je-Taastrup kommune</option>
+<option value="Ish�j-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ish�j kommune</option>
+<option value="Lyngby-Taarb�k-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lyngby-Taarb�k kommune</option>
+<option value="R�dovre-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R�dovre kommune</option>
+<option value="T�rnby-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T�rnby kommune</option>
+<option value="Vallensb�k-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vallensb�k kommune</option>
+<option value="Nordsj�lland" >&nbsp;&nbsp;&nbsp;Nordsj�lland</option>
+<option value="Aller�d-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aller�d kommune</option>
+<option value="Egedal-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Egedal kommune</option>
+<option value="Fredensborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fredensborg kommune</option>
+<option value="Frederikssund-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederikssund kommune</option>
+<option value="Halsn�s-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Halsn�s kommune</option>
+<option value="Fures�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fures� kommune</option>
+<option value="Gribskov-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gribskov kommune</option>
+<option value="Helsing�r-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Helsing�r kommune</option>
+<option value="Hiller�d-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiller�d kommune</option>
+<option value="H�rsholm-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;H�rsholm kommune</option>
+<option value="Rudersdal-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rudersdal kommune</option>
+
+<option value="Region Sj�lland"  style="font-weight:bold;">Region Sj�lland</option>
+<option value="K�ge/Roskilde" >&nbsp;&nbsp;&nbsp;K�ge/Roskilde</option>
+<option value="Greve-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Greve kommune</option>
+<option value="K�ge-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;K�ge kommune</option>
+<option value="Lejre-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lejre kommune</option>
+<option value="Roskilde-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Roskilde kommune</option>
+<option value="Solr�d-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solr�d kommune</option>
+<option value="Nordvestsj�lland" >&nbsp;&nbsp;&nbsp;Nordvestsj�lland</option>
+<option value="Odsherred-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Odsherred kommune</option>
+<option value="Holb�k-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holb�k kommune</option>
+<option value="Kalundborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kalundborg kommune</option>
+<option value="Slagelse-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Slagelse kommune</option>
+<option value="Sor�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sor� kommune</option>
+<option value="Sydsj�lland" >&nbsp;&nbsp;&nbsp;Sydsj�lland</option>
+<option value="Faxe-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faxe kommune</option>
+<option value="N�stved-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;N�stved kommune</option>
+<option value="Ringsted-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ringsted kommune</option>
+<option value="Stevns-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Stevns kommune</option>
+<option value="Vordingborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vordingborg kommune</option>
+<option value="Lolland/Falster" >&nbsp;&nbsp;&nbsp;Lolland/Falster</option>
+<option value="Guldborgsund-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guldborgsund kommune</option>
+<option value="Lolland-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lolland kommune</option>
+
+<option value="Region Syddanmark"  style="font-weight:bold;">Region Syddanmark</option>
+<option value="Fyn" >&nbsp;&nbsp;&nbsp;Fyn</option>
+<option value="Assens-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assens kommune</option>
+<option value="Faaborg-Midtfyn-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Faaborg-Midtfyn kommune</option>
+<option value="Kerteminde-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kerteminde kommune</option>
+<option value="Langeland-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Langeland kommune</option>
+<option value="Middelfart-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Middelfart kommune</option>
+<option value="Nordfyn-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nordfyn kommune</option>
+<option value="Nyborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nyborg kommune</option>
+<option value="Odense-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Odense kommune</option>
+<option value="Svendborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Svendborg kommune</option>
+<option value="�r�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;�r� kommune</option>
+<option value="Sydlige jylland" >&nbsp;&nbsp;&nbsp;Sydlige jylland</option>
+<option value="Aabenraa-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aabenraa kommune</option>
+<option value="Billund-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Billund kommune</option>
+<option value="Esbjerg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Esbjerg kommune</option>
+<option value="Fan�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fan� kommune</option>
+<option value="Fredericia-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fredericia kommune</option>
+<option value="Haderslev-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Haderslev kommune</option>
+<option value="Kolding-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kolding kommune</option>
+<option value="S�nderborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;S�nderborg kommune</option>
+<option value="T�nder-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;T�nder kommune</option>
+<option value="Varde-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varde kommune</option>
+<option value="Vejen-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vejen kommune</option>
+<option value="Vejle-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vejle kommune</option>
+
+<option value="Region Midtjylland"  style="font-weight:bold;">Region Midtjylland</option>
+<option value="�stjylland" >&nbsp;&nbsp;&nbsp;�stjylland</option>
+<option value="Favrskov-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Favrskov kommune</option>
+<option value="Hedensted-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hedensted kommune</option>
+<option value="Horsens-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horsens kommune</option>
+<option value="Norddjurs-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Norddjurs kommune</option>
+<option value="Odder-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Odder kommune</option>
+<option value="Randers-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Randers kommune</option>
+<option value="Sams�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sams� kommune</option>
+<option value="Silkeborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Silkeborg kommune</option>
+<option value="Skanderborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skanderborg kommune</option>
+<option value="Syddjurs-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Syddjurs kommune</option>
+<option value="Aarhus-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aarhus kommune</option>
+<option value="Midtvestjylland" >&nbsp;&nbsp;&nbsp;Midtvestjylland</option>
+<option value="Herning-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herning kommune</option>
+<option value="Holstebro-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holstebro kommune</option>
+<option value="Ikast-Brande-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ikast-Brande kommune</option>
+<option value="Lemvig-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lemvig kommune</option>
+<option value="Ringk�bing-Skjern-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ringk�bing-Skjern kommune</option>
+<option value="Skive-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Skive kommune</option>
+<option value="Struer-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Struer kommune</option>
+<option value="Viborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Viborg kommune</option>
+
+<option value="Region Nordjylland"  style="font-weight:bold;">Nordjylland Region</option>
+<option value="L�s�-storkommune" >&nbsp;&nbsp;&nbsp;L�s� kommune</option>
+<option value="Nordjylland" >&nbsp;&nbsp;&nbsp;Nordjylland</option>
+<option value="Aalborg-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aalborg kommune</option>
+<option value="Br�nderslev-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Br�nderslev kommune</option>
+<option value="Frederikshavn-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frederikshavn kommune</option>
+<option value="Hj�rring-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hj�rring kommune</option>
+<option value="Mariagerfjord-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mariagerfjord kommune</option>
+<option value="Rebild-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rebild kommune</option>
+<option value="Vesthimmerland-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vesthimmerland kommune</option>
+<option value="Nordvestjylland" >&nbsp;&nbsp;&nbsp;Nordvestjylland</option>
+<option value="Jammerbugt-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Jammerbugt kommune</option>
+<option value="Mors�-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mors� kommune</option>
+<option value="Thisted-storkommune" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thisted kommune</option>
+
+<optgroup label="Sydslesvig">
+<option value="Nordfriesland/Schleswig-Flensburg/Flensburg" >Nordfriesland/Schleswig-Flensburg/Flensburg</option>
+<option value="Flensborg fjord" >Flensborg fjord</option>
+<option value="Schleswig-Holstein-bundesland" >Schleswig-Holstein</option>
+</optgroup>
+
+<optgroup label="Tyskland">
+<option value="Baden-W�rttemberg-bundesland" >Baden-W�rttemberg</option>
+<option value="Bayern-bundesland" >Bayern</option>
+<option value="Berlin-bundesland" >Berlin</option>
+<option value="Brandenburg-bundesland" >Brandenburg</option>
+<option value="Bremen-bundesland" >Bremen</option>
+<option value="Hamburg-bundesland" >Hamburg</option>
+<option value="Hessen-bundesland" >Hessen</option>
+<option value="Mecklenburg-Vorpommern-bundesland" >Mecklenburg-Vorpommern</option>
+<option value="Niedersachsen-bundesland" >Niedersachsen</option>
+<option value="Nordrhein-Westfalen-bundesland" >Nordrhein-Westfalen</option>
+<option value="Rheinland-Pfalz-bundesland" >Rheinland-Pfalz</option>
+<option value="Saarland-bundesland" >Saarland</option>
+<option value="Sachsen-bundesland" >Sachsen</option>
+<option value="Sachsen-Anhalt-bundesland" >Sachsen-Anhalt</option>
+<option value="Schleswig-Holstein-bundesland" >Schleswig-Holstein</option>
+<option value="Th�ringen-bundesland" >Th�ringen</option>
+</optgroup>
+
+<optgroup label="�resundsregionen">
+<option value="Sk�ne" >Sk�ne</option>
+<option value="Helsingborg-kommune" >- Helsingborg kommune</option>
+<option value="Lund-kommune" >- Lund kommune</option>
+<option value="Malm�-kommune" >- Malm� kommune</option>
+<option value="K�benhavn/Malm�/Lund" >K�benhavn/Malm�/Lund</option>
+<option value="Nordsj�lland/Helsingborg" >Nordsj�lland/Helsingborg</option>
+<option value="Sverige undt. Sk�ne" >Sverige undt. Sk�ne</option>
+</optgroup>
+
+<optgroup label="Resten af verdenen">
+<option value="Ikke Danmark" >Uden for Danmark</option>
+</optgroup>
+
+
+<optgroup label="Postnumre">
+<option value="K�benhavn K-postby|K�benhavn V-postby|Frederiksberg-postby|K�benhavn �-postby|K�benhavn N-postby|K�benhavn S-postby|K�benhavn NV-postby|K�benhavn SV-postby" >1000-2450 K�benhavn</option>
+<option value="K�benhavn K-postby" >&nbsp;1000-1473 Kbh. K</option>
+<option value="K�benhavn V-postby" >&nbsp;1500-1799 Kbh. V</option>
+<option value="Frederiksberg-postby" >&nbsp;1800-2000 Frb.</option>
+<option value="K�benhavn �-postby" >&nbsp;2100 Kbh. �</option>
+<option value="K�benhavn N-postby" >&nbsp;2200 Kbh. N</option>
+<option value="K�benhavn S-postby" >&nbsp;2300 Kbh. S</option>
+<option value="K�benhavn NV-postby" >&nbsp;2400 Kbh. NV</option>
+<option value="K�benhavn SV-postby" >&nbsp;2450 Kbh. SV</option>
+<option value="Valby-postby" >2500 Valby</option>
+<option value="Glostrup-postby" >2600 Glostrup</option>
+<option value="Br�ndby-postby" >2605 Br�ndby</option>
+<option value="R�dovre-postby" >2610 R�dovre</option>
+<option value="Albertslund-postby" >2620 Albertslund</option>
+<option value="Vallensb�k-postby" >2625 Vallensb�k</option>
+<option value="Taastrup-postby" >2630 Taastrup</option>
+<option value="Ish�j-postby" >2635 Ish�j</option>
+<option value="Hedehusene-postby" >2640 Hedehusene</option>
+<option value="Hvidovre-postby" >2650 Hvidovre</option>
+<option value="Br�ndby Strand-postby" >2660 Br�ndby Strand</option>
+<option value="Vallensb�k Strand-postby" >2665 Vallensb�k Strand</option>
+<option value="Greve-postby" >2670 Greve</option>
+<option value="Solr�d Strand-postby" >2680 Solr�d Strand</option>
+<option value="Karlslunde-postby" >2690 Karlslunde</option>
+<option value="Br�nsh�j-postby" >2700 Br�nsh�j</option>
+<option value="Vanl�se-postby" >2720 Vanl�se</option>
+<option value="Herlev-postby" >2730 Herlev</option>
+<option value="Skovlunde-postby" >2740 Skovlunde</option>
+<option value="Ballerup-postby" >2750 Ballerup</option>
+<option value="M�l�v-postby" >2760 M�l�v</option>
+<option value="Sm�rum-postby" >2765 Sm�rum</option>
+<option value="Kastrup-postby" >2770 Kastrup</option>
+<option value="Drag�r-postby" >2791 Drag�r</option>
+<option value="Kongens Lyngby-postby" >2800 Kongens Lyngby</option>
+<option value="Gentofte-postby" >2820 Gentofte</option>
+<option value="Virum-postby" >2830 Virum</option>
+<option value="Holte-postby" >2840 Holte</option>
+<option value="N�rum-postby" >2850 N�rum</option>
+<option value="S�borg-postby" >2860 S�borg</option>
+<option value="Dysseg�rd -postby" >2870 Dysseg�rd </option>
+<option value="Bagsv�rd-postby" >2880 Bagsv�rd</option>
+<option value="Hellerup-postby" >2900 Hellerup</option>
+<option value="Charlottenlund-postby" >2920 Charlottenlund</option>
+<option value="Klampenborg-postby" >2930 Klampenborg</option>
+<option value="Skodsborg-postby" >2942 Skodsborg</option>
+<option value="Vedb�k-postby" >2950 Vedb�k</option>
+<option value="Rungsted Kyst-postby" >2960 Rungsted Kyst</option>
+<option value="H�rsholm-postby" >2970 H�rsholm</option>
+<option value="Kokkedal-postby" >2980 Kokkedal</option>
+<option value="Niv�-postby" >2990 Niv�</option>
+<option value="Helsing�r-postby" >3000 Helsing�r</option>
+<option value="Humleb�k-postby" >3050 Humleb�k</option>
+<option value="Esperg�rde-postby" >3060 Esperg�rde</option>
+<option value="Snekkersten-postby" >3070 Snekkersten</option>
+<option value="Tik�b-postby" >3080 Tik�b</option>
+<option value="Hornb�k-postby" >3100 Hornb�k</option>
+<option value="Dronningm�lle-postby" >3120 Dronningm�lle</option>
+<option value="�lsg�rde-postby" >3140 �lsg�rde</option>
+<option value="Helleb�k-postby" >3150 Helleb�k</option>
+<option value="Helsinge-postby" >3200 Helsinge</option>
+<option value="Vejby-postby" >3210 Vejby</option>
+<option value="Tisvildeleje-postby" >3220 Tisvildeleje</option>
+<option value="Gr�sted-postby" >3230 Gr�sted</option>
+<option value="Gilleleje-postby" >3250 Gilleleje</option>
+<option value="Frederiksv�rk-postby" >3300 Frederiksv�rk</option>
+<option value="�lsted-postby" >3310 �lsted</option>
+<option value="Sk�vinge-postby" >3320 Sk�vinge</option>
+<option value="G�rl�se-postby" >3330 G�rl�se</option>
+<option value="Liseleje-postby" >3360 Liseleje</option>
+<option value="Melby-postby" >3370 Melby</option>
+<option value="Hundested-postby" >3390 Hundested</option>
+<option value="Hiller�d-postby" >3400 Hiller�d</option>
+<option value="Aller�d-postby" >3450 Aller�d</option>
+<option value="Birker�d-postby" >3460 Birker�d</option>
+<option value="Fredensborg-postby" >3480 Fredensborg</option>
+<option value="Kvistg�rd-postby" >3490 Kvistg�rd</option>
+<option value="V�rl�se-postby" >3500 V�rl�se</option>
+<option value="Farum-postby" >3520 Farum</option>
+<option value="Lynge-postby" >3540 Lynge</option>
+<option value="Slangerup-postby" >3550 Slangerup</option>
+<option value="Frederikssund-postby" >3600 Frederikssund</option>
+<option value="J�gerspris-postby" >3630 J�gerspris</option>
+<option value="�lstykke-postby" >3650 �lstykke</option>
+<option value="Stenl�se-postby" >3660 Stenl�se</option>
+<option value="Veks� Sj�lland-postby" >3670 Veks� Sj�lland</option>
+<option value="R�nne-postby" >3700 R�nne</option>
+<option value="Aakirkeby-postby" >3720 Aakirkeby</option>
+<option value="Nex�-postby" >3730 Nex�</option>
+<option value="Svaneke-postby" >3740 Svaneke</option>
+<option value="�stermarie-postby" >3751 �stermarie</option>
+<option value="Gudhjem-postby" >3760 Gudhjem</option>
+<option value="Allinge-postby" >3770 Allinge</option>
+<option value="Klemensker-postby" >3782 Klemensker</option>
+<option value="Hasle-postby" >3790 Hasle</option>
+<option value="Roskilde-postby" >4000 Roskilde</option>
+<option value="Tune-postby" >4030 Tune</option>
+<option value="Jyllinge-postby" >4040 Jyllinge</option>
+<option value="Skibby-postby" >4050 Skibby</option>
+<option value="Kirke S�by-postby" >4060 Kirke S�by</option>
+<option value="Kirke Hyllinge-postby" >4070 Kirke Hyllinge</option>
+<option value="Ringsted-postby" >4100 Ringsted</option>
+<option value="Viby Sj�lland-postby" >4130 Viby Sj�lland</option>
+<option value="Borup-postby" >4140 Borup</option>
+<option value="Herlufmagle-postby" >4160 Herlufmagle</option>
+<option value="Glums�-postby" >4171 Glums�</option>
+<option value="Fjenneslev-postby" >4173 Fjenneslev</option>
+<option value="Jystrup Midtsj-postby" >4174 Jystrup Midtsj</option>
+<option value="Sor�-postby" >4180 Sor�</option>
+<option value="Munke Bjergby-postby" >4190 Munke Bjergby</option>
+<option value="Slagelse-postby" >4200 Slagelse</option>
+<option value="Kors�r-postby" >4220 Kors�r</option>
+<option value="Sk�lsk�r-postby" >4230 Sk�lsk�r</option>
+<option value="Vemmelev-postby" >4241 Vemmelev</option>
+<option value="Boeslunde-postby" >4242 Boeslunde</option>
+<option value="Rude-postby" >4243 Rude</option>
+<option value="Agers�-postby" >4244 Agers�</option>
+<option value="Om�-postby" >4245 Om�</option>
+<option value="Fuglebjerg-postby" >4250 Fuglebjerg</option>
+<option value="Dalmose-postby" >4261 Dalmose</option>
+<option value="Sandved-postby" >4262 Sandved</option>
+<option value="H�ng-postby" >4270 H�ng</option>
+<option value="G�rlev-postby" >4281 G�rlev</option>
+<option value="Ruds Vedby-postby" >4291 Ruds Vedby</option>
+<option value="Dianalund-postby" >4293 Dianalund</option>
+<option value="Stenlille-postby" >4295 Stenlille</option>
+<option value="Nyrup-postby" >4296 Nyrup</option>
+<option value="Holb�k-postby" >4300 Holb�k</option>
+<option value="Or�-postby" >4305 Or�</option>
+<option value="Lejre-postby" >4320 Lejre</option>
+<option value="Hvals�-postby" >4330 Hvals�</option>
+<option value="T�ll�se-postby" >4340 T�ll�se</option>
+<option value="Ugerl�se-postby" >4350 Ugerl�se</option>
+<option value="Kirke Eskilstrup-postby" >4360 Kirke Eskilstrup</option>
+<option value="Store Merl�se-postby" >4370 Store Merl�se</option>
+<option value="Vipper�d-postby" >4390 Vipper�d</option>
+<option value="Kalundborg-postby" >4400 Kalundborg</option>
+<option value="Regstrup-postby" >4420 Regstrup</option>
+<option value="M�rk�v-postby" >4440 M�rk�v</option>
+<option value="Jyderup-postby" >4450 Jyderup</option>
+<option value="Snertinge-postby" >4460 Snertinge</option>
+<option value="Sveb�lle-postby" >4470 Sveb�lle</option>
+<option value="Store Fuglede-postby" >4480 Store Fuglede</option>
+<option value="Jerslev Sj�lland-postby" >4490 Jerslev Sj�lland</option>
+<option value="Nyk�bing Sj-postby" >4500 Nyk�bing Sj</option>
+<option value="Svinninge-postby" >4520 Svinninge</option>
+<option value="Gislinge-postby" >4532 Gislinge</option>
+<option value="H�rve-postby" >4534 H�rve</option>
+<option value="F�revejle-postby" >4540 F�revejle</option>
+<option value="Asn�s-postby" >4550 Asn�s</option>
+<option value="Vig-postby" >4560 Vig</option>
+<option value="Grevinge-postby" >4571 Grevinge</option>
+<option value="N�rre Asmindrup-postby" >4572 N�rre Asmindrup</option>
+<option value="H�jby-postby" >4573 H�jby</option>
+<option value="R�rvig-postby" >4581 R�rvig</option>
+<option value="Sj�llands Odde-postby" >4583 Sj�llands Odde</option>
+<option value="F�llenslev-postby" >4591 F�llenslev</option>
+<option value="Sejer�-postby" >4592 Sejer�</option>
+<option value="Eskebjerg-postby" >4593 Eskebjerg</option>
+<option value="K�ge-postby" >4600 K�ge</option>
+<option value="Gadstrup-postby" >4621 Gadstrup</option>
+<option value="Havdrup-postby" >4622 Havdrup</option>
+<option value="Lille Skensved-postby" >4623 Lille Skensved</option>
+<option value="Bj�verskov-postby" >4632 Bj�verskov</option>
+<option value="Faxe-postby" >4640 Faxe</option>
+<option value="H�rlev-postby" >4652 H�rlev</option>
+<option value="Karise-postby" >4653 Karise</option>
+<option value="Faxe Ladeplads-postby" >4654 Faxe Ladeplads</option>
+<option value="Store Heddinge-postby" >4660 Store Heddinge</option>
+<option value="Str�by-postby" >4671 Str�by</option>
+<option value="Klippinge-postby" >4672 Klippinge</option>
+<option value="R�dvig Stevns-postby" >4673 R�dvig Stevns</option>
+<option value="Herf�lge-postby" >4681 Herf�lge</option>
+<option value="Tureby-postby" >4682 Tureby</option>
+<option value="R�nnede-postby" >4683 R�nnede</option>
+<option value="Holmegaard -postby" >4684 Holmegaard </option>
+<option value="Haslev-postby" >4690 Haslev</option>
+<option value="N�stved-postby" >4700 N�stved</option>
+<option value="Pr�st�-postby" >4720 Pr�st�</option>
+<option value="Tappern�je-postby" >4733 Tappern�je</option>
+<option value="Mern-postby" >4735 Mern</option>
+<option value="Karreb�ksminde-postby" >4736 Karreb�ksminde</option>
+<option value="Lundby-postby" >4750 Lundby</option>
+<option value="Vordingborg-postby" >4760 Vordingborg</option>
+<option value="Kalvehave-postby" >4771 Kalvehave</option>
+<option value="Langeb�k-postby" >4772 Langeb�k</option>
+<option value="Stensved-postby" >4773 Stensved</option>
+<option value="Stege-postby" >4780 Stege</option>
+<option value="Borre-postby" >4791 Borre</option>
+<option value="Askeby-postby" >4792 Askeby</option>
+<option value="Bog� By-postby" >4793 Bog� By</option>
+<option value="Nyk�bing F-postby" >4800 Nyk�bing F</option>
+<option value="N�rre Alslev-postby" >4840 N�rre Alslev</option>
+<option value="Stubbek�bing-postby" >4850 Stubbek�bing</option>
+<option value="Guldborg-postby" >4862 Guldborg</option>
+<option value="Eskilstrup-postby" >4863 Eskilstrup</option>
+<option value="Horbelev-postby" >4871 Horbelev</option>
+<option value="Idestrup-postby" >4872 Idestrup</option>
+<option value="V�ggerl�se-postby" >4873 V�ggerl�se</option>
+<option value="Gedser-postby" >4874 Gedser</option>
+<option value="Nysted-postby" >4880 Nysted</option>
+<option value="Toreby L-postby" >4891 Toreby L</option>
+<option value="Kettinge-postby" >4892 Kettinge</option>
+<option value="�ster Ulslev-postby" >4894 �ster Ulslev</option>
+<option value="Errindlev-postby" >4895 Errindlev</option>
+<option value="Nakskov-postby" >4900 Nakskov</option>
+<option value="Harpelunde-postby" >4912 Harpelunde</option>
+<option value="Horslunde-postby" >4913 Horslunde</option>
+<option value="S�llested-postby" >4920 S�llested</option>
+<option value="Maribo-postby" >4930 Maribo</option>
+<option value="Bandholm-postby" >4941 Bandholm</option>
+<option value="Ask�-postby" >4942 Ask�</option>
+<option value="Torrig L-postby" >4943 Torrig L</option>
+<option value="Fej�-postby" >4944 Fej�</option>
+<option value="Fem�-postby" >4945 Fem�</option>
+<option value="N�rreballe-postby" >4951 N�rreballe</option>
+<option value="Stokkemarke-postby" >4952 Stokkemarke</option>
+<option value="Vesterborg-postby" >4953 Vesterborg</option>
+<option value="Holeby-postby" >4960 Holeby</option>
+<option value="R�dby-postby" >4970 R�dby</option>
+<option value="Dannemare-postby" >4983 Dannemare</option>
+<option value="Saksk�bing-postby" >4990 Saksk�bing</option>
+<option value="Odense C-postby|Odense V-postby|Odense NV-postby|Odense S�-postby|Odense M-postby|Odense N�-postby|Odense SV-postby|Odense S-postby|Odense N-postby" >5000-5250 Odense</option>
+<option value="Odense C-postby" >&nbsp;5000 Odense C</option>
+<option value="Odense V-postby" >&nbsp;5200 Odense V</option>
+<option value="Odense NV-postby" >&nbsp;5210 Odense NV</option>
+<option value="Odense S�-postby" >&nbsp;5220 Odense S�</option>
+<option value="Odense M-postby" >&nbsp;5230 Odense M</option>
+<option value="Odense N�-postby" >&nbsp;5240 Odense N�</option>
+<option value="Odense SV-postby" >&nbsp;5250 Odense SV</option>
+<option value="Odense S-postby" >&nbsp;5260 Odense S</option>
+<option value="Odense N-postby" >&nbsp;5270 Odense N</option>
+<option value="Marslev-postby" >5290 Marslev</option>
+<option value="Kerteminde-postby" >5300 Kerteminde</option>
+<option value="Agedrup-postby" >5320 Agedrup</option>
+<option value="Munkebo-postby" >5330 Munkebo</option>
+<option value="Rynkeby-postby" >5350 Rynkeby</option>
+<option value="Mesinge-postby" >5370 Mesinge</option>
+<option value="Dalby-postby" >5380 Dalby</option>
+<option value="Martofte-postby" >5390 Martofte</option>
+<option value="Bogense-postby" >5400 Bogense</option>
+<option value="Otterup-postby" >5450 Otterup</option>
+<option value="Morud-postby" >5462 Morud</option>
+<option value="Harndrup-postby" >5463 Harndrup</option>
+<option value="Brenderup Fyn-postby" >5464 Brenderup Fyn</option>
+<option value="Asperup-postby" >5466 Asperup</option>
+<option value="S�nders�-postby" >5471 S�nders�</option>
+<option value="Veflinge-postby" >5474 Veflinge</option>
+<option value="Skamby-postby" >5485 Skamby</option>
+<option value="Blommenslyst-postby" >5491 Blommenslyst</option>
+<option value="Vissenbjerg-postby" >5492 Vissenbjerg</option>
+<option value="Middelfart-postby" >5500 Middelfart</option>
+<option value="Ullerslev-postby" >5540 Ullerslev</option>
+<option value="Langeskov-postby" >5550 Langeskov</option>
+<option value="Aarup-postby" >5560 Aarup</option>
+<option value="N�rre Aaby-postby" >5580 N�rre Aaby</option>
+<option value="Gelsted-postby" >5591 Gelsted</option>
+<option value="Ejby-postby" >5592 Ejby</option>
+<option value="Faaborg-postby" >5600 Faaborg</option>
+<option value="Ly�-postby" >5601 Ly�</option>
+<option value="Avernak�-postby" >5602 Avernak�</option>
+<option value="Bj�rn�-postby" >5603 Bj�rn�</option>
+<option value="Assens-postby" >5610 Assens</option>
+<option value="Glamsbjerg-postby" >5620 Glamsbjerg</option>
+<option value="Ebberup-postby" >5631 Ebberup</option>
+<option value="Millinge-postby" >5642 Millinge</option>
+<option value="Broby-postby" >5672 Broby</option>
+<option value="Haarby-postby" >5683 Haarby</option>
+<option value="Tommerup-postby" >5690 Tommerup</option>
+<option value="Svendborg-postby" >5700 Svendborg</option>
+<option value="Ringe-postby" >5750 Ringe</option>
+<option value="Vester Skerninge-postby" >5762 Vester Skerninge</option>
+<option value="Stenstrup-postby" >5771 Stenstrup</option>
+<option value="Kv�rndrup-postby" >5772 Kv�rndrup</option>
+<option value="�rslev-postby" >5792 �rslev</option>
+<option value="Nyborg-postby" >5800 Nyborg</option>
+<option value="�rb�k-postby" >5853 �rb�k</option>
+<option value="Gislev-postby" >5854 Gislev</option>
+<option value="Ryslinge-postby" >5856 Ryslinge</option>
+<option value="Ferritslev Fyn-postby" >5863 Ferritslev Fyn</option>
+<option value="Fr�rup-postby" >5871 Fr�rup</option>
+<option value="Hesselager-postby" >5874 Hesselager</option>
+<option value="Sk�rup Fyn-postby" >5881 Sk�rup Fyn</option>
+<option value="Vejstrup-postby" >5882 Vejstrup</option>
+<option value="Oure-postby" >5883 Oure</option>
+<option value="Gudme-postby" >5884 Gudme</option>
+<option value="Gudbjerg Sydfyn-postby" >5892 Gudbjerg Sydfyn</option>
+<option value="Rudk�bing-postby" >5900 Rudk�bing</option>
+<option value="Humble-postby" >5932 Humble</option>
+<option value="Bagenkop-postby" >5935 Bagenkop</option>
+<option value="Stryn�-postby" >5943 Stryn�</option>
+<option value="Tranek�r-postby" >5953 Tranek�r</option>
+<option value="Marstal-postby" >5960 Marstal</option>
+<option value="Birkholm-postby" >5965 Birkholm</option>
+<option value="�r�sk�bing-postby" >5970 �r�sk�bing</option>
+<option value="S�by �r�-postby" >5985 S�by �r�</option>
+<option value="Kolding-postby" >6000 Kolding</option>
+<option value="Egtved-postby" >6040 Egtved</option>
+<option value="Almind-postby" >6051 Almind</option>
+<option value="Viuf-postby" >6052 Viuf</option>
+<option value="Jordrup-postby" >6064 Jordrup</option>
+<option value="Christiansfeld-postby" >6070 Christiansfeld</option>
+<option value="Bjert-postby" >6091 Bjert</option>
+<option value="S�nder Stenderup-postby" >6092 S�nder Stenderup</option>
+<option value="Sj�lund-postby" >6093 Sj�lund</option>
+<option value="Hejls-postby" >6094 Hejls</option>
+<option value="Haderslev-postby" >6100 Haderslev</option>
+<option value="Aabenraa-postby" >6200 Aabenraa</option>
+<option value="Bars�-postby" >6210 Bars�</option>
+<option value="R�dekro-postby" >6230 R�dekro</option>
+<option value="L�gumkloster-postby" >6240 L�gumkloster</option>
+<option value="Bredebro-postby" >6261 Bredebro</option>
+<option value="T�nder-postby" >6270 T�nder</option>
+<option value="H�jer-postby" >6280 H�jer</option>
+<option value="Gr�sten-postby" >6300 Gr�sten</option>
+<option value="Broager-postby" >6310 Broager</option>
+<option value="Egernsund-postby" >6320 Egernsund</option>
+<option value="Padborg-postby" >6330 Padborg</option>
+<option value="Krus�-postby" >6340 Krus�</option>
+<option value="Tinglev-postby" >6360 Tinglev</option>
+<option value="Bylderup-Bov-postby" >6372 Bylderup-Bov</option>
+<option value="Bolderslev-postby" >6392 Bolderslev</option>
+<option value="S�nderborg-postby" >6400 S�nderborg</option>
+<option value="Nordborg-postby" >6430 Nordborg</option>		
+<option value="Augustenborg-postby" >6440 Augustenborg</option>
+<option value="Sydals-postby" >6470 Sydals</option>
+<option value="Vojens-postby" >6500 Vojens</option>
+<option value="Gram-postby" >6510 Gram</option>
+<option value="Toftlund-postby" >6520 Toftlund</option>
+<option value="Agerskov-postby" >6534 Agerskov</option>
+<option value="Branderup J-postby" >6535 Branderup J</option>
+<option value="Bevtoft-postby" >6541 Bevtoft</option>
+<option value="Sommersted-postby" >6560 Sommersted</option>
+<option value="Vamdrup-postby" >6580 Vamdrup</option>
+<option value="Vejen-postby" >6600 Vejen</option>
+<option value="Gesten-postby" >6621 Gesten</option>
+<option value="B�kke-postby" >6622 B�kke</option>
+<option value="Vorbasse-postby" >6623 Vorbasse</option>
+<option value="R�dding-postby" >6630 R�dding</option>
+<option value="Lunderskov-postby" >6640 Lunderskov</option>
+<option value="Br�rup-postby" >6650 Br�rup</option>
+<option value="Lintrup-postby" >6660 Lintrup</option>
+<option value="Holsted-postby" >6670 Holsted</option>
+<option value="Hovborg-postby" >6682 Hovborg</option>
+<option value="F�vling-postby" >6683 F�vling</option>
+<option value="G�rding-postby" >6690 G�rding</option>
+<option value="Esbjerg-postby|Esbjerg �-postby|Esbjerg V-postby|Esbjerg N-postby" >6700-6715 Esbjerg</option>
+<option value="Esbjerg-postby" >&nbsp;6700 Esbjerg</option>
+<option value="Esbjerg �-postby" >&nbsp;6705 Esbjerg �</option>
+<option value="Esbjerg V-postby" >&nbsp;6710 Esbjerg V</option>
+<option value="Esbjerg N-postby" >&nbsp;6715 Esbjerg N</option>
+<option value="Fan�-postby" >6720 Fan�</option>
+<option value="Tj�reborg-postby" >6731 Tj�reborg</option>
+<option value="Bramming-postby" >6740 Bramming</option>
+<option value="Glejbjerg-postby" >6752 Glejbjerg</option>
+<option value="Agerb�k-postby" >6753 Agerb�k</option>
+<option value="Ribe-postby" >6760 Ribe</option>
+<option value="Gredstedbro-postby" >6771 Gredstedbro</option>
+<option value="Sk�rb�k-postby" >6780 Sk�rb�k</option>
+<option value="R�m�-postby" >6792 R�m�</option>
+<option value="Varde-postby" >6800 Varde</option>
+<option value="�rre-postby" >6818 �rre</option>
+<option value="Ansager-postby" >6823 Ansager</option>
+<option value="N�rre Nebel-postby" >6830 N�rre Nebel</option>
+<option value="Oksb�l-postby" >6840 Oksb�l</option>
+<option value="Janderup Vestj-postby" >6851 Janderup Vestj</option>
+<option value="Billum-postby" >6852 Billum</option>
+<option value="Vejers Strand-postby" >6853 Vejers Strand</option>
+<option value="Henne-postby" >6854 Henne</option>
+<option value="Outrup-postby" >6855 Outrup</option>
+<option value="Bl�vand-postby" >6857 Bl�vand</option>
+<option value="Tistrup-postby" >6862 Tistrup</option>
+<option value="�lgod-postby" >6870 �lgod</option>
+<option value="Tarm-postby" >6880 Tarm</option>
+<option value="Hemmet-postby" >6893 Hemmet</option>
+<option value="Skjern-postby" >6900 Skjern</option>
+<option value="Videb�k-postby" >6920 Videb�k</option>
+<option value="Kib�k-postby" >6933 Kib�k</option>
+<option value="Lem St-postby" >6940 Lem St</option>
+<option value="Ringk�bing-postby" >6950 Ringk�bing</option>
+<option value="Hvide Sande-postby" >6960 Hvide Sande</option>
+<option value="Spjald-postby" >6971 Spjald</option>
+<option value="�rnh�j-postby" >6973 �rnh�j</option>
+<option value="Tim-postby" >6980 Tim</option>
+<option value="Ulfborg-postby" >6990 Ulfborg</option>
+<option value="Fredericia-postby" >7000 Fredericia</option>
+<option value="B�rkop-postby" >7080 B�rkop</option>
+<option value="Vejle-postby" >7100 Vejle</option>
+<option value="Vejle �st-postby" >7120 Vejle �st</option>
+<option value="Juelsminde-postby" >7130 Juelsminde</option>
+<option value="Stouby-postby" >7140 Stouby</option>
+<option value="Barrit-postby" >7150 Barrit</option>
+<option value="T�rring-postby" >7160 T�rring</option>
+<option value="Uldum-postby" >7171 Uldum</option>
+<option value="Vonge-postby" >7173 Vonge</option>
+<option value="Bredsten-postby" >7182 Bredsten</option>
+<option value="Randb�l-postby" >7183 Randb�l</option>
+<option value="Vandel-postby" >7184 Vandel</option>
+<option value="Billund-postby" >7190 Billund</option>
+<option value="Grindsted-postby" >7200 Grindsted</option>
+<option value="Hejnsvig-postby" >7250 Hejnsvig</option>
+<option value="S�nder Omme-postby" >7260 S�nder Omme</option>
+<option value="Stakroge-postby" >7270 Stakroge</option>
+<option value="S�nder Felding-postby" >7280 S�nder Felding</option>
+<option value="Jelling-postby" >7300 Jelling</option>
+<option value="Gadbjerg-postby" >7321 Gadbjerg</option>
+<option value="Give-postby" >7323 Give</option>
+<option value="Brande-postby" >7330 Brande</option>
+<option value="Ejstrupholm-postby" >7361 Ejstrupholm</option>
+<option value="Hampen-postby" >7362 Hampen</option>
+<option value="Herning-postby" >7400 Herning</option>
+<option value="Ikast-postby" >7430 Ikast</option>
+<option value="Bording-postby" >7441 Bording</option>
+<option value="Engesvang-postby" >7442 Engesvang</option>
+<option value="Sunds-postby" >7451 Sunds</option>
+<option value="Karup J-postby" >7470 Karup J</option>
+<option value="Vildbjerg-postby" >7480 Vildbjerg</option>
+<option value="Aulum-postby" >7490 Aulum</option>
+<option value="Holstebro-postby" >7500 Holstebro</option>
+<option value="Haderup-postby" >7540 Haderup</option>
+<option value="S�rvad-postby" >7550 S�rvad</option>
+<option value="Hjerm-postby" >7560 Hjerm</option>
+<option value="Vemb-postby" >7570 Vemb</option>
+<option value="Struer-postby" >7600 Struer</option>
+<option value="Lemvig-postby" >7620 Lemvig</option>
+<option value="B�vlingbjerg-postby" >7650 B�vlingbjerg</option>
+<option value="B�kmarksbro-postby" >7660 B�kmarksbro</option>
+<option value="Harbo�re-postby" >7673 Harbo�re</option>
+<option value="Thybor�n-postby" >7680 Thybor�n</option>
+<option value="Thisted-postby" >7700 Thisted</option>
+<option value="Hanstholm-postby" >7730 Hanstholm</option>
+<option value="Fr�strup-postby" >7741 Fr�strup</option>
+<option value="Vesl�s-postby" >7742 Vesl�s</option>
+<option value="Snedsted-postby" >7752 Snedsted</option>
+<option value="Bedsted Thy-postby" >7755 Bedsted Thy</option>
+<option value="Hurup Thy-postby" >7760 Hurup Thy</option>
+<option value="Vestervig-postby" >7770 Vestervig</option>
+<option value="Thyholm-postby" >7790 Thyholm</option>
+<option value="Skive-postby" >7800 Skive</option>
+<option value="Vinderup-postby" >7830 Vinderup</option>
+<option value="H�jslev-postby" >7840 H�jslev</option>
+<option value="Stoholm Jyll-postby" >7850 Stoholm Jyll</option>
+<option value="Sp�ttrup-postby" >7860 Sp�ttrup</option>
+<option value="Roslev-postby" >7870 Roslev</option>
+<option value="Fur-postby" >7884 Fur</option>
+<option value="Nyk�bing M-postby" >7900 Nyk�bing M</option>
+<option value="Erslev-postby" >7950 Erslev</option>
+<option value="Karby-postby" >7960 Karby</option>
+<option value="Redsted M-postby" >7970 Redsted M</option>
+<option value="Vils-postby" >7980 Vils</option>
+<option value="�ster Assels-postby" >7990 �ster Assels</option>
+<option value="Aarhus C-postby" >8000 Aarhus C</option>
+<option value="Aarhus N-postby" >8200 Aarhus N</option>
+<option value="Aarhus V-postby" >8210 Aarhus V</option>
+<option value="Brabrand-postby" >8220 Brabrand</option>
+<option value="�byh�j-postby" >8230 �byh�j</option>
+<option value="Risskov-postby" >8240 Risskov</option>
+<option value="Eg�-postby" >8250 Eg�</option>
+<option value="Viby J-postby" >8260 Viby J</option>
+<option value="H�jbjerg-postby" >8270 H�jbjerg</option>
+<option value="Odder-postby" >8300 Odder</option>
+<option value="Sams�-postby" >8305 Sams�</option>
+<option value="Tranbjerg J-postby" >8310 Tranbjerg J</option>
+<option value="M�rslet-postby" >8320 M�rslet</option>
+<option value="Beder-postby" >8330 Beder</option>
+<option value="Malling-postby" >8340 Malling</option>
+<option value="Hundslund-postby" >8350 Hundslund</option>
+<option value="Solbjerg-postby" >8355 Solbjerg</option>
+<option value="Hasselager-postby" >8361 Hasselager</option>
+<option value="H�rning-postby" >8362 H�rning</option>
+<option value="Hadsten-postby" >8370 Hadsten</option>
+<option value="Trige-postby" >8380 Trige</option>
+<option value="Tilst-postby" >8381 Tilst</option>
+<option value="Hinnerup-postby" >8382 Hinnerup</option>
+<option value="Ebeltoft-postby" >8400 Ebeltoft</option>
+<option value="R�nde-postby" >8410 R�nde</option>
+<option value="Knebel-postby" >8420 Knebel</option>
+<option value="Balle-postby" >8444 Balle</option>
+<option value="Hammel-postby" >8450 Hammel</option>
+<option value="Harlev J-postby" >8462 Harlev J</option>
+<option value="Galten-postby" >8464 Galten</option>
+<option value="Sabro-postby" >8471 Sabro</option>
+<option value="Sporup-postby" >8472 Sporup</option>
+<option value="Grenaa-postby" >8500 Grenaa</option>
+<option value="Lystrup-postby" >8520 Lystrup</option>
+<option value="Hjortsh�j-postby" >8530 Hjortsh�j</option>
+<option value="Sk�dstrup-postby" >8541 Sk�dstrup</option>
+<option value="Hornslet-postby" >8543 Hornslet</option>
+<option value="M�rke-postby" >8544 M�rke</option>
+<option value="Ryomg�rd-postby" >8550 Ryomg�rd</option>
+<option value="Kolind-postby" >8560 Kolind</option>
+<option value="Trustrup-postby" >8570 Trustrup</option>
+<option value="Nimtofte-postby" >8581 Nimtofte</option>
+<option value="Glesborg-postby" >8585 Glesborg</option>
+<option value="�rum Djurs-postby" >8586 �rum Djurs</option>
+<option value="Anholt-postby" >8592 Anholt</option>
+<option value="Silkeborg-postby" >8600 Silkeborg</option>
+<option value="Kjellerup-postby" >8620 Kjellerup</option>
+<option value="Lemming-postby" >8632 Lemming</option>
+<option value="Sorring-postby" >8641 Sorring</option>
+<option value="Ans By-postby" >8643 Ans By</option>
+<option value="Them-postby" >8653 Them</option>
+<option value="Bryrup-postby" >8654 Bryrup</option>
+<option value="Skanderborg-postby" >8660 Skanderborg</option>
+<option value="L�sby-postby" >8670 L�sby</option>
+<option value="Ry-postby" >8680 Ry</option>
+<option value="Horsens-postby" >8700 Horsens</option>
+<option value="Daug�rd-postby" >8721 Daug�rd</option>
+<option value="Hedensted-postby" >8722 Hedensted</option>
+<option value="L�sning-postby" >8723 L�sning</option>
+<option value="Hovedg�rd-postby" >8732 Hovedg�rd</option>
+<option value="Br�dstrup-postby" >8740 Br�dstrup</option>
+<option value="Gedved-postby" >8751 Gedved</option>
+<option value="�stbirk-postby" >8752 �stbirk</option>
+<option value="Flemming-postby" >8762 Flemming</option>
+<option value="Rask M�lle-postby" >8763 Rask M�lle</option>
+<option value="Klovborg-postby" >8765 Klovborg</option>
+<option value="N�rre Snede-postby" >8766 N�rre Snede</option>
+<option value="Stenderup-postby" >8781 Stenderup</option>
+<option value="Hornsyld-postby" >8783 Hornsyld</option>
+<option value="Endelave-postby" >8789 Endelave</option>
+<option value="Tun�-postby" >8799 Tun�</option>
+<option value="Viborg-postby" >8800 Viborg</option>
+<option value="Tjele-postby" >8830 Tjele</option>
+<option value="L�gstrup-postby" >8831 L�gstrup</option>
+<option value="Skals-postby" >8832 Skals</option>
+<option value="R�dk�rsbro-postby" >8840 R�dk�rsbro</option>
+<option value="Bjerringbro-postby" >8850 Bjerringbro</option>
+<option value="Ulstrup-postby" >8860 Ulstrup</option>
+<option value="Lang�-postby" >8870 Lang�</option>
+<option value="Thors�-postby" >8881 Thors�</option>
+<option value="F�rvang-postby" >8882 F�rvang</option>
+<option value="Gjern-postby" >8883 Gjern</option>
+<option value="Randers-postby|Randers C-postby|Randers NV-postby|Randers N�-postby|Randers SV-postby|Randers S�-postby" >8900-8960 Randers</option>
+<option value="Randers C-postby" >&nbsp;8900 Randers C</option>
+<option value="Randers NV-postby" >&nbsp;8920 Randers NV</option>
+<option value="Randers N�-postby" >&nbsp;8930 Randers N�</option>
+<option value="Randers SV-postby" >&nbsp;8940 Randers SV</option>
+<option value="Randers S�-postby" >&nbsp;8960 Randers S�</option>
+<option value="�rsted-postby" >8950 �rsted</option>
+<option value="Alling�bro-postby" >8961 Alling�bro</option>
+<option value="Auning-postby" >8963 Auning</option>
+<option value="Havndal-postby" >8970 Havndal</option>
+<option value="Spentrup-postby" >8981 Spentrup</option>
+<option value="Gjerlev J-postby" >8983 Gjerlev J</option>
+<option value="F�rup-postby" >8990 F�rup</option>
+<option value="Aalborg-postby|Aalborg SV-postby|Aalborg S�-postby|Aalborg �st-postby" >9000-9220 Aalborg</option>
+<option value="Aalborg-postby" >&nbsp;9000 Aalborg</option>
+<option value="Aalborg SV-postby" >&nbsp;9200 Aalborg SV</option>
+<option value="Aalborg S�-postby" >&nbsp;9210 Aalborg S�</option>
+<option value="Aalborg �st-postby" >&nbsp;9220 Aalborg �st</option>
+<option value="Svenstrup J-postby" >9230 Svenstrup J</option>
+<option value="Nibe-postby" >9240 Nibe</option>
+<option value="Gistrup-postby" >9260 Gistrup</option>
+<option value="Klarup-postby" >9270 Klarup</option>
+<option value="Storvorde-postby" >9280 Storvorde</option>
+<option value="Kongerslev-postby" >9293 Kongerslev</option>
+<option value="S�by-postby" >9300 S�by</option>
+<option value="Vodskov-postby" >9310 Vodskov</option>
+<option value="Hjallerup-postby" >9320 Hjallerup</option>
+<option value="Dronninglund-postby" >9330 Dronninglund</option>
+<option value="Asaa-postby" >9340 Asaa</option>
+<option value="Dybvad-postby" >9352 Dybvad</option>
+<option value="Gandrup-postby" >9362 Gandrup</option>
+<option value="Hals-postby" >9370 Hals</option>
+<option value="Vestbjerg-postby" >9380 Vestbjerg</option>
+<option value="Sulsted-postby" >9381 Sulsted</option>
+<option value="Tylstrup-postby" >9382 Tylstrup</option>
+<option value="N�rresundby-postby" >9400 N�rresundby</option>
+<option value="Vadum-postby" >9430 Vadum</option>
+<option value="Aabybro-postby" >9440 Aabybro</option>
+<option value="Brovst-postby" >9460 Brovst</option>
+<option value="L�kken-postby" >9480 L�kken</option>
+<option value="Pandrup-postby" >9490 Pandrup</option>
+<option value="Blokhus-postby" >9492 Blokhus</option>
+<option value="Saltum-postby" >9493 Saltum</option>
+<option value="Hobro-postby" >9500 Hobro</option>
+<option value="Arden-postby" >9510 Arden</option>
+<option value="Sk�rping-postby" >9520 Sk�rping</option>
+<option value="St�vring-postby" >9530 St�vring</option>
+<option value="Suldrup-postby" >9541 Suldrup</option>
+<option value="Mariager-postby" >9550 Mariager</option>
+<option value="Hadsund-postby" >9560 Hadsund</option>
+<option value="B�lum-postby" >9574 B�lum</option>
+<option value="Terndrup-postby" >9575 Terndrup</option>
+<option value="Aars-postby" >9600 Aars</option>
+<option value="N�rager-postby" >9610 N�rager</option>
+<option value="Aalestrup-postby" >9620 Aalestrup</option>
+<option value="Gedsted-postby" >9631 Gedsted</option>
+<option value="M�ldrup-postby" >9632 M�ldrup</option>
+<option value="Fars�-postby" >9640 Fars�</option>
+<option value="L�gst�r-postby" >9670 L�gst�r</option>
+<option value="Ranum-postby" >9681 Ranum</option>
+<option value="Fjerritslev-postby" >9690 Fjerritslev</option>
+<option value="Br�nderslev-postby" >9700 Br�nderslev</option>
+<option value="Jerslev J-postby" >9740 Jerslev J</option>
+<option value="�stervr�-postby" >9750 �stervr�</option>
+<option value="Vr�-postby" >9760 Vr�</option>
+<option value="Hj�rring-postby" >9800 Hj�rring</option>
+<option value="T�rs-postby" >9830 T�rs</option>
+<option value="Hirtshals-postby" >9850 Hirtshals</option>
+<option value="Sindal-postby" >9870 Sindal</option>
+<option value="Bindslev-postby" >9881 Bindslev</option>
+<option value="Frederikshavn-postby" >9900 Frederikshavn</option>
+<option value="L�s�-postby" >9940 L�s�</option>
+<option value="Strandby-postby" >9970 Strandby</option>
+<option value="Jerup-postby" >9981 Jerup</option>
+<option value="�lb�k-postby" >9982 �lb�k</option>
+<option value="Skagen-postby" >9990 Skagen</option>
+</optgroup>
+
+
+
+
+						</select>
+<script>
+var L=L||null;
+function NearMe() {
+	this.loadmylocation=function() {
+			const self=this;
+      this.getmylocation((position)=>{self.makeMap(position.coords.longitude,position.coords.latitude)});
+  };
+	this.getmylocation=function(callback,lon,lat) {
+		lon=lon||10.3846;
+    lat=lat||55.4011;
+		return this.lookupmylocation(callback,lon,lat);
+	}
+	this.lookupmylocation=function(callbk,longitude,latitude) {
+			let lon=longitude;
+			let lat=latitude;
+			let callback=callbk;
+			if (((parent && parent.window.ReactNativeWebView) || window.ReactNativeWebView) && typeof(reactAsyncPost)=="function") {
+				reactAsyncPost('getLocation').then((data)=>{callback(data)});
+      } else if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(callback,
+            function(error) {
+              switch(error.code) {
+                case error.PERMISSION_DENIED: alert("Change your browser settings to use this function");
+                break;
+                case error.POSITION_UNAVAILABLE: alert("Could not detect current position");
+                break;
+                case error.TIMEOUT: alert("Retrieving position timed out");
+                break;
+              };
+							(lon && lat) ? callback({coords:{longitude:lon,latitude:lat}}) : callback();
+          	},{timeout:10000,enableHighAccuracy:true,maximumAge:6000000});
+    	} else {
+				alert('Could not detect current position');
+        callback({coords:{longitude:lon,latitude:lat}});
+      }
+	};
+	this.setNearme=function(lon,lat) {
+		if (lon) this.lon=lon;
+		if (lat) this.lat=lat;
+		if (this.radius !== document.getElementById('nearmeradius').value){
+			this.radius=document.getElementById('nearmeradius').value;
+			if (this.circle) {
+				this.circle.setRadius(this.radius);
+				this.map.fitBounds(this.circle.getBounds());
+			}
+		}
+		if (this.target && this.target.options) this.target.options[this.target.selectedIndex].value = this.lon+'_'+this.lat+'_'+this.radius+'-nearme';
+	};
+	this.checkNearMe=function(evt) {
+			var self = this;
+      this.target=evt.currentTarget;
+			if (this.target.options[this.target.selectedIndex].value.endsWith('nearme')) {
+				if (this.lon && this.lat) {
+					this.makeMap(this.lon,this.lat);
+				} else {
+					var match=this.target.options[this.target.selectedIndex].value.match(/^([\d\.]+)_([\d\.]+)_([\d\.]+)_nearme$/);
+					if (match && match[1] && match[2] && match[3]) {
+						document.getElementById('nearmeradius').value=match[3];
+						this.getmylocation( function(position) {self.makeMap(position.coords.longitude,position.coords.latitude);},match[1],match[2]);
+					} else {
+						this.getmylocation( function(position) {self.makeMap(position.coords.longitude,position.coords.latitude);});
+          }
+				}
+      }
+  };
+	this.lonlatform=function(form_elem_lon,form_elem_lat,form_elem_radius) {
+		this.onclose=(lon,lat,radius)=>{
+			if (form_elem_lon) form_elem_lon.value=lon;
+			if (form_elem_lat) form_elem_lat.value=lat;
+			if (form_elem_radius) form_elem_radius.value=lat;
+		};
+		this.radius=1;
+		if (form_elem_radius) this.radius=form_elem_radius;
+		const lon=form_elem_lon.value||10.3846;
+    const lat=form_elem_lat.value||55.4011;
+		nearme.makeMap(lon,lat);
+	}
+	this.close=function() {
+		nautmodal.style.display='none';
+		if (typeof this.onclose === 'function') this.onclose(this.lon,this.lat,this.radius);
+	};
+  this.showinfo=function(divid) {
+    opennautmodal(divid);
+  }
+	this.makeMap=function(lon,lat) {
+		var self = this;
+		this.zoom=this.zoom||15;
+		if (this.radius) document.getElementById('nearmeradius').value=this.radius;
+    this.setNearme(lon,lat); //radius skal s�ttes f�rst..
+    if (L) {
+      opennautmodal('modalNearMe');
+			if (this.radius) document.getElementById('nearmeradius').value=this.radius;
+      this.circle=L.circle([lat,lon], {radius: this.radius,weight:1});
+      this.marker = L.marker([lat,lon],{draggable:'true'});
+      this.marker.on('dragend', function(event){
+        var marker = event.target;
+        var newposition= marker.getLatLng();
+        self.map.panTo(new L.LatLng(newposition.lat, newposition.lng));
+        self.setNearme(newposition.lng,newposition.lat);
+        self.circle.setRadius(self.radius);
+        self.circle.setLatLng(new L.LatLng(newposition.lat, newposition.lng));
+        //self.map.fitBounds(self.circle.getBounds());
+      });
+      this.marker.on('mousemove', function(event){
+        var marker = event.target;
+        var newposition= marker.getLatLng();
+        self.circle.setLatLng(new L.LatLng(newposition.lat, newposition.lng));
+      });
+			var osmUrl='https://{s}.map.kultunaut.dk/streetmap/{z}/{x}/{y}.png';
+      var osmAttrib='Map data � <a href="https://openstreetmap.org">OpenStreetMap</a>';
+      var nearmap = L.tileLayer(osmUrl, {attribution: osmAttrib});
+      this.map = L.map('nearmemapdiv', {
+          center: [lat,lon],
+          zoom: this.zoom,
+          layers: [nearmap,this.circle,this.marker]
+      });
+      //this.map.fitBounds(this.circle.getBounds());
+		}
+	};
+}
+
+
+var nearme=new NearMe();
+var select = document.getElementsByTagName("select");
+var i;
+for (i = 0; i < select.length; i++) {
+	if (select[i].name == 'Area') {
+		select[i].addEventListener('change', function(event) {nearme.checkNearMe(event)} ,false);
+	}
+}
+
+</script>
+
+<div id="modalNearMe" style="display:none;">
+	<div style="margin-bottom:10px;font-weight:bold">Tr�k prikken til den rigtige position</div>
+	<div style="position:relative;z-index:1;margin-bottom:10px;">
+		<div id="nearmemapdiv" style="width:100%;height:calc(100vh - 250px);border:0px solid black;overflow:hidden;"></div>
+	</div>
+	<div style="float:left">Radius i meter: <input id="nearmeradius" style="width:60px" name="nearmeradius" value="2000" onchange="nearme.setNearme()"></div>
+	<div style="text-align:right;margin-left:20px;float:right">
+		<button class="nautbutton" onclick="nearme.loadmylocation();">S�g din position</button>
+		<button class="nautbutton" onclick="nearme.setNearme();nearme.close()">Videre</button>
+	</div>
+	<div style="clear:both"></div>
+	<script>
+	    function loadscript3(src,callback,param){
+      var id;
+			return loadscript4(src,id,callback,param);
+    }
+
+    function loadscript4(src,id,callback,param){
+			if (typeof id !== 'undefined' && document.getElementById(id)) {
+				if (typeof callback !== 'undefined') callback(param);
+				return;
+			}
+      var script = document.createElement('script');
+      script.async=true;
+      script.setAttribute('src',src);
+      script.setAttribute('type','text/javascript');
+			if (typeof id !== 'undefined') script.setAttribute('id',id);
+      if (typeof callback !== 'undefined') {
+        if (script.readyState) {
+            script.onreadystatechange = function () {
+                if (script.readyState == "loaded" || script.readyState == "complete") {
+                    script.onreadystatechange = null;
+                    setTimeout(function(){callback(param);}, 200);
+                }
+            };
+        } else {
+            script.onload = function () {
+                setTimeout(function(){callback(param);}, 200);
+            };
+        }
+      }
+      if (document.getElementsByTagName('head') && document.getElementsByTagName('head')[0]) {
+        document.getElementsByTagName('head')[0].appendChild(script);
+      } else {
+        document.documentElement.firstChild.appendChild(script);
+      }
+    }
+
+
+
+	loadscript3('https://www.kultunaut.dk/perl/viewplain/type-nynaut/leafletlib.js');
+	</script>
+</div>
+<script>
+  (function(d){
+     var id='modallib';if (d.getElementById(id)) {return;}
+     var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+     js.src="https://www.kultunaut.dk/lib/modal/modal.js";
+     var node=d.getElementsByTagName('script')[0];
+     node.parentNode.insertBefore(js, node);
+   }(document));
+</script>
+
+
+
+
+
+
+
+				</div>
+				
+				<div class="sort-periode">
+					<div class="date_picker">
+						 <link rel="stylesheet" href="https://www.kultunaut.dk/perl/viewplain/type-nynaut/datepicker_startend.css"/>
+  
+   
+   
+<div id="naut-datepicker">
+	<div class="nautdate_data">
+		<div class="nautramme nautdate">
+			<div class="input-group button">
+				<input type="text" readonly id="ArrStartdato" name="ArrStartdato" style="text-transform: capitalize;" value="" aria-label="ArrStartdato">
+			</div>
+		</div>
+		<div class="nautramme nautdate">
+			<div class="input-group button">
+				<input type="text" id="ArrSlutdato" name="ArrSlutdato" readonly style="text-transform: capitalize;" value="" aria-label="ArrSlutdato">
+			</div>
+		</div>
+	</div>
+</div>
+<script src="https://www.kultunaut.dk/datepicker/datepicker.js"></script>
+<script>
+	var MINUTE = 60 * 1000;
+	var HOUR = MINUTE * 60;
+	var DAY = HOUR * 24;
+	var WEEK = DAY * 7;
+	var now = new Date();
+
+  var end = new Date(now.getTime()+(2*WEEK));
+
+	if (document.getElementById('ArrStartdato').value == '') document.getElementById('ArrStartdato').value=formatDate(now,'dd/M yyyy');
+	if (document.getElementById('ArrSlutdato').value == '') document.getElementById('ArrSlutdato').value=formatDate(end,'dd/M yyyy');
+	
+	// Get value ArrStartdato/ArrSlutdato and convert to Day + Months text DK, eg: 13.OKT 
+	//document.getElementById('ArrStartdato2').innerHTML=formatDate2(document.getElementById('ArrStartdato').value);
+	//document.getElementById('ArrSlutdato2').innerHTML=formatDate2(document.getElementById('ArrSlutdato').value);
+	function formatDate2(date) {
+		var parts = date.replace(/ /g, '/').split('/');
+		var theDate = new Date(parseInt(parts[2]),parseInt(parts[1] - 1),parseInt(parts[0]));
+		var monthNames = ['JAN','FEB','MAR','APR','MAJ','JUN','JUL','AUG','SEP','OKT','NOV','DEC'];
+		var day = theDate.getDate();
+		var monthIndex = theDate.getMonth();
+		var year = theDate.getFullYear();
+		return day + '. ' + monthNames[monthIndex];
+	}
+
+	// JS default 
+	var startPickerfield=document.getElementById('ArrStartdato');
+	var endPickerfield=document.getElementById('ArrSlutdato');
+	var startPickercallback=function () {document.nauttopmenu.submit();};
+	var endPickercallback=function () { document.nauttopmenu.submit();};
+	(function(d,id,url){
+	 if (d.getElementById(id)) {return;}
+	 var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+	 js.src=url; var node=d.getElementsByTagName('script')[0];
+	 node.parentNode.insertBefore(js, node);
+	}(document,'datepicker_startend','//www.kultunaut.dk/perl/viewplain/type-nynaut/datepicker_startend.js'));
+
+	
+</script>
+
+					</div>
+					
+						
+				</div>
+				
+				
+				
+				<div class="sort-genre right-part1">
+					<div id="pleaseHide3">
+						
+						<select id="Genre_kategori" name="Genre" style="width:100%;cursor:pointer;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 11px" onchange="nauttopmenu.submit()" aria-label="Genre kategori">
+							<option value="">Alle genrer</option>
+
+							
+							<optgroup label="Musik">
+							<option value="Musik" >Alle koncerter</option>
+							<option value="Andet/Ukendt" >Andet/Ukendt</option>
+							<option value="Dansegulv" >Dansegulv</option>
+							<option value="Dansktop/underholdning" >Dansktop</option>
+							<option value="Folk/Vise/Country" >Folk/Vise/Country</option>
+							<option value="Funk/Blues/R&B" >Funk/Blues/R&B</option>
+							<option value="Gospel/Kor/F�llessang" >Gospel/Kor/F�llessang</option>
+							<option value="Hip-Hop/Reggae" >Hip-Hop/Reggae</option>
+							<option value="Jazz" >Jazz</option>
+							<option value="Klassisk" >Klassisk</option>
+							<option value="Rock/Pop" >Rock/Pop</option>
+							<option value="Elektronisk" >Elektronisk</option>
+							<option value="Club/DJ" >Club/DJ</option>
+							<option value="Verdensmusik/Latin" >Verdensmusik/Latin</option>
+							<optgroup label="Teater">
+							<option value="Teater" >Alle forestillinger</option>
+							<option value="Anden forestilling" >Anden forestilling</option>
+							<option value="Ballet" >Ballet</option>
+							<option value="Dans" >Dans</option>
+							<option value="Musical" >Musical</option>
+							<option value="Opera/Operette" >Opera/Operette</option>
+							<option value="Revy/kabaret" >Revy/kabaret</option>
+							<option value="Show/stand up" >Show/stand up</option>
+							<option value="Skuespil" >Skuespil</option>
+							<option value="B�rneteater" >B�rneteater</option>
+							<optgroup label="Udstillinger">
+							<option value="Udstilling" >Alle udstillinger</option>
+							<option value="Arkitektur" >Arkitektur</option>
+							<option value="Billedkunst" >Billedkunst</option>
+							<option value="Blandet/Ukendt" >Blandet/Ukendt</option>
+							<option value="Foto" >Foto</option>
+							<option value="Historisk" >Historisk</option>
+							<option value="Kunsth�ndv�rk" >Kunsth�ndv�rk</option>
+							<option value="Messe" >Messe</option>
+							<option value="Installation" >Installation</option>
+							<option value="Omvisning" >Omvisning</option>
+							<option value="Skulptur" >Skulptur</option>
+							<option value="Fernisering" >Fernisering</option>
+							<optgroup label="Sportsturnering">
+							<option value="Sportsturnering" >Alt sport</option>
+							<option value="Badmintonkamp" >Badmintonkamp</option>
+							<option value="Basketballkamp" >Basketballkamp</option>
+							<option value="Boksest�vne" >Boksest�vne</option>
+							<option value="Cykell�b" >Cykell�b</option>
+							<option value="Fodboldkamp" >Fodboldkamp</option>
+							<option value="Golfturnering" >Golfturnering</option>
+							<option value="Gymnastikst�vne" >Gymnastikst�vne</option>
+							<option value="Hestesport" >Hestesport</option>
+							<option value="H�ndboldkamp" >H�ndboldkamp</option>
+							<option value="Ishockeykamp" >Ishockeykamp</option>
+							<option value="Kapsejlads" >Kapsejlads</option>
+							<option value="L�b/atletikst�vne" >L�b/atletikst�vne</option>
+							<option value="Motorsport" >Motorsport</option>
+							<option value="Sv�mmest�vne" >Sv�mmest�vne</option>
+							<option value="�vrige sportsturneringer" >�vrigt sport</option>
+							<optgroup label="Motion">
+							<option value="Motion" >Alle motionstilbud</option>
+							<option value="Andet boldspil" >Andet boldspil</option>
+							<option value="Andet motionstilbud" >Andet motionstilbud</option>
+							<option value="Bordtennis" >Bordtennis</option>
+							<option value="Cykeltur" >Cykeltur</option>
+							<option value="Danseundervisning" >Danseundervisning</option>
+							<option value="Fitness/styrketr�ning" >Fitness/styrketr�ning</option>
+							<option value="Fodboldtr�ning" >Fodboldtr�ning</option>
+							<option value="Gymnastik/aerobic" >Gymnastik/aerobic</option>
+							<option value="Yoga" >Yoga</option>
+							<option value="H�ndboldtr�ning" >H�ndboldtr�ning</option>
+							<option value="Kampsporttr�ning" >Kampsporttr�ning</option>
+							<option value="Ketchersport" >Ketchersport</option>
+							<option value="L�betr�ning/jogging" >L�betr�ning/jogging</option>
+							<option value="Ridning" >Ridning</option>
+							<option value="Sejlads/roning" >Sejlads/roning</option>
+							<option value="Skate/rullesk�jte" >Skate/rullesk�jte</option>
+							<option value="Skydning" >Skydning</option>
+							<option value="Sk�jtel�b" >Sk�jtel�b</option>
+							<option value="Sv�mmetr�ning" >Sv�mmetr�ning</option>
+							<option value="Vandretur/stavgang" >Vandretur/stavgang</option>
+							<optgroup label="Film">
+							<option value="Film" >Alle film</option>
+							<option value="Action/Drama" >Action/Drama</option>
+							<option value="Andre Film" >Andre Film</option>
+							<option value="Dokumentar" >Dokumentar</option>
+							<option value="Familiefilm" >Familiefilm</option>
+							<option value="Komedie/Romantik" >Komedie/Romantik</option>
+							<option value="Science Fiction" >Science Fiction</option>
+							<option value="Tegnefilm/Animation" >Tegnefilm/Animation</option>
+							<option value="Thriller/Gyser" >Thriller/Gyser</option>
+              <optgroup label="Virtuel">
+              <option value="Online event" >Online event</option>
+              <option value="Online gudstjeneste" >Online gudstjeneste</option>
+              <option value="Webinar" >Webinar</option>
+							<optgroup label="�vrige aktiviteter">
+							<option value="Diverse" >Alle �vrige aktiviteter</option>
+							<option value="Andet" >Andet</option>
+							<option value="Baby/barsel" >Baby/barsel</option>
+							<option value="For b�rn" >For b�rn</option>
+							<option value="Banko" >Banko</option>
+							<option value="Byfest/Festival" >Byfest/Festival</option>
+							<option value="Ekskursion" >Ekskursion</option>
+							<option value="Foredrag" >Foredrag</option>
+							<option value="Gastronomi" >Gastronomi</option>
+							<option value="Gudstjeneste" >Gudstjeneste</option>
+							<option value="Konference/seminar" >Konference/seminar</option>
+							<option value="Loppemarked/Torvedag/Genbrug" >Loppemarked/Torvedag/Genbrug</option>
+							<option value="Lyrik/opl�sning" >Lyrik/opl�sning</option>
+							<option value="M�de" >M�de</option>
+							<option value="Natur" >Natur</option>
+							<option value="Workshop" >Workshop</option>
+							<option value="Undervisning" >Undervisning</option>
+
+						</select>
+					
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<div class="sort-right">
+				
+				<div class="sort-liste">
+					<div style="margin-bottom:1px;"><input type="submit" onclick="document.nauttopmenu.showmap.value='';activetab('grid');" value="Vis liste"></div>
+				</div>
+				
+			</div>	
+			
+			
+			
+			
+		</div>
+	</form>
+</div>
+
+</div>
+
+
+<script>
+function getmylocation(callback) {
+  if (navigator.geolocation) {
+     navigator.geolocation.getCurrentPosition(callback,
+        function(error) {
+          switch(error.code) {
+            case error.PERMISSION_DENIED: alert("Change your browser settings to use this function");
+            break;
+            case error.POSITION_UNAVAILABLE: alert("Could not detect current position");
+            break;
+            case error.TIMEOUT: alert("Retrieving position timed out");
+            break;
+            default: alert("unknown error");
+            break;
+          };
+      },{timeout:10000,enableHighAccuracy:true,maximumAge:600000});
+  }
+}
+
+sortOrder=function(position) {
+  var url='https://www.kultunaut.dk/perl/arrlist/type-nynaut?&Order=radius_'+position.coords.longitude+'_'+position.coords.latitude;
+  window.open(url, '_top');
+}
+
+function setOrder(value) {
+	if (value == 'Radius') {
+		getmylocation(sortOrder);	
+	} else {
+		var url='https://www.kultunaut.dk/perl/arrlist/type-nynaut?&Order='+value;
+  	window.open(url, '_top');
+	}
+}
+</script>
+<link rel="stylesheet" href="https://www.kultunaut.dk/perl/viewplain/type-nynaut/arrlist.css">
+
+	
+
+  <div id="layout-arrlist" class="grid ">
+    <script src="https://www.kultunaut.dk/perl/viewplain/type-nynaut/cookie.js"></script>
+		
+    
+
+      <div class="notranslate search-results-top noprint">
+
+				
+        <div style="float:right;max-width:320px;margin-bottom:0px;">
+					<div id="nautorder" class="nautorder"><label>
+						<select name="Order" aria-labelledby="nautorder" onchange="setOrder(this.options[this.selectedIndex].value)">
+						<option value="">Slutdato</option>
+						<option value="Rating"  selected>Popul�rt</option>
+						<option value="ArrStartdato" >Startdato</option>
+						<option value="Radius" >N�rmeste</option>
+					</select></label>
+					</div>
+          <div class="btn-group layout-options">
+            <div class="btn btn-default btn-tab" id="grid" onclick="setactivetab('grid');window.open('https://www.kultunaut.dk/perl/arrlist/type-nynaut?showmap=&Order=Rating&amp;','_top')" title="Vis grid-layout">
+              <i class="fas fa-th-large"></i>
+            </div>
+            <div class="btn btn-default btn-tab" id="list" onclick="setactivetab('list');window.open('https://www.kultunaut.dk/perl/arrlist/type-nynaut?showmap=&Order=Rating&amp;','_top')" title="Vis liste-layout">
+              <i class="fas fa-list"></i>
+            </div>
+            <div class="btn btn-default btn-tab" id="map" onclick="setactivetab('map');window.open('https://www.kultunaut.dk/perl/arrlist/type-nynaut?showmap=1&Order=Rating&amp;','_top')" title="Vis p� kort">
+              <i class="fas fa-map-marker-alt"></i>
+            </div>
+          </div>
+        </div>
+
+				
+				<div style="float:left" class="noprint">
+        <div class="result-count"><span style="white-space: nowrap;">Viser 
+					
+					<strong>139098</strong>
+ events</span> <strong>  <span style="white-space: nowrap;"></span></strong></div>
+        <div class="result-count-map">Viser <strong>139098</strong> events</span> <strong>  <span style="white-space: nowrap;"></span></strong></div>
+				</div>
+				<div style="clear:both"></div>
+      </div>
+
+    <div class="clearfix"></div>
+    <div id="product-row" data-coloumn-class="col-lg-6 col-md-6 col-sm-6 col-xs-6" data-page="5" class="products arrlist">
+			
+				<div data-arrnr="20198668" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20198668" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/user/W520H280_anDme8kbmnG1TXF2LtE-pwAAABI-anDpAX2tGFWK2RcmYQjiAAAAAU.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Natur
+        </span>
+        <h3><strong>Oplev �rtiers solform�rkelse i Ebeltoft med Videnskab.dk</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Oplev solform�rkelsen i selskab med Videnskab.dk, en forsker i astrofysik og andre nysgerrige sj�le p� Ebeltoft Strandbar med udsigt til vigen og form�rkelsen, der bev�ger sig hen over Mols Bjerge. Der uddeles solform�rkelsesbriller, s� l�nge lager haves.
+
+  Arrangeret af Videnskab.dk.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Ons. 12. aug. 2026 kl. 18:30, <b class="notranslate">Ebeltoft Strandbar</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20198668">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20050787" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20050787" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/place2book/W520H280_dakultunautexportsgeteventlogoeventdetailid399625uploadedat1781011584.png">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Natur
+        </span>
+        <h3><strong>Solform�rkelse p� Skenkels� M�lle</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Oplev solform�rkelse over Danmark p� Skenkels� M�lle. Aktiviteter og formidling for b�rn og familier om solform�rkelse og solens betydning for livet p� jorden. Spis jeres medbragte aftensmad og lav en pandekage over b�l. Se solform�rkelsen fra m�llen.
+
+  Arrangeret af Kultur og Fritid Egedal Kommune.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Ons. 12. aug. 2026 kl. 17, <b class="notranslate">Skenkels� M�lle Museum</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20050787">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="19797529" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19797529" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files460356397HardersUnderHimlenSrenRosenbergJensen2.png">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Under Himlen</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Tr�d ind i Harders G�rd og oplev sommeraftener med levende musik under �ben himmel. Under Himlen samler publikum til n�rv�rende koncertoplevelser i stemningsfulde rammer midt i Svendborg.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Fre. 14. og l�r. 15. aug. 2026 Fre-l�r, <b class="notranslate">Spillestedet Harders</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event19797529">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="19991555" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19991555" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/genre/W520H280_rockpop4.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Rock/Pop
+        </span>
+        <h3><strong>Rockb�k 2026</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Vi hj�lper med til at arrangere Rockb�k 2026 - f�r, under og efter.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>L�r. 15. til tir. 25. aug. 2026 kl. 09-21, <b class="notranslate">Tuse IF Fodbold</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event19991555">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20091846" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20091846" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/billetto/W520H280_f4e36nbhdh6fikb4ptvfidnqn1qfw1200h675fitcropautocompress2Cformatrect02C512C9602C540s9b7156c0f757422d40f7cbba6b359469.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Jazz i Farvehusets g�rd</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>RoskildeBeat er igen i �r med til at arrangere Jazz i G�rden ved Farvehuset p� Helligkorsvej 11 l�rdag d. 15. august kl. 11-17.Det er et arrangement drevet af frivillige og alt overskuddet g�r til velg�renhed.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>L�r. 15. aug. 2026 kl. 11-17, <b class="notranslate">Farvehuset</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20091846">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20148458" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20148458" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files3823638791.png">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Fluid Festival</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Tor. 13. til l�r. 15. aug. 2026 Tor-l�r, <b class="notranslate">Frue Plads</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20148458">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20067452" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20067452" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/user/W520H280_aEVduYZflIDL5P4VTJQbQAAAC0-ajDQspd2iHzg47RDxiwjQAAAA0.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Gospel/Kor/F�llessang
+        </span>
+        <h3><strong>Syng Solen Ned</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Igen i �r inviterer Nyk�bing Falsters Turistforening til en hyggelig aften i musikkens tegn.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Ons. 12. aug. 2026 kl. 19:45, <b class="notranslate">Markedshallen Guldborgsund</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20067452">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="19979695" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19979695" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/hcafestival5/W520H280_mediayhuo5m2j251805khl26event1200x628px.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Rock/Pop
+        </span>
+        <h3><strong>Kongens Have Live</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Tag dine veninder, din k�reste, kollega eller bedste koncertmakker under armen og oplev fem af Danmarks mest popul�re artister til en formidabel festivaldag i Kongens Have - lige midt i byens puls med masser af n�rv�r, f�llesskab, fede beats og velkendte.
+
+  Arrangeret af H. C. Andersen Festivals.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Fre. 14. aug. 2026 kl. 14-23.59, <b class="notranslate">Kongens Have</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event19979695">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="19868440" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19868440" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/visitdk/W520H280_files382173000NemolandConnieMariaWestergaard.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Rock/Pop
+        </span>
+        <h3><strong>S�ndagskoncerter p� Nemoland</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>N�r det er sommer, sol og s�ndag, kan du ganske kvit og frit opleve to koncerter p� Caf� Nemoland p� Christiania. Til koncerterne kan du b�de opleve nogle af dansk musiks mest lovende, nye navne og de gode, gamle klassikere.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>S�n. 17. maj til s�n. 23. aug. 2026 S�ndage, <b class="notranslate">Caf� Nemoland</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event19868440">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="19822293" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=19822293" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/yourticket/W520H280_includesuploadimages0758D74E503D4331AD8B031AD5A6E7D41000.jpg">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Lyden Af Paris</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>En �gte og autentisk musikalsk oplevelse - n�jagtig som om du sad p� en caf� i Paris. Vi har i de seneste 17 �r turneret rundt i Danmark med fransk musik.
+
+  Arrangeret af Folkestedets Venner.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Fre. 14. aug. 2026 kl. 15-17, <b class="notranslate">Folkestedet</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event19822293">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20100112" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20100112" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/dkbib/W520H280_sitesdefaultfilesstyleseventapiscaledpublic202606Til20hjemmeside.pngitokNHKdekk">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Natur
+        </span>
+        <h3><strong>En rejse til Solen</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>M�d en astronom og se en vaske�gte solform�rkelse!
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Ons. 12. aug. 2026 kl. 18.30-20.15, <b class="notranslate">H�rning Idr�tscenter</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20100112">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div><div data-arrnr="20061984" class="product col-lg-6 col-md-6 col-sm-6 col-xs-6">
+
+ 
+
+
+	<div style="position:relative">
+  <a href="https://www.kultunaut.dk/perl/arrmore/type-nynaut?ArrNr=20061984" class="product-content" data-position="1" data-id="30801" data-price="125">
+    
+    <div class="kult-image">
+      <img alt="" src="https://www.kultunaut.dk/perl/images/user/W520H280_ai-q4c87hl0M2YOx8KhkdgAAAC0-ai-3zvObR9EMegMj0y4XgQAAAA4.png">
+    </div>
+    
+    <div class="arr-info">
+
+      <div class="arr-genre">
+        <span class="genre_cat notranslate">
+          Musik
+          
+        </span>
+        <h3><strong>Gratis koncert med Dahlin</strong></h3>
+      </div>
+
+      <div class="arr-description">
+
+      
+      
+<span>Igen i �r inviterer vi til fire gratis, intimkoncerter med nogle af de st�rkeste og mest lovende navne p� den danske musikscene - og som den tredje i r�kken kan du opleve Dahlin live, torsdag den 13. august.
+
+</span>
+			</div>
+      <div class="kult-month-day">
+        <time>Tor. 13. aug. 2026 kl. 18-21, <b class="notranslate">G�rdhaven i Amager Centret</b></time>
+        <div class="noprint arrow_right"><img src="https://www.kultunaut.dk/perl/images/nynaut22/np-arrow-right.png" alt="arrow right"></div>
+      </div>
+
+    </div>
+  </a>
+	<div class="noprint c-husk naut-button notranslate">
+		<div class="nautrating" data-ratingid="event20061984">
+		<div role="button" aria-label="Like" data-rating="Like" class="like">
+			<div aria-label="likeinfo" data-rating="Like" class="likeinfo"></div>
+			<div onclick="window.location=('https://www.kultunaut.dk/perl/profile/type-nynaut/myratings')" data-rating="Ignore" class="showrating"></div>
+		</div>
+		
+	</div>
+
+	</div>
+</div>
+	<div style="clear:both"></div>
+</div>
+
+
+<div class="noprint nautclicknext"><a href="https://www.kultunaut.dk/perl/arrlist2/type-nynaut?startnr=13&Order=Rating&amp;" data-nautclicknext=""><span>Indl�s flere events</span></a></div>
+
+<script>
+  (function(d){
+     var id='nautnextjs';if (d.getElementById(id)) {return;}
+     var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+     js.src="https://www.kultunaut.dk/perl/viewplain/type-nynaut/nautnext.js";
+     var node=d.getElementsByTagName('div')[0];
+     node.parentNode.insertBefore(js, node);
+   }(document));
+</script>
+
+
+			
+    </div>
+      
+
+ 
+    <div style="clear:both" class="clear"></div>
+    <br />
+  </div>
+    <div class="noprint" style="font-size: 19px;">
+   	
+      		<img src="https://www.kultunaut.dk/perl/images/nynaut/pil_blaa_hvid.gif" style="display:inline" alt="" width="10" height="10"/> <a href="https://www.kultunaut.dk/perl/sms/type-nynaut?url=https%3A%2F%2Fwww.kultunaut.dk%2F%3FOrder%3DRating%26amp%3Bperiode%3D">F� denne s�gning p� din mobiltelefon</a><br />
+      		<img src="https://www.kultunaut.dk/perl/images/nynaut/pil_blaa_hvid.gif" style="display:inline" alt="" width="10" height="10"/> <a href="https://www.kultunaut.dk/perl/pdf/type-nynaut/?Order=Rating&amp;periode=">Download denne s�gning som pdf</a><br />
+     	
+    	
+    </div>
+
+
+
+  <script src="https://www.kultunaut.dk/lib/polyfill/polyfill.min.js"></script>
+  <script>
+	function setactivetab(buttonId){
+		nautsetTempCookie('NAUT_TAB',buttonId,1);
+	}
+  function activetab(buttonId){
+	if (!buttonId) buttonId='grid';
+		if(buttonId && document.getElementById(buttonId)) {
+      var cbs = document.getElementsByClassName('btn-tab');
+      for (var i = 0; i < cbs.length; i++) {
+        if (cbs[i].type == 'button') {
+          cbs[i].className='btn btn-default btn-tab';
+        }
+      }
+      document.getElementById(buttonId).className='btn btn-default btn-tab active';
+      document.getElementById('layout-arrlist').className=buttonId;
+      nautsetTempCookie('NAUT_TAB',buttonId,1);
+		} else if (document.getElementById('layout-arrlist').offsetWidth<480) {
+			document.getElementById('layout-arrlist').className='grid';
+    }else{
+      document.getElementById('layout-arrlist').className='list';
+    }
+  }
+	var tabcookie = nautgetCookie('NAUT_TAB');
+	
+		if (tabcookie === 'map') {
+			setactivetab('grid');
+			tabcookie='grid';
+		}
+	
+  activetab(tabcookie);
+  </script>
+
+
+<script>
+  (function(d){
+     var id='nautrating';if (d.getElementById(id)) {return;}
+     var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+     js.src="https://www.kultunaut.dk/perl/viewplain/type-nynaut/nautrating.js";
+     var node=d.getElementsByTagName('script')[0];
+     node.parentNode.insertBefore(js, node);
+   }(document));
+</script>
+
+<script>
+  (function(d){
+     var id='nautlogging';if (d.getElementById(id)) {return;}
+     var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+     js.src="https://www.kultunaut.dk/lib/nautlog/nautlog.10.min.js";
+     var node=d.getElementsByTagName('script')[0];
+     node.parentNode.insertBefore(js, node);
+   }(document));
+</script><!-- content slut -->
+
+<div style="clear:both"></div>
+					</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+	<div class="noprint ads"><!--#xminclude "bluebarright_del2" --></div> 
+</div>
+
+      <!-- bottom newsbox -->
+				<div class="newsbottom noprint">
+          <div class="nyhedbox">
+             
+              <div style="overflow:hidden"><div style="margin-right:-20px"></div></div>
+              
+              <div class="nohandheld"></div>
+      </div></div>
+			<!-- end bottom newsbox -->
+</div>
+<div style="clear:both"></div>
+
+<div class="footer noprint" role="footer">
+<div class="an-display-499-930x180-bottom-placement an-unit"></div>
+
+	<div class="wrap">
+		<div class="left_ft">
+			<div class="info_ft">
+				<h2>KultuNaut</h2>
+				<p>Den elektroniske kulturguide</p>
+			</div>
+			<div class="noprint">
+
+<p class="nautlille" >
+<a href="https://www.kultunaut.dk/perl/view/type-nynaut/kontakt">Kontakt</a>
+
+<a href="https://www.kultunaut.dk/blog">Blog</a>
+<a href="https://www.kultunaut.dk/perl/feedback/type-nynaut?StedNr=&ArrNr=">Rettelser</a>
+<a href="https://www.kultunaut.dk/perl/view/type-nynaut/persondata">Persondata</a>
+<a href="https://www.kultunaut.dk/perl/view/type-nynaut/accessibility">Tilg�ngelighed</a>
+<a href="https://www.kultunaut.dk/perl/view/type-nynaut/om">Om KultuNaut</a>
+</p>
+
+</div>
+
+		</div>
+		<div class="right_ft">
+			<img src="https://www.kultunaut.dk/perl/images/nynaut22/group-461-2x.png" alt="kutunaut logo" height="48" width="191">
+			<p class="text_right_ft">&copy; <a href="https://www.kultunaut.dk/perl/view/type-nynaut/om">KultuNaut.dk</a> - Email: <a href="mailto:kultunaut@kultunaut.dk">kultunaut@kultunaut.dk</a></p>
+		</div>
+	</div>
+	
+</div><!-- end footer-->
+<script>
+	var menu = document.getElementsByClassName("left-side")[0];
+	var search = document.getElementById("right-search");
+	var aTags = document.getElementsByClassName("kantdark");
+	// Click to show/hide menu (only tablet or mobile width)
+	function toggleFunction() {
+		menu.classList.toggle("open");
+	}
+	// Focus on input search to show suggest box
+	function showBox(){
+		if (!search.classList.contains("open")) {
+			search.classList.add("open");
+		}
+	}
+	// Hidden suggest box/menu if click outside area or if clicked suggest box <a> Tags
+	window.addEventListener("click", function(e){   
+		if (!search.contains(e.target)){
+			search.classList.remove("open");
+		}else{
+			for (var i = 0; i < aTags.length; i++) {
+			    if (aTags[i].contains(e.target)){
+					search.classList.remove("open");
+				}
+			}
+		}
+		if (!menu.contains(e.target)){
+			menu.classList.remove("open");
+		}
+	});
+</script>
+
+
+
+
+
+
+
+<script>
+  (function(d){
+     var id='rightclick';if (d.getElementById(id)) {return;}
+     var js=d.createElement('script');js.id=id;js.async=true;js.type='text/javascript';
+     js.src="https://www.kultunaut.dk/perl/viewplain/type-nynaut/rightclick.js";
+     var node=d.getElementsByTagName('div')[0];
+     node.parentNode.insertBefore(js, node);
+   }(document));
+</script>
+<link href="https://www.kultunaut.dk/lib/naut-awesome6/css/all.min.css" rel="stylesheet">
+<link href="https://www.kultunaut.dk/lib/nautfont/fonts/nautfont.css" rel="stylesheet">
+
+
+<script type="text/javascript">
+//<![CDATA[
+(function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.async = true;
+    script.charset = "utf-8";
+    script.src = "https:" + "//boost-cdn.manatee.dk/config/mboost-br02lf-8bcjbm-8skfwr-8g5juk.js";
+    var node = document.getElementsByTagName("head")[0];
+    node.parentNode.insertBefore(script, node);
+})();
+let waitCMP = (cb) => {
+    var seconds = 2;
+    var interval = 100;
+    var waitCount = seconds*1000 / interval;
+    var waittick = () => {
+        setTimeout(function(){
+            if ("__tcfapi" in window) return cb();
+            waitCount -- ;
+            if (waitCount <=0) return;
+            waittick();
+        }, interval);
+    }
+    waittick();
+};
+waitCMP( () => {
+    const tcfCallback = (tcData,success) => {
+        if (!tcData) return; // tcData not set, so we are not in a valid state.
+        if (success) {
+            if( tcData.eventStatus === 'tcloaded' ||  tcData.eventStatus === 'useractioncomplete') {
+                if ("gdprApplies" in tcData && !tcData.gdprApplies) { /// GDPR does not apply
+                } else if ("tcString" in tcData) { // Check for TCString
+                    var hasDeviceStorageAndAccessConsent = tcData?.purpose?.consents[1] || false;
+                    if (hasDeviceStorageAndAccessConsent) {
+                      //nautsetCookie('NAUT_COOKIE','accepted',60);
+										}
+                }
+            } else if (tcData.eventStatus=="cmpuishown"){ // CMP was shown
+							//nautsetCookie('NAUT_COOKIE','rejected',60);
+            }
+        }
+    };
+    window.__tcfapi('addEventListener' , 2, tcfCallback);
+});
+//]]>
+</script>
+
+
+
+<div class="naut-print-header"></div>
+</body>
+</html>

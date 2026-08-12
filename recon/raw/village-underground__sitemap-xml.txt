@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://villageunderground.co.uk/wp-content/plugins/slim-seo/src/Sitemaps/style.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-post-type-page.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-post-type-event.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-post-type-past-event.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-post-type-testimonial.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-taxonomy-event-type.xml</loc>
+	</sitemap>
+	<sitemap>
+		<loc>https://villageunderground.co.uk/sitemap-taxonomy-event-genre.xml</loc>
+	</sitemap>
+</sitemapindex>

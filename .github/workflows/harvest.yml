@@ -1,0 +1,116 @@
+name: Harvest
+
+# The heartbeat. Every Monday a runner goes out, reads what the venues publish,
+# and commits the corpus. Nothing else in this repository can add an event.
+#
+# workflow_dispatch only works from the default branch, so while this lives on a
+# feature branch it is driven by pushing: touch .github/harvest-args (which also
+# carries the CLI arguments) and the run starts.
+
+on:
+  schedule:
+    # 05:20 UTC Monday. Not on the hour, because everyone schedules on the hour.
+    - cron: '20 5 * * 1'
+  workflow_dispatch:
+  push:
+    branches: ['claude/**']
+    paths:
+      # Exactly one file, deliberately. A crawl takes tens of minutes, and
+      # every broader path filter I tried ended with an ordinary push killing a
+      # run that was 30 minutes into enrichment. Touch this file to run it.
+      - '.github/harvest-args'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: harvest-${{ github.ref }}
+  # NOT cancel-in-progress. A harvest takes 10-40 minutes and any push that
+  # touches pipeline/ re-triggers it, so cancelling the running one meant three
+  # consecutive full crawls were killed at the enrichment step and the corpus
+  # never gained its artist index. Queue instead.
+  cancel-in-progress: false
+
+jobs:
+  harvest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Read run arguments
+        id: args
+        run: |
+          ARGS="$(cat .github/harvest-args 2>/dev/null | grep -v '^#' | tr '\n' ' ' | xargs || true)"
+          echo "args=$ARGS" >> "$GITHUB_OUTPUT"
+          echo "running with: $ARGS"
+
+      - name: Harvest
+        run: node pipeline/harvest.mjs ${{ steps.args.outputs.args }}
+
+      - name: Enrich artists
+        # Best-effort: a MusicBrainz outage should not lose the harvest.
+        if: hashFiles('pipeline/enrich.mjs') != ''
+        # NOT continue-on-error. It masked a total failure as a green step: the
+        # artist index was empty for four consecutive runs and every one of them
+        # reported success.
+        continue-on-error: false
+        env:
+          # Bounded so one run cannot spend an hour on MusicBrainz. The cache is
+          # incremental, so successive weeks finish the tail.
+          ENRICH_LIMIT: '900'
+        run: node pipeline/enrich.mjs
+
+      - name: Validate
+        if: hashFiles('pipeline/validate.mjs') != ''
+        run: node pipeline/validate.mjs
+
+      - name: Build site
+        if: hashFiles('pipeline/build.mjs') != ''
+        run: node pipeline/build.mjs
+
+      # A failed push must not throw away a 40-minute crawl and the artist
+      # enrichment behind it. It already did once.
+      - name: Keep the corpus even if the commit fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: corpus
+          path: |
+            data/
+            docs/index.html
+          retention-days: 14
+
+      - name: Commit corpus
+        run: |
+          git config user.name  "concert-finder-harvest"
+          git config user.email "noreply@github.com"
+          git add -A data/ docs/ recon/ || true
+          if git diff --staged --quiet; then
+            echo "no change"
+          else
+            git commit -m "harvest: $(node -e "const m=require('./data/harvest-meta.json');console.log(m.counts.events+' events from '+m.counts.sourcesWithEvents+' sources, '+m.generatedAt.slice(0,10))")"
+            for i in 1 2 3; do
+              git pull --rebase -q origin ${{ github.ref_name }} || true
+              git push origin HEAD:${{ github.ref_name }} && break
+              sleep $((i * 5))
+            done
+          fi
+
+      - name: Report
+        if: always()
+        run: |
+          node -e "
+          const m=require('./data/harvest-meta.json');
+          console.log('## Harvest '+m.generatedAt);
+          console.log('');
+          console.log('| source | kept | fetched | top reject |');
+          console.log('|---|---|---|---|');
+          for(const s of m.perSource.sort((a,b)=>b.kept-a.kept)){
+            const r=Object.entries(s.rejects).sort((a,b)=>b[1]-a[1])[0];
+            console.log('| '+s.id+' | '+s.kept+' | '+s.fetched+' | '+(r?r[0]+':'+r[1]:'')+' |');
+          }
+          " >> $GITHUB_STEP_SUMMARY
