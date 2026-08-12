@@ -1,0 +1,378 @@
+{
+  "generatedAt": "2026-08-12T20:19:24.631Z",
+  "runner": "github-actions/31636923783",
+  "window": {
+    "from": "2026-08-12",
+    "to": "2027-09-16",
+    "horizonDays": 400
+  },
+  "counts": {
+    "events": 237,
+    "sources": 23,
+    "sourcesWithEvents": 12,
+    "artists": 329,
+    "venues": 12,
+    "withTicketUrl": 89,
+    "tributeFlagged": 1
+  },
+  "dropped": {
+    "past": 79,
+    "beyondHorizon": 1,
+    "cancelled": 0,
+    "duplicate": 3
+  },
+  "http": {
+    "requests": 132,
+    "bytes": 40298312,
+    "errors": 0,
+    "robotsSkips": 0
+  },
+  "perSource": [
+    {
+      "id": "loppen",
+      "name": "Loppen",
+      "city": "København",
+      "adapter": "jsonld-page",
+      "host": "loppen.dk",
+      "raw": 44,
+      "kept": 44,
+      "fetched": 2,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "kb-hallen",
+      "name": "K.B. Hallen",
+      "city": "Frederiksberg",
+      "adapter": "jsonld-page",
+      "host": "kbhallen.dk",
+      "raw": 30,
+      "kept": 29,
+      "fetched": 1,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "vega",
+      "name": "VEGA",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "vega.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "stengade",
+      "name": "Stengade",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "stengade.dk",
+      "raw": 8,
+      "kept": 8,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "koncerthuset",
+      "name": "DR Koncerthuset",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "drkoncerthuset.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "tivoli",
+      "name": "Tivoli",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "tivoli.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "roskilde",
+      "name": "Roskilde Festival",
+      "city": "Roskilde",
+      "adapter": "sitemap-jsonld",
+      "host": "roskilde-festival.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "jelling",
+      "name": "Jelling Musikfestival",
+      "city": "Jelling",
+      "adapter": "sitemap-jsonld",
+      "host": "jellingmusikfestival.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 1,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 1,
+        "http-404": 7
+      },
+      "error": null
+    },
+    {
+      "id": "strom",
+      "name": "Strøm",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "stromcph.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "distortion",
+      "name": "Distortion",
+      "city": "København",
+      "adapter": "sitemap-jsonld",
+      "host": "cphdistortion.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "stars",
+      "name": "Stars",
+      "city": "Vordingborg",
+      "adapter": "sitemap-jsonld",
+      "host": "stars.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 6,
+      "discovered": 6,
+      "rejects": {
+        "no-jsonld-event": 6
+      },
+      "error": null
+    },
+    {
+      "id": "jyske-bank-boxen",
+      "name": "Jyske Bank Boxen",
+      "city": "Herning",
+      "adapter": "sitemap-jsonld",
+      "host": "mch.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 8,
+      "discovered": 8,
+      "rejects": {
+        "no-jsonld-event": 8
+      },
+      "error": null
+    },
+    {
+      "id": "rust",
+      "name": "Rust",
+      "city": "København",
+      "adapter": "wp-rest",
+      "host": "rust.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 0,
+      "discovered": null,
+      "rejects": {},
+      "error": null
+    },
+    {
+      "id": "voxhall",
+      "name": "VoxHall",
+      "city": "Aarhus",
+      "adapter": "wp-rest",
+      "host": "voxhall.dk",
+      "raw": 97,
+      "kept": 46,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 3
+      },
+      "error": null
+    },
+    {
+      "id": "posten",
+      "name": "Posten",
+      "city": "Odense",
+      "adapter": "wp-rest",
+      "host": "postenlive.dk",
+      "raw": 10,
+      "kept": 7,
+      "fetched": 87,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 77
+      },
+      "error": null
+    },
+    {
+      "id": "dexter",
+      "name": "Dexter",
+      "city": "Odense",
+      "adapter": "wp-rest",
+      "host": "dexter.dk",
+      "raw": 6,
+      "kept": 5,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 92,
+        "non-musical": 2
+      },
+      "error": null
+    },
+    {
+      "id": "skraaen",
+      "name": "Skråen",
+      "city": "Aalborg",
+      "adapter": "wp-rest",
+      "host": "skraaen.dk",
+      "raw": 0,
+      "kept": 0,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 95,
+        "non-musical": 5
+      },
+      "error": null
+    },
+    {
+      "id": "tobakken",
+      "name": "Tobakken",
+      "city": "Esbjerg",
+      "adapter": "wp-rest",
+      "host": "tobakken.dk",
+      "raw": 10,
+      "kept": 8,
+      "fetched": 59,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 49
+      },
+      "error": null
+    },
+    {
+      "id": "sonderborghus",
+      "name": "Sønderborghus",
+      "city": "Sønderborg",
+      "adapter": "wp-rest",
+      "host": "sonderborghus.dk",
+      "raw": 13,
+      "kept": 6,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 78,
+        "non-musical": 9
+      },
+      "error": null
+    },
+    {
+      "id": "gimle",
+      "name": "Gimle",
+      "city": "Roskilde",
+      "adapter": "wp-rest",
+      "host": "gimle.dk",
+      "raw": 9,
+      "kept": 3,
+      "fetched": 96,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 80,
+        "non-musical": 7
+      },
+      "error": null
+    },
+    {
+      "id": "musikhuset-esbjerg",
+      "name": "Musikhuset Esbjerg",
+      "city": "Esbjerg",
+      "adapter": "wp-rest",
+      "host": "mhe.dk",
+      "raw": 7,
+      "kept": 5,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 90,
+        "non-musical": 3
+      },
+      "error": null
+    },
+    {
+      "id": "vejle-musikteater",
+      "name": "Vejle Musikteater",
+      "city": "Vejle",
+      "adapter": "wp-rest",
+      "host": "vejlemusikteater.dk",
+      "raw": 8,
+      "kept": 8,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "no-event-date": 89,
+        "non-musical": 3
+      },
+      "error": null
+    },
+    {
+      "id": "kulturvaerftet",
+      "name": "Kulturværftet",
+      "city": "Helsingør",
+      "adapter": "wp-rest",
+      "host": "kuto.dk",
+      "raw": 78,
+      "kept": 68,
+      "fetched": 100,
+      "discovered": null,
+      "rejects": {
+        "non-musical": 7,
+        "no-event-date": 15
+      },
+      "error": null
+    }
+  ],
+  "elapsedSeconds": 79
+}
