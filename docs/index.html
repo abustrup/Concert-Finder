@@ -879,6 +879,22 @@ input[type='range']::-moz-range-thumb {
   :root {
     --rail: 52px;
   }
+  /* The tagline wrapped to three lines beside the wordmark and pushed "Start
+     over" off the right edge. On a phone the wordmark is enough. */
+  .mark span {
+    display: none;
+  }
+  .top-in {
+    gap: var(--s2);
+  }
+  .ghost {
+    padding: 6px 11px;
+    font-size: 12px;
+  }
+  .mark b {
+    font-size: 19px;
+    letter-spacing: 0.13em;
+  }
   .wrap,
   .top-in,
   .controls-in {
