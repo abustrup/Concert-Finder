@@ -1,0 +1,190 @@
+[
+ {
+  "id": 17453,
+  "date": "2026-08-12T08:08:50",
+  "date_gmt": "2026-08-12T06:08:50",
+  "guid": {
+   "rendered": "https://postenlive.dk/?post_type=event&#038;p=17453"
+  },
+  "modified": "2026-08-12T10:39:38",
+  "modified_gmt": "2026-08-12T08:39:38",
+  "slug": "konnekt-x-posten",
+  "status": "publish",
+  "type": "event",
+  "link": "https://postenlive.dk/event/konnekt-x-posten/",
+  "title": {
+   "rendered": "Konnekt X Posten"
+  },
+  "content": {
+   "rendered": "\n<p><strong>Er du klar til en aften med hårde bars, tunge beats og nogle af de mest spændende navne på den danske upcoming rapscene?</strong></p>\n\n\n\n<p>Den 27. august inviterer Konnekt X Posten til en aften dedikeret til dansk rap, hvor fire stærke artister indtager scenen og sørger for, at stemningen bliver skruet helt op. </p>\n\n\n\n<p>Aftenens lineup består af:</p>\n\n\n\n<p>🎙️ Wesmo</p>\n\n\n\n<p>🎙️ legobygger123</p>\n\n\n\n<p>🎙️ Slalum</p>\n\n\n\n<p>🎙️ Prompte</p>\n\n\n\n<p>Dørene åbner kl. 19.00, og fra 20.00-23.00 bliver Posten fyldt med rap, energi og fællesskab. </p>\n\n\n\n<p><strong>Wesmo</strong> er en markant stemme i den nye bølge af dansk grime. Han kombinerer rå energi, tunge basbeats og et direkte lyrisk udtryk med klare rødder i den danske undergrund. Med sin debut-EP, 1 ÅR, har han cementeret sig med sin særegne lyd, som er tydeligt inspireret af klassisk grime, men formet af danske gademiljøer, hvilket tilskriver musikken et stærkt lokalt præg.</p>\n\n\n\n<p><strong>legobygger123</strong> har siden 2022 etableret sig som en dominerende figur på den danske undergrundsscene. Han kanalisere frisindet der lever på SoundCloud igennem en eklektisk lyd der drager inspiration af alt fra jamaicansk soundsystem kultur til hyperpoppet digicore. Fra roots-reggae budskaber på &#8220;mit hus&#8221; til grumset drum n&#8217; bass på &#8220;vejgård rudeboy&#8221; giver legobygger123 en bred musikalsk oplevelse med bombatisk MC&#8217;ing og tung sub-bas.</p>\n\n\n\n<p><strong>Slalum</strong> er en kompromisløs rapper fra den danske undergrund, hvor jungle, dub og hiphop smelter sammen til et energisk og mørkt univers. På tunge breaks og med selvsikker levering fra én af de nye usammenlignelige sangskrivere og rappere i én, kan du forvente rå og sårbar attitude, teknisk overskud og en live-performance der larmer, pulserer og kræver plads.</p>\n\n\n\n<p><strong>Prompte</strong> er en rapduo fra Fyn, der kombinerer hiphop med et mix af genrer og masser af energi. Live leverer de en nærværende oplevelse, hvor publikum inddrages og stemningen er i top. Den 10. oktober udgav de deres første EP med 6 numre – klar til at blive taget direkte fra studiet til scenen.</p>\n",
+   "protected": false
+  },
+  "featured_media": 17454,
+  "template": "",
+  "event_type": [
+   14
+  ],
+  "class_list": [
+   "post-17453",
+   "event",
+   "type-event",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "type-urban"
+  ],
+  "acf": [],
+  "publishpress_future_action": {
+   "enabled": true,
+   "date": "2026-08-28 05:00:00",
+   "action": "change-status",
+   "newStatus": "draft",
+   "terms": [],
+   "taxonomy": "type"
+  },
+  "publishpress_future_workflow_manual_trigger": {
+   "enabledWorkflows": []
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/event/17453",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://postenlive.dk/wp-json/wp/v2/media/17454"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/media?parent=17453"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "type",
+     "embeddable": true,
+     "href": "https://postenlive.dk/wp-json/wp/v2/event_type?post=17453"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ },
+ {
+  "id": 17442,
+  "date": "2026-08-11T09:21:44",
+  "date_gmt": "2026-08-11T07:21:44",
+  "guid": {
+   "rendered": "https://postenlive.dk/?post_type=event&#038;p=17442"
+  },
+  "modified": "2026-08-11T09:21:45",
+  "modified_gmt": "2026-08-11T07:21:45",
+  "slug": "fallulah-2",
+  "status": "publish",
+  "type": "event",
+  "link": "https://postenlive.dk/event/fallulah-2/",
+  "title": {
+   "rendered": "Fallulah"
+  },
+  "content": {
+   "rendered": "\n<p><strong>FALLULAH er sanger, sangskriver og producer. Siden gennembruddet i 2010 har den dansk-rumænske sanger etableret sig som en vigtig stemme i dansk popmusik</strong></p>\n\n\n\n<p>Hun står bag store radiohits som &#8220;Out of It&#8221; og &#8220;Bridges&#8221; fra debutalbummet “The Black Cat Neighbourhood”, der solgte dobbelt platin og satte tonen for en karriere præget af stærke melodier og kunstnerisk integritet.</p>\n\n\n\n<p>Siden da har hun stået bag en række anmelderroste udgivelser, og hendes musik har fundet vej til internationale TV-serier som “Pretty Little Liars” og “Teen Wolf”. Undervejs har hun modtaget adskillige priser, herunder P3 Prisen, Carl Prisen og Danish Music Awards.</p>\n\n\n\n<p>I 2018 stiftede hun den feministiske bevægelse Hej Søster, og i 2023 udgav hun sit femte album “Celeste”, der er skabt på egne præmisser og med et kritisk blik på streamingkulturens betydning for musikere. Albummet blev udelukkende udgivet som fysisk og digitalt køb, og det samme gælder hendes kommende udgivelser.</p>\n\n\n\n<p>Snart står Fallulah foran et nyt kapitel. Med nye dansksprogede sange udforsker hun endnu en side af sit kunstneriske univers og inviterer publikum tættere på sine fortællinger. Musikalsk forenes moderne elektroniske produktioner med referencer til den danske sangtradition.</p>\n",
+   "protected": false
+  },
+  "featured_media": 17443,
+  "template": "",
+  "event_type": [
+   9
+  ],
+  "class_list": [
+   "post-17442",
+   "event",
+   "type-event",
+   "status-publish",
+   "has-post-thumbnail",
+   "hentry",
+   "type-pop"
+  ],
+  "acf": [],
+  "publishpress_future_action": {
+   "enabled": true,
+   "date": "2027-09-25 05:00:00",
+   "action": "change-status",
+   "newStatus": "draft",
+   "terms": [],
+   "taxonomy": "type"
+  },
+  "publishpress_future_workflow_manual_trigger": {
+   "enabledWorkflows": []
+  },
+  "_links": {
+   "self": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/event/17442",
+     "targetHints": {
+      "allow": [
+       "GET"
+      ]
+     }
+    }
+   ],
+   "collection": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/event"
+    }
+   ],
+   "about": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/types/event"
+    }
+   ],
+   "wp:featuredmedia": [
+    {
+     "embeddable": true,
+     "href": "https://postenlive.dk/wp-json/wp/v2/media/17443"
+    }
+   ],
+   "wp:attachment": [
+    {
+     "href": "https://postenlive.dk/wp-json/wp/v2/media?parent=17442"
+    }
+   ],
+   "wp:term": [
+    {
+     "taxonomy": "type",
+     "embeddable": true,
+     "href": "https://postenlive.dk/wp-json/wp/v2/event_type?post=17442"
+    }
+   ],
+   "curies": [
+    {
+     "name": "wp",
+     "href": "https://api.w.org/{rel}",
+     "templated": true
+    }
+   ]
+  }
+ }
+]
