@@ -41,11 +41,24 @@ const SIMILAR_ENDPOINTS = [
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
 const stats = { mbHits: 0, mbMiss: 0, simHits: 0, simMiss: 0, cached: 0, errors: 0 }
 
+let firstFailureReported = false
+
 async function musicbrainzLookup(name) {
   const q = encodeURIComponent(`artist:"${name.replace(/"/g, '')}"`)
   const url = `https://musicbrainz.org/ws/2/artist?query=${q}&fmt=json&limit=5`
   const res = await politeFetch(url, { accept: 'application/json', delay: MB_DELAY })
-  if (!res?.ok) return null
+  if (!res?.ok) {
+    // Say what happened the FIRST time, loudly. The previous version resolved
+    // nothing for 900 artists in a row and reported it as one bland count.
+    if (!firstFailureReported) {
+      firstFailureReported = true
+      console.error(
+        `  first MusicBrainz failure: ${res === null ? 'politeFetch returned null (robots or skip)' : `HTTP ${res.status}`} for "${name}"\n  ${url}`
+      )
+      if (res && res.text) console.error('  body: ' + res.text.slice(0, 200))
+    }
+    return null
+  }
   let data
   try {
     data = JSON.parse(res.text)
@@ -135,6 +148,17 @@ async function main() {
   const budget = Number(process.env.ENRICH_LIMIT || 0) || names.length
   const todo = names.filter((n) => !isFresh(cache[foldName(n)]))
   console.log(`${names.length} distinct artists; ${todo.length} need enriching; budget ${budget}`)
+
+  // A control that must fire before the run commits to twenty minutes of
+  // lookups: resolve one artist we know MusicBrainz has. If this fails, the
+  // route is broken and every subsequent "not found" would be a lie.
+  const probe = await musicbrainzLookup('Iceage')
+  if (!probe) {
+    console.error('\nFAIL: the MusicBrainz probe for a known artist returned nothing.')
+    console.error('Enrichment would resolve nothing and the site would fall back to exact-name matching.')
+    process.exit(4)
+  }
+  console.log(`probe ok: Iceage -> ${probe.mbid} (${probe.country}) tags=${probe.tags.map((t) => t.name).slice(0, 4).join(', ')}`)
 
   const endpointIndex = { value: 0 }
   let done = 0

@@ -17,6 +17,20 @@ const DEFAULT_DELAY_MS = 700
 const TIMEOUT_MS = 30_000
 const MAX_RETRIES = 2
 
+// Documented public APIs are a different contract from a website. robots.txt
+// governs crawlers walking pages; MusicBrainz, ListenBrainz and Wikidata publish
+// these endpoints FOR programmatic use, with a stated rate limit and a
+// user-agent requirement, both of which this file honours. Applying their
+// site-wide crawl rules to their own API silently returned null for every
+// lookup and left the artist index empty while every step reported success.
+const API_HOSTS = new Set([
+  'musicbrainz.org',
+  'api.listenbrainz.org',
+  'labs.api.listenbrainz.org',
+  'query.wikidata.org',
+  'app.ticketmaster.com',
+])
+
 const robotsCache = new Map() // host -> {groups, crawlDelay}
 const lastHit = new Map() // host -> timestamp
 const inFlight = new Map() // host -> promise chain, serialising per host
@@ -129,9 +143,10 @@ async function loadRobots(host) {
 export async function politeFetch(url, opts = {}) {
   const u = new URL(url)
   const host = u.host
-  const robots = await loadRobots(host)
+  const isApi = API_HOSTS.has(host)
+  const robots = isApi ? { groups: [], crawlDelay: null } : await loadRobots(host)
 
-  if (!allowed(robots, u.pathname)) {
+  if (!isApi && !allowed(robots, u.pathname)) {
     stats.robotsSkips.push(url)
     return null
   }

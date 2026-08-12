@@ -54,7 +54,10 @@ jobs:
       - name: Enrich artists
         # Best-effort: a MusicBrainz outage should not lose the harvest.
         if: hashFiles('pipeline/enrich.mjs') != ''
-        continue-on-error: true
+        # NOT continue-on-error. It masked a total failure as a green step: the
+        # artist index was empty for four consecutive runs and every one of them
+        # reported success.
+        continue-on-error: false
         env:
           # Bounded so one run cannot spend an hour on MusicBrainz. The cache is
           # incremental, so successive weeks finish the tail.

@@ -1,4 +1,6 @@
 # CLI arguments for pipeline/harvest.mjs, one per line, # for comments.
-# run 4: the first run that should actually land. The previous three were
-# killed by cancel-in-progress or lost their commit to a push race; both are
-# fixed, and the corpus is now uploaded as an artifact regardless.
+# run 6: 19 sources including the big rooms (DR Koncerthuset, ALICE, Train,
+# Pumpehuset), and the first run where enrichment can actually reach
+# MusicBrainz — the previous four resolved nothing because politeFetch applied
+# a website's crawl rules to a documented API, and continue-on-error reported
+# it as green.
