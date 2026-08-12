@@ -34,6 +34,8 @@ one entry in `pipeline/sources.json` rather than new code:
 | `sitemap-jsonld` | the sitemap enumerates event pages, each carrying JSON-LD | Stengade lists 227 `/show/` pages |
 | `wp-rest` | the WordPress REST API's event post type | eleven Danish venues expose one; five share a plugin |
 | `next-data` | the Next.js hydration payload | VEGA publishes no structured markup at all, but `__NEXT_DATA__` carries more than JSON-LD would |
+| `html-event` | an ordinary event page, read the way a person reads it | The big rooms publish nothing structured. DR Koncerthuset's 574 calendar pages have og:title and a Danish date in the text, and nothing else |
+| `ticketmaster` | the Discovery API, **switched off** | The only free self-service worldwide source. Needs a key, a repository variable, and a read of their caching terms first |
 
 Re-derive what is actually covered:
 
@@ -136,13 +138,25 @@ are deliberate:
 
 Stated plainly, because the failure modes here are not obvious from using it.
 
-**Coverage is partial, and skewed.** Fourteen Danish venues, and they are the
-ones whose websites happened to be machine-readable — not the ones that matter
-most. Pumpehuset, Amager Bio, ALICE, Train and Royal Arena are all missing.
-Anyone reading this list as "the concerts in Denmark" is reading it wrong; the
-footer says which venues it covers for exactly that reason.
+**Coverage is partial, and it is skewed by how a website is built rather than
+by how good the venue is.** The venues that publish structured data get covered;
+the ones that render their programme in JavaScript do not, however important
+they are. Royal Arena, Parken, Amager Bio, Forum and Musikhuset Aarhus serve no
+event URLs at all in their HTML — 60 links on Royal Arena's events page, every
+one of them a JavaScript chunk — so they are absent, and `pipeline/sources.json`
+records that reason against each of them. Parken's concerts sell through Live
+Nation, so they would arrive through the Ticketmaster adapter rather than
+through a crawler. Anyone reading this list as "the concerts in Denmark" is
+reading it wrong, and the footer names the venues it covers for that reason.
 
-**Dates are read from Danish prose for eleven venues.** They publish no date
+**Europe is not covered by crawling, and cannot be.** Twenty major European
+venues were probed on 2026-08-12 — Berghain, Paradiso, Melkweg, Debaser,
+Rockefeller, Tavastia, Razzmatazz and thirteen more. **Not one publishes
+schema.org event data.** Crawling three hundred European venues by hand is not
+a plan, which is why the Europe and world filters are honest about showing only
+what is covered until the Ticketmaster adapter is switched on.
+
+**Dates are read from Danish prose for most venues.** They publish no date
 field, so `pipeline/lib/dkdate.mjs` reads "Onsdag 11. november 2026" or
 "11.11.26" out of the page text. When the year is missing it guesses forward.
 That is right for a programme page and wrong for anything else, and it is the
