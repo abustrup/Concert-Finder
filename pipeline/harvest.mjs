@@ -53,8 +53,10 @@ async function main() {
   const allowEmpty = argv.includes('--allow-empty')
 
   const registry = JSON.parse(await readFile('pipeline/sources.json', 'utf8'))
-  let sources = registry.sources
-  if (only) sources = sources.filter((s) => only.includes(s.id))
+  // A source with enabled:false stays in the registry so its configuration and
+  // its reason are visible, but never runs unless asked for by name.
+  let sources = registry.sources.filter((s) => s.enabled !== false)
+  if (only) sources = registry.sources.filter((s) => only.includes(s.id))
   if (limitOverride) {
     sources = sources.map((s) => ({ ...s, config: { ...s.config, limit: limitOverride, maxPages: 1 } }))
   }

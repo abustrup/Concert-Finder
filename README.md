@@ -92,3 +92,30 @@ official seller.
 
 Typeface: [Space Grotesk](https://github.com/floriankarsten/space-grotesk),
 SIL Open Font License, self-hosted.
+
+## What is left for you
+
+Four things this could not decide on its own.
+
+**Turning on GitHub Pages.** The site is built and committed at `docs/index.html`;
+serving it publicly is a publishing decision, so it is yours. Settings → Pages →
+Source: *Deploy from a branch* → Branch: `main`, folder `/docs`.
+
+**Europe and the world.** `pipeline/adapters/ticketmaster.mjs` is written and
+registered but switched off. It needs a free self-service key from
+developer.ticketmaster.com as the Actions secret `TICKETMASTER_API_KEY`, and it
+needs someone to read their Terms of Use — specifically the caching section —
+because a public repository is durable republication rather than a cache, and
+that is a judgement about somebody else's terms rather than a setting. Until
+then the region filter honestly shows only what is covered.
+
+**Kultunaut.** Denmark's cultural events database holds roughly 136,000 events
+and has no open API: access is a licensed partner feed you get by asking
+(datanaut.kultunaut.dk). One email is worth more than any scraper here, and the
+pitch is unusually strong — non-commercial, static, listening history never
+leaving the browser, every link pointing back at them. That is an outreach
+decision, so it is yours.
+
+**The venues that say no.** Hotel Cecil, Bremen Teater and Godset disallow
+crawling in `robots.txt` and are therefore absent. Asking them directly is the
+only route in, and it is a conversation rather than a code change.

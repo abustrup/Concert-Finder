@@ -13,7 +13,7 @@
 
 import { readFile } from 'node:fs/promises'
 
-const KNOWN_ADAPTERS = new Set(['jsonld-page', 'sitemap-jsonld', 'wp-rest', 'next-data'])
+const KNOWN_ADAPTERS = new Set(['jsonld-page', 'sitemap-jsonld', 'wp-rest', 'next-data', 'ticketmaster'])
 
 function checkEvent(e, ctx) {
   const bad = []

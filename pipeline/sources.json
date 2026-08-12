@@ -197,6 +197,37 @@
         "postType": "arrangement"
       },
       "why": "recon: post type 'arrangementer' with rest_base 'arrangement'"
+    },
+    {
+      "id": "ticketmaster",
+      "name": "Ticketmaster Discovery",
+      "city": null,
+      "country": "XX",
+      "adapter": "ticketmaster",
+      "enabled": false,
+      "config": {
+        "countries": [
+          "DK",
+          "SE",
+          "NO",
+          "DE",
+          "NL",
+          "GB",
+          "FR",
+          "ES",
+          "IT",
+          "BE",
+          "PL",
+          "AT",
+          "CH",
+          "IE",
+          "PT",
+          "FI",
+          "US"
+        ],
+        "months": 12
+      },
+      "why": "The only free, self-service, worldwide source that explicitly covers DK/SE/NO/DE. OFF until someone sets TICKETMASTER_API_KEY and ENABLE_TICKETMASTER, and reads their caching terms first — see the header of pipeline/adapters/ticketmaster.mjs. Never executed: the sandbox that wrote it had no key and no network."
     }
   ],
   "excluded": [
