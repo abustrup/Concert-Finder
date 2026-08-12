@@ -342,6 +342,7 @@ async function main() {
     ['venue', cfg.venues_dk],
     ['festival', cfg.festivals_dk],
     ['aggregator', cfg.aggregators],
+    ['venue-eu', cfg.venues_eu || []],
   ].filter(([kind]) => !only || only === kind)
 
   const report = {
