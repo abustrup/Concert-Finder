@@ -16,6 +16,14 @@ import { existsSync } from 'node:fs'
 // against, so what ships is what was tested.
 const MODULES = ['src/text.mjs', 'src/unzip.mjs', 'src/taste.mjs', 'src/recommend.mjs']
 
+const hostOf = (u) => {
+  try {
+    return new URL(u).host.replace(/^www\./, '')
+  } catch {
+    return null
+  }
+}
+
 /** Flatten an ES module for inlining: drop its imports, unwrap its exports. */
 function flatten(source, file) {
   const lines = source.split('\n')
@@ -73,6 +81,14 @@ async function main() {
     tags: e.tags?.length ? e.tags : undefined,
     isTribute: e.isTribute || undefined,
     isFestival: e.isFestival || undefined,
+    // Provenance travels to the page, not just to the validator. A reader who
+    // wants to know where a listing came from should be able to see it on the
+    // card and click through to the venue's own page for the authoritative
+    // version, rather than take our word for the date.
+    src: {
+      host: hostOf(e.source?.sourceUrl),
+      at: (e.source?.fetchedAt || '').slice(0, 10),
+    },
   }))
 
   const css = await readFile('site/style.css', 'utf8')

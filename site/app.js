@@ -470,11 +470,15 @@ function renderSpine(picks, window_) {
   }
 
   spine.innerHTML = all
-    .map((k) => {
+    .map((k, i) => {
       const list = byMonth.get(k) || []
       const [y, m] = k.split('-').map(Number)
+      // The year only where it changes. Repeating it on all thirteen rows is
+      // noise, and it was what made the two-line label overflow into the row
+      // below on empty months.
+      const showYear = i === 0 || m === 1
       return `<div class="month${list.length ? '' : ' empty'}">
-        <div class="month-label"><b>${esc(STR[lang].months[m - 1])}</b>${y}</div>
+        <div class="month-label"><b>${esc(STR[lang].months[m - 1])}</b>${showYear ? `<i>${y}</i>` : ''}</div>
         ${list.map(pickHtml).join('')}
       </div>`
     })
@@ -484,7 +488,6 @@ function renderSpine(picks, window_) {
 function pickHtml(p) {
   const e = p.event
   const { day, month, dow } = fmtDate(e.startDate)
-  const href = e.ticketUrl || e.url || '#'
   const venue = [e.venue?.name, e.venue?.city].filter(Boolean).join(', ')
   const price =
     e.price?.amount != null
@@ -498,21 +501,49 @@ function pickHtml(p) {
   else if (p.best?.kind === 'direct') chips.push(`<span class="chip">${esc(t('yourArtist'))}</span>`)
   if (e.isFestival) chips.push(`<span class="chip">${esc(t('festival'))}</span>`)
 
-  return `<a class="pick${p.discovery ? ' disc' : ''}" href="${esc(href)}" target="_blank" rel="noopener">
+  // Both links, always, whenever both exist. The ticket link is what a person
+  // came for; the venue's own page is the authority on the date, the time and
+  // whether it is still happening. We are a shortlist, not a source of truth,
+  // and the card should say so by pointing at the source.
+  const links = []
+  if (e.ticketUrl) {
+    links.push(
+      `<a class="tick" href="${esc(e.ticketUrl)}" target="_blank" rel="noopener nofollow">${esc(t('tickets'))}</a>`
+    )
+  }
+  if (e.url && e.url !== e.ticketUrl) {
+    links.push(
+      `<a class="tick sec" href="${esc(e.url)}" target="_blank" rel="noopener">${esc(t('venuePage'))}</a>`
+    )
+  }
+
+  const titleHref = e.url || e.ticketUrl
+  const title = titleHref
+    ? `<a class="pick-title" href="${esc(titleHref)}" target="_blank" rel="noopener">${esc(e.title)}</a>`
+    : esc(e.title)
+
+  return `<article class="pick${p.discovery ? ' disc' : ''}">
     <div class="pick-date">
       <b>${day}</b><span>${esc(STR[lang].days[dow])} ${esc(STR[lang].months[month])}</span>
     </div>
     <div class="pick-main">
-      <h3>${esc(e.title)}</h3>
+      <h3>${title}</h3>
       <p class="pick-meta">${esc(venue)}${e.startTime ? `<span class="dot">·</span>${esc(e.startTime)}` : ''}</p>
       <p class="why">${esc(lang === 'da' ? p.whyDa : p.why)}</p>
+      ${
+        e.src?.host
+          ? `<p class="prov">${esc(lang === 'da' ? 'Kilde' : 'Listed by')} <b>${esc(e.src.host)}</b>${
+              e.src.at ? `<span class="dot">·</span>${esc(lang === 'da' ? 'hentet' : 'checked')} ${esc(e.src.at)}` : ''
+            }</p>`
+          : ''
+      }
     </div>
     <div class="pick-side">
       ${chips.join('')}
       ${price ? `<span class="price">${esc(price)}</span>` : ''}
-      <span class="tick">${esc(e.ticketUrl ? t('tickets') : t('venuePage'))}</span>
+      <span class="pick-links">${links.join('')}</span>
     </div>
-  </a>`
+  </article>`
 }
 
 function renderMethod(d) {

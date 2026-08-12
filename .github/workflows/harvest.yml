@@ -15,9 +15,12 @@ on:
   push:
     branches: ['claude/**']
     paths:
-      - 'pipeline/**'
-      - '.github/workflows/harvest.yml'
+      # Deliberately NOT all of pipeline/: a crawl takes tens of minutes and
+      # touching the build script or a doc should not start one. Touch
+      # .github/harvest-args to run it on demand.
       - '.github/harvest-args'
+      - 'pipeline/sources.json'
+      - 'pipeline/adapters/**'
 
 permissions:
   contents: write
