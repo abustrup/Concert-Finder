@@ -19,6 +19,7 @@ import { bestEventDate } from '../lib/dkdate.mjs'
 import { looksLikeTribute, splitCredits } from '../../src/text.mjs'
 import { nextData } from './nextdata.mjs'
 import { ticketmaster } from './ticketmaster.mjs'
+import { htmlEvent } from './htmlevent.mjs'
 
 const nowIso = () => new Date().toISOString()
 
@@ -280,6 +281,7 @@ async function wpRest(source) {
 
 export const ADAPTERS = {
   'next-data': nextData,
+  'html-event': htmlEvent,
   ticketmaster,
   'jsonld-page': jsonldPage,
   'sitemap-jsonld': sitemapJsonld,

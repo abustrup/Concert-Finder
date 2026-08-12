@@ -228,6 +228,80 @@
         "months": 12
       },
       "why": "The only free, self-service, worldwide source that explicitly covers DK/SE/NO/DE. OFF until someone sets TICKETMASTER_API_KEY and ENABLE_TICKETMASTER, and reads their caching terms first — see the header of pipeline/adapters/ticketmaster.mjs. Never executed: the sandbox that wrote it had no key and no network."
+    },
+    {
+      "id": "koncerthuset",
+      "name": "DR Koncerthuset",
+      "city": "København",
+      "country": "DK",
+      "capacity": 1800,
+      "adapter": "html-event",
+      "config": {
+        "host": "drkoncerthuset.dk",
+        "sitemap": "https://www.drkoncerthuset.dk/sitemap.xml",
+        "urlPattern": "/kalender/",
+        "limit": 320
+      },
+      "why": "inspect 2026-08-12: no JSON-LD and no Next payload, but the sitemap lists 574 /kalender/ pages and each carries og:title plus a Danish date ('17. januar 2026') the extractor reads at 0.95 confidence"
+    },
+    {
+      "id": "alice",
+      "name": "ALICE",
+      "city": "København",
+      "country": "DK",
+      "capacity": 300,
+      "adapter": "html-event",
+      "config": {
+        "host": "alicecph.com",
+        "listingPages": [
+          "/"
+        ],
+        "linkPattern": [
+          "/event/"
+        ],
+        "limit": 140
+      },
+      "why": "inspect: 45 /event/ links on the front page"
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "city": "Aarhus",
+      "country": "DK",
+      "capacity": 1000,
+      "adapter": "html-event",
+      "config": {
+        "host": "train.dk",
+        "listingPages": [
+          "/",
+          "/kalender/"
+        ],
+        "linkPattern": [
+          "/kalender/"
+        ],
+        "limit": 120
+      },
+      "why": "inspect: /kalender/<slug> event links on the front page"
+    },
+    {
+      "id": "pumpehuset",
+      "name": "Pumpehuset",
+      "city": "København",
+      "country": "DK",
+      "capacity": 600,
+      "adapter": "html-event",
+      "config": {
+        "host": "pumpehuset.dk",
+        "listingPages": [
+          "/program",
+          "/koncerter"
+        ],
+        "linkPattern": [
+          "/koncerter/"
+        ],
+        "limit": 160
+      },
+      "why": "inspect: their own event pages are /koncerter/<slug>; the /event/ links on the page are Livenation and Billetlugen ticket URLs"
     }
   ],
   "excluded": [
@@ -284,11 +358,6 @@
       "checked": "2026-08-12"
     },
     {
-      "id": "koncerthuset",
-      "reason": "no JSON-LD, no Next payload; would need bespoke HTML parsing",
-      "checked": "2026-08-12"
-    },
-    {
       "id": "strom",
       "reason": "one JSON-LD block per page but no Event node",
       "checked": "2026-08-12"
@@ -296,6 +365,31 @@
     {
       "id": "roskilde",
       "reason": "programme pages are undated artist profiles; the 2027 lineup carries no per-artist date until the schedule is published",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "royal-arena",
+      "reason": "front page and /events render entirely client-side: 60 links, all /_next/ chunks, no event URLs and no dates in the served HTML",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "parken",
+      "reason": "no event listing on the served HTML at parken.dk; /events and /arrangementer both 404. Their concerts are sold through Live Nation and would come in via the Ticketmaster adapter",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "amager-bio",
+      "reason": "/program serves no event links in the HTML; the listing is fetched by JavaScript",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "forum",
+      "reason": "no event listing in the served HTML",
+      "checked": "2026-08-12"
+    },
+    {
+      "id": "musikhuset-aarhus",
+      "reason": "every path returns the same 159KB shell; the site is a single-page app",
       "checked": "2026-08-12"
     }
   ]
