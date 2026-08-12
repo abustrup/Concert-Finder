@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-08-12T20:19:24.631Z",
-  "runner": "github-actions/31636923783",
+  "generatedAt": "2026-08-12T20:38:22.543Z",
+  "runner": "github-actions/31637786939",
   "window": {
     "from": "2026-08-12",
     "to": "2027-09-16",
     "horizonDays": 400
   },
   "counts": {
-    "events": 237,
-    "sources": 23,
-    "sourcesWithEvents": 12,
-    "artists": 329,
-    "venues": 12,
-    "withTicketUrl": 89,
-    "tributeFlagged": 1
+    "events": 1606,
+    "sources": 15,
+    "sourcesWithEvents": 14,
+    "artists": 1857,
+    "venues": 14,
+    "withTicketUrl": 159,
+    "tributeFlagged": 14
   },
   "dropped": {
-    "past": 79,
-    "beyondHorizon": 1,
-    "cancelled": 0,
-    "duplicate": 3
+    "past": 815,
+    "beyondHorizon": 9,
+    "cancelled": 1,
+    "duplicate": 56
   },
   "http": {
-    "requests": 132,
-    "bytes": 40298312,
+    "requests": 2441,
+    "bytes": 306921362,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -58,14 +58,14 @@
       "id": "vega",
       "name": "VEGA",
       "city": "København",
-      "adapter": "sitemap-jsonld",
+      "adapter": "next-data",
       "host": "vega.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
+      "raw": 67,
+      "kept": 66,
+      "fetched": 1,
+      "discovered": 0,
       "rejects": {
-        "no-jsonld-event": 8
+        "http-404": 1
       },
       "error": null
     },
@@ -75,40 +75,12 @@
       "city": "København",
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
-      "raw": 8,
-      "kept": 8,
-      "fetched": 8,
-      "discovered": 8,
-      "rejects": {},
-      "error": null
-    },
-    {
-      "id": "koncerthuset",
-      "name": "DR Koncerthuset",
-      "city": "København",
-      "adapter": "sitemap-jsonld",
-      "host": "drkoncerthuset.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
+      "raw": 249,
+      "kept": 45,
+      "fetched": 250,
+      "discovered": 250,
       "rejects": {
-        "no-jsonld-event": 8
-      },
-      "error": null
-    },
-    {
-      "id": "tivoli",
-      "name": "Tivoli",
-      "city": "København",
-      "adapter": "sitemap-jsonld",
-      "host": "tivoli.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
-      "rejects": {
-        "no-jsonld-event": 8
+        "non-musical": 1
       },
       "error": null
     },
@@ -116,104 +88,15 @@
       "id": "roskilde",
       "name": "Roskilde Festival",
       "city": "Roskilde",
-      "adapter": "sitemap-jsonld",
+      "adapter": "next-data",
       "host": "roskilde-festival.dk",
       "raw": 0,
       "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
+      "fetched": 179,
+      "discovered": 178,
       "rejects": {
-        "no-jsonld-event": 8
+        "no-next-events": 179
       },
-      "error": null
-    },
-    {
-      "id": "jelling",
-      "name": "Jelling Musikfestival",
-      "city": "Jelling",
-      "adapter": "sitemap-jsonld",
-      "host": "jellingmusikfestival.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 1,
-      "discovered": 8,
-      "rejects": {
-        "no-jsonld-event": 1,
-        "http-404": 7
-      },
-      "error": null
-    },
-    {
-      "id": "strom",
-      "name": "Strøm",
-      "city": "København",
-      "adapter": "sitemap-jsonld",
-      "host": "stromcph.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
-      "rejects": {
-        "no-jsonld-event": 8
-      },
-      "error": null
-    },
-    {
-      "id": "distortion",
-      "name": "Distortion",
-      "city": "København",
-      "adapter": "sitemap-jsonld",
-      "host": "cphdistortion.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
-      "rejects": {
-        "no-jsonld-event": 8
-      },
-      "error": null
-    },
-    {
-      "id": "stars",
-      "name": "Stars",
-      "city": "Vordingborg",
-      "adapter": "sitemap-jsonld",
-      "host": "stars.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 6,
-      "discovered": 6,
-      "rejects": {
-        "no-jsonld-event": 6
-      },
-      "error": null
-    },
-    {
-      "id": "jyske-bank-boxen",
-      "name": "Jyske Bank Boxen",
-      "city": "Herning",
-      "adapter": "sitemap-jsonld",
-      "host": "mch.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 8,
-      "discovered": 8,
-      "rejects": {
-        "no-jsonld-event": 8
-      },
-      "error": null
-    },
-    {
-      "id": "rust",
-      "name": "Rust",
-      "city": "København",
-      "adapter": "wp-rest",
-      "host": "rust.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 0,
-      "discovered": null,
-      "rejects": {},
       "error": null
     },
     {
@@ -222,13 +105,11 @@
       "city": "Aarhus",
       "adapter": "wp-rest",
       "host": "voxhall.dk",
-      "raw": 97,
-      "kept": 46,
-      "fetched": 100,
+      "raw": 435,
+      "kept": 86,
+      "fetched": 435,
       "discovered": null,
-      "rejects": {
-        "no-event-date": 3
-      },
+      "rejects": {},
       "error": null
     },
     {
@@ -237,13 +118,11 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 10,
-      "kept": 7,
+      "raw": 87,
+      "kept": 84,
       "fetched": 87,
       "discovered": null,
-      "rejects": {
-        "no-event-date": 77
-      },
+      "rejects": {},
       "error": null
     },
     {
@@ -252,12 +131,11 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "dexter.dk",
-      "raw": 6,
-      "kept": 5,
-      "fetched": 100,
+      "raw": 144,
+      "kept": 140,
+      "fetched": 146,
       "discovered": null,
       "rejects": {
-        "no-event-date": 92,
         "non-musical": 2
       },
       "error": null
@@ -268,13 +146,12 @@
       "city": "Aalborg",
       "adapter": "wp-rest",
       "host": "skraaen.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 100,
+      "raw": 482,
+      "kept": 359,
+      "fetched": 500,
       "discovered": null,
       "rejects": {
-        "no-event-date": 95,
-        "non-musical": 5
+        "non-musical": 18
       },
       "error": null
     },
@@ -284,13 +161,11 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "tobakken.dk",
-      "raw": 10,
-      "kept": 8,
+      "raw": 59,
+      "kept": 55,
       "fetched": 59,
       "discovered": null,
-      "rejects": {
-        "no-event-date": 49
-      },
+      "rejects": {},
       "error": null
     },
     {
@@ -299,13 +174,12 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 13,
-      "kept": 6,
-      "fetched": 100,
+      "raw": 175,
+      "kept": 172,
+      "fetched": 185,
       "discovered": null,
       "rejects": {
-        "no-event-date": 78,
-        "non-musical": 9
+        "non-musical": 10
       },
       "error": null
     },
@@ -315,12 +189,11 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 9,
-      "kept": 3,
+      "raw": 89,
+      "kept": 84,
       "fetched": 96,
       "discovered": null,
       "rejects": {
-        "no-event-date": 80,
         "non-musical": 7
       },
       "error": null
@@ -331,13 +204,12 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 7,
-      "kept": 5,
-      "fetched": 100,
+      "raw": 132,
+      "kept": 124,
+      "fetched": 136,
       "discovered": null,
       "rejects": {
-        "no-event-date": 90,
-        "non-musical": 3
+        "non-musical": 4
       },
       "error": null
     },
@@ -347,13 +219,12 @@
       "city": "Vejle",
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
-      "raw": 8,
-      "kept": 8,
-      "fetched": 100,
+      "raw": 145,
+      "kept": 141,
+      "fetched": 152,
       "discovered": null,
       "rejects": {
-        "no-event-date": 89,
-        "non-musical": 3
+        "non-musical": 7
       },
       "error": null
     },
@@ -363,16 +234,15 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 78,
-      "kept": 68,
-      "fetched": 100,
+      "raw": 349,
+      "kept": 177,
+      "fetched": 365,
       "discovered": null,
       "rejects": {
-        "non-musical": 7,
-        "no-event-date": 15
+        "non-musical": 16
       },
       "error": null
     }
   ],
-  "elapsedSeconds": 79
+  "elapsedSeconds": 609
 }
