@@ -35,7 +35,15 @@
 
 :root {
   --accent: #ff3d2e;
-  --accent-ink: #ffffff;
+  /* Text ON the accent. White was 3.52:1 against this scarlet, which fails
+     WCAG AA for normal text; near-black is 5.38:1 and, on a poster-red button,
+     looks more deliberate anyway. */
+  --accent-ink: #12100f;
+  /* The accent used AS text. On the dark ground the scarlet itself is 5.47:1
+     and fine. On warm paper it is only 3.32:1, so light mode gets a darker
+     variant of the same hue at 4.69:1. Same colour, same meaning, legible in
+     both. */
+  --accent-text: #d62b1a;
   --accent-dim: #c72a1e;
 
   /* Light is the fallback definition; dark overrides below. Neither is an
@@ -81,6 +89,7 @@
     --line: rgba(244, 242, 239, 0.13);
     --line-strong: rgba(244, 242, 239, 0.3);
     --shadow: none;
+    --accent-text: #ff3d2e;
   }
 }
 
@@ -94,6 +103,7 @@
   --line: rgba(244, 242, 239, 0.13);
   --line-strong: rgba(244, 242, 239, 0.3);
   --shadow: none;
+  --accent-text: #ff3d2e;
 }
 
 /* ------------------------------------------------------------------ base --- */
@@ -174,8 +184,7 @@ button {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in srgb, var(--bg) 88%, transparent);
-  backdrop-filter: blur(14px);
+  background: var(--bg);
   border-bottom: 1px solid var(--line);
 }
 
@@ -253,7 +262,7 @@ button {
   font-size: 12px;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  color: var(--accent);
+  color: var(--accent-text);
   font-weight: 600;
   margin-bottom: var(--s4);
 }
@@ -269,7 +278,7 @@ button {
 
 .hero h1 em {
   font-style: normal;
-  color: var(--accent);
+  color: var(--accent-text);
 }
 
 .lede {
@@ -398,8 +407,7 @@ textarea.field {
   position: sticky;
   top: 57px;
   z-index: 30;
-  background: color-mix(in srgb, var(--bg) 92%, transparent);
-  backdrop-filter: blur(14px);
+  background: var(--bg);
   border-bottom: 1px solid var(--line);
   padding: var(--s3) 0;
 }
@@ -501,7 +509,7 @@ input[type='range']::-moz-range-thumb {
   font-weight: 700;
   line-height: 0.82;
   letter-spacing: -0.05em;
-  color: var(--accent);
+  color: var(--accent-text);
 }
 
 .summary .said {
@@ -713,8 +721,8 @@ input[type='range']::-moz-range-thumb {
   white-space: nowrap;
 }
 .chip.acc {
-  border-color: var(--accent);
-  color: var(--accent);
+  border-color: var(--accent-text);
+  color: var(--accent-text);
 }
 
 .price {
@@ -733,7 +741,7 @@ input[type='range']::-moz-range-thumb {
   text-decoration: none;
 }
 .tick:hover {
-  color: var(--accent);
+  color: var(--accent-text);
 }
 /* The venue's own page is the authority but not the call to action. */
 .tick.sec {
@@ -1473,7 +1481,18 @@ const SHAPES = [
     id: 'spotify-classic',
     label: 'Spotify streaming history',
     test: (o) => 'msPlayed' in o && 'artistName' in o,
-    read: (o) => ({ artist: o.artistName, track: o.trackName, ms: Number(o.msPlayed) || 0, at: o.endTime || null }),
+    // endTime is "2020-01-09 15:15": UTC, but with no marker, so JavaScript
+    // reads it as LOCAL time and every play lands one or two hours out for a
+    // Danish user. Only matters at the margin of the recency decay, and it is
+    // one line to be right.
+    read: (o) => ({
+      artist: o.artistName,
+      track: o.trackName,
+      ms: Number(o.msPlayed) || 0,
+      at: typeof o.endTime === 'string' && /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/.test(o.endTime)
+        ? o.endTime.replace(' ', 'T') + ':00Z'
+        : o.endTime || null,
+    }),
   },
   {
     id: 'spotify-marquee',
@@ -2327,7 +2346,7 @@ const STR = {
     w3p: 'Twenty artists you like, typed in. Rougher than an export, and enough to be useful straight away.',
     w3t: 'No account of any kind',
     privH: 'Your listening history is read on your own device.',
-    privP: 'This is a static page. There is no server to send anything to, no account, no analytics and no third-party script. The file you drop in is opened by code running in your browser and is gone when you close the tab.',
+    privP: 'This is a static page. There is no server to send anything to, no account, no analytics and no third-party script. The file you drop in is opened by code running in your browser and is gone when you close the tab. Worth knowing: a Spotify export contains your IP addresses. This page reads the artist, the track and the timestamp, and nothing else.',
     cCount: 'Nights',
     cWhere: 'Where',
     cRoom: 'Rooms',
@@ -2390,7 +2409,7 @@ const STR = {
     w3p: 'Tyve kunstnere du kan lide, skrevet ind. Grovere end en eksport, og nok til at være brugbart med det samme.',
     w3t: 'Ingen konto overhovedet',
     privH: 'Din lyttehistorik læses på din egen enhed.',
-    privP: 'Det her er en statisk side. Der er ingen server at sende noget til, ingen konto, ingen analytics og ingen tredjepartsscripts. Filen du lægger ind, åbnes af kode i din browser og er væk, når du lukker fanen.',
+    privP: 'Det her er en statisk side. Der er ingen server at sende noget til, ingen konto, ingen analytics og ingen tredjepartsscripts. Filen du lægger ind, åbnes af kode i din browser og er væk, når du lukker fanen. Værd at vide: en Spotify-eksport indeholder dine IP-adresser. Siden læser kunstner, titel og tidspunkt, og intet andet.',
     cCount: 'Aftener',
     cWhere: 'Hvor',
     cRoom: 'Rum',

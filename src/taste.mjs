@@ -37,7 +37,18 @@ const SHAPES = [
     id: 'spotify-classic',
     label: 'Spotify streaming history',
     test: (o) => 'msPlayed' in o && 'artistName' in o,
-    read: (o) => ({ artist: o.artistName, track: o.trackName, ms: Number(o.msPlayed) || 0, at: o.endTime || null }),
+    // endTime is "2020-01-09 15:15": UTC, but with no marker, so JavaScript
+    // reads it as LOCAL time and every play lands one or two hours out for a
+    // Danish user. Only matters at the margin of the recency decay, and it is
+    // one line to be right.
+    read: (o) => ({
+      artist: o.artistName,
+      track: o.trackName,
+      ms: Number(o.msPlayed) || 0,
+      at: typeof o.endTime === 'string' && /^\d{4}-\d{2}-\d{2} \d{2}:\d{2}$/.test(o.endTime)
+        ? o.endTime.replace(' ', 'T') + ':00Z'
+        : o.endTime || null,
+    }),
   },
   {
     id: 'spotify-marquee',

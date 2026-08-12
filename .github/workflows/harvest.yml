@@ -71,6 +71,18 @@ jobs:
         if: hashFiles('pipeline/build.mjs') != ''
         run: node pipeline/build.mjs
 
+      # A failed push must not throw away a 40-minute crawl and the artist
+      # enrichment behind it. It already did once.
+      - name: Keep the corpus even if the commit fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: corpus
+          path: |
+            data/
+            docs/index.html
+          retention-days: 14
+
       - name: Commit corpus
         run: |
           git config user.name  "concert-finder-harvest"
@@ -80,7 +92,11 @@ jobs:
             echo "no change"
           else
             git commit -m "harvest: $(node -e "const m=require('./data/harvest-meta.json');console.log(m.counts.events+' events from '+m.counts.sourcesWithEvents+' sources, '+m.generatedAt.slice(0,10))")"
-            git push origin HEAD:${{ github.ref_name }}
+            for i in 1 2 3; do
+              git pull --rebase -q origin ${{ github.ref_name }} || true
+              git push origin HEAD:${{ github.ref_name }} && break
+              sleep $((i * 5))
+            done
           fi
 
       - name: Report

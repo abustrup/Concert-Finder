@@ -1,0 +1,110 @@
+{
+  "generatedAt": "2026-08-12T21:01:47.684Z",
+  "results": [
+    {
+      "name": "a script tag in a typed artist name does not execute",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "no alert or prompt was raised",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "injected markup is escaped in the DOM",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "a hostile event title does not execute",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "8,000 typed artists still returns a list",
+      "pass": true,
+      "detail": "1242ms"
+    },
+    {
+      "name": "8,000 artists does not blow the cap",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "8,000 artists stays under 20 seconds",
+      "pass": true,
+      "detail": "1242ms"
+    },
+    {
+      "name": "junk artist names do not crash the page",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "every slider position respects its cap",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "all 2 region filters render",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "room preference does not break the list",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "switching to Danish re-renders the results",
+      "pass": true,
+      "detail": "4 koncerter fra 2026-08 → 2027-08, vi tror du fakt"
+    },
+    {
+      "name": "not-a-zip.zip: handled with a message, not a crash",
+      "pass": true,
+      "detail": "Not a zip file (no end-of-central-directory record found)"
+    },
+    {
+      "name": "empty.json: handled with a message, not a crash",
+      "pass": true,
+      "detail": "No artist names could be read from that. Try a different fil"
+    },
+    {
+      "name": "array-of-nothing.json: handled with a message, not a crash",
+      "pass": true,
+      "detail": "No artist names could be read from that. Try a different fil"
+    },
+    {
+      "name": "truncated.json: handled with a message, not a crash",
+      "pass": true,
+      "detail": "No artist names could be read from that. Try a different fil"
+    },
+    {
+      "name": "proto.json: handled with a message, not a crash",
+      "pass": true,
+      "detail": "Reading proto.json…"
+    },
+    {
+      "name": "huge-numbers.json: handled with a message, not a crash",
+      "pass": true,
+      "detail": "Reading huge-numbers.json…"
+    },
+    {
+      "name": "wrong.csv: handled with a message, not a crash",
+      "pass": true,
+      "detail": "No artist names could be read from that. Try a different fil"
+    },
+    {
+      "name": "prototype pollution did not take",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "name": "nothing left the page, at any point",
+      "pass": true,
+      "detail": ""
+    }
+  ]
+}

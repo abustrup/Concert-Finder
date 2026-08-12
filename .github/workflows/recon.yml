@@ -55,5 +55,11 @@ jobs:
             echo "no change"
           else
             git commit -m "recon: probe results $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push origin HEAD:${{ github.ref_name }}
+            # The harvest job pushes to this same branch, so a plain push loses
+            # the race whenever the two overlap. Rebase, then retry.
+            for i in 1 2 3; do
+              git pull --rebase -q origin ${{ github.ref_name }} || true
+              git push origin HEAD:${{ github.ref_name }} && break
+              sleep $((i * 5))
+            done
           fi

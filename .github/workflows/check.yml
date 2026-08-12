@@ -53,11 +53,12 @@ jobs:
           fi
           echo "no secrets found"
 
-      - name: Browser test and screenshots
+      - name: Browser test, screenshots, and trying to break it
         run: |
           npm i -D playwright@latest --no-audit --no-fund
           npx playwright install chromium --with-deps
           node test/shots.mjs
+          node test/adversarial.mjs
 
       - uses: actions/upload-artifact@v4
         if: always()

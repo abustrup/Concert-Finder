@@ -1,3 +1,4 @@
 # CLI arguments for pipeline/harvest.mjs, one per line, # for comments.
-# run 3: Danish compound filtering, postponed shows dropped, VEGA walks its
-# sitemap, Roskilde parked. First run that also enriches artists.
+# run 4: the first run that should actually land. The previous three were
+# killed by cancel-in-progress or lost their commit to a push race; both are
+# fixed, and the corpus is now uploaded as an artifact regardless.
