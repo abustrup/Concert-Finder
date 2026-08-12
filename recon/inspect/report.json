@@ -1,11 +1,42 @@
 {
-  "generatedAt": "2026-08-12T20:21:25.335Z",
+  "generatedAt": "2026-08-12T21:10:54.504Z",
   "pages": [
     {
-      "url": "https://vega.dk/event/current-joys-2026-08-17",
+      "url": "https://www.royalarena.dk/events",
       "status": 200,
-      "finalUrl": "https://vega.dk/event/current-joys-2026-08-17",
-      "bytes": 370631,
+      "finalUrl": "https://www.royalarena.dk/shows",
+      "bytes": 303055,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Kommende shows i Royal Arena",
+          "og:title": "Kommende shows | Royal Arena",
+          "og:description": "Kommende shows i Royal Arena",
+          "og:site_name": "www.royalarena.dk",
+          "og:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
+          "og:image:width": "600",
+          "og:image:height": "338",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Kommende shows | Royal Arena",
+          "twitter:description": "Kommende shows i Royal Arena",
+          "twitter:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
+          "twitter:image:width": "600",
+          "twitter:image:height": "338"
+        },
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://parken.dk/",
+      "status": 200,
+      "finalUrl": "https://parken.dk/",
+      "bytes": 18749,
       "surfaces": {
         "jsonLd": {
           "blocks": 0,
@@ -14,141 +45,53 @@
           "failed": 0,
           "sample": null
         },
-        "nextData": {
-          "present": true,
-          "topKeys": [
-            "props",
-            "page",
-            "query",
-            "buildId",
-            "isFallback",
-            "isExperimentalCompile",
-            "gssp",
-            "scriptLoader"
-          ],
-          "pagePropsKeys": [
-            "livePreviewKey",
-            "data",
-            "latestEvent",
-            "venues",
-            "genres",
-            "initialEvents",
-            "preview",
-            "previewDepth",
-            "footer",
-            "theme",
-            "locale",
-            "subsite"
-          ],
-          "bytes": 250609
-        },
-        "meta": {
-          "og:sitename": "VEGA.dk",
-          "og:locale": "da_DK",
-          "og:type": "website",
-          "og:url": "https://vega.dk/event/current-joys-2026-08-17",
-          "og:title": "Oplev Current Joys i VEGA. Køb billetter her",
-          "twitter:title": "Oplev Current Joys i VEGA. Køb billetter her",
-          "description": "Current Joys, hvis blanding af indierock, folk og singer/songwriter vækker minder om Elliott Smith og Bright Eyes, giver koncert den 17. august i Store VEGA. Køb billetter via vega.dk, smashbangpow.dk",
-          "og:description": "Current Joys, hvis blanding af indierock, folk og singer/songwriter vækker minder om Elliott Smith og Bright Eyes, giver koncert den 17. august i Store VEGA. Køb billetter via vega.dk, smashbangpow.dk",
-          "twitter:description": "Current Joys, hvis blanding af indierock, folk og singer/songwriter vækker minder om Elliott Smith og Bright Eyes, giver koncert den 17. august i Store VEGA. Køb billetter via vega.dk, smashbangpow.dk",
-          "og:image": "https://payload.vega.dk/media/2026_Kalender_CurrentJoys-1200x630.jpg",
-          "twitter:image": "https://payload.vega.dk/media/2026_Kalender_CurrentJoys-1200x630.jpg",
-          "twitter:card": "summary_large_image"
-        },
-        "microdata": [
-          "name",
-          "organizer",
-          "description",
-          "location",
-          "startDate",
-          "doorTime",
-          "offers",
-          "url",
-          "price",
-          "priceCurrency",
-          "availability",
-          "performer",
-          "eventAttendanceMode",
-          "image",
-          "contentUrl",
-          "height",
-          "width"
-        ],
-        "isoDatesOnPage": [
-          "2026-08-17",
-          "2026-08-18",
-          "2026-09-02",
-          "2026-09-19",
-          "2026-10-07",
-          "2026-08-12",
-          "2026-08-27",
-          "2026-08-28",
-          "2026-09-03",
-          "2026-09-04"
-        ]
+        "meta": {},
+        "isoDatesOnPage": []
       }
     },
     {
-      "url": "https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug",
+      "url": "https://parken.dk/events",
+      "status": 404,
+      "finalUrl": "https://parken.dk/events",
+      "bytes": 3330
+    },
+    {
+      "url": "https://www.parken.dk/arrangementer",
+      "status": 404,
+      "finalUrl": "https://www.parken.dk/arrangementer",
+      "bytes": 3334
+    },
+    {
+      "url": "https://www.drkoncerthuset.dk/kalender/",
       "status": 200,
-      "finalUrl": "https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug",
-      "bytes": 131325,
+      "finalUrl": "https://www.drkoncerthuset.dk/kalender/",
+      "bytes": 1158536,
       "surfaces": {
         "jsonLd": {
-          "blocks": 4,
-          "eventNodes": 1,
+          "blocks": 0,
+          "eventNodes": 0,
           "repaired": 0,
           "failed": 0,
-          "sample": {
-            "name": "Ecko Bazz [UG] — Spillestedet Stengade",
-            "startDate": "2026-09-11T20:00:00+0200",
-            "endDate": "2026-09-12T02:00:00+0200",
-            "image": [
-              "http://static1.squarespace.com/static/5a967f653c3a538b735efaa4/5a9ea53cec212d0cc09ee048/6a5e9d3c3a3c7321f284c1bf/1784617227450/header-eb.jpg?format=1500w"
-            ],
-            "location": {
-              "name": "Spillestedet Stengade",
-              "address": "18 Stengade\nKøbenhavn, 2200\nDenmark",
-              "@context": "http://schema.org",
-              "@type": "Place"
-            },
-            "@context": "http://schema.org",
-            "@type": "Event"
-          }
+          "sample": null
         },
         "meta": {
-          "og:site_name": "Spillestedet Stengade",
-          "og:title": "Ecko Bazz [UG] &mdash; Spillestedet Stengade",
-          "og:latitude": "55.68819",
-          "og:longitude": "12.55569509999998",
-          "og:street-address": "18 Stengade",
-          "og:locality": "København",
-          "og:region": "2200",
-          "og:country-name": "Denmark",
-          "og:url": "https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug",
-          "og:type": "website",
-          "og:description": "Follow  Facebook Event  Get Your  Tickets",
-          "og:image": "http://static1.squarespace.com/static/5a967f653c3a538b735efaa4/5a9ea53cec212d0cc09ee048/6a5e9d3c3a3c7321f284c1bf/1784617227450/header-eb.jpg?format=1500w",
-          "og:image:width": "1200",
-          "og:image:height": "628",
-          "twitter:title": "Ecko Bazz [UG] — Spillestedet Stengade",
-          "twitter:image": "http://static1.squarespace.com/static/5a967f653c3a538b735efaa4/5a9ea53cec212d0cc09ee048/6a5e9d3c3a3c7321f284c1bf/1784617227450/header-eb.jpg?format=1500w",
-          "twitter:url": "https://www.stengade.dk/show/2026/9/11/ecko-bazz-ug",
-          "twitter:card": "summary",
-          "twitter:description": "Follow  Facebook Event  Get Your  Tickets",
-          "description": " Follow  Facebook Event  Get Your  Tickets  "
+          "description": "Find koncerter og arrangementer i DR Koncerthuset. Tjek kalenderen og k&#xF8;b billetter til store musikoplevelser i K&#xF8;benhavn.",
+          "og:description": "Find koncerter og arrangementer i DR Koncerthuset. Tjek kalenderen og k&#xF8;b billetter til store musikoplevelser i K&#xF8;benhavn.",
+          "og:title": "Kalender | DR Koncerthuset | Koncerter &amp; oplevelser",
+          "og:url": "https://www.drkoncerthuset.dk/kalender/",
+          "og:image": "https://www.drkoncerthuset.dk/media/y00pyc5b/koncerthuset2_carsten-machholdt.jpg?mode=crop&width=1200&height=630&quality=80"
         },
-        "microdata": [
-          "name",
-          "url",
-          "description",
-          "thumbnailUrl",
-          "image"
-        ],
         "isoDatesOnPage": [
-          "2026-09-11",
-          "2026-09-12"
+          "2026-08-13",
+          "2026-08-14",
+          "2026-08-15",
+          "2026-08-16",
+          "2026-08-19",
+          "2026-08-21",
+          "2026-08-25",
+          "2026-08-26",
+          "2026-08-27",
+          "2026-08-29"
         ]
       }
     },
@@ -156,7 +99,7 @@
       "url": "https://www.drkoncerthuset.dk/kalender/2026/black-voices/",
       "status": 200,
       "finalUrl": "https://www.drkoncerthuset.dk/kalender/2026/black-voices/",
-      "bytes": 124354,
+      "bytes": 124294,
       "surfaces": {
         "jsonLd": {
           "blocks": 0,
@@ -185,10 +128,10 @@
       }
     },
     {
-      "url": "https://www.tivoli.dk/program/jazz-i-tivoli",
+      "url": "https://www.amagerbio.dk/program",
       "status": 200,
-      "finalUrl": "https://www.tivoli.dk/program/jazz-i-tivoli",
-      "bytes": 521128,
+      "finalUrl": "https://ab-b.dk/program",
+      "bytes": 38741,
       "surfaces": {
         "jsonLd": {
           "blocks": 1,
@@ -198,394 +141,123 @@
           "sample": null
         },
         "meta": {
-          "description": "Oplev jazz i verdensklasse i Tivoli. Nyd stemningsfulde aftener med nationale og internationale jazznavne i unikke omgivelser.",
-          "og:title": "Jazz i Tivoli – Livemusik og stemning i verdensklasse",
-          "og:description": "Oplev jazz i verdensklasse i Tivoli. Nyd stemningsfulde aftener med nationale og internationale jazznavne i unikke omgivelser.",
-          "og:image": "https://cdn.tivoli.dk/media/xxanadmd/2023_05_19_tivoli_food_festival_29.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
-          "og:image:width": "1200",
-          "og:image:height": "675",
+          "og:locale": "da_DK",
+          "og:type": "article",
+          "og:title": "program &#8211; AB&amp;B // Amager Bio &amp; Beta",
+          "og:url": "https://ab-b.dk/program/",
+          "og:site_name": "AB&amp;B // Amager Bio &amp; Beta",
+          "og:image": "https://ab-b.dk/program",
+          "og:image:width": "1891",
+          "og:image:height": "991",
+          "og:image:type": "image/jpeg",
           "twitter:card": "summary_large_image",
-          "twitter:title": "Jazz i Tivoli – Livemusik og stemning i verdensklasse",
-          "twitter:description": "Oplev jazz i verdensklasse i Tivoli. Nyd stemningsfulde aftener med nationale og internationale jazznavne i unikke omgivelser.",
-          "twitter:image": "https://cdn.tivoli.dk/media/xxanadmd/2023_05_19_tivoli_food_festival_29.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
-          "twitter:image:width": "1200",
-          "twitter:image:height": "675"
+          "twitter:site": "@amagerbio"
         },
         "isoDatesOnPage": [
-          "2024-02-14",
-          "2026-08-06",
-          "2024-05-01",
-          "2026-01-06",
-          "2024-05-17",
-          "2024-09-04",
-          "2025-04-26",
-          "2024-06-06",
-          "2025-01-04",
-          "2024-05-02"
+          "2023-08-23"
         ]
       }
     },
     {
-      "url": "https://www.roskilde-festival.dk/program/musik/the-cure",
+      "url": "https://pumpehuset.dk/program",
       "status": 200,
-      "finalUrl": "https://www.roskilde-festival.dk/program/musik/the-cure",
-      "bytes": 98074,
+      "finalUrl": "https://pumpehuset.dk/program/",
+      "bytes": 197480,
       "surfaces": {
         "jsonLd": {
-          "blocks": 0,
-          "eventNodes": 0,
-          "repaired": 0,
-          "failed": 0,
-          "sample": null
-        },
-        "nextData": {
-          "present": true,
-          "topKeys": [
-            "props",
-            "page",
-            "query",
-            "buildId",
-            "isFallback",
-            "isExperimentalCompile",
-            "dynamicIds",
-            "gssp",
-            "locale",
-            "locales",
-            "defaultLocale",
-            "scriptLoader"
-          ],
-          "pagePropsKeys": [
-            "authDescription",
-            "authTitle",
-            "categories",
-            "hideNavigation",
-            "jobDescription",
-            "jobRequirements",
-            "jobTitle",
-            "languageVersions",
-            "linkOrEmail",
-            "modules",
-            "newArticle",
-            "newInLineup",
-            "pageType",
-            "programTheme",
-            "redirect",
-            "segmentIndicator",
-            "seoFields",
-            "showOnlyDaysWithScheduledActs",
-            "signInButton",
-            "slug",
-            "sponsorLogo",
-            "volunteerPageLink",
-            "footer",
-            "mainNavigation",
-            "dictionary",
-            "injectedToken",
-            "referer",
-            "session"
-          ],
-          "bytes": 12964
-        },
-        "meta": {},
-        "isoDatesOnPage": [
-          "2026-07-01",
-          "2026-04-15"
-        ]
-      }
-    },
-    {
-      "url": "https://jellingmusikfestival.dk/program/rick-astley/",
-      "status": 404,
-      "finalUrl": "https://jellingmusikfestival.dk/program/rick-astley/",
-      "bytes": 875
-    },
-    {
-      "url": "https://www.cphdistortion.dk/event/distortion-club",
-      "status": 200,
-      "finalUrl": "https://www.cphdistortion.dk/event/distortion-club",
-      "bytes": 21908,
-      "surfaces": {
-        "jsonLd": {
-          "blocks": 0,
+          "blocks": 1,
           "eventNodes": 0,
           "repaired": 0,
           "failed": 0,
           "sample": null
         },
         "meta": {
-          "description": "View info regarding the Distortion Club event.",
-          "og:image": "https://www.cphdistortion.dk/img/open-graph-img.png",
-          "og:title": "Distortion Club - Copenhagen Distortion",
-          "og:site_name": "www.cphdistortion.dk",
+          "description": "Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik.",
+          "og:locale": "da_DK",
+          "og:type": "article",
+          "og:title": "Se hele Pumpehusets koncertprogram",
+          "og:description": "Se hele Pumpehusets koncertprogram og køb dine koncertbilletter her, hvad enten du er til hiphop, metal, pop, indie eller elektronisk musik.",
+          "og:url": "https://pumpehuset.dk/program/",
+          "og:site_name": "Pumpehuset",
+          "og:image": "https://pumpehuset.dk/wp-content/uploads/Honningbarna-fotograf-Nikolaj-Bransholm-Gonzales-Photo12.jpg",
+          "og:image:width": "2000",
+          "og:image:height": "1331",
+          "og:image:type": "image/jpeg",
+          "twitter:card": "summary_large_image",
+          "twitter:label1": "Estimeret læsetid",
+          "twitter:data1": "1 minut"
+        },
+        "isoDatesOnPage": [
+          "2026-07-22",
+          "2023-05-02"
+        ]
+      }
+    },
+    {
+      "url": "https://pumpehuset.dk/koncerter",
+      "status": 200,
+      "finalUrl": "https://pumpehuset.dk/koncerter/",
+      "bytes": 133086,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "og:locale": "da_DK",
           "og:type": "website",
-          "og:description": "View info regarding the Distortion Club event.",
-          "og:url": "https://www.cphdistortion.dk/event/distortion-club"
+          "og:title": "Koncerter Archive - Pumpehuset",
+          "og:url": "https://pumpehuset.dk/koncerter/",
+          "og:site_name": "Pumpehuset",
+          "twitter:card": "summary_large_image"
         },
         "isoDatesOnPage": []
       }
     },
     {
-      "url": "https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/",
+      "url": "https://www.forumcopenhagen.dk/",
       "status": 200,
-      "finalUrl": "https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/",
-      "bytes": 52411,
+      "finalUrl": "https://www.google.com/",
+      "bytes": 83434,
       "surfaces": {
         "jsonLd": {
-          "blocks": 1,
+          "blocks": 0,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {},
+        "microdata": [
+          "image"
+        ],
+        "isoDatesOnPage": []
+      }
+    },
+    {
+      "url": "https://train.dk/",
+      "status": 200,
+      "finalUrl": "https://train.dk/",
+      "bytes": 69964,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 0,
           "eventNodes": 0,
           "repaired": 0,
           "failed": 0,
           "sample": null
         },
         "meta": {
-          "description": "Xuri &amp; John Cleworth: A Place of Transit…",
-          "og:type": "article",
-          "og:locale": "en_GB",
-          "og:site_name": "Strøm",
-          "og:title": "Xuri &amp; John Cleworth: A Place of Transit",
-          "og:description": "Xuri &amp; John Cleworth: A Place of Transit…",
-          "og:url": "https://strm.dk/events/xuri-john-cleworth-a-place-of-transit/",
-          "og:image": "https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png",
-          "og:image:width": "512",
-          "og:image:height": "512",
-          "twitter:card": "summary_large_image",
-          "twitter:title": "Xuri &amp; John Cleworth: A Place of Transit",
-          "twitter:description": "Xuri &amp; John Cleworth: A Place of Transit…",
-          "twitter:image": "https://strm.dk/wp-content/uploads/cropped-Strom-Favicon.png"
+          "description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
+          "og:description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
+          "og:image": "/media/18349319814a3cd3488aa1789ab0b23569354f77-2000x1297.jpg?w=1200&amp;h=630&amp;fm=jpg&amp;q=80&amp;fit=crop&amp;crop=focalpoint"
         },
         "isoDatesOnPage": [
-          "2026-07-19",
-          "2026-08-10"
-        ]
-      }
-    },
-    {
-      "url": "https://tobakken.dk/wp-json/wp/v2/bwps?per_page=2",
-      "status": 200,
-      "finalUrl": "https://tobakken.dk/wp-json/wp/v2/bwps?per_page=2",
-      "bytes": 24148,
-      "json": {
-        "isArray": true,
-        "length": 2,
-        "keys": [
-          "id",
-          "date",
-          "date_gmt",
-          "guid",
-          "modified",
-          "modified_gmt",
-          "slug",
-          "status",
-          "type",
-          "link",
-          "title",
-          "content",
-          "author",
-          "featured_media",
-          "template",
-          "categories",
-          "tags",
-          "location",
-          "priority",
-          "ticketstatus",
-          "organizer",
-          "venue",
-          "class_list",
-          "acf",
-          "yoast_head",
-          "yoast_head_json",
-          "_links"
-        ]
-      }
-    },
-    {
-      "url": "https://postenlive.dk/wp-json/wp/v2/event?per_page=2",
-      "status": 200,
-      "finalUrl": "https://postenlive.dk/wp-json/wp/v2/event?per_page=2",
-      "bytes": 6868,
-      "json": {
-        "isArray": true,
-        "length": 2,
-        "keys": [
-          "id",
-          "date",
-          "date_gmt",
-          "guid",
-          "modified",
-          "modified_gmt",
-          "slug",
-          "status",
-          "type",
-          "link",
-          "title",
-          "content",
-          "featured_media",
-          "template",
-          "event_type",
-          "class_list",
-          "acf",
-          "publishpress_future_action",
-          "publishpress_future_workflow_manual_trigger",
-          "_links"
-        ]
-      }
-    },
-    {
-      "url": "https://skraaen.dk/wp-json/wp/v2/event?per_page=2",
-      "status": 200,
-      "finalUrl": "https://skraaen.dk/wp-json/wp/v2/event/?per_page=2",
-      "bytes": 1669,
-      "json": {
-        "isArray": true,
-        "length": 2,
-        "keys": [
-          "id",
-          "date",
-          "date_gmt",
-          "guid",
-          "modified",
-          "modified_gmt",
-          "slug",
-          "status",
-          "type",
-          "link",
-          "title",
-          "parent",
-          "template",
-          "_links"
-        ]
-      }
-    },
-    {
-      "url": "https://dexter.dk/wp-json/wp/v2/event?per_page=2",
-      "status": 200,
-      "finalUrl": "https://dexter.dk/wp-json/wp/v2/event?per_page=2",
-      "bytes": 6720,
-      "json": {
-        "isArray": true,
-        "length": 2,
-        "keys": [
-          "id",
-          "date",
-          "date_gmt",
-          "guid",
-          "modified",
-          "modified_gmt",
-          "slug",
-          "status",
-          "type",
-          "link",
-          "title",
-          "content",
-          "featured_media",
-          "template",
-          "event_type",
-          "class_list",
-          "acf",
-          "publishpress_future_action",
-          "publishpress_future_workflow_manual_trigger",
-          "_links"
-        ]
-      }
-    },
-    {
-      "url": "https://rust.dk/wp-json/wp/v2/event?per_page=2",
-      "status": 403,
-      "finalUrl": "https://rust.dk/wp-json/wp/v2/event?per_page=2",
-      "bytes": 5780
-    },
-    {
-      "url": "https://voxhall.dk/wp-json/wp/v2/voxhall-event?per_page=2",
-      "status": 200,
-      "finalUrl": "https://voxhall.dk/wp-json/wp/v2/voxhall-event?per_page=2",
-      "bytes": 45920,
-      "json": {
-        "isArray": true,
-        "length": 2,
-        "keys": [
-          "id",
-          "date",
-          "date_gmt",
-          "guid",
-          "modified",
-          "modified_gmt",
-          "slug",
-          "status",
-          "type",
-          "link",
-          "title",
-          "content",
-          "featured_media",
-          "parent",
-          "menu_order",
-          "template",
-          "voxhall-event-genre",
-          "class_list",
-          "acf",
-          "_links"
-        ]
-      }
-    },
-    {
-      "url": "https://pumpehuset.dk/",
-      "status": 200,
-      "finalUrl": "https://pumpehuset.dk/",
-      "bytes": 171378,
-      "surfaces": {
-        "jsonLd": {
-          "blocks": 1,
-          "eventNodes": 0,
-          "repaired": 0,
-          "failed": 0,
-          "sample": null
-        },
-        "meta": {
-          "description": "Pumpehuset i København byder på langt over 300 koncerter og musikoplevelser om året. Gå på opdagelse i koncerterne og køb billet her",
-          "og:locale": "da_DK",
-          "og:type": "website",
-          "og:title": "Pumpehuset – Koncerter og musikoplevelser i København",
-          "og:description": "Pumpehuset i København byder på langt over 300 koncerter og musikoplevelser om året. Gå på opdagelse i koncerterne og køb billet her",
-          "og:url": "https://pumpehuset.dk/",
-          "og:site_name": "Pumpehuset",
-          "og:image": "https://pumpehuset.dk/wp-content/uploads/hero-variant-2-e1687768185100.jpeg",
-          "og:image:width": "1642",
-          "og:image:height": "719",
-          "og:image:type": "image/jpeg",
-          "twitter:card": "summary_large_image"
-        },
-        "isoDatesOnPage": [
-          "2025-05-23",
-          "2023-03-07"
-        ]
-      }
-    },
-    {
-      "url": "https://www.amagerbio.dk/",
-      "status": 200,
-      "finalUrl": "https://ab-b.dk/",
-      "bytes": 251000,
-      "surfaces": {
-        "jsonLd": {
-          "blocks": 1,
-          "eventNodes": 0,
-          "repaired": 0,
-          "failed": 0,
-          "sample": null
-        },
-        "meta": {
-          "description": "Spillestederne Amager Bio og BETA byder på koncerter inden for snart sagt alle rytmiske musikgenrer med fokus på Rock, Pop, Blues, Metal, Urban og Jazz.",
-          "og:locale": "da_DK",
-          "og:type": "website",
-          "og:title": "Amager Bio - BETA 2300 - Livemusik i København",
-          "og:description": "Gennem de sidste tyve år har Amager Bio præsenteret et væld af musik inden for snart sagt alle rytmiske genrer med hovedfokus på Rock, Pop, Blues, Metal, Urban og Jazz. Stedet har haft besøg af etable",
-          "og:url": "https://ab-b.dk/",
-          "og:site_name": "AB&amp;B // Amager Bio &amp; Beta",
-          "twitter:card": "summary_large_image",
-          "twitter:site": "@amagerbio"
-        },
-        "isoDatesOnPage": [
-          "2024-18-13",
-          "2024-18-30"
+          "2026-07-31",
+          "2026-08-05"
         ]
       }
     },
@@ -617,31 +289,7 @@
       }
     },
     {
-      "url": "https://train.dk/",
-      "status": 200,
-      "finalUrl": "https://train.dk/",
-      "bytes": 69964,
-      "surfaces": {
-        "jsonLd": {
-          "blocks": 0,
-          "eventNodes": 0,
-          "repaired": 0,
-          "failed": 0,
-          "sample": null
-        },
-        "meta": {
-          "description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
-          "og:description": "Regionalt spillested i Aarhus. Præsenterer lokale, nationale og internationale musikere i absolut verdensklasse.",
-          "og:image": "/media/18349319814a3cd3488aa1789ab0b23569354f77-2000x1297.jpg?w=1200&amp;h=630&amp;fm=jpg&amp;q=80&amp;fit=crop&amp;crop=focalpoint"
-        },
-        "isoDatesOnPage": [
-          "2026-07-31",
-          "2026-08-05"
-        ]
-      }
-    },
-    {
-      "url": "https://www.musikhusetaarhus.dk/",
+      "url": "https://www.musikhusetaarhus.dk/program",
       "status": 200,
       "finalUrl": "https://www.musikhuset.dk/",
       "bytes": 159466,
@@ -680,10 +328,51 @@
       }
     },
     {
-      "url": "https://www.royalarena.dk/",
+      "url": "https://www.tivoli.dk/da/musik",
       "status": 200,
-      "finalUrl": "https://www.royalarena.dk/",
-      "bytes": 435502,
+      "finalUrl": "https://www.tivoli.dk/program/musik",
+      "bytes": 599649,
+      "surfaces": {
+        "jsonLd": {
+          "blocks": 1,
+          "eventNodes": 0,
+          "repaired": 0,
+          "failed": 0,
+          "sample": null
+        },
+        "meta": {
+          "description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "og:title": "Tivolis musik program",
+          "og:description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "og:image": "https://cdn.tivoli.dk/media/u4qn4cpm/fredagsrock-stemning-tivoli-2024-15160573.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
+          "og:image:width": "1200",
+          "og:image:height": "675",
+          "twitter:card": "summary_large_image",
+          "twitter:title": "Tivolis musik program",
+          "twitter:description": "Rundt om i Haven har du mulighed for at få en fantastisk musikoplevelse. Klik her for at se programmet og nyd den magiske lyd i Tivoli sammen med venner og familie.",
+          "twitter:image": "https://cdn.tivoli.dk/media/u4qn4cpm/fredagsrock-stemning-tivoli-2024-15160573.jpg?height=675&amp;width=1200&amp;format=jpeg&amp;quality=75",
+          "twitter:image:width": "1200",
+          "twitter:image:height": "675"
+        },
+        "isoDatesOnPage": [
+          "2024-02-14",
+          "2026-08-06",
+          "2024-05-01",
+          "2026-01-06",
+          "2024-05-17",
+          "2024-09-04",
+          "2025-04-26",
+          "2024-06-06",
+          "2025-01-04",
+          "2024-05-02"
+        ]
+      }
+    },
+    {
+      "url": "https://vega.dk/sitemap.xml",
+      "status": 200,
+      "finalUrl": "https://vega.dk/sitemap.xml",
+      "bytes": 1399217,
       "surfaces": {
         "jsonLd": {
           "blocks": 0,
@@ -692,22 +381,19 @@
           "failed": 0,
           "sample": null
         },
-        "meta": {
-          "description": "Velkommen til Royal Arena, Danmarks multiarena ",
-          "og:title": "Velkommen | Royal Arena",
-          "og:description": "Velkommen til Royal Arena, Danmarks multiarena ",
-          "og:site_name": "www.royalarena.dk",
-          "og:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
-          "og:image:width": "600",
-          "og:image:height": "338",
-          "twitter:card": "summary_large_image",
-          "twitter:title": "Velkommen | Royal Arena",
-          "twitter:description": "Velkommen til Royal Arena, Danmarks multiarena ",
-          "twitter:image": "https://networksites.livenationinternational.com/networksites/3rdj5ggh/sharing-link-logo.png",
-          "twitter:image:width": "600",
-          "twitter:image:height": "338"
-        },
-        "isoDatesOnPage": []
+        "meta": {},
+        "isoDatesOnPage": [
+          "2026-08-12",
+          "2026-08-11",
+          "2026-08-17",
+          "2026-07-15",
+          "2026-05-29",
+          "2026-08-18",
+          "2026-07-09",
+          "2026-08-27",
+          "2026-07-30",
+          "2026-09-02"
+        ]
       }
     }
   ]
