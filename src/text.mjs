@@ -134,8 +134,19 @@ const TRIBUTE_PATTERNS = [
   /\bcopycats?\b/i,
 ]
 
+// Real acts whose names contain a word this file otherwise reads as a tribute
+// marker. The Jimi Hendrix Experience is a band, not four strangers playing
+// the hits, and filtering it would be exactly the mistake this file exists to
+// prevent, pointed the other way.
+const NOT_TRIBUTES = [
+  /\bjimi\s+hendrix\s+experience\b/i,
+  /\bthe\s+experience\b\s*$/i,
+  /\bprodigy\b/i,
+]
+
 export function looksLikeTribute(name) {
   const s = String(name || '')
+  if (NOT_TRIBUTES.some((rx) => rx.test(s))) return false
   return TRIBUTE_PATTERNS.some((rx) => rx.test(s))
 }
 

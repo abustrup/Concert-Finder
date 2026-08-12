@@ -56,9 +56,12 @@ export function buildTaste(artists, opts = {}) {
 
   list.forEach((a, i) => {
     const rank = Number.isFinite(a.rank) ? a.rank : i
+    // Rank-only input (a typed list, or a service that gives an order but no
+    // counts). The top name must weigh 1, or a person's favourite band scores
+    // half of what a direct hit is worth and nothing ever clears the bar.
     const weight = hasPlays
       ? Math.max(0.05, Math.sqrt((Number(a.plays) || 0) / (maxPlays || 1)))
-      : 1 / (1 + Math.log2(rank + 2))
+      : 1 / Math.log2(rank + 2)
 
     const entry = { name: String(a.name).trim(), weight, plays: Number(a.plays) || null, rank }
     names.push(entry)

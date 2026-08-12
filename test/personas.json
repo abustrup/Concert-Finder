@@ -1,0 +1,55 @@
+{
+  "_note": "Hand-labelled ground truth, written 2026-08-12 against the real corpus. mustAppear is checked ONLY when that artist actually has an event in range — the label asserts the ranking, not the calendar. Moving a label to make a test pass is a change to what the product is for, and it shows up in the diff as one.",
+  "personas": [
+    {
+      "id": "dk-postpunk",
+      "label": "Copenhagen post-punk and noise",
+      "artists": ["Iceage", "Elias Rønnenfelt", "Communions", "Lower", "Marching Church", "Protomartyr", "Shame", "Fontaines D.C.", "Sleaford Mods", "Baby in Vain", "Lowly", "Sonic Youth", "Amyl and the Sniffers", "IDLES", "Girl Band"],
+      "mustAppear": ["Elias Rønnenfelt", "Iceage"],
+      "mustNotAppear": ["Danmarks Underholdningsorkester", "Nikolaj Stokholm", "Rasmus Seebach"],
+      "expect": { "minPicks": 3 }
+    },
+    {
+      "id": "dk-metal",
+      "label": "Danish extreme metal",
+      "artists": ["BAEST", "Cabal", "LLNN", "Hexis", "Mantar", "Gojira", "Meshuggah", "Converge", "At the Gates", "Entombed", "Bloodbath", "Dismember"],
+      "mustAppear": ["BAEST"],
+      "mustNotAppear": ["Alex Vargas", "Danmarks Underholdningsorkester", "Rikke Thomsen"],
+      "expect": { "minPicks": 1 }
+    },
+    {
+      "id": "dk-pop",
+      "label": "Danish mainstream pop",
+      "artists": ["Carpark North", "Lukas Graham", "Rasmus Seebach", "Tobias Rahim", "MØ", "Christopher", "Andreas Odbjerg", "Hjalmer", "Thomas Helmig", "Medina"],
+      "mustAppear": ["Carpark North"],
+      "mustNotAppear": ["BAEST", "Cabal", "LLNN"],
+      "expect": { "minPicks": 1 }
+    },
+    {
+      "id": "jazz-ambient",
+      "label": "Nordic jazz and modern composition",
+      "artists": ["Jakob Bro", "Cæcilie Norby", "Nils Frahm", "Arve Henriksen", "GoGo Penguin", "Bugge Wesseltoft", "Kenny Werner", "Palle Mikkelborg", "Efterklang", "Trentemøller"],
+      "mustAppear": [],
+      "mustNotAppear": ["BAEST", "Cabal"],
+      "expect": { "minPicks": 1 }
+    },
+    {
+      "id": "no-overlap",
+      "label": "US stadium pop with no Danish club presence",
+      "artists": ["Taylor Swift", "Morgan Wallen", "Zach Bryan", "Luke Combs", "Bad Bunny", "Peso Pluma", "Jelly Roll", "Post Malone"],
+      "mustAppear": [],
+      "mustNotAppear": [],
+      "expect": { "maxPicks": 6, "shouldBeShort": true },
+      "why": "The honest outcome here is a short list or none. A recommender that fills twelve slots for this taste is padding, and that is the failure this persona exists to catch."
+    },
+    {
+      "id": "empty",
+      "label": "No listening history at all",
+      "artists": [],
+      "mustAppear": [],
+      "mustNotAppear": [],
+      "expect": { "maxPicks": 0 },
+      "why": "Must return nothing and must not throw."
+    }
+  ]
+}

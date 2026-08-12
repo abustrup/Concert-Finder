@@ -150,6 +150,38 @@ async function main() {
     })
   }
 
+  // Recurring activities are not concerts, and repetition finds them better
+  // than any word list can.
+  //
+  // Culture houses programme their craft groups and club nights through the
+  // same feed as their gigs: "Læderværksted" appeared 38 times in one year,
+  // "Spil3000 — Brætspil for alle" 18, "Torsdagsgarn" 13. Catching those in
+  // Danish means guessing at Danish compound nouns forever. Catching them by
+  // asking "does this exact bill repeat at this venue most weeks?" needs no
+  // vocabulary at all and generalises to every language a venue might use.
+  //
+  // A band on a genuine residency is the false positive, so the threshold sits
+  // well above what a residency looks like, and everything removed is reported.
+  const RECUR_LIMIT = 5
+  const titleRuns = new Map()
+  for (const e of all) {
+    const k = `${e.venue.id}|${e.title.toLowerCase().replace(/\s+/g, ' ')}`
+    titleRuns.set(k, (titleRuns.get(k) || 0) + 1)
+  }
+  const recurring = [...titleRuns.entries()].filter(([, n]) => n >= RECUR_LIMIT)
+  const recurringKeys = new Set(recurring.map(([k]) => k))
+  const beforeRecur = all.length
+  const kept = all.filter(
+    (e) => !recurringKeys.has(`${e.venue.id}|${e.title.toLowerCase().replace(/\s+/g, ' ')}`)
+  )
+  dropped.recurring = beforeRecur - kept.length
+  const recurringSamples = recurring
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 20)
+    .map(([k, n]) => ({ title: k.split('|')[1].slice(0, 60), venue: k.split('|')[0], times: n }))
+  all.length = 0
+  all.push(...kept)
+
   all.sort((a, b) => a.startDate.localeCompare(b.startDate) || a.title.localeCompare(b.title))
 
   const meta = {
@@ -166,6 +198,7 @@ async function main() {
       tributeFlagged: all.filter((e) => e.isTribute).length,
     },
     dropped,
+    recurringRemoved: recurringSamples,
     http: { requests: stats.requests, bytes: stats.bytes, errors: stats.errors.length, robotsSkips: stats.robotsSkips.length },
     perSource,
     elapsedSeconds: Math.round((Date.now() - started) / 1000),

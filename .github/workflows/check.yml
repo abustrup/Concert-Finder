@@ -1,0 +1,67 @@
+name: Check
+
+# Runs on every push. Read-only: it can fail the build, it can never write.
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Unit tests
+        run: node test/run.mjs
+
+      - name: Every event carries its provenance
+        run: node pipeline/validate.mjs
+
+      - name: The shortlist does its job
+        run: node test/eval.mjs
+
+      - name: Build the page
+        run: node pipeline/build.mjs
+
+      # The page is committed so the repository is useful without a build step.
+      # That only means anything if it actually matches the data.
+      - name: Fail if the committed page is stale
+        run: |
+          if [ -n "$(git status --porcelain docs/index.html)" ]; then
+            echo "docs/index.html is out of date with data/. Run: node pipeline/build.mjs"
+            exit 1
+          fi
+
+      - name: No secrets in the tree
+        # The Spotify path is PKCE-only by design, so a client secret appearing
+        # here means someone took a shortcut that would ship a credential.
+        run: |
+          if grep -rInE "(client_secret|CLIENT_SECRET|api[_-]?key\s*[:=]\s*['\"][A-Za-z0-9]{16,})" \
+              --include='*.js' --include='*.mjs' --include='*.json' --include='*.html' \
+              --exclude-dir=node_modules --exclude-dir=.git . ; then
+            echo "possible secret committed"
+            exit 1
+          fi
+          echo "no secrets found"
+
+      - name: Browser test and screenshots
+        run: |
+          npm i -D playwright@latest --no-audit --no-fund
+          npx playwright install chromium --with-deps
+          node test/shots.mjs
+
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: screenshots
+          path: docs/screenshots/
+          retention-days: 14

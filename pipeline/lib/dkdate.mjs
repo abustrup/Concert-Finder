@@ -103,12 +103,16 @@ const LABELS = /(?:^|\b)(?:dato|date|spilledato|koncertdato|når|when|tid|dag)\b
  * always a mention of a previous edition rather than the event on sale.
  */
 export function bestEventDate(text, { today = new Date(), title = '' } = {}) {
-  const s = String(text || '')
-  const candidates = findDanishDates(`${title} ${s}`, { today })
+  // ONE string for everything. Candidate indices are offsets into the searched
+  // text, so searching the title-prefixed string and then slicing the bare one
+  // shifts every window by the length of the prefix — which silently ate the
+  // "k" of "kl. 20.00" and lost every doors time on the site.
+  const hay = `${title} ${String(text || '')}`
+  const candidates = findDanishDates(hay, { today })
   if (!candidates.length) return null
 
   const todayIso = today.toISOString().slice(0, 10)
-  const labelPositions = [...s.matchAll(LABELS)].map((m) => m.index)
+  const labelPositions = [...hay.matchAll(LABELS)].map((m) => m.index)
 
   const scored = candidates.map((c) => {
     let score = c.confidence
@@ -136,8 +140,8 @@ export function bestEventDate(text, { today = new Date(), title = '' } = {}) {
   let time = winner.time
   if (!time) {
     const start = Math.max(0, winner.index - 140)
-    const before = s.slice(start, winner.index)
-    const after = s.slice(winner.index + (winner.matched?.length || 0), winner.index + 240)
+    const before = hay.slice(start, winner.index)
+    const after = hay.slice(winner.index + (winner.matched?.length || 0), winner.index + 240)
     const near = `${before}  ${after}`
     // A colon is unambiguous. A dot only counts when a Danish clock word says
     // so, because dots are also how Danes write dates.

@@ -333,7 +333,9 @@ export async function importListening(input, { now = Date.now() } = {}) {
   const problems = []
 
   let files = []
+  let fromZip = false
   if (input instanceof ArrayBuffer || ArrayBuffer.isView(input)) {
+    fromZip = true
     const buf = input instanceof ArrayBuffer ? input : input.buffer
     const entries = openZip(buf)
     // Only the files that can possibly carry listening data, so a 300MB export
@@ -369,6 +371,10 @@ export async function importListening(input, { now = Date.now() } = {}) {
           notes.add('spreadsheet export')
           plays.push(...rows.map((r) => ({ ...r, from: 'csv' })))
         }
+      } else if (fromZip) {
+        // Inside an export, a .txt file is a readme or a licence, never a list
+        // of artists. Treating one as taste added "ignore me" to a library.
+        continue
       } else {
         // A plain list of artist names, one per line. The manual path.
         const lines = text
