@@ -12,8 +12,26 @@
 // exactly like a clean bill of health.
 
 import { readFile } from 'node:fs/promises'
+import { existsSync } from 'node:fs'
 
 const KNOWN_ADAPTERS = new Set(['jsonld-page', 'sitemap-jsonld', 'wp-rest', 'next-data', 'ticketmaster', 'html-event'])
+
+// The same list the resolver and the engine use. Kept here as a third layer on
+// purpose: the resolver decides what to fetch, the engine decides what to match
+// on, and this decides what may be committed. Losing any one of the three
+// should not be enough to ship a political label as a genre.
+const BANNED_TAG = /nsbm|national socialist|nazi|white power|fascist|supremac/i
+
+function checkArtistIndex(index) {
+  const bad = []
+  for (const [key, entry] of Object.entries(index || {})) {
+    for (const t of entry?.tags || []) {
+      const name = typeof t === 'string' ? t : t?.name
+      if (name && BANNED_TAG.test(name)) bad.push(`"${key}" carries the tag "${name}"`)
+    }
+  }
+  return bad
+}
 
 function checkEvent(e, ctx) {
   const bad = []
@@ -24,7 +42,15 @@ function checkEvent(e, ctx) {
   need(typeof e.id === 'string' && e.id.length >= 8, 'missing id')
   need(typeof e.title === 'string' && e.title.trim().length > 0, 'missing title')
   need(/^\d{4}-\d{2}-\d{2}$/.test(e.startDate || ''), 'startDate is not YYYY-MM-DD')
-  need(e.startDate >= ctx.today, `starts in the past (${e.startDate})`)
+  // Measured against the day the corpus was harvested, not the day this runs.
+  // The corpus is a snapshot: an event that was two days away on Monday has
+  // passed by Wednesday through nothing but the calendar, and checking it
+  // against today's clock turned this gate red on a tree nobody had touched.
+  // Hiding concerts that have since passed is a render-time job, and the engine
+  // already does it — it defaults `from` to today, and test/eval.mjs asserts it
+  // with a control. What belongs here is the property of the artifact: nothing
+  // was already in the past when it was written down.
+  need(e.startDate >= ctx.harvested, `was already in the past when harvested (${e.startDate})`)
   need(e.startDate <= ctx.horizon, `starts beyond the horizon (${e.startDate})`)
   need(e.status === 'scheduled', `status is ${e.status}`)
 
@@ -73,8 +99,9 @@ async function main() {
   for (const extra of ['strm.dk', 'stengade.dk', 'postenlive.dk']) hosts.add(extra)
 
   const today = new Date().toISOString().slice(0, 10)
+  const harvested = (meta.generatedAt || today).slice(0, 10)
   const horizon = meta.window?.to || '2099-01-01'
-  const ctx = { today, horizon, hosts }
+  const ctx = { today, harvested, horizon, hosts }
 
   const problems = []
   const ids = new Set()
@@ -96,6 +123,13 @@ async function main() {
   for (const c of controls) {
     if (checkEvent(c.event, ctx).length === 0) controlFailures.push(c.name)
   }
+  // Same rule for the artist index: prove the check bites before trusting it.
+  if (!checkArtistIndex({ 'some band': { tags: [{ name: 'nsbm', count: 9 }, { name: 'black metal', count: 4 }] } }).length) {
+    controlFailures.push('artist index carrying a banned tag')
+  }
+  if (checkArtistIndex({ 'some band': { tags: [{ name: 'black metal', count: 4 }] } }).length) {
+    controlFailures.push('artist index check fires on an ordinary genre (false positive)')
+  }
 
   console.log(`validating ${events.length} events from ${hosts.size} registered hosts`)
   if (controlFailures.length) {
@@ -115,7 +149,53 @@ async function main() {
     process.exit(1)
   }
 
-  console.log(`all ${events.length} events carry a source, a fetch time, a future date and a link back`)
+  console.log(
+    `all ${events.length} events carry a source, a fetch time, a link back, and a date ` +
+      `that was still ahead when the corpus was written on ${harvested}`
+  )
+
+  // Is the heartbeat still beating?
+  //
+  // Everything above can pass forever on a corpus that stopped being refreshed
+  // in March, and the site would look exactly as convincing while quietly
+  // becoming a calendar of concerts that already happened. The harvest runs
+  // weekly, so nothing here should ever be more than a few days old.
+  const ageDays = Math.floor((Date.parse(today) - Date.parse(harvested)) / 86_400_000)
+  const nowPast = events.filter((e) => e.startDate < today).length
+  console.log(
+    `corpus age: ${ageDays} day${ageDays === 1 ? '' : 's'}; ` +
+      `${nowPast} of ${events.length} listings have since passed and are hidden at read time`
+  )
+  if (ageDays > 21) {
+    console.error(
+      `\nFAIL: the corpus was last harvested ${ageDays} days ago (${harvested}).\n` +
+        'The weekly Harvest has missed at least three runs, so the site is showing a stale calendar.\n' +
+        'Check the Harvest workflow, or force a run by touching .github/harvest-args.'
+    )
+    process.exit(6)
+  }
+  if (ageDays > 10) {
+    console.error(`WARNING: the corpus is ${ageDays} days old. The weekly Harvest appears to have missed a run.`)
+  }
+
+  // The artist index is optional — a harvest that never reached MusicBrainz
+  // still produces a usable site — but if it exists it gets the same treatment.
+  if (existsSync('data/artists.json')) {
+    const index = JSON.parse(await readFile('data/artists.json', 'utf8'))
+    const badTags = checkArtistIndex(index)
+    if (badTags.length) {
+      console.error(
+        `\n${badTags.length} artist ${badTags.length === 1 ? 'entry carries' : 'entries carry'} ` +
+          'a tag the engine must never match people on:'
+      )
+      for (const b of badTags.slice(0, 20)) console.error('  ' + b)
+      console.error('This is the signature of an artist resolved to the wrong act. Do not commit it.')
+      process.exit(5)
+    }
+    console.log(`artist index: ${Object.keys(index).length} keys, none carrying a banned tag`)
+  } else {
+    console.log('artist index: none in this tree, nothing to check')
+  }
 }
 
 main().catch((e) => {
