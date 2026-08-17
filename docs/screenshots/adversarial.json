@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:12:00.631Z",
+  "generatedAt": "2026-08-17T07:09:39.611Z",
   "results": [
     {
       "name": "a script tag in a typed artist name does not execute",
@@ -24,7 +24,7 @@
     {
       "name": "8,000 typed artists still returns a list",
       "pass": true,
-      "detail": "1989ms"
+      "detail": "1918ms"
     },
     {
       "name": "8,000 artists does not blow the cap",
@@ -34,7 +34,7 @@
     {
       "name": "8,000 artists stays under 20 seconds",
       "pass": true,
-      "detail": "1989ms"
+      "detail": "1918ms"
     },
     {
       "name": "junk artist names do not crash the page",

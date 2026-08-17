@@ -1,43 +1,53 @@
 {
-  "generatedAt": "2026-08-12T21:36:36.935Z",
-  "runner": "github-actions/31641988857",
+  "generatedAt": "2026-08-17T06:08:11.441Z",
+  "runner": "github-actions/31999551306",
   "window": {
-    "from": "2026-08-12",
-    "to": "2027-09-16",
+    "from": "2026-08-17",
+    "to": "2027-09-21",
     "horizonDays": 400
   },
   "counts": {
-    "events": 1864,
+    "events": 1850,
     "sources": 18,
     "sourcesWithEvents": 18,
-    "artists": 2255,
+    "artists": 2248,
     "venues": 18,
-    "withTicketUrl": 291,
-    "tributeFlagged": 13
+    "withTicketUrl": 288,
+    "tributeFlagged": 14
   },
   "dropped": {
-    "past": 815,
+    "past": 821,
     "beyondHorizon": 9,
     "cancelled": 1,
     "postponed": 1,
-    "duplicate": 52,
-    "recurring": 92
+    "duplicate": 53,
+    "recurring": 126
   },
   "recurringRemoved": [
     {
       "title": "læderværksted",
       "venue": "sonderborghus",
-      "times": 38
+      "times": 37
+    },
+    {
+      "title": "fælleslæsning - et åndehul i hverdagen",
+      "venue": "kulturvaerftet",
+      "times": 18
     },
     {
       "title": "spil3000 - brætspil for alle",
       "venue": "kulturvaerftet",
-      "times": 18
+      "times": 17
     },
     {
       "title": "torsdagsgarn",
       "venue": "sonderborghus",
       "times": 13
+    },
+    {
+      "title": "repair café",
+      "venue": "sonderborghus",
+      "times": 10
     },
     {
       "title": "broderi-fællesskab",
@@ -50,14 +60,19 @@
       "times": 9
     },
     {
+      "title": "croquis",
+      "venue": "sonderborghus",
+      "times": 8
+    },
+    {
       "title": "instant disco",
       "venue": "kulturvaerftet",
       "times": 5
     }
   ],
   "http": {
-    "requests": 2958,
-    "bytes": 431458931,
+    "requests": 2996,
+    "bytes": 437018727,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -68,8 +83,8 @@
       "city": "København",
       "adapter": "jsonld-page",
       "host": "loppen.dk",
-      "raw": 44,
-      "kept": 44,
+      "raw": 43,
+      "kept": 43,
       "fetched": 2,
       "discovered": null,
       "rejects": {},
@@ -95,11 +110,12 @@
       "adapter": "next-data",
       "host": "vega.dk",
       "raw": 199,
-      "kept": 184,
-      "fetched": 261,
+      "kept": 185,
+      "fetched": 260,
       "discovered": 260,
       "rejects": {
-        "no-next-events": 189
+        "no-next-events": 189,
+        "http-404": 1
       },
       "error": null
     },
@@ -110,7 +126,7 @@
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
       "raw": 248,
-      "kept": 45,
+      "kept": 43,
       "fetched": 250,
       "discovered": 250,
       "rejects": {
@@ -125,7 +141,7 @@
       "adapter": "wp-rest",
       "host": "voxhall.dk",
       "raw": 435,
-      "kept": 86,
+      "kept": 85,
       "fetched": 435,
       "discovered": null,
       "rejects": {},
@@ -137,9 +153,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 87,
-      "kept": 84,
-      "fetched": 87,
+      "raw": 84,
+      "kept": 81,
+      "fetched": 84,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -150,12 +166,12 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "dexter.dk",
-      "raw": 138,
-      "kept": 134,
-      "fetched": 146,
+      "raw": 137,
+      "kept": 133,
+      "fetched": 144,
       "discovered": null,
       "rejects": {
-        "non-musical": 8,
+        "non-musical": 7,
         "_samples": {
           "non-musical": [
             "Dexters Musikquiz",
@@ -175,7 +191,7 @@
       "adapter": "wp-rest",
       "host": "skraaen.dk",
       "raw": 481,
-      "kept": 358,
+      "kept": 357,
       "fetched": 500,
       "discovered": null,
       "rejects": {
@@ -198,18 +214,11 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "tobakken.dk",
-      "raw": 58,
-      "kept": 54,
-      "fetched": 59,
+      "raw": 56,
+      "kept": 52,
+      "fetched": 56,
       "discovered": null,
-      "rejects": {
-        "non-musical": 1,
-        "_samples": {
-          "non-musical": [
-            "Ølsmagning"
-          ]
-        }
-      },
+      "rejects": {},
       "error": null
     },
     {
@@ -218,18 +227,18 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 150,
-      "kept": 147,
-      "fetched": 185,
+      "raw": 168,
+      "kept": 165,
+      "fetched": 201,
       "discovered": null,
       "rejects": {
-        "non-musical": 35,
+        "non-musical": 33,
         "_samples": {
           "non-musical": [
-            "Syfællesskab",
-            "Workshop: Båndbroderi",
             "Filmklubben Sønderborghus // Vermiglio",
             "Syfællesskab",
+            "Syfællesskab",
+            "Workshop: Pailletter & Perler",
             "Syfællesskab"
           ]
         }
@@ -242,9 +251,9 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 88,
-      "kept": 83,
-      "fetched": 96,
+      "raw": 87,
+      "kept": 81,
+      "fetched": 95,
       "discovered": null,
       "rejects": {
         "non-musical": 8,
@@ -266,9 +275,9 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 129,
-      "kept": 121,
-      "fetched": 136,
+      "raw": 130,
+      "kept": 122,
+      "fetched": 137,
       "discovered": null,
       "rejects": {
         "non-musical": 7,
@@ -290,9 +299,9 @@
       "city": "Vejle",
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
-      "raw": 144,
-      "kept": 140,
-      "fetched": 152,
+      "raw": 143,
+      "kept": 139,
+      "fetched": 151,
       "discovered": null,
       "rejects": {
         "non-musical": 8,
@@ -314,12 +323,12 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 319,
-      "kept": 164,
-      "fetched": 364,
+      "raw": 339,
+      "kept": 181,
+      "fetched": 385,
       "discovered": null,
       "rejects": {
-        "non-musical": 45,
+        "non-musical": 46,
         "_samples": {
           "non-musical": [
             "Foredrag med Nikolaj Jacobsen - Hos mig gør man sig umage",
@@ -338,8 +347,8 @@
       "city": "København",
       "adapter": "html-event",
       "host": "drkoncerthuset.dk",
-      "raw": 157,
-      "kept": 157,
+      "raw": 155,
+      "kept": 155,
       "fetched": 320,
       "discovered": 320,
       "rejects": {
@@ -364,7 +373,7 @@
             "Kom og syng - Mozarts Requiem - Workshop | DR Vokalensemblet | Køb bil"
           ]
         },
-        "already-happened": 154,
+        "already-happened": 156,
         "non-musical": 4,
         "duplicate": 2
       },
@@ -378,10 +387,10 @@
       "host": "alicecph.com",
       "raw": 4,
       "kept": 3,
-      "fetched": 45,
-      "discovered": 45,
+      "fetched": 51,
+      "discovered": 51,
       "rejects": {
-        "no-date": 38,
+        "no-date": 44,
         "_samples": {
           "no-date": [
             "Cinna Peyghamy FR/IR",
@@ -409,10 +418,10 @@
       "city": "Aarhus",
       "adapter": "html-event",
       "host": "train.dk",
-      "raw": 117,
-      "kept": 117,
+      "raw": 116,
+      "kept": 116,
       "fetched": 120,
-      "discovered": 145,
+      "discovered": 144,
       "rejects": {
         "section-page": 1,
         "_samples": {
@@ -420,11 +429,12 @@
             "Kalender"
           ],
           "date-not-confident": [
+            "Sydhavnens Festival → 2027-08-14 (0.7)",
+            "Sydhavnens Festival → 2027-08-14 (0.7)",
             "Josiah Queen Support: Strings & Heart → 2026-09-15 (0.7)"
           ]
         },
-        "duplicate": 1,
-        "date-not-confident": 1
+        "date-not-confident": 3
       },
       "error": null
     },
@@ -452,5 +462,5 @@
       "error": null
     }
   ],
-  "elapsedSeconds": 1014
+  "elapsedSeconds": 823
 }
