@@ -1,31 +1,78 @@
 {
-  "generatedAt": "2026-08-12T20:38:22.543Z",
-  "runner": "github-actions/31637786939",
+  "generatedAt": "2026-08-17T06:08:11.441Z",
+  "runner": "github-actions/31999551306",
   "window": {
-    "from": "2026-08-12",
-    "to": "2027-09-16",
+    "from": "2026-08-17",
+    "to": "2027-09-21",
     "horizonDays": 400
   },
   "counts": {
-    "events": 1484,
-    "sources": 15,
-    "sourcesWithEvents": 14,
-    "artists": 1847,
-    "venues": 14,
-    "withTicketUrl": 153,
+    "events": 1850,
+    "sources": 18,
+    "sourcesWithEvents": 18,
+    "artists": 2248,
+    "venues": 18,
+    "withTicketUrl": 288,
     "tributeFlagged": 14
   },
   "dropped": {
-    "past": 815,
+    "past": 821,
     "beyondHorizon": 9,
     "cancelled": 1,
-    "duplicate": 56,
     "postponed": 1,
-    "recurring": 121
+    "duplicate": 53,
+    "recurring": 126
   },
+  "recurringRemoved": [
+    {
+      "title": "læderværksted",
+      "venue": "sonderborghus",
+      "times": 37
+    },
+    {
+      "title": "fælleslæsning - et åndehul i hverdagen",
+      "venue": "kulturvaerftet",
+      "times": 18
+    },
+    {
+      "title": "spil3000 - brætspil for alle",
+      "venue": "kulturvaerftet",
+      "times": 17
+    },
+    {
+      "title": "torsdagsgarn",
+      "venue": "sonderborghus",
+      "times": 13
+    },
+    {
+      "title": "repair café",
+      "venue": "sonderborghus",
+      "times": 10
+    },
+    {
+      "title": "broderi-fællesskab",
+      "venue": "sonderborghus",
+      "times": 9
+    },
+    {
+      "title": "kuto studio",
+      "venue": "kulturvaerftet",
+      "times": 9
+    },
+    {
+      "title": "croquis",
+      "venue": "sonderborghus",
+      "times": 8
+    },
+    {
+      "title": "instant disco",
+      "venue": "kulturvaerftet",
+      "times": 5
+    }
+  ],
   "http": {
-    "requests": 2441,
-    "bytes": 306921362,
+    "requests": 2996,
+    "bytes": 437018727,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -36,8 +83,8 @@
       "city": "København",
       "adapter": "jsonld-page",
       "host": "loppen.dk",
-      "raw": 44,
-      "kept": 44,
+      "raw": 43,
+      "kept": 43,
       "fetched": 2,
       "discovered": null,
       "rejects": {},
@@ -62,11 +109,12 @@
       "city": "København",
       "adapter": "next-data",
       "host": "vega.dk",
-      "raw": 67,
-      "kept": 66,
-      "fetched": 1,
-      "discovered": 0,
+      "raw": 199,
+      "kept": 185,
+      "fetched": 260,
+      "discovered": 260,
       "rejects": {
+        "no-next-events": 189,
         "http-404": 1
       },
       "error": null
@@ -77,27 +125,12 @@
       "city": "København",
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
-      "raw": 249,
-      "kept": 45,
+      "raw": 248,
+      "kept": 43,
       "fetched": 250,
       "discovered": 250,
       "rejects": {
-        "non-musical": 1
-      },
-      "error": null
-    },
-    {
-      "id": "roskilde",
-      "name": "Roskilde Festival",
-      "city": "Roskilde",
-      "adapter": "next-data",
-      "host": "roskilde-festival.dk",
-      "raw": 0,
-      "kept": 0,
-      "fetched": 179,
-      "discovered": 178,
-      "rejects": {
-        "no-next-events": 179
+        "non-musical": 2
       },
       "error": null
     },
@@ -108,7 +141,7 @@
       "adapter": "wp-rest",
       "host": "voxhall.dk",
       "raw": 435,
-      "kept": 86,
+      "kept": 85,
       "fetched": 435,
       "discovered": null,
       "rejects": {},
@@ -120,9 +153,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 87,
-      "kept": 84,
-      "fetched": 87,
+      "raw": 84,
+      "kept": 81,
+      "fetched": 84,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -133,12 +166,21 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "dexter.dk",
-      "raw": 144,
-      "kept": 140,
-      "fetched": 146,
+      "raw": 137,
+      "kept": 133,
+      "fetched": 144,
       "discovered": null,
       "rejects": {
-        "non-musical": 2
+        "non-musical": 7,
+        "_samples": {
+          "non-musical": [
+            "Dexters Musikquiz",
+            "Kassettebåndsmusikquiz",
+            "Kassettebåndsmusikquiz",
+            "Dexters Musikquiz",
+            "Country Music Quiz - Nashville Nights 2026"
+          ]
+        }
       },
       "error": null
     },
@@ -148,12 +190,21 @@
       "city": "Aalborg",
       "adapter": "wp-rest",
       "host": "skraaen.dk",
-      "raw": 482,
-      "kept": 359,
+      "raw": 481,
+      "kept": 357,
       "fetched": 500,
       "discovered": null,
       "rejects": {
-        "non-musical": 18
+        "non-musical": 19,
+        "_samples": {
+          "non-musical": [
+            "Skattejagt - Costa del Nordkraft",
+            "Comedy Beachclub - Anders Manley, Louise Lorentzen og Svend Vestergaar",
+            "Comedy Beachclub - Henriette Thuesen, Nathan Curry og Zakarias Girsel",
+            "Comedy Beachclub - Markus Munk, Niels Flensborg og Rune Skov",
+            "Comedy Beachclub - Abdul Afzali, Kasper Tofting og Mia Westergaard"
+          ]
+        }
       },
       "error": null
     },
@@ -163,9 +214,9 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "tobakken.dk",
-      "raw": 59,
-      "kept": 55,
-      "fetched": 59,
+      "raw": 56,
+      "kept": 52,
+      "fetched": 56,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -176,12 +227,21 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 175,
-      "kept": 172,
-      "fetched": 185,
+      "raw": 168,
+      "kept": 165,
+      "fetched": 201,
       "discovered": null,
       "rejects": {
-        "non-musical": 10
+        "non-musical": 33,
+        "_samples": {
+          "non-musical": [
+            "Filmklubben Sønderborghus // Vermiglio",
+            "Syfællesskab",
+            "Syfællesskab",
+            "Workshop: Pailletter & Perler",
+            "Syfællesskab"
+          ]
+        }
       },
       "error": null
     },
@@ -191,12 +251,21 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 89,
-      "kept": 84,
-      "fetched": 96,
+      "raw": 87,
+      "kept": 81,
+      "fetched": 95,
       "discovered": null,
       "rejects": {
-        "non-musical": 7
+        "non-musical": 8,
+        "_samples": {
+          "non-musical": [
+            "Stand up paddle",
+            "SØNDAG - underfundigt børneteater",
+            "Comedy Club - Open Mic",
+            "Comedy Club - Open Mic",
+            "Julebanko"
+          ]
+        }
       },
       "error": null
     },
@@ -206,12 +275,21 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 132,
-      "kept": 124,
-      "fetched": 136,
+      "raw": 130,
+      "kept": 122,
+      "fetched": 137,
       "discovered": null,
       "rejects": {
-        "non-musical": 4
+        "non-musical": 7,
+        "_samples": {
+          "non-musical": [
+            "Shakespeare foredrag v/Niels Brunse",
+            "Teaterpakke 2",
+            "Teaterpakke 1",
+            "Mens Vi Strikker",
+            "Comedy Ballroom"
+          ]
+        }
       },
       "error": null
     },
@@ -221,12 +299,21 @@
       "city": "Vejle",
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
-      "raw": 145,
-      "kept": 141,
-      "fetched": 152,
+      "raw": 143,
+      "kept": 139,
+      "fetched": 151,
       "discovered": null,
       "rejects": {
-        "non-musical": 7
+        "non-musical": 8,
+        "_samples": {
+          "non-musical": [
+            "Comedy Ballroom 2026",
+            "Danmarks Største Konfirmationsevent",
+            "TINA -The Tina Turner Musical",
+            "Stupid Man The Musical",
+            "Foredrag med landstræner Nikolaj Jacobsen"
+          ]
+        }
       },
       "error": null
     },
@@ -236,59 +323,144 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 349,
-      "kept": 177,
-      "fetched": 365,
+      "raw": 339,
+      "kept": 181,
+      "fetched": 385,
       "discovered": null,
       "rejects": {
-        "non-musical": 16
+        "non-musical": 46,
+        "_samples": {
+          "non-musical": [
+            "Foredrag med Nikolaj Jacobsen - Hos mig gør man sig umage",
+            "Aftryk af Byen - Billedskolen udstilling",
+            "Linda P - Stand-up Tour 2027",
+            "Liam gentager comedysucces",
+            "JAGTEN PÅ VERDENS ÆLDSTE DNA - Foredrag med Eske Willerslev"
+          ]
+        }
+      },
+      "error": null
+    },
+    {
+      "id": "koncerthuset",
+      "name": "DR Koncerthuset",
+      "city": "København",
+      "adapter": "html-event",
+      "host": "drkoncerthuset.dk",
+      "raw": 155,
+      "kept": 155,
+      "fetched": 320,
+      "discovered": 320,
+      "rejects": {
+        "section-page": 3,
+        "_samples": {
+          "section-page": [
+            "Kalender | DR Koncerthuset | Koncerter & oplevelser",
+            "Home Free | DR Koncerthuset | Køb billet nu",
+            "Eventyrlig efterårsferie| DR Koncerthuset | Køb billet nu"
+          ],
+          "already-happened": [
+            "Black Voices – A Tribute | DR Koncerthuset | Køb billet nu",
+            "Honeck & Liszt | DR Symfoniorkestret | Køb billet",
+            "Hasan, Strauss & Mozart | DR Symfoniorkestret | Køb billet",
+            "Esa-Pekka Salonen & Turangalîla | DR Symfoniorkestret | Køb billet",
+            "Manacorda, Andsnes & Beethoven | DR Symfoniorkestret | Køb billet"
+          ],
+          "non-musical": [
+            "Workshopkoncert - Duruflés Requiem | DR Vokalensemblet | Køb billet",
+            "Musikquizzen 20 års jubilæum l DR Koncerthuset l Køb billet nu",
+            "Workshopkoncert - Mozarts Requiem | DR Vokalensemblet | Køb billet",
+            "Kom og syng - Mozarts Requiem - Workshop | DR Vokalensemblet | Køb bil"
+          ]
+        },
+        "already-happened": 156,
+        "non-musical": 4,
+        "duplicate": 2
+      },
+      "error": null
+    },
+    {
+      "id": "alice",
+      "name": "ALICE",
+      "city": "København",
+      "adapter": "html-event",
+      "host": "alicecph.com",
+      "raw": 4,
+      "kept": 3,
+      "fetched": 51,
+      "discovered": 51,
+      "rejects": {
+        "no-date": 44,
+        "_samples": {
+          "no-date": [
+            "Cinna Peyghamy FR/IR",
+            "Opening Concert: Roda de Santo BR/PT + DJ Carla Schack BR/DK",
+            "ALICE TUNES IN: Danske Kvalmer DK + Terence Dougherty NO + Orestis Mar",
+            "Aïta Mon Amour MA + 3Phaz EG",
+            "Dengue Dengue Dengue PE"
+          ],
+          "date-not-confident": [
+            "Circle FI → 2027-06-18 (0.7)",
+            "Yerai Cortés ES → 2027-06-12 (0.7)"
+          ],
+          "section-page": [
+            "Events Archive"
+          ]
+        },
+        "date-not-confident": 2,
+        "section-page": 1
+      },
+      "error": null
+    },
+    {
+      "id": "train",
+      "name": "Train",
+      "city": "Aarhus",
+      "adapter": "html-event",
+      "host": "train.dk",
+      "raw": 116,
+      "kept": 116,
+      "fetched": 120,
+      "discovered": 144,
+      "rejects": {
+        "section-page": 1,
+        "_samples": {
+          "section-page": [
+            "Kalender"
+          ],
+          "date-not-confident": [
+            "Sydhavnens Festival → 2027-08-14 (0.7)",
+            "Sydhavnens Festival → 2027-08-14 (0.7)",
+            "Josiah Queen Support: Strings & Heart → 2026-09-15 (0.7)"
+          ]
+        },
+        "date-not-confident": 3
+      },
+      "error": null
+    },
+    {
+      "id": "pumpehuset",
+      "name": "Pumpehuset",
+      "city": "København",
+      "adapter": "html-event",
+      "host": "pumpehuset.dk",
+      "raw": 6,
+      "kept": 6,
+      "fetched": 10,
+      "discovered": 10,
+      "rejects": {
+        "section-page": 4,
+        "_samples": {
+          "section-page": [
+            "Koncerter Archive",
+            "Koncerter Archive - Side 2 af 349",
+            "Koncerter Archive",
+            "Koncerter Archive"
+          ]
+        }
       },
       "error": null
     }
   ],
-  "elapsedSeconds": 609,
-  "refilteredAt": "2026-08-12T21:14:58.974227+00:00",
-  "refilterNote": "The current harvest filters (moved shows dropped, recurring activities dropped, past events dropped) re-applied to a corpus fetched before those rules existed. No event was added or altered.",
-  "recurringRemoved": [
-    {
-      "title": "læderværksted",
-      "venue": "sonderborghus",
-      "times": 38
-    },
-    {
-      "title": "syfællesskab",
-      "venue": "sonderborghus",
-      "times": 19
-    },
-    {
-      "title": "spil3000 - brætspil for alle",
-      "venue": "kulturvaerftet",
-      "times": 18
-    },
-    {
-      "title": "torsdagsgarn",
-      "venue": "sonderborghus",
-      "times": 13
-    },
-    {
-      "title": "fyraftenssang i toldkammergården",
-      "venue": "kulturvaerftet",
-      "times": 10
-    },
-    {
-      "title": "kuto studio",
-      "venue": "kulturvaerftet",
-      "times": 9
-    },
-    {
-      "title": "broderi-fællesskab",
-      "venue": "sonderborghus",
-      "times": 9
-    },
-    {
-      "title": "instant disco",
-      "venue": "kulturvaerftet",
-      "times": 5
-    }
-  ]
+  "elapsedSeconds": 823
 }
