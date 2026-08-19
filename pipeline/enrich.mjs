@@ -38,8 +38,16 @@ const SIMILAR_ENDPOINTS = [
   (mbid) => `https://api.listenbrainz.org/1/lb-radio/artist/${mbid}?mode=easy`,
 ]
 
+// A hard backstop on what may ever become a "taste" dimension. Even a correct
+// match should not turn a political label into something the engine matches
+// people on, and a wrong match must never be able to.
+const BANNED_TAGS = [
+  /nsbm/i, /national socialist/i, /\bnazi/i, /white power/i, /rac\b/i,
+  /fascist/i, /supremac/i,
+]
+
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms))
-const stats = { mbHits: 0, mbMiss: 0, simHits: 0, simMiss: 0, cached: 0, errors: 0 }
+const stats = { mbHits: 0, mbMiss: 0, ambiguous: 0, simHits: 0, simMiss: 0, cached: 0, errors: 0 }
 
 let firstFailureReported = false
 
@@ -68,26 +76,59 @@ async function musicbrainzLookup(name) {
   const list = data?.artists || []
   if (!list.length) return null
 
-  // Take the top hit only when MusicBrainz is confident and the name really
-  // matches. A loose match here quietly attaches the wrong genre to an artist
-  // and then recommends the wrong concerts, which is worse than no tags.
+  // Identity, and why this is fussier than it looks.
+  //
+  // The first version accepted any exact name match. That resolved 53 of 389
+  // artists to a foreign act that merely shares the name: "Madsen" became a
+  // German indie band, "Rosa" a Puerto Rican salsa singer, and "Absurd" a
+  // German NSBM band whose tags would then have shaped somebody's
+  // recommendations. A wrong identity is worse than no identity, because it
+  // produces confident nonsense instead of an honest gap.
+  //
+  // So: an exact name match is necessary, never sufficient. Where several
+  // artists share a name, the one from Denmark wins — every event in this
+  // corpus is a Danish booking, which is real evidence about who is playing.
+  // Where the name is short or generic and no Danish candidate exists, the
+  // identity stays unresolved.
   const target = foldName(name)
-  const best = list.find((a) => foldName(a.name) === target) || (list[0]?.score >= 95 ? list[0] : null)
-  if (!best) return null
+  const exact = list.filter((a) => foldName(a.name) === target)
+  const pool = exact.length ? exact : list.filter((a) => (a.score ?? 0) >= 95)
+  if (!pool.length) return null
+
+  const countryOf = (a) => a.country || a.area?.['iso-3166-1-codes']?.[0] || null
+  const danish = pool.filter((a) => countryOf(a) === 'DK')
+  const nordic = pool.filter((a) => ['SE', 'NO', 'FI', 'IS'].includes(countryOf(a)))
+
+  let best = null
+  if (danish.length) best = danish[0]
+  else if (pool.length === 1) best = pool[0]
+  else if (nordic.length === 1) best = nordic[0]
+
+  // Ambiguous, and nothing local to break the tie.
+  if (!best) return { ambiguous: true, candidates: pool.length }
+
+  // A short name that resolved to a foreign artist is the exact shape of the
+  // failure above, so it needs more than a name match to be believed.
+  const isShort = target.replace(/\s/g, '').length <= 8
+  if (isShort && countryOf(best) !== 'DK' && pool.length > 1) {
+    return { ambiguous: true, candidates: pool.length }
+  }
 
   const tags = (best.tags || [])
     .filter((t) => (t.count ?? 1) > 0)
     .sort((a, b) => (b.count ?? 1) - (a.count ?? 1))
     .slice(0, 12)
     .map((t) => ({ name: String(t.name).toLowerCase(), count: t.count ?? 1 }))
+    .filter((t) => !BANNED_TAGS.some((rx) => rx.test(t.name)))
 
   return {
     mbid: best.id,
     mbName: best.name,
-    country: best.country || best.area?.['iso-3166-1-codes']?.[0] || null,
+    country: countryOf(best),
     type: best.type || null,
     disambiguation: best.disambiguation || null,
     score: best.score ?? null,
+    candidates: pool.length,
     tags,
   }
 }
@@ -139,7 +180,10 @@ async function main() {
   const counts = new Map()
   for (const e of events) {
     for (const a of e.artists || []) {
+      // "0" was in the index as a Japanese microsound act. A name that is only
+      // digits or punctuation is a parsing artefact, not an artist.
       if (!a || a.length < 2 || looksLikeTribute(a)) continue
+      if (!/[a-zA-ZÆØÅæøå]/.test(a)) continue
       counts.set(a, (counts.get(a) || 0) + 1)
     }
   }
@@ -169,6 +213,11 @@ async function main() {
       if (!mb) {
         stats.mbMiss++
         cache[key] = { name, checkedAt: new Date().toISOString(), notFound: true }
+        continue
+      }
+      if (mb.ambiguous) {
+        stats.ambiguous++
+        cache[key] = { name, checkedAt: new Date().toISOString(), notFound: true, ambiguous: mb.candidates }
         continue
       }
       stats.mbHits++
@@ -214,7 +263,10 @@ async function main() {
   console.log(
     `\nartists.json: ${Object.keys(index).length} keys, ${withTags} with tags, ${withSimilar} with similar artists, ${(size / 1024).toFixed(0)} KB`
   )
-  console.log(`musicbrainz resolved ${stats.mbHits}/${stats.mbHits + stats.mbMiss}, errors ${stats.errors}`)
+  console.log(
+    `musicbrainz resolved ${stats.mbHits}, not found ${stats.mbMiss}, ` +
+      `left unresolved because the name was ambiguous ${stats.ambiguous}, errors ${stats.errors}`
+  )
   console.log(`similar-artists endpoint in use: ${endpointIndex.value} of ${SIMILAR_ENDPOINTS.length}`)
 
   // A control that must fire. If enrichment produced nothing usable, the site
