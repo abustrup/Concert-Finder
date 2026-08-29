@@ -60,9 +60,17 @@ async function musicbrainzLookup(name) {
     // nothing for 900 artists in a row and reported it as one bland count.
     if (!firstFailureReported) {
       firstFailureReported = true
-      console.error(
-        `  first MusicBrainz failure: ${res === null ? 'politeFetch returned null (robots or skip)' : `HTTP ${res.status}`} for "${name}"\n  ${url}`
-      )
+      // status 0 means the request never completed — DNS, TLS, timeout, reset.
+      // The reason lives in res.error and NOT printing it cost a whole run: the
+      // 2026-08-24 harvest reported only "HTTP 0" and left the cause unknowable
+      // from the log, on a run where all 3022 requests to the venues succeeded.
+      const why =
+        res === null
+          ? 'politeFetch returned null (robots or skip)'
+          : res.status === 0
+            ? `no response after retries — ${res.error || 'reason not recorded'}`
+            : `HTTP ${res.status}`
+      console.error(`  first MusicBrainz failure: ${why} for "${name}"\n  ${url}`)
       if (res && res.text) console.error('  body: ' + res.text.slice(0, 200))
     }
     return null
@@ -171,6 +179,33 @@ async function similarArtists(mbid, endpointIndex) {
 const isFresh = (entry) =>
   entry?.checkedAt && Date.now() - Date.parse(entry.checkedAt) < CACHE_TTL_DAYS * 86_400_000
 
+// The shipped index: keyed by every spelling of the name the matcher might
+// see, so "MØ", "MO" and "Moe" all land on the same entry. Always written in
+// the same breath as the cache it is derived from.
+async function persist(cache, names) {
+  const index = {}
+  let withTags = 0
+  let withSimilar = 0
+  for (const name of names) {
+    const entry = cache[foldName(name)]
+    if (!entry || entry.notFound) continue
+    const value = {
+      name: entry.mbName || entry.name,
+      country: entry.country || null,
+      tags: (entry.tags || []).map((t) => ({ name: t.name, count: t.count })),
+      similar: (entry.similar || []).map((s) => ({ name: s.name, score: Math.round(s.score * 100) / 100 })),
+    }
+    if (value.tags.length) withTags++
+    if (value.similar.length) withSimilar++
+    for (const k of keysFor(name)) index[k] = value
+  }
+  const json = JSON.stringify(index)
+  await mkdir('data', { recursive: true })
+  await writeFile(CACHE, JSON.stringify(cache, null, 0))
+  await writeFile(OUT, json)
+  return { index, withTags, withSimilar, size: json.length }
+}
+
 async function main() {
   const events = JSON.parse(await readFile('data/events.json', 'utf8'))
   const cache = existsSync(CACHE) ? JSON.parse(await readFile(CACHE, 'utf8')) : {}
@@ -229,36 +264,19 @@ async function main() {
       stats.errors++
       console.error(`  ${name}: ${err.message}`)
     }
+    // Checkpoint both files together, never one without the other. The cache
+    // stamps every entry with checkedAt and the TTL is 90 days, so a run that
+    // saved the cache and died before rebuilding the index would leave those
+    // artists cached-but-unindexed until November: never re-fetched, never
+    // shipped. Writing the pair keeps them at most 25 artists apart on any
+    // exit path.
     if (++done % 25 === 0) {
       console.log(`  ${done}/${Math.min(todo.length, budget)}  mb ${stats.mbHits}/${stats.mbHits + stats.mbMiss}  similar ${stats.simHits}`)
-      await writeFile(CACHE, JSON.stringify(cache, null, 0)) // survive a timeout
+      await persist(cache, names)
     }
   }
 
-  await mkdir('data', { recursive: true })
-  await writeFile(CACHE, JSON.stringify(cache, null, 0))
-
-  // The shipped index: keyed by every spelling of the name the matcher might
-  // see, so "MØ", "MO" and "Moe" all land on the same entry.
-  const index = {}
-  let withTags = 0
-  let withSimilar = 0
-  for (const name of names) {
-    const entry = cache[foldName(name)]
-    if (!entry || entry.notFound) continue
-    const value = {
-      name: entry.mbName || entry.name,
-      country: entry.country || null,
-      tags: (entry.tags || []).map((t) => ({ name: t.name, count: t.count })),
-      similar: (entry.similar || []).map((s) => ({ name: s.name, score: Math.round(s.score * 100) / 100 })),
-    }
-    if (value.tags.length) withTags++
-    if (value.similar.length) withSimilar++
-    for (const k of keysFor(name)) index[k] = value
-  }
-
-  await writeFile(OUT, JSON.stringify(index))
-  const size = JSON.stringify(index).length
+  const { index, withTags, withSimilar, size } = await persist(cache, names)
 
   console.log(
     `\nartists.json: ${Object.keys(index).length} keys, ${withTags} with tags, ${withSimilar} with similar artists, ${(size / 1024).toFixed(0)} KB`
