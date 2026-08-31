@@ -24,10 +24,30 @@ async function main() {
     : new Map()
   const { personas } = JSON.parse(await readFile('test/personas.json', 'utf8'))
 
-  const today = new Date().toISOString().slice(0, 10)
+  // Evaluate the ENGINE against the corpus, from the day the corpus was written.
+  //
+  // This used to read the wall clock. That makes the result depend on when you
+  // happen to run it: the corpus is frozen the moment it is committed, so every
+  // day that passes deletes another day of candidates off the front while the
+  // thresholds stay put. On 2026-08-31 that turned a green suite red — the
+  // dk-metal persona could reach 4 months on 2026-08-29 and only 3 two days
+  // later, with not one line of engine code changed in between. A test that
+  // decays into failure teaches you to ignore it.
+  //
+  // Whether the corpus is fresh enough to be worth showing is a real question,
+  // and it has its own gate: pipeline/validate.mjs warns past 10 days and fails
+  // past 21. That is the check that should go red as data ages. Not this one.
+  const meta = existsSync('data/harvest-meta.json')
+    ? JSON.parse(await readFile('data/harvest-meta.json', 'utf8'))
+    : null
+  const today = (meta?.generatedAt || new Date().toISOString()).slice(0, 10)
+  const wall = new Date().toISOString().slice(0, 10)
   console.log(
     `corpus: ${events.length} events, ${new Set(events.map((e) => e.venue.id)).size} venues, ` +
-      `artist index ${artistIndex.size} keys\n`
+      `artist index ${artistIndex.size} keys\n` +
+      `evaluated from ${today}, the day it was harvested` +
+      (wall === today ? '' : ` (today is ${wall}; freshness is validate.mjs's job, not this one)`) +
+      '\n'
   )
 
   const playing = new Set(events.flatMap((e) => (e.artists || []).map(foldName)))
@@ -39,7 +59,7 @@ async function main() {
       taste,
       events,
       artistIndex,
-      options: { count: 12, countries: ['DK'] },
+      options: { count: 12, countries: ['DK'], from: today },
     })
     const picks = out.picks
     perPersona.set(p.id, picks)
@@ -151,7 +171,11 @@ async function main() {
   const ctrlChecks = [
     ['duplicate artist is collapsed to one', ctrl.picks.length === 1, `${ctrl.picks.length} picks`],
     ['tribute act excluded', !ctrl.picks.some((x) => looksLikeTribute(x.event.title)), ''],
-    ['past event excluded', !ctrl.picks.some((x) => x.event.startDate < today), ''],
+    // Deliberately `wall`, not `today`: these events are built relative to now
+    // and the engine is called without `from`, so this is the wall-clock
+    // default under test. Judging it by the corpus date would let an event
+    // between the harvest and today pass as "not past".
+    ['past event excluded', !ctrl.picks.some((x) => x.event.startDate < wall), ''],
     ['list is shorter than the cap rather than padded', ctrl.picks.length < 12 && ctrl.diagnostics.short, `short=${ctrl.diagnostics.short}`],
   ]
   for (const [name, pass, detail] of ctrlChecks) {
