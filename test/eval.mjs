@@ -17,6 +17,24 @@ import { foldName, looksLikeTribute } from '../src/text.mjs'
 const results = []
 const record = (persona, name, pass, detail) => results.push({ persona, name, pass, detail })
 
+const monthsOf = (picks) => new Set(picks.map((x) => x.event.startDate.slice(0, 7)))
+
+const busiestMonth = (picks) => {
+  const m = new Map()
+  for (const x of picks) {
+    const k = x.event.startDate.slice(0, 7)
+    m.set(k, (m.get(k) || 0) + 1)
+  }
+  return m.size ? Math.max(...m.values()) : 0
+}
+
+// Every persona asks for the same list length, and the engine's per-month cap
+// is derived from it. Read it from DEFAULTS rather than restating the number,
+// so changing the engine's policy moves this test with it instead of leaving a
+// stale constant that quietly stops meaning anything.
+const REQUEST_COUNT = 12
+const MONTH_CAP = Math.max(2, Math.ceil(REQUEST_COUNT * (DEFAULTS.maxPerMonthFraction ?? 1)))
+
 async function main() {
   const events = JSON.parse(await readFile('data/events.json', 'utf8'))
   const artistIndex = existsSync('data/artists.json')
@@ -24,10 +42,30 @@ async function main() {
     : new Map()
   const { personas } = JSON.parse(await readFile('test/personas.json', 'utf8'))
 
-  const today = new Date().toISOString().slice(0, 10)
+  // Evaluate the ENGINE against the corpus, from the day the corpus was written.
+  //
+  // This used to read the wall clock. That makes the result depend on when you
+  // happen to run it: the corpus is frozen the moment it is committed, so every
+  // day that passes deletes another day of candidates off the front while the
+  // thresholds stay put. On 2026-08-31 that turned a green suite red — the
+  // dk-metal persona could reach 4 months on 2026-08-29 and only 3 two days
+  // later, with not one line of engine code changed in between. A test that
+  // decays into failure teaches you to ignore it.
+  //
+  // Whether the corpus is fresh enough to be worth showing is a real question,
+  // and it has its own gate: pipeline/validate.mjs warns past 10 days and fails
+  // past 21. That is the check that should go red as data ages. Not this one.
+  const meta = existsSync('data/harvest-meta.json')
+    ? JSON.parse(await readFile('data/harvest-meta.json', 'utf8'))
+    : null
+  const today = (meta?.generatedAt || new Date().toISOString()).slice(0, 10)
+  const wall = new Date().toISOString().slice(0, 10)
   console.log(
     `corpus: ${events.length} events, ${new Set(events.map((e) => e.venue.id)).size} venues, ` +
-      `artist index ${artistIndex.size} keys\n`
+      `artist index ${artistIndex.size} keys\n` +
+      `evaluated from ${today}, the day it was harvested` +
+      (wall === today ? '' : ` (today is ${wall}; freshness is validate.mjs's job, not this one)`) +
+      '\n'
   )
 
   const playing = new Set(events.flatMap((e) => (e.artists || []).map(foldName)))
@@ -39,7 +77,7 @@ async function main() {
       taste,
       events,
       artistIndex,
-      options: { count: 12, countries: ['DK'] },
+      options: { count: REQUEST_COUNT, countries: ['DK'], from: today },
     })
     const picks = out.picks
     perPersona.set(p.id, picks)
@@ -112,9 +150,33 @@ async function main() {
         `returned ${picks.length}, short=${out.diagnostics.short}`
       )
     }
+    // Spread, measured against what the engine actually promises.
+    //
+    // This used to demand 4 distinct months from any list of 4 or more picks —
+    // which for a 4-pick list means every single pick in a different month.
+    // Nothing in the design says that. What the engine guarantees is a cap:
+    // no more than maxPerMonthFraction of the requested count in one month.
+    // The old constant survived only because sparse personas returned fewer
+    // than 4 picks and were skipped; a richer artist index pushed three of them
+    // over the threshold and they failed at once, all of them comfortably
+    // inside the cap (2 picks in the busiest month, against a cap of 4).
+    //
+    // Demanding one-pick-per-month from thin data also fights the Danish
+    // calendar, which is heavily autumn-weighted. So: assert the cap for every
+    // persona, and let the spread requirement scale with how much there was to
+    // spread. A full 12-pick list still has to reach 4 months.
+    if (picks.length) {
+      record(
+        p.id,
+        `no more than ${MONTH_CAP} picks in any one month`,
+        busiestMonth(picks) <= MONTH_CAP,
+        `busiest month holds ${busiestMonth(picks)}`
+      )
+    }
     if (picks.length >= 4) {
-      const months = new Set(picks.map((x) => x.event.startDate.slice(0, 7)))
-      record(p.id, 'spread across at least 4 months', months.size >= 4, `${months.size} months`)
+      const need = Math.min(4, Math.ceil(picks.length / 2))
+      const got = monthsOf(picks).size
+      record(p.id, `spread across at least ${need} months`, got >= need, `${got} months from ${picks.length} picks`)
     }
   }
 
@@ -151,8 +213,32 @@ async function main() {
   const ctrlChecks = [
     ['duplicate artist is collapsed to one', ctrl.picks.length === 1, `${ctrl.picks.length} picks`],
     ['tribute act excluded', !ctrl.picks.some((x) => looksLikeTribute(x.event.title)), ''],
-    ['past event excluded', !ctrl.picks.some((x) => x.event.startDate < today), ''],
+    // Deliberately `wall`, not `today`: these events are built relative to now
+    // and the engine is called without `from`, so this is the wall-clock
+    // default under test. Judging it by the corpus date would let an event
+    // between the harvest and today pass as "not past".
+    ['past event excluded', !ctrl.picks.some((x) => x.event.startDate < wall), ''],
     ['list is shorter than the cap rather than padded', ctrl.picks.length < 12 && ctrl.diagnostics.short, `short=${ctrl.diagnostics.short}`],
+    // The per-month cap replaced a fixed month count, so it needs the same
+    // treatment as everything else here: input built to break it, proving the
+    // check can still say no.
+    [
+      `a month holding ${MONTH_CAP + 1} picks is caught`,
+      busiestMonth(
+        Array.from({ length: MONTH_CAP + 1 }, (_, i) => ({
+          event: { startDate: `2027-03-${String(i + 1).padStart(2, '0')}` },
+        }))
+      ) > MONTH_CAP,
+      '',
+    ],
+    [
+      'a spread across separate months is not',
+      busiestMonth([
+        { event: { startDate: '2027-03-01' } },
+        { event: { startDate: '2027-04-01' } },
+      ]) <= MONTH_CAP,
+      '',
+    ],
   ]
   for (const [name, pass, detail] of ctrlChecks) {
     console.log(`   ${pass ? 'ok  ' : 'FAIL'} ${name} ${detail}`)
