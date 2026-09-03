@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-08-31T07:13:08.499Z",
-  "runner": "github-actions/33366583536",
+  "generatedAt": "2026-08-31T11:51:04.010Z",
+  "runner": "github-actions/33388004373",
   "window": {
     "from": "2026-08-31",
     "to": "2027-10-05",
     "horizonDays": 400
   },
   "counts": {
-    "events": 1860,
+    "events": 1868,
     "sources": 18,
     "sourcesWithEvents": 18,
-    "artists": 2241,
+    "artists": 2251,
     "venues": 18,
-    "withTicketUrl": 295,
+    "withTicketUrl": 299,
     "tributeFlagged": 14
   },
   "dropped": {
-    "past": 846,
+    "past": 842,
     "beyondHorizon": 6,
     "cancelled": 1,
     "postponed": 0,
@@ -76,8 +76,8 @@
     }
   ],
   "http": {
-    "requests": 3018,
-    "bytes": 457159927,
+    "requests": 3021,
+    "bytes": 456787979,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -116,11 +116,11 @@
       "host": "vega.dk",
       "raw": 211,
       "kept": 196,
-      "fetched": 260,
+      "fetched": 258,
       "discovered": 260,
       "rejects": {
-        "no-next-events": 184,
-        "http-404": 1
+        "no-next-events": 182,
+        "http-404": 3
       },
       "error": null
     },
@@ -239,9 +239,9 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 165,
-      "kept": 162,
-      "fetched": 196,
+      "raw": 166,
+      "kept": 163,
+      "fetched": 197,
       "discovered": null,
       "rejects": {
         "non-musical": 31,
@@ -263,9 +263,9 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 99,
-      "kept": 93,
-      "fetched": 108,
+      "raw": 100,
+      "kept": 94,
+      "fetched": 109,
       "discovered": null,
       "rejects": {
         "non-musical": 9,
@@ -287,9 +287,9 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 115,
-      "kept": 112,
-      "fetched": 121,
+      "raw": 116,
+      "kept": 113,
+      "fetched": 122,
       "discovered": null,
       "rejects": {
         "non-musical": 6,
@@ -432,24 +432,20 @@
       "city": "Aarhus",
       "adapter": "html-event",
       "host": "train.dk",
-      "raw": 117,
-      "kept": 113,
+      "raw": 118,
+      "kept": 118,
       "fetched": 120,
-      "discovered": 149,
+      "discovered": 145,
       "rejects": {
         "section-page": 1,
         "_samples": {
           "section-page": [
             "Kalender"
           ],
-          "already-happened": [
-            "Fremtidens Frekvenser"
-          ],
           "date-not-confident": [
             "Josiah Queen Support: Strings & Heart → 2026-09-15 (0.7)"
           ]
         },
-        "already-happened": 1,
         "date-not-confident": 1
       },
       "error": null
@@ -478,5 +474,5 @@
       "error": null
     }
   ],
-  "elapsedSeconds": 678
+  "elapsedSeconds": 681
 }
