@@ -4,3 +4,10 @@
 # MusicBrainz — the previous four resolved nothing because politeFetch applied
 # a website's crawl rules to a documented API, and continue-on-error reported
 # it as green.
+# run 7: first execution of the decoupled workflow. The 2026-08-24 scheduled
+# run threw away a clean 1867-event crawl because MusicBrainz did not answer;
+# the Enrich step now continues on error, the corpus commits regardless, and
+# the last step fails the job. That path has been unit-tested and never run, so
+# this run exists to watch it happen — and to find out whether MusicBrainz is
+# answering again. Triggered 2026-08-31, after the scheduled run for that
+# morning failed to appear at all.

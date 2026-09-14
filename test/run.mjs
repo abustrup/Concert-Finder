@@ -13,7 +13,7 @@ import {
 } from '../src/text.mjs'
 import { importListening, parseCsv, aggregate } from '../src/taste.mjs'
 import { openZip } from '../src/unzip.mjs'
-import { buildTaste, scoreEvent, recommend } from '../src/recommend.mjs'
+import { buildTaste, scoreEvent, recommend, usableTag, tasteTagVector } from '../src/recommend.mjs'
 import { bestEventDate, findDanishDates } from '../pipeline/lib/dkdate.mjs'
 import { cleanTitle, detectStatus, looksNonMusical, parseDate } from '../pipeline/lib/normalize.mjs'
 import { eventsFromHtml } from '../pipeline/lib/jsonld.mjs'
@@ -237,6 +237,44 @@ const simScored = scoreEvent(
 )
 ok(simScored && simScored.best.kind === 'similar', 'engine: similar-artist evidence is found')
 is(simScored.best.via, 'Iceage', 'engine: the explanation names the artist the user actually listens to')
+
+// ------------------------------------------------- tags nobody gets matched on
+//
+// The artist resolver once matched a Danish booking called "Absurd" to a German
+// NSBM band that merely shares the name, and its tags would then have become a
+// dimension the engine matched people on. Two things now stop that: the resolver
+// refuses an identity it cannot corroborate, and the engine refuses the tag even
+// if a bad index reaches it. Only the second is testable from here, and until
+// now nothing asserted it — so a future edit could have deleted the backstop in
+// silence. These tests fail if it goes.
+
+for (const t of ['nsbm', 'national socialist black metal', 'nazi punk', 'white power', 'fascist', 'white supremacist'])
+  is(usableTag(t), null, `backstop: "${t}" can never become a taste dimension`)
+is(usableTag('black metal'), 'black metal', 'backstop: the genre standing next to it is untouched')
+is(usableTag('hardcore punk'), 'hardcore punk', 'backstop: ordinary tags pass through')
+
+// The guarantee that matters is not that one string is filtered, it is that a
+// banned tag cannot be the thing connecting a listener to a concert. Here it is
+// the ONLY thing the two acts share, and it is the heaviest tag on both.
+// The other tag on each side is a real genre and the two are unrelated, so with
+// the backstop in place there is nothing left to connect them. Take the
+// backstop out and the banned tag — the heaviest on both — matches them.
+const poisoned = new Map([
+  ['listener band', { name: 'Listener Band', tags: [{ name: 'nsbm', count: 9 }, { name: 'shoegaze', count: 1 }], similar: [] }],
+  ['playing band', { name: 'Playing Band', tags: [{ name: 'nsbm', count: 9 }, { name: 'doom metal', count: 1 }], similar: [] }],
+])
+const poisonTaste = buildTaste([{ name: 'Listener Band', rank: 0 }])
+const poisonUserTags = tasteTagVector(poisonTaste, poisoned)
+ok(!poisonUserTags.has('nsbm'), 'backstop: a banned tag never enters the listener profile')
+ok(poisonUserTags.has('shoegaze'), 'backstop: the rest of the profile survives the filter')
+is(
+  scoreEvent(
+    { id: 'p', title: 'Playing Band', artists: ['Playing Band'], startDate: '2027-02-01', status: 'scheduled', venue: { id: 'v', name: 'V', country: 'DK' } },
+    poisonTaste, poisoned, poisonUserTags
+  ),
+  null,
+  'backstop: two acts sharing only a banned tag are not a match'
+)
 
 // The cap is a hard promise.
 const many = Array.from({ length: 200 }, (_, i) => ({

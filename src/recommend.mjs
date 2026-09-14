@@ -25,6 +25,12 @@ export const DEFAULTS = {
   discoverySlots: 2,
   maxPerVenue: 3,
   maxPerArtist: 1,
+  // No more than a third of the list in any one month. The Danish season is
+  // heavily autumn-weighted — 326 events in October against 12 in June — so
+  // without this the "twelve nights across your year" idea collapses into
+  // "ten nights in October", which is a worse answer to the same question and
+  // makes the year spine a lie.
+  maxPerMonthFraction: 1 / 3,
   lambda: 0.72, // MMR: relevance vs variety. Higher keeps the ranking honest.
   horizonDays: 365,
   roomPreference: 'any', // 'any' | 'intimate'
@@ -97,9 +103,15 @@ export function tagWeight(t) {
   return typeof count === 'number' ? count : 1
 }
 
+// A backstop the engine applies to whatever index it is handed, so a bad
+// artist match upstream can never turn a political label into a taste
+// dimension people get matched on.
+const BANNED_TAG = /nsbm|national socialist|nazi|white power|fascist|supremac/i
+
 export function usableTag(t) {
   const name = (typeof t === 'string' ? t : t?.name || '').toLowerCase().trim()
   if (!name || TAG_STOPLIST.has(name)) return null
+  if (BANNED_TAG.test(name)) return null
   return name
 }
 
@@ -298,6 +310,8 @@ function selectMMR(candidates, count, opts, artistIndex, discoveryQuota = 0) {
   const pool = [...candidates]
   const usedArtists = new Map()
   const usedVenues = new Map()
+  const usedMonths = new Map()
+  const maxPerMonth = Math.max(2, Math.ceil(count * (opts.maxPerMonthFraction ?? 1)))
 
   const admissible = (c) => {
     for (const a of c.event.artists || []) {
@@ -306,6 +320,8 @@ function selectMMR(candidates, count, opts, artistIndex, discoveryQuota = 0) {
     }
     const v = c.event.venue?.id
     if (v && (usedVenues.get(v) || 0) >= opts.maxPerVenue) return false
+    const mo = c.event.startDate?.slice(0, 7)
+    if (mo && (usedMonths.get(mo) || 0) >= maxPerMonth) return false
     return true
   }
 
@@ -317,6 +333,8 @@ function selectMMR(candidates, count, opts, artistIndex, discoveryQuota = 0) {
     }
     const v = c.event.venue?.id
     if (v) usedVenues.set(v, (usedVenues.get(v) || 0) + 1)
+    const mo = c.event.startDate?.slice(0, 7)
+    if (mo) usedMonths.set(mo, (usedMonths.get(mo) || 0) + 1)
   }
 
   const isDiscovery = (c) => c.best?.kind !== 'direct'
@@ -429,27 +447,30 @@ export function recommend({ taste, events, artistIndex, options = {} }) {
   }
   scored.sort((a, b) => b.rank - a.rank)
 
-  // One artist, several dates: keep the smallest room.
+  // One artist, several dates: nudge toward the smaller room, do not delete the
+  // others.
   //
-  // Only one date per artist can be picked anyway, so this is purely about
-  // which. The evidence is identical across an artist's own dates, so ranking
-  // decides it by accident; a club show of a band you love is a better night
-  // than the same band in an arena, and capacity is known for every event.
-  const bestPerArtist = new Map()
+  // The first version dropped every date but one per artist BEFORE selection.
+  // That silently removed the engine's freedom to place an artist in a quiet
+  // month: dk-pop had qualifying shows in five months and could only ever use
+  // three, because each artist had already been pinned to one date chosen by
+  // rank rather than by what the list needed. Selection already guarantees one
+  // show per artist, so the pre-filter bought nothing and cost the spread.
   const CAPACITY_ORDER = { club: 0, mid: 1, large: 2, arena: 3 }
+  const smallestPerArtist = new Map()
+  const artistKeyOf = (r) => foldName(r.best?.artist || r.event.headliner || r.event.title)
   for (const r of scored) {
-    const key = foldName(r.best?.artist || r.event.headliner || r.event.title)
-    const prev = bestPerArtist.get(key)
-    if (!prev) {
-      bestPerArtist.set(key, r)
-      continue
-    }
-    const closeEnough = r.rank >= prev.rank * 0.9
-    const smaller =
-      (CAPACITY_ORDER[r.event.venue?.sizeClass] ?? 9) < (CAPACITY_ORDER[prev.event.venue?.sizeClass] ?? 9)
-    if (r.rank > prev.rank || (closeEnough && smaller)) bestPerArtist.set(key, r)
+    const key = artistKeyOf(r)
+    const prev = smallestPerArtist.get(key)
+    const rank = CAPACITY_ORDER[r.event.venue?.sizeClass] ?? 9
+    if (!prev || rank < prev) smallestPerArtist.set(key, rank)
   }
-  const deduped = scored.filter((r) => bestPerArtist.get(foldName(r.best?.artist || r.event.headliner || r.event.title)) === r)
+  for (const r of scored) {
+    const mine = CAPACITY_ORDER[r.event.venue?.sizeClass] ?? 9
+    if (mine === smallestPerArtist.get(artistKeyOf(r))) r.rank *= 1.06
+  }
+  scored.sort((a, b) => b.rank - a.rank)
+  const deduped = scored
 
   // Confidence scales the list. When only a few of a person's artists are
   // actually playing, twelve picks would mean nine built on genre similarity
