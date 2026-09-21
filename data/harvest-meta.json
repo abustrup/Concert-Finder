@@ -1,58 +1,58 @@
 {
-  "generatedAt": "2026-09-14T10:59:05.801Z",
-  "runner": "github-actions/34834832828",
+  "generatedAt": "2026-09-21T11:02:49.120Z",
+  "runner": "github-actions/35590778411",
   "window": {
-    "from": "2026-09-14",
-    "to": "2027-10-19",
+    "from": "2026-09-21",
+    "to": "2027-10-26",
     "horizonDays": 400
   },
   "counts": {
-    "events": 1896,
+    "events": 1881,
     "sources": 18,
     "sourcesWithEvents": 18,
-    "artists": 2306,
+    "artists": 2260,
     "venues": 18,
-    "withTicketUrl": 346,
+    "withTicketUrl": 342,
     "tributeFlagged": 17
   },
   "dropped": {
-    "past": 856,
-    "beyondHorizon": 5,
+    "past": 858,
+    "beyondHorizon": 4,
     "cancelled": 2,
     "postponed": 0,
-    "duplicate": 54,
-    "recurring": 142
+    "duplicate": 53,
+    "recurring": 141
   },
   "recurringRemoved": [
     {
       "title": "læderværksted",
       "venue": "sonderborghus",
-      "times": 29
+      "times": 27
     },
     {
       "title": "åben legestue (0-3 år)",
       "venue": "sonderborghus",
-      "times": 14
+      "times": 13
     },
     {
       "title": "fælleslæsning - et åndehul i hverdagen",
       "venue": "kulturvaerftet",
-      "times": 14
+      "times": 13
     },
     {
       "title": "torsdagsgarn",
       "venue": "sonderborghus",
-      "times": 13
+      "times": 12
     },
     {
       "title": "croquis tegning",
       "venue": "kulturvaerftet",
-      "times": 13
+      "times": 12
     },
     {
       "title": "spil3000 - brætspil for alle",
       "venue": "kulturvaerftet",
-      "times": 13
+      "times": 12
     },
     {
       "title": "lørdagsjazzen",
@@ -70,7 +70,7 @@
       "times": 9
     },
     {
-      "title": "kuto studio",
+      "title": "pop-op tirsdag i lejligheden",
       "venue": "kulturvaerftet",
       "times": 7
     },
@@ -80,14 +80,19 @@
       "times": 6
     },
     {
+      "title": "kuto studio",
+      "venue": "kulturvaerftet",
+      "times": 6
+    },
+    {
       "title": "mad &#038; mennesker",
       "venue": "kulturvaerftet",
       "times": 5
     }
   ],
   "http": {
-    "requests": 3030,
-    "bytes": 457779819,
+    "requests": 3027,
+    "bytes": 465265592,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -111,8 +116,8 @@
       "city": "Frederiksberg",
       "adapter": "jsonld-page",
       "host": "kbhallen.dk",
-      "raw": 32,
-      "kept": 31,
+      "raw": 33,
+      "kept": 33,
       "fetched": 1,
       "discovered": null,
       "rejects": {},
@@ -124,13 +129,13 @@
       "city": "København",
       "adapter": "next-data",
       "host": "vega.dk",
-      "raw": 205,
-      "kept": 184,
-      "fetched": 260,
+      "raw": 202,
+      "kept": 182,
+      "fetched": 259,
       "discovered": 260,
       "rejects": {
-        "no-next-events": 183,
-        "http-404": 1
+        "no-next-events": 186,
+        "http-404": 2
       },
       "error": null
     },
@@ -141,7 +146,7 @@
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
       "raw": 248,
-      "kept": 38,
+      "kept": 39,
       "fetched": 250,
       "discovered": 250,
       "rejects": {
@@ -155,9 +160,9 @@
       "city": "Aarhus",
       "adapter": "wp-rest",
       "host": "voxhall.dk",
-      "raw": 443,
+      "raw": 445,
       "kept": 85,
-      "fetched": 443,
+      "fetched": 445,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -168,18 +173,11 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 74,
-      "kept": 71,
-      "fetched": 75,
+      "raw": 73,
+      "kept": 70,
+      "fetched": 73,
       "discovered": null,
-      "rejects": {
-        "non-musical": 1,
-        "_samples": {
-          "non-musical": [
-            "Festival Production Workshop"
-          ]
-        }
-      },
+      "rejects": {},
       "error": null
     },
     {
@@ -188,9 +186,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "dexter.dk",
-      "raw": 135,
-      "kept": 131,
-      "fetched": 138,
+      "raw": 134,
+      "kept": 130,
+      "fetched": 137,
       "discovered": null,
       "rejects": {
         "non-musical": 3,
@@ -234,11 +232,18 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "tobakken.dk",
-      "raw": 61,
-      "kept": 58,
+      "raw": 60,
+      "kept": 57,
       "fetched": 61,
       "discovered": null,
-      "rejects": {},
+      "rejects": {
+        "non-musical": 1,
+        "_samples": {
+          "non-musical": [
+            "Skabt Julemarked"
+          ]
+        }
+      },
       "error": null
     },
     {
@@ -247,18 +252,18 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 173,
-      "kept": 170,
-      "fetched": 200,
+      "raw": 166,
+      "kept": 162,
+      "fetched": 189,
       "discovered": null,
       "rejects": {
-        "non-musical": 27,
+        "non-musical": 23,
         "_samples": {
           "non-musical": [
-            "Workshop: Glasur pop-up",
-            "Filmklubben Sønderborghus // A Private Life",
             "Syfællesskab",
-            "Lindy Hop Workshop",
+            "Syfællesskab",
+            "DM I STAND-UP 2026",
+            "Workshop: Glasur pop-up",
             "Syfællesskab"
           ]
         }
@@ -273,17 +278,17 @@
       "host": "gimle.dk",
       "raw": 101,
       "kept": 96,
-      "fetched": 110,
+      "fetched": 109,
       "discovered": null,
       "rejects": {
-        "non-musical": 9,
+        "non-musical": 8,
         "_samples": {
           "non-musical": [
-            "Stand up paddle",
             "Comedy Club",
             "SØNDAG - underfundigt børneteater",
             "Comedy Club",
-            "Comedy Club"
+            "Comedy Club",
+            "Julebanko"
           ]
         }
       },
@@ -295,17 +300,18 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 123,
-      "kept": 120,
-      "fetched": 127,
+      "raw": 125,
+      "kept": 122,
+      "fetched": 130,
       "discovered": null,
       "rejects": {
-        "non-musical": 4,
+        "non-musical": 5,
         "_samples": {
           "non-musical": [
             "Comedy Ballroom",
             "TINA - The Tina Turner Musical",
             "Mens Vi Strikker",
+            "Comedy Ballroom 2027",
             "Frost - The Musical"
           ]
         }
@@ -318,12 +324,12 @@
       "city": "Vejle",
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
-      "raw": 149,
-      "kept": 146,
-      "fetched": 159,
+      "raw": 147,
+      "kept": 144,
+      "fetched": 158,
       "discovered": null,
       "rejects": {
-        "non-musical": 10,
+        "non-musical": 11,
         "_samples": {
           "non-musical": [
             "Comedy Ballroom 2026",
@@ -342,16 +348,16 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 375,
-      "kept": 203,
-      "fetched": 420,
+      "raw": 372,
+      "kept": 200,
+      "fetched": 417,
       "discovered": null,
       "rejects": {
         "non-musical": 45,
         "_samples": {
           "non-musical": [
             "Teaterbøtten Kulturnat",
-            "Frensk Brocante Loppemarked",
+            "Fransk Brocante Loppemarked",
             "Familieyoga med Jacqueline",
             "BLÅ - Udstilling af BGK Artlab",
             "I ORKANENS ØJE – højaktuelt foredrag med Steffen Kretz"
@@ -366,8 +372,8 @@
       "city": "København",
       "adapter": "html-event",
       "host": "drkoncerthuset.dk",
-      "raw": 141,
-      "kept": 141,
+      "raw": 135,
+      "kept": 135,
       "fetched": 320,
       "discovered": 320,
       "rejects": {
@@ -392,7 +398,7 @@
             "Kom og syng - Mozarts Requiem - Workshop | DR Vokalensemblet | Køb bil"
           ]
         },
-        "already-happened": 171,
+        "already-happened": 177,
         "non-musical": 4,
         "duplicate": 1
       },
@@ -404,10 +410,10 @@
       "city": "København",
       "adapter": "html-event",
       "host": "alicecph.com",
-      "raw": 46,
-      "kept": 46,
-      "fetched": 47,
-      "discovered": 47,
+      "raw": 45,
+      "kept": 45,
+      "fetched": 46,
+      "discovered": 46,
       "rejects": {
         "section-page": 1,
         "_samples": {
@@ -424,24 +430,17 @@
       "city": "Aarhus",
       "adapter": "html-event",
       "host": "train.dk",
-      "raw": 115,
-      "kept": 114,
+      "raw": 119,
+      "kept": 118,
       "fetched": 120,
-      "discovered": 141,
+      "discovered": 131,
       "rejects": {
-        "date-not-confident": 4,
+        "section-page": 1,
         "_samples": {
-          "date-not-confident": [
-            "Zar Paulo → 2027-09-12 (0.7)",
-            "Grobund → 2027-09-13 (0.7)",
-            "Dayyani → 2027-09-13 (0.7)",
-            "Josiah Queen Support: Strings & Heart → 2026-09-15 (0.7)"
-          ],
           "section-page": [
             "Kalender"
           ]
-        },
-        "section-page": 1
+        }
       },
       "error": null
     },
@@ -469,5 +468,5 @@
       "error": null
     }
   ],
-  "elapsedSeconds": 759
+  "elapsedSeconds": 795
 }
