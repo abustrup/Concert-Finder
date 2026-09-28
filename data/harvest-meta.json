@@ -1,51 +1,41 @@
 {
-  "generatedAt": "2026-09-21T11:02:49.120Z",
-  "runner": "github-actions/35590778411",
+  "generatedAt": "2026-09-28T11:59:55.325Z",
+  "runner": "github-actions/36417705123",
   "window": {
-    "from": "2026-09-21",
-    "to": "2027-10-26",
+    "from": "2026-09-28",
+    "to": "2027-11-02",
     "horizonDays": 400
   },
   "counts": {
     "events": 1881,
     "sources": 18,
     "sourcesWithEvents": 18,
-    "artists": 2260,
+    "artists": 2268,
     "venues": 18,
-    "withTicketUrl": 342,
-    "tributeFlagged": 17
+    "withTicketUrl": 341,
+    "tributeFlagged": 18
   },
   "dropped": {
-    "past": 858,
+    "past": 864,
     "beyondHorizon": 4,
     "cancelled": 2,
     "postponed": 0,
     "duplicate": 53,
-    "recurring": 141
+    "recurring": 138
   },
   "recurringRemoved": [
     {
       "title": "læderværksted",
       "venue": "sonderborghus",
-      "times": 27
+      "times": 25
     },
     {
       "title": "åben legestue (0-3 år)",
       "venue": "sonderborghus",
-      "times": 13
-    },
-    {
-      "title": "fælleslæsning - et åndehul i hverdagen",
-      "venue": "kulturvaerftet",
-      "times": 13
-    },
-    {
-      "title": "torsdagsgarn",
-      "venue": "sonderborghus",
       "times": 12
     },
     {
-      "title": "croquis tegning",
+      "title": "fælleslæsning - et åndehul i hverdagen",
       "venue": "kulturvaerftet",
       "times": 12
     },
@@ -55,9 +45,14 @@
       "times": 12
     },
     {
-      "title": "lørdagsjazzen",
-      "venue": "gimle",
-      "times": 10
+      "title": "torsdagsgarn",
+      "venue": "sonderborghus",
+      "times": 11
+    },
+    {
+      "title": "croquis tegning",
+      "venue": "kulturvaerftet",
+      "times": 11
     },
     {
       "title": "repair café",
@@ -70,13 +65,18 @@
       "times": 9
     },
     {
-      "title": "pop-op tirsdag i lejligheden",
-      "venue": "kulturvaerftet",
-      "times": 7
+      "title": "lørdagsjazzen",
+      "venue": "gimle",
+      "times": 9
     },
     {
-      "title": "croquis",
-      "venue": "sonderborghus",
+      "title": "åben insta - åben tirsdag",
+      "venue": "kulturvaerftet",
+      "times": 6
+    },
+    {
+      "title": "pop-op tirsdag i lejligheden",
+      "venue": "kulturvaerftet",
       "times": 6
     },
     {
@@ -85,14 +85,19 @@
       "times": 6
     },
     {
+      "title": "croquis",
+      "venue": "sonderborghus",
+      "times": 5
+    },
+    {
       "title": "mad &#038; mennesker",
       "venue": "kulturvaerftet",
       "times": 5
     }
   ],
   "http": {
-    "requests": 3027,
-    "bytes": 465265592,
+    "requests": 3044,
+    "bytes": 465707457,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -103,8 +108,8 @@
       "city": "København",
       "adapter": "jsonld-page",
       "host": "loppen.dk",
-      "raw": 47,
-      "kept": 47,
+      "raw": 48,
+      "kept": 48,
       "fetched": 2,
       "discovered": null,
       "rejects": {},
@@ -116,8 +121,8 @@
       "city": "Frederiksberg",
       "adapter": "jsonld-page",
       "host": "kbhallen.dk",
-      "raw": 33,
-      "kept": 33,
+      "raw": 35,
+      "kept": 35,
       "fetched": 1,
       "discovered": null,
       "rejects": {},
@@ -129,12 +134,12 @@
       "city": "København",
       "adapter": "next-data",
       "host": "vega.dk",
-      "raw": 202,
-      "kept": 182,
+      "raw": 193,
+      "kept": 177,
       "fetched": 259,
       "discovered": 260,
       "rejects": {
-        "no-next-events": 186,
+        "no-next-events": 188,
         "http-404": 2
       },
       "error": null
@@ -146,7 +151,7 @@
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
       "raw": 248,
-      "kept": 39,
+      "kept": 40,
       "fetched": 250,
       "discovered": 250,
       "rejects": {
@@ -160,9 +165,9 @@
       "city": "Aarhus",
       "adapter": "wp-rest",
       "host": "voxhall.dk",
-      "raw": 445,
-      "kept": 85,
-      "fetched": 445,
+      "raw": 449,
+      "kept": 87,
+      "fetched": 449,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -173,9 +178,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 73,
-      "kept": 70,
-      "fetched": 73,
+      "raw": 77,
+      "kept": 73,
+      "fetched": 77,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -188,15 +193,14 @@
       "host": "dexter.dk",
       "raw": 134,
       "kept": 130,
-      "fetched": 137,
+      "fetched": 136,
       "discovered": null,
       "rejects": {
-        "non-musical": 3,
+        "non-musical": 2,
         "_samples": {
           "non-musical": [
             "Dexters Musikquiz",
-            "Kassettebåndsmusikquiz",
-            "Dexters Musikquiz"
+            "Kassettebåndsmusikquiz"
           ]
         }
       },
@@ -209,7 +213,7 @@
       "adapter": "wp-rest",
       "host": "skraaen.dk",
       "raw": 482,
-      "kept": 352,
+      "kept": 347,
       "fetched": 500,
       "discovered": null,
       "rejects": {
@@ -232,9 +236,9 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "tobakken.dk",
-      "raw": 60,
-      "kept": 57,
-      "fetched": 61,
+      "raw": 63,
+      "kept": 60,
+      "fetched": 64,
       "discovered": null,
       "rejects": {
         "non-musical": 1,
@@ -252,19 +256,19 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 166,
-      "kept": 162,
-      "fetched": 189,
+      "raw": 161,
+      "kept": 157,
+      "fetched": 184,
       "discovered": null,
       "rejects": {
         "non-musical": 23,
         "_samples": {
           "non-musical": [
             "Syfællesskab",
-            "Syfællesskab",
             "DM I STAND-UP 2026",
             "Workshop: Glasur pop-up",
-            "Syfællesskab"
+            "Syfællesskab",
+            "Workshop: Glasur POP-UP"
           ]
         }
       },
@@ -276,9 +280,9 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 101,
-      "kept": 96,
-      "fetched": 109,
+      "raw": 102,
+      "kept": 97,
+      "fetched": 110,
       "discovered": null,
       "rejects": {
         "non-musical": 8,
@@ -300,9 +304,9 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 125,
-      "kept": 122,
-      "fetched": 130,
+      "raw": 124,
+      "kept": 120,
+      "fetched": 129,
       "discovered": null,
       "rejects": {
         "non-musical": 5,
@@ -324,9 +328,9 @@
       "city": "Vejle",
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
-      "raw": 147,
-      "kept": 144,
-      "fetched": 158,
+      "raw": 143,
+      "kept": 140,
+      "fetched": 154,
       "discovered": null,
       "rejects": {
         "non-musical": 11,
@@ -348,19 +352,19 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 372,
-      "kept": 200,
-      "fetched": 417,
+      "raw": 385,
+      "kept": 211,
+      "fetched": 427,
       "discovered": null,
       "rejects": {
-        "non-musical": 45,
+        "non-musical": 42,
         "_samples": {
           "non-musical": [
-            "Teaterbøtten Kulturnat",
             "Fransk Brocante Loppemarked",
             "Familieyoga med Jacqueline",
-            "BLÅ - Udstilling af BGK Artlab",
-            "I ORKANENS ØJE – højaktuelt foredrag med Steffen Kretz"
+            "I ORKANENS ØJE – højaktuelt foredrag med Steffen Kretz",
+            "Foredrag med Nikolaj Jacobsen - Hos mig gør man sig umage",
+            "Aftryk af Byen - Billedskolen udstilling"
           ]
         }
       },
@@ -372,8 +376,8 @@
       "city": "København",
       "adapter": "html-event",
       "host": "drkoncerthuset.dk",
-      "raw": 135,
-      "kept": 135,
+      "raw": 129,
+      "kept": 129,
       "fetched": 320,
       "discovered": 320,
       "rejects": {
@@ -398,7 +402,7 @@
             "Kom og syng - Mozarts Requiem - Workshop | DR Vokalensemblet | Køb bil"
           ]
         },
-        "already-happened": 177,
+        "already-happened": 183,
         "non-musical": 4,
         "duplicate": 1
       },
@@ -433,7 +437,7 @@
       "raw": 119,
       "kept": 118,
       "fetched": 120,
-      "discovered": 131,
+      "discovered": 133,
       "rejects": {
         "section-page": 1,
         "_samples": {
@@ -468,5 +472,5 @@
       "error": null
     }
   ],
-  "elapsedSeconds": 795
+  "elapsedSeconds": 776
 }
