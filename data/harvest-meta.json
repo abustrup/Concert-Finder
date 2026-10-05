@@ -1,63 +1,58 @@
 {
-  "generatedAt": "2026-09-28T11:59:55.325Z",
-  "runner": "github-actions/36417705123",
+  "generatedAt": "2026-10-05T12:32:53.175Z",
+  "runner": "github-actions/37309032692",
   "window": {
-    "from": "2026-09-28",
-    "to": "2027-11-02",
+    "from": "2026-10-05",
+    "to": "2027-11-09",
     "horizonDays": 400
   },
   "counts": {
-    "events": 1881,
+    "events": 1829,
     "sources": 18,
     "sourcesWithEvents": 18,
-    "artists": 2268,
+    "artists": 2213,
     "venues": 18,
-    "withTicketUrl": 341,
-    "tributeFlagged": 18
+    "withTicketUrl": 347,
+    "tributeFlagged": 19
   },
   "dropped": {
-    "past": 864,
-    "beyondHorizon": 4,
-    "cancelled": 2,
+    "past": 866,
+    "beyondHorizon": 10,
+    "cancelled": 3,
     "postponed": 0,
-    "duplicate": 53,
-    "recurring": 138
+    "duplicate": 4,
+    "recurring": 125
   },
   "recurringRemoved": [
     {
       "title": "læderværksted",
       "venue": "sonderborghus",
-      "times": 25
+      "times": 21
     },
     {
       "title": "åben legestue (0-3 år)",
       "venue": "sonderborghus",
-      "times": 12
+      "times": 11
     },
     {
       "title": "fælleslæsning - et åndehul i hverdagen",
       "venue": "kulturvaerftet",
-      "times": 12
+      "times": 11
     },
     {
       "title": "spil3000 - brætspil for alle",
       "venue": "kulturvaerftet",
-      "times": 12
+      "times": 11
     },
     {
       "title": "torsdagsgarn",
       "venue": "sonderborghus",
-      "times": 11
+      "times": 10
     },
     {
       "title": "croquis tegning",
       "venue": "kulturvaerftet",
-      "times": 11
-    },
-    {
-      "title": "repair café",
-      "venue": "sonderborghus",
-      "times": 9
+      "times": 10
     },
     {
       "title": "broderi-fællesskab",
@@ -65,22 +60,17 @@
       "times": 9
     },
     {
-      "title": "lørdagsjazzen",
-      "venue": "gimle",
-      "times": 9
+      "title": "repair café",
+      "venue": "sonderborghus",
+      "times": 8
     },
     {
-      "title": "åben insta - åben tirsdag",
-      "venue": "kulturvaerftet",
-      "times": 6
+      "title": "lørdagsjazzen",
+      "venue": "gimle",
+      "times": 8
     },
     {
       "title": "pop-op tirsdag i lejligheden",
-      "venue": "kulturvaerftet",
-      "times": 6
-    },
-    {
-      "title": "kuto studio",
       "venue": "kulturvaerftet",
       "times": 6
     },
@@ -90,14 +80,24 @@
       "times": 5
     },
     {
+      "title": "åben insta - åben tirsdag",
+      "venue": "kulturvaerftet",
+      "times": 5
+    },
+    {
       "title": "mad &#038; mennesker",
+      "venue": "kulturvaerftet",
+      "times": 5
+    },
+    {
+      "title": "kuto studio",
       "venue": "kulturvaerftet",
       "times": 5
     }
   ],
   "http": {
-    "requests": 3044,
-    "bytes": 465707457,
+    "requests": 2949,
+    "bytes": 435486562,
     "errors": 0,
     "robotsSkips": 0
   },
@@ -108,8 +108,8 @@
       "city": "København",
       "adapter": "jsonld-page",
       "host": "loppen.dk",
-      "raw": 48,
-      "kept": 48,
+      "raw": 51,
+      "kept": 51,
       "fetched": 2,
       "discovered": null,
       "rejects": {},
@@ -134,13 +134,13 @@
       "city": "København",
       "adapter": "next-data",
       "host": "vega.dk",
-      "raw": 193,
+      "raw": 192,
       "kept": 177,
-      "fetched": 259,
+      "fetched": 260,
       "discovered": 260,
       "rejects": {
-        "no-next-events": 188,
-        "http-404": 2
+        "no-next-events": 186,
+        "http-404": 1
       },
       "error": null
     },
@@ -151,7 +151,7 @@
       "adapter": "sitemap-jsonld",
       "host": "stengade.dk",
       "raw": 248,
-      "kept": 40,
+      "kept": 39,
       "fetched": 250,
       "discovered": 250,
       "rejects": {
@@ -165,9 +165,9 @@
       "city": "Aarhus",
       "adapter": "wp-rest",
       "host": "voxhall.dk",
-      "raw": 449,
-      "kept": 87,
-      "fetched": 449,
+      "raw": 451,
+      "kept": 85,
+      "fetched": 451,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -178,9 +178,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "postenlive.dk",
-      "raw": 77,
-      "kept": 73,
-      "fetched": 77,
+      "raw": 78,
+      "kept": 75,
+      "fetched": 78,
       "discovered": null,
       "rejects": {},
       "error": null
@@ -191,9 +191,9 @@
       "city": "Odense",
       "adapter": "wp-rest",
       "host": "dexter.dk",
-      "raw": 134,
-      "kept": 130,
-      "fetched": 136,
+      "raw": 128,
+      "kept": 125,
+      "fetched": 130,
       "discovered": null,
       "rejects": {
         "non-musical": 2,
@@ -213,7 +213,7 @@
       "adapter": "wp-rest",
       "host": "skraaen.dk",
       "raw": 482,
-      "kept": 347,
+      "kept": 346,
       "fetched": 500,
       "discovered": null,
       "rejects": {
@@ -256,19 +256,19 @@
       "city": "Sønderborg",
       "adapter": "wp-rest",
       "host": "sonderborghus.dk",
-      "raw": 161,
-      "kept": 157,
-      "fetched": 184,
+      "raw": 154,
+      "kept": 150,
+      "fetched": 179,
       "discovered": null,
       "rejects": {
-        "non-musical": 23,
+        "non-musical": 25,
         "_samples": {
           "non-musical": [
-            "Syfællesskab",
-            "DM I STAND-UP 2026",
             "Workshop: Glasur pop-up",
             "Syfællesskab",
-            "Workshop: Glasur POP-UP"
+            "Workshop: Glasur POP-UP",
+            "Smykkeskåle Workshop// 19.10 & 26.10",
+            "Filmklubben Sønderborghus // It was just an accident"
           ]
         }
       },
@@ -280,19 +280,19 @@
       "city": "Roskilde",
       "adapter": "wp-rest",
       "host": "gimle.dk",
-      "raw": 102,
-      "kept": 97,
-      "fetched": 110,
+      "raw": 100,
+      "kept": 95,
+      "fetched": 107,
       "discovered": null,
       "rejects": {
-        "non-musical": 8,
+        "non-musical": 7,
         "_samples": {
           "non-musical": [
-            "Comedy Club",
             "SØNDAG - underfundigt børneteater",
             "Comedy Club",
             "Comedy Club",
-            "Julebanko"
+            "Julebanko",
+            "Comedy Club"
           ]
         }
       },
@@ -304,19 +304,19 @@
       "city": "Esbjerg",
       "adapter": "wp-rest",
       "host": "mhe.dk",
-      "raw": 124,
-      "kept": 120,
+      "raw": 123,
+      "kept": 119,
       "fetched": 129,
       "discovered": null,
       "rejects": {
-        "non-musical": 5,
+        "non-musical": 6,
         "_samples": {
           "non-musical": [
+            "Yoga med livemusik",
             "Comedy Ballroom",
             "TINA - The Tina Turner Musical",
             "Mens Vi Strikker",
-            "Comedy Ballroom 2027",
-            "Frost - The Musical"
+            "Comedy Ballroom 2027"
           ]
         }
       },
@@ -329,18 +329,18 @@
       "adapter": "wp-rest",
       "host": "vejlemusikteater.dk",
       "raw": 143,
-      "kept": 140,
-      "fetched": 154,
+      "kept": 138,
+      "fetched": 152,
       "discovered": null,
       "rejects": {
-        "non-musical": 11,
+        "non-musical": 9,
         "_samples": {
           "non-musical": [
-            "Comedy Ballroom 2026",
-            "Danmarks Største Konfirmationsevent",
             "TINA -The Tina Turner Musical",
             "Stupid Man The Musical",
-            "Julesangaften med Jakob Bonderup og Roland Christiansen"
+            "Julesangaften med Jakob Bonderup og Roland Christiansen",
+            "Foredrag med landstræner Nikolaj Jacobsen",
+            "JOYRIDE - The Musical"
           ]
         }
       },
@@ -352,19 +352,19 @@
       "city": "Helsingør",
       "adapter": "wp-rest",
       "host": "kuto.dk",
-      "raw": 385,
-      "kept": 211,
-      "fetched": 427,
+      "raw": 305,
+      "kept": 176,
+      "fetched": 347,
       "discovered": null,
       "rejects": {
         "non-musical": 42,
         "_samples": {
           "non-musical": [
+            "Pokémon Julemarked",
             "Fransk Brocante Loppemarked",
             "Familieyoga med Jacqueline",
             "I ORKANENS ØJE – højaktuelt foredrag med Steffen Kretz",
-            "Foredrag med Nikolaj Jacobsen - Hos mig gør man sig umage",
-            "Aftryk af Byen - Billedskolen udstilling"
+            "Foredrag med Nikolaj Jacobsen - Hos mig gør man sig umage"
           ]
         }
       },
@@ -376,8 +376,8 @@
       "city": "København",
       "adapter": "html-event",
       "host": "drkoncerthuset.dk",
-      "raw": 129,
-      "kept": 129,
+      "raw": 118,
+      "kept": 118,
       "fetched": 320,
       "discovered": 320,
       "rejects": {
@@ -402,7 +402,7 @@
             "Kom og syng - Mozarts Requiem - Workshop | DR Vokalensemblet | Køb bil"
           ]
         },
-        "already-happened": 183,
+        "already-happened": 194,
         "non-musical": 4,
         "duplicate": 1
       },
@@ -414,10 +414,10 @@
       "city": "København",
       "adapter": "html-event",
       "host": "alicecph.com",
-      "raw": 45,
-      "kept": 45,
-      "fetched": 46,
-      "discovered": 46,
+      "raw": 43,
+      "kept": 43,
+      "fetched": 44,
+      "discovered": 44,
       "rejects": {
         "section-page": 1,
         "_samples": {
@@ -437,7 +437,7 @@
       "raw": 119,
       "kept": 118,
       "fetched": 120,
-      "discovered": 133,
+      "discovered": 135,
       "rejects": {
         "section-page": 1,
         "_samples": {
@@ -454,23 +454,27 @@
       "city": "København",
       "adapter": "html-event",
       "host": "pumpehuset.dk",
-      "raw": 5,
-      "kept": 5,
+      "raw": 4,
+      "kept": 4,
       "fetched": 9,
       "discovered": 9,
       "rejects": {
-        "section-page": 4,
+        "date-not-confident": 1,
         "_samples": {
+          "date-not-confident": [
+            "Mocheeba giver koncert i Pumpehuset → 2027-04-26 (0.7)"
+          ],
           "section-page": [
             "Koncerter Archive",
-            "Koncerter Archive - Side 2 af 351",
+            "Koncerter Archive - Side 2 af 352",
             "Koncerter Archive",
             "Koncerter Archive"
           ]
-        }
+        },
+        "section-page": 4
       },
       "error": null
     }
   ],
-  "elapsedSeconds": 776
+  "elapsedSeconds": 636
 }
